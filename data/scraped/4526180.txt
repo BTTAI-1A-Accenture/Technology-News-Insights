@@ -1,0 +1,21 @@
+Updated on 4pm, Feb 9th: Adding Zeal’s funding method, as colored in red. Some of our readers may recall that we have covered Tokyo- / Taipei-based HitoBito=人々 (and its Taiwan branch Bande=邦徳), the Japanese/Taiwanese startup behind the ChiChat chat-based marketing platform, when they secured a seed round back in December of 2019. The company was founded in 2015 by Masaya Ishikawa=石川真也, who was involved in launching the digital marketing business at Softbank Mobile and has experience in digital marketing project management for largest distribution companies. In his seed round announcement, Ishikawa said his team was offering chat-based marketing support on social network services for Japanese e-commerce companies in Taiwan and Thailand, and was looking to expand into mainland China with WeChat support. HitoBito was no exception in receiving the impact by the COVID-19 pandemic. As the World Health Organization and Japan’s Health Ministry first reported pneumonia of unknown cause in Wuhan, China, in January of 2020, meaning that HitoBito were caught up in the global chaos immediately after securing the seed round. HitoBito’s sales from the cross-border commerce sector has decreased by 70% as not only human traffic was restricted but also logistics became severely disrupted. Facing such a difficulty, Ishikawa decided to shut down his company’s Thai subsidiary and settle down in Taipei to focus his chat marketing business on serving the Taiwanese market. In
+the first year (2020) after the decision, the company initially focused
+on Japanese companies in Taiwan. And then in 2021, they could obtain
+more clients thanks to partnership with Taiwan’s largest retail
+conglomerate Uni-President Group (統一集団) which eventually led to having
+150 clients to date in Taiwan alone. In 2022, the company started
+serving companies in Japan from Taiwan-based operations. In addition to
+the chatbot mechanism, the company also hires Japanese staff in Taiwan
+to follow up on the chatbots, making it possible to operate the service
+with one-fourth the man-hours compared to non-AI powered chat marketing
+tools operated in Japan. HitoBito announced on Friday that it has secured a series A round. Participating investors are GxPartners, Star to Asia (亞星通), MTG Ventures, MicroAd (TSE:9553), XCAPITAL, Globis University’s Graduate School of Management, and AIX Tech Ventures. Star to Asia is also one of the local partners mentioned above while MTG Ventures follows their previous investment in a seed round. The amount secured in this round has not yet been disclosed but is supposedly estimated to be around 200-300 million Japanese yen (about $1.6-2.3 million US) according to sources. The Series A round appears not to have been closed yet, and more investors may be added later on. In the
+future, HitoBito plan to make ChiChat available in English in addition
+to Chinese and Japanese languages. The company is expanding into
+Singapore to tap into Southeast Asian companies running chat commerce
+businesses. In the Japanese market, the company will strengthen sales of
+the tool in partnership with digital marketing companies, including
+MicroAd, which has been named as one of the investors in this round. As
+many browsers have blocked or will do cookies, companies are looking for
+new online marketing methods, and ChiChat, which helps marketing on
+Line and other messaging platforms, is a convenient way to engage with
+users. Potential competitors to HitoBito in the Japanese market may include Zeals and Chatbook. Zeals postponed its IPO but announced a US expansion with securing 5 billion Japanese yen (over $38 million US) in equity and debt in May while Chatbook was acquired by Monex Group (TSE:8698) in July. HitoBito plans to further enhance its service and competitiveness by advancing its AI-based generative technology, such as a system allowing users to create banners just by specifying target customers and entering description and images.

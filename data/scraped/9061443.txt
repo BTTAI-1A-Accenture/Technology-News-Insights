@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Business Wire IndiaSonarSource, the leading provider of Clean Code solution, today launched SonarQube 9.9 Long-Term Support (LTS). The new release empowers organizations to achieve the Clean Code state quickly, securely, and at scale. With accelerated pull request analysis, support for building and deploying secure cloud-native applications, sophisticated enterprise-grade capabilities, and many innovations related to the detection engine and contextual education, SonarQube 9.9 LTS supercharges organizations to deliver new business value and keep their software a long-term asset.
+ 
+
+“Sonar has greatly helped us benchmark and standardize the quality of our codebase - and the LTS makes it much easier for us to deliver Clean Code. The integration with Azure DevOps from a project-to-project perspective as well as the token lifecycle management will be greatly appreciated by our admins and will help streamline our process,” said Stefan Euripidou, Enterprise Architect for DevOps and CICD at Vodafone Group.
+ 
+
+Clean Code is essential for every organization competing in today’s digital-driven economy. Poor quality software costs businesses over $2 trillion a year in the US alone, hampering service quality, brand reputation, worker productivity, and employee retention. Code is the difference between good and bad software. Sonar’s latest 9.9 LTS release introduces key capabilities to enable enterprises to build better software in a sustained manner.
+ 
+
+“Our mission is to equip organizations with the solution and methodology to achieve a state of Clean Code, making all code fit for development and production. When companies embrace Clean Code practices, they can derive more from their software, minimize risks, and ensure that their software continues to stay valuable,” said Olivier Gaudin, Founder and CEO of SonarSource. “SonarQube 9.9 LTS was designed to not only provide immediate value to our users for their current development but to steadily drive organizations toward a state of Clean Code in a way that’s predictable, reliable, and sustainable.”
+ 
+
+Key release innovations
+ 
+
+Pull Request Analyzed in Minutes
+ 
+
+SonarQube 9.9 LTS provides a significant speed boost for Pull Request (PR) analysis. PRs are now analyzed more than twice as fast, while still providing the same high-precision results. With the implementation of incremental analysis and server-side caching, analysis is more efficient. As developers write and commit code, Pull Request analysis is an important step in merging new code changes to the main branch. Faster analysis means a more efficient software development lifecycle, as developers spend less time waiting and more time delivering business critical features.
+ 
+
+Secure Cloud Native Applications
+ 
+
+As applications move to the cloud, organizations must ensure the security of not only the source code, but also their configuration files and deployments. SonarQube 9.9 LTS delivers in-depth analysis capabilities to detect ‘secrets’ in code, bad practices, and vulnerabilities so that developers can build and deploy secure cloud native applications. The release adds support for major cloud providers – AWS, Google Cloud, Microsoft Azure, and their underlying technologies – serverless and SAM frameworks, AWS Cloud Development Kit, Infrastructure-as-Code tools (Terraform and Cloudformation), and containerization tools with Kubernetes and Docker. With these additions, organizations can be sure that their cloud native apps are as secure as their traditional on-prem apps.
+
+ 
+
+Enterprise-grade features for Coding at Scale
+ 
+
+SonarQube 9.9 LTS introduces stronger access management, administration, governance, and reporting capabilities, enabling organizations to better manage the security and administration of their SonarQube instance and their portfolio of code assets. Chief among these new features are advanced security and compliance reporting, project and portfolio reporting, secure token handling, SCIM integration for user management, and more. Customers using the Data Center Edition can now deploy SonarQube clusters with Kubernetes. Together, these reporting, authentication and operational improvements make it easier to use, secure, and manage SonarQube instances than ever before.
+ 
+
+“The latest SonarQube release introduces a variety of critical new features. Not only will we benefit from the new Terraform scan support, but we will also use the enhanced reporting and administration capabilities to strengthen our Quality Gates and streamline communication efforts,” said Vojtech Varga, Service Manager at Siemens AG. “Sonar’s LTS is an opportunity for us to access the latest fixes and features to ensure that we continue to operate with the highest-quality code.”
+ 
+
+Increased Detection of all Issue Types; Rich Educational Guidance
+ 
+
+Continued innovation in the detection engine allows for improved precision, speed, accuracy, and coverage of all issue types. Users can find and fix more issues in their code. And this LTS release brings in rich educational content to make taint analysis rules easy to understand and contextual to the users’ code and framework – continuing the advancement of the company’s education initiative.
+ 
+
+Clean as You Code, the Sustainable Approach to Clean Code
+ 
+
+Sonar is a strong proponent of deploying compliant quality gates that will progressively drive organizations to reach a state of Clean Code. This LTS release adds enhancements to the quality gate user experience to help everyone implement and practice Clean as You Code. Quality gates that are not compliant with this methodology can be easily identified and updated.
+ 
+
+SonarQube 9.9 LTS is now available for everyone. Read more in the full release announcement and download the LTS for your edition here.
+ 
+
+About SonarSource
+ 
+
+Sonar empowers developers and organizations to systematically achieve a state of Clean Code so that all code is fit for development and production. By applying the Sonar Clean as You Code methodology, organizations minimize risk, reduce technical debt, and derive more value from their software in a predictable and sustainable way.
+ 
+
+The open source and commercial Sonar solution – SonarLint, SonarCloud, and SonarQube – supports over 30 programming languages, frameworks, and infrastructure technologies. Trusted by more than 400,000 organizations globally to clean more than half a trillion lines of code, Sonar is integral to delivering better software.
+ 
+
+To learn more about SonarSource, please visit https://www.sonarsource.com/company/about/.
+ 
+
+
+ 
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230207005514/en/
+ SonarSource, the leading provider of Clean Code solution, today launched SonarQube 9.9 Long-Term Support (LTS). The new release empowers organizations to achieve the Clean Code state quickly, securely, and at scale. With accelerated pull request analysis, support for building and deploying secure cloud-native applications, sophisticated enterprise-grade capabilities, and many innovations related to the detection engine and contextual education, SonarQube 9.9 LTS supercharges organizations to deliver new business value and keep their software a long-term asset. “Sonar has greatly helped us benchmark and standardize the quality of our codebase - and the LTS makes it much easier for us to deliver Clean Code. The integration with Azure DevOps from a project-to-project perspective as well as the token lifecycle management will be greatly appreciated by our admins and will help streamline our process,” said Stefan Euripidou, Enterprise Architect for DevOps and CICD at Vodafone Group. Clean Code is essential for every organization competing in today’s digital-driven economy. Poor quality software costs businesses over $2 trillion a year in the US alone, hampering service quality, brand reputation, worker productivity, and employee retention. Code is the difference between good and bad software. Sonar’s latest 9.9 LTS release introduces key capabilities to enable enterprises to build better software in a sustained manner. “Our mission is to equip organizations with the solution and methodology to achieve a state of Clean Code, making all code fit for development and production. When companies embrace Clean Code practices, they can derive more from their software, minimize risks, and ensure that their software continues to stay valuable,” said Olivier Gaudin, Founder and CEO of SonarSource. “SonarQube 9.9 LTS was designed to not only provide immediate value to our users for their current development but to steadily drive organizations toward a state of Clean Code in a way that’s predictable, reliable, and sustainable.” Key release innovations Pull Request Analyzed in Minutes SonarQube 9.9 LTS provides a significant speed boost for Pull Request (PR) analysis. PRs are now analyzed more than twice as fast, while still providing the same high-precision results. With the implementation of incremental analysis and server-side caching, analysis is more efficient. As developers write and commit code, Pull Request analysis is an important step in merging new code changes to the main branch. Faster analysis means a more efficient software development lifecycle, as developers spend less time waiting and more time delivering business critical features. Secure Cloud Native Applications As applications move to the cloud, organizations must ensure the security of not only the source code, but also their configuration files and deployments. SonarQube 9.9 LTS delivers in-depth analysis capabilities to detect ‘secrets’ in code, bad practices, and vulnerabilities so that developers can build and deploy secure cloud native applications. The release adds support for major cloud providers – AWS, Google Cloud, Microsoft Azure, and their underlying technologies – serverless and SAM frameworks, AWS Cloud Development Kit, Infrastructure-as-Code tools (Terraform and Cloudformation), and containerization tools with Kubernetes and Docker. With these additions, organizations can be sure that their cloud native apps are as secure as their traditional on-prem apps. Enterprise-grade features for Coding at Scale SonarQube 9.9 LTS introduces stronger access management, administration, governance, and reporting capabilities, enabling organizations to better manage the security and administration of their SonarQube instance and their portfolio of code assets. Chief among these new features are advanced security and compliance reporting, project and portfolio reporting, secure token handling, SCIM integration for user management, and more. Customers using the Data Center Edition can now deploy SonarQube clusters with Kubernetes. Together, these reporting, authentication and operational improvements make it easier to use, secure, and manage SonarQube instances than ever before. “The latest SonarQube release introduces a variety of critical new features. Not only will we benefit from the new Terraform scan support, but we will also use the enhanced reporting and administration capabilities to strengthen our Quality Gates and streamline communication efforts,” said Vojtech Varga, Service Manager at Siemens AG. “Sonar’s LTS is an opportunity for us to access the latest fixes and features to ensure that we continue to operate with the highest-quality code.” Increased Detection of all Issue Types; Rich Educational Guidance Continued innovation in the detection engine allows for improved precision, speed, accuracy, and coverage of all issue types. Users can find and fix more issues in their code. And this LTS release brings in rich educational content to make taint analysis rules easy to understand and contextual to the users’ code and framework – continuing the advancement of the company’s education initiative. Clean as You Code, the Sustainable Approach to Clean Code Sonar is a strong proponent of deploying compliant quality gates that will progressively drive organizations to reach a state of Clean Code. This LTS release adds enhancements to the quality gate user experience to help everyone implement and practice Clean as You Code. Quality gates that are not compliant with this methodology can be easily identified and updated. SonarQube 9.9 LTS is now available for everyone. Read more in the full release announcement and download the LTS for your edition here. About SonarSource Sonar empowers developers and organizations to systematically achieve a state of Clean Code so that all code is fit for development and production. By applying the Sonar Clean as You Code methodology, organizations minimize risk, reduce technical debt, and derive more value from their software in a predictable and sustainable way. The open source and commercial Sonar solution – SonarLint, SonarCloud, and SonarQube – supports over 30 programming languages, frameworks, and infrastructure technologies. Trusted by more than 400,000 organizations globally to clean more than half a trillion lines of code, Sonar is integral to delivering better software. To learn more about SonarSource, please visit https://www.sonarsource.com/company/about/.  View source version on businesswire.com: https://www.businesswire.com/news/home/20230207005514/en/

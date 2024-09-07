@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.govinfosecurity.com', port=443): Max retries exceeded with url: /interviews/how-cyberattacks-affect-cisos-i-5225 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))

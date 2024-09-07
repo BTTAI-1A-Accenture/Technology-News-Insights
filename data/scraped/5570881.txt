@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://thebrunswicknews.com/news/business/michael-hiltzik-eli-lilly-is-slashing-insulin-prices-but-hold-your-applause/article_35f9016d-3e56-5e0a-9daa-06a3586a380a.html

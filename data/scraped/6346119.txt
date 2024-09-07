@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.valdostadailytimes.com/ap/business/henry-schein-announces-400-million-share-repurchase-plan/article_12a7c204-b442-58fa-84cb-33c6d5c8ab5c.html

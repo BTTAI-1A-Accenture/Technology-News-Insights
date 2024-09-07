@@ -1,0 +1,28 @@
+
+Follow us  Share this article Improve this guide 
+
+4 min. read  
+
+
+Published on September 13, 2023
+
+ 
+
+published on 
+
+September 13, 2023 
+
+
+ Share this article Improve this guide 
+Read our disclosure page to find out how can you help Windows Report sustain the editorial team Read more
+ Many Microsoft-watchers – especially fans of OneNote – may reflect on the company’s application strategy over the last few years, as the initial push to Windows 8 “Modern” – not “Metro” – apps evolved into the Universal Windows Platform that could run on phones, PCs and other devices. Clearly, with the cancelling of Windows Mobile, things didn’t work out quite the way they were envisaged and UWP is all but dead. Microsoft itself dabbled with UWP in some areas (for a while offering slimmed down Office apps) but is now leading developers away from that specific model. At one stage, the venerable OneNote was dropped from the Office suite in favor of the Modern/Store/UWP app (into which all future developments would be put), confusingly also named “OneNote” but known during its life as some combo of “OneNote for Windows Store”, “OneNote Modern app” etc. Calling different things by the same name can cause confusion, but apart from Office, Skype, Teams, Xbox and a few others, Microsoft fortunately doesn’t have too much of this problem. The mobile app was eventually renamed “OneNote for Windows 10” yet is not the first controversy around the naming scheme for OneNote – during the original app’s development (as “Scribbler“, to be released as part of Office 2003), some of the engineering team so disliked the branding that marketing gave it, they referred to it disparagingly as “Onay-No-Tay“. In a later change of plan, it was revealed that the original OneNote would in fact be revived and all efforts would be going into that. The UWP app will finally go away in 2025, at the same time as Windows 10 goes out of support.  The traditional version of OneNote was repackaged and published in the Store (as “OneNote”), and although the UWP one is still there, it doesn’t show up in search results any more. Anyway, now that life is both breathed back into the old Win64 version of OneNote and it is the stated way forward, one positive is that, unlike in the UWP version, there is an addin framework so the base app can be extended. Not that addins are particularly numerous or even easy to find – there’s no “Addins” menu option in the OneNote app, and the AppSource product catalog only lists a handful. App developers can build and install their own addins as EXE files to be distributed and installed like any other program. OneTastic and its predecessor OneCalendar have been available for over a decade now, published as a side gig by Omer Atay from the OneNote product group. OneCalendar is especially useful as it shows you a list of which OneNote pages you have edited based on when you did so; if you routinely keep meeting notes in lots of different parts of one or multiple notebooks, it’s a lifesaver. Click on any of the short links on a given day, and it will jump to that particular page, in whichever section or notebook or hover the mouse to get a preview of that page, so it makes jumping back to the notes you took at last week’s meeting so easy. OneCalendar started life as a separate app to OneNote, and it can be installed and run separately if you don’t want any of the other stuff OneTastic brings. It is included as a menu option within OneTastic, and the wider suite includes a variety of other tools including a macro language which can automate OneNote. “Macroland” is a rich library of downloadable off-the-shelf macros to carry out functions that don’t exist in OneNote, like inserting a table of contents or doing more advanced table handling, sorting and the likes. There are some limits on downloading and usage of Macros in the free version, with commercial licensing available.  Everyone who considers themselves a heavy user of OneNote should check out OneTastic, especially for the OneCalendar function. Some of the macros will save you a lot of time if using OneNote in a collaborative setting, too, and given that it’s written by someone who’s been a long-time part of the OneNote engineering team, it’s the perfect way to fill in some of the gaps in functionality which presumably exist to try to keep OneNote simple and not overburdened with options. The Office mobile UWP versions of Word, Excel and PowerPoint are no longer discoverable in the Microsoft Store, but they’re still there (at least for now) if you feel like giving them a try. Go on, you know you want to … Similarly, the OneNote UWP version is still available in the Store.  
+Radu Tyrsina
+
+ 
+Radu Tyrsina has been a Windows fan ever since he got his first PC, a Pentium III (a monster at that time).
+For most of the kids of his age, the Internet was an amazing way to play and communicate with others, but he was deeply impressed by the flow of information and how easily you can find anything on the web.
+Prior to founding Windows Report, this particular curiosity about digital content enabled him to grow a number of sites that helped hundreds of millions reach faster the answer they're looking for.  
+Radu Tyrsina
+
+ Was this page helpful? Let us know if you managed to solve your tech problem reading this article. We’re happy to hear that! You can subscribe to our newsletter to stay up to date with the latest news and best deals! Do you have a suggestion? We know how frustrating could be to look for an universal solution. If you have an error which is not present in the article, or if you know a better solution, please help us to improve this guide.  Δ 
+Follow us 

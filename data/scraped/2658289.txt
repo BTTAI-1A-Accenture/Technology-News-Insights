@@ -1,0 +1,48 @@
+Sign up for our daily newsletter If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. The dust is slowly settling on the Apple vs. FBI case over iPhone encryption. Both parties got what they wanted for the time being, but the war is far from over. The Bureau used a third party’s help to break into the San Bernardino shooter’s iPhone, but there are countless other iPhones that are part of active criminal investigations that may contain important data. But for now, Apple doesn’t have to help unlock them. The sad side effect of iPhone encryption is that families might never be able to retrieve personal data from iPhones belonging to loved ones after they pass away. A murder case in Baton Rouge, La., involves such an iPhone, and it might contain details related to the incident.  DON’T MISS: Apple’s cheapest new iPhone ever might still be a bad deal
+
+
+
+
+
+
+
+
+
+
+ Pregnant and almost due, Barbara Mills was shot and killed in her home last April after opening the door for an unknown assailant. She was kept alive long enough so that doctors could perform an emergency C-section to try to save the baby. Sadly, the infant died a few days after being on a ventilator. Brittney left behind a 9-year-old daughter who’s now being raised by her grandparents, who still question why Apple won’t do anything to help the investigators in this case. A year later, the murder case remains open as police have not found the killer. “You still trying to protect consumers, but what about the victims who used your product?,” Barbara Mills’ mother told NPR. “They were faithful too. They paid their bills.”
+
+
+
+
+
+
+
+
+
+
+ Apple, meanwhile, helped police by providing iCloud data — some 15,000 pages worth of data from backups. But prosecutors couldn’t do anything with the data since the phone’s last backup was dated months before the murder. East Baton Rouge District Attorney Hillar Moore told Reuters that he is waiting to see whether the FBI can help in this matter, given that the Bureau unlocked the San Bernardino iPhone without Apple’s involvement. According to NPR, he’s been meeting with government officials and Apple for this particular case, in light of the San Bernardino investigation, looking to see whether anybody can help in this case. “The daughter heard someone knock on the door and heard her mom speak to somebody, who she was not able to identify. After the shots rang out is when the daughter ran for safety,” he said. “The critical thing is she opens the door. No gun left, no gun found. So we really are desperate to try to get into the phone, just to see if there’s anything else there.”
+
+
+
+
+
+
+
+
+
+
+ Messages retrieved from the iPhone could point the police toward a potential suspect. The iPhone in this investigation is an iPhone 5s running iOS 8, therefore it’s encrypted just like the San Bernardino iPhone. While Apple won’t break the encryption of this iPhone either, it’s not clear whether the FBI will help. A law enforcement official told NPR that it’s “premature to say,” but it’s “committed to helping” Moore. “Both of our understanding is that if they’re able to get into that phone, that they can probably get into Miss Mill’s phone which hopefully will benefit us, one way or the other,” Moore said about potential FBI involvement.
+
+
+
+
+
+
+
+
+
+
+ Regardless of what happens in this murder case, one thing is clear: You probably can’t expect Apple to unlock any iOS or Mac that belonged to a lost loved one. Sign up for the most interesting tech & entertainment news out there.        By signing up, I agree to the Terms of Use and have reviewed the Privacy Notice.   Chris Smith has been covering consumer electronics ever since the iPhone revolutionized the industry in 2008. When he’s not writing about the most recent tech news for BGR, he brings his entertainment expertise to Marvel’s Cinematic Universe and other blockbuster franchises. Outside of work, you’ll catch him streaming almost every new movie and TV show release as soon as it's available. Sign up for the most interesting tech & entertainment news out there. By signing up, I agree to the Terms of Use and have reviewed the Privacy Notice. BGR’s audience craves our industry-leading insights on the latest in tech and entertainment, as well as our authoritative and expansive reviews. We guide our loyal readers to some of the best products, latest trends, and most engaging stories with non-stop coverage, available across all major news platforms. Founded in 2006 Over 2 billion visitors 100K+ articles published Millions of readers helped 
+						Honest news coverage, reviews, and opinions since 2006. -
+						Jonathan S. Geller, Founder BGR is a part of Penske Media Corporation.
+© 2024 BGR Media, LLC. All Rights Reserved.

@@ -1,0 +1,41 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+AWS Makes it Simpler to Share ML Models and Notebooks with Amazon SageMaker JumpStart
+ Dec 20, 2022
+								
+								
+								
+									
+									1
+									min read
+								
+							 by 
+
+
+Daniel Dominguez
+
+ AWS announced that it is now easier to share machine learning artifacts like models and notebooks with other users using SageMaker JumpStart. Amazon SageMaker JumpStart is a machine learning hub that helps users accelerate their journey into the world of machine learning. It provides access to built-in algorithms and pre-trained models from popular model hubs, as well as pre-trained foundation models for tasks such as article summarization and image generation. SageMaker JumpStart offers end-to-end solutions to solve common use cases in machine learning. One of the key features is the ability to share machine learning artifacts, such as models and notebooks, with other users within the same AWS account. This makes it easy for data scientists and other team members to collaborate and increase productivity, as well as for operations teams to put models into production. A variety of built-in algorithms from model hubs like TensorFlow Hub, PyTorch Hub, HuggingFace, and MxNet GluonCV are available with SageMaker JumpStart. These algorithms address a range of machine learning applications, such as sentiment analysis and picture, text, and tabular data classification, and may be accessible using the SageMaker Python SDK. To share machine learning artifacts using SageMaker JumpStart, users can simply go to the Models tab in SageMaker Studio and select the "Shared models" and "Shared by my organization" options. This allows users to discover and search for machine learning artifacts that have been shared within their AWS account by other users. Additionally, users can add and share their own models and notebooks that have been developed using SageMaker or other tools. SageMaker JumpStart also provides access to large-scale machine learning models with billions of parameters, which can be used for tasks like article summarization and generating text, images, or videos. These pre-trained foundation models can help reduce training and infrastructure costs, as well as allowing for customization for a specific use case. By sharing machine learning models and notebooks, users can centralize model artifacts, make them more discoverable, and increase the reuse of models within an organization. Sharing models and notebooks can help to streamline collaboration and improve the efficiency of machine learning workflows. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

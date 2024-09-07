@@ -1,0 +1,47 @@
+   COMPANY NEWS: Cloudera, the hybrid data company, announced today that Cloudera Observability is now generally available for all customers using Cloudera Data Platform (CDP) on public or private cloud environments. The solution delivers new capabilities to the open data lakehouse implemented with CDP providing actionable insights for data, applications, and infrastructure components to optimise costs, automatically resolve issues, and improve performance. Financial governance and FinOps enable cost management across CDP to avoid budget overruns and allow capacity projections for planning purposes. The announcement was made at the analyst event The Six Five Summit now ongoing until 8 June 2023. “One of the biggest challenges for companies today when managing workloads operating in the cloud is to get a global view of spending on infrastructure and services,” said Cloudera CEO Rob Bearden. “With Cloudera Observability customers get unprecedented visibility into workload and resource utilisation to better control and automatically manage budget overruns, and improve performance.”  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hybrid and multi-cloud environments are the new de facto standard. With enterprise data stored both on premises and potentially across multiple public clouds, it becomes difficult to track and manage cloud consumption across various departments and cost centres, keep the platform stable and controlled, and troubleshoot issues across these different infrastructures. Cloudera Observability addresses these challenges. Building on the company’s experience with hybrid data solutions, Cloudera Observability empowers customers to monitor, understand, and optimize their CDP deployments. Customers also benefit from customisable automatic actions and pre-built actions to raise alerts, proactively avoid issues, and optimise workloads. “Many companies struggle with their cloud costs and unlocking continuous value from cloud investments,” said Everest Group partner Nitish Mittal. “Cloudera's approach towards metadata gives CDP users a way to manage their cloud costs, including identifying rogue users, coordinating workloads for optimal cost and flagging potential resource overruns. This increasingly will become crucial for enterprises looking to manage their data on cloud estates effectively." For an existing customer, Cloudera Observability was able to help identify a rogue user who started sending millions of unnecessary queries, which severely impacted performance for essential workloads. Without going back and forth several times to gather information on the case, Cloudera’s support team had all the insights into the customer environment necessary to identify the root cause of the issue. As a result, the first response to the customer identified the root cause and provided the resolution. Cloudera Observability went right to insights, within minutes. Expedited support eliminates multiple interactions, getting to issue resolution faster and reducing operational overhead. Cloudera Observability is available at no additional cost as part of applicable subscriptions to CDP and helps optimise the most frequently used data engines, including Hive, Impala and Spark for data engineering workloads. Cloudera Observability Premium adds high value capabilities, including custom auto-actions, deeper insights and richer automated troubleshooting. Support for new data engines and other platform components will be added over time. Cloudera Observability is interoperable with Apache Iceberg, which is a key building block of Cloudera’s open data lakehouse delivered via CDP. It is a high-performance open table format for large analytic tables that brings reliability to big data, while making it possible for multiple compute engines to work concurrently. Cloudera’s open data lakehouse helps organizations run quick analytics on all data - structured and unstructured – at massive scale. It eliminates data silos and allows data teams to collaborate on the same data with the tools of their choice on any public cloud and private cloud. Cloudera Observability enables a more cost-effective outcome across the full range of CDP’s functions, resulting in an enhanced experience for enterprise users. This becomes increasingly important as companies level up their data management in support of foundational data for large language models and other AI initiatives across hybrid and multi-cloud environments. For more information on Cloudera Observability, please click here.   
+DOWNLOAD WHITE PAPER! 
+
+PROMOTE YOUR WEBINAR ON ITWIRE
+It's all about Webinars.
+Marketing budgets are now focused on Webinars combined with Lead Generation.
+If you wish to promote a Webinar we recommend at least a 3 to 4 week campaign prior to your event.
+The iTWire campaign will include extensive adverts on our News Site itwire.com and prominent Newsletter promotion https://itwire.com/itwire-update.html and Promotional News & Editorial. Plus a video interview of the key speaker on iTWire TV https://www.youtube.com/c/iTWireTV/videos which will be used in Promotional Posts on the iTWire Home Page.
+Now we are coming out of Lockdown iTWire will be focussed to assisting with your webinars and campaigns and assistance via part payments and extended terms, a Webinar Business Booster Pack and other supportive programs. We can also create your adverts and written content plus coordinate your video interview.
+We look forward to discussing your campaign goals with you. Please click the button below.
+MORE INFO HERE!
+ 
+
+ 
+MORE INFO HERE! 
+
+ 
+
+ 
+                
+                                Everyone got a bit of what they wanted. No one got everything, that sounds like the basis for a good[…]                             
+                
+                                Is this article ironic?                             
+                
+                                The safest way not to get snared is to avoid anything financial on your devices plus do not participate in[…]                             
+                
+                                Who do we trust here? A professional cloud provider with many customers or a monopolistic ticketing agency that can never[…]                             
+                
+                                I knew this scam was full of shit because it didn't present any actual evidence of the supposed hacker having[…]                              
+

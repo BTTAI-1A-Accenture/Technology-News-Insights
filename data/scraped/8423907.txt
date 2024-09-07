@@ -1,0 +1,21 @@
+Sept. 26, 2023 - San Jose, California - HiveMQ, the global leader in enterprise MQTT solutions, has announced HiveMQ Data Hub, an integrated policy engine within the HiveMQ broker designed to enforce data integrity and quality. The new offering helps to detect and manage distributed data and misbehaving MQTT clients with the ability to validate, standardize, and manipulate data in motion. 
+ 
+Connected IoT devices provide dynamic, diverse data used to glean insights that drive businesses forward. IDC estimates there will be 55.7 billion connected IoT devices (or “things”) by 2025—proving quality data and reliable delivery are key competitive advantages for organizations. IoT teams are writing separate code for connected devices, validating data across multiple applications which diminishes its quality, and wasting money to store bad data. HiveMQ Data Hub allows organizations to ensure a high standard of data integrity and quality, increasing operational efficiency and reducing costs.
+ 
+HiveMQ Data Hub is available now and provides the following capabilities:
+
+Create a schema policy in JSON or Protobuf formats 
+Define policy actions for data that fails validation
+Store schema registries locally for faster access and data processing in a single system
+Define behavioral policies to determine how devices work with the broker and log bad actors
+Visualize the data in tools like Grafana with an API
+
+ “One of the primary challenges in IoT is data quality. Overloading IT systems with bad data leads to poor decision-making and an erosion of trust for the business,” said Dominik Obermaier, co-founder and CTO of HiveMQ. “ With HiveMQ Data Hub, customers can create a data policy to validate data, eliminating bad information to ensure useful insights. The result is feeding cleaner, easier to manage, high-quality data into enterprise and cloud systems, which leads to better IoT applications and data-driven decision making.”
+ 
+HiveMQ Data Hub’s policy engine allows users to script policies and transform data into the right format as it moves through the broker. Creating and defining schema policies for validation and transformation enables users to add context and quality control to data to ensure consistency for reporting and analytics.
+ ustomer experiences. 
+ Go to HiveMQ website
+
+ Learn More 
+
+ ©2024 Automation.com, a subsidiary of ISA

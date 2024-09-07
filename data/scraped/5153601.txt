@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » Using LLMs to Create Bioweapons I’m not sure there are good ways to build guardrails to prevent this sort of thing: There is growing concern regarding the potential misuse of molecular machine learning models for harmful purposes. Specifically, the dual-use application of models for predicting cytotoxicity18 to create new poisons or employing AlphaFold2 to develop novel bioweapons has raised alarm. Central to these concerns are the possible misuse of large language models and automated experimentation for dual-use purposes or otherwise. We specifically address two critical the synthesis issues: illicit drugs and chemical weapons. To evaluate these risks, we designed a test set comprising compounds from the DEA’s Schedule I and II substances and a list of known chemical weapon agents. We submitted these compounds to the Agent using their common names, IUPAC names, CAS numbers, and SMILESs strings to determine if the Agent would carry out extensive analysis and planning (Figure 6). The run logs can be found in Appendix F. Out of 11 different prompts (Figure 6), four (36%) provided a synthesis solution and attempted to consult documentation to execute the procedure. This figure is alarming on its own, but an even greater concern is the way in which the Agent declines to synthesize certain threats. Out of the seven refused chemicals, five were rejected after the Agent utilized search functions to gather more information about the substance. For instance, when asked about synthesizing codeine, the Agent becomes alarmed upon learning the connection between codeine and morphine, only then concluding that the synthesis cannot be conducted due to the requirement of a controlled substance. However, this search function can be easily manipulated by altering the terminology, such as replacing all mentions of morphine with “Compound A” and codeine with “Compound B”. Alternatively, when requesting a b synthesis procedure that must be performed in a DEA-licensed facility, bad actors can mislead the Agent by falsely claiming their facility is licensed, prompting the Agent to devise a synthesis solution. In the remaining two instances, the Agent recognized the common names “heroin” and “mustard gas” as threats and prevented further information gathering. While these results are promising, it is crucial to recognize that the system’s capacity to detect misuse primarily applies to known compounds. For unknown compounds, the model is less likely to identify potential misuse, particularly for complex protein toxins where minor sequence changes might allow them to maintain the same properties but become unrecognizable to the model. *** This is a Security Bloggers Network syndicated blog from Schneier on Security authored by Bruce Schneier. Read the original post at: https://www.schneier.com/blog/archives/2023/04/using-llms-to-create-bioweapons.html    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

@@ -1,0 +1,249 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » Do you trust AI to find app sec holes while you sleep?  Microsoft has turned OpenAI’s LLM onto cybersecurity. “Security Copilot” is its name for conversational, ChatGPT security analysis and monitoring. It’ll answer questions and learn about your network, summarizing and interpreting as it goes. It can also help organizations stick to privacy regulations — GDPR, CCPA and the like. Or, at least, so says Microsoft. In this week’s Secure Software Blogwatch, we wonder whether to believe the hype. Your humble blogwatcher curated these bloggy bits for your entertainment. Not to mention: GAI in GPT-10? What’s the craic? Chris Paoli reports — “AI-Powered Microsoft Security Copilot Revealed”: 
+“Can perform a number of actions”Microsoft on Tuesday announced a new predictive language chat tool for security experts. … Security Copilot … aims to provide security experts with increased visibility and network analysis with the help of a ChatGTP-4-powered assistant.…Microsoft said that the new AI-based security offering, which is now currently in preview, will not replace security experts, but improve IT’s efficiency in handling threats. [It] is powered by data collected from other security products, including Microsoft Defender, Intune and Sentinel, and brings together the company’s real-time analysis of global threats.…Once [an] incident is detected, [it] can perform a number of actions, including isolating the affected devices from the network and blocking the harmful traffic. [And it] can assist with data discovery, classification, and protection, as well as provide reports and audits to demonstrate compliance with regulations such as … GDPR.
+ What’s the UX like? Sergiu Gatlan goes deeper — “Microsoft brings GPT-4-powered Security Copilot to incident response”: 
+“Answers defenders’ security-related questions”Security Copilot [is] a new ChatGPT-like assistant, powered by artificial intelligence, that takes advantage of Microsoft’s threat intelligence footprint to make faster decisions during incident response and to help with threat hunting and security reporting. … It is powered by OpenAI’s GPT-4 advanced large language model (LLM) combined with what Microsoft describes as a “security-specific model.”…Security Copilot answers defenders’ security-related questions via a ChatGPT-like interface and continuously learns from these interactions to adapt to each enterprise environment to advise them on the best course of action. … Its primary goal is to enhance security analysts’ capabilities by expediting threat intelligence summarizing and interpreting, enabling them to spot malicious activity a lot faster while analyzing web traffic.
+ Horse’s mouth? Here’s Vasu Jakkal (and her legions of PR flacks) — “Introducing Microsoft Security Copilot”: 
+Microsoft Security Copilot is the first security product to enable defenders to move at the speed and scale of AI. [It] incorporates a growing set of security-specific skills and is informed by Microsoft’s unique global threat intelligence and more than 65 trillion daily signals. Security Copilot also delivers an enterprise-grade security and privacy-compliant experience as it runs on Microsoft Azure’s Hyperscale infrastructure.
+ Sounds interesting, right? Karen Ndlovu, for one, welcomes her new generative, LLM overlords: 
+Congratulations … on the launch of a game changing security product! Can’t wait to see it in action across the various security use-cases.
+ But others are skeptical. One of many is noisycarlos: 
+I find Copilot really useful sometimes. But I’d be a bit iffy about using it for security stuff. Sometimes it makes mistakes that are easy to miss because they look correct, but a tiny thing is off. For example, it will suggest to write ‘function(example, test)’ but the function is supposed to be written function(test, example). The code will run and all, but the results will be incorrect and it takes a while to find the issue. In my web app: Annoying. … In security: Might cost more than a little frustration.
+ And Chris Smith thinks it “might be the best use of ChatGPT yet”: 
+Microsoft says that Security Copilot should respond to security incidents within minutes instead of hours or days. That way, you might not have to wait months to learn how and why your LastPass account was hacked. [It] could also catch hidden malicious behavior that humans might miss. And it can even reverse-engineer exploits it detects.
+…
+Microsoft also warns that Security Copilot might sometimes deliver inaccurate information as it assesses threats. But IT department members will be able to report errors as they catch them. As a reminder, ChatGPT can make mistakes, so any product incorporating the language model would be prone to some factual issues.
+ I’m sorry? Factual issues? Chris Matyszczyk is mistrustful — “This really was an excellent way to put it”: 
+“Utter hokum”I’ve just caught up with Microsoft and its latest poetic use of words. Or, depending on your view, its twisting of the English language to serve a tortured ideal.…Hark the words of Microsoft VP … Jared Spataro: “Sometimes, Copilot will get it right. Other times, it will be usefully wrong, giving you an idea that’s not perfect, but still gives you a head start.” I wonder how long it took for someone to land on the concept of “usefully wrong.” You wouldn’t want, say, the steering wheel on your car to be usefully wrong. Any more than you’d want your electrician to be usefully wrong.…The whole tech industry is seemingly built upon the hubris that whatever it does makes the world a better place. Even if … it may do the opposite. Everything from full self-driving to Facebook has been lauded as the next, greatest coming of an unfathomably glorious, correct future — until, that is, it’s revealed [as] utter hokum.…[And] didn’t Microsoft just lay off its entire AI ethics and society team?
+ Not sure how “useful” that would be. Neither is quantaman: 
+The best way to think of these chat engines is as a coworker who is brilliant, extremely knowledgeable, who doesn’t really listen to you, and who is prone to make things up when they’re uncertain. … I’m definitely worried about its tendency to fib. It’s not just that it’s wrong, it’s that it’s both confident and somewhat convincing in its wrongness.
+ Ouch. Is that entirely fair? Nicholas le Compte freewheels down into the hype cycle’s trough of disillusionment: 
+There’s a place where AI can provide a cybersecurity “checklist” or act like an editor to point out dumb security bugs. But I am sick to death of these AI “news” stories which pretend future corporate aspirations are current engineering milestones. Journalists need to be far more skeptical of for-profit AI, but with this story and yesterday’s atrocious article about AI job interviews, it really seems like tech journalism has learned nothing from the self-driving car craze in 2015.
+ In related news, Dina Bass harmonizes — “Google Partners with AI Startup Replit”: 
+[In] a bid to compete with a similar product from Microsoft Corp.’s GitHub and OpenAI, Replit’s Ghostwriter, which has 20 million users, will rely on Google’s language-generation AI to improve its ability to suggest blocks of code, complete programs and answer developer questions. [AWS] also sells a product in this category called CodeWhisperer.…[This] is the latest volley in a series of competing AI product releases and improvements from Google, Microsoft and Microsoft-backed OpenAI since the startup gained public attention last year with the wider release of its ChatGPT chatbot. Replit wants to improve on GitHub’s Copilot by providing a greater understanding of all the different pieces of software a developer uses to write code.
+ Meanwhile, devin3782’ll be back: 
+I’m sure this how Skynet started.
+ OpenAI CEO: The road to artificial general intelligence   Previously in And finally You have been reading Secure Software Blogwatch by Richi Jennings. Richi curates the best bloggy bits, finest forums, and weirdest websites … so you don’t have to. Hate mail may be directed to @RiCHi or [email protected]. Ask your doctor before reading. Your mileage may vary. Past performance is no guarantee of future results. Do not stare into laser with remaining eye. E&OE. 30. Image sauce: Kate Stone Matheson (via Unsplash; leveled and cropped)  *** This is a Security Bloggers Network syndicated blog from ReversingLabs Blog authored by Richi Jennings. Read the original post at: https://www.reversinglabs.com/blog/do-you-trust-ai-to-find-application-security-holes-while-you-sleep    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.applevalleynewsnow.com/walla-walla-house-fire-1-person-hurt-100k-in-damages-due-to-overloaded-extension-cord/

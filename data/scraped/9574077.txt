@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/sports/barcelona-beats-atl-tico-1-0-despite-lewandowskis-absence/article_a3b52058-1a5f-5e6e-afb7-06d3ad59d320.html

@@ -1,0 +1,34 @@
+
+Partnership bolsters DirectDefense's Real-Time Monitoring Services with Claroty's Visibility, Protection, and Threat Detection Platform for the XIoT
+ 
+DirectDefense, Inc., a leading information security services company, today announced its partnership with Claroty, the cyber-physical systems protection company. Claroty empowers organizations with unmatched visibility, protection, and threat detection to secure their Extended Internet of Things (XIoT), a vast network of cyber-physical systems across industrial, healthcare, and commercial environments.
+
+ 
+As digital transformation efforts have intensified over the last decade, a broad range of XIoT assets – including operational technology (OT), the Internet of Medical Things (IoMT), building management systems (BMS) and enterprise IoT – are now interconnected. While this drives innovation, resilience, sustainability and numerous other business benefits, the XIoT can also increase organizations' attack surface area and risk exposure if not properly secured, and solutions intended solely for OT, IT, or any other specific use case are insufficient. Without holistic, comprehensive visibility and security, organizations may face costly downtime, as well as negative impacts on critical outcomes such as patient care and manufacturing process integrity.
+
+ 
+"By adding Claroty to our services offering, customers in the industrial, healthcare and commercial industries can better secure their XIoT environments," said Jim Broome, President and CTO of DirectDefense. "Time and time again we hear the challenges these industries face with the proliferation of connected devices and the difficulty managing and securing them. The Claroty platform provides the required visibility and protection and with our 24x7 SOC managing those alerts in partnership with our Connected Systems team, customers will elevate their security posture and increase their cyber resiliency."
+
+ 
+Claroty tackles the risks posed by the explosion of connectivity between the cyber and physical worlds with its flagship product, the Claroty Platform. This unified XIoT cybersecurity solution is tailored to the requirements of healthcare, industrial, and public sector environments, deployable via on-premise, hybrid, or cloud/SaaS options, and integrates with customers' existing infrastructure to provide a full range of controls for visibility, risk and vulnerability management, threat detection, and secure remote access.
+
+ 
+"When it comes to securing cyber-physical systems, the number one priority is cyber and operational resilience," said CJ Radford, Global Vice President of Channel & Alliances for Claroty. "With the strength of Claroty's technology and the support of DirectDefense's 24x7 managed services, customers are equipped to proactively secure assets and devices, quickly respond to and recover from incidents, and preserve operational continuity and safety within their XIoT environments."
+
+ 
+Follow DirectDefense
+ 
+LinkedIn: https://www.linkedin.com/company/directdefense/ 
+Twitter: https://twitter.com/Direct_Defense 
+Blog: https://www.directdefense.com/resources/blog/
+ 
+About DirectDefense, Inc.
+ 
+DirectDefense provides enterprise risk assessments, penetration testing, ICS/SCADA security services, and 24/7 managed security services for companies of all sizes. Focused on building security resiliency, the firm offers comprehensive security testing services with specialization in application security, vulnerability assessments, penetration testing, and compliance assurance testing. Its team of highly talented consultants has worked with the majority of the Fortune 100 companies, in industries such as power and utility, gaming, retail, financial, media, travel, aerospace, healthcare, and technology. More information can be found at www.directdefense.com.
+
+ 
+About Claroty
+ 
+Claroty empowers organizations to secure their Extended Internet of Things (XIoT), a vast network of cyber-physical systems across industrial, healthcare, and commercial environments. The company's cyber-physical systems protection platform integrates with customers' existing infrastructure to provide a full range of controls for visibility, risk and vulnerability management, network segmentation, threat detection, and secure remote access. Backed by the world's largest investment firms and industrial automation vendors, Claroty is deployed by hundreds of organizations at thousands of sites globally. The company is headquartered in New York City and has a presence in Europe, Asia-Pacific, and Latin America. To find out more about Claroty, visit claroty.com.
+
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230412005257/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

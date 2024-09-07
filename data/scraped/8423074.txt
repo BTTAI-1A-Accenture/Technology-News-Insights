@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='manunitedonly.com', port=443): Max retries exceeded with url: /treatment-of-diabetes-mellitus-includes-quizlet-g10934.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'manunitedonly.com'. (_ssl.c:1007)")))

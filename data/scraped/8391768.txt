@@ -1,0 +1,216 @@
+
+Video | Agriculture | Confidence | Economy | Energy | Employment | Finance | Media | Property | RBNZ | Science | SOEs | Tax | Technology | Telecoms | Tourism | Transport | Search 
+In 2022 cyber-attacks on healthcare services resulted in
+providers struggling to operate without access to their
+information technology systems and private patient
+information being leaked onto the dark web.Palo Alto
+Networks, a leading provider of cybersecurity services,
+commissioned research which shows that Kiwis think it’s a
+matter of when, not if, another cyber-attack hits the health
+sector, and say they expect providers to pay a price if they
+fail to stop them – particularly as more lifesaving
+personal medical devices are connected to the Internet,
+making them a rich target for cyber criminals.Alex
+Nehmy, Director, Industry 4.0 Strategy – Asia Pacific and
+Japan at Palo Alto Networks says:“Technology
+continues to drive rapid improvements in healthcare to
+deliver better health outcomes for Kiwis. At the same time,
+cyber threats and the sophistication of cyber-attacks
+continue to increase dramatically.“56% of Kiwis
+surveyed said they are worried a similar attack to the one
+that breached the Pinnacle Midlands Health Network in
+September 2022. Sectors like healthcare will continue to be
+attractive targets to cyber criminals because they can
+quickly sell patient data on the dark web, while
+ransomware’s ability to lock down patient care and
+back-office systems make lucrative ransom payments
+likely.”The research, commissioned by Palo Alto
+Networks and conducted by Talbot Mills Research in November
+2022, found that 50% of Kiwis are more concerned about
+cybersecurity now that there is a centralised healthcare
+system through Te Whatu Ora which replaces individual
+District Health Boards.
+
+
+
+“As New Zealand’s health
+infrastructure undergoes a once in a generation
+transformation, cyber security has never been so critical in
+safeguarding health systems, information, and the privacy
+and safety of patients."63% of those surveyed said
+they would support policy that would fine companies that
+lose customers’ data due to weak cybersecurity policies
+and procedures, and 45% would support policy that would make
+it illegal for organisations to pay cyber ransoms. Of those
+surveyed, only 26% feel the government is investing enough
+in cybersecurity.The rise of medical Internet of
+Things (IoT)Digitisation is enabling brand new
+capabilities for healthcare such as virtual healthcare and
+remote diagnosis, but the prevalence of legacy systems is
+making healthcare providers and sensitive data a soft
+target, and cyber criminals will be increasingly focussing
+on it.Nehmy says that, “As more Kiwis start using
+Internet connected personal medical devices, such as heart
+rate monitors for example, cyber criminals will look to
+exploit any security vulnerabilities – and clearly that
+may have serious consequences for users.“Our
+research shows that 44% of Kiwis are concerned about
+personal data collected from at-home medical devices being
+stolen and leaked online, and 47% say they would be more
+willing to use at-home devices if the security of their data
+was guaranteed.“Similar to workplace safety,
+cybersecurity must be a primary concern for boards,
+executive teams, and business leaders. Organisations that
+prioritise cybersecurity understand that it is a business
+issue and not simply an information technology issue, and
+that stopping cyber-attacks before they occur must be a
+fundamental part of their business
+operations.”About Palo Alto NetworksPalo
+Alto Networks is the world’s cybersecurity leader. We
+innovate to outpace cyberthreats, so organizations can
+embrace technology with confidence. We provide next-gen
+cybersecurity to thousands of customers globally, across all
+sectors. Our best-in-class cybersecurity platforms and
+services are backed by industry-leading threat intelligence
+and strengthened by state-of-the-art automation. Whether
+deploying our products to enable the Zero Trust Enterprise,
+responding to a security incident, or partnering to deliver
+better security outcomes through a world-class partner
+ecosystem, we’re committed to helping ensure each day is
+safer than the one before. It’s what makes us the
+cybersecurity partner of choice.At Palo Alto
+Networks, we’re committed to bringing together the very
+best people in service of our mission, so we’re also proud
+to be the cybersecurity workplace of choice, recognized
+among Newsweek’s Most Loved Workplaces (2021), Comparably
+Best Companies for Diversity (2021), and HRC Best Places for
+LGBTQ Equality (2022). For more information, visit http://www.paloaltonetworks.com.
+
+© Scoop Media
+
+
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+
+
+
+Are you licensed for Scoop?
+ Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.
+Join Pro Individual
+Find out more
+
+
+Find more from Palo Alto Networks on InfoPages.
+ 
+ In 2022 cyber-attacks on healthcare services resulted in
+providers struggling to operate without access to their
+information technology systems and private patient
+information being leaked onto the dark web. Palo Alto
+Networks, a leading provider of cybersecurity services,
+commissioned research which shows that Kiwis think it’s a
+matter of when, not if, another cyber-attack hits the health
+sector, and say they expect providers to pay a price if they
+fail to stop them – particularly as more lifesaving
+personal medical devices are connected to the Internet,
+making them a rich target for cyber criminals. Alex
+Nehmy, Director, Industry 4.0 Strategy – Asia Pacific and
+Japan at Palo Alto Networks says: “Technology
+continues to drive rapid improvements in healthcare to
+deliver better health outcomes for Kiwis. At the same time,
+cyber threats and the sophistication of cyber-attacks
+continue to increase dramatically. “56% of Kiwis
+surveyed said they are worried a similar attack to the one
+that breached the Pinnacle Midlands Health Network in
+September 2022. Sectors like healthcare will continue to be
+attractive targets to cyber criminals because they can
+quickly sell patient data on the dark web, while
+ransomware’s ability to lock down patient care and
+back-office systems make lucrative ransom payments
+likely.” The research, commissioned by Palo Alto
+Networks and conducted by Talbot Mills Research in November
+2022, found that 50% of Kiwis are more concerned about
+cybersecurity now that there is a centralised healthcare
+system through Te Whatu Ora which replaces individual
+District Health Boards. “As New Zealand’s health
+infrastructure undergoes a once in a generation
+transformation, cyber security has never been so critical in
+safeguarding health systems, information, and the privacy
+and safety of patients." 63% of those surveyed said
+they would support policy that would fine companies that
+lose customers’ data due to weak cybersecurity policies
+and procedures, and 45% would support policy that would make
+it illegal for organisations to pay cyber ransoms. Of those
+surveyed, only 26% feel the government is investing enough
+in cybersecurity. Digitisation is enabling brand new
+capabilities for healthcare such as virtual healthcare and
+remote diagnosis, but the prevalence of legacy systems is
+making healthcare providers and sensitive data a soft
+target, and cyber criminals will be increasingly focussing
+on it. Nehmy says that, “As more Kiwis start using
+Internet connected personal medical devices, such as heart
+rate monitors for example, cyber criminals will look to
+exploit any security vulnerabilities – and clearly that
+may have serious consequences for users. “Our
+research shows that 44% of Kiwis are concerned about
+personal data collected from at-home medical devices being
+stolen and leaked online, and 47% say they would be more
+willing to use at-home devices if the security of their data
+was guaranteed. “Similar to workplace safety,
+cybersecurity must be a primary concern for boards,
+executive teams, and business leaders. Organisations that
+prioritise cybersecurity understand that it is a business
+issue and not simply an information technology issue, and
+that stopping cyber-attacks before they occur must be a
+fundamental part of their business
+operations.” About Palo Alto Networks Palo
+Alto Networks is the world’s cybersecurity leader. We
+innovate to outpace cyberthreats, so organizations can
+embrace technology with confidence. We provide next-gen
+cybersecurity to thousands of customers globally, across all
+sectors. Our best-in-class cybersecurity platforms and
+services are backed by industry-leading threat intelligence
+and strengthened by state-of-the-art automation. Whether
+deploying our products to enable the Zero Trust Enterprise,
+responding to a security incident, or partnering to deliver
+better security outcomes through a world-class partner
+ecosystem, we’re committed to helping ensure each day is
+safer than the one before. It’s what makes us the
+cybersecurity partner of choice. At Palo Alto
+Networks, we’re committed to bringing together the very
+best people in service of our mission, so we’re also proud
+to be the cybersecurity workplace of choice, recognized
+among Newsweek’s Most Loved Workplaces (2021), Comparably
+Best Companies for Diversity (2021), and HRC Best Places for
+LGBTQ Equality (2022). For more information, visit http://www.paloaltonetworks.com. 
+© Scoop Media
+
+
+
+Advertisement - scroll to continue reading
+
+
+
+
+
+
+
+
+Are you licensed for Scoop?
+ Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.
+Join Pro Individual
+Find out more
+
+
+Find more from Palo Alto Networks on InfoPages.
+ 
+  Scoop is free for personal use, but you’ll need a licence for work use. This is part of our Ethical Paywall and how we fund Scoop without a regular paywall. Join today with plans starting from just $11 per month, and start using Scoop like a Pro.
+Join Pro Individual
+Find out more 
+ Although we have not yet reached the spring selling season, we are observing early signs of growth in the market not typically associated with this time of year. This can be seen through the seasonally adjusted data, which indicates an increase of 5.4% in national sales compared to last year, which reflects a market performing above anticipated levels. Whilst the decision served as a warning to supermarkets not to take part in anticompetitive conduct, the penalty hardly reflected the impact of a lack of competition for consumers. It was just a fraction of the $7.3 billion that could have been handed down under the legislation. The Ministry for Primary Industries (MPI) is expanding a scholarship programme for tertiary students as part of its efforts to boost on-the-ground support for farmers and growers. A model designed to give an early warning of a downturn in the economy is suggesting continued weakening in the labour market with an unemployment rate that may have already reached 4.8 per cent. In New Zealand while RTD sales volumes continued to trend down, total spirit and spirit-based drink volumes passed that of wine in 2023. 50% of spirits sold globally in 2022 were at premium level or above, reflecting consumers’ growing preference to drink less and drink better. In June 2024, training organisation Competenz experienced a cyber-attack, resulting in unauthorised access to its IT system and data theft. Affected individuals have the right to make a complaint to us or the Office of the Privacy Commissioner. Business Business.scoop The Main Report - Trends In NZ BusinessFinanceNZ & AUS SharesOil FuturesSpot GoldScienceWeather UndergroundTe Papa's Blog 
+ FinanceNZ & AUS SharesOil FuturesSpot GoldScienceWeather UndergroundTe Papa's Blog 
+ ScienceWeather UndergroundTe Papa's Blog 

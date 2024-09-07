@@ -1,0 +1,10 @@
+Cite this articleHide citations CLOSE MLA Scire, Sarah. "This hyperlocal website is serving as a hub during “catastrophic” flooding in Vermont." Nieman Journalism Lab. Nieman Foundation for Journalism at Harvard, 24 Jul. 2023. Web. 19 Aug. 2024.  APA Scire, S. (2023, Jul. 24). This hyperlocal website is serving as a hub during “catastrophic” flooding in Vermont. Nieman Journalism Lab. Retrieved August 19, 2024, from https://www.niemanlab.org/reading/the-hyperlocal-website-and-newsletter-acting-as-local-crisis-communication-in-vermont/ Chicago Scire, Sarah. "This hyperlocal website is serving as a hub during “catastrophic” flooding in Vermont." Nieman Journalism Lab. Last modified July 24, 2023.  Accessed August 19, 2024. https://www.niemanlab.org/reading/the-hyperlocal-website-and-newsletter-acting-as-local-crisis-communication-in-vermont/. Wikipedia {{cite web
+    | url = https://www.niemanlab.org/reading/the-hyperlocal-website-and-newsletter-acting-as-local-crisis-communication-in-vermont/
+    | title = This hyperlocal website is serving as a hub during “catastrophic” flooding in Vermont
+    | last = Scire
+    | first =  Sarah
+    | work = [[Nieman Journalism Lab]]
+    | date = 24 July 2023
+    | accessdate = 19 August 2024
+    | ref = {{harvid|Scire|2023}}
+}} To promote and elevate the standards of journalism Covering thought leadership in journalism Pushing to the future of journalism Exploring the art and craft of story The Nieman Journalism Lab is a collaborative attempt to figure out how quality journalism can survive and thrive in the Internet age. It’s a project of the Nieman Foundation for Journalism at Harvard University.

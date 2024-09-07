@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.effinghamdailynews.com/community/lake-land-college-announces-new-tech-2day-program/article_42cb1f52-f046-11ed-b346-4f5abafb3753.html

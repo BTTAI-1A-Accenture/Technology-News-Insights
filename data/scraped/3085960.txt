@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/bid-management-solution-transforms-freight-100000037.html

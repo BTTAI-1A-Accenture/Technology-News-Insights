@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/bizwire-2023-2-17-proposed-extension-of-warrants (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da96f09690>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

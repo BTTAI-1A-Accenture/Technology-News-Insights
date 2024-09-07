@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kentuckytoday.com/news/business/exela-technologies-closes-sale-of-high-speed-scanner-business-as-part-of-strategic-plan-to/article_94aa17ad-bbfa-55c7-bb56-5b65a962b047.html

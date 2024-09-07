@@ -1,0 +1,58 @@
+
+Algolia Ranks in the Top 50 on the Prestigious 2023 Forbes Cloud 100 for the Second Consecutive Year
+ SAN FRANCISCO--(BUSINESS WIRE)--Algolia, the world’s only end-to-end AI Search and Discovery platform, today announced that it has been named #46 on the Forbes 2023 Cloud 100. This award marks the second time Algolia has been ranked on this prestigious list. Algolia’s selection was fueled by its recent launch of Algolia NeuralSearch™, an industry-first AI search engine that combines vector-based natural language processing with keyword search, powered by LLMs, and offered through a single API. The Forbes 2023 Cloud 100 is the definitive ranking of the best and brightest 100 private cloud companies in the world, published by Forbes in partnership with Bessemer Venture Partners and Salesforce Ventures.
+
+  
+“We are thrilled to be recognized by Forbes again for our market leadership, growth, innovation, and strong culture. This award is a great testament to our commitment to pushing the boundaries of Search and Discovery innovation. We are delivering cutting-edge AI search solutions that revolutionize how businesses serve and engage with their customers, especially in retail,” said Bernadette Nixon, chief executive officer, Algolia. “The Algolia team thanks Forbes’ impressive panel of judges for acknowledging these breakthroughs and our incredible team for their relentless pursuit to make these achievements possible.”
+
+ 
+The Forbes Cloud 100 accolade is one of several industry recognitions Algolia received this year for its innovative technology. Most recently, Algolia was named a Top 10 Power Player on the CommerceTech Power List presented by Bain & Company. The company also received 17 badges on G2’s Grid for Enterprise Search Software, and Algolia NeuralSearch was selected as a finalist in Ventana Research’s Annual Digital Innovation Awards.
+
+ 
+For the eighth consecutive year, the Cloud 100 reviews submissions from hundreds of cloud startups and private companies each year. The Cloud 100 evaluation process involved ranking companies across four factors: market leadership, estimated valuation, operating metrics, and people & culture. For market leadership, the Cloud 100 enlists the help of a judging panel of public cloud company CEOs who assist in evaluating and ranking their private company peers.
+
+ 
+“The companies of the Cloud 100 list represent the best and brightest private companies in this crucial tech sector,” said Kenrick Cai, the Forbes editor of the Cloud 100. “This year’s companies had to react rapidly to AI’s sweeping impact while contending with a market pullback. Their resilience puts them in elite company. Congratulations to each of the 2023 Cloud 100 honorees and the 20 Rising Stars who are showing early potential to one day join their ranks.”
+
+ 
+“This year’s Cloud 100 list is one of the most dynamic in history. While the industry faced macro headwinds, the 2023 Cloud 100 winners displayed the innovation and resilience of the cloud economy and the combination of growth and efficiency that prove the power of the cloud business model. 95% of the honorees are forecasted to reach Centaur status — $100 million of annual recurring revenue — by the end of the year,” said Mary D’Onofrio, partner at Bessemer Venture Partners. “It is further exciting to see so many honorees at the forefront of the AI revolution, which we believe will continue to transform the cloud and propel the next wave of growth for many of this year’s winners.”
+
+ 
+“The past year our industry has seen a generational step forward in innovation and with AI leading the charge, we are witnessing one of the most important platform shifts in decades,” said Paul Drews, managing partner, Salesforce Ventures. "The Cloud 100 list represents the best of the best and we've never been more excited about what the future holds, not only for the cloud but for the entire technology industry. We are proud of what these founders and their communities have already accomplished and look forward to seeing how they continue to transform the industry in the future."
+
+ 
+The Forbes 2023 Cloud 100 and 20 Rising Stars lists are published online at www.forbes.com/cloud100. Highlights of the list appear in the August/September 2023 issue of Forbes magazine.
+
+ 
+About Algolia
+ 
+Algolia is the world’s only end-to-end AI search and discovery platform. Our engineers invented a breakthrough use of AI to create exponentially better search & discovery. Algolia’s proprietary NeuralSearch tech combines vector-based natural language processing & keyword matching in a single API. Algolia powers 1.75 trillion search requests a year or more than 30 billion a week enabling more than 17,000 customers in 150+ countries to build blazing-fast and relevant search and discovery experiences for their in-app users and/or online visitors using any web, mobile or voice device – by surfacing the desired content instantly and at scale.
+
+ 
+About Bessemer Venture Partners
+ 
+Bessemer Venture Partners helps entrepreneurs lay strong foundations to build and forge long-standing companies. With more than 145 IPOs and 300 portfolio companies in the enterprise, consumer and healthcare spaces, Bessemer supports founders and CEOs from their early days through every stage of growth. Bessemer’s global portfolio has included Pinterest, Shopify, Twilio, Yelp, LinkedIn, PagerDuty, DocuSign, Wix, Fiverr, and Toast and has $20 billion of assets under management. Bessemer has teams of investors and partners located in Tel Aviv, Silicon Valley, San Francisco, New York, London, Hong Kong, Boston, and Bangalore. Born from innovations in steel more than a century ago, Bessemer’s storied history has afforded its partners the opportunity to celebrate and scrutinize its best investment decisions (see Memos) and also learn from its mistakes (see Anti-Portfolio).
+
+ 
+About Forbes
+ 
+Forbes champions success by celebrating those who have made it, and those who aspire to make it. Forbes convenes and curates the most influential leaders and entrepreneurs who are driving change, transforming business and making a significant impact on the world. The Forbes brand today reaches more than 140 million people worldwide through its trusted journalism, signature LIVE and Forbes Virtual events, custom marketing programs and 45 licensed local editions in 76 countries. Forbes Media’s brand extensions include real estate, education and financial services license agreements.
+
+ 
+About Salesforce Ventures
+ 
+Salesforce Ventures helps enterprising founders build companies that reinvent the way the world works. Since 2009, we’ve invested in and partnered with more than 400 of the world’s most tenacious enterprise software companies from seed to IPO, including Anthropic, Cohere, Airtable, Databricks, DocuSign, Guild Education, monday.com, nCino, Snowflake, Snyk, Stripe,
+
+ 
+Tanium, and Zoom. Salesforce Ventures leverages our decades of expertise in the cloud and our long-term relationships with key decision-makers at thousands of businesses around the world to give our portfolio companies an advantage, help them build credibility, and accelerate growth. Salesforce Ventures has invested in more than 25 countries with offices all over the world including in San Francisco, Irvine, New York, London, and Tokyo. Follow @SalesforceVC and learn more at http://www.salesforceventures.com.
+
+ 
+Media Contact: 
+Sean Welch
+PAN Communications for Algolia
+Algolia@pancomm.com
+ Algolia Ranks in the Top 50 on the Prestigious 2023 Forbes Cloud 100 for the Second Consecutive Year 
+Media Contact: 
+Sean Welch
+PAN Communications for Algolia
+Algolia@pancomm.com

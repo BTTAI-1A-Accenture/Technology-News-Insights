@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/bizwire-2023-2-9-star-mountain-capital-names-george-mattson-as-president (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e2459997310>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

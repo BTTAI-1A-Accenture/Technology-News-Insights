@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.galvnews.com/news_ap/business/resilience-announces-equity-investment-from-mubadala-and-funding-of-new-biopharma-manufacturing-facility-in-the/article_170fa4a5-ad9f-53ca-9c20-c9a6497f6314.html?block_id=531919

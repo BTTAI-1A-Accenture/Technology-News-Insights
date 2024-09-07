@@ -1,0 +1,76 @@
+The Forbes Health editorial team is independent and objective. To help support our reporting work, and to continue our ability to provide this content for free to our readers, we receive compensation from the companies that advertise on the Forbes Health site. This compensation comes from two main sources. First, we provide paid placements to advertisers to present their offers. The compensation we receive for those placements affects how and where advertisers’ offers appear on the site. This site does not include all companies or products available within the market. Second, we also include links to advertisers’ offers in some of our articles; these “affiliate links” may generate income for our site when you click on them. The compensation we receive from advertisers does not influence the recommendations or advice our editorial team provides in our articles or otherwise impact any of the editorial content on Forbes Health. While we work hard to provide accurate and up-to-date information that we think you will find relevant, Forbes Health does not and cannot guarantee that any information provided is complete and makes no representations or warranties in connection thereto, nor to the accuracy or applicability thereof. 
+										Fact Checked
+									 Have a question for Sarah Davis or our other editors?  Ask here for a chance to be featured in a story. Send a note to
+                                                    Sarah Davis,
+                                                    Alena Hall
+                                            and our other editors. We read every email. Keep reading Forbes Advisor for the chance to see the answer to your question in one of our upcoming stories. Our editors also may be in touch with follow-up questions. Body mass index (BMI) is a health metric used to gauge a person’s weight category quickly, as it’s a simple calculation of body fat relative to weight and height. While BMI has its limitations—and should not be the only metric considered when determining your weight class—it’s a fast and accessible tool that can help you better understand whether you carry excess body fat, which can put you at risk for health complications ranging from type 2 diabetes to high blood pressure. Check out the Forbes Health BMI calculator below to see where you stand. Body mass index, or BMI, is a quick and inexpensive measurement of your body fat in relation to your weight and height. It’s often used as a screening tool for weight class categories, but it’s only moderately correlated with direct measurements of body fat, according to the Centers for Disease Control and Prevention (CDC). In fact, even if two people have the same BMI, their body fat percentages may differ because a high BMI can indicate not only high levels of body fat, but also high levels of lean body mass, which is composed of muscle and bone. Step Onto The Future Of Body Monitoring Oxiline Scale X Pro performs complete diagnosis to learn about your body like never before with 32 unique measurements. BMI is calculated by dividing your weight in pounds by the square of your height in inches, and then multiplying by a conversion factor of 703, according to the CDC. See the formula below for an example. Weight = 150 pounds
+Height = 5’5″ (65 inches)
+BMI calculation: [150 ÷ (65)2] x 703 = 24.96 Weight status categories based on BMI for adults ages 20 and up, regardless of age or sex, are as follows, according to the CDC:
+
+
+
+
+
+
+
+
+BMI Weight Status 
+
+
+
+Below 18.5  Underweight  
+
+18.5 - 24.9 Healthy weight  
+
+25.0 - 29.9   Overweight 
+
+30.0 and above  Obesity  
+
+*Source: Centers for Disease Control and Prevention 
+
+
+
+
+ While BMI is calculated the same way for both adults and children, it’s interpreted differently. Whereas BMI for adults isn’t dependent on age or sex, it is dependent on those factors for children and teenagers. For children and teens, the weight category in which they fall is deduced from a percentile chart (the one we use in our calculator comes from data obtained from the World Health Organization and applies to those ages 5 to 19). The percentile chart compares the BMI of children and teens to others who are the same age and sex. For example, if children or teens fall in the 75th percentile, their BMI is greater than 75% of other people of the same age and sex. After receiving the percentile value from the chart, you can find the assigned weight category based on the table below:
+
+
+
+
+
+
+
+
+Weight Category  BMI Percentile 
+
+
+
+Underweight 
+
+Less than 5th percentile 
+ 
+
+Healthy weight
+
+5th percentile to 85th percentile 
+ 
+
+Overweight 
+
+85th percentile to less than 95th percentile 
+ 
+
+Obesity
+
+Greater than or equal to the 95th percentile 
+ 
+
+*Source: Centers for Disease Control and Prevention 
+
+
+ 
+
+ As noted above, BMI is considered an imperfect measurement of body fat, as it doesn’t measure body fat directly. Additionally, BMI charts don’t take age, gender, race and ethnicity into account (with the exception of age and sex for children and teens), which can also impact your body fat or muscle. Indeed, experts note other factors you should take into consideration when determining your weight category include the location of fat, total muscle mass, age and gender. When calculating your BMI, keep these limitations in mind. BMI is a calculation of a person’s weight (in kilograms or pounds) divided by the square of their height (in feet or meters). The purpose of this number is a screening to help health care professionals know if an individual’s BMI number is in a category that could lead to some health problems. It is not intended to be a diagnostic tool nor does it truly determine the body fat percentage of an individual. Body fat percentage is the amount of fat a person has versus lean tissue (muscles, skin, bones, organs). It can be determined in a number of ways including measurements taken with calipers, underwater weighing, a measurement taken with a Bod Pod and other methods. The higher a person’s body fat, the higher their chances of developing certain diseases related to obesity. A healthy BMI for an adult is 18.5 to 24.9, according to the CDC. A BMI of less than 18.5 is considered underweight while a BMI of 25.0 to 29.9 is considered overweight. A BMI higher than 30.0 is considered obese. It’s important to mention that while BMI is a screening tool, it’s not a true diagnostic measurement of body fat or the health of an individual. The only method for lowering your BMI is to reduce weight. For most people, this may be accomplished by getting more physical activity and making healthful changes to their diet. If improved nutrition and exercise don’t seem to be helping, some people may be advised by their physician to try weight loss medications, bariatric surgery or other methods. Talk to your doctor if you have concerns about losing weight or want to try a new eating or exercise regime. If an individual has a higher BMI and is looking to add more activity to their routine, 30 minutes of walking each day, or about 3,000 to 5,000 steps (1.5 to 3 miles), is recommended. This advice also pertains to those with a lower BMI who are just starting out with adding more exercise to their day. For a person with a lower BMI who is already active, 60 to 90 minutes of walking is advisable. This equates to about 10,000 steps (or 5 to 7 miles) for most people. The average American should aim to fit in about 30 minutes of exercise per day. To calculate BMI, divide your weight in pounds by the square of your height in inches, and then multiply by a conversion factor of 703. BMI charts are the same for men and women regardless of age and body type. BMI stands for body mass index, and it’s a measurement of body fat in relation to your weight and height. Currently, the CDC classifies a BMI of 30.0 and above as obesity for adults ages 20 and older. A healthy BMI for adults ages 20 and up is between 18.5 and 24.9, according to the CDC. Keep in mind, though, the limitations outlined in this article, and talk to your doctor about any weight-related concerns. For people who are overweight (a BMI of 25.0 or higher, according to the CDC) or living with obesity (a BMI of 30.0 or higher, according to the CDC), potential health risks include high blood pressure, high LDL or low HDL cholesterol, type 2 diabetes, heart disease, stroke, gallbladder disease, sleep apnea and more. Those who are overweight or living with obesity may also have an increased risk of mental illness including clinical depression and anxiety. People who are underweight (whether from an underlying medical condition or from poor diet) may be at risk for deficiencies that could lead to osteoporosis and anemia. People who are underweight may also have a weakened immune system, which could make them more likely to contract the flu, a cold or other infection. Women who are underweight may experience cycle and fertility issues. Information provided on Forbes Health is for educational purposes only. Your health and wellness is unique to you, and the products and services we review may not be right for your circumstances. We do not offer individual medical advice, diagnosis or treatment plans. For personal advice, please consult with a medical professional. Forbes Health adheres to strict editorial integrity standards. To the best of our knowledge, all content is accurate as of the date posted, though offers contained herein may no longer be available. The opinions expressed are the author’s alone and have not been provided, approved or otherwise endorsed by our advertisers. 
+				Sarah is an experienced writer and editor enthusiastic about helping readers live their healthiest and happiest lives. Before joining Forbes Health, Sarah worked as a writer for various digital publications including LendingTree, theSkimm, CNBC and Bankrate. When she isn’t writing or editing, you can find Sarah with her nose in a book or enjoying the outdoors with her French bulldog, Honey.
+			 
+				Alena is a professional writer, editor and manager with a lifelong passion for helping others live well. She is also a registered yoga teacher (RYT-200) and a functional medicine certified health coach. She brings more than a decade of media experience to Forbes Health, with a keen focus on building content strategy, ensuring top content quality and empowering readers to make the best health and wellness decisions for themselves.
+			

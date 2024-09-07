@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/bdex-announces-identity-graph-capabilities-130000257.html

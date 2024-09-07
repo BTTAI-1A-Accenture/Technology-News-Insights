@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.samessenger.com/news/business/what-are-the-options-for-financing-solar/article_b353f272-1048-11ee-a569-976a2bd942ff.html

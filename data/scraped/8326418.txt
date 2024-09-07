@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.fsf.org', port=443): Max retries exceeded with url: /resources (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da96ea9db0>, 'Connection to www.fsf.org timed out. (connect timeout=5)'))

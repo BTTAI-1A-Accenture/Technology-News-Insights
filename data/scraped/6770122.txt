@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ To build a NetDevOps home lab, you can use a popular network emulator called EVE-NG. EVE-NG allows you to create virtual network topologies and practice network automation and orchestration. EVE-NG is a web-based platform that supports virtual and physical devices from vendors such as Cisco, Juniper, Arista, and Fortinet. With EVE-NG, you can emulate complex network architectures and test your network automation scripts in a safe and controlled environment. You can download the Community Edition from their website to get started with EVE-NG. The Community Edition is free and provides the features you need to build a NetDevOps home lab. Once you have downloaded and installed EVE-NG, you can create a new lab and add devices to your topology. Using EVE-NG is an excellent way to build your NetDevOps skills and experiment with network automation tools and techniques. Here are some links related to EVE-NG: EVE-NG is available in two versions: Community and Professional. The Community version is free and provides basic features to build a NetDevOps home lab. The Professional version includes additional features and support for more devices but requires a subscription fee. To install EVE-NG on a virtual machine, you first need to download the EVE-NG OVA file from the EVE-NG website. Once you have downloaded the OVA file, import it into your virtualization software, such as VMware or VirtualBox. After importing the OVA file, you can launch the virtual machine and configure its network settings. Then, you can access the EVE-NG web interface by opening a web browser and navigating to the IP address of the virtual machine. You can create a new lab and add devices to your topology. You can also upload custom images for specific devices if necessary. Once you have completed your lab, you can save it for future use or export it as a file to share with others. To install EVE-NG on an old laptop using the EVE-NG ISO, you will need to follow these steps: Depending on its specifications, an old laptop may not be powerful enough to run EVE-NG effectively, but it’s better than a VM. EVE-NG is based on Ubuntu, to connect to your Ubuntu machine via SSH, you can use a free SSH client such as PuTTY (for Windows) or OpenSSH (for macOS and Linux). These clients allow you to connect to your Ubuntu machine and manage it remotely securely. PuTTY: https://www.putty.org/ OpenSSH: https://www.openssh.com/ To upload router images to EVE-NG via WinSCP, follow these steps: The method of operation may vary from mirror to mirror, please refer to the following link for details: https://www.eve-ng.net/index.php/documentation/howtos/ Once the router image has been uploaded, you can create a new lab and add the router to your topology as usual. sudo ufw disable sudo ufw status The output should indicate that the firewall is inactive.  Note: Default user/name for EVE-NG: root eve admin eve Not only a keen network admin Perfect post. Only vital information. And it worked! Thank you! Project Engineer Thanks Yawei Chen  
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

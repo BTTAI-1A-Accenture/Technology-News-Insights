@@ -1,0 +1,222 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Mar 21, 2024, 6:47pm With so many cloud hosting platforms available these days, choosing the right one can feel overwhelming. When narrowing down the field, users should look at features such as scalability, a fast-loading solid-state drive (SSD), free secure sockets layer (SSL) and uptime guarantees. To help you make the right choice for your needs and budget, Forbes Advisor looked at the best cloud hosting services on the market and compared them based on pricing, features and usability.  Featured Partners 1 Bluehost $1.99 per month Unmetered bandwidth, SSD storage starts at 10GB Free domain name & SSL for a year 1 Bluehost On Bluehost.com’s Website 2 HostGator $2.75 per month (for first 36 months) 30 days Free SSL certificate, free website transfer 2 HostGator On HostGator’s Website 3 Web.com $2.75 per month Yes Customizable templates, Easy drag-and-drop technology, SSL certificate 3 Web.com On Web.com’s Website  The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, strategic methodologies and expert insights to inform all of our content and guide you in making the best decisions for your business journey. We reviewed hosting services using a detailed scoring process to help you find the 11 best cloud hosting services for small businesses. Our ratings looked at factors such as pricing, hosting features, customer reviews and an analysis by our experts. All ratings are determined solely by our editorial team. Starting Price  $4.95 per month (with 36-month commitment) Storage Limit  Unlimited 
+ Standout Features  Free email, free SSL certificate and a $200 marketing credit 
+ 
+
+$4.95 per month
+(with 36-month commitment)
+
+ $4.95 per month (with 36-month commitment) 
+
+Unlimited
+
+
+ Unlimited 
+ 
+
+Free email, free SSL certificate and a $200 marketing credit
+
+
+ Free email, free SSL certificate and a $200 marketing credit 
+ HostGator is a great choice for sites hosting blogs and websites. With HostGator, you get free server monitoring, a 30-day money-back guarantee for basic hosting services and a 99.9% uptime guarantee. HostGator is a user-friendly, one-stop shop for your hosting needs. It conveniently provides everything in one place, including hosting, domains, email, website builder and storage. Users get automated failover for hardware issues, unlimited storage and an intuitive dashboard that tracks the site’s performance and metrics. There are three pricing options: Hatchling at $4.95 per month, Baby at $6.57 per month and Business at $9.95 per month. Users should note that all of these are introductory offers, and pricing will increase when it is time to renew. Learn More: Read our full HostGator review. Who Should Use It: HostGator is the overall best cloud hosting service on the market and is ideal for all those types of businesses that need an affordable, fast, responsive host. Starting Price  56/1000th of a cent per hour (max of $4 per month) Storage Limit  30GB to 480GB 
+ Standout Features  Unlimited traffic, no contracts, $100 in credit for first month 
+ 
+
+56/1000th of a cent per hour
+(max of $4 per month)
+
+ 56/1000th of a cent per hour (max of $4 per month) 
+
+30GB to 480GB
+
+
+ 30GB to 480GB 
+ 
+
+Unlimited traffic, no contracts, $100 in credit for first month
+
+
+ Unlimited traffic, no contracts, $100 in credit for first month 
+ Why pay for resources you don’t need? With IONOS’ pay-as-you-go cloud hosting, you only pay for the resources you use. Even better, you won’t have to commit to a contract with IONOS; you can stop or start your plans at any time. With the entry-level Cloud Server XS plan, you get one vCore CPU, 512MB RAM and up to 30GB SSD for 56/1000th of a cent per hour and will pay a maximum of $4 per month. For more storage, RAM and SSD, you’ll need to upgrade to a higher plan where you’ll pay between 69/1000th of a cent and 44.44 cents per hour, depending on your specific cloud server configuration. All IONOS plans have a max-per-month fee, which ranges from $4 to $320 per month. IONOS plans come with 30GB to 480GB of storage; additional storage can be bought in 100GB increments for $7.20 per month (billed per minute). All cloud plans come with an unlimited number of emails and 2GB storage per inbox. IONOS supports both Linux and Windows platforms, though you’ll pay $10 per vCore per month for Windows. Learn More: Read our full IONOS review. Who Should Use It: IONOS is a terrific cloud service for those with moderate to advanced technical skills who want pay-as-you-go pricing. Starting Price  Maximum $4.50 per month 
+ Storage Limit  100GB 
+ Standout Features  Unmetered bandwidth, hourly billing, full root access 
+ 
+
+Maximum $4.50 per month
+
+
+ Maximum $4.50 per month 
+ 
+
+100GB
+
+
+ 100GB 
+ 
+
+Unmetered bandwidth, hourly billing, full root access
+
+
+ Unmetered bandwidth, hourly billing, full root access 
+ DreamHost is one of the only services to provide both cloud computing (DreamCompute) and cloud object storage (DreamObjects). Users have full root access, can scale their apps both vertically and horizontally and all code is open source, allowing the cloud to grow as needed. The server can be used on a range of operating systems, including Linux, BSD and Microsoft Windows. The pricing structure is unique and based on usage on an hourly basis, so you only pay for what you use. Rates start at 75/1000th of a cent per hour—with a max of $4.50 per month—for 512MB of RAM. DreamHost cloud hosting rates max out at 8 cents per hour—with a cap of $48 per month—for 8GB of RAM. You can purchase additional storage at 2.5 cents per GB per month. Learn more: Read our full DreamHost review. Who Should Use It: DreamHost is an ideal solution for beginners who need a budget-friendly, high-quality cloud hosting service. Starting Price  $19.50 per month 
+ Storage Limit  Unlimited 
+ Standout Features  Unlimited traffic, renewal pricing guarantee, 30-day money-back guarantee 
+ 
+
+$19.50 per month
+
+
+ $19.50 per month 
+ 
+
+Unlimited
+
+
+ Unlimited 
+ 
+
+Unlimited traffic, renewal pricing guarantee, 30-day money-back guarantee
+
+
+ Unlimited traffic, renewal pricing guarantee, 30-day money-back guarantee 
+ MochaHost offers several appealing features, including a 100% uptime guarantee, 24/7 tech support, unlimited email, automated backups and unlimited monthly traffic. Even better, MochaHost is one of the few cloud hosting solutions that comes with unlimited disk space on every plan. The main differences between the MochaHost plans include price, the number of CPU cores offered and overall server power. Starting prices for MochaHost plans range from $22.50 per month  for unmanaged Windows cloud hosting. If you need unmanaged Linux cloud hosting, the monthly price is $19.50. MochaHost doesn’t have a free trial but instead has a 30-day money-back guarantee. You can also try any MochaHost plan for 180 days risk-free; if you decide to cancel your plan within the first 180 days, you’ll receive a prorated refund for hosting fees based on the standard monthly package pricing. Learn more: Read our full MochaHost review. Who Should Use It: With unlimited disk space included in every plan, MochaHost is a terrific option for content-heavy websites. Starting Price  $6 per month (billed annually) Storage Limit  30GB to 540GB SSD or NVMe SSD 
+ Standout Features  Dedicated IP, 24/7 site monitoring, month-to-month plans available 
+ 
+
+$6 per month
+(billed annually)
+
+ $6 per month (billed annually) 
+
+30GB to 540GB SSD or NVMe SSD
+
+
+ 30GB to 540GB SSD or NVMe SSD 
+ 
+
+Dedicated IP, 24/7 site monitoring, month-to-month plans available
+
+
+ Dedicated IP, 24/7 site monitoring, month-to-month plans available 
+ InMotion Hosting offers shared hosting, WordPress hosting and cloud VPS hosting services. The company has a solid reputation for delivering hosting solutions that are flexible and scalable, and grow with you as your company’s needs change. All cloud hosting options come with a dedicated IP address and a 99.999% uptime guarantee. Users also have access to their own Resource Monitoring Dashboard to keep track of RAM, bandwidth and load usage Choose from Cloud VPS SSD plans or Cloud VPS NVMe (nonvolatile memory express) SSD plans. The key differences among the plan tiers are storage capacity, vCPUs, transfer capacity and price. Prices range from $6 to $192 per month for SSD plans and $7 to $224 per month for NVMe plans. Setting up your Cloud VPS hosting requires a fair amount of technical knowledge. That’s why Forbes recommends InMotion cloud hosting for those confident in their technical abilities. Learn More: Read our full InMotion review. Who Should Use It: InMotion’s Cloud VPS hosting is affordable, scalable, reliable and secure, though the complex setup makes this solution best for advanced technical users. Starting Price  $2.99 per month (with 12-month term) Storage Limit  Unlimited 
+ Standout Features  Unlimited bandwidth, free domain, 60-day guarantee 
+ 
+
+$2.99 per month
+(with 12-month term)
+
+ $2.99 per month (with 12-month term) 
+
+Unlimited
+
+
+ Unlimited 
+ 
+
+Unlimited bandwidth, free domain, 60-day guarantee
+
+
+ Unlimited bandwidth, free domain, 60-day guarantee 
+ TMDHosting offers three levels of cloud hosting plans that support all types of businesses, from startups to enterprises. With six unique levels of combined caching, it’s hard to beat TMD’s website load times. TMDHosting boasts up to 32 times faster page load times than you could achieve through alternative solutions. Reliability is another hallmark of TMD cloud hosting solutions, which offers a 99.999% uptime guarantee. Cloud hosting services are available for any open source application, WordPress, SocialEngine, Drupal, OpenCart and PrestaShop. Starting plans range from $2.99 to $19.99 per month and also depend on whether you need Windows- or Linux-based cloud hosting. The primary differences among the plans are allowances for RAM, CPU cores and add-on domains. For example, the Starter Cloud includes two CPU cores and 2GB of DDR4 RAM while the Enterprise Cloud plan gives you six CPU Cores and 6GB of DDR4 RAM. Learn More: Read our full TMDHosting review. Who Should Use It: TMDHosting offers excellent cloud hosting services for anyone looking for superfast-loading websites. Starting Price  69.31/100 of a cent per hour 
+ Storage Limit  30GB to 750GB 
+ Standout Features  Nightly backups, free website transfer, load balancers 
+ 
+
+69.31/100 of a cent per hour
+
+
+ 69.31/100 of a cent per hour 
+ 
+
+30GB to 750GB
+
+
+ 30GB to 750GB 
+ 
+
+Nightly backups, free website transfer, load balancers
+
+
+ Nightly backups, free website transfer, load balancers 
+ Hostwinds offers fully managed cloud server hosting that features a per-hour billing model. Best of all, you can launch your website on Hostwinds’ cloud servers in a matter of mere minutes. The user-friendly Hostwinds Cloud Control Panel features tools you need to manage your site, including DNS, storage and firewall management, plus the ability to deploy load balancers on demand. Hostwinds makes it easy to adjust resources up or down as your needs shift. Choose from 10 cloud server plans that offer one to 16 CPUs, 30GB to 750GB storage and 1GB to 96GB RAM. With Hostwinds’ Redundant Network, you never have to worry about your site being unavailable. Hostwinds boasts 99.9999% server uptime. All Hostwinds plans come with 24/7 cloud server monitoring. Should a potential security threat or abnormality appear, you’ll receive an automatically generated support ticket alerting you along with highly responsive technical support from Hostwinds staff. Learn More: Read our full Hostwinds review. Who Should Use It: Users who want a reliable, flexible cloud hosting option and need to deploy their websites quickly. Starting Price  $100 per month 
+ Storage Limit  40GB to 160GB 
+ Standout Features  Fully managed service, automatic scaling, free CDN 
+ 
+
+$100 per month
+
+
+ $100 per month 
+ 
+
+40GB to 160GB
+
+
+ 40GB to 160GB 
+ 
+
+Fully managed service, automatic scaling, free CDN
+
+
+ Fully managed service, automatic scaling, free CDN 
+ Why We Picked It: SiteGround offers scalable cloud hosting for websites and businesses of all sizes. We particularly like SiteGround for those managing large or multiple WordPress websites. All SiteGround cloud hosting plans come with a 14-day money-back guarantee and a refund if SiteGround fails to meet a 99.9% uptime rate. SiteGround plans offer easy onboarding, fully managed service, a powerful hosting stack and an ultra-fast platform. Choose from four SiteGround cloud hosting plans that range from $100 to $400 per month. The primary differences among the plans include CPU, memory and storage capacity. All plans include 5TB data transfer. Learn More: Read our full SiteGround review. Who Should Use It: Businesses hosting either a single, large WordPress website or multiple WordPress websites. Starting Price  $6.99 per month (with 36-month term) Storage Limit  10GB to 100GB 
+ Standout Features  Unmetered bandwidth, daily backups and up to 100 databases 
+ 
+
+$6.99 per month
+(with 36-month term)
+
+ $6.99 per month (with 36-month term) 
+
+10GB to 100GB
+
+
+ 10GB to 100GB 
+ 
+
+Unmetered bandwidth, daily backups and up to 100 databases
+
+
+ Unmetered bandwidth, daily backups and up to 100 databases 
+ GoDaddy touts itself as the world’s largest service platform for entrepreneurs, offering a variety of hosting services, domain registration, website creation and built-in marketing tools. The company has also built a reputation for providing responsive 24/7 customer support. The GoDaddy platform provides fast and reliable server performance. A 30-day money-back guarantee is available on all 12-month or longer plan commitments. Those starting with less than a 12-month plan receive a 48-hour guarantee. GoDaddy has different tiers of pricing plans, with the starter shared web hosting plan costing $6.99 per month with a three-year contract. The top-tier GoDaddy Maximum plan costs $17.99 per month and renews at $24.99 per month and it includes increased processing power and supports up to 100 databases. Learn More: Read our full GoDaddy Hosting review. Who Should Use It: Users who require a user-friendly interface along with easy-to-access customer support. Starting Price  $6 per month 
+ Storage Limit  30GB SSD to 16TB HDD 
+ Standout Features  16 plan levels, root access, no contracts 
+ 
+
+$6 per month
+
+
+ $6 per month 
+ 
+
+30GB SSD to 16TB HDD
+
+
+ 30GB SSD to 16TB HDD 
+ 
+
+16 plan levels, root access, no contracts
+
+
+ 16 plan levels, root access, no contracts 
+ InterServer is a popular hosting provider that offers standard/shared web hosting as well as Cloud VPS hosting services. Plans are billed month to month; InterServer does not require long-term contracts. Move up or down in plans as your needs expand or contract. Choose from Linux VPS, Storage VPS or Windows VPS cloud hosting plans—Windows plans start at $10 per month while the others start at $6. Each InterServer Cloud VPS solution has 16 unique tiers to choose from. The main differences among the plans are price, the number of CPU cores plus memory, storage and transfer allowances. A simple slider-scale tool on the InterServer website makes it easier to find the right price/resource combination for your needs. InterServer provides 24/7 customer support via live chat, phone and an online ticket system. All users get full root access to their data. Choose the control panel that works best for you. InterServer supports DirectAdmin, cPanel or Plesk; you’ll pay an additional licensing fee for control panel hosting. Learn More: Read our full InterServer review. Who Should Use It: InterServer offers affordable and flexible solutions for those looking for VPS cloud hosting services. Starting Price  $29.95 per month (with 36-month term) Storage Limit  50GB to 200GB 
+ Standout Features  24/7 management, free SSL certificates and daily disaster recovery backups 
+ 
+
+$29.95 per month
+(with 36-month term)
+
+ $29.95 per month (with 36-month term) 
+
+50GB to 200GB
+
+
+ 50GB to 200GB 
+ 
+
+24/7 management, free SSL certificates and daily disaster recovery backups
+
+
+ 24/7 management, free SSL certificates and daily disaster recovery backups 
+ ScalaHosting provides several different hosting services, including shared, cloud and WordPress, but its primary offering is fully managed cloud VPS hosting plans. Each plan, even the “Mini,” comes packed with features including unlimited bandwidth, free SSL certificate, free domain and rolling backups. If you opt for VPS, the plans are highly customizable, allowing users to configure exactly what they need. ScalaHosting is so confident that your site will run faster and more securely than ever that the company offers an unconditional anytime money-back guarantee. If at any time you feel you want to deactivate your ScalaHosting services, you will receive a refund for any prepaid and unused hosting fees. Learn More: Read our full ScalaHosting review. Who Should Use It: Users who are looking for a flexible hosting solution backed by a generous money-back guarantee. 
+ Traditional web hosting places all your website resources on a single server. That server may be fully dedicated to your site’s assets (dedicated hosting services), or host several websites simultaneously (shared hosting services). The problem with shared and dedicated hosting is that if the server goes down or encounters a hack, your website will be negatively impacted and could go down altogether. Cloud hosting uses a network of servers to host your website and data. Should one server experience a failure of any kind, another server steps in to assure your website is secure and available to all those who want to access it. In the cloud, a pool of servers share resources, including CPU, RAM and storage, which exponentially increases the flexibility and scalability you can achieve. Redundancy is built into cloud hosting, which means the chances of your website going down—or performing below acceptable performance standards because of a hardware issue—diminish considerably. Some cloud hosting providers even offer a 99.999% or greater uptime guarantee, which translates to less than six minutes of downtime per year. Choosing cloud hosting over dedicated or shared hosting services has several benefits. Here are the 10 top benefits of cloud hosting:  1. Increased security: Your files are available on several servers and not stored in a single vulnerable location. 2. Scalability: Since you are no longer confined to one server, there is no limit to how you can scale and expand your website or websites. 3. Reliability: Most cloud hosting providers guarantee exceptional uptime—often 99.999%. 4. Flexibility: Choose the resource capacity and features you need rather than being stuck with pricey capabilities you don’t need. 5. Speed: Cloud server providers are known for delivering superfast site loading speeds. 6. Affordability: There are cloud hosting plans on the market for just about any budget. 7. Easy website setup: Cloud hosting deployment is relatively straightforward, and most providers offer site migration assistance. 8. Better user experience: A fast-loading website makes for a great experience for your site visitors. 9. Redundant servers: Should one cloud server fail, another server ensures your site remains accessible. 10. Disaster recovery: In the event of data loss due to unavoidable circumstances—such as natural disasters or a destructive security breach—top-notch cloud hosts provide exemplary recovery processes. Cloud hosting costs more than shared hosting, so it’s not a good fit for those on a shoestring budget. Also, cloud hosting is internet-dependent; thus, if the internet goes down, you will not have access to your data during the internet outage. Cloud hosting does not protect you entirely from cyberattacks; however, since you’re not dependent on a single location for data storage, cloud hosting can help make those attacks less impactful. The most significant disadvantage of cloud hosting is that you are completely dependent on your hosting service provider. This is why it’s so important to go with a reliable provider that has a solid reputation for quality, security and delivering on its promises. The best cloud hosting provider for you is the one that meets your unique business requirements thoroughly. You must evaluate cloud hosting services based both on your current needs and your goals for the future. Some cloud hosting features, such as free migration and domains, are nice-to-have bonuses, but aren’t always necessary. Other features, such as security and reliable uptime, are nonnegotiable when it comes to choosing a provider. We suggest you take a close look at data storage, speed and performance, security, pricing and customer support when choosing a cloud hosting service. Before committing to a hosting contract, users need to know how much storage is available and how easy or difficult it is to scale up or down as needed. These terms should be clearly outlined on the provider’s website and available to anyone vetting its services. Some hosting providers such as HostGator, MochaHost and TMDHosting offer unlimited storage. Other hosting services provide 25GB to 50GB of storage on starter plans but offer expanded capacity in the range of 100GB to 16TB on top-tier plans. If you suspect you might require storage capacity beyond what a provider has outlined in its standard plans, you can reach out directly to ask what it would cost to acquire more storage. Most companies offer additional storage for an add-on fee. Several factors impact a site’s speed and overall performance. Poor website design is the main culprit that slows down sites, but other factors, such as inadequate CPU capacity, can negatively impact your website’s user experience. With HostGator, you can choose from three plans that offer two to six CPU cores, which could be ideal for most small to midsized websites. Both InterServer’s and SiteGround’s top plans max out at 16 CPU cores, which makes these solution providers better for data-intensive websites. RAM capacity can also have a big impact on site speed and performance. Generally speaking, more memory makes for a faster site. This is particularly important for sites that contain large files. IONOS is a terrific example of a cloud hosting service that lets you scale memory according to your needs. The IONOS starter plan comes with a mere 512MB of RAM, while the IONOS top plan offers 48GB of RAM. Whether your website is for casual blogging or big business plans, hosting security needs to be top-notch. To start, you’ll need an SSL certificate, but you also need to assess the hosting vendors’ reputation for compliance and cloud security features. Specifically, look for how data is protected in transit and at rest, how user identity is authenticated, data encryption standards and cloud server firewalls. Select a provider that offers built-in tools and solid processes for combating phishing, viruses, spyware, worms, distributed denial of service (DDoS) attacks and other security threats to your website. Cloud hosting pricing should always be transparent and straightforward, with plans easily available for browsing and comparison. Users must decide which features they need, how much scalability they want and what type of contract will work best for them. Every hosting provider will brag about its excellent customer support, but users must dig deeper during the research phase. If 24/7 service is advertised, does that mean live support? Chat? Video? Phone? The types being offered might make all the difference. Featured Partners 1 Bluehost $1.99 per month Unmetered bandwidth, SSD storage starts at 10GB Free domain name & SSL for a year 1 Bluehost On Bluehost.com's Website 2 HostGator $2.75 per month (for first 36 months) 30 days Free SSL certificate, free website transfer 2 HostGator On HostGator's Website 3 Web.com $2.75 per month Yes Customizable templates, Easy drag-and-drop technology, SSL certificate 3 Web.com On Web.com's Website Cloud hosting providers typically offer a variety of server plans to accommodate various budget levels. Memory, CPU and storage capacity offered have the greatest influence over the price you’ll pay for cloud hosting; the more resources you need, the more you’ll pay. Some vendors charge on a per-month basis, where you get the best price by committing to a multi-year plan. MochaHost’s plans start at just $1.95 per month with a three-year commitment. SiteGround’s plans start at $100 per month. Other cloud hosting providers charge by the hour. Hostwinds starter plan is $0.006931 per hour. With the IONOS starter plan, you pay $0.0056 per hour with a max out-of-pocket fee of $4 per month. Given the wide range of pricing options on the market, it pays to shop around. Also, when committing to a contract, expect renewal prices to be 25% to 50% more than introductory prices. To choose the best cloud hosting options for this roundup, Forbes Advisor compared each service based on important factors such as overall value, ease of use, popularity and variety of features offered. We ranked each hosting service based on a five-star rating system, with the highest score being five stars. Here’s what we looked at to compile each category’s rankings. Cloud hosting services can be costly, no question. Our goal was to provide the top hosts that reflect a range of prices. Paying more means additional features which you may or may not need. We looked at each provider’s starting price, what it charged customers to renew once the initial contract ended, how many sites were covered under the plan, if it offered a money-back guarantee and how long that guarantee was for. This accounted for 10% of our weighted scoring. A key feature we looked for in a cloud hosting service was an uptime guarantee. We have only listed services with excellent uptime rates, which is one of the main reasons to move to a cloud hosting provider. Another essential feature of most hosting providers is customer support. We looked at services and compared them based on their customer support options, including whether clients have access to live customer support and if it is available 24/7. We also compared cloud hosting services based on additional functions, giving preference to ones that offer features that should be standard. These include a free SSL certificate, SSD storage, unlimited bandwidth and storage, cPanel availability, free business email address, website builder, content delivery network (CDN), automatic backups and more. We weighted features at 50% of our total score. We wanted to know what actual users of these services thought of the providers, so we turned to third-party review websites, such as Trustpilot, to gauge actual responses by users. We looked for reviews that scored at least 3.5 out of 5 on these sites and positive reviews that numbered at least 300 for each provider. Those with fewer than that number scored lower in our ratings. These reviews accounted for 10% of the total score. Continuing with customer reviews, our team of experts looked at several factors important to cloud hosting users, such as ease of use. We looked for cloud hosting services that are easy to use and navigate. We also compared providers based on setup difficulty, giving preference to platforms that require minimal time to launch and offer third-party integrations. Other factors considered by our experts included value for the money, stand-out features and the popularity of the service. This analysis made up 30% of the total score. The best cloud hosting providers are HostGator, IONOS and DreamHost. Each service solution offers a strong value for the number and quality of critical hosting features provided and the level of service delivered. There are three main types: IaaS (infrastructure as a service), PaaS (platform as a service) and SaaS (software as a service). IaaS provides a pay-as-you-go, on-demand infrastructure. PaaS allows organizations to rent the needed infrastructure, saving on costs. SaaS permits users to lease applications and host software on their own servers. A backup organization copies cloud data and stores it in another system, allowing for quick access in recovery cases. You should upgrade when it is imperative that your website or app runs reliably, no matter when or where it is being accessed. If you are looking for fast performance, scalability and better security, it’s probably time to make the switch. While many sites will start out with a traditional shared host, making the switch to cloud hosting allows users to truly scale their sites and take them to the next level. With managed cloud hosting, your service provider helps you with important site management tasks such as site configuration, backups, server monitoring, security and website migration. Some providers offer fully managed cloud hosting services, while others offer partial management options. Virtual private server (VPN) hosting is when your website data and resources are stored on a dedicated virtual space on a single physical server. If the server fails, your site cannot be accessed. With cloud hosting, your site resources are available on multiple servers in a cloud environment. If one server fails, another cloud server hosts your site and, thus, access is not interrupted. Cloud hosting is highly secure. Strong encryption protocols, firewalls, restricted data access processes and secure cloud server warehouse facilities help keep data safe. Yet, as with all hosting solutions, cloud hosting is still subject to cyberattacks, though it’s typically better able to thwart those attacks than shared or dedicated hosting services. Cloud hosting offers more control over your website in terms of performance and site configuration but that comes with a higher price tag than shared hosting. You’ll pay less for shared hosting but have less control over your website. 
+                Janette Novak is a freelance journalist and consultant who specializes in teaching online business and small business marketing. Previously, Janette owned a boutique marketing agency and served as a Chief Marketing Officer for a leading professional training services provider.            

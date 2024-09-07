@@ -1,0 +1,37 @@
+
+by Leigh Mc Gowran
+ 
+25 Aug 2023  Image: © Robert/Stock.adobe.com Salesforce, Google, Nvidia, Amazon and others have all backed Hugging Face, which claims to have more than 1m models, datasets and apps on its platform. Multiple tech giants have taken part in a Hugging Face funding round, giving the machine learning company $235m. The Series D round included Salesforce, Google, Nvidia, Amazon, AMD, Intel, Qualcomm, IBM and Sound Ventures. The new financing valued the AI start-up at $4.5bn. The New York-based company has built a platform where members of the machine learning community can collaborate and host their AI models and code, in a similar style to GitHub. The start-up hosts various tools to support developers, along with subscription options with extra features for enterprises. Hugging Face co-founder and CEO Clement Delangue said the new funding came as the company crossed the milestone of hosting 1m “models, datasets and apps on the platform”. “These partners alone already shared over 1,000 open models and datasets and have over 10,000 users on Hugging Face,” Delangue said. “It takes a village to democratise good machine learning thanks to open source and we’re just getting started.” Hugging Face machine learning engineer Rajiv Shah shared his own take on LinkedIn. He claimed the company didn’t need the extra cash, but that “careful growth and rising revenue enabled this $235m cash infusion”. The open-source AI platform has received significant attention this year by tech giants. In February, Amazon Web Services announced a collaboration with Hugging Face to make generative AI more accessible and cost-efficient. The partnership sees AWS and the AI start-up train and deploy large language and vision models to create generative AI applications that can perform tasks ranging from text summarisation, answering questions and writing essays to code and image generation. Earlier this month, NASA and IBM released a large geospatial foundation model on Hugging Face to make it widely available to the public. IBM claimed at the time that it was the largest geospatial foundation model on Hugging Face and the first-ever open-source AI foundation model built in collaboration with NASA. 10 things you need to know direct to your inbox every weekday. Sign up for the Daily Brief, Silicon Republic’s digest of essential sci-tech news. Related:
+                    funding and investment,             open source,             Qualcomm,             US,             Google,             Salesforce,             IBM,             Intel,             Amazon,             AMD,             AI,             Nvidia  
+                                                Leigh Mc Gowran is a journalist with Silicon Republic                                             editorial@siliconrepublic.com 
+6 Aug 2024  
+21 May 2024  
+3 days ago  
+2 Aug 2024  
+2 Aug 2024  
+24 Jul 2024  
+18 minutes ago  
+1 hour ago  
+1 hour ago  
+2 hours ago  
+4 hours ago  
+4 hours ago  
+6 hours ago  
+7 hours ago  
+7 hours ago  
+2 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+4 days ago  
+4 days ago  
+4 days ago  
+4 days ago  All content copyright 2002-2024 Silicon Republic Knowledge & Events Management Ltd. Reproduction without explicit permission is prohibited. All rights reserved.
+            Website by Square1.io 

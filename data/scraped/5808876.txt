@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kmaland.com/news/feenstra-seeks-insurance-protection-for-new-farmers/article_457b394a-2259-11ee-9dc3-b36fd032a676.html

@@ -1,0 +1,45 @@
+
+Bringing decentralized oracle capabilities to the fast growing EON ecosystem and supporting a wide range of use cases
+ (Graphic: Business Wire) NEW YORK--(BUSINESS WIRE)--Horizen, a leading layer 0 public blockchain, is excited to announce a strategic partnership with Band Protocol, a cross-chain data oracle platform, to provide real-time price feeds and reliable data for EON, Horizen's new EVM-compatible smart contracting platform. The partnership will bring decentralized oracle services to the growing EON ecosystem, supporting a wide range of use cases, including DeFi, gaming and NFTs.
+
+  
+Horizen’s EON is a fully EVM-compatible smart contracting platform and the first of many smart contract sidechains on the Horizen ecosystem. Band Protocol's flagship oracle solution enables Horizen EON to gain access to real-time price feeds for tokens across different chains, providing a safe and reliable source of information for EON as it builds out its DeFi, gaming and NFT ecosystem.
+
+ 
+By aggregating and connecting real-world data and APIs to smart contracts, Band Protocol allows smart contract applications to be built on EON without relying on the single point of failure of a centralized oracle. This integration allows developers to enhance and extend their smart contract capabilities on EON.
+
+ 
+"Partnering with Band Protocol is a major milestone in our mission to provide a secure and scalable ecosystem for decentralized applications,” said Rob Viglione, Co-Founder and Chief Executive Officer of Horizen Labs. “With their reliable oracle services, we can expand the possibilities for smart contracts on EON and empower developers to create innovative solutions for DeFi, gaming, and NFTs."
+
+ 
+"We are excited to announce our integration to Horizen, delivering decentralized oracle services to their EON ecosystem. With the addition of Band Protocol's robust and secure oracle solution, we empower Horizen EON with real-time price feeds and trusted data for smart contracts. This collaboration will unlock new possibilities for DeFi, gaming, and NFT applications while cultivating a more resilient and decentralized blockchain ecosystem,” said Sireethorn Satchatippavarn, CSO of Band Protocol.
+
+ 
+Horizen EON is currently live on its permanent public testnet, Gobi, which is supported by a network of products, integrations and tools, including Band Protocol. With the partnership between Horizen and Band Protocol, the EON ecosystem is poised to welcome a wealth of dApps and services in the coming months.
+
+ 
+The combination of EON's EVM compatibility, Horizen's zero-knowledge enabled cross-chain protocol and Band Protocol's decentralized oracle services will create a permissionless, interoperable and customizable blockchain ecosystem for developers and users alike.
+
+ 
+About Horizen
+ 
+Horizen is a layer 0 public blockchain that enables the zero-knowledge network of blockchains powered by the largest node system and a massively scalable cross-chain protocol, Zendoo. Horizen offers tools for developers to custom-build private or public blockchains and dApps with a level of flexibility unmatched by others. Horizen is EVM-compatible through its sidechain EON. By building on Horizen, developers have the freedom to fully customize their blockchains including consensus, speed, privacy and crypto-economies. Blockchains built on Horizen produce massive throughput without compromising decentralization.
+ 
+For more information, visit https://horizen.io/.
+
+ 
+About Band Protocol
+ 
+Band Protocol is a cross-chain data oracle platform with the aspiration to build high-quality suites of web3 development products. The flagship oracle solution aggregates and connects real-world data and APIs to smart contracts, enabling smart contract applications such as DeFi, prediction markets, and games to be built on-chain without relying on the single point of failure of a centralized oracle. Band Protocol is backed by a strong network of stakeholders including Sequoia Capital, one of the top venture capital firms in the world, and the leading cryptocurrency exchange, Binance*.*
+ 
+Website | Twitter | Discord | Telegram | Blog | Youtube | Linktree
+ 
+Kelly Ferraro
+River North Communications
+646-275-7040
+kelly@rivernorthagency.com
+ 
+Kelly Ferraro
+River North Communications
+646-275-7040
+kelly@rivernorthagency.com

@@ -1,0 +1,38 @@
+Copyright © 2024 Entrepreneur Media, LLC All rights reserved. Entrepreneur® and its related marks are registered trademarks of Entrepreneur Media LLC 
+                  By          
+            Andrew Amann
+          
+
+            Edited by 
+                          
+                Kara McIntyre
+              
+
+
+            Jan 9, 2023
+          
+ 
+          Share         
+    Opinions expressed by Entrepreneur contributors are their own.   Machine learning-driven apps are a leading category among funded startups, and the reasons why are clear. Machine learning (ML) offers mobile app developers new tools for personalization, predicting user behavior, improving security and delivering better targeted ads. Adopting this technology provides startups and their development teams with the means to include compelling features able to attract and retain an audience. The inclusion of machine learning makes it easier to add functionality like personalization or even predicting user behavior. Additionally, the targeting of in-app advertising becomes more effective and potentially useful to an app's audience. Finally, leveraging ML models aimed at detecting nefarious online behavior improves an app's cybersecurity footprint. So if machine learning makes sense for your next mobile app development project, what are some of the best use cases for its inclusion? Here are a few insights on adding machine learning to a mobile app, applicable to both the iOS and Android platforms. Leverage these insights to give your next venture the best chance of making a true impact in the modern business world. Related: 3 Ways Machine Learning Can Help Entrepreneurs Artificial intelligence (AI) routines currently lurk within some of the most popular apps in the mobile market. Simply look at map software like Google Maps. Machine learning models take into account current traffic volume, road construction, real-time accidents and other considerations to plot a pathway that ultimately saves time. Any mobile app using mapping features benefits from the application of reasoning functionality powered by machine learning and crowdsourcing data from user actions and inputs. In addition to both Google and Apple Maps, Uber's own app provides a similar feature for determining the most opportune path between two locations. Simply put, machine learning analyzes all this information in real time and calculates the optimal route much more quickly — and safely — than a human driver or passenger. Similar reasoning functionality remains a great rationale for incorporating machine learning into a mobile app. For example, this ML-powered route-finding logic also benefits the logistics and supply chain world, helping companies save money while shipping materials faster. However, these benefits go beyond apps using mapping. Google's virtual keyboard app, Gboard, uses AI in the form of predictive behavior to make word suggestions when typing. Even virtual chatbots used to optimize the customer service function in multiple business sectors benefit from AI reasoning. These use cases provide an obvious reason to include machine learning in any modern mobile app hoping to make an impact. Related: What Is Artificial Intelligence (AI)? Here Are Its Benefits, Uses and More One of the biggest capabilities of machine learning involves its ability to analyze massive amounts of data as quickly as possible. This functionality comes into play in a variety of streaming apps providing users with recommendations based on their viewing or listening history. Additionally, in a more controversial approach when considering data privacy, web browsing history also provides insights used for generating online advertising based on a specific user. Over-the-top television services and streaming providers leverage ML-powered recommendation engines on the web and in mobile apps. The apps used in streaming devices, such as Roku and Apple TV, also leverage this approach. This functionality adds a level of personalization to engage users, making them more likely to retain their service subscriptions over time. Like AI-based reasoning, recommendation functionality also makes sense for apps in a variety of use cases beyond entertainment. Shopping apps especially benefit from this approach, including grocery stores or most other retailers. A customer's previous shopping history — combined with online data and similar customer data profiles — provides fruitful data for machine learning models, with Amazon providing one obvious example on their website and mobile app. Related: Why Learn Machine Learning and Artificial Intelligence? Machine learning also provides the ability to analyze how a user interacts with a mobile app. This level of analysis powers a myriad of useful features that at a glance might seem unrelated. One example involves a user of a financial company's mobile app. The app analyzes their transaction history and their methodology for saving and spending money. In a similar manner to a recommendation engine mentioned earlier, it uses this data to offer personalized savings or account recommendations to help optimize the customer's financial outlook. Thanks to behavior analysis, new users can even benefit from insights into how they might practice better spending habits based on their onboarding inputs and similar customer experiences. An even more critical use case reveals how behavioral analysis helps detect suspicious activity in the cybersecurity world. In fact, companies in the security operations space increasingly rely on AI and machine learning to fight the scourge of cybercrime. Using the financial app example, machine learning also provides the ability to detect abnormal behavior and block any potential fraudulent transaction as a result. This high-level overview hopefully provides some food for thought on the many possibilities for implementing machine learning in your next mobile app. Providing features like personalization, a recommendation engine and behavioral predictive analysis benefits any modern mobile app hoping to stand out from a growing pack. Expect your competition to consider adopting a similar machine learning-powered approach, as it's rapidly becoming a new standard. Entrepreneur Leadership Network® Contributor CEO of NineTwoThree Venture Studio 
+                Want to be an Entrepreneur Leadership Network contributor?
+                
+  Apply now to join.
+
+ 
+          A hacking group allegedly leaked 2.7 billion pieces of data.
+         
+          The data is thought to have been collected over the past two decades.
+         
+          California is the first state to launch this kind of initiative.
+         
+          We put together a list of the best, most profitable small business ideas for entrepreneurs to pursue in 2024. 
+         
+          On her journey to disrupt the beauty industry with her brand OUI the People, here are three lessons founder Karen Young shares.
+         
+          YouTube can be a valuable way to grow your audience. If you're ready to create content, read more about starting a business YouTube Channel.
+         
+							Successfully copied link
+						 We'll be in your inbox every morning Monday-Saturday with all the day’s top business news, inspiring stories, best advice and exclusive reporting from Entrepreneur. 
+            Copyright © 2024 Entrepreneur Media, LLC All rights reserved. Entrepreneur® and its related marks are registered trademarks of Entrepreneur Media LLC
+          
+ 

@@ -1,0 +1,41 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+Google Cloud Adds New PCI DSS Policy Bundle to Anthos Config Management
+ Feb 25, 2023
+								
+								
+								
+									
+									2
+									min read
+								
+							 by 
+
+
+Aditya Kulkarni
+
+ Google has recently added Payment Card Industry Data Security Standard (PCI DSS) Policy bundle to Anthos Config Management (ACM). In its version 3.2.1, security administrators can now understand compliance with PCI DSS requirements using the Policy Controller Dashboard. Poonam Lamba, product manager, and Andrew Peabody, technical solutions consultant at Google Cloud, wrote a blog post explaining the policy bundle and controller. A policy bundle is a pre-configured collection of constraints developed and maintained by Google. With Policy Controller, it is possible to apply customizable policies to your clusters and enforce them effectively. The PCI DSS Bundle has the PCI DSS Control Number associated with each constraint, which can be cross-referenced to track compliance with PCI DSS Standards. The policies in the policy bundle center around secure networks, systems, applications, and robust access control and monitoring. For example, in the context of robust access control and monitoring — to ensure uniform and accurate time across nodes, policies are in place that mandates the utilization of Container-Optimized OS as the OS image. Security administrators can utilize the Policy Controller Dashboard to audit and share any policy violations on the cluster. It provides a UI, including policy usage metrics and an ability to set up log-based alerts.  Source: Harden your Kubernetes clusters and monitor workload compliance with PCI DSS policy bundle | Google Cloud Blog To install PCI DSS Bundle v3.2.1, the target environment requires Anthos Cluster(s) with Policy Controller v1.14.0 or higher. Further guidelines to install the policy bundle are described in this blog post. Whenever there is a policy violation, Cloud Logging automatically logs it, and security administrators can utilize filters like the ones mentioned below in the Logs explorer: Several new controls have been introduced by PCI DSS in its latest version 4.0, which organizations must implement right away to fortify the security of their payment systems. As a side, to meet PCI’s most stringent security, audit compliance, low latency, and high-performance requirements, Microsoft recently introduced Azure Payment Hardware Security Modules (HSM). Currently available only in the Azure Cloud, the service is available in East US and North Europe regions. In addition to enforcing policy bundles and custom policies for the Kubernetes cluster, Policy Controller can also analyze the cluster configuration before deployment. Interested users can start with the policy controller or check out the best practices with policy bundles in the Google Cloud documentation. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

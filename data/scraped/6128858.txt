@@ -1,0 +1,14 @@
+We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Departments, agencies and public bodies News stories, speeches, letters and notices Detailed guidance, regulations and rules Reports, analysis and official statistics Consultations and strategy Data, Freedom of Information releases and corporate reports Updated 6 December 2023 
+
+ 
+  © Crown copyright 2023
+ 
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+ 
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+ 
+  This publication is available at https://www.gov.uk/government/publications/ssac-foi-releases-2023/to-provide-information-about-cloud-services-and-infrastructure-ssac-foi-response
+ Date received:  26 April 2023 Date of response: 4 May 2023 Under the Freedom of Information Act, I would like to request the following information: The duration of time utilising cloud infrastructure. The criteria used to choose a cloud provider. The percentage of infrastructures employing cloud services. The supplier of cloud infrastructures used. (AWS/Oracle/Azure etc.) Case studies highlighting the successful implementation of the ‘Cloud-first’ strategy. The uptime of the cloud infrastructure. The annual budget over the last five years for IT-managed services Please provide the percentage spent on cloud-managed services We do not hold the information you have requested. The Social Security Advisory Committee is a statutory independent non-departmental public body sponsored by the Department for Work and Pensions. Our information technology systems and support are arranged by the Department for Work and Pensions. Don’t include personal or financial information like your National Insurance number or credit card details. 
+        To help us improve GOV.UK, we’d like to know more about your visit today.
+        Please fill in this survey (opens in a new tab).
+      

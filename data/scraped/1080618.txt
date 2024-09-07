@@ -1,0 +1,1 @@
+400 Client Error: Bad request for url: https://techxplore.com/news/2022-11-south-korea-technology-local-residents.html

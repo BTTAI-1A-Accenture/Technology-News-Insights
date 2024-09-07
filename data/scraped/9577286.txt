@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/arena/thestreet/cathie-wood-watch-ark-buys-exact-sciences-again/article_329865d9-41a3-5e41-ba62-8f31e2e6ee4d.html

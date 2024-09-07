@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.bleepingcomputer.com/news/security/alphv-gang-claims-ransomware-attack-on-constellation-software/

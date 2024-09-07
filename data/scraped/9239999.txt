@@ -1,0 +1,150 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Mar 24, 2024, 4:50pm Cloud ERP software is an enterprise resource planning platform that’s hosted online, so there’s no need to install it on in-house servers, as is traditionally the case. It’s meant to help businesses run all departments, from accounting and human resources (HR) to sales and manufacturing. Traditional ERP software was typically out of reach for small to midsize businesses (SMBs) because it was expensive and difficult to implement. Now cloud ERP software provides customer relationship management (CRM) and business intelligence (BI) features at an affordable price. Here are our top choices for 2024. The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, strategic methodologies and expert insights to inform all of our content to guide you in making the best decisions for your business journey. To find the best cloud ERP software for small businesses, we considered over 25 of the leading providers in the space and narrowed it down to 16, which we then evaluated across five key categories and 25 different metrics. Our ratings consider factors such as transparent pricing, employee self-sufficiency, compatibility with third-party integrations, access to customer support and ratings. All ratings are determined solely by our editorial team. Starting price  $70 per user (monthly) 
+ Free trial  30 days 
+ Built-in CRM  No 
+ 
+
+$70 per user (monthly)
+
+
+ $70 per user (monthly) 
+ 
+
+30 days
+
+
+ 30 days 
+ 
+
+No
+
+
+ No 
+ Depending on whether you choose the Essentials or the Premium plan, you can manage almost any part of your business through Microsoft Dynamics 365 Business Central, which is why it’s one of the best cloud ERP software available. It’s an ERP solution that’s well suited for small and midsize businesses thanks to its price, which is lower than industry standard. Features: Microsoft Dynamics 365 Business Central provides support for almost every department. As cloud ERP software, it’s as versatile and mobile as your team—use it on your mobile phone, tablet or PC. You’ll get real-time views on your data with its charts and dashboards, automated workflows to reduce repetitive work and manage inventories easily. Additionally, Microsoft Dynamics 365 Business Central makes it possible to manage projects, customer support, HR, supply chains and manufacturing with integrated communication tools, customer inquiry tracking and bills of materials. Also, there are nearly 3,500 apps to extend functionality of your system. Pricing: Pricing for Microsoft Dynamics starts at $70 per person, monthly. It’s much lower than most enterprise software, but you have to keep in mind that there are other components, or add-ons, that you may need to also purchase to supplement your system. If you do need add-ons, you’ll have to pay (even for an app integration), which range in cost from $9.99 per user, per month to $65 per user, per month. Learn more: Read our Microsoft Dynamics 365 Business Central review. Who should use it: Microsoft Dynamics 365 Business Central is one of the few cloud ERP software that’s robust enough to be a viable solution for a growing business and affordable enough to fit for small businesses. Starting price  $56 per user per month 
+ Free trial  None 
+ Built-in CRM  Yes 
+ 
+
+$56 per user per month
+
+
+ $56 per user per month 
+ 
+
+None
+
+
+ None 
+ 
+
+Yes
+
+
+ Yes 
+ SAP Business One Professional offers a small business-friendly cloud ERP software solution at a reasonable price. If you have a dev team, you can use SAP’s software development kit (SDK) to customize interfaces, user fields, tables and custom formatted search. However, many of the custom features don’t require dev skills. Features: Like most cloud ERP software, SAP Business One Professional is an all-in-one solution for business management with tools to help with financials, CRM, manufacturing and BI. You can create automated workflows to handle accounting processes, run custom real-time reports, get a full view of your customer life cycle and track sales opportunities. You can also manage manufacturing or warehouse companies with tools that help with purchase orders and inventory management. The various components of SAP Business One Professional sync seamlessly, so it’s easy to track cash flow, purchasing and inventory levels, so you always know where your business stands. Pricing: The cost of SAP Business One Professional isn’t clear because the service is sold by hundreds of SAP partners that set their own pricing. You can find starting prices as low as $56 per user, per month for a limited license or $108 per user per month for the Professional License. Learn more: Read our SAP Business One Professional review. Who should use it: The integrated tools of SAP Business One Professional were designed specifically for small to midsize businesses, along with the price tag. It’s an affordable option for a cloud ERP software, and with its customization options, you can tailor it to fit your needs. Starting price  Not disclosed 
+ Free trial  None 
+ Built-in CRM  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+None
+
+
+ None 
+ 
+
+Yes
+
+
+ Yes 
+ SYSPRO is cloud ERP software that’s best suited for a manufacturing business thanks to its inventory, production, supply chain and order management features. It can work for distribution services, as well, with its warehouse logistics functionality and financial management tools. Features: With SYSPRO, you can easily track your inventory of goods and parts for full visibility, making it easy to deploy a recall, for example. Forecasting helps you balance supply and demand, so you can more easily predict sales and future revenue. There are built-in advanced planning tools to help with supply chain management, such as sophisticated scheduling and materials requirements planning (MRP), so you don’t have to integrate with another system. SYSPRO includes advanced inventory management so you can track products and parts with first in, first out (FIFO) or last in, first out (LIFO) methods. And see actual costs and serial numbers. There are also features to help with customer support, so you can track returns, recalls, complaints and repairs or maintenance. It’s a fairly complete system with the exception of an HR element. Pricing: Unfortunately, SYSPRO doesn’t disclose its pricing on its website. Quotes typically start around $200 per user, per month, which is a bit costly for cloud ERP software. As you upgrade or add other modules, your per-user-per-month price rises significantly. Learn more: Read our SYSPRO review. Who should use it: Small to midsize manufacturing companies and distribution centers would do well with SYSPRO because of the niche features for these industries. Starting price  Not disclosed 
+ Free trial  30 days 
+ Built-in CRM  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+30 days
+
+
+ 30 days 
+ 
+
+Yes
+
+
+ Yes 
+ The cloud ERP software from QT9 is made specifically for manufacturers, retailers and distributors. Its features focus on automation and real-time reporting and the company even offers a quality management system (QMS) separate from the QT9 ERP. Features: Although most cloud ERP software is meant to combine multiple business processes, they often separate modules and make you pay for some as add-ons, but not QT9. You pay one price for all 18 modules, including MRP, sales management, inventory control and purchasing, to name a few. The features included in QT9’s ERP focus on automating tasks for accounting, data integration across modules, job scheduling and email reminders. You can set up auto reorders and auto allocation in your inventory based on suppliers’ estimates and your own sales. All reports are in real time, so you can get an accurate view of your shipping, purchasing, manufacturing and accounting departments. Pricing: To get the most accurate pricing, you should contact the QT9 sales department directly for a quote. We’ve seen starting costs at around $1,500 per year, but it isn’t clear if that’s for cloud ERP software or for an on-premises solution. Nor is there a per-user cost published publicly. Learn more: Read our QT9 review. Who should use it: Retailers and production companies would do well with QT9 for tracking inventory, goods and ensuring quality control. Starting price  Not disclosed 
+ Free trial  None 
+ Built-in CRM  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+None
+
+
+ None 
+ 
+
+Yes
+
+
+ Yes 
+ Epicor Prophet 21 ERP streamlines business processes that are vital to distributors, though it can work well for almost any business that needs to manage resources and planning across departments. Through its industry-specific features, you can potentially reduce shipping time, increase customer satisfaction and automate tasks. Features: The mobile order feature in Epicor Prophet 21 ERP makes it easy to go from quote to order while you’re with a customer, so there’s no downtime (and no manual work later). The integrated CRM features let anyone in your company see a customer’s full sales history, which can help sales and customer support teams have productive conversations with customers (and increase retention). Automate sales orders or allocation for clients that don’t want inventory yet, but for future orders. Epicor Prophet 21 ERP’s warehouse features let you view and track processes from picking and receiving to bar coding and cross-docking. Customizable dashboards give you a bird’s-eye view of budgets, sales opportunities, year-to-date (YTD) sales and inventory values, for example. Pricing: Epicor Prophet 21 ERP doesn’t publish its pricing on its website. You can request a quote by contacting sales. Learn more: Read our Epicor Prophet 21 ERP review. Who should use it: Distributors and manufacturers can use Epicor Prophet 21 ERP to manage orders, production and finances from quote to fulfillment easily with automations, clear visibility and CRM features. Starting price  Not disclosed 
+ Free trial  No 
+ Built-in CRM  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ Oracle NetSuite OneWorld is one of the most complete cloud ERP software options in the industry that supports multiple languages and currencies. Not only can it be used by distributors, manufacturers and production companies, it offers e-commerce support, as well. Features: Most cloud ERP software solutions started out as an on-premises program, but not Oracle NetSuite OneWorld. This software was designed at the start to be used online and updated regularly. It’s also one of the first cloud-based CRMs, though its sales force features are a bit simple. Oracle NetSuite OneWorld stands out for offering various types of support for international business. You can use 27 different languages, nearly 200 different currencies and calculate and report tax for more than 100 different countries. This makes it much easier to manage multiple businesses you may have around the world. Additionally, it can make purchasing from international vendors easier. This is one of the few cloud ERP software that supports nearly every branch of your business, from financials and sales to CRM and HR management. It’s best known for its accounting and audit features, simple built-in reporting and e-commerce support. Pricing: Although Oracle isn’t transparent about pricing for NetSuite OneWorld, there are reports of it costing around $100 per user, per month. That subscription is likely in addition to a base price, but all pricing is likely to vary depending on your business’s needs. It’s best to contact sales to get a custom quote. Who should use it: Umbrella companies with multiple businesses in various locations around the world would do well with Oracle NetSuite OneWorld thanks to its multiple language, currency and tax support. Starting price  Not disclosed 
+ Free trial  No 
+ Built-in CRM  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ While most cloud ERP software charges a per-user monthly fee (sometimes with a base monthly cost), Acumatica doesn’t. Rather, it offers a custom flat price for each business based on what you need. This pricing structure makes it easier for small businesses experiencing rapid growth. Features: One of the features not often mentioned about cloud ERP software is its ease of use for all employees. Acumatica offers intuitive dashboards based on roles and permissions, so they show specifically what each user needs to see. Like other standard ERPs, Acumatica includes inventory management along with bill of materials and kitting, making it a good choice for manufacturing and production companies. Acumatica uses a modular system, so you can add on MRP, product management, finance and accounting and CRM. You can also upgrade at any time and pay the difference. It’s also easy to customize and filter reports to get precisely the data you need from any department. Pricing: Although Acumatica doesn’t list pricing on its site, it offers a unique pricing structure compared to most cloud ERP software. You can have unlimited users for one price. What you pay is based on which features your business needs and the resources you want to use. Learn more: Read our Acumatica review. Who should use it: Small to midsize enterprises that are growing quickly would do well with Acumatica’s flat monthly pricing and easy-to-use modular cloud ERP software. 
+ Cloud ERP software is considered software as a service (SaaS), which combines a variety of tools to help businesses manage resources. It’s hosted by a company that allows paid users to connect to the service online via a browser or an app. Usually the services provide management of finances, inventory, supply chain, sales and analytics. Some also include HR and project management features. Traditional on-premises ERP software is often far out of reach for small business budgets because the upfront cost of installation, hardware and implementation is so pricey. With cloud ERP software, you tend to pay a monthly price based on the number of users and types of modules your business needs. Additionally, cloud ERP software tends to include monthly maintenance and updates without you having to pay extra or deal with interruptions to your platform. It’s also  more scalable because you can add more users or resources as needed. There are multiple benefits of choosing cloud ERP software and not just choosing it over traditional ERP software. Finding a cloud ERP system in the early stages of your business can set you up for success. It can help you organize your entire business operations from the beginning. Even if you’ve been in business for a while and you’re just now finding the need for cloud ERP software, you can reap several benefits of making the move, such as an increase in productivity, better visibility of your data and you could reduce the number of apps your business uses now: When you’re ready to choose cloud ERP software for your business, it’s important to take into consideration what your business needs. There are essential features, such as inventory and financial management, but there are also bonuses that may make or break your decision, such as ease of use or integrations available. Consider the features of each cloud ERP software you’re looking into, but also look at what each one specializes in and how it can help your business. Some cloud ERP software are better for manufacturers, while others may offer tools vital for e-commerce businesses. Below are what Forbes Advisor suggests as must-have features and the key factors you should consider before signing on any dotted line. You can find some cloud ERP software that offers features for every vertical in your company, but not all do. Some are better suited for manufacturers and don’t include features needed by retailers or e-commerce businesses, for example. Be sure to consider the departments you have in your company and what features are most important to each. Generally, ERP software is complex because there’s so much you can do with it. You should consider how easy it is to use for all users. Cloud ERP software can come with a steep learning curve, especially for those who are less tech-savvy. Look for software that’s customizable with zero or low code, that has easy-to-understand guides and training for users. Implementation is something that’s usually considered for traditional ERP software because it requires more help. Cloud ERP software is far easier, but you may want to consider asking your provider for help in setting up workflow automations, custom reports and settings you need for your business. Implementation is just one part of overall support. Most cloud ERP software offer 24/7 support via one or more common channels, including phone, email, live chat or a ticketing system. Look for help documentation that can be accessed via the platform and paid training for your staff. Cloud ERP software is more affordable than on-premises solutions, but it’s still fairly expensive. Most providers charge a monthly per-user fee. You can find some that offer a flat fee for unlimited users, but it’s rare to see this pricing structure. Keep in mind that you may need to pay for support, implementation and customization help. There could also be hidden maintenance fees or resource fees, given that your provider will be hosting the platform on its servers. If you have software that you want to keep using for your business, it’s important that you note which ones are must-haves to cross-reference with a cloud ERP software’s list of integrations. Alternatively, you may have access to an open API, which would allow you to connect any software you have to your cloud ERP software, but this may require some dev help. It’s difficult to put an average price on cloud ERP software because there are so many variables and most providers don’t publish pricing publicly. The lack of transparency isn’t convenient, but it’s because most software companies need to provide a custom quote for a custom setup. Our research shows that you should expect to pay anywhere between $70 per user, per month and $150 per user, per month. There are often additional monthly costs for the license, or a base cost, which can run a couple hundred dollars to $1,000 per month. Some cloud ERP software charges a per-user-per-month price for each module it offers, so the cost can go up quickly. Each cloud ERP software works a little differently, but the basic premise is the same. You should have a login to access the platform via a browser or in an app for your desktop, tablet or mobile phone. You’ll have a main dashboard that should show you all the modules or data that’s pertinent to your role. An admin typically sets permissions for each user to show them only the modules they use. For example, those who work in HR will likely have access to company-wide charts and dashboards and the HR management tools. Manufacturing teams may have access to financials, project management and supply chain modules. If you’re an executive, you likely have access to everything, but your dashboard may be set up to mostly show a bird’s-eye view of projects, YTD finances and other high-level information. Navigating cloud ERP software works similarly to other software you likely already use. You can expect a sidebar menu along with a top menu for quickly accessing each module or dashboard. Setting up cloud ERP software is the most time-consuming step and will require a bit of downtime for some teams, or you can usually enlist the help of your provider’s support staff to help with importing data and customizing fields for inventory, warehouse locations, contacts and reports. Forbes Advisor takes an unbiased approach to ranking the best cloud ERP software. We focus on five main criteria broken down into 25 different sub-factors to determine our top picks. The total number of points a perfect product could score is 100, but we translate the scores into our five-star rating. Here’s how we evaluated cloud ERP software: Budget is a big deal, especially to SMBs and SMEs, but it’s difficult to score SaaS such as cloud ERP software because the pricing is tied to the unique needs of each business. We gave more credit to providers that offer a free trial, free plan and publicly publish their pricing. There are specific features and options that every cloud ERP software should include. We looked at warehouse management features, reporting, accounting, real-time updates and software integrations. For the software providers that include these in the base service, we gave the most credit. We still credit those that offer a module as an add-on, but we remove points for those that don’t include at least the basics. We consider some cloud ERP software features as bonuses because you don’t require them to run your business, but they’re nice to have. Automation, CRM features, HR functionality, supply chain management, forecasting and manufacturing features are a handful of the unique features we look for. It’s important to consider what users have to say about these programs, so we turned to third-party review sites and considered comments, ratings and the pros and cons listed by customers. Not only do we consider the actual rating on each site we reference, we read through the reviews to study what the users say and whether issues are resolved by the software company. Finally, we leave room to offer an expert view of each software for the less tangible value of the cloud ERP software options. We consider how easy it is to use each platform, its value for the cost and the standout features or tools it offers. The biggest difference between ERP and cloud ERP is that you host traditional ERP on your business’s servers (on premises), while cloud ERP is hosted via the cloud (online). The benefits of cloud ERP software are that you can access it remotely and it’s more affordable for small businesses. Forbes Advisor named Microsoft Dynamics 365 Business Central, SAP Business One Professional and SYSPRO as the best cloud ERP software because they have low points of entry thanks to their affordability, ease of use and myriad features helpful to small to midsize businesses. Cloud ERP platforms work similarly to other software you likely already use. They’re hosted on the software providers’ servers and paid users from your company use a login to access the software and your data. SAP offers a cloud-based ERP—SAP Business One Professional is a highly customizable ERP solution that we listed as one of our top picks. 
+                Amy Nichol Smith spent more than 20 years working as a journalist for TV and newspapers before transitioning to software and hardware product reviews for consumers and small businesses. She has been featured in publications such as L.A. Times, Tom's Guide, Investopedia and various newspapers across the U.S.            

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kentuckytoday.com/news/business/huuuge-games-improves-conversions-4x-using-idomoo-personalised-video/article_753b5404-0707-5e9e-ae3e-67dc00b32031.html

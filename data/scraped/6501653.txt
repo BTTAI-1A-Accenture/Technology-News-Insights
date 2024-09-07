@@ -1,0 +1,29 @@
+
+                    Gettyimages.com
+                   Sign up for our newsletter  Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Nick Wakeman
+ The U.S. Immigration and Customs Enforcement agency is looking to move its discovery systems to a cloud-based environment. A new request for information is seeking white papers from industry describing how a software-as-a-service solution would work and how to move ICE's caseload. ICE's office of its principal legal adviser is the largest law-focused program within the Homeland Security Department, having a workforce of at least 1,100 lawyers and 350 support personnel. That office represents DHS in immigration removal proceedings before the Executive Office for Immigration Review. The office also litigates all removal cases including those against criminal aliens, terrorists and human rights abusers. To manage its cases, ICE uses Relativity software that is deployed and hosed in the Microsoft Azure cloud environment. Relativity is used for processing, analysis, review and production of data. Other uses include litigation, responding to Freedom of Information Act requests, and to meet requests from Congress. ICE wants the SaaS solution to meet six tasks: The solution also has to be compliant with the FedRAMP cloud security standard. ICE wants potential bidders to respond with a white paper, no more than 15 pages long, that describes their solution and approach. The RFI went out on Jan. 13 with the solicitation number 70CTD023RFI11223. Responses are due Jan. 27. No dollar estimate for the contract is available yet.
+
+ 
+NEXT STORY:
+
+              CISA to hold virtual meeting on $200M IT support contract
+            
+
+
+
+ 
+                  Insider Customer Service 
+                  800-353-9118 or 
+                  email washingtontechnology@omeda.com
+ Help us tailor content specifically for you:

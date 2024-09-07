@@ -1,0 +1,5 @@
+    Laura FrenchAugust 19, 2024 The RCE vulnerability was leveraged in ransomware attacks targeting Indian banks.   SC StaffAugust 19, 2024 Organizations have been warned by the Cybersecurity and Infrastructure Security Agency regarding ongoing intrusions targeting SolarWinds Web Help Desk instances vulnerable to the critical Java deserialization flaw, tracked as CVE-2024-28986. SC StaffAugust 19, 2024 Banshee Stealer has been advertised to enable the theft of almost 100 browser extensions' data, iCloud Keychain credentials, and Notes, according to an Elastic Security Labs analysis. On-Demand Event On-Demand Event On-Demand Event   By clicking the Subscribe button below, you agree to SC Media Terms and Conditions and Privacy Policy.     
+        Copyright © 2024 CyberRisk Alliance, LLC All Rights Reserved.
+        This material may not be published, broadcast, rewritten or redistributed
+        in any form without prior authorization.
+       Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms of Use.

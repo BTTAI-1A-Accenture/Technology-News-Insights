@@ -1,0 +1,80 @@
+Markets 
+
+
+ Hot Stocks 
+
+
+ Fear & Greed Index 
+
+
+ 
+            Latest Market News 
+
+
+ 
+            Hot Stocks 
+
+
+ 
+            The International Monetary Fund warned this week of “vulnerabilities” among so-called non-bank financial institutions, saying global financial stability could hinge on their resilience. The Bank of England called attention to the same issue last month.
+     
+            And global investors surveyed by Bank of America in the middle of the recent banking crisis pointed to a group of US non-banks — rather than traditional lenders such as the newly defunct Silicon Valley Bank — as the most likely source of a credit crisis.
+     
+            But what exactly are non-banks and how risky are they? 
+     
+            The term encompasses financial firms, other than banks, that provide all manner of financial services, including lending to households and businesses. It’s a diverse cast list: non-banks range from pension funds and insurers, to mutual funds and high-risk hedge funds. 
+     
+            And the sector is big. According to the Financial Stability Board (FSB), a body of global regulators and government officials, non-banks had about $239 trillion on their books in 2021, accounting for just under half of the world’s total financial assets.
+     
+            The sector has grown strongly since the global financial crisis in 2008, with its asset base expanding by 7% a year on average, according to FSB data. 
+     
+            As interest rates hit rock-bottom in the years that followed the crisis, many savers and investors turned to non-banks in search of higher returns. Meanwhile, as regulators placed more restrictions on bank lending, certain types of borrowers, such as riskier consumers, increasingly sought out non-banks for finance. 
+     
+            Non-banks that provide credit are known as “shadow banks,” although the term is often used imprecisely to mean all non-banks. It is this type of institution that is worrying the investors polled by Bank of America. 
+     
+            Shadow banks now make up about 14% of the world’s financial assets and, like many non-banks, operate without the same level of regulatory oversight and transparency as banks. 
+     
+            Some of the risks that non-banks run increase when interest rates are rising, as they are now. The sector’s larger size means its troubles could, on their own, destabilize the entire financial system but they could also spread to traditional banks through real and perceived interconnections.  
+     
+            One of the risks is the likelihood of credit losses. In a report in November, the European Central Bank called out the “persistent vulnerabilities” in the non-bank sector, including “the risk of substantial credit losses” if its corporate borrowers started to default amid a weakening economy.  
+     
+            While the economic outlook in Europe has brightened since the start of the year, fears of a US recession have grown following the collapse of SVB and Signature Bank and the rescue of First Republic Bank last month. Economies on both sides of the Atlantic remain fragile, as interest rates are expected to rise further and energy prices are still high despite recent falls.
+     
+            The other risk stems from what is known as “a liquidity mismatch,” which exists in open-ended funds, a type of mutual funds. Open-ended funds allow jittery investors to pull their money quickly but often have cash tied up in assets that can’t be sold as quickly to return money to clients.    
+     
+            Rising interest rates and an uncertain economic outlook have also made funding for some European non-banks both more expensive and harder to come by, Nicolas Charnay, who covers European financial institutions at S&P Global Ratings, told CNN. 
+     
+            Since non-banks do not take deposits from customers, they are mostly exempt from the strict requirements for loss-absorbing capital and liquidity imposed on banks. And most are not subject to regular tests by regulators to ensure they can cope in a range of adverse scenarios. 
+     
+            In a report in February, S&P Global Ratings pointed out another alarming feature of many non-banks. 
+     
+            “Shadow banks cannot access emergency central bank funding in times of stress and we don’t expect governments to use taxpayers’ funds to recapitalize a failed shadow bank,” the firm said. 
+     
+            “This means that public authorities have limited tools to mitigate contagion risks.”  
+     
+            Ill health at a big non-bank or in a large part of the sector could infect traditional lenders because non-banks both lend to and borrow from banks, and many invest in the same assets as their conventional peers.  
+     
+            A notorious example is the collapse of US fund Archegos Capital Management two years ago, which caused about $10 billion worth of losses across the banking sector. More than half of that was sustained by Credit Suisse
+            
+                (CS), which counted Archegos among its clients. The hit contributed to a string of scandals and compliance failures that have plagued the Swiss lender in recent years, eventually leading to an emergency takeover by rival UBS
+            
+                (UBS). 
+     
+            Some regulators are also concerned that certain corners of the sector are particularly exposed to an SVB-style run on its assets that could, in turn, create losses for traditional lenders. 
+     
+            Open-ended funds are especially risky, analysts told CNN. If scores of panicked investors redeem their holdings all at the same time, these funds may need to rapidly sell some of their assets to make the payments. 
+     
+            A firesale of, say, government bonds, by multiple funds would depress the value of those bonds, leading to losses for the bonds’ other holders, which may well include banks. 
+     
+            This is what happened last fall when UK pension funds using the so-called liability-driven investment approach had to sell UK government bonds, which were crashing on the back of then-Prime Minister Liz Truss’s disastrous budget plans. That created “a vicious spiral” in the country’s bond market, in the words of the Bank of England, nearly toppling the UK financial system.
+     
+            Direct and indirect links between banks and non-banks are not the only sources of system-wide risk. Confidence matters hugely in banking, and the mere perception that the banking sector might be connected to a struggling non-bank could spark a broader financial crisis.
+     
+            “This form of contagion risk — via perceived proximity or reputational risk — should not be underestimated,” S&P Global Ratings said in its report.    
+     
+            Regulators are beginning to play a more active role. In March, the Bank of England said it would conduct a stress test of the UK financial system, which would cover non-banks, though it noted that the exercise would not amount to “a test of individual firms’ resilience.” 
+     
+            US and European financial watchdogs have also proposed to introduce “swing pricing,” a mechanism that would impose a cost on pulling cash from a money market fund — a type of open-ended fund — to avoid diluting the value of other investors’ holdings and to discourage runs on the fund’s assets.
+     
+            In a report on non-banks released this week, the International Monetary Fund said it welcomed “stricter supervision” of the sector, which must include rules on their capital buffers and access to liquidity.
+     Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

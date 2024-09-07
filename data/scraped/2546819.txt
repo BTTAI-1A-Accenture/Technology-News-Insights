@@ -1,0 +1,36 @@
+ Just when updates to Google Bard were getting stale, Google announced a boatload of new things for its generative AI tool, Bard. In short, Google added several new features to Bard and expanded access to Bard to "most of the world" and many languages. The New Features Listen (Speak aloud) responses: You can click on the speaker icon next to the responses/answers Bard gives you and Google Bard will speak them aloud for you.  Google said, "this is especially helpful if you want to hear the correct pronunciation of a word or listen to a poem or script."  This also works in 40 languages.
+Tones and styles: Bard can now respond in different tones and styles through a new drop-down setting.  While Bing has three tones, Bard has five, including simple, long, short, professional or casual.  This feature is just available for the English language right now.
+Revisit old prompts: Google added to Bard the ability to see old prompts and responses on the sidebar. You can pin your conversations, rename them and head back to them later if you want.
+Export code: Now you can not just export code to Google Colab but also you can export your Python code to Replit.
+Share responses. You can now also share your responses and prompts via new shareable links with others.
+Images as prompts. We knew Bard was getting Google Lens features and now it is here for English responses. You can now upload images with prompts and Bard will analyze the photo to help. Here is how the tone setting works:  Here is how to pin conversations:  Here is how Google Lens works with Bard:  Expanding Access To Bard Google Bard is now available in more regions and countries and in more languages.  Google said: Bard in more places, including Brazil and across Europe
+Bard is available in over 40 languages, including Arabic, Chinese, German, Hindi and Spanish Here is the current list of languages supported; English, Japanese, Korean, Arabic, Bahasa Indonesia, Bengali, Bulgarian, Chinese (Simplified / Traditional), Croatian, Czech, Danish, Dutch, Estonian, Farsi, Finnish, French, German, Gujarati, Greek, Hebrew, Hindi, Hungarian, Italian, Kannada, Latvian, Lithuanian, Malayalam, Marathi, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu and Vietnamese. And with that, Google updated its Bard updates page with what changed: Bard is available in new places and languages
+What: Bard is now available in over 40 new languages including Arabic, Chinese (Simplified/Traditional), German, Hindi, Spanish, and more. We have also expanded access to more places, including all 27 countries in the European Union (EU) and Brazil.
+Why: Bard is global and is intended to help you explore possibilities. Our English, Japanese, and Korean support helped us learn how to launch languages responsibly, enabling us to now support the majority of language coverage on the internet.
+Google Lens in Bard
+What: You can upload images alongside text in your conversations with Bard, allowing you to boost your imagination and creativity in completely new ways. To make this happen, we’re bringing the power of Google Lens into Bard, starting with English.
+Why: Images are a fundamental part of how we put our imaginations to work, so we’ve added Google Lens to Bard. Whether you want more information about an image or need inspiration for a funny caption, you now have even more ways to explore and create with Bard.
+Bard can read responses out loud
+What: We’re adding text-to-speech capabilities to Bard in over 40 languages, including Hindi, Spanish, and US English.
+Why: Sometimes hearing something aloud helps you bring an idea to life in new ways beyond reading it. Listen to responses and see what it helps you imagine and create!
+Pinned & Recent Threads
+What: You can now pick up where you left off with your past Bard conversations and organize them according to your needs. We’ve added the ability to pin conversations, rename them, and have multiple conversations going at once.
+Why: The best ideas take time, sometimes multiple hours or days to create. Keep your threads and pin your most critical threads to keep your creative process flowing.
+Share your Bard conversations with others
+What: We’ve made it easier to share part or all of your Bard chat with others. Shareable links make seeing your chat and any sources just a click away so others can seamlessly view what you created with Bard.
+Why: It’s hard to hold back a new idea sometimes. We wanted to make it easier for you to share your creations to inspire others, unlock your creativity, and show your collaboration process.
+Modify Bard’s responses
+What: We’re introducing 5 new options to help you modify Bard’s responses. Just tap to make the response simpler, longer, shorter, more professional, or more casual.
+Why: When a response is close enough but needs a tweak, we’re making it easier to get you closer to your desired creation.
+Export Python code to Replit
+What: We’re continuing to expand Bard’s export capabilities for code. You can now export Python code to Replit, in addition to Google Colab.
+Why: Streamline your workflow and continue your programming tasks by moving Bard interactions into Replit.
+Here is John Mueller playing with it in his region: Sogar CEO-tips auf Schweizerdeutsch: pic.twitter.com/p6rlDu3QjK— John Mueller (official) · Not #30D (@JohnMu) July 13, 2023  Sogar CEO-tips auf Schweizerdeutsch: pic.twitter.com/p6rlDu3QjK Here is more from Jack Krawczyk who leads up the Google Bard team: We created https://t.co/FycdN2ktSi to help you explore your curiosity, augment your imagination and get your ideas off the ground — not just by answering your questions, but by helping you build on them.Can't wait to see what you create... and share ;) pic.twitter.com/rsEnkeLjys— Jack Krawczyk (@JackK) July 13, 2023  We created https://t.co/FycdN2ktSi to help you explore your curiosity, augment your imagination and get your ideas off the ground — not just by answering your questions, but by helping you build on them.Can't wait to see what you create... and share ;) pic.twitter.com/rsEnkeLjys More coverage at Techmeme. Forum discussion at Twitter and WebmasterWorld. The content at 
+the Search Engine Roundtable are the sole opinion of the authors and
+            in no way reflect views of RustyBrick ®, Inc
+            Copyright © 1994-2024 
+RustyBrick ®, Inc. 
+Web Development All Rights Reserved.
+            This work by Search Engine Roundtable is licensed under a Creative Commons Attribution 3.0 United States License.
+            Creative Commons License and YouTube videos under YouTube's
+                ToS.

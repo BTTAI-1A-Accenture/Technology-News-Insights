@@ -1,0 +1,5 @@
+    SC StaffAugust 19, 2024 Inadequate protection of the .env files used for web app configuration variable definitions has enabled the compromise of AWS Identity and Access Management and eventual cloud environment access, according to an analysis from Palo Alto Networks. Laura FrenchAugust 13, 2024 Palo Alto research found many open-source projects can be compromised through public artifacts. SC StaffAugust 13, 2024 The cybersecurity firm, which is known for its behavioral AI-powered platform, plans to use the funds to expand its customer base, develop new products, and prepare for an initial public offering in late 2025, according to co-founder and CEO Evan Reiser. Wed Sep 18 On-Demand Event On-Demand Event   By clicking the Subscribe button below, you agree to SC Media Terms and Conditions and Privacy Policy.     
+        Copyright © 2024 CyberRisk Alliance, LLC All Rights Reserved.
+        This material may not be published, broadcast, rewritten or redistributed
+        in any form without prior authorization.
+       Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms of Use.

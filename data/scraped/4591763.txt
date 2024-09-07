@@ -1,0 +1,77 @@
+Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics.                     Bethesda's highly anticipated RPG, Starfield, has generated significant excitement among PC and Xbox gamers over the course of several years. However, as more information about the game is unveiled, players are becoming increasingly concerned about the minimum system requirements. Todd Howard, for instance, recently confirmed that Starfield would feature over 1,000 planets, suggesting a vast universe that could strain CPUs.
+                         Consequently, fans are now questioning whether their PCs will be capable of running this epic AAA title or whether they will need to upgrade it. To address these concerns, this guide provides detailed information on the minimum specifications necessary to run Starfield and covers every aspect of its PC requirements.
+      RELATED: The Best PCs to Play Starfield
+                     To run Starfield with minimum specs, players will need an AMD Radeon RX 5700 or NVIDIA GeForce 1070 Ti graphics card, as well as an AMD Ryzen 5 2600X or Intel Core i7-6800K CPU, paired with 16 GB of RAM and an SSD with at least 125 GB of available storage.
+                         Here’s the complete list of the lowest PC requirements for Starfield:
+      System
+  Requirement
+  Price Estimation
+                     CPU
+                         AMD Ryzen 5 2600X, Intel Core i7-6800K
+                         $185–$215
+                         Graphics
+                         AMD Radeon RX 5700, NVIDIA GeForce 1070 Ti
+                         $350–$400
+                         Memory
+                         16 GB RAM
+                         $80–$150
+                         Storage
+                         125 GB (SSD)
+                         $150–$290
+                         OS
+                         Windows 10 (21H1)
+                         N/A
+                         DirectX
+                         Version 12
+                         N/A
+      Starfield requires an SSD with at least 125 GB of free storage; players will not be able to run the game on HDDs.
+                         For a smooth Starfield experience on PC, players will need an AMD Radeon RX 6800 XT or NVIDIA GeForce RTX 2080 graphics card, an AMD Ryzen 5 3600X or Intel i5-10600K processor, and 16 GB of RAM. They will also require an SSD and an updated Windows 10 or 11.
+                         Here’s the full list of the best PC specs to run Starfield:
+      System
+  Requirement
+  Price Estimation
+                     CPU
+                         AMD Ryzen 5 3600X, Intel i5-10600K
+                         $150–$210
+                         Graphics
+                         AMD Radeon RX 6800 XT, NVIDIA GeForce RTX 2080
+                         $500–$800
+                         Memory
+                         16 GB
+                         $80–$150
+                         Storage
+                         125 GB (SSD)
+                         $150–$290
+                         OS
+                         The latest version of Windows 10 or 11
+                         N/A
+                         DirectX
+                         Version 12
+                         N/A
+                         As the official PC partner of Starfield, AMD has also released a list of base and max specs for the game. According to this tech giant, players will need an AMD Ryzen™ 7 7800X3D CPU, an AMD Radeon™ RX 7900 XT GPU, and an AMD X670 motherboard to run Starfield with 4K resolution.
+                         AMD’s system requirements come in three tiers: Legendary, Epic, and Heroic, with each offering a different performance.
+      Specs
+  Legendary
+  Epic Spec
+  Heroic
+                     Resolution
+                         4K (best performance)
+                         1440p (high FPS)
+                         1080p (base performance)
+                         CPU
+                         AMD Ryzen™ 7 7800X3D
+                         AMD Ryzen™ 7 7700X
+                         AMD Ryzen™ 5 7600
+                         GPU
+                         AMD Radeon™ RX 7900 XT
+                         AMD Radeon™ RX 6800 Series
+                         AMD Radeon™ RX 7600
+                         Motherboard
+                         AMD X670
+                         AMD B650
+                         AMD A620
+      Starfield’s partnership with AMD has caused many controversies, as players believe the suggested bundle is more of a marketing attempt than an actual spec recommendation. Experts claim that AMD’s system requirements include newly released items that—although powerful—are expensive.
+                         On top of the partnership controversies, Bethesda’s secrecy and ambiguity surrounding the game’s 60FPS performance have caused complaints. Even in AMD’s specifications for the game, the Epic setting offers “higher FPS” without specifying the actual frame rate.
+      Starfield will be available on September 6, 2023, for PC and Xbox Series X/S.
+      MORE: Starfield PC Version Has an Unusual Requirement
+ Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics. Do you need an SSD to play Starfield? Here’s the answer PC players are looking for. Death Note is one of the most popular anime ever, with few equals. These series, however, have similar themes fans will enjoy. JJK's latest project could be one of the year's biggest anime announcements. Incubating eggs in Palworld is essential to breeding the titular Pals, but this mechanic can be taken a step further with one change. Looking to build a melee vault hunter in Borderlands 3? Consider getting the Face-Punch shotgun to boost your melee damage. Hunt: Showdown 1896 announces major upcoming changes aimed at addressing player feedback and improving the overall gaming experience. Stray set the world on fire when it released two years ago, and developer BlueTwelve should keep the ball rolling before it's forgotten.

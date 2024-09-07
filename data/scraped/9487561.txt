@@ -1,0 +1,1 @@
+502 Server Error: Next Hop Connection Failed for url: https://finance.yahoo.com/video/want-co-pilot-dr-vinay-004504839.html

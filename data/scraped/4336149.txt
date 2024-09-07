@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/third-point-discloses-holdings-as-of-quarter-end-6019e029

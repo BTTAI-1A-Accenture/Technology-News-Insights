@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.sfexaminer.com/lifestyles/entertainment/frankie-bridge-reveals-why-she-wants-a-saturdays-reunion-i-want-to-prove-im-cool/article_5d33f362-a10c-5de3-b2a8-37b4bd867def.html

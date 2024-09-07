@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.northwestgeorgianews.com/calhoun_times/news/education/gntc-s-salvador-gonzalez-is-first-runner-up-for-tcsg-instructor-of-the-year/article_b826b5e0-e501-11ed-9d67-eb56a6719567.html

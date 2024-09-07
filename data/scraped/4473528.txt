@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/forbright-bank-announces-jim-sigman-as-senior-advisor-and-matthew-quale-as-president-of-digital/article_73d5fdaa-bba0-53ec-a13d-47575f1c3a2f.html

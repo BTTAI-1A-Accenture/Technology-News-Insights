@@ -1,0 +1,126 @@
+
+					By Denise Petski  Senior Managing Editor 
+	The Television Academy today announced the recipients of the 75th Engineering, Science & Technology Emmy Awards, which honor an individual, company or organization for developments in broadcast technology. The awards will be handed out on Wednesday, October 18. 
+	“Advancements in technology are a fundamental part of television production and greatly contribute to the elevation of the storytelling process,” said Frank Scherma, Chair of the Television Academy. “We are honored to recognize these distinguished and talented engineers, scientists and technologists who are at the forefront of pioneering fundamental advancements in television and storytelling.”
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Related Stories		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	News
+	
+
+
+
+	
+		
+					'How To Make Millions Before Grandma Dies' Secures Theatrical Releases Across North America, China & Europe		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Commentary
+	
+
+
+
+	
+		
+					On The Emmy Trail With 'Hacks', 'Samurai' And 'Daily Show's MAGA Whisperer Jordan Klepper; Plus Saying Goodbye To A Hollywood Great - Notes On The Season		
+			
+
+
+
+
+
+ 
+	“The Engineering, Science & Technology Emmys have always recognized domestic ingenuity as well as major innovators from around the world,” said Committee Co-Chair Barry Zegel. “Half of this year’s recipients are headquartered outside of North America,” added Co-Chair Wendy Aylsworth, “and it’s exciting to see how they are changing the television industry.”
+
+ 
+	Here are the recipients of the 2023 Engineering, Science & Technology Emmy Awards: 
+Charles F. Jenkins Lifetime Achievement AwardHonors a living individual whose ongoing contributions have significantly affected the state of television technology and engineering.Recipient: Birney Dayton 
+	Television technology pioneer, Birney Dayton, was one of the founders as well as CEO and CTO of NVISION, which he ran for 20 years. With the goal of building products to support and drive the development of high-definition television, NVISION has been lauded for their innovative products in digital audio, HDTV routing and other broadcast facility products. Prior to NVISION, Dayton was vice president of engineering for Grass Valley Group leading the development of digital products that streamlined the routing of digital signals through production and operations centers. An innovator in bringing fiber optics to the world of television, he built the first fiber-optic transmission system for over-the-air television, used for the opening ceremonies of the 1980 Olympics. In the late 1980s, Dayton chaired the systems analysis working party of the ACATS (Advisory Committee on Advanced Television Service), which tested and selected the best-of-breed technologies to establish the digital television distribution standard that continues to operate throughout North America. In addition, he helped develop the Society of Motion Picture and Television Engineers (SMPTE) analog and digital component video standards, was co-chair of the SMPTE high-definition electronic-production working group and was awarded the SMPTE Progress Medal for his numerous industry-changing digital audio products and technologies. Dayton has authored numerous industry papers and currently holds 15 patents.
+
+	
+
+
+
+
+
+
+
+
+ 
+Philo T. Farnsworth Corporate Achievement AwardHonors an agency, company or institution whose contributions over time have significantly impacted television technology and engineering.Recipient: National Association of Broadcasters (NAB) 
+	The National Association of Broadcasters is the voice for the nation’s radio and television broadcasters. As the premier trade association for broadcasters, NAB advances the interests of their members in federal government, industry and public affairs; improves the quality and profitability of broadcasting; encourages content and technology innovation; and spotlights the important and unique ways stations serve their communities. 
+Engineering, Science & Technology Emmy AwardsPresented to an individual, company or organization for developments in engineering, science and technology that are either so extensive an improvement on existing methods or so innovative in nature that they materially affect the production, recording, transmission or reception of television and thereby have elevated the storytelling process.Recipients: Chris Deighton, Richard Mead, Adrian Jeakins and Evangelos Apostolopoulos for the Brompton Technology Tessera SX40 LED video processor 
+	Brompton Technology’s Tessera SX40 LED (light-emitting diode) video processor has been a key enabler of the revolution in using LED screens for virtual production. To make LED screen-based virtual production even possible requires high-quality, artifact-free processing. The SX40 has become a significant ingredient in a winning recipe utilized in virtual production studios worldwide. Software upgrades have further improved performance and optimized virtual production workflows, ensuring the greatest possible flexibility for the creative team while delivering the gold standard for color accuracy and on-camera visual performance. 
+Recipients: Steve Rosenbluth, Thomas E. Burgess, Konstantin Smola and Glen Winchester for the Concept Overdrive Motion System 
+	Concept Overdrive is a valuable tool for virtual production and augmented reality and has become a professional standard for the control of machines and animatronics in television production worldwide. With an acclaimed user interface, the system implements a streaming motion network, real-time constraints and maximally digital motion control, which make it ideal for interfacing with the real world in modern production environments. 
+Recipient: International Telecommunications Union — Radiocommunications — Study Group 6 for the Standardization of High-Dynamic Range Television (HDR-TV) 
+	Since its first publication in July 2016, Recommendation ITU-R BT.2100 “image-parameter values for high-dynamic range television for use in production and international program exchange,” more simply known as HDR-TV, has impacted the entire television industry, from cameras, post-production (especially in color processing), delivery though traditional broadcasting OTT (over-the-top) streaming services, and both professional and consumer display/television products. BT.2100 provided the critically important international specifications that have enabled HDR to become widely practiced and enjoyed by consumers. 
+Recipients: Raymond Drewry and Jim Helman for the Entertainment Identifier Registry (EIDR) 
+	Created by the technical staff at MovieLabs, the Entertainment Identifier Registry (EIDR) unifies the commercial film and television industry around one standardized content ID, one infrastructure for creating and sharing the ID, and one nested data model for describing the relationships between abstract titles, specific edits of each title and their packagings for distribution. EIDR has provided the mission-critical infrastructure that has enabled the explosion in digital distribution of film and television content to an increasing set of consumer devices over the last 10 years.
+
+	
+
+
+
+
+
+
+
+
+ 
+Recipient: David Eubank for the pCAM Pro 
+	pCAM Pro is a mobile software application developed for Apple’s iOS devices that offers a comprehensive suite of 26 cinematography tools designed for television and film professionals. These tools include calculations to guide decisions on designing camera shots, set design and construction, selecting lenses and camera sensor formats, achieving proper exposure and color balance, creating flicker-free lighting and lighting designs, and functional eye-light and lighting effects, among others. Most notably, it allows for accurate pre-visualization of specific lens and camera pairings, making it an invaluable tool for set crews. 
+Recipients: Thomas Riedel, Jake Dodson, Wolfgang Fritz and Jiou-Pahn Lee for the Riedel Bolero Wireless Intercom 
+	Riedel Bolero’s ADR (Advanced DECT Receiver) wireless intercom solution with multi-diversity and anti-reflection technology, delivers greater RF (radio frequency) robustness than ever seen before in the industry. In addition, it offers Touch ‘n Go NFC (near-field communication) belt-pack registration and versatile operation as a wireless belt pack, a wireless key panel, or (an industry first) a walkie talkie. It also features bluetooth compatibility for phone connections. It successfully provides clear communications in venues that had previously been difficult or impossible to cover due to physical venue design or competing DECT (digital enhanced cordless telecommunications) systems. 
+Recipients: Jeffrey Gray, Russell Hocken, Barrett Phillips and Greg Smokler for the SmallHD Monitor Platform 
+	SmallHD’s rugged and daylight-viewable production monitors have become a staple on every production set, from scripted dramas to live broadcasts. SmallHD’s hardware platform features an entirely custom electronic architecture that allows for continuous expansion of features and connectivity as well as enabling the unique industry-leading PageOS 5 monitoring software system. From the compact on-camera Smart 5 and Smart 7 series to the 4K production monitor line, SmallHD has created a unified and cohesive series of monitors that allow for accurate and consistent viewing and color reproduction across different cameras and applications, ensuring a consistent creative vision from set to final output. 
+Recipients: Meir Shashoua, Yaniv Alon and Shai Fishman for the Waves Clarity Vx Pro 
+	Clarity Vx Pro is a revolutionary noise-reduction plugin that uses the cutting-edge and powerful Neural Networks® engine developed by Waves to separate dialogue from ambience at the highest quality without artifacts and in real time, which sets a new standard in post-production. Addressing today’s post-production needs, Clarity Vx Pro allows for real-time processing and vastly speeds up and enhances the workflow of dialogue editing and mixing. Clarity works in most DAWs (digital audio workstations) to create immediate, clean results without having to render, bounce, duplicate or consolidate tracks. It allows editors and mixers to listen to the dialog processing as part of the whole mix in context. Get our Breaking News Alerts and Keep your inbox happy. Signup for Breaking News Alerts & Newsletters 
+			By providing your information, you agree to our Terms of Use and our Privacy Policy.
+				We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply.		 Get our latest storiesin the feed of your favorite networks We want to hear from you! Send us a tip using our annonymous form. Sign up for our breaking news alerts 
+		By providing your information, you agree to our Terms of Use and our Privacy Policy.
+				We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply.	 Deadline is a part of Penske Media Corporation. © 2024 Deadline Hollywood, LLC. All Rights Reserved. 
+		By providing your information, you agree to our Terms of Use and our Privacy Policy.
+				We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply.	

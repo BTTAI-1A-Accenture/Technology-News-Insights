@@ -1,0 +1,186 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Apr 8, 2024, 5:57pm Learning management systems, or LMS, are software platforms designed to manage, distribute and track employee training. They are often used in corporate settings to deliver online courses and track employee progress. However, they can also be used in other ways, such as to provide compliance training or customer education. There are hundreds of LMS to choose from, each with its own strengths and weaknesses. Forbes Advisor analyzed the best LMS options for small and medium-sized businesses (SMBs), so you don’t have to.  Featured Partners 1 CYPHER Learning Training, Career Dev’t, Compliance Content Creation, Automated skills mapping, 50 + languages HRIS, CRMs, Video Conferencing and more 1 CYPHER Learning On CYPHER Learning’s Website 2 iSpring Onboarding, Compliance, Training 30-day free trial, Courses authoring, Analytics, Cloud/on-premise installation HRIS, CRMs, Video Conferencing and more 2 iSpring On iSpring’s Website 3 Absorb Enterprise and Mid-Market Learning Generative AI, 24/7/365 In-House Support, Custom Branded Learner Interface HRIS/HCMs, Zoom, Webex, Teams, Headless LMS, and more 3 Absorb On Absorb’s Website 4 LearnWorlds Continuous education 30-day free trial, 24/7 support, SCORM CRMs, Video Conferencing, 10+ payment gateways 4 LearnWorlds On LearnWorlds’ Website  The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, first-person testing, strategic methodologies and expert insights to inform all of our content to guide you in making the best decisions for your business journey. Our team analyzed 14 learning management systems with 25 factors such as real-time reporting, certification and licensing options, gamification, course monetization features and whether or not it had a free app to organize this list of the 10 best LMS. All ratings are determined solely by our editorial team. Pricing  Not disclosed 
+ Certification and licensing  Yes 
+ Gamification  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ MATRIX LMS has an intuitive UX, requiring little-to-no technical knowledge to create courses. Users can establish goals, and AI will help them choose a learning path that matches their goals. Its e-commerce tools make it easy to sell online courses, and the mobile app allows students to learn anywhere they’re at. It also includes features such as web conferencing, automation, content authoring and gamification. Who should use it:  Businesses that want an LMS with an intuitive UX and robust e-commerce capabilities. Pricing  Free; $69 per month (billed annually) Certification and licensing  Yes 
+ Gamification  Yes 
+ 
+
+Free; $69 per month
+(billed annually)
+
+ Free; $69 per month (billed annually) 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ TalentLMS is one of the best learning management systems for small businesses. It’s easy to set up and use, and it has all the features businesses need to create and deliver online courses—all with a drag-and-drop interface, which helps minimize setup time. Features include live sessions, tests, quizzes, learning paths, completion rules, custom roles, customization, video conferences, task automation, reports and third-party integrations. If you have a really small team (under five users), you can even access TalentLMS for free. Who should use it:  Businesses that want an LMS with a drag-and-drop interface and minimal setup time. Pricing  Not disclosed 
+ Certification and licensing  Yes 
+ Gamification  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ With its robust feature set and ability to support large groups of users, Absorb is one of the best learning management systems for enterprise businesses. It includes features such as single sign-on, an advanced reporting system, a mobile app, social learning tools, integration with popular HR systems and e-commerce capabilities. Its in-house customer service team operates 24/7/365, so you can always get the help you need, no matter which time zone your users reside in. Who should use it:  Businesses that want an LMS with a robust feature set and the ability to support large groups of users. Pricing  $4.08 per user per month for up to 100 users (billed annually) Certification and licensing  Yes 
+ Gamification  Yes 
+ 
+
+$4.08 per user per month for up to 100 users
+(billed annually)
+
+ $4.08 per user per month for up to 100 users (billed annually) 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ iSpring has a wide range of features, including mobile learning, certification, compliance training, training on products, onboarding, reporting, integrations and SCORM support. It also offers quick turnaround times for customer support requests—an important consideration for businesses that need help setting up or using their LMS. Its support team responds to 83% of support cases within two hours. Who should use it:  Businesses that need an LMS with quick customer support turnaround times. Pricing  Not disclosed 
+ Certification and licensing  Yes 
+ Gamification  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Docebo is one of the best learning management systems for corporations, thanks to features such as social learning, Salesforce integration, mobile learning, e-commerce, free extensions, custom domains and artificial intelligence. Its more than 400 integrations include Adobe Connect, Confluence, Dropbox, Evernote, Facebook, G2, GitHub, Google Analytics, PayPal, Stripe, Trello and WordPress. Who should use it:  Businesses that need social learning features will appreciate Docebo. Pricing  Not disclosed 
+ Certification and licensing  Yes 
+ Gamification  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Whether you’re a higher learning institute, a K–12 school or a corporation, you’ll appreciate D2L Brightspace’s approach to creating a learning management system that’s accessible to all users and helps foster engagement. It includes features such as assessments, contextual feedback, delivering personalized feedback via video, portfolios, badges, age-appropriate icons for nonreaders and virtual classrooms. Its interface is highly customizable, so you can tailor the look and feel of your LMS to best fit your brand. Who should use it: K–12 and higher education institutions, as well as businesses, will find D2L Brightspace to be a helpful LMS. Pricing  Starts at $9,500 per year Certification and licensing  Yes 
+ Gamification  No 
+ 
+
+Starts at $9,500
+per year
+
+ Starts at $9,500 per year 
+
+Yes
+
+
+ Yes 
+ 
+
+No
+
+
+ No 
+ Blackboard Learn is a versatile LMS that is most often used by higher education institutions. Its evidence-based solutions can help colleges and universities identify and overcome barriers to student success. This will help increase student enrollment, retention, student engagement and outcomes. Additionally, it offers robust features such as mobile learning, single sign-on, collaboration and web conferencing. Who should use it:  Higher education institutions will find Blackboard Learn to be the best LMS for their needs. Pricing  Not disclosed 
+ Certification and licensing  For a fee 
+ Gamification  For a fee 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+For a fee
+
+
+ For a fee 
+ 
+
+For a fee
+
+
+ For a fee 
+ Pick any Ivy League school, and you’ll find they all use Canvas LMS. This is because Canvas offers an array of features that these institutions need, such as mobile learning, a global community, open-source code and integrations. It has 99.9% system uptime and a whole host of communication tools to keep students, educators and administrators connected. Additionally, it’s easy to use and has excellent customer support. Who should use it:  Ivy League schools and other institutions of higher education will find Canvas LMS to be the best LMS. Pricing  Free 
+ Certification and licensing  Licensing is free; Certification for a fee 
+ Gamification  Free 
+ 
+
+Free
+
+
+ Free 
+ 
+
+Licensing is free; Certification for a fee
+
+
+ Licensing is free; Certification for a fee 
+ 
+
+Free
+
+
+ Free 
+ Moodle LMS is the best open-source platform, has a user-friendly interface and a host of features, such as mobile learning, video conferencing, plagiarism detection, massive open online courses (MOOCs) capabilities and integrations. While the UI of its website isn’t great, its open-source capabilities make it a great customization platform for businesses, schools and universities. Who should use it:  Businesses, schools and universities that need an open-source platform will find Moodle LMS to be the best LMS for their needs. 
+ An LMS is a software application or web-based technology that is used to design, deliver and evaluate a learning process. It’s an all-inclusive platform designed to empower various educational and corporate organizations to facilitate learning. Here are some key features and insights about LMS: LMSes have become particularly significant in both academic and corporate environments, enabling remote and flexible learning, lowering training costs and promoting a culture of continuous learning and development. They can be especially valuable for training in large businesses, higher education institutions or K-12 schools, and for delivering online courses to the general public. When choosing a learning management system (LMS), it’s important to consider your needs and the needs of your learners. Here are some factors to keep in mind: The best LMS platforms offer a robust feature set that meets the needs of both businesses and learners. Here are some features to look for: Customer service should be a priority when choosing an LMS. You need to ensure that you can receive assistance whenever necessary, particularly in the education sector where you’ve got learners who might run into issues accessing modules after business hours. The ideal LMS should be simple to navigate and demand minimal training. The design should be logical and straightforward, which helps to make the learning experience enjoyable and efficient. A sound LMS platform should adapt as your learning program expands. Ensure the platform you choose can manage increasing user loads and content volumes without compromising on performance. Additionally, your LMS should be compatible with other systems such as human resources databases or school management systems. This flexibility allows for streamlined information sharing and improved functionality. Featured Partners 1 CYPHER Learning Training, Career Dev’t, Compliance Content Creation, Automated skills mapping, 50 + languages HRIS, CRMs, Video Conferencing and more 1 CYPHER Learning On CYPHER Learning's Website 2 iSpring Onboarding, Compliance, Training 30-day free trial, Courses authoring, Analytics, Cloud/on-premise installation HRIS, CRMs, Video Conferencing and more 2 iSpring On iSpring's Website 3 Absorb Enterprise and Mid-Market Learning Generative AI, 24/7/365 In-House Support, Custom Branded Learner Interface HRIS/HCMs, Zoom, Webex, Teams, Headless LMS, and more 3 Absorb On Absorb's Website 4 LearnWorlds Continuous education 30-day free trial, 24/7 support, SCORM CRMs, Video Conferencing, 10+ payment gateways 4 LearnWorlds On LearnWorlds' Website LMS costs differ depending on various factors such as organization size, feature requirements, customization, deployment type and customer support services. Here are the factors that typically influence the pricing: There are free LMS options, though this isn’t common. You can expect to pay a fee per user, typically a few dollars per month. You can usually save money by paying annually, or if you have a large number of users, contacting its sales team can sometimes result in bulk pricing. To identify the best learning management systems (LMS), we utilized a rigorous methodology that involved evaluating a variety of LMS against a weighted set of categories. Each LMS was assigned a score in each category, and these scores were then used to calculate a product’s total score, with a possible maximum score of five stars. The best learning management system (LMS) makes it easy to build, launch and manage courses. Whether you’re selling self-paced online courses or using it to manage student coursework, there’s an LMS that’s designed to meet your needs, budget and skill level. A learning management system (LMS) is used to create, manage, and deliver educational courses or training programs. It is designed to help educators or trainers organize materials and effectively instruct learners, while also assessing learner progress. An LMS is used in various environments, including schools and universities for academic learning, and businesses for training employees or educating customers. Absolutely, an LMS can play a crucial role in onboarding new employees, and can even make it fun if you use a platform that gamifies learning. It allows organizations to create comprehensive and consistent training programs that can be accessed by new hires, regardless of their location. The LMS can track each new employee’s progress, ensuring they complete necessary training modules and understand essential job functions. Furthermore, integrating quizzes and assessments into the onboarding process can help assess a new employee’s understanding of the materials. Thus, an LMS can greatly streamline the onboarding process and ensure new employees are well-prepared. The benefits of using an LMS include improved learning outcomes, increased efficiency and productivity, reduced training costs and improved compliance. When choosing an LMS, it’s important to consider your needs and the needs of your learners. Some considerations include your budget, the features that the platform offers, its ease of use for your staff, how scalable it is and how extensive are its customer support options. 
+                Katherine Haan is a small business owner with nearly two decades of experience helping other business owners increase their incomes.            

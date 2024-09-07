@@ -1,0 +1,75 @@
+
+                    Self-decontaminating fabric enables multiuse personal protective equipment
+                 Rice University image: Daniel Preston (from left), Kai Ye, Yizhi Jane Tao and Marquise Bell
+view more  Credit: (Photo by Gustavo Raskosky/Rice University) HOUSTON – (Sept. 11, 2023) A new material that packs deadly heat for viruses on its outer surface while staying cool on the reverse side could transform the way we make and use personal protective equipment (PPE), cutting down the  pollution and carbon footprint associated with current materials and practices. The composite, textile-based material developed by Rice University engineers uses Joule heating to decontaminate its surface of coronaviruses like SARS-CoV-2 in under 5 seconds, effectively killing at least 99.9% of viruses. Wearable items made from the material can handle hundreds of uses with the potential for a single pair of gloves to prevent nearly 20 pounds of waste that would have resulted from discarded single-use nitrile gloves. “The surge in magnitude of PPE waste and problems caused by supply chain shortages during the pandemic made us realize the need for reusable PPE,” said Marquise Bell, a Rice mechanical engineering graduate student who is the lead author on  a study on the material published in  ACS Applied Materials and Interfaces. “This work paves the way for a systemic shift away from single-use disposable PPE. “The best part is you don’t even need to take off the gloves or other protective garments in order to clean them. This material allows you to decontaminate in seconds, so you can get back to the task at hand.” Using electrical current, the material rapidly heats up its outer surface to temperatures above 100 degrees Celsius (212 Fahrenheit), while remaining close to normal body temperature on the reverse side near the user’s skin where it reaches a maximum of about 36 C (97 F). “The device has to get hot enough to effectively kill viruses, but not so hot that it causes burns or discomfort for the user,” Bell said. “We included safety mechanisms to make sure the latter doesn’t happen.” Compared to other decontamination methods, dry heat tends to be both reliable and less likely to damage protective equipment. However, making wearables that heat up to adequate temperatures quickly has required a lot of work. “Our lab has looked a lot at the thermal inactivation of viruses,” said  Daniel Preston, an assistant professor of mechanical engineering who is an author on the study. “We started during the pandemic with support from a  National Science Foundation grant, trying to understand the mechanism by which these viruses are inactivated and how it's accelerated at higher temperatures.” The earlier research helped lead to the design of the material.  Yizhi Jane Tao  , a professor of biosciences whose  virology lab conducted experiments to confirm the material’s powers of self-decontamination, said she was impressed by how closely experimental data matched predictions. “We’re very happy that we can contribute our expertise toward this new material,” Tao added. Kai Ye, a graduate student in the Tao lab who helped with the research, said the gloves handled “the infectivity test” well and promise to protect against other similar viruses. Considering the temperature difference between its outer and inner surfaces, the material is surprisingly supple and lightweight ⎯ a feat that feeds directly into Bell’s research focus on smart textile materials. “I study the mechanics, thermodynamics and heat transfer processes of soft goods that can be layered for use in wearable assistive devices,” said Bell, who is funded by a NASA Space Technology Graduate Research Opportunities fellowship. “Spacesuits, for instance, are made up of many layers: The innermost layers are where a lot of the functionality happens, close to the human body. Then you have a lot of thermally insulating layers in between, topped off with firmer, more protective layers on the outside of the suit. “I look at how we can use smart textile materials and integrate them into spacesuits to decrease their weight while adding multifunctionality.” Bell participated in this year’s  NextProf Nexus, a competitive workshop that is part of a “nationwide effort to strengthen and diversify the next generation of academic leaders in engineering,” according to the program. Co-organized by the University of Michigan, University of California, Berkeley and Georgia Institute of Technology, NextProf Nexus helps prepare engineering students from underrepresented groups for navigating the academic job market, from researching open positions and funding opportunities to crafting effective application materials. This year, NextProf was hosted by Georgia Tech and welcomed its largest cohort ⎯ roughly 70 participants out of more than 300 applicants. “It's becoming more real that I'm now in the latter part of my Ph.D.,” Bell said. “The workshop was a more comprehensive, in-depth experience than I initially expected, and I’m really glad I had the opportunity to participate.”
+
+The research was supported by the National Science Foundation (2030023), the Welch Foundation (C-1565), NASA (80NSSC21K1276), the National GEM Consortium, the Rice Academy of Fellows and the Shared Equipment Authority. -30- 
+This release can be found online at  news.rice.edu. Follow Rice News and Media Relations via Twitter  @RiceUNews.
+
+Peer-reviewed paper:
+
+“Rapid In Situ Thermal Decontamination of Wearable Composite Textile Materials” | ACS Applied Materials and Interfaces | DOI: 10.1021/acsami.3c09063
+
+Authors: Marquise Bell, Kai Ye, Te Faye Yap, Anoop Rajappan, Zhen Liu, Yizhi Jane Tao and Daniel Preston
+
+https://doi.org/10.1021/acsami.3c09063 
+
+Image downloads: https://news-network.rice.edu/news/files/2023/09/0923_ACS-Applied-Materials_MBwdevice_LG.jpg 
+CAPTION: Marquise Bell, a Rice University mechanical engineering graduate student, is lead author on a study published in ACS Applied Materials and Interfaces and a participant in the 2023 NextProf Nexus workshop. (Photo by Gustavo Raskosky/Rice University)
+
+https://news-network.rice.edu/news/files/2023/09/0923_ACS-Applied-Materials_researchteam_LG.jpg 
+CAPTION: Daniel Preston (from left), Kai Ye, Yizhi Jane Tao and Marquise Bell (Photo by Gustavo Raskosky/Rice University)
+
+https://news-network.rice.edu/news/files/2023/09/0923_ACS-Applied-Materials_hothandLG.jpg 
+CAPTION: A glove made of a material designed at Rice University that kills coronaviruses with heat without burning users’ skin. (Photo by Gustavo Raskosky/Rice University)
+
+https://news-network.rice.edu/news/files/2023/09/0923_ACS-Applied-Materials_MarquiseLG.jpg 
+CAPTION: Marquise Bell participated in this year’s NextProf Nexus workshop, a national, competitive faculty development program for engineering students from underrepresented groups. (Photo by Gustavo Raskosky/Rice University)
+
+https://news-network.rice.edu/news/files/2023/09/0923_ACS-Applied-Materials_PrestonBell_LG.jpg 
+CAPTION: Daniel Preston and Marquise Bell (Photo by Gustavo Raskosky/Rice University)
+
+https://news-network.rice.edu/news/files/2023/09/0923_ACS-Applied-Materials_TaoYe_LG.jpg 
+CAPTION: Kai Ye and Yizhi Jane Tao (Photo by Gustavo Raskosky/Rice University)
+
+Related stories: 
+
+Smart fabrics’ informed touch can tell you where to go:
+https://news.rice.edu/news/2023/smart-fabrics-informed-touch-can-tell-you-where-go 
+
+Rice engineers’ storage technology keeps nanosurfaces clean:
+https://news.rice.edu/news/2023/rice-engineers-storage-technology-keeps-nanosurfaces-clean 
+
+Fluidic circuits add analog options for controlling soft robots:
+https://news.rice.edu/news/2022/fluidic-circuits-add-analog-options-controlling-soft-robots 
+
+Wearables take ‘logical’ step toward onboard control:
+https://news.rice.edu/news/2022/wearables-take-logical-step-toward-onboard-control 
+
+Rice engineers get a grip with ‘necrobotic’ spiders:
+https://news.rice.edu/news/2022/rice-engineers-get-grip-necrobotic-spiders  Powering an ‘arm’ with air could be mighty handy:
+https://news.rice.edu/news/2022/powering-arm-air-could-be-mighty-handy 
+
+Links:
+
+Preston Innovation Laboratory:  https://pi.rice.edu  Tao Laboratory:  https://www.ytao.rice.edu/  Department of Biosciences:  https://biosciences.rice.edu/  Department of Mechanical Engineering:  https://mech.rice.edu
+
+George R. Brown School of Engineering:  https://engineering.rice.edu/
+
+Wiess School of Natural Sciences:  https://naturalsciences.rice.edu/ 
+
+Located on a 300-acre forested campus in Houston, Rice University is consistently ranked among the nation’s top 20 universities by U.S. News & World Report. Rice has highly respected schools of Architecture, Business, Continuing Studies, Engineering, Humanities, Music, Natural Sciences and Social Sciences and is home to the Baker Institute for Public Policy. With 4,552 undergraduates and 3,998 graduate students, Rice’s undergraduate student-to-faculty ratio is just under 6-to-1. Its residential college system builds close-knit communities and lifelong friendships, just one reason why Rice is ranked No. 1 for lots of race/class interaction and No. 4 for quality of life by the Princeton Review. Rice is also rated as a best value among private universities by Kiplinger’s Personal Finance. 
+  If you do not wish to receive news releases from Rice University, reply to this email and write “unsubscribe” in the subject line. Office of News and Media Relations – MS 300, Rice University, 6100 Main St., Houston, TX 77005. ACS Applied Materials & Interfaces 10.1021/acsami.3c09063  Experimental study Not applicable Rapid In Situ Thermal Decontamination of Wearable Composite Textile Materials 11-Sep-2023 Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system. Media Contact 
+                                    Silvia Cernea Clark
+                    
+					Rice University
+
+                silviacc@rice.edu
+            
+        
+                    Office: 7133486728
+ Rice University 
+
+ 
+
+ Copyright © 2024 by the American Association for the Advancement of Science (AAAS) Copyright © 2024 by the American Association for the Advancement of Science (AAAS) 

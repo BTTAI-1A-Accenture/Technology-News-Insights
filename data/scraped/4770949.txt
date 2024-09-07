@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.galvnews.com/news_ap/business/check-point-expands-its-cloud-native-application-protection-platform-cnapp-with-risk/article_425b970d-6057-54f9-85e6-273756d7deb1.html

@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Our model using AutoML in Cloudera Machine Learning finished the Sweet 16 Round of the NCAA tourney by picking 5 out of 8 correctly.  I mentioned in the first article on the tournament that team experience has been a good predictor of upsets in the past and I had that in my models but probably not enough because the teams in the upsets were stacked with seniors and 5th year players. For purely educational reasons only, I decided to calculate the best parlay and straight bets that I could have made based off the predictions in the Sweet 16 and these are the ones that calculated to have an 8% prediction score versus what the Vegas odds makers had on the game.   Even bets spread across each of these would have resulted in a cool 14% gain.   Now on to the Elite 8!  And here are the picks based off our model. And of course for purely entertainment only... Here are the parlays that would be 8% or better prediction scores better than what the Vegas odds makers have predicted. Good luck and Go Kansas State and Miami and Gonzaga!!  Nice, Chris.  Did u guthub the code? 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

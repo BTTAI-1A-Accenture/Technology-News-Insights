@@ -1,0 +1,30 @@
+In November, the Canary reported that technology developed by spyware firm Palantir would be used to manage a new NHS Faster Data pilot programme. It’s since been reported that the programme’s data will contribute to a £360m NHS Federated Data Platform (FDP). Procurement for the FDP is yet to commence, though the NHS stated that Palantir’s technology is available for transition to the platform. Palantir is named after the all-seeing stones featured in Tolkien’s Lord of the Rings series. It’s owned by billionaire Peter Thiel, who is a board member and major investor of Facebook and was a member of Donald Trump’s transition team. Palantir has worked with the CIA, the FBI, NSA, the Marine Corps, the US Air Force, Special Operations Command, and West Point (US military academy). Palantir’s technology has been used in a number of surveillance and intelligence-gathering projects. They include predictive policing and tracking of immigrants. In 2021, Palantir’s COO Shyam Sankar boasted the company’s partnerships meant it’s “inside of every missile, inside of every drone”. Palantir also helped develop an aid for the spyware XKEYSCORE programme. The aid imports data from the NSA to help “investigate and visualize it through Palantir”. This aid was developed for the ‘Five Eyes‘ spy agencies (USA, UK, Canada, Australia, and New Zealand). 
+ Furthermore, Palantir has worked for UK intelligence and was awarded contracts to handle vast data sets on UK citizens for British spy agency GCHQ.  Investigations by US journalist Barrett Brown revealed that Palantir, together with HBGary Federal and Berico, were part of a dirty tricks campaign called Team Themis. The campaign aimed to discredit WikiLeaks founder Julian Assange and Intercept editor Glenn Greenwald. In 2020, at the height of the coronavirus (Covid-19) pandemic, Palantir was awarded a contract with the NHS’s datastore project. It won hands down, as it offered to do the work for a mere £1. But this was a foot in the door and within six months the value of the contract increased to £23m. In November 2022, the Canary reported that the company had been awarded yet another contract with the NHS – this time for its faster data programme. Instead of the usual procurement process, NHS Digital was instructed to go with Palantir’s ‘Foundry‘ software as this merely required an amendment to Palantir’s original contract. Now, it’s understood that data extracted from the faster data programme will be rolled into a £360m NHS Federated Data Platform. NHS England confirmed that the data extracted: is part of service provision under NHS England’s existing contract with Palantir for the provision of a data platform, which is a software platform (Foundry) for the secure, reliable, and timely processing of data to enable NHS decision makers to best plan use of resources and improve patient care. Those services are within the scope of the requirement for the Federated Data Platform and would be transitioned to the FDP as part of its implementation in place of the existing platform. A June 2022 Department of Health paper described the FDP as “a system of connected platforms, placed in, and ultimately determined by, individual NHS organizations”. Dean Sabri, principal analyst for UK health and social care at GlobalData, explained that the FDP project: will combine all data on individual patients, waiting lists and medical trials from various sources and formats into a single platform. It will rely on the data platforms deployed at Trust and integrated care system (ICS) level to gather and correctly input the information accurately. Those systems will also need to have standards in place which enable open working through APIs. Or, as financial trader IG puts it: Palantir’s software would become the underlying operating system for the National Health Service to manage the medical data of every patient in England. The trader added that “many see the move as a step towards further privatisation of the NHS”. In May 2020, Jim Killock of the civil liberties organisation Open Rights Group warned the Canary that: Procurement for the FDP project will commence “soon”, according to Computer Weekly. However, data extracted for the FDP is via Palantir’s Foundry. So it would be very unlikely that someone other than Palantir gets the contract. Featured image via YouTube The Canary Workers’ Co-op knows life is hard. The Tories are waging a class war against us we’re all having to fight. But like trade unions and community organising, truly independent working-class media is a vital weapon in our armoury.  The Canary doesn’t have the budget of the corporate media. In fact, our income is over 1,000 times less than the Guardian’s. What we do have is a radical agenda that disrupts power and amplifies marginalised communities. But we can only do this with our readers’ support.  So please, help us continue to spread messages of resistance and hope. Even the smallest donation would mean the world to us.  The CanaryPO Box 71199LONDONSE20 9EX Canary Media Ltd – registered in England. Company registration number 09788095. For guest posting, contact [email protected] For other enquiries, contact: [email protected] The Canary is owned and run by independent journalists and volunteers, NOT offshore billionaires. 
+
+
+You can write for us, or support us by making a regular or one-off donation.  © Canary Media Ltd 2024, all rights reserved | Website by Monster | Hosted by Krystal | Privacy Settings Login to your account below 
+
+ 
+
+ 
+
+Remember Me
+ 
+
+
+
+ Fill the forms below to register 
+
+ 
+
+ 
+
+
+
+ Please enter your username or email address to reset your password. 
+
+ 
+
+
+
+ © 2023 Canary - Worker's co-op.

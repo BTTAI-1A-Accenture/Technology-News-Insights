@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://www.yahoo.com/lifestyle/cockroachdb-introduces-functions-increase-development-140200593.html

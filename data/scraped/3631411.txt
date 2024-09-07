@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://newsadvance.com/news/nation-world/business/economy/retail-sales-rose-0-3-in-may-despite-pressure-from-higher-inflation-and-interest-rates/article_1a425542-4443-509c-9eb6-b44dfba1a5fe.html

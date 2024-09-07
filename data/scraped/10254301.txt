@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » Y Combinator’s Winter 2023 Cybersecurity, Privacy, and Trust Startups  Demo Day for Y Combinator's Winter 2023 batch took place on April 5-6, 2023. Notably, this was the first batch with YC's new President and CEO Garry Tan at the helm. Nine cybersecurity, privacy, and trust startups were among the 282 companies unveiled at the two-day event. In YC's current era of smaller batch sizes, nine companies is still a healthy representation for the cybersecurity ecosystem. Batches across the past two years have included roughly a dozen cybersecurity companies. Numbers have remained resilient despite the recent slant towards AI/ML companies, including 60 in the Winter 2023 batch. We'll be doing a quick analysis of each cybersecurity, privacy, and trust company in this article, just as we've done for previous batches. Companies in the Winter 2023 batch include: 0pass: A passwordless authentication platform for an organization's workforce. Blyss: A privacy-focused data warehouse built on homomorphic encryption. Credal: A data security product for AI apps. EdgeBit: A software supply chain security platform focused on prioritization. Escape: A GraphQL API security platform. Intrinsic: API-based technologies for trust and safety teams. Infiscal: An open source secrets manager for developers. Matano: An open source, cloud-native SIEM. Nucleus: A Know Your Business (KYB) compliance orchestration platform. An overall observation before we get into the analysis: only one of the nine companies (Escape) has disclosed financing other than Y Combinator's investment. This is somewhat unusual for Y Combinator companies, who are generally regarded as the best of the best among early stage startups. Each of the nine companies likely have capital raises in the works, but it's a clear departure from the earlier trend of YC companies announcing funding on or before Demo Day. I expect the timing for this batch is more reflective of the overall funding environment than the companies themselves — all of which are at or above the level of quality from previous batches. It's a trend to watch as other early stage companies are likely facing similar (or worse) situations. 0pass is a passwordless authentication platform for a company's workforce. Their passwordless implementation is based on Public Key Infrastructure (PKI) and implements authentication through Windows Hello, TouchID, FaceID, and Yubikeys. The platform also provides features for managing the full lifecycle of PKI enrollment, certificate renewals, and more for end users. 0pass is one of many early stage companies competing in the Passwordless and Multi-Factor Authentication market. Customer segments are an important nuance of this market. 0pass is currently focused on passwordless authentication for workforce, meaning a company's internal employees and third party business partners. Their solution is not currently focused on customers — a completely different user group with a slightly different set of use cases and implementation requirements. From an implementation standpoint, many security leaders avoid deploying hardware-based authentication solutions for non-technical users because using external devices for authentication is unnatural. The behavior of authenticating without passwords is still in the early stages of user adoption. It's going to take time for people to get on board. At a macro level, passwordless authentication is an extremely competitive market with competition among a range of companies, from early stage to tech giants like Apple, Google, and Microsoft. Many startups are well financed — for example, Transmit Security's $543 million Series A round that was the largest Series A investment in cybersecurity history. Passwordless authentication is one of the most important paradigm shifts in cybersecurity. It's a generational transition — we're not going to see many of these in our careers. A Gartner research report predicted 30% of organizations would use at least one form of passwordless authentication by 2023, which is…still not a lot. However, it's still a positive upward trend in a massive market. As I wrote in my deep dive on 1Password, we're still in the early days of passwordless adoption. There is plenty of room in the market for more companies to succeed. Yubico, a later stage startup that helped pioneer hardware-based authentication (Yubikeys), just announced it's going public via SPAC and disclosed impressive growth metrics. Their announcement is likely the best financial data on a pure passwordless company that's been made publicly available to date. Yubico's strong revenue, growth, and an impending public listing are all positive signals for earlier stage companies in this market. According to PitchBook data, Y Combinator's $500,000 SAFE note is the only investment disclosed to date. Blyss is building a privacy-focused data warehouse using homomorphic encryption. Their company description explains what this means with perfect clarity: Data sent into Blyss is permanently sealed; once it enters, it's never decrypted. All analysis happens directly on the encrypted data. Regulated enterprises can use Blyss to unlock value from sensitive data without risking leaks. I would roughly classify Blyss as a Data Deidentification and Pseudonymity company. However, they're potentially creating a new product category that is a hybrid of security and data warehouses. Blyss is a fascinating instance of a non-security product (data warehouse) with security and privacy (homomorphic encryption) at its core. In other words, the product is differentiated from other types of data warehouses because of the security and privacy benefits. How much had you heard about homomorphic encryption before reading about Blyss? Probably not much — myself included. That's the challenge: the big idea of privacy-focused data stores is still pretty new to most people. Awareness is something we're still working through, although the trend of developers embracing security is accelerating quickly. There's a risk of this being a "solution in search of a problem" situation, although homomorphic encryption is a legitimate solution for difficult problems like facial recognition, voice assistance, and smart contracts. From an implementation standpoint, adopting an entirely new data warehouse (privacy-focused or not) is a challenge for companies who already have one or more. Many companies don't have the luxury of starting from a clean slate, so data migration is a huge obstacle. I'll be discussing more about this topic in an upcoming interview with a previous YC founder, so stay tuned. Widespread adoption of a security and privacy-focused data warehouse would be a huge win for cybersecurity. There are a variety of different approaches for bringing security and privacy to data stores, and homomorphic encryption is among the most promising. The technology is so new that there is relatively little direct competition. Zama is one example of another company making progress with open source homomorphic encryption tools. It's a very nascent market, which means Blyss has plenty of room to establish itself as the clear leader. Bigger picture, Blyss is advancing technology that wasn't previously possible and making it something that's widely available and commercialized for engineers. The product is a massive advancement in the security and privacy of data, which means it has a chance to become a big company. According to PitchBook data, Y Combinator's $500,000 SAFE note is the only investment disclosed to date. Credal protects sensitive data used with AI apps, including major providers of Large Language Models (LLMs) like ChatGPT. The product provides enterprise-grade controls over use of company data, including DLP-like tools for data exfiltration, logging, proxying, and Master Service Agreements (MSAs). Credal broadly fits into the Data Loss/Leakage Prevention category, albeit with a very specialized use case that could easily be considered a standalone segment. AI security is beginning to establish itself as an entirely new (and potentially massive) market within cybersecurity. Security for LLMs isn't something many companies have on their radar yet. Slower-adopting organizations may not have tested or adopted LLMs yet. Or, if they have, they're still determining what the impact on their company could be. Even with the recent popularity of ChatGPT, it's fair to say that security for LLMs is still almost unheard of. Longer term, the question is whether data security for AI and LLM apps is a standalone category or part of an established enterprise data security platform. A product like Credal could be a valuable acquisition target — not a challenge, but a factor that may keep them from reaching later stages of growth as a standalone company. You may have heard about ChatGPT…basically everywhere on the internet in 2023. There's a brilliant quote by Paul Virilio that's useful here: "When you invent the ship, you invent the shipwreck." In this instance, LLMs like ChatGPT are the ship, and security and privacy are the shipwreck. Multiple flavors of security issues have already occurred — including companies leaking sensitive data to ChatGPT, and ChatGPT itself leaking data between users. The explosive growth of LLMs themselves and applications built on top of them are sure to bring more security and privacy issues. LLMs and ChatGPT were a huge topic of conversation at RSA Conference this week. Rak Garg shared a nice summarization on LinkedIn: Everyone is aware of the risk of employees inadvertently leaking data to ChatGPT, and there's no great solution outside of domain blocking at the network layer.  Most companies, especially those based in the United States, are unlikely to go the way of Italy and issue full-blown bans of LLMs. The upside is too high, even with the potentially catastrophic downside risks. For security teams, this means finding ways to allow employees to safely interact with AI apps and LLMs. The Cloud Security Alliance recently published an analysis of the security implications for ChatGPT — a nice starting point, but not yet a full solution. If Credal becomes the solution for companies who need to secure AI apps used by employees, it's going to be a big company. According to PitchBook data, Y Combinator's $500,000 SAFE note is the only investment disclosed to date. EdgeBit dynamically monitors, analyzes, and prioritizes software supply chain vulnerabilities. The product takes a unique new approach to prioritization by understanding which code is executing in your environment. The result is a live inventory of relevant vulnerabilities…instead of a laundry list of vulnerabilities you aren't sure if you need to worry about. EdgeBit is a Software Supply Chain Security company. Although their differentiator is focused on prioritization, their product is comprehensive enough to compete with other supply chain security companies in this market. Starting with a narrow focus on prioritizing supply chain vulnerabilities is exactly what EdgeBit needs to do as an early stage company. However, this is both a challenge and an opportunity. Winning prioritization could be a wedge into the broader supply chain security and vulnerability management markets, or it could make them a prized acquisition target. Acquisitions are fine, of course, but there's a chance that being too good at prioritization catches the eye of strategic acquirers hungry for buying promising early stage companies. Competition is also a challenge, with many of the top early stage companies (and investors) focused on supply chain security. Companies that didn't start with prioritizing supply chain vulnerabilities will get to those features eventually. Does EdgeBit have enough time to establish itself before competitors catch up? There is a clear trend towards vulnerability prioritization in the overall Vulnerability Management (VM) market. Large vulnerability management companies like Qualys, Rapid7, and Tenable talked extensively about vulnerability prioritization in their most recent annual earnings announcements. Vulnerability management fatigue is one of the most well-known challenges (and complaints) for security practitioners today. Ironically, if we had to build VM again from scratch, prioritizing vulnerabilities would be one of the first features to build. Supply chain security is probably the closest thing we're going to get to a do-over. If EdgeBit's real-time prioritization approach wins out, they can become a big company. According to PitchBook data, Y Combinator's $500,000 SAFE note is the only investment disclosed to date. Escape helps engineering and security teams find and fix vulnerabilities in GraphQL APIs. The product is a security testing tool that runs in CI/CD pipelines, not a scanning tool that runs after deployment in test or production environments. The magic is in a new testing approach called feedback-driven API exploration, which progressively learns from API responses and generates increasingly relevant tests over time. Escape is an API Security company with a specific focus on GraphQL-flavored APIs. Like several other cybersecurity companies in this YC batch, Escape's challenge (and opportunity) is focusing on a relatively narrow slice of a growing market — GraphQL security within API security, in this case. Competition in the overall API security market is intense, including unicorns Noname Security and Salt Security. Beyond API security, application security platforms like Snyk and Veracode have raised significant venture capital and private equity financing, respectively. Escape is already an early member of Snyk's technology alliance program. The value they bring is undoubtedly on the radar for Snyk and others already. Their focus on GraphQL and innovative testing approach could make them an early stage acquisition target. We're still in the early days of API security for traditional REST APIs. Adoption of GraphQL itself is increasing rapidly, and security desperately needs to keep up. Two stats shared by Escape in their YC launch help make the point: GraphQL is now used by 20% of developers, and 95% of GraphQL APIs have unremediated security vulnerabilities. These are astonishing figures, even if they're only directionally correct. GraphQL is on its way to becoming the dominant architecture for APIs. An even more significant development is the rise of API-first companies. According to GGV Capital research, API-first companies have raised over $14 billion in capital, including the likes of Stripe, Plaid, Segment, and many more. Escape is well positioned to become the leader in security for GraphQL with its team, tech, and Y Combinator backing. They'll become a big company if they can ride the wave of GraphQL growth and become the go-to platform for security. According to PitchBook data, Escape has raised a total of $850,000 across two early stage financing rounds. In addition to Y Combinator, investors include Irregular Expressions, Frst Capital, and a handful of individual angel investors. Intrinsic provides tools for trust and safety teams through a unified API. Examples of tools include image and text scanning, content policy definitions, scoring, and analytics. Intrinsic is a welcomed addition to the growing Trust and Safety market, which builds workflows and tools for online platforms to reduce the risk of fraud, harm, and abuse among users. Intrinsic shares many of the challenges I wrote about when covering Cinder, a Y Combinator company from the Winter 2022 batch: Finding customers at the right level of traction and scale to require more advanced trust and safety operations is potentially tricky. Small companies with seed funding or earlier are usually still seeking traction. This doesn't leave much room to focus on problems outside of growth — trust and safety being one such problem. There is also a lot of variety in this space. Trust and safety threats and problems vary by company and by industry, as do the processes for solving them. Cinder offers customizable workflows for this exact reason, but managing the variety is a potentially difficult product management challenge. Intrinsic is more focused on tools than workflows, providing a base set of technologies that can be used by engineers working within trust and safety teams to integrate features directly into products. This requires a slightly higher level of process maturity and technical sophistication in exchange for the flexibility to customize and enhance products with world-class trust and safety primitives. As I discussed with Cinder, the problems addressed by trust and safety teams are massive societal problems: Problems with abusive content, fraud, and threats were a nascent problem that only existed in the world of large social media companies. Or so we thought. We've now entered an era of misinformation, abuse, and outright information warfare that causes massive societal problems and elevates the discussion about trust and safety into the public spotlight. For companies like Intrinsic, the seemingly narrow target market of trust and safety teams is deceiving. User Generated Content (UGC) is among the internet's most profound breakthroughs. The most common UGC examples we think of are social media and YouTube — however, the impact of UGC spans almost every vertical of tech and society, including online gaming, Esports, travel, commerce, and more. A recently published academic study in the Journal of Advertising measures the effectiveness of UGC and traditional media for customer acquisition and retention, concluding UGC is more effective for acquiring customers. Studies like this are one of many signals we intuitively understand as people in the tech industry: UGC is both profoundly important and dangerous when misused. Now, the dangers of online misinformation and abuse are widely understood. Along with the looming possibility of social media regulation and growing support for outright bans of platforms like TikTok, it's clear we are on the brink of entering a new phase of governing content on the internet. If Intrinsic can establish itself as a foundational platform for trust and safety, it can become one of the most important companies for this inevitable next phase. According to PitchBook data, Y Combinator's $500,000 SAFE note is the only investment disclosed to date. Infiscal is an open source platform for managing developer secrets. "Secrets" include a specific subset of credentials like API keys, service account passwords, certificates, and more. The product includes several developer-focused features like injection into local dev environments, synchronization across teams, secrets rotation, versioning, and more. Infiscal is a secrets management platform, which is a subset of the overall Privileged Access Management (PAM) market. As a major category within PAM, secrets management is a relatively established product category in cybersecurity with strong market leaders. CyberArk is a high performing public company, and their Conjur product has been a successful add-on to their core PAM product for enterprise customers. HashiCorp IPO'ed in late 2021. Vault, an open source secrets manager, is one of the company's core products. 1Password, a later stage startup, is also in this market with its Secrets Automation product. Beyond traditional competitors, secrets management is becoming a native feature in code repositories like GitHub and GitLab and cloud platforms like AWS, Azure, and Google Cloud Platform (GCP). Despite the volume of established companies competing in this market, problems with secrets management are far from solved. It's too early to declare this market has been won, which could leave a window of opportunity for Infiscal. Any time a cybersecurity company shows success by growing through bottom-up adoption and winning over developers, you need to pay attention. Infiscal's open source repository already has 5,743 starts on GitHub and 64 contributors (as of today). Their YC launch also stated 220+ community members in their private Slack. Those are impressive numbers for a very young company. Adoption and maturity of secrets management among engineering teams is still relatively early stage. A 1Password report on the topic includes all kinds of interesting statistics. I wrote about secrets management in a previous article about security for developers: In a 2021 1Password survey, 80% of IT/DevOps organizations admitted to not managing their secrets well. That's…not great. It's also a more pervasive problem than you'd think. In the same survey, 65% of companies reported having over 500 secrets, and 18% have more than they can count. Products that are relentlessly focused on making it easier for developers to securely use and manage secrets are going to rise to the top. Like HashiCorp, Infiscal needs to keep winning over developers. Their open source model makes it easy for engineering teams to adopt the product and eventually upgrade to paid plans. Developers are a difficult but valuable audience. If Infiscal can continue the rate of traction they're already gaining with developers, they're going to be a big company. According to PitchBook data, Y Combinator's $500,000 SAFE note is the only investment disclosed to date. Matano is building an open source, cloud-first Security Information and Event Management (SIEM) platform. The product ingests security log data from sources like SaaS, network, endpoints, and more and allows companies to analyze and build detection rules on top of the aggregated data. Matano is an open source Security Information and Event Management (SIEM) platform. It's counterintuitive to be building a SIEM product alongside companies like Splunk, a public company with $3.65 billion in revenue for its most recent fiscal year, Google's Cloud's market entry via its acquisition of Siemplify, Sumo Logic, a recently acquired Francisco Partners portfolio company, Panther, one of the most promising cybersecurity unicorns, and more. Direct competition aside, larger questions loom about the future of the SIEM market due to the rise of XDR platforms from Palo Alto Networks, CrowdStrike, SentinelOne, and others. Competing anywhere near the vicinity of SIEM, XDR, and the ultra-powerful companies in these markets is challenging. Jack Naglieri, the Founder and CEO of Panther, describes his own experiences as an engineer building a custom cloud-native SIEM internally at Airbnb. He also discusses the temptation (and pitfalls) for security teams to build their own SIEM on this episode of the Business of Cyber. His commentary is relevant background for the problem Matano is trying to solve. TL;DR: some companies insist on buiding their own SIEM, and they shouldn't. The critical market insight for Matano is exactly that: a lot of companies still want to build their own SIEM (or SIEM-equivalent platforms for security log analysis). This segment of the market is bigger than it might sound, especially with the rise of security engineering and plenty of born-in-the-cloud technology companies. Matano can be a big company if it can appeal to people in this market segment as a better alternative than building a SIEM from scratch. According to PitchBook data, Y Combinator's $500,000 SAFE note is the only investment disclosed to date. Nucleus is an orchestration service for Know Your Business (KYB) compliance — a U.S. federal government requirement for institutions like banks, fintech companies, securities brokers, and other financial institutions to verify the identity of business customers and reduce the risk of fraud and money laundering. The product is conceptually similar to AiPrise, a YC company from the Summer 2022 batch who focuses on orchestration for Know Your Customer (KYC) compliance — a similar regulation for individuals. A nuance I explained while covering AiPrise also applies to Nucleus: The "integration and orchestration" part is an important distinction — it doesn't do the verifications. There are plenty of good products that do this already. [The] problem space is how to manage the identity verification providers — an adjacent but tricky challenge. What the product does may sound complex if you don't spend much time dealing with financial regulations. If that's the case, a quick demo of the product is better than words. Nucleus generally fits into Identity Proofing, with the nuance I pointed out earlier about managing but not doing the validation. The product focuses on validating the identities of businesses, not individual people or the employees who work for a business. Similar to AiPrise, Nucleus faces the challenges that come with competing in a market that's perceived to be niche: Managing multiple identity verification and KYC providers is somewhat of a niche. The pain is most commonly felt by fintech companies. Many investors would question if the problem space and market is big enough to become a large company. Niche markets and specific problems like this are YC's bread and butter, though. What seems like an obscure problem is often bigger than people expect. Solving a niche problem well also unlocks adjacent opportunities in broader domains (Fraud and Transaction Security, in this case). Competition is also somewhat of a challenge. For example, Middesk is a Series B company in this space that's backed by top venture capital firms like Accel, Sequoia, Insight Partners, and more. During a period of time where cost savings are the top priority, companies will be looking for ways to spend less on essential but non-core activities like regulatory compliance. Nucleus states that its product can reduce manual KYB operations time by 60%. Anywhere close to that is a massive amount of savings for financial institutions who devote substantial resources to KYB. User experience matters, too. Customers don't want to wait days or weeks to get started while they wait for their business to be verified. They don't want to answer pointless compliance questions, either. If Nucleus can help financial institutions both save money on KYB compliance and improve customer experience in a meaningful way, they can become a large company. According to PitchBook data, Y Combinator's $500,000 SAFE note is the only investment disclosed to date.  *** This is a Security Bloggers Network syndicated blog from Strategy of Security authored by Cole Grolmus. Read the original post at: https://strategyofsecurity.com/y-combinators-winter-2023-cybersecurity-privacy-and-trust-startups/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

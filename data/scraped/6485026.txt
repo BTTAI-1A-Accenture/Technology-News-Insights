@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.cpomagazine.com/cyber-security/open-source-software-supply-chain-attacks-have-tripled-but-nearly-all-vulnerabilities-are-avoidable-by-updating/

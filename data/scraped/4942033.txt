@@ -1,0 +1,55 @@
+
+Latest Axis offering includes cameras featuring long-range IR, video-radar fusion and expanded deep learning capabilities
+ Axis Communications launches its new network cameras at ISC East, including AXIS M3215-LVE, AXIS Q6225-LE, and AXIS Q1656-DLE. (Photo: Business Wire) Axis Communications launches its new network cameras at ISC East, including AXIS M3215-LVE, AXIS Q6225-LE, and AXIS Q1656-DLE. (Photo: Business Wire)  CHELMSFORD, Mass.--(BUSINESS WIRE)--In an ongoing commitment to innovate for a smarter safer world, Axis Communications is launching its latest intelligent network cameras in conjunction with ISC East 2022—expanding state-of-the-art solutions that improve security and business performance. Axis’ newest innovations in network camera technology include a heavy-duty PTZ camera with long-range IR to address tough conditions, a camera that fuses high-quality video with advanced radar technology for unparalleled detection and visualization, and an affordable fixed dome camera equipped with DLPU and object classification for deep learning on the edge.
+ 
+“When it comes to network video technology, we’re raising expectations about what a surveillance camera is and what it can do. Whether introducing cutting-edge innovations, combining our most advanced technologies into new solutions, or expanding deep learning capabilities across our portfolio, we aim to solve our customers’ toughest challenges and make video analytics more accessible,” said Fredrik Nilsson, VP, Americas, Axis Communications, Inc. “ISC East in New York City is an excellent time and place to launch our latest offerings, several of our new cameras will be on display for attendees to demo at the show. I’m also happy to say that these cameras, and all Axis solutions, can be demoed anytime at one of our Axis Experience Centers across the Americas including our new Manhattan AEC.”
+ 
+Axis Communications will launch its new network cameras—showcasing several of them along with other industry-leading video, analytics, audio, intercom and end-to-end solutions—at ISC East, Jacob Javits Center, New York City, November 15-17, 2022, including:
+ 
+AXIS Q6225-LE: Heavy-duty PTZ camera with long-range IR for tough conditions
+ 
+The AXIS Q6225-LE PTZ Network Camera is a robust PTZ camera ideal for wide and long-distance surveillance. This heavy-duty camera meets the MIL-STD-810G standard, ensuring reliable operation in the toughest conditions.
+ 
+AXIS Q6225-LE offers HDTV 1080p resolution and a very light-sensitive ½” inch sensor with 31x optical zoom. Featuring, Forensic WDR, Lightfinder, and long-range OptimizedIR, it ensures sharp, clear images in any light conditions. In addition, high-speed pan/tilt performance ensures exceptional coverage of large areas and great detail when zooming in.
+ 
+This high-performance camera is packed with built-in analytics such as AXIS Motion Guard, AXIS Fence Guard, and AXIS Loitering Guard for detecting motion, intrusion, and loitering. Axis Object Analytics also makes it possible to detect and classify people and vehicles.
+ 
+Key features include:
+ 
+Enclosed in a vandal-resistant IK10-rated casing with NEMA 4X, NEMA TS-2, and IP66/IP68 ratings, this heavy-duty camera can withstand winds up to 245 km/h (152 mph). Furthermore, it includes a Trusted Platform Module (TPM) that is FIPS 140-2 level 2 certified.
+ 
+AXIS Q6225-LE is available through Axis distribution channels.
+ 
+AXIS Q1656-DLE: Unique device fuses video and radar to deliver next-level detection and visualization
+ 
+The AXIS Q1656-DLE Radar-Video Fusion Camera is a unique device that delivers state-of-the-art deep learning-powered object classification based on the fusion of two powerful technologies: video and radar. Ideal for accurate 24/7 detection and wide-area intrusion protection, it delivers improved scene intelligence combined with the forensic value of video.
+ 
+AXIS Q1656-DLE Radar-Video Fusion Camera offers superior Q-line camera functionality and excellent image usability combined with a fully integrated radar. Using the radar, it can detect objects over wide areas regardless of visibility. It can then visualize the speed and distance of moving objects directly in the application view.
+ 
+This smart device makes it possible to set up events triggered by suspicious behavior based on speed and classification – like running humans and slow-cruising cars. The radar can also be used separately to guide a standalone PTZ camera. Additionally, because radar “sees” in the dark, it’s also possible to set triggers to activate flood lights, IR, or façade lights only when needed saving effort and energy costs.
+ 
+Key features include:
+ 
+Robust and weather-resistant, this powerful device offers built-in cybersecurity features to safeguard the system. With just one device to install, one cable drop, one IP address, and one video management software (VMS) license, it ensures lower installation and lifetime costs. Furthermore, thanks to a low false-notification rate, security personnel act only on real threats, and they can handle more cameras simultaneously.
+ 
+AXIS Q1656-DLE will be available through Axis distribution channels in December 2022.
+ 
+AXIS M3215-16 LVEs: Affordable fixed focal domes with deep learning on the edge
+ 
+The AXIS M3215-LVE Dome Camera and the AXIS M3216-LVE Dome Camera are the two newest additions to AXIS M32 Series featuring a deep learning processing unit (DLPU) to enable advanced features and powerful analytics based on deep learning on the edge. These high-performance cameras come preinstalled with AXIS Object Analytics to detect and classify humans, vehicles, and types of vehicles—all tailored to specific needs.
+ 
+Built on ARTPEC-8, AXIS M3215-LVE and AXIS M3216-LVE deliver excellent 2 MP and 4 MP resolution respectively. Featuring Axis Lightfinder, Axis Forensic WDR, and Axis OptimizedIR, they ensure great image quality under any light conditions. Additionally, these cost-effective cameras offer improved processing and storage capabilities making it possible to collect and analyze even more data than before—on the edge. Plus, with support for ACAP version 4, it’s possible to add value to the system with tailor-made applications based on deep learning on the edge.
+ 
+Key features include:
+ 
+Including a weather shield, these IK10-rated cameras offer protection from rain, snow, and sun. Furthermore, they include built-in cybersecurity features such as Axis Edge Vault to protect the Axis device ID and simplify authorization of Axis devices on the network.
+ 
+AXIS M3215-LVE and AXIS M3216-LVE will be available through Axis distribution channels in December 2022.
+ 
+Chris Shanelaris, Public Relations Manager, Americas, Axis Communications
+Phone: 978-614-3023
+E-mail: Chris.Shanelaris@axis.com
+ 
+Chris Shanelaris, Public Relations Manager, Americas, Axis Communications
+Phone: 978-614-3023
+E-mail: Chris.Shanelaris@axis.com

@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.alaskahighwaynews.ca', port=443): Max retries exceeded with url: /weather-news/earthquake-shakes-eastern-china-but-no-immediate-reports-of-injuries-7373225 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da93b239a0>: Failed to resolve 'www.alaskahighwaynews.ca' ([Errno -5] No address associated with hostname)"))

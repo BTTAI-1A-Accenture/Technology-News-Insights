@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.kfm.co.ug', port=443): Max retries exceeded with url: /news/world-news/king-charles-iii-to-visit-kenya.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7e245669be20>, 'Connection to www.kfm.co.ug timed out. (connect timeout=5)'))

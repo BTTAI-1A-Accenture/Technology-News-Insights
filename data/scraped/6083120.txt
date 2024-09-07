@@ -1,0 +1,78 @@
+Nachrichten, Termine, Experten 
+
+
+
+
+
+
+
+
+
+
+
+
+
+d
+
+
+
+
+
+
+Instanz: 
+
+Teilen
+
+
+
+
+
+
+
+            Teilen: 
+        
+
+
+
+    11.04.2023 15:56
+    
+ 
+    Cobots need to perform many safe motion functions to work alongside humans: The central safety logic must process multiple sensors and their data, resulting in many cables connecting sensors and actuators in traditional robot architectures and proprietary solutions. The new safety architecture developed by Fraunhofer IWU, Synapticon GmbH and Taiwan’s NexCOBOT relies on a decentralized approach: The new architecture enables a wide range of industrial robots to work safely alongside humans in dynamically changing work situations, with a significantly reduced cabling effort, as only power and communication must be routed to the drives. In addition, the movement is monitored directly on the axis
+    
+ 
+    (Fraunhofer IWU @ NexCOBOT booth, Hannover Messe 2023 in Hall 9, Booth H19)
+
+As the process of manufacturing becomes more automated than ever, with robots highly involved in production and in close contact with human counterparts, worker safety becomes a critical topic. Fraunhofer IWU, Synapticon GmbH and Taiwan’s NexCOBOT meet this challenge with the all-new architecture solution.
+
+A decentralized generic safety control architecture for adaptive and highly dynamic cobots and collaborative applications is at the heart of this solution. The central safety control calculates in which areas or situations the robot has to move at reduced speed or with limited power and force at collaborative operation. The system comprises robot-agnostic safe motion controllers for fail-safe collaborative robots using EtherCAT (FSoE) and real-time calculation of compact dynamic safety areas, which allows for highly efficient and flexible design of human-robot collaboration (HRC) applications. Furthermore; „an intelligent safety-system monitors the safety areas with situational robot control for all possible interaction activities between humans and industrial robots (cobots as well as heavy-duty robots)“, as Dr. Mohamad Bdiwi, team leader Collaborative Robot Systems at Fraunhofer IWU, points out. 
+
+NexCOBOT’s key contribution to the new architecture is the ROBASafe SIL 2/SIL 3 robot control solution which shortens the overall development life cycle and delivers the performance needed to support both computing and safety-related workloads on the same board, which can help reduce hardware components in any given deployment.
+
+The ROBASafe solution can be integrated with a dynamic 3D working area monitoring system – DynaSafe, developed by Fraunhofer IWU. DynaSafe turns the entire factory floor into a safe shared space for human and machine by providing:
+
+- a generic modular safety system (hardware and software)
+- 3D detection, tracking and classification of human and dynamic objects
+- real time calculating and monitoring of dynamic compact safety areas
+- virtual safety design and validation.
+
+Synapticon develops and produces software and hardware for sophisticated motion control in robotics and advanced machinery. With compact and efficient, high-performance, decentral servo drives, OEMs such as robot manufacturers and machine builders can utilize Synapticon’s motion control technology to realize better products in less time.
+     Dr. Mohamad Bdiwi
+Team Leader Cognitive Man-Machine-Systems
+
+Fraunhofer Institute for Machine Tools and Forming Technology IWU
+Reichenhainer Straße 88
+09126 Chemnitz
+
+Phone +49 371 5397-1658
+mohamad.bdiwi@iwu.fraunhofer.de 
+<Modular safety system for the next generation of human-robot collaboration: Developed by Fraunhofer  ... 
+Merkmale dieser Pressemitteilung: 
+     Journalisten, Wirtschaftsvertreter, Wissenschaftler
+     Elektrotechnik, Informationstechnik, Maschinenbau, Wirtschaft
+     überregional
+     Forschungsergebnisse, Kooperationen Englisch  
+     
+<Modular safety system for the next generation of human-robot collaboration: Developed by Fraunhofer  ... Zum Download  Suche in Pressemitteilungen Suche in Terminen  Anfangsdatum Enddatum   Sie können Suchbegriffe mit und, oder und / oder nicht verknüpfen, 
+z. B. Philo nicht logie. Verknüpfungen können Sie mit Klammern voneinander trennen, 
+z. B. (Philo nicht logie) oder (Psycho und logie). Zusammenhängende Worte werden als Wortgruppe gesucht, wenn Sie sie in Anführungsstriche setzen, 
+z. B. „Bundesrepublik Deutschland“.  Die Erweiterte Suche können Sie auch nutzen, ohne Suchbegriffe einzugeben. Sie orientiert sich dann an den Kriterien, die Sie ausgewählt haben (z. B. nach dem Land oder dem Sachgebiet). Haben Sie in einer Kategorie kein Kriterium ausgewählt, wird die gesamte Kategorie durchsucht (z.B. alle Sachgebiete oder alle Länder). 

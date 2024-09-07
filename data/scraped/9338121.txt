@@ -1,0 +1,39 @@
+
+Classification enables federal departments to be prepared for cyber threats with complete visibility, control, and remediation of their endpoints in the cloud
+ KIRKLAND, Wash. & OTTAWA, Ontario--(BUSINESS WIRE)--Tanium, the industry’s only provider of converged endpoint management (XEM), announced today that it has successfully completed the Canadian Centre for Cyber Security (CCCS) Protected B assessment. This distinguished classification demonstrates that the Tanium XEM platform meets the required security controls applicable to the processing of highly sensitive Protected B information in the cloud for the Government of Canada.
+
+  
+This announcement marks a major first step toward providing Canadian government departments greater certainty around federal IT and security systems tasked with safeguarding sensitive information, assets, and work sites. By consolidating point-solution capabilities into a single platform delivered via the cloud, XEM will enable the government to mitigate risks from cyberattacks and ensuing data breaches while reducing complexity and cost across its many environments.
+
+ 
+“In an age of digital transformation and work-from-anywhere organizations, it has become more critical than ever for governments to deploy cybersecurity solutions that protect federal systems while reducing risks to national security,” said Nick Matejuk, Canadian vice president at Tanium. “Research shows that 94% of organizations miss 20% or more of their endpoints, and the lack of visibility into and control of their environments means most departments are literally in the dark. Tanium XEM provides real-time visibility and data from every endpoint: The platform delivers comprehensive control for hardening the environment and remediating issues with minimal network impact, allowing government entities to respond quickly and effectively to the growing threat landscape.”
+
+ 
+Recent regulations and requirements have placed an emphasis on government organizations to retire outdated hardware and software, creating a need to leverage cloud technology and embrace digital transformation. The Canadian government can now tap into the power of Tanium Cloud with no additional infrastructure. The single Tanium agent deployed on the endpoints and managed via the cloud platform converges multiple point solutions spanning asset discovery and inventory, endpoint management, certificate management, unified policy configuration, digital employee experience, risk, compliance, and incident response. These solutions, with built-in automation, will enable departments to improve their security posture, ensure compliance, reduce complexity, decrease costs, and improve efficiency and collaboration among IT, risk, and security teams.
+
+ 
+“As threats continue to evolve, governments and their departments must become more sophisticated in the ways they protect themselves and the highly targeted information entrusted to them,” said Tanium CEO Dan Streetman. “Tanium stands as a trusted and integral partner to defense and government agencies around the world. As part of our commitment to provide technology that enables real-time visibility and remediation across important and mission-critical environments, we remain dedicated to meeting stringent certifications such as the CCCS Protected B assessment.”
+
+ 
+Regardless of size or complexity, government departments can spin up a Tanium instance in just hours with critical IT operations, risk, and security solutions. Tanium Cloud technology will allow the federal government to deploy new operations and security capabilities out of the box, from thousands of endpoints to scaling beyond a million.
+
+ 
+To register for a customized demo and experience the visibility, control, and trust Tanium XEM can provide, visit www.tanium.com/see-a-demo.
+
+ 
+About Tanium
+ 
+Tanium, the industry’s only provider of converged endpoint management (XEM), is the reference platform of choice to manage complex security and technology environments. Only Tanium protects every endpoint from cyber threats by integrating workflows across IT, Risk, Compliance, and Security into a single platform that delivers comprehensive visibility across devices, a unified set of controls, real-time remediation, and a common taxonomy for a single shared purpose: to protect critical information and infrastructure at scale. Tanium has been named to the Forbes Cloud 100 list for seven consecutive years and ranks for the second consecutive year on the Fortune 100 Best Companies to Work For. In fact, more than half of the Fortune 100 and the U.S. armed forces trust Tanium to protect people; defend data; secure systems; and see and control every endpoint, team, and workflow everywhere. That’s The Power of Certainty™. Visit www.tanium.com and follow us on LinkedIn and Twitter.
+
+ 
+Lindsey Lockhart
+Tanium PR
+press@tanium.com 
++ 1 214.562.1521
+
+ 
+Lindsey Lockhart
+Tanium PR
+press@tanium.com 
++ 1 214.562.1521
+

@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » What Is an Identity Fabric? (The Next Evolution of IAM?) “Identity fabric” isn’t a solution in and of itself, but rather represents a comprehensive and holistic approach to managing digital identities and security. This approach prioritizes flexible, scalable, and adaptable identity management schemes that allow administrators to manage various requirements across an entire digital ecosystem. By adopting an identity fabric approach, organizations can create an Identity and Access Management (IAM) framework that is flexible enough to adapt to emerging technologies, scalable to handle increasing volumes of identities, and robust enough to provide the security necessary for modern digital environments. This is particularly crucial in the era of digital transformation, where cloud services, mobile devices, IoT devices, and new regulations are constantly changing the IAM landscape. The concept of an identity fabric is designed to cover all aspects of Identity and Access Management, including: The ‘fabric’ analogy implies a level of abstraction that can unify disparate IAM tools and systems under one architecture. An identity fabric solution represents a holistic approach to managing digital identities. Hence it typically employs a range of technologies and protocols, many associated with IAM and cybersecurity. Here are some of the key technologies commonly used in an identity fabric solution: Remember, the specific mix of technologies used in an identity fabric solution can depend on various factors, including the organization’s particular requirements, existing IT infrastructure, compliance requirements, and more. The concept of identity fabric is designed to solve several challenges modern organizations face with Identity and Access Management. These problems stem from increasingly complex IT environments characterized by the growing number of users (both inside and outside the organization), the proliferation of devices, the use of cloud and hybrid environments, and ever-evolving compliance and security requirements. Some problems that identity fabric addresses include: By addressing these challenges, an identity fabric can help organizations manage their identities more effectively, enhancing security, improving user experience, and driving operational efficiency. The idea of an identity fabric refers to a comprehensive, flexible, and adaptable framework for managing digital identities across an organization’s entire IT environment, encompassing all aspects of IAM like authentication, authorization, identity lifecycle management, governance, privacy and consent management, and federation. Identity fabric, being the combination of processes and technologies used to control identity management across platforms, will almost inevitably feed into the process of orchestrating identity management. In some ways, orchestration is the control of identity management–the existence of a control system that manages policies, procedures, and large-scale schemas that an organization must implement for their particular identity management needs. Fabric, like the metaphor suggests, would be the “material” on which that orchestration effort is built from. The tools and technologies in that fabric (federated identity or SSO, authentication and authorization systems, decentralized identity management systems, compliant identity verification or liveness proofing, etc.) are how orchestration is managed. Most importantly, the fabric will help define how orchestration efforts automate these processes. Automation is a critical aspect of identity orchestration, and as such the underlying technologies in the identity fabric (which may even include advanced systems like machine learning and AI) will help the effectiveness of broader orchestration systems. Identity fabric solutions and zero trust are concepts that play a significant role in modern cybersecurity strategies. They are different but complementary, and their relationship is often essential in ensuring comprehensive security for organizations. Zero trust architecture is a security concept centered on the belief that organizations should not automatically trust anything inside or outside their perimeters and instead must verify anything and everything trying to connect to their systems before granting access. This means that every user, device, and network flow is authenticated, authorized, and continuously validated before being granted the minimum necessary access. On the other hand, an identity fabric solution is a holistic and integrated approach to IAM that covers all aspects, including but not limited to authentication, authorization, identity lifecycle management, governance, and privacy. Identity fabric is the infrastructure that handles the diverse identity and access needs across an entire digital ecosystem. The principles of zero trust heavily rely on robust identity verification and management – the user’s or device’s identity must be authenticated, and their access must be appropriately authorized based on least privilege access principles. This is where an identity fabric solution comes in. An identity fabric solution essentially forms the backbone of a zero trust architecture by providing a comprehensive framework for managing digital identities. In a zero trust architecture, an identity fabric solution could provide essential functionality, such as: Thus, identity fabric and zero trust architecture are intimately connected. While the identity fabric provides the mechanisms for managing identities and access, zero trust utilizes these mechanisms to ensure that each access request is properly authenticated and authorized, thus enhancing an organization’s overall security posture. Any conception of an identity fabric system will include a focus on identity management and strong authentication. Multi-factor authentication, biometrics, decentralized management… all of these are part and parcel of any successful identity fabric. With 1Kosmos, you can leverage the following features: Interoperability: BlockID can readily integrate with existing infrastructure through its 50+ out of the box integrations or via API/SDK. SIM Binding: The BlockID application uses SMS verification, identity proofing, and SIM card authentication to create solid, robust, and secure device authentication from any employee’s phone. Sign up for our newsletter to learn more about how BlockID can support real security and help support identity fabric systems. And to learn more, contact us to learn about how we can help you with that identity fabric. The post What Is an Identity Fabric? (The Next Evolution of IAM?) appeared first on 1Kosmos. *** This is a Security Bloggers Network syndicated blog from Identity &amp; Authentication Blog authored by Robert MacDonald. Read the original post at: https://www.1kosmos.com/identity-management/identity-fabric/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

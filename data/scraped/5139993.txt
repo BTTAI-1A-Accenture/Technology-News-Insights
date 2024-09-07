@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.medgadget.com', port=443): Max retries exceeded with url: /2023/01/e-pharmacy-beauty-and-personal-care-bpc-market-is-expected-to-register-a-cagr-of-11-4-in-terms-of-revenue.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7e2456e3e5c0>, 'Connection to www.medgadget.com timed out. (connect timeout=5)'))

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/simplify-healthcare-ranks-no-132-on-the-2023-inc-5000-list-of-america-s-fastest/article_cf1bed6c-6f21-5464-b4e2-b8bd19753c4f.html

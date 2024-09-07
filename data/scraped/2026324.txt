@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/tech-professionals-are-far-from-satisfied-with-companies-dei-efforts/article_8c42766d-2440-5180-acc5-1249c2bfdbc3.html

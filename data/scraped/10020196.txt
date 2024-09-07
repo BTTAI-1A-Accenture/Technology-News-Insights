@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/press-release/telecom-service-provider-investment-capex-analysis-market-size-enables-you-to-anticipate-market-changes-to-remain-ahead-of-your-competitors-2022-12-23

@@ -1,0 +1,43 @@
+BOSTON--(BUSINESS WIRE)--Onepak, creator of ReturnCenter, the leading platform for technology device circularity, today announced that the company’s collaborative platform is now available on ServiceNow’s app store. ReturnCenter enables ServiceNow users to schedule, track and report on transportation of IT assets for disposition, lease return, redeployment or offboarding from within the ServiceNow platform.
+  
+ReturnCenter for ServiceNow connects all stakeholders in the reverse supply chain ecosystem, including logistics providers, recyclers and re-users, and other related service offerings on a single, scalable platform. The platform also features a range of APIs that allow customers to connect ReturnCenter directly to their other enterprise software platforms and partners from global ERP to HR systems.
+ 
+Holistic Returns Solution to Power the Circular Economy
+ReturnCenter provides total packing, shipping, delivery, and disposal transparency for all return logistics transactions including equipment lease returns, employee asset returns and any other asset disposition or recycling. The platform delivers a rich set of tracking, reporting and data management capabilities which improve an organization’s compliance with both industry regulations and internal obligations, as well as help IT asset managers stay audit-ready at all times. Additionally, all transactions executed on the ReturnCenter platform are carbon neutral by way of blockchain-verified carbon offsets. As a result, ReturnCenter enables organizations to deliver on their sustainability goals more easily, while protecting the value of all of their IT assets. Among the platform’s key tracking and reporting capabilities are:
+ 
+ReturnCenter UX Makes Circular Simple
+Customers access these tools via an engaging and easy-to-use interface that features dynamic dashboards for quick and complete data on any transaction. This approach facilitates easy adoption by users throughout the asset return, redeployment, and recycling process. ReturnCenter transactions can be initiated, modified, and tracked by applicable users in corporate or remote settings, at customer locations, data centers, or leasing companies. Customers can also offer controlled access to stakeholders at remarketers, ITAD providers, logistics vendors and the more than 400 trained service partners in the Onepak ecosystem.
+ 
+With this level of visibility, chain of custody is never in doubt and any user can access at-a-glance information on the state of every transaction in the ReturnCenter cloud.
+ 
+Flexibility, Scalability, Integration
+The ReturnCenter platform is built in the cloud with a highly flexible architecture that easily scales as customers’ business needs evolve. ReturnCenter is also capable of full integration with an organization’s other critical enterprise software platforms such as ServiceNow, Flexera, SAP, Oracle, and others via a robust set of APIs.
+ 
+“The ReturnCenter platform brings the ultimate financial and sustainability benefits of a closed-loop circular supply chain to the thousands of ServiceNow users around the world,” said Steve Andon, co-founder and CEO, Onepak. “Whether ReturnCenter is deployed as a standalone platform or integrated with ServiceNow or other enterprise platforms, it gives organizations worldwide, complete end-to-end visibility of the returned assets’ chain of custody, as well as the tools and metrics necessary to demonstrate the ROI of their asset management programs.”
+ 
+About Onepak
+Onepak bends the traditional linear supply chain into a sustainable circle. ReturnCenter, the company’s online carbon neutral logistics platform, connects shippers, receivers, carriers, and their enterprise management tools on one scalable system. The platform delivers complete visibility into chain of custody, access to a flexible network of more than 400 trained logistics partners covering every US zip code and offers numerous tracking and reporting capabilities. The company has sustainably executed more than two billion pounds of product returns for a global customer base that features leading organizations such as Dell Technologies, IBM, United Technologies, Carrier, Diebold, General Motors, Toyota, USBank and DLL Group. For more information, please visit www.onepak.com.
+ 
+Media:
+ 
+Jacquelyn Elwell
+Onepak Inc.
+jacquelyn.elwell@onepak.com 
+413-750-8207
+ 
+Chris Nahil
+Message & Medium on behalf of Onepak
+chris@message-medium.com 
+617-529-6126
+ Onepak's collaborative platform for technology device circularity, ReturnCenter, is launched on the ServiceNow Platform. 
+Media:
+ 
+Jacquelyn Elwell
+Onepak Inc.
+jacquelyn.elwell@onepak.com 
+413-750-8207
+ 
+Chris Nahil
+Message & Medium on behalf of Onepak
+chris@message-medium.com 
+617-529-6126

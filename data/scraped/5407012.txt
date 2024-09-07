@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.rapidtvnews.com', port=443): Max retries exceeded with url: /2023051163742/warner-bros-discovery-kids-channels-join-sky-media.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ab723d9c730>, 'Connection to www.rapidtvnews.com timed out. (connect timeout=5)'))

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.nola.com/entertainment_life/health_fitness/fitbit-apple-watch-which-wellness-tracker-is-best-for-you/article_6b0046a4-6b68-11ed-b1d5-cf43a325eb2f.html

@@ -1,0 +1,31 @@
+ Published 2023-08-09 08:49 by Hilbert Hagedoorn SK Hynix presented a sample of its 321-layer 4D NAND, representing a considerable progression in NAND technology. The event provided insight into the evolution of the company's 321-layer 1Tb TLC1 4D NAND Flash. SK Hynix's prior accomplishments, such as the production of the 238-layer NAND, served as foundational groundwork for the development of the 321-layer product. With a projected timeline for completing the development and starting mass production by the first half of 2025, the company continues to forge ahead in the sector. The 321-layer 1Tb TLC NAND indicates a 59% increase in productivity when juxtaposed with the preceding 238-layer 512Gb NAND. This elevation in productivity is attributed to technological enhancements that facilitate augmented cell stacking and an amplified storage capacity per chip. These technological strides have the effect of expanding the total wafer-based production capacity. Recognizing the rapidly growing need for high-capacity memory solutions due to emergent AI applications such as ChatGPT, SK Hynix unveiled NAND solutions at the FMS, which are tailored for AI-specific requirements. This unveiling encompassed enterprise SSDs equipped with the PCIe Gen5 interface and UFS 4.0. Furthermore, the company divulged its ongoing efforts centered around the next-generation PCIe Gen6 and UFS 5.0, leveraging insights and expertise from earlier products. This endeavor mirrors SK Hynix's aim to be at the forefront of technological trends and provide advanced solutions to the market. In essence, FMS 2023 served as a platform for SK Hynix to highlight its strides in the realm of 321-layer NAND technology and to introduce forward-looking NAND solutions. 
+ Share this content
+
+
+ Twitter
+                                
+
+
+ Facebook
+                                
+
+
+ Reddit
+                                
+
+
+ WhatsApp
+                                
+
+
+ Email
+                                
+
+
+ Print
+                                
+ 
+
+ Intel Core i5-14600K/14700K Pop Up online - Cores, Clock Speeds 
+
+Western Digital Unveils Ultrastar DC SN655: A Dual-Port U.3 SSD for Critical Applications  Copyright ©1997-2024 guru3dPowered by Contentteller® CMS System

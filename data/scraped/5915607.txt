@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Why Trust Tech Report 
+
+
+
+ Tech Report is one of the oldest hardware, news, and tech review sites on the internet. We write helpful technology guides, unbiased product reviews, and report on the latest tech and crypto news. We maintain editorial independence and consider content quality and factual accuracy to be non-negotiable.
+  Hive was forced to go offline over safety concerns reported by German penetration testers Zerforschung. Initially Hive hoped to be down for one or two days however a further announcement said that they won’t be able to fix them as fast as they had hoped. It’s not clear when Hive will be back online or if any malicious hackers have exploited the vulnerabilities before they were reported. On 30 November Zerforschung released a statement saying: The issues we reported allow any attacker to access all data, including private posts, private messages, shared media and even deleted direct messages. This also includes private email addresses and phone numbers entered during login. Attackers can also overwrite data such as posts owned by other users. This must come as a blow to Hive as they recently hit over 1 million active users in their bid to be a Twitter alternative. Since Elon Musk’s take over of Twitter a proportion of their userbase have left and are looking for a new social platform. The main contenders are Mastodon, Parler and Hive Social but the recent server downtime and security concerns are likely to put a slowdown to Hive’s development. It took Zerforschung three days to discover the vulnerabilities and on 27 November they reported them to Hive. The first attempt to call Hive’s CEO Kassandra Pop got rejected. It wasn’t until after Zerforschung contacted admins that the CEO tried to review the security report but she couldn’t find the report in her emails. Then, it still took five hours for Hive to respond in acknowledgement of the vulnerabilities. Later that evening it appeared no security measures been taken and Zerforschung pushed for a timeline to fix the issues. On 30 November tests indicated that one of the issues was fixed but some still remained. Later that day, Zerforschung went public with the vulnerabilities and on 1 December Hive deactivated its servers. Zerforschung will not go into depth about the vulnerabilities to protect the privacy of users at this time. 
+
+
+
+
+
+
+
+
+
+
+
+
+  Why Trust Tech Report 
+
+
+
+ Tech Report is one of the oldest hardware, news, and tech review sites on the internet. We write helpful technology guides, unbiased product reviews, and report on the latest tech and crypto news. We maintain editorial independence and consider content quality and factual accuracy to be non-negotiable.
+  In a landmark development, the Nigeria SEC has approved the first provisional operating license for local crypto exchange Quidax. The regulator’s move marks a milestone in Nigeria’s crypto regulations. Moreover,... Bitcoin has struggled with price volatility for most of August, with price highs and lows triggered by varying events. However, on-chain data suggests that most investors retained their coins despite... REGULATION & HIGH RISK INVESTMENT WARNING: Trading Forex, CFDs and Cryptocurrencies is highly speculative, carries a level of risk and may not be suitable for all investors. You may lose some or all of your invested capital, therefore you should not speculate with capital that you cannot afford to lose. The content on this site should not be considered investment advice. Investing is speculative. When investing your capital is at risk. Please note that we do receive advertising fees for directing users to open an account with the brokers/advertisers and/or for driving traffic to the advertiser website. Crypto promotions on this site do not comply with the UK Financial Promotions Regime and is not intended for UK consumers. © Copyright 2024 The Tech Report Inc. All Rights Reserved.

@@ -1,0 +1,50 @@
+Or wait...  
+News
+ 
+Contract manufacturing & logistics 
+ 
+Drug delivery & innovation 
+ 
+Ingredients 
+ 
+Markets & regulatory news 
+ 
+Mergers & deals 
+ 
+Clinical trials & development 
+ 
+Promotional features 
+ Site Archive Multimedia 
+Trends
+ 
+Bioavailability challenge 
+ 
+Clinical evolution 
+ 
+Globalization 
+ 
+Patient centricity 
+ 
+Transparency on trial 
+ Site Archive Multimedia Resources
+ Type of resources Events
+ 
+All events 
+ 
+Editorial webinars 
+ Events 
+Related Site
+ 
+
+ 
+06-Feb-2023
+                            - Last updated on
+                                06-Feb-2023 at 14:44 GMT                         Related tags
+Astrazeneca
+Pharmacology
+DNA synthesis
+Pharmaceutical industry
+
+ DNA synthesis is a key early step in recombinant protein production and cell line engineering. According to a white paper from Benchling and AstraZeneca, the process originally took four to eight weeks from the initial request to sequence-validated plasmid. Each cycle cost $1,000. AstraZeneca halved the per-cycle cost by using its FRAGment recycLER (FRAGLER) software to identify any duplicate DNA sequencing. Identifying shared coding sequence regions across the construct means the sequences only need to be ordered once, reducing the cost and time of DNA synthesis. Enabling fragment recycling reduced the per-cycle cost to $500. However, the original FRAGLER-enabled process failed to capitalize on the potential to reuse and recycle more DNA fragments after running each iterative cycle. The limitation reflected the difficulty of manually identifying duplicate sequences at scale, as David Öling, associate principal scientist at AstraZeneca and a leader on the FRAGLER project, explained. “There needs to be an algorithmic search to properly identify preexisting fragments for FRAGLER to align. No human can keep track of everything if thousands of constructs are generated annually. Benchling allows us to achieve speed and scale by transforming previously manual processes relying on Excel and various in-house tools into fully automated steps​,” said Öling. Working with Benchling, AstraZeneca automated sequence search. The result is a system that can lower the cost by 20% each cycle, bringing the outlay down to $256 by the time of the fourth iterative cycle. In the end, most DNA fragments will be available internally and costs for generating new constructs will fall towards zero. Automating DNA construct production has also brought time savings. The process now takes around three weeks, down from four to eight weeks under AstraZeneca’s original, pre-FRAGLER approach. Öling is now working to implement a way to track timelines and cost savings directly within Benchling. Copyright - Unless otherwise stated all contents of this web site are © 2024 - William Reed Ltd - All Rights Reserved - Full details for the use of materials on this site can be found in the Terms & Conditions Related topics
+Clinical Development
+ Show more On-demand webinars

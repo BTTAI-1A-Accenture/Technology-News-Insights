@@ -1,0 +1,44 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ I think OpenAI is the current version of Netscape. Let me briefly explain what happened in those glorious years when I was working in Silicon valley and things moved at lightning pace.  Netscape, founded in 1994, revolutionized the internet by introducing the first widely-used web browser. Its innovative technology and user-friendly interface propelled it to dominate the market. It was amazing that people with 14.4 kbps internet connection could dial into AOL (AOL was #1 choice then for internet) and access the goodies in the internet. Click, click....it was an experience. Those of us who were in University and jobs had way better connections and enjoyed the explosion of the Web. Every day some new company would create a "website" and it was news ! However, fierce competition from Microsoft's Internet Explorer which was given away free led to its downfall.  OpenAI is an artificial intelligence research laboratory and company founded on December 11, 2015. It was created with the goal of advancing artificial general intelligence (AGI) in a safe and beneficial manner for humanity. In 2019, OpenAI announced the creation of a for-profit entity called OpenAI LP, which would allow it to seek external investment and enter into commercial partnerships. In June 2020, OpenAI unveiled GPT-3. OpenAI released Dall-E which is the image generation model, but the uptake has been very poor due to the low investment in usability. Models like Stable Diffusion and MidJourney have become mainstream for the community.  Just like Netscape, they are a "one trick pony" - GPT for everything with multiple versions of the models being released (GPT-1, 2, 3, 3.5, 4 etc.) with each iteration of the model improving upon the earlier versions. GPT-4 is multi-modal and future version may even include videos and audio. Netscape released "Communicator" from "Navigator" and those proved to have very little impact in the overall decline.  OpenAI has made its money from Microsoft (unlike Netscape which got killed by Microsoft). But, they don't have a chance against the onslaught on open-source models which release at higher frequency with lower cost.  They will be around for 2-3 years, since they are funded by Microsoft, but not relevant longer than that.  This is NOT to diminish the significance of their contribution to AI. Just like Netscape they are pioneers and deserve our respect. But, their business model is flawed. Btw. Netscape went open-source as well, but didn't survive too long.  #openai #capgemini #llm #llms #largelanguagemodels #largelanguagemodel #anthropic #gpt #gpt4 #gpt3 #netscape #businessmodels #businessmodel #micorsoft   Senior Director, CTO @ Cognizant | Generative AI Leader Dear Raj, It was great to hear your views on the same topic in person during the Gen AI Chennai meet up. Looking forward to more such collaboration sessions. Data Product & AI - Practice Leader. Data Science & Analytics | Applied AI & Excellence | PreSales and Advisor | Automation specialist | NLP practitioner Hey Rajeswaran V (PhD) , thanks for this article... That's what typically happens in this disruptive technology.... After all profit making is the top priority.... 
+I really like the sequence of events that you drafted.. Principal Data Scientist / Economist / MBA Hi Raj! That's a very interesting take on the current events!
+
+I believe OpenAI will understand this scenario and in consequence will be working on the next big leap, while bigger companies are working on making the current developments present in the tools we are using today.
+
+I've already heard OpenAI members talk about training models with Video data and not just text. An AI that can understand current world not only in language but also visually will be mind blowing, just as we perceive the world through vision as well as language (among the other senses)
+
+If I'm Microsoft or Google, I'm ok with this business model. A smaller, specialized enterprise doing the proof of value and them bringing it to everyday life.
+
+Keep this articles coming, I learn a lot from them!
+Regards Program Manager - Data Scientist at Capgemini Thanks Raj, a great article. 
+Another interesting angle in this journey could be regulations/ restrictions as we move forward.  Hi Raj,
+
+Nice article, and a good description of the timeline.
+
+To my mind, the success to date of OpenAI is that they have firstly brought AI to end users in a very accessible way, and secondly achieved massive scalability, by using MS compute power. And this dominance will get greater in the short term with the proliferation of MS Copilot products into the desktop.
+
+It seems inevitable that the Open Source community, OpenAI themselves, and other companies will improve on the models available today, However, to be more than a niche player, you need access to compute power that only the large Hyperscalers can provide. Regulatory conformance will add another barrier to entry in the future. So this is analogous to the Netscape example, in the sense that its hard to compete without the financial resources.
+
+So I expect MS with OpenAI to be one of the dominant players for a long time, and that they will have strong competition with offerings backed by the other Hyperscalers. 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

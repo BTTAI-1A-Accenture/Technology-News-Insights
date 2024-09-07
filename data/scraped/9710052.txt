@@ -1,0 +1,32 @@
+News and resources on payments systems, innovations and initiatives worldwide. This content has been selected, created and edited by the Finextra editorial team based upon its relevance and interest to our community. Stripe is to provide customers of European merchants with the option to ditch card-based payments in favour of open banking linked transactions through an embedded checkout integration with TrueLayer 
+19 October 2023
+Be the first to comment
+ This content has been selected, created and edited by the Finextra editorial team based upon its relevance and interest to our community. TrueLayer has become the first European open banking payment option listed on Stripe’s Payment Element, an embeddable UI component for checkout pages used by thousands of merchants around the world. Consumers will be able to select open banking payment at checkout, after which they will be redirected to TrueLayer’s payment page to confirm their payment either within their bank app or online bank account. Francesco Simoneschi, CEO and Co-founder, TrueLayer says: “Availability with Stripe’s UI is a significant milestone for open banking payments. It makes it even easier for merchants to access bank payments within their Stripe checkout, and provides a safe and secure way for consumers to shop online. But this is just step one. "For TrueLayer, the march continues into ecommerce, where speed, security and card fees continue to present obstacles for merchants across Europe.” The deal cements a longstanding relationship between the two firms, after Stripe joined a $130 million in the open banking outfit in September 2021.  
+/payments
+ 
+16 March 2023
+ 
+/security
+ 
+22 February 2023
+ 
+/payments
+ 
+02 February 2023
+ 
+/payments
+ 
+23 January 2023
+ 
+/payments
+ 
+24 October 2022
+ 
+/people
+ 
+16 September 2022
+ 
+/retail
+ 
+27 January 2022
+ Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

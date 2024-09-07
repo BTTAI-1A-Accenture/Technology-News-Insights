@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.dailygazette.com/hv360/artsandlife/localannouncements/ryan-dudzic-receives-certified-financial-planner-certification/article_c789454d-c6e6-5f38-a21f-0a1f6fae01e4.html

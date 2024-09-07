@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.stltoday.com/sports/college/mizzou/mizzou-loses-second-straight-cant-capitalize-after-forcing-texas-a-m-into-21-turnovers/article_efe85244-38b4-567e-848b-e13868e3f6d2.html

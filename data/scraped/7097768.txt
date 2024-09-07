@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/bay-area-lyme-foundation-researcher-validates-new-approach-to-overcome-challenges-of-lyme/article_6456bcea-4de4-50c3-b73c-fff57b201bc0.html

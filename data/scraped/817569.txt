@@ -1,0 +1,190 @@
+These solution providers are focused on an assortment of opportunities in the IoT space, whether it’s protecting industrial systems from cyberattacks, integrating AI-powered surveillance systems or using machine learning models to improve mining and manufacturing operations. 
+
+
+
+
+
+
+ When ThingLogix started in 2014, the solution provider spent a significant amount of time building the plumbing and infrastructure for every IoT project that came its way. It didn’t take long until the San Francisco-based company, an advanced technology partner for Amazon Web Services, realized that it was “building the same thing for everybody,” according to Jason Burch, vice president of business development and strategic partnerships at ThingLogix. [Related: 2023 Internet Of Things 50: A Growth Engine For The Channel] So the solution provider took the foundational software and services it built from the ground up for every IoT project and rolled them up into a serverless framework called ThingLogix Foundry, which enables the company to develop and deliver solutions faster with lower up-front costs. “It helps us accelerate development and delivery. The Amazon reps love it too,” Burch said. ThingLogix is among the 26 solution providers recognized this year as CRN’s IoT Innovators, which are building innovative applications by partnering with cutting-edge vendors in a market where businesses are expected to spend $805.7 billion on IoT projects in 2023, according to research firm IDC. By offering ThingLogix Foundry as the foundation for IoT projects, the solution provider has had an easier time scoring customer deals, and it has also given the company more time to offer services that provide unique value, whether it’s developing applications or baking intelligence into solutions. “It’s helped our customers in terms of spend, which makes it an easier sale because they don’t have to write a million-dollar check on the front end,” said Burch. “At the end of the day, I think this is a better way to do it,” he added. What follows are the 26 value-added resellers, systems integrators and managed services providers recognized in CRN’s 2023 IoT Innovators. With headquarters ranging from California and Pennsylvania to Ontario and Florida, these companies are focused on an assortment of opportunities in the IoT space, whether it’s protecting industrial systems from cyberattacks, integrating AI-powered surveillance systems or using machine learning models to improve mining and manufacturing operations. 
+
+
+
+
+
+
+ Altaworx Top Executive: Rickie Richey, Founder, CEO Altaworx delivers a range of IoT solutions, from IoT private LTE network offerings to machine-to-machine technology to improve business operations. In partnership with AT&T, the Fairhope, Ala.-based solution provider offers these and other solutions, including the AT&T Control Center managed services platform, which helps companies analyze and manage devices to streamline business processes. The company also provides the Advanced Management Operations Platform, which helps companies fine-tune how they use data and reduce the risk of paying expensive overage fees. 
+
+
+
+
+
+
+ Alvarez Technology Group Top Executive: Luis Alvarez, President, CEO Alvarez Technology Group puts a premium on developing integrated IoT solutions based on customer needs, ranging from connected systems for agricultural businesses to AI-powered surveillance systems. In the past few years, the Salinas, Calif.-based solution provider has partnered with technology vendors, including Deep Sentinel, to provide physical security services that cost a fraction of traditional guard services by combining video surveillance, AI and virtual security guards. Called ATG Protect, the physical security service relies on existing video surveillance cameras to monitor a defined area and uses an AI system to detect unusual or illegal behavior, which is then escalated to a virtual security guard who can validate the activity and intervene. 
+
+
+
+
+
+
+ Brock Solutions Top Executive: Keith Vermeer, President Brock Solutions uses IoT technologies as part of a modular approach to designing, building and implementing digital solutions for manufacturing, transportation and logistics companies. The Ontario, Canada-based solution provider has capabilities to integrate business systems with manufacturing execution systems, IoT platforms, control systems and devices to measure equipment effectiveness, stay on top of maintenance and track energy consumption, among other things. The company’s technology partners include PTC, Microsoft, Siemens, Schneider Electric, ABB, OSIsoft, Rockwell Automation and Dassault Systemes. 
+
+
+
+
+
+
+ CBT Top Executive: Kelly Ireland, Founder, CEO, CTO CBT provides IoT solutions to deliver enhanced business outcomes for companies in key verticals such as manufacturing, energy, construction and medical. To help companies seize on an explosion of data with AI technologies, the Orange, Calif.-based systems integrator is doubling down on vision AI and core-to-edge data analytics solutions. CBT’s key AI partners include Hewlett Packard Enterprise and Nvidia. 
+
+
+
+
+
+
+ CDW Top Executive: Christine Leahy, CEO CDW enables companies to embrace digital transformation strategies by giving them the IoT solutions they need to create efficiencies, drive growth and improve their bottom line. The Vernon Hills, Ill.-based solution provider offers IoT solutions for key verticals such as retail, manufacturing, energy and health care. In health care, these solutions include real-time asset tracking for monitoring the whereabouts of infusion pumps, wheelchairs and other equipment. In manufacturing, the company helps companies collect data from sensors and connected machines to assess the best ways to improve their processes. The solution provider also employs AI systems to automate assembly machines and predictive maintenance to reduce system downtime. 
+
+
+
+
+
+
+ Dace IT Top Executive: Louis Dace, CEO Dace IT delivers out-of-the-box intelligent video analytics solutions for smart city and intelligent transportation management applications. Built by the Las Vegas-based systems integrator’s Sense Traffic Pulse division, the solutions rely on cameras to provide a cost-effective and easy-to-deploy way to analyze video footage for a variety of purposes, including public safety and traffic management. The company’s solutions take advantage of best-of-breed cloud technologies from Microsoft Azure, including cognitive services and IoT Hub, as well as Intel’s OpenVINO toolkit for optimizing AI models. 
+
+
+
+
+
+
+ DirectDefense Top Executive: Jim Broome, President, CTO DirectDefense defends a variety of industrial, embedded and IoT environments with a suite of services that range from technical assessments to real-time monitoring. The Englewood, Colo.-based MSSP offers security services around industrial control systems, SCADA systems, embedded systems and smart devices, among other kinds of connected devices and systems. The company’s IoT security offerings were bolstered this year by strategic partnerships with industrial security vendors Claroty and SCADAfence. 
+
+
+
+
+
+
+ EPAM Systems Top Executive: Arkadiy Dobkin, Chairman, President, CEO EPAM Systems offers end-to-end development and engineering services for IoT applications to help companies drive improved outcomes for their business. The Newtown, Pa.-based solution provider’s IoT development services include experience design and consulting, integrated physical and digital design, rapid prototyping, cloud orchestration, big data utilization, personalization and device management. The company’s IoT projects include an AI-powered device and platform called GRAIN, which can acquire data from a variety of sensors and process that data locally through on-board machine learning and smart predictive analytics capabilities. 
+
+
+
+
+
+
+ GrayMatter Top Executive: James Gillespie, Co-Founder, CEO GrayMatter provides a variety of IoT services ranging from advanced industrial analytics and industrial security to remote connectivity and operational optimization. With customers in industries ranging from manufacturing and food and beverage to life sciences and energy, the Warrendale, Pa.-based solution provider’s recent projects include the development of digital twins and machine learning models to optimize continuous mining machine processes. The company’s strategic partners include GE Digital, Blastwave, Fortinet, Tenable and TwinThread. 
+
+
+
+
+
+
+ Indeema Software Top Executive: Volodymyr Shevchyk, CEO Indeema Software offers a wide range of IoT engineering and consulting services for companies working in smart homes, energy, automotive, agriculture, health care, manufacturing and consumer electronics. The solution provider, based in Lviv, Ukraine, with offices in Washington, has a team of more than 200 IoT experts who can help organizations with everything from research and development and prototyping to testing and quality assurance as well as post-production support for IoT projects. The company’s projects include solutions for smart energy consumption, real-time SCADA monitoring and solar energy usage management. 
+
+
+
+
+
+
+ Insight Enterprises Top Executive: Joyce Mullen, President, CEO Insight Enterprises takes a consultative approach to the IoT systems integration and engineering services it provides to companies in industries ranging from agriculture and manufacturing to energy and retail. The Chandler, Ariz.-based solution provider uses sensors, on-premises computing and AI models to deliver edge computing solutions that help companies achieve new business outcomes. The company provides a full suite of services to develop new solutions and ensure they keep producing the results customers are looking for. This starts with envisioning sessions where technical experts develop use cases and requirements for a solution based on a customer’s business objectives, and it ends with support services to monitor and optimize solutions in the field. 
+
+
+
+
+
+
+ Kalypso (Rockwell Automation) Top Executive: Matt Priest, Global Business Director, Digital Kalypso, a Rockwell Automation business, provides end-to-end solution advisory and implementation services for IoT projects related to smart connected products, operations and manufacturing. The Milwaukee, Wis.-based solution provider’s capabilities include strategic assessments, architecture design, platform development, scaling, business process and persona definition as well as change management for companies in industrial, high-tech, manufacturing and medical device verticals. The company’s recent projects include an IoT platform for a modular connected cooling solution that can view and track live data of temperature-controlled goods. 
+
+
+
+
+
+
+ Klika Tech Top Executives: Val Kamenski, Gennadiy Borisov, Co-CEOs Klika Tech brings a collaborative approach to the IoT solutions it delivers for a wide range of industries, from manufacturing and automotive to construction and health care. The Miami-based solution provider’s portfolio of solutions include a high-performance asset tracking platform, an automated smart city system for e-bike rental, an HVAC predictive maintenance platform and a smart apartment platform. The company develops solutions in partnership with a wide range of technology vendors, including Amazon Web Services, Siemens, GE Digital, Intel, Lenovo and Infineon. 
+
+
+
+
+
+
+ Mariner Top Executive: Philip Morris, Co-Founder, CEO Mariner helps manufacturers improve production quality and reduce defects with its subscription-based deep learning solutions for virtual inspection and assembly verification. The Charlotte, N.C.-based solution provider says its Spyglass solutions can dramatically improve defect detection, eliminate pseudo defects and false rejects, reduce scrap and lower human inspection costs. The company’s assembly verification solution helps reduce manufacturing errors by analyzing engineering drawings, bills of materials and product specifications and then uses machine vision to verify that products are being assembled correctly. 
+
+
+
+
+
+
+ New Vision Top Executive: Jeff Stebbins, Founder, CEO New Vision provides services around augmented reality, connected operations and connected products that stem from its long-running expertise in product life-cycle management. The Bloomington, Minn.-based solution provider’s connected products solution is focused on helping manufacturers optimize business processes and improve customer experience while its connected operations solution is about optimizing production performance and reducing downtime. The company’s IoT and augmented reality solutions are provided in partnership with PTC with its ThingWorx and Vuforia platforms, respectively. 
+
+
+
+
+
+
+ NTT Data Top Executive: Bob Pryor, CEO NTT Data gives companies a way to save significant time on product development and achieve business outcomes faster with an IoT accelerator framework that focuses on specific customer needs. Developed by the Tokyo-based solution provider’s Launch by NTT Data group, the IoT accelerator started with an initial focus on helping companies develop consumer IoT products, with plans to expand to commercial and industrial applications in the future. To help increase adoption of the IoT accelerator, Launch By NTT Data is expanding the framework to include cloud, hardware and firmware components. 
+
+
+
+
+
+
+ Onica (Rackspace Technology) Top Executive: Amar Maletira, CEO An Amazon Web Services Premier Consulting Partner, Onica promises to expedite the development of IoT solutions for companies by integrating hardware and software systems. The San Antonio-based solution provider, owned by Rackspace Technology, relies on hardware reference designs to accelerate prototypes on top of offering custom hardware engineering and end-to-end go-to-market expertise to help companies bring their products to the finish line. Onica also offers full-life-cycle, cloud-native application development to bring life to connected devices while leaning on analytics solutions to monitor the health of devices and uncover insight. 
+
+
+
+
+
+
+ Optiv Top Executive: Kevin Lynch, CEO Optiv keeps critical industries safe from attacks mounted against industrial control systems, operational technologies and IoT devices through a robust practice with a comprehensive portfolio of services. Based in Denver, the MSSP offers a full suite of OT security advisory, deployment and management services that give organizations the resources they need to protect critical hardware, systems and processes. The company’s capabilities include risk assessments, real-time threat detection and response, platform patching, device maintenance, technology management and managed security services. 
+
+
+
+
+
+
+ Patti Engineering Top Executive: Sam Hoff, CEO Patti Engineering helps manufacturers tackle a variety of challenges, from a lack of personnel and limited diagnostics, with customized IoT solutions and services. The Auburn Hills, Mich.-based systems integrator takes advantage of Siemens Industrial Edge, Ignition and other advanced technology platforms to help manufacturing facilities optimize throughput, quality and processes while eliminating bottlenecks along the way. The company’s success stories include automotive manufacturers that were able to significantly improve overall equipment effectiveness and production quality on the plant floor, thanks to Patti Engineering’s effective implementation of industrial IoT technologies and Ignition Edge SCADA software. 
+
+
+
+
+
+
+ Syntax Systems Top Executive: Christian Primeau, CEO Syntax taps into IoT technologies as a key part of its technology stack for services around enterprise resource planning systems, mission-critical application management and digital workplace optimization. With in-depth expertise in industries like construction, manufacturing and natural resources, the Montreal-based solution provider tackles business problems through a variety of ways, including CxLink, a solution that bridges the gap between disparate systems and cloud services. To help organizations move fast and stay competitive through IoT solutions, the company draws from the expertise of its centers of excellence to help them with industry-specific challenges and provides its Digital-Factory-as-a-service offering to equip them with tailored solution templates. 
+
+
+
+
+
+
+ Tech Superpowers Top Executive: Michael Oh, Founder, President Tech Superpowers sets the standard for integrating IoT systems in residential and commercial settings thanks to partnerships with industry giants like Cisco Meraki and a 30-year legacy of meticulously crafting workflows combined with experienced in networking and cybersecurity. Notable work by the Boston-based solution provider includes smart technology infrastructure at the city’s 10 World Trade building and audio-video integration for Evolved by Nature’s new headquarters. The company also runs a smart home integration practice called TSP Smart Spaces with capabilities in smart lighting solutions, smart climate control and smart home security, among other things. 
+
+
+
+
+
+
+ ThingLogix Top Executive: Carl Krupitzer, Founder, CEO ThingLogix helps companies and governments fast-track the development of innovative IoT solutions to enable new levels of efficiency and fresh business models. The San Francisco-based solution provider jump-starts IoT development through ThingLogix Foundry, an open-source application building framework that provides clients with most of the plumbing and infrastructure to build applications at lower up-front costs. From there, the company provides professional services, ranging from application and user interface development to integration with Salesforce.com and Amazon Web Services, to get customers across the finish line. The company’s customers include the U.S. Postal Service, Schumacher Electric, Toshiba and Charter Communications. 
+
+
+
+
+
+
+ Trek10 Top Executive: Jim Abercrombie, Co-Founder, President An Amazon Web Services Premier Consulting Partner, Trek10 provides services for building IoT solution architectures and monitoring devices at scale to help solve business problems. Based in South Bend, Ind., the solution provider says it can connect IoT devices to AWS services within six weeks. From there, the company’s capabilities extend to device monitoring for identifying security threats, hardware issues and other anomalies. It can also develop machine learning models to analyze IoT data for use cases like predictive maintenance and anomaly detection. Among the company’s customer success stories is Cornelius, which used Trek10’s services to transform its beverage dispensers into smart devices that analyze usage data to optimize supply chains and marketing efforts on top of sending maintenance alerts to staff in real time when issues occur. 
+
+
+
+
+
+
+ Wachter Top Executive: Brian Sloan, CEO Watchter helps companies tackle business challenges by designing and deploying IoT solutions that can track traffic patterns, motion and presence, among other things, for a variety of use cases. The Lenexa, Kan.-based solution provider also has the ability to integrate systems and sensors for predictive maintenance applications that can detect changes in things like temperature, speed or pressure to anticipate potential issues in equipment. The company provides integration services for geofencing and beacon applications too, giving clients the ability to track occupancy in a building or help visitors find their way through a facility. 
+
+
+
+
+
+
+ Waverley Software Top Executive: Matt Brown, CEO and Co-founder Waverley Software provides custom IoT development services that touch upon critical aspects of connected solutions, from device architecture to cloud infrastructure. The Palo Alto, Calif.-based solution provider’s expertise goes all the way down to the necessary system-on-chips and single-board computers needed for a device to the middleware that helps devices communicate with each other as well as cloud servers. The company’s IoT-related services consist of mobile app development, machine learning, data management and analytics, cloud solutions, support and maintenance, and system integration. 
+
+
+
+
+
+
+ World Wide Technology Top Executive: Jim Kavanaugh, Co-Founder, CEO World Wide Technology works closely with companies across various industries to make meaningful improvements in efficiency, competitiveness and decision-making by integrating IoT solutions. For example, the St. Louis, Mo.-based solution provider helped one of the oldest operating wineries in Northern California maximize yield of grapevines by deploying precise temperature sensors to help the business determine when to expose grapevine blocks to additional light. The company also worked with the largest health-care system in the U.S. to increase the independence and activity levels of patients by deploying a wearable-based system.

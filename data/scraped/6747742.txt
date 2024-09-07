@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.theadvocate.com/acadiana/news/business/jc-penney-announces-1b-in-upgrades/article_5d3507ae-48d9-11ee-a997-43796b78b6ba.html

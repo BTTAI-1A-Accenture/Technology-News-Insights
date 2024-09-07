@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ By Chris Mellor, August 31, 2023 Infinidat is claiming its data protection system can restore data at 28TB a second, yes, terabytes a second, which would far outpace competing systems. Update: ExaGrid points added. 4 Sep 2023. High-end array supplier Infinidat’s CMO Eric Herzog presented at the recent VMware Explore event in Las Vegas and looked at how Infinidat and Veeam worked together to protect VMware workloads. He asserted that the RTO (Recovery Time Objective) is the most critical metric for cyber recovery and business continuance after cyber attack events. Herzog claimed a 20 PB Veeam backup set was recovered in 11 minutes and 55 seconds from an Infinidat InfiniSafe system. Spreadsheet maths says this is 1.678 PB per minute and that means 27.96 TBps. At least in this single test, if the reported numbers are accurate, this is much faster than a Pure Storage FlashBlade, with stated restore times of up to 270 TB per hour (4.5 TB per minute and thus 75 GBps.  The InfiniSafe system, at 1,678 TB/min is more than 370 times faster. This is so outlandish we checked our numbers again – but they were correct – see our table below. We tried to compare this against ExaGrid, known for high performance, which has a tiered backup storage design using a non-deduplicated disk landing zone for recent data and deduplicated disk for older backup data. Restores from the landing zone, without the deduplication rehydration overhead are fastest, with an ExaGrid document saying: “ExaGrid can provide the data for a VM boot in seconds to single-digit minutes versus hours for inline data deduplication backup storage appliances that only store deduplicated data.” But no actual restore speed numbers are provided. Its fastest appliance, the EX84 has a maximum backup throughput of 15.25 TB per hour. An InfiniGuard array can take in up to 180 TB per hour, and this implies that InfiniGuard would outpace ExaGrid’s EX84 in restore speed terms as well as ingest speed.  This isn’t unexpected as, other things being equal, an all-flash system should go much faster than a disk-based system. But ExaGrid’s appliances scale out so you could add more of them to match Infinidat’s ingest and restore speeds. ExaGrid can actually scale out to a 488 TB/hour ingest rate with its EX2688-G configuration, so matching Infinidat’s restore speed should be possible. Whether this is worthwhile has price/performance, rack space and electricity usage aspects to the decision. Why is InfiniSafe so fast? It is basically an InfiniGuard data protection hybrid array or InfiniBox (disk-based) or InfiniBox SSA (all-flash) storage array running InfiniSafe software which stores immutable snapshots of production InfiniBox systems. InfiniSafe also protects against ransomware with its cyber-resilience feature set, but we are not concerned with that here, just the restore speed. And that comes from the base InfiniBox system being a fast system with its memory caching. The all-flash InfiniBox SSA II is the fastest of all Infinidat’s arrays. Production systems can be backed up using Veeam Backup and Restore software. Infinidat CMO Eric Herzog says there are more than 100 mutual Infinidat-Veeam customers. His presentation cited enterprise customers who had replaced Data Domain, ExaGrid and NetApp backup storage systems with InfiniGuard, with InfiniGuard’s speed a significant competitive advantage in each case. https://blocksandfiles.com/2023/08/31/infinidat-data-protection-box-has-outlandish-restore-speed-with-veeam/ 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

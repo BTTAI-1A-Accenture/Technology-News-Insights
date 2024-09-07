@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kentuckytoday.com/news/business/g2-continues-to-recognize-6sense-as-a-leader-in-its-winter-2023-grid-reports/article_05ff7774-7fba-5abb-a04e-f5070534b691.html

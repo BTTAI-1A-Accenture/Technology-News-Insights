@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.valdostadailytimes.com/ap/business/the-hartford-declares-quarterly-dividends-of-0-425-per-share-of-common-stock-and-375/article_ea05da26-cc72-5f03-9259-862c41861d8a.html

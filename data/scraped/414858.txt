@@ -1,0 +1,31 @@
+
+Breadth of APIs, continuous product updates, best-in-breed partner ecosystem, strong customer base and easy integration were instrumental to Vinomofo launching on BigCommerce
+ With BigCommerce's headless architecture, Vinomofo is now able to support horizontal and vertical business expansion and global growth of its brand to reach more customers and broaden its offerings.  (Graphic: Business Wire) With BigCommerce's headless architecture, Vinomofo is now able to support horizontal and vertical business expansion and global growth of its brand to reach more customers and broaden its offerings.  (Graphic: Business Wire)  AUSTIN, Texas & SYDNEY--(BUSINESS WIRE)--BigCommerce (Nasdaq: BIGC), a leading Open SaaS ecommerce platform for fast-growing and established B2C and B2B brands, today announced the platform launch of Vinomofo, a leading online wine retailer in Australia and Singapore. With BigCommerce, Vinomofo is now able to support horizontal and vertical business expansion and global growth of its brand to reach more customers and broaden its offerings.
+  
+Historically, Vinomofo has utilised a custom-built ecommerce platform that heavily relied on a core internal engineering team to grow the business. In order to enable horizontal and vertical growth, streamline business processes, enhance speed-to-market and cultivate user enablement, Vinomofo recognized it was time to go to the next level.
+ 
+“We originally built a robust ecommerce stack that served the business well for a long time. However, it became challenging to scale and continuously adapt without significant internal custom development and maintenance, which ultimately can slow an ecommerce business down,” said Mitchell Klaassen, chief technology officer at Vinomofo. “In online retail, the need to innovate and adapt is constant and our biggest challenge was having to build most of these new services ourselves from scratch.
+ 
+“We knew moving to a headless commerce and content architecture, and using integrated best-of-breed technologies was essential. BigCommerce ticked all the boxes, and their support really gave us confidence in the partnership. We have a lot of exciting plans in the pipeline as we look to grow further, and having the support of BigCommerce will be crucial to making this a reality,” Klaassen continued.
+ 
+Vinomofo is committed to innovating, growing and scaling its brand, people and offerings in Australia and overseas. Furthermore, the company is investing more in and around its ecommerce platform with BigCommerce to improve personal shopping experiences to reach new audiences and better serve its existing customer base.
+ 
+Rounding out Vinomofo’s headless transformation include integrations with Hubspot, Contentful CMS, edge hosting and development environment Netlify, Auth0 and other best-in-breed tech tools that deliver the speed and innovation for their brand, internal users and ultimately a more secure and personal user experience for customers.
+ 
+“Vinomofo migrating from a monolithic suite to a modern headless architecture has literally up leveled them to a rock-solid platform ready to expand and deliver a powerful ecommerce experience for both developer teams and customers,” said Shannon Ingrey, vice president and general manager of BigCommerce in APAC. “The potential for the Vinomofo brand is endless, and we look forward to going on this growth journey together.”
+ 
+Vinomofo joins a growing list of food and beverage merchants using BigCommerce including Con' Olio Oils & Vinegars, King Arthur Baking Company, Marquis Wine Cellars, and ShopWineDirect.
+ 
+To learn more about BigCommerce’s ecommerce solutions for food and beverage, click here. To learn more about BigCommerce’s headless solutions, click here.
+ 
+About BigCommerce
+ 
+BigCommerce (Nasdaq: BIGC) is a leading open software-as-a-service (SaaS) ecommerce platform that empowers merchants of all sizes to build, innovate and grow their businesses online. BigCommerce provides merchants sophisticated enterprise-grade functionality, customization and performance with simplicity and ease-of-use. Tens of thousands of B2C and B2B companies across 150 countries and numerous industries use BigCommerce to create beautiful, engaging online stores, including Ben & Jerry’s, Molton Brown, S.C. Johnson, Skullcandy, Solo Stove and Vodafone. Headquartered in Austin, BigCommerce has offices in London, Kyiv, San Francisco and Sydney. For more information, please visit www.bigcommerce.com or follow us on Twitter, LinkedIn, Instagram and Facebook.
+ 
+BigCommerce® is a registered trademark of BigCommerce Pty. Ltd. Third-party trademarks and service marks are the property of their respective owners.
+ 
+Dana Marruffo
+dana.marruffo@bigcommerce.com
+ With BigCommerce, Vinomofo is now able to support horizontal and vertical business expansion and global growth to reach more customers. 
+Dana Marruffo
+dana.marruffo@bigcommerce.com

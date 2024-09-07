@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/travelsavers-canada-inc-expands-its-leadership-team-to-support-growing-roster-of-agency-partners/article_e34eba74-9f26-52a0-8ae8-7b0bf6db336a.html

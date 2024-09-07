@@ -1,0 +1,69 @@
+Follow: 
+Sign up for CNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.
+ 
+            Humanoids that handle household chores or build habitats on the lunar surface may sound like something from science fiction. But the team at Austin-based robotics startup Apptronik envisions a future where general-purpose robots will handle “dull, dirty and dangerous” jobs so humans don’t have to.
+     
+            The design for Apptronik’s latest humanoid robot, named Apollo, was unveiled on Wednesday.
+     
+            The robot is on the same scale as a human being, standing at 5 feet, 8 inches (1.7 meters) tall and weighing 160 pounds (72.6 kilograms).
+     
+            Apollo can lift 55 pounds (25 kilograms) and has been designed to be mass-produced and safely work alongside humans. The robot utilizes electricity, rather than hydraulics that aren’t considered to be as safe, and has a four-hour battery that can be changed out so it can operate for a 22-hour workday.
+     
+            To avoid “uncanny valley” territory, a phenomenon in which humans feel uneasy about the appearance of a humanlike robot, Austin-based firm Argodesign outfitted Apollo with features that are meant to feel approachable — and even friendly.
+     
+            The robot has digital panels on its chest that provide clear communication about remaining battery life, the current task it’s working on, when it will finish and what it will do next. Apollo also has a face and intentional movements, such as turning its head to indicate where it will go.
+     
+            The initial goal for Apollo is to put it to work in logistics, taking on physically demanding roles inside warehouses to improve the supply chain by addressing labor shortages. But the Apptronik team has a long-term vision for Apollo that extends for at least the next decade.
+     
+            “Our goal is to build versatile robots to do all the things that we don’t want to do to help us here on Earth, and eventually one day explore the moon, Mars and beyond,” said Jeff Cardenas, cofounder and CEO of Apptronik.
+     
+            Before starting Apptronik in 2016, the team members worked in the Human Centered Robotics Lab at the University of Texas at Austin.
+     
+            “The focus of the lab was all about how humans and robots will interact in the future,” Cardenas said. “As humans, our most valuable resource is time, and our time here is limited. And as toolmakers, we can now build for ourselves tools that give us more time back.”
+     
+            While at the lab, the team was selected to work on Valkyrie, a NASA robot, during the DARPA Robotics Challenge between 2012 and 2013.
+     
+            The robot, which stands 6 feet, 2 inches (1.9 meters) tall and weighs 300 pounds (136 kilograms), is a bipedal humanoid robot capable of dexterous manipulation and walking (including over and around obstacles), carrying items, and opening doors, according to Shaun Azimi, leader of the dexterous robotics team at NASA’s Johnson Space Center in Houston.
+     
+            The electric robot has been modified and improved since its debut in 2013, and it is currently being tested as a remote caretaker of uncrewed and offshore energy facilities in Australia.
+     
+            Apollo’s roots are in Valkyrie’s design, and the Apptronik team has spent years building unique robots and components that culminated in a humanoid that could function in environments designed for people. Assembly-line robots are often bolted to the ground or plugged into a wall and can only function in spaces designed to accommodate them, Cardenas said.
+     
+            Rather than highly specialized robots that can only serve one purpose, Apptronik wanted Apollo to be the “iPhone of robots,” Cardenas said.
+     
+            “The goal is to build one robot that can do thousands of different things,” he said. “It’s a software update away from doing a new task or a new behavior.”
+     
+            Eventually, Apollo will be less than the price of the average car. Traditional robots rely on high-precision parts. But the introduction of cameras and artificial intelligence systems have enabled the development of robots that rely less on preprogramming and instead are more responsive to their environments, which means that the parts used in production are more affordable, Cardenas said.
+     
+            This year, Apptronik is focused on securing commercial clients and manufacturers that have an interest in how Apollo could improve their logistics. The company aims to be in full commercial production by the end of 2024.
+     
+            Apollo will start out in factory and warehouse settings doing simple tasks, such as moving boxes and pushing carts around. But over time, Apollo’s functionality will increase through new models and updates to the point where it could be used in construction, the production of electronics, retail spaces, home delivery and even elder care.
+     
+            At the heart of Apollo’s design are actuators, or robot muscles. Apptronik’s team has worked on more than 35 iterations of the core actuators that enable Apollo to walk, flex its arms and grasp objects like a human.
+     
+            “Humans have around 300 muscles in our bodies,” said Dr. Nick Paine, cofounder and chief technology officer at Apptronik. “As engineers, our goal is to simplify complexity, so the Apollo robot has around 30 different muscle groups inside of its system that you need to do basic actions and activities.”
+     
+            Before Apollo, Apptronik focused on what it called a Quick Development humanoid robot. While it included limited manipulation capabilities and simple arms, the design’s focus was improving the robot’s locomotion.
+     
+            “The way that we develop robotics is you really try to have the hardware and the software kind of mature in lockstep with each other,” Paine said.
+     
+            Apollo’s head contains a perception camera, while sensors on its torso help the robot map out a 360-degree view of its environment and determine where it can move. The robot’s “brain,” or main computer, is also located in its chest.
+     
+            Sensors help the robot remain oriented as it walks over or around obstacles. This kind of locomotion will be key as Apollo makes its way into more uncertain environments, such as the outdoors and someday even the surface of the moon.
+     
+            “The robots need to be able to work in the same kind of chaos and uncertainty that humans are able to exist with,” Paine said.
+     
+            Eventually, Apollo will be autonomous, but the team at Apptronik still wants there to be a level of control over what the robot will do. While the controls will first operate via tablets or smart devices, in the future, a human should be able to walk up to Apollo and tell it what to do, Cardenas said.
+     
+            Apptronik serves as one of NASA’s partners that works on humanoid robot designs. Earth is a proving ground for Apollo, and one day, a future version of the robot could work in hazardous space conditions so humans don’t have to.
+     
+            It will take several steps in development to prepare humanoid robots to work in the vacuum of space, so Apollo might first go to the International Space Station, Paine said.
+     
+            “For space exploration, we really need systems that have more than one skill that are flexible and adaptable, both to a variety of tasks that we know about and perhaps some tasks that we won’t anticipate until they actually come up in the course of exploration,” Azimi said.
+     
+            The current architecture for NASA’s Artemis program, which aims to return humans to the moon and eventually land crewed missions on Mars, envisions a pressurized rover on the lunar surface as soon as the Artemis VI mission slated for 2030, Azimi said. This period of lunar exploration in the early 2030s is when Azimi thinks robots like Apollo might also come in handy.
+     
+            The benefit of using humanoid robots like Apollo in space is that they could be used to build and test environments designed with humans in mind — such as lunar and martian habitats — before astronauts arrive. But the robots will face challenges and need to be designed with fewer limitations than their Earth-based counterparts. For example, a humanoid robot may need to crawl within the environment of a rover similar in size to an RV and still have the strength and flexibility to open pressurized doors, Azimi said.
+     
+            “My hope and my dream is that we will have general purpose robots that are fielded in space within the next 10 years and that we will be able to realize some of the benefits of having robotic systems that can allow the crew a much greater focus on things that humans do best — exploring and making scientific discoveries,” Azimi said.
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

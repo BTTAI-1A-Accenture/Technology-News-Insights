@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/fastly-deploys-industry-leading-threat-123000620.html

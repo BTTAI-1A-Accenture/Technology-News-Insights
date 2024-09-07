@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Stay updated on the latest releases from Civo with our monthly newsletter, featuring an interview with Steve Wozniak at Civo Navigate NA 2023 and highlights from KubeCon. With just 4 months to go, we can’t wait to begin sharing more about what we have in store for Civo Navigate Europe 2023! Over the next few weeks, we will be sharing some incredibly exciting keynote speakers that will be joining us. If you’re planning on joining us in London, register now to save up to £250 with our Super Early Bird tickets - ending next week! In the meantime, make sure to watch our keynote session with Steve Wozniak from Civo Navigate NA 2023 below: If you’d like to share your knowledge and speak at Civo Navigate Europe 2023, check out this guide we have put together outlining the best practices for submitting a successful CFP: Interested? Submit your CFP for Civo Navigate Europe 2023 today by clicking here. KubeCon + CloudNativeCon EU 2023 wrap up During the three-day event, Dinesh Majrekar (CTO), Saiyam Pathak (Director of Technical Evangelism), Mark Boost (CEO), and Kunal Kushwaha (Dev Rel Manager), spoke about a range of topics with the focus being on supporting the wider community. So, join us as we explore our week at KubeCon + CloudNativeCon EU 2023. Civo TV We spoke to a range of industry experts in the cloud native community at KubeCon + CloudNativeCon EU 2023 for Civo TV. View the full playlist here. Hear what Divya Mohan had to say about the importance of diversity in open source communities and the value of small contributions to foster growth and inclusion: How Civo is Backing Cloud-Native to Reduce the Cost of Machine Learning Our latest blog discusses the challenges of machine learning projects, and why most fail to deliver and don't make it to production. It highlights the need for a developer-first approach to cloud native technology and introduces Civo ML, our new machine learning ecosystem. Practical Guide to Kubernetes Probes This tutorial from Narendra Kangralkar covers Kubernetes probes and their role in managing distributed applications at scale. It discusses the three types of probes and how they can help build self-healing, robust applications. K3s vs. Talos Linux Gain a better understanding of K3s and Talos Linux by comparing their features and capabilities, allowing you to make the right choice based on your specific needs and use case. Using Civo’s Object Storage as a Terraform Backend Jubril Oyetunji demonstrates how to use Civo's object storage as a backend for Terraform state files, filling the gap left by the absence of native storage in the platform. The guide also gives an overview of Terraform state and highlights Civo's recent addition of object storage. Streamlining Database Management on Kubernetes with Civo and Percona Operators CTO Dinesh Majrekar will be speaking alongside Percona Product Manager, Sergey Pronin, for a fireside chat about all things Kubernetes. You can register for this online webinar here.  Want to chat about something we have mentioned in this month's newsletter? We would love to hear from you!  Get in touch at civo.com Sign up here and get $250 free credit for a month to try out Civo! Java Full Stack  Developer | AI | Devops Very happy being a follower of Civo 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

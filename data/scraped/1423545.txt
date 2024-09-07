@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ As a busy professional, you may have little time to devote to algorithmic programming regularly. However, occasionally, you may feel the need to brush up your skills and tackle some challenging problems. One popular platform for this purpose is HackerRank, which offers a wide range of coding challenges and contests. While HackerRank can be a helpful resource for honing your algorithmic skills, it has some potential pitfalls. In this article, I'll tell you about one such issue. I was trying to solve one of the medium-complexity tasks. This problem tests your ability to work with arrays and think creatively to find an optimal solution. Overall, to solve this problem, you need to find how many array elements are located in not their consecutive cell. After playing around for a bit, I wrote the following code, which solved the initial problem. I clicked the "Submit" button and was ready to move to the next task, but I saw an error: Terminated due to timeout :(. This message was different from what I was expecting. I could not see any low-hanging fruits to speed up this code. I checked with dotTrace, and the function's execution was about 2% of the overall time. It means that it's time for micro benchmarks and Benchmark DotNet.  One of the tricks with arrays in .Net is to go through the array in reverse order, e.g. backwards. I spent a bit more time and updated the original code to: I checked the benchmark - and on small arrays, I've got about 30% faster performance! That's great, isn't it?  So I submitted the second version of the function and was ready to move on... But once again, I saw a horrible read message: Terminated due to timeout :( I used 5 "hackos" to see the test date where my implementation failed. The test case was an array with 100_000 elements. I saved this test case to a file to use in the benchmarks. The reverse loop implementation was 50% faster than the initial implementation but needed to be faster. At this point, I was lost and thought that the algorithm I had used was not optimal. I opened a discussion section and found a couple of solutions in C# and Java. The first one used a dictionary (hash map) to keep the cache of what element needs to be swapped with what. Everything that's using cache is faster, right? I uploaded this solution, and it passed all the checks on the Hacker Rank!  The second algorithm was a cheeky one. Use an embedded LINQ sort function and compare the output with the original array. Now if you have to put elements in the original array in the right place (because you know the order), this one looked too "expensive" for the execution because, technically, you sort the collection twice. However, I took this implementation and sent it. My expectation was to see the red message:  Terminated due to timeout :(. However, this solution is also passed. Here I see that I'm horrible at algorithmic programming. I just want to know how bad is my "fast" code. I added these two solutions to my benchmark solution and ran it with the failing test case with 100_000 elements as the input data. At this point, it should be a mic drop - the reverse loop solution is times faster than both solutions I took from the comments. However, I don't understand why it doesn't work in Hacker Rank. So what I learned from this story: 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

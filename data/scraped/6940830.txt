@@ -1,0 +1,30 @@
+ Google’s Bard (OpenAI’s ChatGPT biggest competitor perhaps) is getting even smarter. It can now access your Gmail, Docs, and Drive accounts – all of which are Google products to assist you in finding the information you need in an efficient way. Whether you want Bard to summarize an email or pinpoint key details in a document, it can help, making it a game-changer for productivity. This change is potentially a big one for a service that has lagged behind in many ways as AI finds its way to every part of our lives. These integrations, called extensions, come with a wide range of potential use cases, all designed to save you from the endless task of sorting through emails and documents. You can also use the information Bard finds in various ways, like creating visual charts or concise summaries. As of now, this feature is available exclusively in English. Google hasn’t yet said if this feature will be come in other languages soon but as expected, it would likely be the case that it will support other languages soon.  While granting Bard access to your personal documents and emails may raise concerns about privacy, Google assures users that this data won’t be used to train Bard’s public model and won’t be visible to human reviewers. Plus, the integration with Gmail, Docs, and Drive is opt-in, and you can disable it at any time. To take advantage of these integrations, simply instruct Bard to search within your Gmail, such as by starting your query with ‘@mail.’ Alternatively, you can issue straightforward requests like, “Check my email for information related to my upcoming flight.” Google isn’t stopping there; Bard’s capabilities extend beyond Gmail, Docs, and Drive. The chatbot will also link up with Maps, YouTube, and Google Flights. This means you can request real-time flight information, discover nearby attractions, unearth YouTube videos on specific topics, and much more. Google has enabled these three extensions by default.  Jack Krawczyk, the product lead of Bard, explains that this experimental approach aims to integrate a language model product with personal data while ensuring privacy and accuracy. Google plans to expand Bard’s integrations to more Google products and external partners. In addition to these integrations, Google is enhancing Bard with a “Google It” button that cross-references Bard’s responses with Google Search results. This feature helps users verify the accuracy of Bard’s answers, with Search results highlighted in green for confirmed information and orange for unvalidated responses. Users can mouse over the highlighted sections for additional context.  Google is also introducing a way to continue conversations with Bard based on shared links, allowing users to build on previous questions. Since its launch in February, Bard has seen consistent improvements, from generating and debugging code to creating functions for Google Sheets. The recent addition of Google Lens support allows users to brainstorm caption ideas for photos and gather more information about them. 
+				Paul Balo is the founder of TechBooky and a highly skilled wireless communications professional with a strong background in cloud computing, offering extensive experience in designing, implementing, and managing wireless communication systems.			 Your email address will not be published. Required fields are marked * Comment *  Name *  Email *  Website   Save my name, email, and website in this browser for the next time I comment. 
+
+ − 
+2
+ = 
+2
+
+
+
+
+
+
+
+  Notify me of new posts by email.  
+
+ TechBooky is a social Tech blog with a special focus on the budding African Technology sector. TechBooky is currently based in Abuja, Nigeria.  © 2021 Design By Tech Booky Elite  © 2021 Design By Tech Booky Elite Subscribe now to keep reading and get access to the full archive. 
+
+								Type your email…							
+  
+
+
+
+
+
+
+
+ 
+								Subscribe							
+ Continue reading

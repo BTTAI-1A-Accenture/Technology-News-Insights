@@ -1,0 +1,25 @@
+
+Bitrise Automates Mobile App Deployment for The Fintech Unicorn, Allowing It to Release Features Weekly to Apple and Android Marketplaces
+ 
+Bitrise, the Mobile DevOps company whose platform maximizes the overall business impact of apps for the world's most sophisticated mobile organizations, today announced the results of its work to automate mobile app development for Neo Financial, Canada's next-generation financial technology company. Working with Bitrise, Neo has significantly cut its build time for mobile processes, allowing its team to release more frequent mobile features. Neo has over one million members, and is one of the fastest Canadian companies to reach ‘unicorn' status following its $145M Series C funding round in May of 2022.
+ 
+For hundreds of years, Canada's banking landscape has been dominated by five major incumbent financial institutions that hold over $4 trillion of the country's assets. But, despite their long-standing history, these banks have been slow to digitize and introduce new capabilities. This ultimately formed a void between Canada's financial offerings and the evolving demands of today's mobile consumer.
+ 
+For a newcomer to bridge this gap, bringing banking outside the confines of brick-and-mortar buildings and onto consumer-friendly mobile platforms was only the first step. It also required addressing features like account security, easy-to-understand transaction details, and credit score monitoring that Canadians consider most valuable in a mobile banking experience, according to Insider Intelligence.
+ 
+Through its partnership with Bitrise and its second generation GEN2 machines, Neo saw further efficiencies throughout its mobile development and release processes and has increased the app's frequency of feature releases and app updates to a weekly cadence.
+ 
+"Reimagining the way Canadians bank is no small undertaking, and our partnership with Bitrise has enabled our team to not only accelerate our mobile development and release time, but focus our resources on building innovative products and features for all Canadians," said Kris Read, Co-founder and CTO, Neo Financial.
+ 
+Investors have recognized Neo's release speed as its key differentiator in today's crowded fintech market. According to Andrew McCormack of Valar Ventures, the pace Neo releases new products is among the fastest Valar Ventures has seen, and, "as a result, Neo can be the biggest disruption the Canadian banking industry has seen in decades, and their influence on financial services available to Canadians will impact the lives of millions."
+ 
+With the support of Bitrise's automation, Neo's engineering team continues to expand their products and features. In addition to standard banking and savings offerings, Neo's mobile app now includes everything from Buy Now, Pay Later (BNPL) options for consumers and businesses, to Canada's first fully digital and actively managed investment experience, and an online mortgage product with renewal and refinancing options.
+ 
+"A mobile app is no longer just an accessory for banks. In order to succeed, mobile needs to become a prominent aspect of banks' business models," said Barnabás Birmacher, CEO of Bitrise. "Neo's success shows that, when development is handled efficiently, mobile has the power to transform the banking industry."
+ 
+Bitrise works with more than 6,000 companies worldwide to deliver on the growing demand for mobile products. For fintech companies, this means automating vital stages of the app development lifecycle including regular security checks and testing to prevent bugs and delayed delivery of new mobile features.
+ 
+About Bitrise
+ 
+Bitrise is a Mobile DevOps company, whose platform is used by more than 6,000 businesses to maximize the business impact of their mobile apps. Working with Bitrise, the world's most sophisticated mobile organizations get their apps to market faster, improve security and keep up with constantly changing mobile requirements. Bitrise enables organizations to automate testing, accelerate build times, and quickly understand how new pieces of code will affect live apps. Customers such as Transferwise (now "WISE"), Virgin Mobile, Grindr, Tag Heuer, Compass, Mozilla, Philips Hue, Babbe, Neo Financial and others use Bitrise to rapidly respond to the changing mobile landscape. Bitrise is a Y Combinator company, headquartered in Budapest, with offices in London, San Francisco, Boston and Osaka.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230112005152/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

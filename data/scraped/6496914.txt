@@ -1,0 +1,38 @@
+April 27th 2023, London, Singapore: i3 Solutions Group, a leading specialist data centre MEP engineering services firm, has been issued two patents by the USPTO (US Patent and Trademark Office) for its Adaptable Redundant Power (ARP) topology control solution for mission-critical electrical power systems. 
+
+ARP is a hardware and software control system that overcomes the inflexibility of common data centre electrical designs, solving the service level agreement (SLA) disparity problem whereby power supply chain systems are fixed but IT load demands, and criticality are variable. 
+
+At the same time, ARP addresses constraints associated with traditional static power topologies which can restrict access to available data centre power, often leaving costly stranded capacity unused and increasing end user costs. This is an acute challenge for the wholesale colocation industry which does an admirable job securing and deploying grid power capacity but is often unable to fully or optimally utilise it causing energy waste and higher costs.
+
+Benefits of ARP
+Ed Ansett, Founder and Chairman of i3 Solutions Group, says: “Every business has low to high levels of application criticality and interdependency. Through developments such as Kubernetes, IT can be orchestrated to reflect this. However, when it comes to electricity, the power chain is fixed, wasteful and difficult to change. ARP is a way to flex the power SLA to match the IT workload SLA without the considerable expense of rewiring the entire topology design.” 
+
+By enabling power service levels to be aligned with that of the IT load, ARP provides a range of benefits to both data centre operators and their IT customers. ARP enables applications and the hardware they sit on to be provisioned with varying levels of electrical power resilience. 
+
+Today, it is obvious that not all IT workloads are equal – e.g., a Dev Ops project for a marketing campaign versus live financial transactions workloads in retail or merchant bank, or a network rack compared with a super compute cluster. However, the way power is delivered using a fixed topology does not differentiate in terms of criticality, treating all workload destinations equally. 
+
+ARP is different because it can automatically provide power resilience across the topology that is dynamically matched to the criticality of the IT load.
+
+ARP solves Inherent redundant Power challenges too
+Traditionally power chain designs for data centres are based on a chosen level of capacity, resilience and redundancy of N, N+1, N+2 and less commonly 2N, 2N+1 and 2(N+1). But once the topology is decided and deployed it is fixed. It is then expensive, time consuming and extremely difficult to change. ARP addresses this.
+
+ARP can also provide Inherent Redundant Power (IRP). Where some electrical designs leave ‘power pockets’ (assigned power that is unused) – IRP accesses previously trapped or stranded power and prevents it going to waste by utilising it to provide additional levels of redundancy.
+
+Power-as-a-Service offers from Colocation Data Centres one step closer
+ARP offers colocation data centres the opportunity to create new business models based on their power infrastructure. One of the advantages, e.g., is that ARP enables a staggered approach to infrastructure roll out which responds to end-user load and not design criteria.
+
+By treating power as a service right from the construction phase, ARP addresses many flexibility issues which have surfaced for modern data centre operators. While data centres will continue to be designed as physical buildings which are broken down into halls, ARP modules are flexible enough to provide power across multiple halls. 
+
+ARP therefore enables developers to move away from traditional and capitally intense methods of infrastructure deployment - up-front design, source, pay for and roll-out the full site requirement for genset, switchgear, UPS, PDU and ancillary equipment, and then wait for the demand to arrive.
+
+All data centres start with a low load requirement, making traditional methods both expensive to deploy and inefficient to operate. By contrast, ARP enables smaller power modules to be deployed on day one, providing flexible power to serve the start-up load. Coupled with its IRP capability, ARP enables a pay as you grow approach to power use without the drawbacks of stranded capacity. 
+
+i3 Solutions Group has to date applied for six US patents to protect ARP. Along with the two granted, two more patents pending and two under consideration. For more details regarding ARP and its capabilities, please call +44 (0) 203 953 8457 or email info@i3.solutions.
+
+
+==ends==
+
+
+About i3 Solutions Group
+i3 Solutions Group is a specialist data center MEP consulting engineering firm. The company is globally recognized for its design expertise, future thinking and innovative approach exemplified by work such as the High Rise Green Data Center and Adaptable Redundant Power. This press release was distributed by ResponseSource Press Release Wire on behalf of Spa Communications in the following categories:
+			                Business & Finance, 			                Manufacturing, Engineering & Energy, 			                Computing & Telecoms, 			 for more information visit https://pressreleasewire.responsesource.com/about. Useful links Social ResponseSource

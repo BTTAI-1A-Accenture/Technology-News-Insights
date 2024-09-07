@@ -1,0 +1,33 @@
+Copyright © 2024 Entrepreneur Media, LLC All rights reserved. Entrepreneur® and its related marks are registered trademarks of Entrepreneur Media LLC 
+                  By          
+            Matthew North
+          
+
+            Jan 10, 2023
+          
+ 
+          Share         
+    This story originally appeared on MarketBeat
+    The Fortinet (NASDAQ: FTNT) stock price has had a bumpy ride over the past five days. This comes amid the recent discovery that some distributions of its virtual private network (VPN) software can be compromised via a security exploit.   News of the vulnerability was first announced on Thursday last week, with shares of the cybersecurity company losing 1.76% of their value. The company's stock price has since recovered on the 5-day and daily charts, as it's up 0.73% and 2.46%, respectively over these time periods.   Some of those gains could have come via the broader market, as the NASDAQ Composite index has gained 1.65% over the past five days.       The exploit has been described as an "authentication bypass vulnerability" by Infosecurity Magazine that first reported the news on 5 Jan. The exploit allows attackers to access the device, giving them leverage to create further threats, such as uploading ransomware.   The attack was reportedly widespread, with hackers selling compromised devices via dark web markets and a functional proof of concept exploit code published to repositories on the publicly accessible internet.   The vulnerability, CVE-2022-40684, has since been patched via a software update.   This is the second consecutive month that Fortinet has had to address an exploit found in its VPN software. In December last year, the company scrambled to patch a bug that also allowed attackers to execute code remotely on certain VPN devices. The day after news of the exploit was announced, the company's stock lost 2% of its value.   What may have played in Fortinet's favor is that it operates a highly diversified business model, and VPNs are a relatively small part of it. The company also has a large enough market share in its industry, at around $4 billion in revenue for the last twelve months, to absorb any potential churn customer or reputational losses it may sustain due to these vulnerabilities being made public.   Fortinet considers its industry "highly fragmented" and, according to its operating segments and revenues for the last twelve months, places itself as being in second place in terms of market share behind Palo Alto Networks (NASDAQ: PANW), which was said to have the highest twelve-month revenue figure in the industry of around $5.7 billion.     Although Fortinet might have struggled reputationally over the past couple of months, the demand for its cybersecurity solutions has become significantly stronger.   The number of cyber attacks grew 38 percent last year, with the vulnerable industries of healthcare and education hit the hardest. Breaching the defenses of these organizations can be very lucrative, as it allows attackers to extort them via ransomware, with the average ransom payment reaching an astonishing $812,000 in 2021.   COVID-19 accelerated the work-at-home trend and many businesses today remain geographically decentralized. The latest survey from Zippia showed that 25% of US employees still work remotely. While having a dispersed team may improve an organization's physical security, it also creates significant vulnerabilities.     Applications such as Google Drive, Slack, and email become rich targets due to their centrality in their business's operations. These apps often contain a trove of sensitive information that can open the door for more complex attacks or may even reveal a backdoor into the organization's servers where the most damage can be done.   The rush to virtualize teams also left gaps in many organizations training of key security practices, such as how to spot social engineering and spearphishing attacks. One example of this lack of preparedness is that 32 percent of healthcare workers in the US reported they had received no training in basic cybersecurity practices.   This all means for companies like Fortinet is that since the scope and cost of cybersecurity threats are increasing every year, they can be assured that demand for their services will remain high and therefore maintain a steady stream of high-quality recurring revenue each quarter.   High-trust institutions such as hospitals and colleges may be pressured or even forced to adopt more responsible cybersecurity practices as their importance takes shape in public awareness. Class action lawsuits are growing in popularity against organizations that don't take the appropriate cybersecurity precautions. 
+                Want to be an Entrepreneur Leadership Network contributor?
+                
+  Apply now to join.
+
+ 
+          The 88-year-old investor is worth over $6 billion. 
+         
+          Christy Dawn, founder of her namesake regenerative fashion brand, says she's always been on a mission "to create beauty in everything I do."
+         
+          Get lifetime access to the latest version of MS Office Pro with no recurring fees, just powerful productivity tools for your business.
+         
+          Puffco CEO Roger Volodarsky saw an opportunity while trying to kick his addiction.
+         
+          What if you could shortcut your financial growth as a Black woman entrepreneur? Discover five key insights from a finance professional that will transform your journey.
+         
+          We put together a list of the best, most profitable small business ideas for entrepreneurs to pursue in 2024. 
+         
+							Successfully copied link
+						 We'll be in your inbox every morning Monday-Saturday with all the day’s top business news, inspiring stories, best advice and exclusive reporting from Entrepreneur. 
+            Copyright © 2024 Entrepreneur Media, LLC All rights reserved. Entrepreneur® and its related marks are registered trademarks of Entrepreneur Media LLC
+          
+ 

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://omaha.com/lifestyles/technology/article_857b848f-e9e1-5b39-bab1-d13f3bb662ed.html

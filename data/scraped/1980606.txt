@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://journalnow.com/eedition/page-a4/page_04bffb4f-180e-5dd0-b82d-e3c30488bd0d.html

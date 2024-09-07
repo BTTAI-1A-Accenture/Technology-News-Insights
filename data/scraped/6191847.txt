@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.mississippivalleypublishing.com/daily_gate/japanese-beetles-by-the-gallon/article_77fbb7ea-1f35-11ee-af70-cf6081deda11.html

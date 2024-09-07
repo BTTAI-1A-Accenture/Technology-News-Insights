@@ -1,0 +1,41 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+AWS Introduces Resource Explorer to Simplify Search and Discovery of Resources
+ Nov 19, 2022
+								
+								
+								
+									
+									2
+									min read
+								
+							 by 
+
+
+Renato Losio
+
+ AWS recently announced the general availability of Resource Explorer, a managed capability to search and discover resources inside an AWS account. The new option is available at no additional charge and can query multiple regions but not multiple accounts. Resource Explorer supports resources with Amazon Resource Names (ARNs), including S3 buckets, EC2 instances, Amazon Kinesis streams, and DynamoDB tables. Danilo Poccia, chief evangelist of EMEA at AWS, writes: Using the new AWS Resource Explorer, you can search through the AWS resources in your account across Regions using metadata such as names, tags, and IDs. When you find a resource in the management console, you can quickly go from the search results to the corresponding service console and Region to start working on that resource.  Source: https://aws.amazon.com/blogs/aws/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/ By default, the new service is not enabled and administrators need to turn it on to create and maintain the indexes. The visibility of the resources is controlled by creating views that define what resource information is available for search and discovery: different views can be created for different groups of users depending on their roles and permissions. To search for resources across regions with a single search, the query must be performed against a view defined in the region with the aggregation index. Hatice Özşahan, product marketing manager at Resmo, wrote an article about "the pros and cons" of Resource Explorer. Özşahan highlights: Resource Explorer intentionally excludes certain resource types as they may contain customer data, and therefore including them would cause an exposure. Resource Explorer simply does not index those resource types, including S3 objects contained within a bucket, DynamoDB attribute values, and DynamoDB table items.  Source: https://aws.amazon.com/blogs/aws/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/ Resource Explorer is supported using the CLI, the SDKs, or a unified search bar in the console. Poccia explains: I can also search through my AWS resources in the search bar at the top of the Management Console. We call this capability unified search as it gives results that include AWS services, features, blogs, documentation, tutorial, events, and more. To focus my search on AWS resources, I add /Resources at the beginning of my search. From the search results displayed in the console, developers can directly go to the resource’s service console and region. The new capability for resource inventory has been long awaited. Some users question the limited number of services supported, the lack of multi-account support, and the eventually consistent model, comparing the new capability to the options offered by other providers. Ted Andersen tweets: Meanwhile Azure has had AZ resource list, Get-AzureResource, and /resources API calls since day one. It only took AWS 20 years? And it is "eventually consistent"? Corey Quinn, cloud economist at The Duckbill Group, adds: No multi-account / multi-org option, which is sad. And there's a spit-take 36 hours eventual consistency period before it shows what's in the account? The cloud provider released an API reference guide for the new service. Resource Explorer is currently available in a subset of regions and does not support searching across multiple accounts inside an organization. The service is available at no additional charge. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

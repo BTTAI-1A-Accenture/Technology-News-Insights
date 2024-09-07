@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.eagletribune.com/region/accenture-to-acquire-einr-as-expanding-sap-supply-chain-and-logistics-capabilities-in-the-nordics/article_53f22e5c-5be2-559d-9cc0-58ac79fdde06.html

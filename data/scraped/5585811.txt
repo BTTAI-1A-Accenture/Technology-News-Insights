@@ -1,0 +1,70 @@
+   January 8, 2024 - CodeLobster IDE multi-platform free version 2.5.0 releasedRead More 
+EmberJS is a A framework for ambitious web developers.
+Ember.js helps developers be more productive out of the box. Designed with developer ergonomics in mind, its friendly APIs help you get your job doneâfast.
+  EmberJS Plug-in is a part of Codelobster PHP Edition - Professional version
+
+The EmberJS plug-in turns a EmberJS editor into a full-fledged EmberJS IDE!
+EmberJS IDE has the following abilities to work with EmberJS framework:
+
+
+EmberJS download
+
+
+Autocomplete for EmberJS functions
+
+
+Tooltips for EmberJS functions
+
+
+Context and Dynamic help
+
+
+
+1. EmberJS download
+
+EmberJS plug-in gives the ability to download the latest framework version from the original site and install it to the necessary folder using wizard. 
+
+
+
+
+
+
+2. Autocomplete for EmberJS functions
+
+EmberJS autocomplete feature enables you to write code faster. Pop-up completion list includes EmberJS functions.
+
+
+
+
+Completion list is called automatically in necessary area of EmberJS code.
+
+
+3. Tooltips for EmberJS functions
+
+Tooltips feature helps you to write code correctly. It includes descriptions for EmberJS functions.
+
+
+
+Tooltips are shown automatically in necessary area of EmberJS code.
+
+
+4. Context and Dynamic Help
+
+Ðou can quickly obtain necessary information about EmberJS syntax using these features. 
+
+
+To get help topics using Context Help:
+	
+
+		Place pointer on element you want to review help topic for and press F1 button
+		
+
+EmberJS plug-in searches for proper help information on https://www.emberjs.com/ site directly.
+
+
+The Dynamic Help window displays links to help topics for an element the pointer is placed on. 
+EmberJS plug-in conducts search to https://api.emberjs.com/ember/release
+
+
+
+

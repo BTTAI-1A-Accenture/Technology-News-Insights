@@ -1,0 +1,1 @@
+502 Server Error: Next Hop Connection Failed for url: https://finance.yahoo.com/video/c3-ai-bigbear-ai-soundhound-141420386.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/equifax-experian-and-transunion-support-u-s-consumers-with-ongoing-availability-of-free/article_4fd4ee1c-77a8-58a8-8f65-147b885e24bb.html

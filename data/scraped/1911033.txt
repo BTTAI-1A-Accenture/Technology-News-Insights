@@ -1,0 +1,33 @@
+
+Environmental impact of chips manufactured at Samsung's global sites to be shared to accelerate its B2B customers’ carbon neutrality goals
+ Samsung Electronics Achieves Life Cycle Assessment Verification on Product Carbon Footprint for Semiconductors (Photo: Business Wire) Samsung Electronics Achieves Life Cycle Assessment Verification on Product Carbon Footprint for Semiconductors (Photo: Business Wire)  SEOUL, Korea--(BUSINESS WIRE)--Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced that it has established a Life Cycle Assessment (LCA) on the product carbon footprint of its semiconductor business and achieved verification from DNV, one of the world's leading independent certification bodies.
+  
+LCA is a methodology for assessing environmental impacts throughout the lifecycle of commercial products, processes, or services, by quantifying the amount of energy, materials and waste discharge. In detail, on its semiconductors’ carbon footprint, Samsung's LCA covers raw material extraction to chip manufacturing, assembling, and testing. Its results are in accordance with ISO 14040, ISO 14044 and ISO 14067 to ensure credibility and transparency.
+ 
+The carbon footprint is commonly used by Samsung and its customers to recognize the environmental impact across all phases of Samsung's semiconductor products, and can be used as a metric to track and reduce carbon emissions.
+ 
+"Since 2019, we have been actively mobilizing efforts to measure and reduce the carbon emissions of our key memory and logic solutions," said Dooguen Song, Executive Vice President of the Environment, Health and Safety (EHS) Center at Samsung Electronics. "By leveraging LCA, we will be able to support our customers to achieve their carbon neutrality, as well as becoming more transparent on the environmental impact of the semiconductors we produce worldwide."
+ 
+"As a global expert in energy and environmental certification, DNV is pleased to have partnered with and to congratulate Samsung on successfully establishing its reliable LCA." said JangSup Lee, CEO of DNV Business Assurance Korea. "Together with global business leaders like Samsung, we will continue to take part in creating a more sustainable environment in the future."
+ 
+Since 2019, 37 of Samsung's semiconductor products received carbon footprint accreditation from the Carbon Trust and UL, 6 of its memory products certified for carbon reduction from Carbon Trust. Samsung's eco-conscious product portfolio includes DRAM, SSD, embedded storage, mobile SoC, mobile Image Sensor, automotive LED packages.
+ 
+Leveraging its LCA established at the end of last year, Samsung will quantify the carbon footprints of chips manufactured across all of its global manufacturing, testing and assembly locations in Korea, China, and the U.S.
+ 
+With sustainability at its core, Samsung will expand its LCA to include water and resource footprints to provide a more comprehensive assessment that will ultimately reduce the environmental impact of various applications such as mobile and wearables, data centers, consumer electronics, automotive, communications and more.
+ 
+About Samsung Electronics Co., Ltd.
+ 
+Samsung inspires the world and shapes the future with transformative ideas and technologies. The company is redefining the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, network systems, and memory, system LSI, foundry and LED solutions. For the latest news, please visit the Samsung Newsroom at http://news.samsung.com.
+ 
+# # #
+ 
+Ujeong Jahnke
+Samsung Semiconductor Europe GmbH
+Tel. +49(0)89-45578-1000
+Email: sseg.comm@samsung.com
+ 
+Ujeong Jahnke
+Samsung Semiconductor Europe GmbH
+Tel. +49(0)89-45578-1000
+Email: sseg.comm@samsung.com

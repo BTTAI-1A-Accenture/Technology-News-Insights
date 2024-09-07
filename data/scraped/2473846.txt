@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Quality is the degree to which a set of inherent characteristics fulfils requirements. Quality is the key to a deliverable and ensuring to conformance in project's success. Throughout the project lifecycle, measures should be taken to track the quality evolving different metrics to get the desired result.  A Quality management plan defines how the project team will implement and fulfils the quality policy of the performing organization. Quality Metrics are the operational definitions that specify the measurements within a project and the expected targets for quality and performance. The quality planning involves in the process of first determining which quality standards are relevant to the project and then finding out the best methods of adhering to those quality standards. In the realm of project management, quality assurance (QA) and quality control (QC) are distinct concepts and it is important to understand.  It is an inspection-driven process that measures work results to confirm that the project is meeting the relevant quality standards. It entails the inspection and testing of the ultimate project outcomes.  Example: A Quality Control (QC) engineer conducts testing on a  software application to detect potential flaws. various testing techniques such as unit testing, integration testing, and system testing, may be employed in this process. Upon discovering a defect within the application, the QC engineer promptly notifies the development team, who subsequently address and resolve the issue. Subsequently, the QC engineer proceeds to reevaluate the application to verify that the defect has indeed been rectified. A management process that defines the quality system or quality policy that a project must adhere to. QA aims to plan quality into the project rather than to inspect quality into a deliverable. It relates to the methods and procedures teams employ to guarantee the quality of their deliverables. Example: A Quality Assurance (QA) engineer assesses the software development process to uncover any prospective issues related to quality. This evaluation encompasses elements such as project requirements, design documentation, and the testing strategy. Upon detecting a potential quality concern, the QA engineer promptly communicates this matter to the team to resolve it. The QA engineer maintains vigilance over the project's advancement, ensuring that the development team adheres to the QA plan and that the project remains aligned with its quality objectives. It is important to understand Cost of Conformance: It is the cost associated with the monies spent to attain the expected level of quality. It is also known as the cost of quality. Cost of non conformance: This is associated with not satisfying quality expectations. This is also known as the cost of poor quality. QC and QA are important for ensuring the quality of products and services. QC is focused on identifying and fixing defects, while QA is focused on preventing defects from occurring in the first place. Remember 'quality is fit for purpose and use' - where 'low grade is acceptable but not low quality'. 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

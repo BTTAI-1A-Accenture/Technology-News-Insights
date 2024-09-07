@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://madison.com/opinion/column/patrick-w-kubeny-personal-finance-is-key-to-winning-game-of-life/article_3ba450e2-0c1d-5471-894f-04f3396419ed.html

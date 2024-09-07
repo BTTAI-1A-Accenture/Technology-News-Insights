@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.tulsaworld.com/news/state-regional/government-politics/oklahoma-watch-pension-systems-relying-on-blacklisted-banks-eye-exemptions/article_13ee45b8-4039-11ee-a823-a7ede8782cad.html

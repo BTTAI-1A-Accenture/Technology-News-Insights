@@ -1,0 +1,34 @@
+
+USound’s Active Linearization Algorithm (ALA) was developed to assist audio systems developers in their efforts to improve the total harmonic distortion (THD) performance of MEMS speakers. The innovative software tool is already available for purchase.
+
+ Active Linearization Algorithm (ALA) is USound's new signal processing tool. (Graphic: USound) Active Linearization Algorithm (ALA) is USound's new signal processing tool. (Graphic: USound)  GRAZ, Austria--(BUSINESS WIRE)--USound, a leading provider of advanced audio solutions, announced the availability of Active Linearization Algorithm (ALA), a revolutionary signal processing tool that helps reduce the total harmonic distortion (THD) of MEMS speakers. The software tool sets new standards in the development of over-the-counter (OTC) hearing aids and Hi-Fi true wireless stereo (TWS) headphones.
+
+ 
+Wireless and miniaturized audio devices require lightweight speakers with a slim form factor, which can also deliver outstanding audio performance. To achieve that, audio systems developers are required to monitor the THD -the measurement of the harmonic distortion present in a signal- of MEMS speakers. The new signal processing tool provides an additional measure for reducing the THD, setting new standards for the entire industry.
+
+ 
+“ALA enables audio systems developers to significantly reduce the THD of MEMS speakers, which, in turn, improves the audio quality of end products. USound continuously researches and develops audio solutions that set new standards on the market. The release of ALA software tool is another turning point for USound and the entire audio electronics industry.”
+
+ 
+-Ferruccio Bottoni, USound’s CEO
+
+ 
+USound’s ALA can be applied to a system that has been already optimized to improve the THD performance. By digitally compensating the non-linearities of the speaker, ALA helps developers to further reduce the THD and improve audio quality of an end device. This achievement will not only benefit MEMS speaker-based audio system manufacturers, but also improve the experience of end users. These include patients with partial hearing loss who will be able to enjoy slimmer hearing aids with profound audio quality.
+
+ 
+About USound
+USound is a fast-growing MEMS loudspeaker company enabling customers to bring new revolutionary audio products to the market. USound’s unique selling proposition is based on radical miniaturization, power reduction and increased production efficiency. USound products are safeguarded by over 300 patents. Learn more on www.usound.com
+ 
+Photo credits:
+USound
+
+ 
+Photo captions:
+ALA software
+
+ 
+Maria-Eleni Perpiraki
+press@usound.com
+ 
+Maria-Eleni Perpiraki
+press@usound.com

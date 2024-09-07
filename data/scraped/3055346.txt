@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/stord-launches-stord-one-warehouse-wms-to-help-operators-increase-efficiency-and-productivity-of-omnichannel/article_f383b7e1-04a7-50a0-a2ec-d823490c6f85.html

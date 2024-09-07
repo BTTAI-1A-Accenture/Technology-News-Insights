@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.medgadget.com', port=443): Max retries exceeded with url: /2023/05/wearable-ecg-devices-market-outlook-2022-2027-industry-share-revenue-key-players-cagr-demand-and-forecast-by-arizton.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da96d41f90>, 'Connection to www.medgadget.com timed out. (connect timeout=5)'))

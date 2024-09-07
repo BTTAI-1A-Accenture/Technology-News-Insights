@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations of Cyber Threats. They’re displayed in matrices that are arranged by attack stages, from initial system access to data theft or machine control. There are matrices for common desktop platforms—Linux, macOS and Windows, technologies like cloud, containers, network, ICS, and mobile platforms.  1- MITRE ATT&CK Framework.  2- CAR "Cyber Analytics Repository" is knowledge base of analytics developed by MITRE :    3- ENGAGE is a framework for planning and discussing adversary engagement operations   4- D3FEND is a knowledge graph of cybersecurity countermeasures.   5- AEP (ATT&CK Emulations Plans) for some APTs.  
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

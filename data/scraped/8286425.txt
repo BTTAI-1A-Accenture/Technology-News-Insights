@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.inferse.com', port=443): Max retries exceeded with url: /614936/mrbeast-is-writing-a-new-consumer-playbook-the-washington-post-the-washington-post/ (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)')))

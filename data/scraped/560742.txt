@@ -1,0 +1,43 @@
+
+Oil and gas industry is catching up on analytics, cloud and other digital capabilities to address aging infrastructure and energy transition, ISG Provider Lens™ report says
+ 
+Oil and gas companies in North America face an array of major changes driving trends that require more investment in digital technologies and skills, according to a new research report published today by Information Services Group (ISG) III, a leading global technology research and advisory firm.
+ 
+The 2022 ISG Provider Lens™ Oil and Gas Industry — Services and Solutions report for North America finds that volatile prices, an unpredictable economy, the war in Ukraine, decarbonization and other factors pose problems that are forcing oil and gas companies in the region to become more data-driven and technologically adept. This transition is proving especially hard in North America, where the industry has older infrastructure and an older workforce than in other regions.
+ 
+"Oil and gas lags behind many other industries in implementation of digital technologies," said Dale Hearn, ISG partner in Energy and Utilities. "To survive in the coming years, companies need to master the use of data, analytics and green energy sources — or find partners with that expertise."
+ 
+Companies need new technologies to operate more efficiently, deliver better customer experience, manage both old and new assets and defend their systems against rising cybersecurity threats, ISG says. For many North American oil and gas firms, this means adopting hybrid cloud environments for data collection, storage and AI-based analysis.
+ 
+The production, processing and transportation of oil and gas generate huge amounts of data from assets that in many cases are located in remote areas, such as offshore drilling platforms with more than 100,000 sensors producing gigabytes of data daily, the report says. The industry is investing in centralized asset monitoring systems to optimize asset usage, uptime and worker safety in the field. This requires careful integration of IT and operational technology (OT) processes. In North America, data collection and analysis are especially important for managing assets reaching the end of life, such as low-flow wells that need to be safely decommissioned.
+ 
+Oil and gas companies face less pressure to diversify into carbon-free energy businesses in North America than in Europe, due to less aggressive regulations, ISG says. However, the need for new business models is emerging and requires digital solutions for implementing solar, wind, geothermal and other energy sources, and in some cases new customer-facing infrastructure such as EV charging stations.
+ 
+The industry is taking on these new requirements without enough employees skilled in both traditional systems and digital technologies, the report says. Particularly in North America, it will be a challenge to attract and retain IT staff, making partnerships with service and solution providers increasingly important.
+ 
+"To carry out energy transitions, oil and gas companies need new skills and knowledge that are in high demand," said Jan Erik Aase, partner and global leader, ISG Provider Lens Research. "Service providers are helping them bridge the gap."
+ 
+The report also explores several other trends affecting North American oil and gas companies, including an ongoing wave of mergers and acquisitions and the impact of changing regulations in multiple markets.
+ 
+For more insights into challenges facing the North American oil and gas industry and advice on how best to merge IT and OT practices, see the ISG Provider Lens™ Focal Points briefing here.
+ 
+The 2022 ISG Provider Lens™ Oil and Gas Industry — Services and Solutions report for North America evaluates the capabilities of 35 providers across five quadrants: Enterprise Asset Management, Next-Gen IT/OT Services, Capital Projects Management, Data Management and Cloud Computing, and Energy Transition Services.
+ 
+The report names Accenture, Capgemini, Deloitte, IBM, Infosys, TCS and Wipro as Leaders in all five quadrants. It names Cognizant, HCLTech and LTIMindtree as Leaders in three quadrants. PwC is named as a Leader in two quadrants, and Birlasoft, EY, Hitachi Vantara and Tech Mahindra are named as Leaders in one quadrant each.
+ 
+In addition, LTTS is named as a Rising Star — a company with a "promising portfolio" and "high future potential" by ISG's definition — in two quadrants. Birlasoft and DNV are named as Rising Stars in one quadrant each.
+ 
+A customized version of the report is available from Birlasoft.
+ 
+The 2022 ISG Provider Lens™ Oil and Gas Industry — Services and Solutions report for North America is available to subscribers or for one-time purchase on this webpage.
+ 
+About ISG Provider Lens™ Research
+ 
+The ISG Provider Lens™ Quadrant research series is the only service provider evaluation of its kind to combine empirical, data-driven research and market analysis with the real-world experience and observations of ISG's global advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make recommendations to ISG's enterprise clients. The research currently covers providers offering their services globally, across Europe, as well as in the U.S., Canada, Brazil, the U.K., France, Benelux, Germany, Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For more information about ISG Provider Lens research, please visit this webpage.
+ 
+A companion research series, the ISG Provider Lens Archetype reports, offer a first-of-its-kind evaluation of providers from the perspective of specific buyer types.
+ 
+About ISG
+ 
+ISG (Information Services Group) III is a leading global technology research and advisory firm. A trusted business partner to more than 800 clients, including more than 75 of the world's top 100 enterprises, ISG is committed to helping corporations, public sector organizations, and service and technology providers achieve operational excellence and faster growth. The firm specializes in digital transformation services, including automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier services; strategy and operations design; change management; market intelligence and technology research and analysis. Founded in 2006, and based in Stamford, Conn., ISG employs more than 1,300 digital-ready professionals operating in more than 20 countries—a global team known for its innovative thinking, market influence, deep industry and technology expertise, and world-class research and analytical capabilities based on the industry's most comprehensive marketplace data. For more information, visit www.isg-one.com.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230306005570/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

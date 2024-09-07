@@ -1,0 +1,19 @@
+Home » Press Release 
+Verge.io, the company with a simpler way to virtualize data centers, today announced a distribution agreement with Advanced Computer Solutions Group (ACSG) that will extend the reach of its virtualization software to organizations looking to satisfy on-premise requirements while leveraging the agility and ease of a cloud-like experience.
+ 
+ACSG has been at the forefront of deploying leading technology and cybersecurity solutions to educational institutions, including both K-12 and higher education, as well as government municipalities, private industry organizations and small businesses, for more than 12 years. ACSG is well positioned to provide Vergo.io’s software solutions to both private and public entities.
+ 
+“Businesses and agencies continue to look to the cloud as an alternative to the resource-heavy requirements of managing their own server environments,” said Justin M. Jackson, CTO at ACSG. “To make that process easier, we look to deploy simple and powerful virtualization software like Verge.io to ensure our customers can run their own private clouds while meeting strict compliance standards with the included functionality of replicating to partner clouds for redundancy. We are happy to partner with Verge and add their software to our portfolio of offerings.”
+ 
+Verge-OS software abstracts compute, network and storage from commodity servers and creates pools of raw resources that are simple to run and manage, creating feature-rich infrastructures for environments and workloads like clustered HPC, ultra-converged and hyperconverged data centers, DevOps and Test/Dev, compliant medical and healthcare, remote and edge compute including VDI, and multi-tenant private clouds.
+ 
+“As a pure-play software company, we rely on the expertise of our partners to provide customers with a positive cloud experience from the purchase process to deployment and support,” said Yan Ness, CEO at Verge.io. “Working with ACSG allows Verge to meet on-premise requirements of businesses and government agencies without the red tape. They simplify the on-boarding process, we simplify IT, and the customer gets a private cloud experience for less. That’s a win-win all around.”
+ 
+Verge-OS is an ultra-thin software that is easy to install and scale on low-cost commodity hardware and self-manages based on AI/ML. A single license replaces separate hypervisor, networking, storage, data protection, and management tools to simplify operations and downsize complex technology stacks.
+ 
+Secure virtual data centers based on Verge-OS include all enterprise data services like global deduplication, disaster recovery, continuous data protection, snapshots, long-distance synch, and auto-failover. They are ideal for creating honeypots, sandboxes, cyber ranges, air-gapped computing, and secure compliance enclaves to meet regulations such as HIPAA, CUI, SOX, NIST, and PCI. Nested multi-tenancy gives service providers, departmental enterprises, and campuses the ability to assign resources and services to groups and sub-groups.
+ 
+About Verge.io
+ 
+Verge.io provides a simpler way to virtualize data centers and end IT infrastructure complexity. The company’s Verge OS software is the first and only fully integrated virtual cloud software stack to build, deploy and manage virtual data centers. Verge-OS delivers significant capital savings, increased operational efficiencies, reduced risk, and rapid scalability. For more information, visit www.verge.io or simply call 855-855-8300.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230117005368/en/

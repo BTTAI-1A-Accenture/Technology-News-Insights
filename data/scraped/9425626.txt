@@ -1,0 +1,22 @@
+
+Onapsis, the market leader in business application cybersecurity and compliance, announced today that its security platform is now an SAP endorsed app, available for online purchase on SAP® Store. SAP Endorsed Apps are a category of solutions from SAP's partner ecosystem that help customers become best-run, intelligent enterprises. Endorsed apps are meant to deliver value with desired outcomes.
+ 
+"We are honored to have our platform recognized as an SAP endorsed app, helping even more businesses accelerate their cloud and digital transformations initiatives securely," said Mariano Nunez, CEO and Co-Founder of Onapsis. "Given the increased threat of cyberattacks, protecting business applications has never been more important. Our new endorsed app is the logical next step in helping global businesses that use SAP solutions shield their digital cores with a supplementary, independent solution."
+ 
+SAP Endorsed Apps are premium certified by SAP with added security, in-depth testing and measurements against benchmarks results. By leveraging security and compliance capabilities powered by Onapsis Research Labs, Onapsis delivers additional value to customers through:
+ 
+"Ecosystem innovations are essential to SAP's vision and delivery of the intelligent enterprise for SAP customers," said Darryl Gray, Global Vice President, Software Partner Solution Monetization & Success at SAP. "We applaud Onapsis on achieving SAP endorsed app status for its platform. Partners like Onapsis are positioned to help us deliver a cloud-first strategy with integrated innovations, proven to provide value while solving key business challenges."
+ 
+The Onapsis Cybersecurity & Compliance Platform (EA Edition) is available for digital discovery and purchase at SAP Store, the digital marketplace for solutions from SAP and its partners. SAP Store provides customers with real-time access to more than 2,300 innovative solutions from SAP as well as partner solutions that complement and extend their SAP applications, enabling digital transformation of their business.
+ 
+For more information on this strategic partnership, please visit: onapsis.com/sap.
+ 
+About Onapsis
+ 
+Onapsis protects the business applications that run the global economy. The Onapsis Platform delivers vulnerability management, change assurance, and continuous compliance for business applications from leading vendors such as SAP, Oracle, and others. The Onapsis Platform is powered by the Onapsis Research Labs, the team responsible for the discovery and mitigation of more than 1,000 zero-day vulnerabilities in business applications.
+ 
+Onapsis is headquartered in Boston, MA, with offices in Heidelberg, Germany and Buenos Aires, Argentina, and proudly serves hundreds of the world's leading brands, including close to 30% of the Forbes Global 100, six of the top 10 automotive companies, five of the top 10 chemical companies, four of the top 10 technology companies, and three of the top 10 oil and gas companies.
+ 
+For more information, connect with Onapsis on Twitter or LinkedIn, or visit https://www.onapsis.com.
+ 
+SAP and other SAP products and services mentioned herein as well as their respective logos are trademarks or registered trademarks of SAP SE in Germany and other countries. Please see https://www.sap.com/copyright for additional trademark information and notices.

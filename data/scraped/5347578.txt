@@ -1,0 +1,25 @@
+
+                    ismagilov/Getty Images
+                    Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Alexandra Kelley
+ The new Trustworthy & Responsible Artificial Intelligence Resource Center built by the National Institute of Standards and Technology will now serve as a repository for much of the current federal guidance on AI, featuring easy access to previously issued materials to help public and private entities alike create responsible AI systems. Formally launched on Thursday, the new AI Resource Center builds upon NIST’s AI Resource Management Framework and AI Playbook to support industry best practices in researching and developing socially responsible AI and machine learning systems absent overarching federal law.    “The AIRC supports all AI actors in the development and deployment of trustworthy and responsible AI technologies,” the homepage reads.  Illustrated on the Resource Center homepage is a visualization of the AI Roadmap, containing several key pillars of the RMF, including U.S. alignment with international tech standards, expanding the Department of Defense’s Test and Evaluation, Verification and Validation efforts, using data to measure the RMF’s efficacy, enhancing RMF guidance and interpretability, expanded use cases, and more context on the human-AI component in risk management. “The Roadmap identifies key activities for advancing the AI RMF that could be carried out by NIST in collaboration with private and public sector organizations—or by those organizations independently,” the homepage says. “Work described in the Roadmap is intended to help fill gaps in knowledge, practice or guidance and be useful to broader audience [sic] in pursuit of trustworthy and responsible AI.” The homepage added that the Roadmap’s activities and plans stand to change as AI technologies evolve. NIST noted on the website that it expects “in the coming months” to add enhancements to the Resource Center to include new document links, access to an international standards hub, metrics resources for AI systems testing and software tools.  In addition to quick access to the RMF and Playbook, NIST’s AI resource website offers a formal glossary of definitions to further establish a fundamental vernacular integral to the AI industry. A section spotlighting new events, such as training workshops and visiting fellows research, related to NIST’s AI agenda, is also featured on the site.
+
+ 
+NEXT STORY:
+
+              Lawmakers, DOD Officials Note Benefits of AI to Department’s Information Networks
+            
+
+
+
+ Help us tailor content specifically for you:

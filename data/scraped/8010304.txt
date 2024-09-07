@@ -1,0 +1,163 @@
+ Armed with some data from our friends at CrunchBase, I broke down the largest US startup funding rounds from Q1 2023. I have included some additional information such as industry, company description, round type, founders, and total equity funding raised to further the analysis. The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series B
+Description: Emeryville-based Metagenomi uses metagenomics and machine learning to discover novel genome editing systems for therapeutics development. Founded by Brian Thomas and Jillian Banfield in 2018, Metagenomi has now raised a total of $456.4M in total equity funding and is backed by Moderna Therapeutics, Bayer, Ionis Pharmaceuticals, Bristol Myers Squibb, and RA Capital Management.
+Investors in the round: Catalio Capital Management, Leaps by Bayer, Moderna, Novo Holdings, SymBiosis LLC
+Industry: Artificial Intelligence, Biotechnology, Machine Learning, Therapeutics
+Founders: Brian Thomas, Jillian Banfield
+Founding year: 2018
+Total equity funding raised: $456.4M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series D
+Description: San Francisco-based Carbon Health is a tech-enabled healthcare company that delivers a virtual care experience. Founded by Caesar Djavaherian, Eren Bali, Greg Burrell, Pablo Stanley, and Tom Berry in 2015, Carbon Health has now raised a total of $622.5M in total equity funding and is backed by 500 Global, Fifth Wall, BlackRock, Two Sigma Ventures, and Flatiron Health.
+Investors in the round: CVS Health Ventures
+Industry: Electronic Health Record (EHR), Health Care, Medical, mHealth, Mobile Apps
+Founders: Caesar Djavaherian, Eren Bali, Greg Burrell, Pablo Stanley, Tom Berry
+Founding year: 2015
+Total equity funding raised: $622.5M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Venture
+Description: San Bruno-based Mill offers a kitchen bin that dries, shrinks, and de-stinks leftover food, eliminating food waste. Founded by Harry Tannenbaum and Matthew Rogers in 2020, Mill has now raised a total of $100.0M in total equity funding and is backed by GV, Lowercarbon Capital, Energy Impact Partners, Breakthrough Energy Ventures, and Prelude Ventures.
+Investors in the round: Breakthrough Energy Ventures, Buckhill Capital LP, Energy Impact Partners, Google Ventures, Lowercarbon Capital, Prelude Ventures
+Industry: CleanTech, Recycling, Sustainability, Waste Management
+Founders: 
+Founding year: 2020
+Total equity funding raised: $100.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series D
+Description: New York-based LeafLink is a wholesale management platform that connects cannabis brands and retailers. Founded by Ryan Smith and Zach Silverman in 2016, LeafLink has now raised a total of $229.0M in total equity funding and is backed by RIV Capital, Lerer Hippeau, Thrive Capital, CPMG, and Founders Fund.
+Investors in the round: CPMG, L2 Ventures, Nosara Capital
+Industry: B2B, Cannabis, Marketplace, SaaS, Wholesale
+Founders: Ryan Smith, Zach Silverman
+Founding year: 2016
+Total equity funding raised: $229.0M 
+The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series C
+Description: Hoboken-based Vytalize Health provides ACO solutions to help doctors accelerate the transition to value-based care. Founded by Amer Alnajar, Faris Ghawi, Hasan Bayat, and Omar Elrabie in 2014, Vytalize Health has now raised a total of $169.5M in total equity funding and is backed by Monroe Capital, Dreamit Ventures, Enhanced Healthcare Partners, KittyHawk Ventures, and North Coast Ventures.
+Investors in the round: Enhanced Healthcare Partners, Monroe Capital, North Coast Ventures
+Industry: Health Care, mHealth, Productivity Tools, Wellness
+Founders: Amer Alnajar, Faris Ghawi, Hasan Bayat, Omar Elrabie
+Founding year: 2014
+Total equity funding raised: $169.5M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series C
+Description: San Francisco-based Humane is a platform that creates and sells consumer hardware, software, and services. Founded by Bethany Bongiorno and Imran Chaudhri in 2017, Humane has now raised a total of $230.0M in total equity funding and is backed by Microsoft, Tiger Global Management, Lachy Groom, Qualcomm Ventures, and Top Tier Capital Partners.
+Investors in the round: Forerunner Ventures, HICO, Hudson Bay Capital Management, Kindred Ventures, Lachy Groom, LG Technology Ventures, Microsoft, Qualcomm Ventures, Sam Altman, Socium Ventures, Tiger Global Management, Top Tier Capital Partners, Valia Ventures, Volvo Cars Tech Fund
+Industry: Consumer Electronics, Electronics, Hardware, Software
+Founders: Bethany Bongiorno, Imran Chaudhri
+Founding year: 2017
+Total equity funding raised: $230.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series C
+Description: Salt Lake City-based R-Zero is a biosafety technology company dedicated to making shared indoor environments safer, healthier, and more productive. Founded by Benjamin Boyer, Eli Harris, and Grant Morgan in 2020, R-Zero has now raised a total of $170.0M in total equity funding and is backed by Mayo Clinic, SOSV, HAX, Caisse de Depot et Placement du Quebec, and Qualcomm Ventures.
+Investors in the round: Bedrock Capital, BMO Capital Markets, Caisse de Depot et Placement du Quebec, DBL Partners, John Doerr, Mayo Clinic, Qualcomm Ventures, SOSV, Upfront Ventures, World Innovation Lab (WiL)
+Industry: Hardware, Internet of Things, Smart Building, Software, Sustainability
+Founders: Benjamin Boyer, Eli Harris, Grant Morgan
+Founding year: 2020
+Total equity funding raised: $170.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Venture
+Description: New York-based Via is a transport company that offers public mobility solutions for transit agencies, school districts, cities, and corporations. Founded by Daniel Ramot and Oren Shoval in 2012, Via has now raised a total of $887.1M in total equity funding and is backed by BlackRock, Mercedes-Benz Group AG, Kapor Capital, Macquarie Capital, and 83North.
+Investors in the round: 83North, Common Fund, EXOR N.V., ION Crossover Partners, Janus Henderson Investors, Pitango VC, Planven Entrepreneur Ventures, RiverPark Ventures
+Industry: Logistics, Mobile Apps, Real Time, Ride Sharing, Transportation
+Founders: Daniel Ramot, Oren Shoval
+Founding year: 2012
+Total equity funding raised: $887.1M 
+The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series C
+Description: New York-based Chronosphere develops a scalable, reliable, and customizable monitoring solution built for cloud-native applications. Founded by Martin Mao and Rob Skillington in 2019, Chronosphere has now raised a total of $342.5M in total equity funding and is backed by GV, Founders Fund, Lux Capital, General Atlantic, and Spark Capital.
+Investors in the round: Addition, Founders Fund, General Atlantic, Geodesic Capital, Glynn Capital Management, Google Ventures, Greylock, Lux Capital
+Industry: Analytics, Cloud Infrastructure, Information Technology, Productivity Tools, SaaS
+Founders: Martin Mao, Rob Skillington
+Founding year: 2019
+Total equity funding raised: $342.5M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series C
+Description: Woburn-based Boston Metal is a metallurgy company developing technology to reduce the carbon footprint of steel production. Founded by Antoine Allanore, Donald Sadoway, and Jim Yurko in 2012, Boston Metal has now raised a total of $190.0M in total equity funding and is backed by SiteGround Capital, ArcelorMittal, National Science Foundation, Vale, and Energy Impact Partners.
+Investors in the round: ArcelorMittal, Microsoft Climate Innovation Fund, SiteGround Capital
+Industry: Building Material, CleanTech, Manufacturing, Mechanical Engineering
+Founders: Antoine Allanore, Donald Sadoway, Jim Yurko
+Founding year: 2012
+Total equity funding raised: $190.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Venture
+Description: San Diego-based SOCi is a marketing platform for multi-location brands. Founded by Afif Khoury, Alo Sarv, and Tony Rindsberg in 2012, SOCi has now raised a total of $235.5M in total equity funding and is backed by Stanford University, JMI Equity, Vertical Venture Partners, Ankona Capital Partners, and GrowthX.
+Investors in the round: Blossom Street Ventures, JMI Equity, Renew Group, Vertical Venture Partners
+Industry: Advertising, Food and Beverage, Marketing, Professional Services, Real Estate, Retail, Software
+Founders: Afif Khoury, Alo Sarv, Tony Rindsberg
+Founding year: 2012
+Total equity funding raised: $235.5M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Venture
+Description: San Francisco-based Juniper Square operates an investment management platform for commercial real estate, private equity, and venture capital companies. Founded by Adam Ginsburg, Alex Robinson, and Yonas Fisseha in 2014, Juniper Square has now raised a total of $241.0M in total equity funding and is backed by Precursor Ventures, Fifth Wall, Owl Rock Capital, Ribbit Capital, and Felicis.
+Investors in the round: Felicis, Fifth Wall, Owl Rock Capital, Pappy Capital, Redpoint, Ribbit Capital
+Industry: Asset Management, Financial Services, FinTech, Venture Capital
+Founders: Adam Ginsburg, Alex Robinson, Yonas Fisseha
+Founding year: 2014
+Total equity funding raised: $241.0M 
+The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series B
+Description: Brooklyn-based Amogy offers an innovative clean energy system using ammonia as a renewable fuel. Founded by Hyunho Kim, Jongwon Choi, Seonghoon Woo, and Young Suk Jo in 2020, Amogy has now raised a total of $208.3M in total equity funding and is backed by Yanmar Ventures, Amazon, DCVC, Temasek Holdings, and Newlab.
+Investors in the round: AP Ventures, Aramco Ventures, DCVC, Korea Zinc, MOL PLUS, SK Innovation, Temasek Holdings, Yanmar Ventures, Zeon Ventures
+Industry: Clean Energy, CleanTech, Energy, Renewable Energy, Sustainability
+Founders: Hyunho Kim, Jongwon Choi, Seonghoon Woo, Young Suk Jo
+Founding year: 2020
+Total equity funding raised: $208.3M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series A
+Description: Menlo Park-based Character.ai provides open-ended conversational applications that let users create characters and converse with them. Founded by Noam ShazeerView Noam Shazeer’s profile in 2021, Character.ai has now raised a total of $150.0M in total equity funding and is backed by Andreessen Horowitz, Elad Gil, SVA, A.Capital Ventures, and Paul Buchheit.
+Investors in the round: A.Capital Ventures, Andreessen Horowitz, Elad Gil, Nat Friedman, SVA
+Industry: Artificial Intelligence, Information Technology, Software
+Founders: Daniel De Freitas, Noam Shazeer
+Founding year: 2021
+Total equity funding raised: $150.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series B
+Description: Boston-based Asimov employs artificial intelligence to develop tools for the design and manufacture of next-generation therapeutics. Founded by Alec Nielsen, Christopher Voigt, Douglas Densmore, and Raja Srinivas in 2017, Asimov has now raised a total of $205.0M in total equity funding and is backed by Andreessen Horowitz, Fidelity Management and Research Company, Horizons Ventures, AME Cloud Ventures, and Pillar VC.
+Investors in the round: Andreessen Horowitz, Canada Pension Plan Investment Board, Casdin Capital, Fidelity Management and Research Company, Horizons Ventures, KdT Ventures, Pillar VC
+Industry: Artificial Intelligence, Biotechnology, Software, Therapeutics
+Founders: Alec Nielsen, Christopher Voigt, Douglas Densmore, Raja Srinivas
+Founding year: 2017
+Total equity funding raised: $205.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series C
+Description: Tampa-based Deepwatch secures the digital economy by protecting enterprise networks via its cloud security platform. Founded by Justin Morehouse in 2019, Deepwatch has now raised a total of $256.0M in total equity funding and is backed by Springcoast Capital Partners, Goldman Sachs, Vista Credit Partners, ABS Capital Partners, and Splunk Ventures.
+Investors in the round: Splunk Ventures, Springcoast Capital Partners, Vista Credit Partners
+Industry: Cloud Security, Cyber Security, Information Technology
+Founders: Justin Morehouse
+Founding year: 2019
+Total equity funding raised: $256.0M 
+The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Venture
+Description: Mclean-based ShiftMed is a nursing jobs app that delivers an on-demand workforce marketplace for credentialed nursing professionals. Founded by Todd Walrath in 2019, ShiftMed has now raised a total of $245.0M in total equity funding and is backed by Blue Heron Capital, Panoramic Ventures, Motley Fool Ventures, Audacious Capital, and Q Holdings Inc.
+Investors in the round: Audacious Capital, Blue Heron Capital, Panoramic Ventures, Q Holdings Inc
+Industry: Apps, Health Care, Hospital, Marketplace, Nursing and Residential Care
+Founders: Todd Walrath
+Founding year: 2019
+Total equity funding raised: $245.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series A
+Description: New York-based Paradigm is rebuilding the clinical research ecosystem. Founded by Milind Kamkolkar in 2022, Paradigm has now raised a total of $203.0M in total equity funding and is backed by General Catalyst, GV, ARCH Venture Partners, Mubadala Capital Ventures, and F-Prime Capital.
+Investors in the round: ARCH Venture Partners, BrightEdge Fund, F-Prime Capital, General Catalyst, Google Ventures, Lux Capital, Magnetic Ventures, Mubadala Capital Ventures
+Industry: Health Care, Health Diagnostics, Hospital, Life Science
+Founders: 
+Founding year: 1993
+Total equity funding raised: $203.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series E
+Description: Redwood City-based Skydio uses artificial intelligence to create flying drones that are used by consumer, enterprise, and government customers. Founded by Abraham Bachrach, Adam Bry, and Matt Donahoe in 2014, Skydio has now raised a total of $570.0M in total equity funding and is backed by NVIDIA, Hercules Capital, Andreessen Horowitz, Axon, and Accel.
+Investors in the round: Andreessen Horowitz, Axon, DoCoMo Capital, Hercules Capital, IVP, Linse Capital, Next47, NVIDIA, UP Partners, Walton Family Foundation
+Industry: Artificial Intelligence, Drone Management, Drones, Machine Learning, Robotics
+Founders: Abraham Bachrach, Adam Bry, Matt Donahoe
+Founding year: 2014
+Total equity funding raised: $570.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series B
+Description: Novi-based Our Next Energy is a developer of energy storage technology to expand access to sustainable power. Founded by Mujeeb Ijaz in 2020, Our Next Energy has now raised a total of $390.0M in total equity funding and is backed by Flex, Temasek Holdings, Fifth Wall, Coatue, and Volta Energy Technologies.
+Investors in the round: AI Capital, Coatue, Fifth Wall, Franklin Templeton, Riverstone Holdings, Sente Ventures, Temasek Holdings, TR.PE
+Industry: Battery, Electronics, Energy, Energy Storage, Renewable Energy
+Founders: Mujeeb Ijaz
+Founding year: 2020
+Total equity funding raised: $390.0M 
+The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Venture
+Description: San Francisco-based Anthropic is an AI-driven research company that focuses on increasing the safety of large-scale AI systems. Founded by Daniela Amodei, Dario Amodei, Jack Clark, Sam McCandlish, and Tom Brown in 2021, Anthropic has now raised a total of $1.3B in total equity funding and is backed by Google, Spark Capital, Sam Bankman-Fried, Caroline Ellison, and Eric Schmidt.
+Investors in the round: Spark Capital
+Industry: Artificial Intelligence, Information Technology, Machine Learning
+Founders: Daniela Amodei, Dario Amodei, Jack Clark, Sam McCandlish, Tom Brown
+Founding year: 2021
+Total equity funding raised: $1.3B The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series C
+Description: Brentwood-based Monogram Health is a specialty provider of evidence-based in-home care and benefit management services for polychronic patients. Founded by Christopher A. Booker and Mike Uchrin in 2019, Monogram Health has now raised a total of $547.0M in total equity funding and is backed by Humana, TPG, Norwest Venture Partners, CVS Health, and Cigna Ventures.
+Investors in the round: Cigna Ventures, CVS Health, Frist Cressey Ventures, Heritage Group, Humana, Memorial Hermann Hospital, Norwest Venture Partners, Pura Vida Investments, Scan, TPG
+Industry: Health Care, Hospital, Wellness
+Founders: Christopher A. Booker, Mike Uchrin
+Founding year: 2019
+Total equity funding raised: $547.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Venture
+Description: Palo Alto-based SandboxAQ is an enterprise SaaS company that provides AI and quantum computing solutions. Founded by Jack D. Hidary in 2016, SandboxAQ has now raised a total of $500.0M in total equity funding and is backed by Breyer Capital, Section 32, T. Rowe Price, Avant Global, and Time Ventures.
+Investors in the round: Breyer Capital, Eric Schmidt, T. Rowe Price, Time Ventures
+Industry: Artificial Intelligence, Cyber Security, Information Technology, Quantum Computing, SaaS
+Founders: Jack D. Hidary
+Founding year: 2016
+Total equity funding raised: $500.0M The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. REGISTER NOW FOR FREE WITH CODE AW100  Round: Series E
+Description: San Francisco-based Rippling is a human resource management company that offers an all-in-one platform to help manage HR and IT operations. Founded by Parker Conrad and Prasanna Sankar in 2016, Rippling has now raised a total of $1.2B in total equity funding and is backed by Sequoia Capital, Y Combinator, Kleiner Perkins, Social Capital, and UpHonest Capital.
+Investors in the round: Greenoaks
+Industry: Employment, Human Resources, Information Technology, IT Management, Productivity Tools
+Founders: Parker Conrad, Prasanna Sankar
+Founding year: 2016
+Total equity funding raised: $1.2B The days of DIY APIs are done and gone – get on the GraphQL edge. Join Hasura at The Clancy in San Francisco on Thursday, May 4 to learn about the remarkable development and data access advantages of GraphQL. Our curated lineup of speakers and partners from AWS, Snowflake, and Yugabyte will share how data plus APIs power the modern enterprise. Use code AW100 to claim your complimentary ticket ($99 value) today. ABOUT US
+ADVERTISE
+EDITORIAL GUIDELINES
+LEGAL
+PRIVACY
+TERMS OF USE CONTACT US
+ADVERTISE
+TIPS
+WRITE FOR US NYC VC
+NYC TECH EVENTS
+NYC TECH NEWS
+NYC STARTUPS
+NYC COWORKING
+TECH DIRECTORY  © 2023 AlleyWatch | All Rights Reserved | Proudly Made for NYC  © 2023 AlleyWatch | All Rights Reserved | Proudly Made for NYC Join the millions and keep up with the stories shaping entrepreneurship. Sign up today. 

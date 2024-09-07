@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.china.org.cn', port=443): Max retries exceeded with url: /world/Off_the_Wire/2023-07/13/content_92110780.htm (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.china.org.cn'. (_ssl.c:1007)")))

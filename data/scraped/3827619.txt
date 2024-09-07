@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://journalnow.com/entertainment/dining/association-announces-hospitality-training-program/article_9eaa9dae-b3c2-11ed-a167-9fcd0e153d98.html

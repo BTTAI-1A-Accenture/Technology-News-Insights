@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://journalstar.com/exclusive/daily-minute/daily-minute-the-latest-lincoln-area-news-for-june-5/article_1e79bff6-0260-11ee-af7e-ff5ae3024ffe.html

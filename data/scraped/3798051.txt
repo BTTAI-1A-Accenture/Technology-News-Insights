@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-gazette.com/news/local/politics/lawmakers-approve-measure-giving-utilities-control-over-new-downstate-transmission-lines/article_ec57f055-361e-5d6c-9569-38b16b181c5a.html

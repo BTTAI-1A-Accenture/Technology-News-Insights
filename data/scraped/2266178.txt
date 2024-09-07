@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='acpcongo.com', port=443): Max retries exceeded with url: /index.php/2023/04/08/easter-2023-the-gospel-singer-henri-papa-mulaja-delivers-a-concert-on-sunday-in-kinshasa/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))

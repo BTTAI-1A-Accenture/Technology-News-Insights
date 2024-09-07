@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.sis.gov.eg', port=443): Max retries exceeded with url: /Story/183397/Planning-minister-says-mobile-tech.-hubs-provide-low-cost%2C-high-quality-services?lang=en-us (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))

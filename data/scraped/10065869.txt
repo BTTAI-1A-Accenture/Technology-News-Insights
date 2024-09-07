@@ -1,0 +1,31 @@
+
+
+EQS-News: Mynaric AG
+
+
+ / Key word(s): Incoming Orders
+
+
+
+
+
+Mynaric signs order from WARPSPACE for CONDOR terminals and marks first sale in Japanese space industry  
+
+
+
+
+
+
+24.01.2023 / 14:00 CET/CEST
+
+
+
+The issuer is solely responsible for the content of this announcement. CONDOR Mk3 terminals to be used to establish an optical data relay network for LEO satellites  MUNICH & TOKYO, January 24, 2023   Mynaric (NASDAQ: MYNA) (FRA: M0YN), a leading provider of industrialized, cost-effective and scalable laser communications products, today announced an order for a small number of CONDOR Mk3 terminals by Japan-based WARPSPACE. The terminals will be used by WARPSPACE to establish a commercial optical data relay network for Earth observation satellites with product deliveries scheduled for 2023, 2024 and 2025. WARPSPACE is building a highly capable optical data relay network in space to solve todays communication bottleneck experienced by Earth observation satellites that need to transmit huge amounts of data to the ground in near real-time, said Hiromitsu Azuma, COO of WARPSPACE. We are happy to have found with Mynarics CONDOR product a suitable solution for our laser communications needs, as well as the needs of our customers. We look forward to receiving the units for subsequent satellite integration and launch. The order marks Mynarics first sale in the Japanese space industry, which is expected to grow from $9 billion today to over $30 billion by 2050, according to a market report by the New Zealand Ministry of Foreign Affairs and Trade.
+  We are grateful for WARPSPACE to entrust us with the laser communication capabilities needed for their optical data relay satellite network, said Tina Ghataore, CCO of Mynaric. With our first customer in Japan signed, we continue to earn the trust of our global customers and expand our commercial market share by delivering on our mission to make industrialized optical communications terminals widely available for a large range of applications. Mynarics CONDOR family of optical communications terminals is specifically designed for mass deployment as part of government and commercial satellite constellations. It has previously been selected by Northrop Grumman for the Space Development Agencys (SDA) Tranche 1 Tracking Layer and the Tranche 1 Transport Layer programs, by Capella Space for commercial synthetic aperture radar (SAR) satellites, by Telesat for the DARPA Blackjack program and others. In addition, Mynaric was named a key development partner for Phase 1 of DARPAs Space-BACN program and was selected by the European Space Agency (ESA) to investigate optical technologies for next generation high-throughput optical inter-satellite links.   About Mynaric Mynaric (NASDAQ: MYNA) (FRA: M0YN) is leading the industrial revolution of laser communications by producing optical communications terminals for air, space and mobile applications. Laser communication networks provide connectivity from the sky, allowing for ultra-high data rates and secure, long-distance data transmission between moving objects for wireless terrestrial, mobility, airborne- and space-based applications. The company is headquartered in Munich, Germany, with additional locations in Los Angeles, California, and Washington, D.C.
+  For more information, visit mynaric.com.    About WARPSPACE WARPSPACE is a space tech startup in Tsukuba, the hometown of Japanese aerospace development, developing an optical inter-satellite data relay service in medium Earth orbit called WarpHub InterSat. The main customers are Earth observation satellite operators that need to quickly move large volumes of data from space to the ground at the very time when they need it. Bringing in both heritages from JAXA and OICETS projects and supply chain innovations in NewSpace, WARPSPACE aims to become the world's first private company to provide an optical communication network in space. 
+Website: warpspace.jp
+  
+24.01.2023 CET/CEST Dissemination of a Corporate News, transmitted by EQS News - a service of EQS Group AG.The issuer is solely responsible for the content of this announcement.The EQS Distribution Services include Regulatory Announcements, Financial/Corporate News and Press Releases.Archive at www.eqs-news.com 
+
+1542447  24.01.2023 CET/CEST
+ Indices Commodities Currencies Stocks

@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » Preparing for the Soon to be Updated OWASP API Security Top 10 The Open Web Application Security Project (OWASP) is a global non-profit organization dedicated to improving the security of software. The OWASP foundation first released a list of the top 10 security risks faced by APIs in 2019. This year, we’ll see the updated list for 2023 being published, which is currently in Release Candidate status soliciting contributions (https://owasp.org/www-project-api-security/announcements/2023/02/api-top10-2023rc.html). Although 4 years is an extremely long time when it comes to computing, the fact remains that most organizations are still in the process of putting better API security controls in place to protect against the 2019 Top 10. Additionally, remember that the list contains ten categories of vulnerabilities, each category housing multiple vulnerabilities. Comparing the lists, it is of little wonder that the 2023 RC one remains fairly close to the 2019 one. While #1 remains the same, the rest of the list has new language, new categories, and a shuffling of those that are still from the 2019 version. API1:2019 Broken Object Level Authorization API1:2023RC Broken Object Level Authorization API2:2019 Broken User Authentication API2:2023RC Broken Authentication API3:2019 Excessive Data Exposure API3:2023RC Broken Object Property Level Authorization API4:2019 Lack of Resources & Rate Limiting API4:2023RC Unrestricted Resource Consumption API5:2019 Broken Function Level Authorization API5:2023RC Broken Function Level Authorization API6:2019 Mass Assignment API6:2023RC Server Side Request Forgery API7:2019 Security Misconfiguration API7:2023RC Security Misconfiguration API8:2019 Injection API8:2023RC Lack of Protection from Automated Threats API9:2019 Improper Assets Management API9:2023RC Improper Assets Management API10:2019 Insufficient Logging & Monitoring API10:2023RC Unsafe Consumption of APIs As with the 2019 version, the 2023 release candidate still holds firm that business logic based attacks misusing authorization implementations (BOLA) remain the biggest risk category for APIs today and into the foreseeable future.  An API potentially serves many users and provides access to multiple pieces of data, frequently sensitive data. These different users and user types naturally have different data access policies, depending on the business need. From an API design and development perspective, it remains challenging to build an API that correctly enforces these granular authorization policies. We witness this daily as customers test their code using our Active Testing solution. The new list also consolidates two existing categories under API3:2023RC BOPLA (Broken Object Property Level Authorization). In the 2019 list, they were separated out in:  The BOPLA vulnerability is apparent when allowing a user to access an object using an API endpoint, without validating that the user has access to the specific object properties they are trying to access. New on the 2023 list and somewhat borrowed from the existing OWASP Top 10 2021 is API6:2023RC Server-Side Request Forgery (https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/)  Server-Side Request Forgery (SSRF) flaws occur whenever an API fetches a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall or a VPN. Using modern concepts like Webhooks, file fetching from URLs, custom SSO, and URL previews, encourages developers to access an external resource based on user input, heightening the potential risk. Additionally, concepts like microservices based architectures expose control/management plane elements over HTTP using well known paths, making them an easier target. API4:2023RC Unrestricted Resource Consumption borrows heavily from API4:2019 Lack of Resources & Rate Limiting, with a focus on protecting the available compute and storage resources to successfully serve legitimate API requests. By managing API limits around timeouts, processes, available memory, number of operations, etc., we can prevent an unfair distribution of resources.     API8:2023RC Lack of Protection from Automated Threats, these types of attacks have increased as commercial businesses move more and more to API based systems for eCommerce purposes. Traditional API Gateway and WAF based solutions like rate limiting fall short, as bot-net operators use more distributed approaches to launch their attacks. For these types of attacks, it remains paramount that we identify the malicious traffic and implement automated blocking actions to safeguard the API and allow normal business traffic to continue to flow.  So whilst we await the finalized 2023 top 10 list, we can remain confident that by leveraging the Noname API Security Platform, including our Runtime Security capabilities, and leveraging user-behavior informed Machine Learning, we continue to detect and respond to not only the OWASP API Top 10 vulnerabilities, but also to unknown and previously undetected attacks that go far beyond any Top 10 list. Click here to download our eBook, Mitigating OWASP Top 10 API Security Threats to learn more about the 2019 list and get updated when the new version is released.  *** This is a Security Bloggers Network syndicated blog from Noname API Security Blog authored by Filip Verloy. Read the original post at: https://nonamesecurity.com/blog/preparing-for-the-soon-to-be-updated-owasp-api-security-top-10    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

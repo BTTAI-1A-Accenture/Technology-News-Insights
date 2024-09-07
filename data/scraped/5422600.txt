@@ -1,0 +1,113 @@
+Der Begriff Gesellschaft mit beschränkter Haftung (GmbH) umschreibt eine Rechtsform für Unternehmen, die als juristische Person des Privatrechts einzuordnen ist und zu den Kapitalgesellschaften zählt. Ihr wesentliches Merkmal ist, dass die Haftung der Eigentümer und der geschäftsführenden Gesellschafter auf das Einlagekapital beschränkt ist. Das private Vermögen der Anteilseigner ist somit anders als bei Personengesellschaften im Insolvenzfall vor dem Zugriff der Gläubiger geschützt. Die GmbH ist eine deutsche Erfindung, die erstmals mit einem GmbH-Gesetz aus dem Jahr 1892 zugelassen wurde. Sie wurde danach zum Vorbild vergleichbarer Rechtsformen in anderen Ländern der Welt. Die GmbH wird als Rechtsform vor allem von kleineren und mittleren (Familien-) Unternehmen genutzt. Im Jahr 2008 hat der Gesetzgeber mit dem Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen (MoMiG) eine weitere Variante zugelassen: die Unternehmergesellschaft (UG). Sie soll Kleinstunternehmen die Möglichkeit geben, ebenfalls die Rechtsform mit einer beschränkten Haftung nutzen zu können. Zu Gründung einer GmbH oder einer UG müssen verschiedene Voraussetzungen erfüllt werden. Grundsätzlich ist eine Einlage von 25.000 Euro erforderlich, bei der UG ist zunächst nur ein Euro Stammkapital notwendig. Des Weiteren muss sich die Gesellschaft eine Satzung geben und ins Handelsregister eingetragen werden. Als juristische Person unterliegt die GmbH der Körperschaftsteuer und der Gewerbesteuer. Ausgeschüttete Gewinne unterliegen zusätzlich der Kapitalertragsteuer. 
+                Der Arbeitsvertrag eines Geschäftsführers geht bei einem Betriebsübergang auf den Erwerber des Betriebs über – selbst wenn der Geschäftsführer sein Amt niederlegt oder abberufen wird. mehr
+ 
+                Der europarechtliche Arbeitnehmerbegriff reicht weiter als der bundesdeutsche Arbeitnehmerbegriff nach den einschlägigen nationalen Arbeitsrechts-Regelungen, ist aber immer dort zugrunde zu legen, wo nationales Recht europäische Vorgaben umsetzen muss. Dies führt nach einem Urteil des Bundesarbeitsgerichts dazu, dass eine GmbH-Fremdgeschäftsführerin Arbeitnehmerin im Sinne des Bundesurlaubsgesetzes sein kann, sodass dessen Bestimmungen für sie Anwendung finden.mehr
+   Weitere Produkte zum Thema:
+
+           
+ 
+                    Wer in Deutschland eine Gesellschaft gründen will, hat dafür verschiedene Gesellschaftsformen zur Auswahl. Im Grundsatz wird dabei zwischen Personen- und Kapitalgesellschaften unterschieden. Dieser Beitrag befasst sich mit den Kapitalgesellschaften und ihren wichtigsten Charakteristika und Arten.mehr
+ 
+                Auch wenn der Erbe eines Gesellschafters mit dem Erbfall in dessen Rechtsposition eintritt, kann er aufgrund von § 16 Abs. 1 Satz 1 GmbHG bis zu seiner Eintragung in das Handelsregister keine wirksamen Beschlüsse fassen. Im Todesfall eines Alleingesellschafters und -geschäftsführers kann dies zur Handlungsunfähigkeit der GmbH führen, sofern keine Vorsorge getroffen wurde.mehr
+ 
+                Bei einer missbräuchlichen Ausnutzung der beschränkten Haftung einer GmbH kann den Gesellschaftern eine persönliche Haftung drohen.mehr
+ 
+                    Das Gesetz zur Fortentwicklung des Sanierungs- und Insolvenzrechts bietet Unternehmen Möglichkeiten zur präventiven Restrukturierung außerhalb des Insolvenzverfahrens. Allerdings sind die Geschäftsleiter in der Pflicht, frühzeitig und aktiv zu handeln. Das StaRUG verschärft die Haftung von Geschäftsleitern und bringt strafrechtliche Risiken mit sich. Ein detaillierter Überblick über die neuen Compliance-Regeln, Haftungs- und Risikofaktoren wird in diesem Beitrag gegeben. (redaktioneller Teaser)mehr
+ 
+                Die Anmeldung eines Geschäftsführerwechsels zur Eintragung in das Handelsregister ist unwirksam, wenn der künftige Geschäftsführer zum Zeitpunkt der Abgabe der Anmeldeerklärung noch nicht wirksam bestellt ist.mehr
+ 
+                Die Beteiligung einer GmbH als Komplementärin an einer grundbesitzverwaltenden, nicht gewerblich geprägten Kommanditgesellschaft (Zebragesellschaft) ist keine Verwaltung und Nutzung eines nach § 39 Abs. 2 Nr. 2 AO zuzurechnenden eigenen Grundbesitzes und berechtigt nicht zur erweiterten Kürzung des Gewerbeertrags, wenn die GmbH am Vermögen der Zebragesellschaft nicht beteiligt ist. Die Komplementär-GmbH nutzt insofern fremden Grundbesitz.mehr
+ 
+                Die Veräußerung von "wesentlichen" GmbH-Anteilen des Privatvermögens fällt unter § 17 EStG. Ist bei der teilentgeltlichen Veräußerung solcher Anteile weiterhin die Trennungstheorie anzuwenden?mehr
+ 
+                Auf das Selbsthilferecht zur Einberufung einer Gesellschafterversammlung gem. § 50 III GmbHG kann sich ein Gesellschafter nicht mehr berufen, wenn über den betreffenden Tagesordnungspunkt bereits Beschluss gefasst wurde. Dies gilt auch im Falle der Nichtigkeit des Beschlusses.mehr
+ 
+                Der Verzicht auf eine angemessene Verzinsung einer auf einem Gesellschafterverrechnungskonto verbuchten Darlehensforderung einer GmbH kann zu einer vGA führen. Sind keine anderen Anhaltspunkte für die regelmäßig gebotene Schätzung der fremdüblichen Zinsen erkennbar, ist es nicht zu beanstanden, wenn von dem Erfahrungssatz ausgegangen wird, dass sich private Darlehensgeber und -nehmer die bankübliche Marge zwischen Soll- und Habenzinsen teilen (sog. Margenteilung).mehr
+ 
+                Der BGH hat in seiner Entscheidung vom 26.01.2023 erstmals die konkreten Voraussetzungen genannt, nach denen bei einer koordinierten Finanzierung durch mehrere Gesellschafter das Kleinbeteiligtenprivileg des § 39 Abs. 5 InsO entfallen kann.mehr
+ 
+                Ist der Geschäftsführer einer GmbH nicht in der Lage, eine Aufgabe zu übernehmen, muss er eine andere Personen einschalten, die er sorgfältig auswählen und überwachen muss.mehr
+ 
+                Bei Eintragung einer neu gegründeten GmbH wird insbesondere auf die Einhaltung gläubigerschützender Vorschriften geachtet. So auch bei der Offenlegung des Gründungsaufwands, der Gesamtbetrag sowie die einzelnen Posten sind in der Satzung anzugeben.mehr
+ 
+                In einem Video geben wir einen Überblick über mögliche Gestaltungen mit der atypisch stillen Gesellschaft.mehr
+ 
+                    Das Top-Thema zeigt, wie vorzugehen ist, wenn die Angemessenheit der Vergütung von GmbH-Gesellschafter-Geschäftsführern überprüft werden soll.mehr
+ 
+                Die wirtschaftliche Neuausrichtung einer GmbH ist von der wirtschaftlichen Neugründung zu unterscheiden. Eine wirtschaftliche Neugründung ist gegenüber dem Registergericht offenzulegen und der Geschäftsführer hat gegenüber dem Registergericht dieselben Versicherungen wie bei der Gründung abzugeben.mehr
+ 
+                Eine GmbH kann nicht von einer Kommanditgesellschaft (KG) als Alleingesellschafterin gegründet werden, wenn auch die KG erst zeitgleich mit der GmbH als Komplementärin gegründet werden soll.mehr
+ 
+                Das FG Düsseldorf hat zur Hinzurechnung einer Gewinnausschüttung bei der Festsetzung des Gewerbesteuermessbetrags entschieden.mehr
+ 
+                Die Geschäftsführungsbefugnis eines Geschäftsführers kann nach außen grundsätzlich nicht beschränkt werden. Zwar stellt dies ein Risiko für die vertretenen Unternehmen dar, der Schutz des Rechtsverkehrs genießt jedoch Vorrang vor unternehmensinternen Interessen.mehr
+ 
+                Ein "Verlust", der im Zuge einer Anteilsrotation lediglich wegen der Vereinbarung eines den Wert des veräußerten Anteils krass verfehlenden Kaufpreises entsteht, stellt einen Missbrauch von Gestaltungsmöglichkeiten des Rechts dar.mehr
+ 
+                Der Vorsteuerabzug aus dem nur gelegentlichen Erwerb eines PKW steht einem Unternehmer mit andersartiger Haupttätigkeit nur dann zu, wenn damit eine wirtschaftliche Tätigkeit begründet oder die wirtschaftliche Haupttätigkeit des Unternehmers unmittelbar, dauernd und notwendig erweitert wird.mehr
+ 
+                Der Deutsche Steuerberaterverband e.V. beteiligt sich mit einer Stellungnahme an der BMF-Evaluierung der Option zur Körperschaftsbesteuerung und der Thesaurierungsbegünstigung.mehr
+ 
+                Ein punktuell satzungsdurchbrechender Beschluss über eine inkongruente Vorabausschüttung, der von der Gesellschafterversammlung einstimmig gefasst worden ist und von keinem Gesellschafter angefochten werden kann, ist als zivilrechtlich wirksamer Ausschüttungsbeschluss der Besteuerung zugrunde zu legen (entgegen BMF-Schreiben v. 17.12.2013, BStBl I 2014, S. 63).mehr
+ 
+                Verletzt ein Geschäftsführer seine Pflichten und entsteht der Gesellschaft dadurch ein Schaden, haftet er der Gesellschaft. Von diesem Grundsatz gibt es Ausnahmen. Der Geschäftsführer haftet insbesondere dann nicht, wenn sein Handeln von den Gesellschaftern – etwa in Form der Entlastung – gebilligt wird.mehr
+ 
+                Haftet die nominelle Geschäftsführerin, die lediglich Strohfrau des faktischen GmbH-Geschäftsführers ist, nach § 69 AO?mehr
+ 
+                Nach dem KG Berlin (Urteil v. 11.01.2021 - U 32/19) hat sich nun der BGH mit der Zuordnung von Schadensersatzansprüchen bei Zahlungsausfällen des Alleingesellschafters einer GmbH beschäftigt. Anders als das KG entschied der BGH zugunsten des Alleingesellschafters: Die Unabhängigkeit der Rechtsträger und die verschiedenen Vermögensmassen von GmbH und ihrem Gesellschafter – sei es auch nur eine Alleingesellschafterin – müssen bei einer Prüfung von Schadensersatzansprüchen beachtet werden.mehr
+ 
+                Der Wissenschaftliche Beirat beim BMF hat sich in einer Stellungnahme gegen den Vorschlag für eine sog. GmbH mit gebundenem Vermögen ausgesprochen.mehr
+ 
+                Nachhaltig, werteorientiert, verantwortungsvoll. Eine zunehmende Anzahl von Unternehmen fühlt sich diesen Zielen verbunden. Um sie dauerhaft zu verankern, hat eine Gruppe von Gesellschafts- und Steuerrechtlern bereits 2020 einen Gesetzesentwurf vorgelegt, der im Februar 2021 überarbeitet wurde. Vorgeschlagen wird in diesem Entwurf, eine  "GmbH mit gebundenem Vermögen" als neue Rechtsform für Gesellschaften mit einem treuhänderischen Unternehmensverständnis. Die Idee ist auf großes Interesse, insbesondere in der Politik, gestoßen und findet sich im aktuellen Koalitionsvertrag wieder.mehr
+ 
+                Das FG Berlin-Brandenburg befasst sich mit der Frage, ob und mit welchem Wert ein in der Krise der GmbH stehengelassenes Gesellschafterdarlehen als nachträgliche Anschaffungskosten im Sinne des § 17 Abs. 2a EStG zu berücksichtigen ist. Das letzte Wort liegt beim BFH.mehr
+ 
+                Die Kompetenz des Versammlungsleiters zur Feststellung von Gesellschafterbeschlüssen kann dem Versammlungsleiter durch Mehrheitsbeschluss zugewiesen werden. Es ist weder eine entsprechende Regelung im Gesellschaftsvertrag noch ein einstimmiger Beschluss erforderlich. Mit dieser Aussage leistet das OLG Köln in seinem Urteil vom 21.7.2022 einen wichtigen Beitrag zur Klärung einer ebenso umstrittenen wie praxisrelevanten Frage.mehr
+ 
+                Eine Gesellschaft kann einen Anspruch auf Schadensersatz gegen einen ausgeschiedenen Gesellschafter wegen Verletzung der gesellschaftsrechtlichen Treuepflicht geltend machen, wenn der ausgeschiedene Gesellschafter konkrete Geschäftschancen aus dem Geschäftsbereich der Gesellschaft an sich zieht. mehr
+ 
+                Die Feststellung des Jahresabschlusses kann – ähnlich wie ein Entlastungsbeschluss – zu einem Haftungsausschluss zugunsten des Gesellschafter-Geschäftsführers führen. In der Regel gilt die "Entlastungswirkung" des Feststellungsbeschlusses allerdings nur für gesellschaftsinterne Forderungen; sie kann sich aber auch auf die Höhe und Angemessenheit von Drittverbindlichkeiten erstrecken.mehr
+ 
+                Bei Änderungen im Gesellschafterbestand einer GmbH reichen die Geschäftsführer oder ein Notar eine neue Gesellschafterliste ein – ein Gesellschafter ist dazu in keinem Fall befugt. Das gilt– so das KG Berlin – selbst dann, wenn eine einstweilige Verfügung die GmbH zur Einreichung einer neuen Liste verpflichtet.mehr
+ 
+                Ein neuer Geschäftsführer muss dem Handelsregister seine Eignung für das Amt versichern. Die Handelsregisteranmeldung muss nicht sofort eingereicht werden.mehr
+ 
+                Die Unterschriftsbeglaubigung eines ausländischen Notars muss dem deutschem Recht gleichwertig sein. Der Abgleich von Unterschriften mit Schriftproben reicht nicht aus.mehr
+ 
+                Das Bundessozialgericht  hat entschieden, dass die Tätigkeit von Rechtsanwälten als Gesellschafter-Geschäftsführer in einer Rechtsanwaltsgesellschaft als abhängige Beschäftigung sozialversicherungspflichtig sein kann.mehr
+ 
+                Die Anmeldung der Eintragung einer GmbH-Auflösung im Handelsregister ist unzulässig, wenn die Auflösung erst für einen in der Zukunft liegenden Zeitpunkt beschlossen worden ist.mehr
+ 
+                Bei der unentgeltlichen Übertragung von Anteilen an einer Kapitalgesellschaft auf einen beschränkt Steuerpflichtigen ist das Recht Deutschlands zur Besteuerung der in den übertragenen Anteilen ruhenden stillen Reserven nicht ausgeschlossen oder beschränkt.mehr
+ 
+                Als Schenkung gilt die Werterhöhung von Anteilen der verbleibenden Gesellschafter durch jegliche Einziehung von GmbH-Anteilen nach § 34 Abs. 1, 2 GmbHG. § 7 Abs. 7 Satz 2 ErbStG ist nicht auf die Zwangseinziehung von Anteilen beschränkt.mehr
+ 
+                Wird die Eröffnung des Insolvenzverfahrens mangels Masse abgelehnt, kann eine GmbH auch bei Wegfall der Insolvenzgründe nicht fortgesetzt werden.mehr
+ 
+                Ziel der  Digitalisierungsrichtlinie ist es, EU-Gesellschaften durch mehr digitale Handlungs- und Kommunikationsmöglichkeiten wettbewerbsfähig zu halten und die digitalen Kommunikationswege im Handels- und Gesellschaftsrecht für Beurkundungen und Registeranmeldungen etc. sicher und effizient zu gestalten.mehr
+ 
+                Der Gesellschafter einer GmbH ist nicht befugt, Ersatzansprüche gegen die Fremdgeschäftsführer für die GmbH geltend zu machen.mehr
+ 
+                Die GmbH-Gesellschafterliste ist keine Willenserklärung, sondern Wissenserklärung. Die Einreichung solch einer Liste beim Registergericht stellt eine nicht vertretbare Handlung dar.mehr
+ 
+                Vollmachten von GmbH-Gesellschaftern sind häufig notariell zu beglaubigen (z.B. bei der Gründung). Sie müssen den Vollmachtgeber hinreichend individualisieren.mehr
+ 
+                Der Name einer Gesellschaft darf nur Sonderzeichen beinhalten, wenn diese nach dem allgemeinen Sprachgebrauch klar auszusprechen sind.mehr
+ 
+                Das FG Münster hat entschieden, dass kein Einstiegstest bei der Übertragung von Anteilen an gewerblich tätigen Kapitalgesellschaften nach § 13b Abs. 2 Satz 2 ErbStG zur Anwendung kommt.mehr
+ 
+                Die Zugehörigkeit der Anteile an der Komplementär-GmbH zum Sonderbetriebsvermögen II des Kommanditisten ist zu verneinen, wenn die GmbH einen erheblichen eigenen Geschäftsbetrieb unterhält. Gilt dies auch für eine zweigliedrige GmbH & Co. KG?mehr
+ 
+                Nach der Übertragung eines Geschäftsanteils ist eine Veränderungsspalte in der Gesellschafterliste nicht zwingend erforderlich, aber möglich.mehr
+ 
+                Neben einer GmbH kommt auch der Geschäftsführer als Verantwortlicher gem. der DSGVO in Betracht. Damit besteht ein weiterer Anknüpfungstatbestand für die Außenhaftung des Geschäftsführers.mehr
+ 
+            Axel Täubert ist Head of Start-ups bei Google. Aus einer Unternehmerfamilie stammend, wurden ihm Leistungsbereitschaft und unternehmerisches Denken in die Wiege gelegt und vorgelebt. In seinem Buch versammelt er zehn sehr unterschiedliche und erfolgreiche Gründerinnen und Gründer, die ihre eigene ganz persönliche Founders‘ Story erzählen. Sie alle machen Mut, den Schritt zum eigenen Business zu wagen!
+                Weiter
+ 
+            So erstellen Sie den GmbH-Jahresabschluss korrekt und unter Nutzung aller Gestaltungsspielräume. Mit Ablaufplan, klaren Arbeitsschritten und Buchungsbeispielen werden Sie durch den gesamten Abschluss geführt und vermeiden so häufige Fehler.
+                Weiter
+     Weitere Produkte zum Thema:
+
+
+ Unser Ziel ist es, Ihnen eine auf Ihre Bedürfnisse zugeschnittene Website anzubieten. Um Ihnen relevante und nützliche Inhalte, Angebote und Services präsentieren zu können, benötigen wir Ihre Einwilligung zur Nutzung Ihrer Daten. Wir nutzen den Service eines Drittanbieters, um Ihre Aktivitäten auf unserer Website zu analysieren. Mit Ihrer Einwilligung profitieren Sie von einem personalisierten Website-Erlebnis und Zugang zu spannenden Inhalten, die Sie informieren, inspirieren und bei Ihrer täglichen Arbeit unterstützen. Wir respektieren Ihre Privatsphäre und schützen Ihre Daten. Sie können sich jederzeit darüber informieren, welche Daten wir erheben und wie wir sie verwenden. Sie können Ihre Einwilligung jederzeit widerrufen. Passen Sie Ihre Präferenzen dafür in den Cookie-Einstellungen an.

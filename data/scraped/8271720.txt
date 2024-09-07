@@ -1,0 +1,68 @@
+Community The Banking and Financial Services industry continues to evolve, following the recovery from the Covid pandemic. The pandemic encouraged the increased adoption of digital technologies by the consumers and the banking organizations have been quick to adapt
+ and serve. The usage of paper currency and plastic cards are gradually phasing out and the customers are increasingly comfortable using digital wallets and payment apps for day-to-day transactions. Besides ease of banking, digital technologies and solutions
+ open up a plethora of innovative products and services that banking and financial services organizations offer to its customers.   EVOLVING BUSINESS PRIORITIES: Organizations continue to be driven by its key priorities of delivering growth,
+efficiency and customer experience. In this digital world, we are witnessing increasing cyber threats that has forced organizations to tighten up their focus on
+cyber security and customer privacy. In this uncertain world, customers are moving from mere financial prosperity to
+financial wellness, and this has led financial organizations to realize the larger purpose of building concern on customer’s long term financial wellness and security. An interesting development that continues to disrupt the financial industry is the role of Fintech players with their innovative products. Traditional banking organizations have adopted comply-collaborate-compete approach in engaging with these new players.
+ A collaborative approach through Open Banking and Embedded Finance, often seen to be more productive has further opened up new innovative services to end customers. There is a growing concern on carbon footprint and global warming, and this has made it a mandate for organizations to keep
+sustainability as a top priority.   TOP 10 THEMES This article presents 10 defining themes that shall drive the outlook for banking organizations to address the evolving business priorities. These themes drive the foundation for growth and efficiency, enable superior customer experience and deliver the
+ capability to explore new business models and products.    1. AGILE and ADAPTIVE BANKING   To remain competitive and rapidly launch new products and features to the market, banks shall focus on building
+agile IT architectures, agile IT organizations and embrace agile methodologies to manage their projects and operations. Banks have been focused on moving out of legacy and monolithic technology stack and this journey of migrating to a
+cloud native architecture (microservices and API based) will accelerate in the coming years. Organizations will start exploring more of
+low-code / no-code solutions in the banking industry to rapidly build applications. To effectively embrace and realize the benefits of agile methods, organizations will structure themselves into a
+product centric model.   2. SCALABLE AND RESILIENT BANKING Cloud helps bank to handle large and varying workloads and deliver high performance and resilience in operations. However, the earlier concerns around security, privacy and latency made the banks to adopt a cautious approach. However, with
+ the evolvement of maturity in solutions offered by cloud service providers, there will be greater traction for cloud adoption in the banking industry. Banks will explore SaaS based solutions in payments, wealth management and corporate functions like HR, Finance
+ and Contact center servicing. Core Banking solutions are now being available on public-cloud and these shall be explored. Banks will adopt a
+multi-cloud and hybrid-cloud strategy to de-risk themselves to address concerns around resilience, recovery and performance. Vertical cloud platforms like
+Financial Services Cloud are expected to evolve that combine software, platform and infrastructure as a service (IaaS) capabilities to provide specific solutions for banking and financial services. With increased emphasis on data crunching and advanced AI algorithms, it is expected that  banks will explore
+Quantum computing. These could find use cases to run high data and compute intensive risk algorithms and product recommender systems.   3. HYPER AUTOMATED BANKING
+ From the adoption of basic workflow management and RPA tools, banks will increasingly adopt
+AI techniques to achieve hyper automation across business process lifecycle. Technologies like Cognitive Document Management and processing, Forms digitization, digital signatures and automated workflows will eliminate the manual interventions needed
+ in both front and back office processes such as customer onboarding, KYC checks, Loans and Insurance forms processing, trade processing and settlement. Hyper automation in business process management can reduce processing timelines from days to hours and minutes. Besides business processes, organizations will enforce cognitive automation across the IT engineering and operations lifecycle with techniques like DevOps, AIOps and Site Reliability Engineering.   4. SAFE AND SECURE BANKING
+ Banks will look increasingly look to fortify themselves from both cyber threats and frauds to provide secure banking experience. Cyber threats are on the rise and banking organizations will focus on privacy enhancing techniques.
+Cyber security command centers will become the norm for a bank’s operation.
+Zero-Trust security architectures will be key to provide end-to-end secure banking transactions.
+Chaos testing and vulnerability testing would become integral to engineering lifecycle of critical platforms. Use of AI for detecting frauds, anti-money-laundering and exploration of
+generative AI algorithms for superior risk models will gain greater adoption.    5. REIMAGINED EXPERIENCE THROUGH OBSERVABLE CUSTOMER JOURNEYS Observability is a key tenet for a bank to understand customer’s real time experience and deliver personalized service. Banks will embrace observability both at the business process (customer journey tracing) and technology levels (IT apps,
+ infrastructure and networks). IT systems observability is paramount to high-available and high-performance systems. Business transaction journey observability will help banks to understand the context of the customer in his / her journey and provide them contextualized assistance and
+ advise from any channel - web or mobile or social has enriched customer’s multi-channel experience. Imagine a customer stuck at a merchant with a declined transaction receiving a proactive call or a user struggling to complete a transaction on the web receiving
+ contextual assistance from intelligent bots to guide them.   6. INSIGHTS AND INTELLIGENCE FOR FINANCIAL WELLNESS – TRANSFORMING CUSTOMER LIVES Banks have realized the need to help their customers plan their lives to ensure financial safety and wellness through their lifespan. Banks track their customer’s life events through the life stages and provide them contextual advice on products and services.
+ AI will be adopted to study customer’s demographics and behavior patterns to recommend the right mix of financial products at each stage of the life and career. Robo-Advisors have democratized the availability of wealth advisory services to not just the high
+ net-worth customers, but across the customer segment.   7. OPEN BANKING AND EMBEDDED FINANCE While Open Banking started as a regulation in some countries to encourage fintechs and competition, banks now view Open Banking not as a matter of compliance or a threat, but as a business opportunity. Banks slowly are and will look to provide an
+API marketplace that can be monetized, upon consumption from the fintechs in the market. Embedded finance will be a fast growing concept as it provides the integration of financial products into digital interfaces that customers use daily such as loyalty applications, digital wallets, and shopping-cart apps. These partnerships shall drive
+ the next wave of growth for banks. Open Banking and Embedded Finance are further accelerating the digital payments revolution. Digital banks shall increasingly adopt composable banking services and/or
+BaaS platforms to quickly set up their entities. We shall see more of these concepts gaining mainstream adoption ahead.   8. GREEN BANKING Sustainability is a global mandate and banks shall embrace it in their day-to-day focus. Beyond compliance, Banks will look at it as an opportunity to launch green lending products that can expand its business.
+Green lending products supports for organization’s initiatives that focus on sustainable, environmental friendly initiatives such as those reducing greenhouse gases, creating renewable energy and others. Carbon trading, a marketplace to buy and sell credits that allow companies or other parties to emit a certain amount of carbon dioxide, will gain momentum. Banking organizations will establish and strengthen their ESG (Environmental, Societal and Governance)
+data platforms that gather data on tracking, measuring, assessing and reporting their sustainability initiatives. Banks will not only track their green initiatives but also those who have been offered green loans.   9. DECENTRALIZED FINANCE Decentralized Ledger Technology (DLT) has gained adoption beyond Bitcoin and crypto currency. This technology will continue to disrupt and gain increasing adoption in financial services industry by disintermediating payments, clearance
+ and settlement processes. Blockchain will be used to tokenize securities, loans, digital assets on metaverse, customer information and make it easy to conduct trade finance and KYC checks. It will ensure greater transparency and prevent frauds.   10. EMERGING AVENUES FOR BANKING - NEW INTERFACES AND CUSTOMER SEGMENTS The new territories for banking organizations would include new interfaces for banking and new customer segments to target. They say that the bank follows where the customer is. Given this, the metaverse could be its new destination. Video Banking will gain traction. Banks have started to provide basic VR apps for basic banking functions.
+Metaverse banking, besides providing an immersive experience, could open up new products to finance and insure digital assets in the virtual world. There could be potential to collaborate across different VR worlds in banking and finance, automobile,
+ entertainment, utilities, and others, opening up more options. New Customer segments could gather momentum are the banking for the under-privileged (financial inclusion), Gen Z (or Youth banking) and small and medium size business (SMB banking). Banks will explore launch of new products that make it easier for these
+ segments to get easy access to loans and finance, insurance and other basic banking products. Products around
+digital wallets and options such as BNPL (Buy Now, Pay Later) are and will gain further adoption.   These trends are expected to dominate the priorities of banking and financial services organizations, the market they operate in and the position that they enjoy shall drive their individual priorities. The future is certainly interesting and engaging, to
+ say the least. This content has been created by the Finextra editorial team with inputs from subject matter experts at the funding sponsor. Digital Banking trends and  Industry  Intelligence for Bankers, Fintechs, and Solutions Providers 
+233 opinions
+35 members
+03 June 2024
+ 
+11 December
+ 
+18 February
+ Peter Pizzutelli  Sr. Manager, Advisory Services at Diebold Nixdorf 
+4 hours
+ Francesco Fulcoli  Chief Compliance and Risk Officer at Flagstone 
+5 hours
+ Tom Rowe-Jones  M&A Director at LAVA Advisory Partners 
+5 hours
+1
+ Gustav Korobov  Senior Sales Executive - Core Banking platform at Advapay 
+6 hours
+114
+ This content is provided by an external author without editing by Finextra. It expresses the views and opinions of the author. Sergio Barbosa CIO of Global Kinetic, and CEO of FutureBank. at Global Kinetic and FutureBank 
+16 August
+ Sergiy Fitsak Managing Director, Fintech Expert at Softjourn 
+14 August
+ Mete Feridun Chair at EMU Centre for Financial Regulation and Risk 
+14 August
+ Konstantin Rabin Head of Marketing at Kontomatik 
+14 August
+ Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

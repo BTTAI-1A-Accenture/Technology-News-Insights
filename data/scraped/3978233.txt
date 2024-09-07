@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.unipd.it', port=443): Max retries exceeded with url: /en/educational-offer/master-s-degrees/school-of-engineering?ordinamento=2020&key=IN2551&tipo=LM&scuola=IN (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))

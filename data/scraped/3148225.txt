@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://cointelegraph.com/news/ledger-clarifies-how-its-firmware-works-after-deleted-tweet-controversy

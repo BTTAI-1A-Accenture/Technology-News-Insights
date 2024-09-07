@@ -1,0 +1,8 @@
+
+By
+Nihal Krishan
+ 
+
+April 12, 2023
+
+ The General Services Administration (GSA) has appointed a new deputy director of the agency’s Technology Transformation Services division. Mukunda Penugonde joined TTS in the role on April 10, joining from the private sector where most recently he was director for technical program management at Disney Streaming and before that served as director of business technology and operations at Hulu. In the new role will focus on strategic initiatives, direction setting, operational frameworks and product delivery, FedScoop understands. GSA has also named Mehul Parekh as senior adviser for operations at TTS, and he moves into the role after serving as deputy chief financial officer of the agency. He will be tasked with strengthening TTS’s internal controls and started work April 10. Prior to joining GSA, Parekh served in senior financial roles within the National Labor Relations Board and the Department of Homeland Security. The appointments follow strong criticism of GSA and TTS in recent months over major failures with the division’s Login.gov identity authentication platform program. GSA has sought to bring in new staff within its TTS division, including Dan Lopez, who in September joined the agency as director of Login.gov. GSA’s Technology Transformation Services branch was launched in 2016 to help agencies across the federal government modernize IT systems and to build, buy and share emerging technology solutions. It also houses 18F, the Presidential Innovation Fellows, the Office of Solutions and the U.S. Digital Corps.

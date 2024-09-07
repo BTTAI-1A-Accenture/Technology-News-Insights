@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/cummins-announces-investments-of-more-than-1-billion-across-u-s-manufacturing-network/article_4d0507bb-7efc-5657-8b82-2e7d65b89eeb.html

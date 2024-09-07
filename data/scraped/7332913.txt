@@ -1,0 +1,234 @@
+
+            Early this year, even before the national shortage of infant formula or a demand-driven shortfall of pain medications for kids, children’s hospitals began to worry about looming shortages of two critical medications for premature infants: sodium chloride and potassium chloride.
+     
+            These solutions of life-sustaining minerals are key to a therapy called total parenteral nutrition, in which an infant’s complete nutritional requirements are infused directly into a vein.
+     
+            “When we give babies intravenous nutrition, their life depends upon not missing anything,” said Dr. Steve Abrams, a neonatologist at the University of Texas at Austin’s Dell Medical School. “You can’t leave a component out.”
+     
+            Despite the critical nature of these therapies, the components of this cocktail are often in shortage.
+     
+Related article
+Empty pharmacy shelves shine a light on vulnerabilities in US drug supplies
+ 
+            It’s a familiar story in pharmaceutical supply chains: Important generic medicines have stringent manufacturing requirements, yet they don’t return the same large profit margins as newer drugs, so there’s less economic incentive to ensure a consistent supply. The factories that make them are concentrated overseas, and they go in and out of production, Abrams said.
+     
+            Sometimes, shortages are driven by manufacturing disruptions, quality issues or ingredient supply problems. High demand – like the extraordinary need for children’s medication during the current respiratory virus season – can wipe store shelves clean.
+     
+            Some shortages are an inconvenience, but others, like a shortage of these nutritional components, pose “an absolute crisis,” Abrams said. A decade ago, seven infants became severely deficient in another mineral, zinc, after that injectable went into shortage. Most had painful, blistering rashes, and they were left vulnerable to infections; one baby died before emergency supplies were rushed in, according to a report on the incident.
+     
+            This time, children’s hospitals had some warning about sodium chloride and potassium chloride, which have a history of being in shortage.
+     
+            The Medicine Supply Map, a fledgling project at the nonprofit standards agency U.S. Pharmacopeia, tracks and monitors drug supply chains. It uses machine learning to analyze more than 200 risk factors for shortage and then assigns drugs a vulnerability score.
+     
+            A major producer of these minerals had signaled to the US Food and Drug Administration that its manufacturing would be disrupted, and there was concern that smaller producers wouldn’t be able to fill the gaps.
+     
+            The map assigned high scores to both products, meaning they were at high risk of running out.
+     
+            Ending a shortage can take months – a brutal, complicated wait for patients in need of specific medications. It was an unusual approach, but children’s hospitals wanted to get ahead of it, even before a shortage emerged.
+     
+            So they made an urgent call to Laura Bray, a community college adjunct business instructor from Tampa. Did she know anyone who could help?
+     
+            They turned to Bray not only for her business acumen but because she understood the peril that patients face from shortages.
+     
+            Her daughter, Abby, had lived it.
+     
+            For three weeks in 2018, 9-year-old Abby ran a low-grade fever and complained about pain that moved around her body, first to her side and then down her leg. Doctors didn’t think they were connected at first. They thought she might have a lingering cold alongside growing pains.
+     
+            “Her words to me were, ‘It feels like there’s knives inside my bones trying to get out,’ ” Bray said. “That is not growing pains.”
+     
+            Bray insisted that the doctors run a full blood screening panel.
+     
+            The family was watching the Macy’s Thanksgiving Day Parade in their pajamas when the phone rang.
+     
+            Abby’s blood was packed with immature blood cells called blasts. It was a sure sign of leukemia.
+     
+            The instructions that came next were blunt and life-changing: There was a bed waiting for Abby on the oncology unit at their local hospital. Pack a bag. Plan to stay. You have to get there now, Bray was told.
+     
+            Abby had acute lymphoblastic leukemia, or ALL, the most common form of childhood cancer. It is the second most common cause of death in children younger than 15.
+     
+            Doctors were hopeful that Abby would do well with treatment. Her age was one thing working in her favor. If children are diagnosed before they turn 11 – a marker for the start of puberty – they have a better chance of a cure. Her first blood tests raised no additional red flags.
+     
+            The next test would come a month into treatment. If her body responded well to the first rounds of chemotherapy, she would stay on the “standard risk” protocol.
+     
+            As a “standard risk” patient, she had a very good prognosis: Up to 90% of these patients can be cured, doctors said, as long as she stuck to a grueling regimen of chemotherapy drugs administered in multiple phases that typically stretch over a period of two to three years.
+     
+            “Leukemia, unlike some other pediatric cancers, does have a very sophisticated and successful treatment. But it is reliant on a cocktail of medicines given at very specific times for a long time,” Bray said. “And your child knows from the beginning that compliance is key.”
+     
+            In every conversation with nurses, doctors and child life specialists, Bray said, they hammer the point home that the medicines have to be taken on time, every time.
+     
+            “We didn’t know anything about cancer, pediatric cancer, about medicine,” Bray said. “And then four months later, she was hit with the first drug shortage.”
+     
+            In April 2019, four months into her treatment, Abby and her mom went to begin her treatment with a chemotherapy drug called Erwinaze, and they were told to go home. She wasn’t going to get the drug that day. It was in shortage.
+     
+Related article
+Stores limit purchases of children's pain-relief medicine
+ 
+            Erwinaze is a last resort. Because it is so often in shortage, cancer patients are put on it only when they can’t tolerate a first-line therapy called PEG-asparaginase, a drug that essentially does the same thing but causes serious allergic reactions in as many as 1 in 4 patients who take it. Sometimes, those reactions are severe enough to land a child in the intensive care unit.
+     
+            Doctors and patients accept those odds because asparaginase is one of the few drugs that directly target leukemia cells by breaking down a building block they need to divide. It’s one of the most important parts of the ALL chemotherapy regimen.
+     
+            But Abby had gone through a terrifying episode of anaphylaxis while taking PEG-asparaginase. Bray watched helplessly while her daughter screamed that she couldn’t breathe. “Help me! Help me!” Abby yelled as nurses began giving shots of epinephrine from their crash cart.
+     
+            The medical team got the reaction under control, and Abby was sent home to rest. She was told that she would have to switch to a different drug: Erwinaze.
+     
+            But when they showed up to get it the next week, they were turned away.
+     
+            Abby wanted to know what that meant. ” ‘What happens now?’ ” she asked her mom. ” ‘Don’t I need this to live?’ “
+     
+            “I just did what any mom would do,” Bray said. “I just said, ‘I’m going to try to find it.’ “
+     
+            Cancer medicines for kids are particularly vulnerable to shortages.
+     
+            A recent study by U.S. Pharmacopeia found that they are 90% more likely to go into shortage than other classes of medications. Many of them are older medications with slender profit margins. Any disruption to the supply chains that produce them might take their manufacturer offline, sometimes for months.
+     
+            The 2021 report found that of 19 essential agents used in the treatment of cancer in children, 14 – 74% – had experienced one or more shortages since 2016, compared with just 18% of all the drugs tracked by the Medicine Supply Map.
+     
+            Erwinaze had been on and off shortage for about three years by the time Abby needed it.
+     
+            Batches had failed and had to be thrown out, and once that happened, it was difficult for the manufacturer to catch up. New batches would immediately sell out, Bray said.
+     
+            “There would be patients who got it and patients who didn’t,” Bray said. “And then they would have additional quality assurance issues, and the cycle of have and have-nots continued.”
+     
+            When Abby needed it, a batch had been contaminated with particulates and had to be tossed, according to a letter from the drug’s manufacturer to the FDA. It takes time to make more.
+     
+            Bray started her search online and found a news article that sounded eerily familiar. A different mom, also in Florida, had faced an odyssey to find Erwinaze three years earlier.
+     
+            The moms connected on Facebook, and Bray soaked in every detail of the family’s story. The other family was astonished to learn that shortages of Erwinaze were still affecting patients.
+     
+            “That’s when I knew the problem was systemic. It wasn’t bad luck or the hospital not being on the ball,” Bray said.
+     
+            Bray turned to Google and started calling 800 numbers she found on the websites of the manufacturer and distributor.
+     
+            “Still, to this day, I find it miraculous that from 800 numbers, I got the buy-in from one of the largest companies in the world to say, ‘Hello, listen to me,’ ” Bray said.
+     
+            The distributor, a company called McKesson, told her that it didn’t have any Erwinaze in any of its warehouses anywhere in the world. But it offered something else: help moving the drug.
+     
+            If Bray could find the Erwinaze, company representatives said, they would get it to her daughter.
+     
+            That was a generous offer, Bray learned, because hospitals can’t simply share medications through the mail. Moving drugs requires a chain of custody, tracking and special storage requirements.
+     
+            So Bray made a spreadsheet of all the children’s hospitals in the United States. She split them up among her friends and family, and within a few hours, they had phoned them all. Together, they located one hospital that had Erwinaze on its pharmacy shelves and did not have a child who needed to take it.
+     
+            She asked whether they would be willing to share it. They told her they would.
+     
+            She called McKesson back, and true to its offer, the company got the drug to her daughter.
+     
+            Bray said she never imagined that she would have to navigate a major global supply chain to get her daughter the medication she needed.
+     
+            “It seemed incredibly unfair to find ourselves in that position,” she said. “It seemed incredibly unfair to make a 9-year-old bear the burden of that.”
+     
+            Bray said her daughter was turned away from treatment on a Tuesday. By Saturday, Bray had located the drug. It was delivered to the hospital on Wednesday, and by Friday – 11 days later – Abby was able to finally start her injections.
+     
+            “I think that 11 days could be a movie or a book,” Bray said. “It was just a crazy week and a half.”
+     
+            Although the immediate crisis had passed, it wasn’t the last time a shortage would threaten to derail Abby’s treatment.
+     
+            Before her 806 days of treatment were over, Abby’s family would have to scramble to find three of the drugs she needed.
+     
+            The whole experience shook Bray deeply. She knew they were lucky, but other families might not be.
+     
+            “The shortage and the reasons for the shortage were not resolved. Other patients and other moms were on hold still, and you know that really haunted me and I wanted to know why,” Bray said.
+     
+            She learned everything she could about the root causes of drug shortages, and in the meantime, she put up a website called Angels for Change. She began helping other patients the same way she had helped Abby. In October 2019, Angels for Change was formally launched as a nonprofit.
+     
+            Later that month, another drug shortage threatened to delay Abby’s treatment, but for a chemotherapy drug that’s a mainstay for many types of pediatric cancer treatment: vincristine. It’s part of nearly every childhood cancer regimen. It has no substitutes.
+     
+            Vincristine went into prolonged shortage in 2019 after one of its two manufacturers stopped making it and the other ran into manufacturing problems. Doctors had to ration the doses they could find for patients.
+     
+            This time, Bray said, she had important connections with the FDA’s drug shortages office and others.
+     
+Related article
+Adderall users struggle amid ongoing medication shortage
+ 
+            “We were able to work and help patients more than just my own daughter, and it was really fulfilling to know that we could help a lot of patients as a patient advocacy group,” Bray said. “The first time, I was just a mom, you know, on a mission trying to help my own child, but this time I was a founder of an organization that wanted to make sure all patients had access to their life-saving medicines.”
+     
+            The more Bray did, the more she wanted to do. In November 2021, she hosted a gala to raise money to fund her nonprofit, which generated about $85,000. A patient she had helped did a Facebook fundraiser and raised another $7,000. She got another small grant from a nonprofit.
+     
+            Two months after the gala, in January 2022, Bray got the call about sodium chloride and potassium chloride and the fears that these essential medicines for preemies and other babies in intensive care could go into shortage.
+     
+            Terri Wilson, the director of pharmacy supply chain services at the Children’s Hospital Association, was on the other end of the line.
+     
+            Children’s hospitals frequently deal with drug shortages because.many of the pharmaceutical products they rely on are older generics that have few producers and slender profit margins for the companies that make them.  Any manufacturing problem that adds to the cost of making them may be a reason enough for a company to stop production.
+     
+            Wilson said that nearly every component of the total parenteral nutrition mixture that some critically ill infants and adults require has been in shortage at one time or another.
+     
+Related article
+Children's painkillers are in high demand as respiratory illnesses continue to rise
+ 
+            To prevent catastrophes, a group of hospital systems, including five children’s hospitals, came together from 2019 to 2021 to invest in a compounding pharmacy – a facility licensed to produce small batches of drugs in a quality-controlled environment. Wilson calls them “mini manufacturers.”
+     
+            When drugs go on the FDA’s shortage list, the agency allows these pharmacies to produce the drugs to help restore the supply. But it still takes money and time.
+     
+            “I said, ‘I’m looking for a grant of $100,000 to pre-test drugs that might go short,’ ” Wilson said of her conversation with Bray.
+     
+            She was just hoping that Bray might have run across an organization that was offering grant money for something like that.
+     
+            “Laura said, ‘I have $100,000. What do you need me to do?’ ” Wilson said.
+     
+            The pharmacy the children’s hospitals had invested in was called STAQ Pharma, based in Denver.
+     
+            Mark Spiecker, president of STAQ, said it costs about $150,000 per drug for it to source the active ingredients, formulate the product and then test it to make sure it’s stable for at least 180 days.
+     
+            But the children’s hospitals were trying to find a way to shorten the time needed to produce the medications and get the process going at the earliest sign of trouble.
+     
+            It didn’t make commercial sense for STAQ to shoulder those costs by itself. It might spend the money and go through months of testing, only to learn that the product was no longer in shortage.
+     
+            Taking on those costs was exactly the kind of thing Bray’s group wanted to do, however.
+     
+            Spiecker told Bray that he would get ready to produce both sodium chloride and potassium chloride for injection if she would give him a $100,000 grant to offset some of his costs.
+     
+            Bray called a meeting of her board of directors – friends and businesswomen whom she had convinced to help her start her nonprofit – to justify one big bet that these medications would be needed.
+     
+Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+     
+            Bray said she ultimately made the decision based on three things: The medicines were flagged as highly vulnerable on the Medicine Supply Map, both drugs had a history of shortages, and a major supplier had warned the FDA of coming supply disruptions.
+     
+            But it was impossible to know whether the drugs STAQ made would eventually be needed.
+     
+            “No one else can really take that risk with it not being 100%,” Bray said. “But it was good enough for me because I know what it feels like to have one patient, my patient, waiting and unsure and scared and vulnerable. It was enough for me.”
+     
+            Bray gave Spiecker the grant on the condition that medications be available to any patient anywhere who needed them. He agreed.
+     
+            They didn’t want to be right, but they wanted to be ready.
+     
+            Bray signed a contract with STAQ in February.
+     
+            By the end of April, potassium chloride had gone into shortage. Concentrated sodium chloride would soon follow.
+     
+STAQ was ready to take orders immediately and began to ship the replacements days later.
+     
+            Bray flew to Colorado to see some of the first products coming off the line.
+     
+            “There was such pride. I couldn’t believe it. I was like, ‘Wow! This worked,’ ” she said.
+     
+            When she started Angels for Change, Bray said, she felt like it would be worth it if they could help just one other person.
+     
+            According to the FDA’s database, sodium and potassium chloride for injections are still in shortage. To date, STAQ has shipped more than 500,000 doses of the minerals Bray helped create. Those doses have gone to at least 50 children’s hospitals across the country, Wilson said.
+     
+            Bray has now set her sights on saving 10 more essential medicines that are at risk of going into shortage. These include other vulnerable components of the IV nutrition cocktail, including concentrated calcium salts, a sugar called dextrose, and lipids, as well as several diuretics, medicines that help the body get rid of excess fluid.
+     
+Related article
+Meds for kids with pain and fever are in high demand. Here's what to do if you can't find them
+ 
+            Bray has held a second gala, and she’s pitched her Project Protect – an effort to reduce patient-level impact of drug shortages – to members of Congress.
+     
+            Ultimately, she believes that this model of nonprofits partnering with industry can be successful, and she wants to expand her work to shore up the production of many more medicines that go into shortage regularly but often quietly.
+     
+            It’s only when so many medications are gone for the same thing at the same time – such as drugs to treat respiratory illnesses – that people get a glimpse of how fragile the drug supply chain can be.
+     
+            Alternatively, Wilson said, she’d like to see pharmaceutical manufacturers doing more of this, too: having a backup plan in place in case their products go into shortage.
+     
+            For her part, Bray has gotten so busy that when she turned in her grades for her business students this month, she decided to stop teaching so she could focus full-time on running the nonprofit.
+     
+            “I do think we’ve proven the concept really well,” said Bray.
+     
+            Abby is 13 now. She is once again competing in swim meets and curling up with a book any chance she can get.
+     
+            She has been free of cancer, and her chemo treatments, for almost a year and a half.
+     
+            “She is doing great,” said Bray, her voice swollen with emotion. She knows all too well that might not have been the answer to the question.
+     
+            For people who are living through drug shortages now, Bray offers solidarity.
+     
+            “Call us,” she said. “There is power in patients working together to solve this crisis.”
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

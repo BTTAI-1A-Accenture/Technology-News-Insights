@@ -1,0 +1,50 @@
+CHICAGO--(BUSINESS WIRE)--Trustwave, a leading cybersecurity and managed security services provider, today released comprehensive research shedding light on the distinctive cybersecurity risks facing financial services organizations. The report, “2023 Financial Services Sector Threat Landscape: Trustwave Threat Intelligence Briefing and Mitigation Strategies,” explores the specific threats and risks the financial services industry faces, along with practical insights and mitigations to strengthen defenses.
+
+  
+In its new research, Trustwave SpiderLabs has documented the attack flow utilized by threat groups, exposing their tactics, techniques, and procedures. From email-borne malicious attachments to abuse of valid accounts, these persistent threats pose significant risks to the financial services sector.
+
+ 
+Financial services organizations are attractive targets because of the elevated potential for monetary gain. Serving as repositories of wealth, this sector is rich with lucrative opportunities for cybercriminals, who exploit them for financial gains through extortion, theft, and fraud. In addition to the money itself, the financial services sector stores large volumes of sensitive data, including customer information, financial records, and intellectual property.
+
+ 
+“In a highly competitive B2B and B2C financial services industry, cybersecurity’s role earning and sustaining consumer trust is paramount as a competitive differentiator,” said Trustwave CISO Kory Daniels. “For financial institutions, it isn’t just about protecting data, it's about safeguarding the financial well-being and peace of mind of customers, partners, and investors. Our latest threat briefing is a valuable resource for business leaders and cyber defenders within the financial services sector, providing a comprehensive view of the threats observed by our SpiderLabs team, along with specific mitigation strategies to help organizations protect extremely sensitive data and assets.”
+
+ 
+The Trustwave SpiderLabs report analyzes threat groups and their methods throughout the attack cycle, from initial foothold through to exfiltration. A few key findings from the report include:
+
+ 
+Trustwave SpiderLabs’ research serves as a resource for financial services organizations to understand and combat the multitude of attack groups, malware variants, and techniques deployed against them. The report explores:
+
+ 
+Cybersecurity Challenges Unique to the Financial Services Industry
+ 
+Prevalent Threat Actors and Threat Tactics Operating Across Financial Services
+ 
+Threat Actors:
+
+ 
+Threat Tactics
+
+ 
+To access the full Trustwave SpiderLabs threat report, "2023 Financial Services Sector Threat Landscape: Trustwave Threat Intelligence Briefing and Mitigation Strategies," please click here.
+
+ 
+About Trustwave
+ 
+Trustwave is a globally recognized cybersecurity leader that reduces cyber risk and fortifies organizations against disruptive and damaging cyber threats.
+
+ 
+Trustwave’s comprehensive offensive and defensive cybersecurity portfolio detects what others cannot, responds with greater speed and effectiveness, optimizes its client’s cyber investment, and improves security resilience. Trusted by thousands of organizations worldwide, Trustwave leverages its world-class team of security consultants, threat hunters, and researchers, and its market-leading security operations platform to decrease the likelihood of attacks and minimize potential impact.
+
+ 
+Trustwave is an analyst-recognized leader in managed detection and response (MDR), managed security services (MSS), cyber advisory, penetration testing, database security, and email security. The elite Trustwave SpiderLabs team provides industry-defining threat research, intelligence, and threat hunting, all of which are infused into Trustwave services and products to fortify cyber resilience in the age of inevitable cyber-attacks.
+
+ 
+For more information about Trustwave, please visit: https://www.trustwave.com/en-us/.
+
+ 
+Devon Swanson
+devon.swanson@trustwave.com
+ 
+Devon Swanson
+devon.swanson@trustwave.com

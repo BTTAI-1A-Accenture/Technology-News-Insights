@@ -1,0 +1,41 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+Holly Cummins at Devoxx UK: How Would the Business Benefit from Your Greener Java Application?
+ May 13, 2023
+								
+								
+								
+									
+									4
+									min read
+								
+							 by 
+
+
+Olimpiu Pop
+
+ At her Devoxx UK presentation, Holly Cummins, senior software principal engineer at Red Hat, presented approaches that could make Java applications more cost and energy efficient. Showcasing the work done by her team with Quarkus, she stated that choosing wisely between the JVM or native options in your application can save up to two times the costs and carbon. Cummins' presentation started with statistics that showed the IT industry is creating more carbon emissions than aviation. The consumption needed only for running the data centres is similar to the energy required by the country South Korea. By adding network traffic to the equation, the consumption tops that of the UK or Brazil.                 She suggested that instead of taking the "desperation path" and renouncing taking action, we can all be "solutionists" and act to decrease the emissions. More than being "the right thing to do", the business will benefit from cost reductions and improved Environmental, Social and Governance scores. Cummins pointed out a proper place to start is the green software foundation’s principles that build on three pillars: carbon awareness, hardware and electricity efficiency. Carbon awareness: where and when you consume electricity It all boils down to the source of the electricity; currently, the dirtiest energy source is coal. Burning it results in big quantities of CO2 emissions. Different parts of the world use different means to generate electricity, depending on the specific area. Choosing a cloud provider that is transparent about where their data centres are located makes it easier to decide. Also, the time of the day matters, as renewable energy sources are intermittent. She pointed out that we can schedule heavy batch jobs at appropriate times when the energy is green. More often than not, this is also cheaper.  Cummins provided the example of "Virginia, US". It is close to where the Atlantic Ocean internet cable meets land, meaning that multiple data centres are stacked nearby. However, the abundance of coal in the area makes it the obvious choice for electricity generation means. Hardware efficiency: elasticity of the infrastructure proportional to the utilisation  A survey from 2017 states that 16000 servers do no useful work, and one from 2014 states that 29% per cent of the servers are not active 5% of the time. Cummins introduced the concept of "LightSwitchOps" - turning off your infrastructure when the applications are not running.  Yes, turning applications off is scary To do this, applications require fast startup times, resiliency and idempotency.  Electricity efficiency: the stack that we use and how efficient the algorithms are Starting from an academic paper that measured various programming languages' energy consumption over time, energy and memory, she states that Java is not that bad, being in the fifth position after C, Rust, C++ and Ada. Java is ranked better than Go, which led to the statement that "compiled is not necessarily better". Further zooming in on Java, she quoted another academic paper focused on running the JVM: Our results show that some JVM platforms can exhibit up to 100% more energy consumption Using the popular software development adage "measure, don’t guess," she presents the work done by the team from Red Hat working on Quarkus to be more aware of the framework's consumption.  Digression: measuring carbon is hard After listing the options taken into consideration, like wall power measurement or RAPLs, she refers back to the paper referred to earlier, making the observation that: Energy consumption (sort of, mostly) is proportional to execution time Cummins stated further that reducing your infrastructure spend will "(probably) reduce your carbon footprint". Given the presumably smaller computational requirements of Quarkus, she points to their tests conclusions:  In the last part of her presentation, Cummins provided a refresher on the use cases for using JVM or native Java for your application. If your application is considered high workload (high throughput), has long-lived processes (that can be warmed up), or has a stable workload with very little elasticity in underlying orchestration, it is better suited for JVM. Conversely, the native option is suitable for low workload, resource-constrained/old hardware, and high re-deploy (applications never get warmed up before being spun down) or serverless.  Cummins concluded with concrete actions that can be taken to contribute to decreasing the carbon footprint. She encouraged attendees to use their buying power to encourage businesses to make greener choices for hosting solutions and consumer software. Ensure that you "switch off" infrastructure that you are not using. Pick energy-efficient languages and frameworks.  Besides having a smaller impact on the planet, these actions will also ensure efficient spending: in 2021 alone, "zombie servers" wasted $ 26.6 B. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

@@ -1,0 +1,47 @@
+Not for the first time, the industrial cyber security firm Dragos has contradicted popular conclusions about malware, saying its research into the ICS malware, dubbed COSMICENERGY by the Google-owned Mandiant, has found that it is not an immediate threat to operational technology. Mandiant issued a post about COSMICENERGY on 25 May, claiming it had been uploaded to a public malware scanning utility in December 2021 by a submitter in Russia. "The malware is designed to cause electric power disruption by interacting with IEC 60870-5-104 (IEC-104) devices, such as remote terminal units (RTUs), that are commonly leveraged in electric transmission and distribution operations in Europe, the Middle East, and Asia," the post, authored jointly by researchers Ken Proska, Daniel Kapellmann Zafra, Keith Lunden, Corey Hildebrandt, Rushikesh Nandedkar and Nathan Brubaker, said. But Dragos, a firm devoted solely to ICS, said in a brief authored by Reid Wightman, Carolyn Ahlers, Sam Hanson, Kate Vajda and Casey Brooks and released on Monday, that it had "independently analysed the malware and, counter to media headlines claiming power disruption or grid crippling abilities, concluded that COSMICENERGY is not an immediate threat to operational technology".  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Mandiant's views were summed up this way: "What makes COSMICENERGY unique is that based on our analysis, a contractor may have developed it as a red teaming tool for simulated power disruption exercises hosted by Rostelecom-Solar, a Russian cyber security company. "Analysis into the malware and its functionality reveals that its capabilities are comparable to those employed in previous incidents and malware, such as INDUSTROYER and INDUSTROYER.V2, which were both malware variants deployed in the past to impact electricity transmission and distribution via IEC-104." But Dragos, which was founded by ex-NSA operative Rob Lee, contradicted these findings in its post on Monday, listing its key discoveries about COSMICENERGY as under: In some parts of its post, Mandiant appeared to contradict itself, saying at one point: "Although we have not identified sufficient evidence to determine the origin or purpose of COSMICENERGY, we believe that the malware was possibly developed by either Rostelecom-Solar or an associated party to recreate real attack scenarios against energy grid assets." [emphasis mine] And again, "However, given the lack of conclusive evidence, we consider it also possible that a different actor — either with or without permission — reused code associated with the cyber range to develop this malware." [emphasis mine] While both firms said COSMICENERGY was composed of two elements, PIEHOP and LIGHTWORK, Dragos differed in saying, "LIGHTWORK is not a variant of the CRASHOVERRIDE/Industroyer2 family of malware or any other ICS malware discovered to date. And the company's researchers added: "LIGHTWORK was compiled with symbol information which means Dragos recovered all function and argument names in the binary and produced an easy-to-read decompilation. "The majority of the code is from a known 60870 open-source library, lib60870-C, maintained by MZ Automation GmbH, not a custom IEC104 library like the one in CRASHOVERRIDE and Industroyer2." Mandiant's post appeared to be keen to associate COSMICENERGY with Russia, while Dragos, which has a policy of not associating threats with any country, kept to its own code. Back in 2020, the Israeli security firm Claroty claimed to have fixed a flaw in the Siemens Digsi 4 protocol, saying that the protocol was the same as that exploited by the malware known as Industroyer in 2016. Industroyer is claimed to have been used to attack the power grid in Ukraine on 17 December 2016. There is, however, no unanimity in this claim; as iTWire reported in 2017, researchers from Slovakian security firm ESET were cautious about concluding that Industroyer was really used in the Ukraine attack. All that ESET committed to at the time was that their researchers had found malware — it was they who coined the name Industroyer — which could have done exactly what happened to the power grid in Ukraine. The capital, Kiev, was without power for an hour. A previous attack in 2015, also in December, knocked out the power in about 250,000 houses in various regions of Ukraine.   
+DOWNLOAD WHITE PAPER! 
+
+PROMOTE YOUR WEBINAR ON ITWIRE
+It's all about Webinars.
+Marketing budgets are now focused on Webinars combined with Lead Generation.
+If you wish to promote a Webinar we recommend at least a 3 to 4 week campaign prior to your event.
+The iTWire campaign will include extensive adverts on our News Site itwire.com and prominent Newsletter promotion https://itwire.com/itwire-update.html and Promotional News & Editorial. Plus a video interview of the key speaker on iTWire TV https://www.youtube.com/c/iTWireTV/videos which will be used in Promotional Posts on the iTWire Home Page.
+Now we are coming out of Lockdown iTWire will be focussed to assisting with your webinars and campaigns and assistance via part payments and extended terms, a Webinar Business Booster Pack and other supportive programs. We can also create your adverts and written content plus coordinate your video interview.
+We look forward to discussing your campaign goals with you. Please click the button below.
+MORE INFO HERE!
+ 
+
+ 
+MORE INFO HERE! 
+
+ Sam Varghese has been writing for iTWire since 2006, a year after the site came into existence. For nearly a decade thereafter, he wrote mostly about free and open source software, based on his own use of this genre of software. Since May 2016, he has been writing across many areas of technology. He has been a journalist for nearly 40 years in India (Indian Express and Deccan Herald), the UAE (Khaleej Times) and Australia (Daily Commercial News (now defunct) and The Age). His personal blog is titled Irregular Expression. Sam Varghese has been writing for iTWire since 2006, a year after the site came into existence. For nearly a decade thereafter, he wrote mostly about free and open source software, based on his own use of this genre of software. Since May 2016, he has been writing across many areas of technology. He has been a journalist for nearly 40 years in India (Indian Express and Deccan Herald), the UAE (Khaleej Times) and Australia (Daily Commercial News (now defunct) and The Age). His personal blog is titled Irregular Expression. 
+
+ 
+                
+                                Everyone got a bit of what they wanted. No one got everything, that sounds like the basis for a good[…]                             
+                
+                                Is this article ironic?                             
+                
+                                The safest way not to get snared is to avoid anything financial on your devices plus do not participate in[…]                             
+                
+                                Who do we trust here? A professional cloud provider with many customers or a monopolistic ticketing agency that can never[…]                             
+                
+                                I knew this scam was full of shit because it didn't present any actual evidence of the supposed hacker having[…]                              
+

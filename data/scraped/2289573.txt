@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kadn.com/news/national/jury-deliberating-case-of-ex-officer-seen-pepper-spraying-protesters-on-i-676-in-2020/article_105ab782-c6b9-572a-8105-ef66a372a8aa.html

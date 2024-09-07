@@ -1,0 +1,354 @@
+
+					Covering the business and politics of space				 WASHINGTON — A Rocket Lab Electron launched a pair of NASA cubesats designed to monitor the development of tropical storms, 11 months after the first satellites in the constellation were lost when a different rocket failed.
+
+
+
+
+
+The Electron lifted off from the company’s Launch Complex 1 in New Zealand at 9 p.m. Eastern May 7. The rocket’s kick stage deployed the two Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) cubesats about 35 minutes after liftoff, although that was not confirmed until a ground station pass 20 minutes later.
+
+
+
+
+
+The Electron placed the 3U cubesats into a 550-kilometer orbit at an inclination of 32 degrees. The kick stage, normally used on Electron launches to circularize the orbit, performed the inclination change needed for the payloads.
+
+
+
+
+
+A second Electron will launch two more TROPICS cubesats about two weeks later. The four-satellite system will be able to monitor tropical storm development using a microwave radiometer on each satellite that can collect temperature and water vapor profiles. With four satellites, TROPICS will be able to get hourly updates that can aid in monitoring the formation of hurricanes and other tropical weather systems.
+
+
+
+
+
+“We’ll be getting data we’ve never had before, which is this ability to look in the microwave wavelength region in the storms with hourly cadence to look at the storm as it forms and intensifies,” said William Blackwell, TROPICS principal investigator at the MIT Lincoln Laboratory, during an April 28 media call. “We hope to improve our understanding of the basic processes that drive the storms and ultimately improve our ability to forecast the track and intensity.”
+
+
+
+
+
+TROPICS was originally a six-satellite constellation. The first two satellites were launched on an Astra Rocket 3.3 in June 2022 as part of a three-launch contract valued at nearly $8 million, but failed to reach orbit when the rocket’s upper stage ran out of kerosene fuel and shut down prematurely.
+
+
+Astra subsequently retired the Rocket 3.3, forcing NASA to find a new way to launch the remaining four satellites. The agency selected Rocket Lab in November 2022 to launch them on two dedicated Electron launches from the company’s new Launch Complex 2 on Wallops Island, Virginia. NASA made the award under its Venture-class Acquisition of Dedicated and Rideshare (VADR) contract, issuing Rocket Lab a task order valued at $12.99 million.
+
+
+
+
+
+Rocket Lab said April 10 that it would move the two TROPICS launches from Virginia to New Zealand. “The timeline in which we could get the spacecraft launched out of Virginia didn’t correlate with the timeline that was required to get these spacecraft in orbit for the storm season,” Peter Beck, chief executive of Rocket Lab, said in the media call. He didn’t elaborate on the issues that kept the launches from taking place on schedule from Virginia.
+
+
+
+
+
+NASA officials said they were fine with the change in launch sites. “We’re largely launch site agnostic,” said Bradley Smith, director of launch services in NASA’s Space Operations Mission Directorate. “As long as the launch provider can meet the mission requirements, it’s their choice where they want to go.”
+
+
+
+
+
+Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  The Electron lifted off from the company’s Launch Complex 1 in New Zealand at 9 p.m. Eastern May 7. The rocket’s kick stage deployed the two Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) cubesats about 35 minutes after liftoff, although that was not confirmed until a ground station pass 20 minutes later.
+
+
+
+
+
+The Electron placed the 3U cubesats into a 550-kilometer orbit at an inclination of 32 degrees. The kick stage, normally used on Electron launches to circularize the orbit, performed the inclination change needed for the payloads.
+
+
+
+
+
+A second Electron will launch two more TROPICS cubesats about two weeks later. The four-satellite system will be able to monitor tropical storm development using a microwave radiometer on each satellite that can collect temperature and water vapor profiles. With four satellites, TROPICS will be able to get hourly updates that can aid in monitoring the formation of hurricanes and other tropical weather systems.
+
+
+
+
+
+“We’ll be getting data we’ve never had before, which is this ability to look in the microwave wavelength region in the storms with hourly cadence to look at the storm as it forms and intensifies,” said William Blackwell, TROPICS principal investigator at the MIT Lincoln Laboratory, during an April 28 media call. “We hope to improve our understanding of the basic processes that drive the storms and ultimately improve our ability to forecast the track and intensity.”
+
+
+
+
+
+TROPICS was originally a six-satellite constellation. The first two satellites were launched on an Astra Rocket 3.3 in June 2022 as part of a three-launch contract valued at nearly $8 million, but failed to reach orbit when the rocket’s upper stage ran out of kerosene fuel and shut down prematurely.
+
+
+Astra subsequently retired the Rocket 3.3, forcing NASA to find a new way to launch the remaining four satellites. The agency selected Rocket Lab in November 2022 to launch them on two dedicated Electron launches from the company’s new Launch Complex 2 on Wallops Island, Virginia. NASA made the award under its Venture-class Acquisition of Dedicated and Rideshare (VADR) contract, issuing Rocket Lab a task order valued at $12.99 million.
+
+
+
+
+
+Rocket Lab said April 10 that it would move the two TROPICS launches from Virginia to New Zealand. “The timeline in which we could get the spacecraft launched out of Virginia didn’t correlate with the timeline that was required to get these spacecraft in orbit for the storm season,” Peter Beck, chief executive of Rocket Lab, said in the media call. He didn’t elaborate on the issues that kept the launches from taking place on schedule from Virginia.
+
+
+
+
+
+NASA officials said they were fine with the change in launch sites. “We’re largely launch site agnostic,” said Bradley Smith, director of launch services in NASA’s Space Operations Mission Directorate. “As long as the launch provider can meet the mission requirements, it’s their choice where they want to go.”
+
+
+
+
+
+Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  The Electron placed the 3U cubesats into a 550-kilometer orbit at an inclination of 32 degrees. The kick stage, normally used on Electron launches to circularize the orbit, performed the inclination change needed for the payloads.
+
+
+
+
+
+A second Electron will launch two more TROPICS cubesats about two weeks later. The four-satellite system will be able to monitor tropical storm development using a microwave radiometer on each satellite that can collect temperature and water vapor profiles. With four satellites, TROPICS will be able to get hourly updates that can aid in monitoring the formation of hurricanes and other tropical weather systems.
+
+
+
+
+
+“We’ll be getting data we’ve never had before, which is this ability to look in the microwave wavelength region in the storms with hourly cadence to look at the storm as it forms and intensifies,” said William Blackwell, TROPICS principal investigator at the MIT Lincoln Laboratory, during an April 28 media call. “We hope to improve our understanding of the basic processes that drive the storms and ultimately improve our ability to forecast the track and intensity.”
+
+
+
+
+
+TROPICS was originally a six-satellite constellation. The first two satellites were launched on an Astra Rocket 3.3 in June 2022 as part of a three-launch contract valued at nearly $8 million, but failed to reach orbit when the rocket’s upper stage ran out of kerosene fuel and shut down prematurely.
+
+
+Astra subsequently retired the Rocket 3.3, forcing NASA to find a new way to launch the remaining four satellites. The agency selected Rocket Lab in November 2022 to launch them on two dedicated Electron launches from the company’s new Launch Complex 2 on Wallops Island, Virginia. NASA made the award under its Venture-class Acquisition of Dedicated and Rideshare (VADR) contract, issuing Rocket Lab a task order valued at $12.99 million.
+
+
+
+
+
+Rocket Lab said April 10 that it would move the two TROPICS launches from Virginia to New Zealand. “The timeline in which we could get the spacecraft launched out of Virginia didn’t correlate with the timeline that was required to get these spacecraft in orbit for the storm season,” Peter Beck, chief executive of Rocket Lab, said in the media call. He didn’t elaborate on the issues that kept the launches from taking place on schedule from Virginia.
+
+
+
+
+
+NASA officials said they were fine with the change in launch sites. “We’re largely launch site agnostic,” said Bradley Smith, director of launch services in NASA’s Space Operations Mission Directorate. “As long as the launch provider can meet the mission requirements, it’s their choice where they want to go.”
+
+
+
+
+
+Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  A second Electron will launch two more TROPICS cubesats about two weeks later. The four-satellite system will be able to monitor tropical storm development using a microwave radiometer on each satellite that can collect temperature and water vapor profiles. With four satellites, TROPICS will be able to get hourly updates that can aid in monitoring the formation of hurricanes and other tropical weather systems.
+
+
+
+
+
+“We’ll be getting data we’ve never had before, which is this ability to look in the microwave wavelength region in the storms with hourly cadence to look at the storm as it forms and intensifies,” said William Blackwell, TROPICS principal investigator at the MIT Lincoln Laboratory, during an April 28 media call. “We hope to improve our understanding of the basic processes that drive the storms and ultimately improve our ability to forecast the track and intensity.”
+
+
+
+
+
+TROPICS was originally a six-satellite constellation. The first two satellites were launched on an Astra Rocket 3.3 in June 2022 as part of a three-launch contract valued at nearly $8 million, but failed to reach orbit when the rocket’s upper stage ran out of kerosene fuel and shut down prematurely.
+
+
+Astra subsequently retired the Rocket 3.3, forcing NASA to find a new way to launch the remaining four satellites. The agency selected Rocket Lab in November 2022 to launch them on two dedicated Electron launches from the company’s new Launch Complex 2 on Wallops Island, Virginia. NASA made the award under its Venture-class Acquisition of Dedicated and Rideshare (VADR) contract, issuing Rocket Lab a task order valued at $12.99 million.
+
+
+
+
+
+Rocket Lab said April 10 that it would move the two TROPICS launches from Virginia to New Zealand. “The timeline in which we could get the spacecraft launched out of Virginia didn’t correlate with the timeline that was required to get these spacecraft in orbit for the storm season,” Peter Beck, chief executive of Rocket Lab, said in the media call. He didn’t elaborate on the issues that kept the launches from taking place on schedule from Virginia.
+
+
+
+
+
+NASA officials said they were fine with the change in launch sites. “We’re largely launch site agnostic,” said Bradley Smith, director of launch services in NASA’s Space Operations Mission Directorate. “As long as the launch provider can meet the mission requirements, it’s their choice where they want to go.”
+
+
+
+
+
+Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  “We’ll be getting data we’ve never had before, which is this ability to look in the microwave wavelength region in the storms with hourly cadence to look at the storm as it forms and intensifies,” said William Blackwell, TROPICS principal investigator at the MIT Lincoln Laboratory, during an April 28 media call. “We hope to improve our understanding of the basic processes that drive the storms and ultimately improve our ability to forecast the track and intensity.”
+
+
+
+
+
+TROPICS was originally a six-satellite constellation. The first two satellites were launched on an Astra Rocket 3.3 in June 2022 as part of a three-launch contract valued at nearly $8 million, but failed to reach orbit when the rocket’s upper stage ran out of kerosene fuel and shut down prematurely.
+
+
+Astra subsequently retired the Rocket 3.3, forcing NASA to find a new way to launch the remaining four satellites. The agency selected Rocket Lab in November 2022 to launch them on two dedicated Electron launches from the company’s new Launch Complex 2 on Wallops Island, Virginia. NASA made the award under its Venture-class Acquisition of Dedicated and Rideshare (VADR) contract, issuing Rocket Lab a task order valued at $12.99 million.
+
+
+
+
+
+Rocket Lab said April 10 that it would move the two TROPICS launches from Virginia to New Zealand. “The timeline in which we could get the spacecraft launched out of Virginia didn’t correlate with the timeline that was required to get these spacecraft in orbit for the storm season,” Peter Beck, chief executive of Rocket Lab, said in the media call. He didn’t elaborate on the issues that kept the launches from taking place on schedule from Virginia.
+
+
+
+
+
+NASA officials said they were fine with the change in launch sites. “We’re largely launch site agnostic,” said Bradley Smith, director of launch services in NASA’s Space Operations Mission Directorate. “As long as the launch provider can meet the mission requirements, it’s their choice where they want to go.”
+
+
+
+
+
+Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  TROPICS was originally a six-satellite constellation. The first two satellites were launched on an Astra Rocket 3.3 in June 2022 as part of a three-launch contract valued at nearly $8 million, but failed to reach orbit when the rocket’s upper stage ran out of kerosene fuel and shut down prematurely.
+
+ Astra subsequently retired the Rocket 3.3, forcing NASA to find a new way to launch the remaining four satellites. The agency selected Rocket Lab in November 2022 to launch them on two dedicated Electron launches from the company’s new Launch Complex 2 on Wallops Island, Virginia. NASA made the award under its Venture-class Acquisition of Dedicated and Rideshare (VADR) contract, issuing Rocket Lab a task order valued at $12.99 million.
+
+
+
+
+
+Rocket Lab said April 10 that it would move the two TROPICS launches from Virginia to New Zealand. “The timeline in which we could get the spacecraft launched out of Virginia didn’t correlate with the timeline that was required to get these spacecraft in orbit for the storm season,” Peter Beck, chief executive of Rocket Lab, said in the media call. He didn’t elaborate on the issues that kept the launches from taking place on schedule from Virginia.
+
+
+
+
+
+NASA officials said they were fine with the change in launch sites. “We’re largely launch site agnostic,” said Bradley Smith, director of launch services in NASA’s Space Operations Mission Directorate. “As long as the launch provider can meet the mission requirements, it’s their choice where they want to go.”
+
+
+
+
+
+Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  Rocket Lab said April 10 that it would move the two TROPICS launches from Virginia to New Zealand. “The timeline in which we could get the spacecraft launched out of Virginia didn’t correlate with the timeline that was required to get these spacecraft in orbit for the storm season,” Peter Beck, chief executive of Rocket Lab, said in the media call. He didn’t elaborate on the issues that kept the launches from taking place on schedule from Virginia.
+
+
+
+
+
+NASA officials said they were fine with the change in launch sites. “We’re largely launch site agnostic,” said Bradley Smith, director of launch services in NASA’s Space Operations Mission Directorate. “As long as the launch provider can meet the mission requirements, it’s their choice where they want to go.”
+
+
+
+
+
+Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  NASA officials said they were fine with the change in launch sites. “We’re largely launch site agnostic,” said Bradley Smith, director of launch services in NASA’s Space Operations Mission Directorate. “As long as the launch provider can meet the mission requirements, it’s their choice where they want to go.”
+
+
+
+
+
+Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  Beck said the change in launch sites came at no additional cost to NASA. Ben Kim, program executive in NASA’s Earth science division, said there was some extra logistics and paperwork to get the TROPICS satellites to New Zealand, but that they were minor. The TROPICS mission manager at the launch site “is probably having the worst time because I keep calling and messaging him in the middle of the night, forgetting about the time difference.”
+
+
+
+
+
+Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  Provided the second launch is successful, NASA expects to have the four-satellite system in operation by the start of the Atlantic hurricane season this summer. Having four instead of the originally planned six “does make a difference,” Blackwell said, with revisit times 10 to 15 minutes longer than if there were six. “We’re still better than our requirement of 60 minutes with only four satellites.”
+
+
+
+
+Related
+  
+							Jeff Foust writes about space policy, commercial space, and related topics for SpaceNews.
+
+He earned a Ph.D. in planetary sciences from the Massachusetts Institute of Technology and a bachelor’s degree with honors in geophysics and planetary science...							
+							More by Jeff Foust							
+ all dispatches >> all events >> Get top stories, military space news and more delivered to your inbox.

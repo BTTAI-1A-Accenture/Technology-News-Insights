@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/getnews-2022-11-21-parkopedia-publishes-the-2022-global-parking-index (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da96a5fd30>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

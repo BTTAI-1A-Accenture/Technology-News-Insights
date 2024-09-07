@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://omaha.com/news/state-and-regional/nebraskas-second-licensed-casino-to-open-next-week-in-grand-island/article_e130bb16-bdb7-5b84-adf4-3eee10a9224f.html

@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-sell-240-mln-shares-spin-off-firm-haleon-2023-05-11/

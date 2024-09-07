@@ -1,0 +1,53 @@
+NEEDHAM, Mass.--(BUSINESS WIRE)--Worldwide spending on information and communications technology (ICT) reached nearly $4.7 trillion in 2022 and, after a slightly slower 2023, is forecast to grow steadily through 2027 with a 5.7% compound annual growth rate (CAGR), according to the latest update to the International Data Corporation (IDC) Worldwide ICT Spending Guide: Enterprise and SMB by Industry.
+
+  
+Despite a slowdown across various segments of this industry in the past year and recent layoffs, Software and Information Services will be the fastest growing industry over the 2023-2027 forecast period, generating an 11.4% CAGR as technology companies have engaged in some course correction initiatives after rapid expansion in investments and hiring seen in previous years. Capital Markets will be the second fastest growing industry with a CAGR of 10.2% followed by the Life Sciences industry with an 8.8% CAGR, partially driven by growth in China.
+
+ 
+The three industries (excluding Consumer) with the largest ICT investments in 2022 were Banking, Federal/Central Government, and Telecommunications. Together, these industries generated $715 billion in ICT spending worldwide. Software and Information Services and Retail were the next largest industries in terms of ICT spending in 2022, giving the top 5 industries a combined share of overall spending of nearly 35%.
+
+ 
+A graphic illustrating worldwide share of ICT spending in 2022 and five-year CAGR by industry is available by viewing this press release on IDC.com.
+
+ 
+From a technology perspective, growth will be driven by Software with a 12.0% CAGR, driven by investments in Enterprise Resource Management Applications, Content Workflow and Management Applications, and Security Software. The fastest growing technologies within the Software category include Artificial Intelligence Applications (36.3% CAGR) and Integration and Orchestration Middleware (22.1% CAGR). Hardware and Telecom Services will be the two largest areas of ICT spending, but also the slowest growing with CAGRs of 4.2% and 2.6% respectively. Business Services and IT Services will see growth near the overall market average.
+
+ 
+The United States will be the largest geographic market in terms of ICT spending, forecast to reach $2.38 trillion in 2027. Western Europe will be the second largest market in 2027 with investments totaling $1.19 trillion, followed by China at $721 billion. Latin America will see the fastest spending growth with a five-year CAGR of 8%, followed by USA and China.
+
+ 
+This version of the Spending Guide utilizes IDC's new industry taxonomy, described in the recently published study, IDC's New Industry Framework, Definitions, and Transition Plan (IDC #US51064723). The taxonomy update brings deeper analysis capabilities to market through enhanced visibility into sectors, sub-sectors (sector detail level), and industries, increasing the total number of industries covered from 20 to 28. The expansion was developed in response to customer demand and created by researching existing industry taxonomies, including economic standards, client inquiries, technology vendor target industries, and competitive taxonomies.
+
+ 
+"The introduction of the new IDC Industry taxonomy marks a significant leap forward in our ability to support our clients' industry segmentation needs. With more modern categorization and granular, value chain-based segmentation, IDC data users are better equipped to identify, analyze, validate, and action questions and insights specific to the industries they serve," said Eileen Smith, program vice president, Data & Analytics at IDC. "Analysts and strategists can track trends across more industries, validating assumptions while understanding nuances of buyer behavior and whether these change in adjacent segments. Executives and their teams can better inform strategic decisions and justify tactical actions, such as acquisitions, partner selection, resource allocation, and territory and campaign planning at granular industry levels."
+
+ 
+A graphic illustrating IDC's new industry taxonomy is available by viewing this press release on IDC.com.
+
+ 
+The IDC Worldwide ICT Spending Guide: Enterprise and SMB by Industry quantifies ICT spending for around 120 technologies by 28 industries and five company sizes across nine regions and 53 countries. Unlike any other research in the industry, the comprehensive spending guide was designed to help IT decision makers to clearly understand the industry-specific scope and direction of ICT spending today and over the next five years.
+
+ 
+About IDC Spending Guides
+ 
+IDC's Spending Guides provide a granular view of key technology markets from a regional, vertical industry, use case, buyer, and technology perspective. The spending guides are delivered via pivot table format or custom query tool, allowing the user to easily extract meaningful information about each market by viewing data trends and relationships.
+
+ 
+For more information about IDC's Spending Guides, please contact Eileen Smith at esmith@idc.com.
+
+ 
+Click here to learn about IDC's full suite of data products and how you can leverage them to grow your business.
+
+ 
+About IDC
+ 
+International Data Corporation (IDC) is the premier global provider of market intelligence, advisory services, and events for the information technology, telecommunications, and consumer technology markets. With more than 1,300 analysts worldwide, IDC offers global, regional, and local expertise on technology, IT benchmarking and sourcing, and industry opportunities and trends in over 110 countries. IDC's analysis and insight helps IT professionals, business executives, and the investment community to make fact-based technology decisions and to achieve their key business objectives. Founded in 1964, IDC is a wholly owned subsidiary of International Data Group (IDG), the world's leading tech media, data, and marketing services company. To learn more about IDC, please visit www.idc.com. Follow IDC on Twitter at @IDC and LinkedIn. Subscribe to the IDC Blog for industry news and insights.
+
+ 
+Michael Shirer
+508-935-4200
+press@idc.com
+ Worldwide information and communications technology spending reached $4.7 trillion in 2022 and is forecast to grow through 2027, according to IDC. 
+Michael Shirer
+508-935-4200
+press@idc.com

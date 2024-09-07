@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.theadvocate.com/baton_rouge/news/close-to-4000-entergy-customers-without-power-in-ascension/article_9795f836-b301-11ed-b5cb-ff904c2e144b.html

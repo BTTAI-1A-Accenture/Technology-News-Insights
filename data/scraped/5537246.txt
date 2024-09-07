@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/newswire-2023-1-5-ecobot-expands-team-on-heels-of-best-startup-to-work-for-award (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da93ec51b0>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

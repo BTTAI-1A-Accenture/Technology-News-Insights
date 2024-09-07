@@ -1,0 +1,29 @@
+
+                    LIONEL BONAVENTURE/AFP via Getty Images
+                   Sign up for our newsletter  Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Frank Konkel
+ Generative artificial intelligence tools like overnight-hit ChatGPT are now available to Microsoft’s government customers. The company unveiled its new Azure OpenAI Service for federal agencies, state and local governments and their partners Wednesday, providing existing Azure Government public sector customers access to generative AI capabilities previously available only through its commercial cloud. Through the service, public sector customers will be able to “securely access” GPT-3, GPT-4 and Embeddings, as well as access advanced AI models and algorithms at scale through the Azure Government cloud environment. They’ll pay for the functionality consumption credits the same way they pay for other cloud-based Microsoft services. “For government customers, Microsoft has developed a new architecture that enables government agencies to securely access the large language models in the commercial environment from Azure Government, allowing those users to maintain the stringent security requirements necessary for government cloud operations,” Bill Chappell, chief technology officer for Strategic Missions and Technologies at Microsoft, said in a Wednesday blog post. Developers will also be able to access pre-trained GPT models “to build and deploy AI-enabled applications more quickly and with minimal effort,” Chappell added. Early uses of generative AI for public sector customers could include content generation and summarization, improving semantic search and simplifying code generation, though Chappell advised customers to provide the best “grounding data” possible for AI models to reduce error rates. “If your use case relies on up-to-date, reliable information and is not purely a creative scenario, we strongly recommend providing grounding data. In general, the closer you can get your source material to the final form of the answer you want, the less work the model needs to do, which means there is less opportunity for error,” he said. The Azure OpenAI Service debuts as AI has generated a fever pitch of hype, headlines and debates, with Congress and the White House engaged in the technology’s advancement. In May, President Joe Biden announced new AI guidance for agencies and invested $140 million toward the launch of seven new national AI research institutes. Simultaneously, the Biden administration is investigating how companies may use AI nefariously, including to surveil employees, and aims to build on its existing AI framework for future regulation.
+
+ 
+NEXT STORY:
+
+              General Dynamics' board adds former DSCA director
+            
+
+
+
+ 
+                  Insider Customer Service 
+                  800-353-9118 or 
+                  email washingtontechnology@omeda.com
+ Help us tailor content specifically for you:

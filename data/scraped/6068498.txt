@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://tulsaworld.com/ap/business/schools-pandemic-spending-boosted-tech-companies-did-it-help-us-students/article_1de1b0c0-4470-5df5-8dc9-6ff98a2a379d.html

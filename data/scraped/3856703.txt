@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.tehrantimes.com', port=443): Max retries exceeded with url: /news/481309/Anansi-the-Spider-comes-to-Iranian-bookstores (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7e2459d14430>, 'Connection to www.tehrantimes.com timed out. (connect timeout=5)'))

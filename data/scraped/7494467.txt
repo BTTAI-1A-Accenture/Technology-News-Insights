@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.elpasoinc.com/news/business_announcements/texas-tech-el-paso-receives-75-000-gift-from-the-molinacares-accord/article_77a84258-fb1e-11ed-92cb-d773af791552.html

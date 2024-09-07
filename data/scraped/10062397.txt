@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.abc12.com/news/local/12-in-your-town-the-barn-is-a-staple-restaurant-in-fenton/article_d6cc740c-6941-11ee-a066-9385a8fd087c.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.victoriaadvocate.com/zetachain-raises-27m-for-interoperable-layer-1-blockchain-that-connects-all-chains-including-bitcoin-cosmos/article_5c48ca6b-0667-5beb-80c3-a1159b7a7810.html

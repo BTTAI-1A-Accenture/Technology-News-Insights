@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/vic-ai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech/article_ea9d91f5-f34f-51f9-9799-7cd64fd80bd8.html

@@ -1,0 +1,105 @@
+
+Christian Yonkers
+
+Published 1 year ago.
+About a 5 minute read.
+Image: Quang Nguyen Vinh
+ Until recently, brands have had very little visibility into what’s happening at the farthest reaches of their supply chains. Immutable blockchain data has begun to play a central role in helping companies ensure compliance and earn trust on the global market. The world is moving toward more and more sustainability regulation. Impending
+mandates such as the EU Due Diligence
+rules
+and extended producer responsibility
+(EPR)
+requirements will require major overhauls in conventional environmental, social
+and governance (ESG) models. “In the past, third-party certifications have been helpful in helping companies
+prove sustainability,” Jordan
+Wilson, Director of
+Digital Marketing at BanQu, told Sustainable
+Brands®. “But as [new] regulations come out and the ESG bar is being
+raised, I think that [certification alone] will no longer cut it.” Metrics matter; and how they’re measured matters. That’s where blockchain comes
+in. A blockchain is a distributed digital database housing a list of records called
+blocks. Together, these blocks are linked together via cryptography — each block
+containing a link to the previous block, a timestamp, and transaction data. This
+chain of blocks becomes a shared, immutable ledger that
+permanently and transparently records assets. Join us to hear insights from brands including Applegate on marketing lessons from consumer response to sustainability claims on CPG packaging, at SB'24 San Diego — October 14-17. Blockchain has begun to play a central role in data visibility to ensure
+compliance on the global market. It’s audit-proof and tamper-proof; and once
+information goes in, it can’t be changed — allowing stakeholders to follow a
+product’s global footprint from source to shelf through the blockchain ledger. “Blockchain is a really great way to make sure that data is immutable,
+real-time, and from the source,” Wilson said. “It can be a lot easier to notice
+any issues or red flags right away [with blockchain].” Brands often have very little knowledge about what’s happening at the farthest
+reaches of their supply
+chains
+— the murky place where externalities
+live
+far from the shiny glow of corporate offices and sustainability reports. The
+ability to capture sourcing data up and down a supply chain vertical is
+game-changing information; and in the world of consumer demand and compliance
+policy, information is power: Knowing how much you’re using, where it’s
+happening and why allows you to make more strategic decisions regarding your
+suppliers. BanQu is a blockchain-powered traceability platform allowing brands to peek
+under the hood of their supply chains and integrate that information into ESG
+reporting. BanQu allows brands to track a product’s journey from farm to
+consumer — providing a coherent line down the rabbit hole of modern sourcing.
+What’s more, blockchain breaks down communication silos in an organization —
+creating a universal instrument and enabling alignment of ESG goals throughout
+an organization. BanQu uses blockchain in its purest form: Creating an immutable record. All
+entities involved in a transaction get to see the record on the blockchain —
+facilitating greater transparency than conventional reporting methods. And this
+remains the same wherever it moves throughout a supply chain. BanQu integrates multi-tiered checks and balances — from NGO audits to SMS
+messaging among farmers to the immutable blockchain itself. The blockchain
+connects all of these disparate parts of accountability together, forever. “It’s an easy win if you put in the effort to do it,” says BanQu Chief of Staff
+Katelyn Thacker. “And it’s a big
+win.” Nowadays, when people think blockchain, they often think cryptocurrency; and
+because of this, blockchain has a trust and messaging problem. Recent crashes
+in crypto
+value,
+its novelty and elitism, and the insane energy
+requirements
+associated with crypto mining haven’t helped the reputation of blockchain an
+iota. BanQu uses the power of blockchain to build immutable
+records,
+not virtual fortunes. Crypto mining requires obscene amounts of energy — about
+0.3
+percent
+of all global carbon emissions. But blockchain itself, particularly for those
+utilizing “proof of
+stake”
+or block
+lattice
+technology, doesn’t require energy-intensive
+mining.
+Paired with renewable energy power, blockchain platforms such as BanQu are at
+the forefront of bringing the sector into the net-neutral space. Cryptocurrency is essentially a first-world problem; but that doesnt mean
+blockchain has to be. Most blockchain platforms, Thacker says, are designed to serve the end user —
+not the stakeholders in between. BanQu did the ground game first, then built a
+blockchain around it able to capture source-level data in a way that brands and
+suppliers can actually use. “We didn't start as ‘let’s get on the crypto train and make the most of it,’”
+Thacker said. “We started with a platform that works for farmers, that makes it
+easy for companies to prove their sustainability goals and get sourcing
+insights.” BanQu was designed to be first and foremost easy to use in the lowest levels of
+the supply chain where negative externalities lurk and hide in the shadows. The
+platform is device-agnostic to meet the technological needs of any user, even in
+remote regions. The raw, unaggregated, real-time data provides immediate
+insights in supply chain motion to prove sustainability claims. Blockchain doesn’t catch all information on its own merits. Some data, such as
+carbon emissions, can’t be directly traced from the source; so, hard-to-record
+data at the lowest tiers of a supply chain must be extrapolated based on
+existing information or models from third parties. Thankfully, there are
+accurate groups and standards providing data points; and items such as energy
+bills can be plugged into BanQu to allow accurate estimates of emissions and
+other missing information. “In today’s age, sustainability is beginning to equal good business,” Wilson
+said. “Using technology for transparency and reporting is a great way to
+multi-solve various sustainability pain points and align internal stakeholders,
+so you can continue to grow your business and do good without sacrificing your
+profit.” Rome wasn’t built in a day; and complex supply chain webs can’t be mapped in a
+single leap. Like most things, starting small with achievable goals is key to
+incorporating blockchain in transparency efforts. Start with a single
+commodity,
+build a collection of small wins, and scale up — an incremental process Wilson
+calls “peeling the onion.” “People think this is insurmountable,” Thacker said. “But again, simplicity.
+Just make it simple.” Published Jan 23, 2023 7am EST / 4am PST / 12pm GMT / 1pm CET Christian is a writer, photographer, filmmaker, and outdoor junkie obsessed with the intersectionality between people and planet. He partners with brands and organizations with social and environmental impact at their core, assisting them in telling stories that change the world. 
+
+
+
+
+ 
+
+

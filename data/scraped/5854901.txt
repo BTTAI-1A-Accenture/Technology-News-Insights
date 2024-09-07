@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.eagletribune.com/region/par-technology-corporation-releases-conference-call-and-webcast-information-for-fiscal-2023-first-quarter-financial/article_b7b487b5-046f-54b5-9ee5-a824d1d832e7.html

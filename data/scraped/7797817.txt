@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='zalebs.com', port=443): Max retries exceeded with url: /drama/boitumelo-boity-thulo/boity-and-anton-breakup-rumours-are-just (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ab723dd9c90>: Failed to resolve 'zalebs.com' ([Errno -2] Name or service not known)"))

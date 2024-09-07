@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/job-cuts-in-tech-sector-spread-microsoft-lays-off-10-000/article_72a69cc6-e5e5-592b-99f5-80c0f82e11bd.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://qctimes.com/news/state-and-regional/govt-and-politics/hands-free-mobile-use-while-driving-picking-up-speed-among-iowa-lawmakers/article_4ac657af-695d-56ae-9201-5bc75883d924.html

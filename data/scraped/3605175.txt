@@ -1,0 +1,126 @@
+Note: Content on this page is provided as a quick reference for planning. All official course descriptions/degree requirements/admission standards/program learning outcomes/etc. are published on the Graduate College’s website Graduate Catalog. Also, the syllabi on this page are meant for informational purposes only. Instructors update their syllabi each semester. You will receive your syllabus on or before the first day of class. Please proceed to our EdTech Course Information and Syllabi on this page. For a list of required courses for your program, View EdTech Programs.
+For all EdTech courses by semester and degree, View EdTech Course Schedule. EDTECH 150 ›
+INTRODUCTION TO ESPORTS An introduction to Esports culture and history. Explores the top Esports games and skills with an analysis of roles, goals, and popularity trends for top Esports games. Emphasis on Esports culture and inclusion. EDTECH 202 ›
+TEACHING AND LEARNING IN A DIGITAL AGE Standards, skills and strategies for integrating technology tools in the classroom and digital environments to support student engagement, creativity, digital citizenship and digital age learning experiences.
+EDTECH 202 Syllabus EDTECH 250 ›
+ESPORTS CONTENT AND ANALYSIS Topics cover broad areas of Esports technology related to creating content for distribution, including podcasting, streaming, shoutcasting, video production, and Esports journalism. Using a research-based approach, students will explore competition within leagues and tournaments, which include coverage and market analyses. EDTECH 260 ›
+ESPORTS OPERATIONS AND MANAGEMENT An in-depth study of Esports in the collegiate realm. Topics covered include navigating school infrastructure, leadership and organization, players and productions, team creation, and the future of Esports. Understand the roles and responsibilities of positions within a college Esports organization. Understand how to communicate with other teams, organizers, and tournament hosts. EDTECH 301 ›
+INTRODUCTION TO INSTRUCTIONAL DESIGN Focuses on systematic design of instruction and alternative models based on learning theories and research. Emphasis is placed on effective planning, developing, and evaluating the instructional process. Project required. EDTECH 302 ›
+FUNDAMENTALS OF EDUCATIONAL WEBSITES DESIGN Introduction to the design and development of instructional web pages using HTML, CSS, and/or Adobe Dreamweaver. Apply instructional strategies when creating educational websites while taking into consideration issues of copyright and accessibility. EDTECH 401 ›
+FOUNDATIONS OF ONLINE LEARNING Cover the foundations, planning, and pedagogy of online education. These areas inform successful design characteristics that are crucial to the successful development of online learning experiences for students. EDTECH 402 ›
+INTRODUCTION TO ONLINE COURSE DESIGN Emphasizes web-based instructional design for the development of online courses. Consideration is given to various models of online delivery, content organization and presentation, and graphic design. Project required. EDTECH 450 ›
+ESPORTS CAPSTONE The capstone experience is designed to be a culminating activity or project that exemplifies the multidisciplinary aspects of Esports. EDTECH 501 ›
+INTRODUCTION TO EDUCATIONAL TECHNOLOGY Overview of the field of educational technology emphasizing current issues, leadership in technology use planning, and evaluation/synthesis of research.
+EDTECH 501 Syllabus EDTECH 502 ›
+CREATING EDUCATIONAL WEBSITES (Formerly Internet for Educators).  Design and develop instructional web pages using HTML, CSS, and Adobe Dreamweaver. Apply instructional strategies when creating educational websites while taking into consideration issues of copyright and accessibility.
+EDTECH 502 Syllabus EDTECH 503 ›
+INSTRUCTIONAL DESIGN Focuses on systematic design of instruction and alternative models. Project required.
+EDTECH 503 Syllabus EDTECH 504 ›
+THEORETICAL FOUNDATIONS OF EDUCATIONAL TECHNOLOGY Overview of classic and contemporary theories of learning and their applications in educational technology and emerging orientations; implications for practice. PREREQ: EDTECH 501.
+EDTECH 504 Syllabus EDTECH 505 ›
+EVALUATION FOR EDUCATIONAL TECHNOLOGISTS Procedures for evaluating educational programs, training systems, and emergent-technology applications. PREREQ: EDTECH 501, EDTECH 503.
+EDTECH 505 Syllabus EDTECH 506 ›
+GRAPHIC DESIGN FOR LEARNING Apply learning theory, principles of visual literacy, and graphic design techniques for instructional media development. Select and combine visual and text representations to effectively communicate instructional information. Note: We strongly recommend that students take EDTECH 502 and EDTECH 503 before enrolling in EDTECH 506. The knowledge and skills learned from 502 (web development) and 503 (instructional design) are necessary for a student to maximize the 506 course experience through the production of an authentic and useful final product. If a student already has an equivalent background in what the objectives covered in 502 and 503, it is possible to enroll in 506.
+EDTECH 506 Syllabus EDTECH 510 ›
+ACCESSIBLE & INCLUSIVE COURSE DESIGN Explores current trends and issues with creating accessible, usable, and inclusive online learning and instructional materials.
+EDTECH 510 Syllabus EDTECH 511 ›
+INTERACTIVE COURSEWARE DEVELOPMENT This course is ideal for beginners with little or no prior instructional software development experience. The platform that we will be using is Author by MuzzyLane Software. The class provides experience developing multimedia materials that contain sound, graphic, and interactive components. ​See the syllabus for more detail. PREREQ:  EDTECH 503, or Permission Number from the Instructor.
+EDTECH 511 Syllabus EDTECH 512 ›
+ ONLINE COURSE DESIGN Emphasizes web-based instructional design for the development of online courses. Consideration is given to various models of online delivery, content organization and presentation, and graphic design. Course participants create a fully developed online course. PREREQ: EDTECH 502 or PERM/INST.
+EDTECH 512 Syllabus EDTECH 521 ›
+ONLINE AND BLENDED TEACHING IN THE K-12 ENVIRONMENT. Examines research-supported practices in online and blended classrooms. Emphasizes technology supported teaching and learning, classroom management, lesson design, learner engagement, and individualized instruction.
+EDTECH 521 Syllabus EDTECH 522 ›
+ONLINE TEACHING FOR ADULT LEARNERS Emphasizes andragogy and best practice in online teaching, analyzing online teaching tools, planning, facilitating, and assessing collaborative and interactive e-learning experiences, and gaining practical experience teaching online.
+EDTECH 522 Syllabus EDTECH 523 ›
+ADVANCED ONLINE AND BLENDED TEACHING. Utilizes a project-based approach emphasizing content-specific instructional strategies, improved communication, assessment, and evaluation of quality learning experiences in technology supported online and blended instruction. Experience with web-based conference tools recommended. Project required.
+PREREQ: EDTECH 521 or EDTECH 522
+EDTECH 523 Syllabus EDTECH 524 ›
+FIELD EXPERIENCE IN ONLINE TEACHING Online teaching internship in a Pre-K-12 online school or program. Students will participate in a hands-on field experience for the purpose of observing the effective management and instruction of learning in a fully online environment for a total of 8 weeks, which can start at the beginning, middle or toward the second part of a semester. Permission of Instructor Required for enrolling in this course. Graded pass/fail. (P/F) only.
+EDTECH 524 Syllabus EDTECH 532 ›
+EDUCATIONAL SIMULATIONS Explores the theory and implementation of educational simulations and games for improved instructional engagement. This course uses a hands-on approach to explore the theories and the practical aspects of evaluating and implementing educational simulations for teaching and learning.
+EDTECH 532 Syllabus EDTECH 534 ›
+MOBILE APP DESIGN FOR TEACHING AND LEARNING (Effective fall 2014) Students leverage the potential of mobile technologies by exploring, analyzing, and designing mobile apps for use in various settings such as teaching, learning, and work. NOTE: Students enrolling in 534 will need an Android smartphone to run/build/test apps that require a texting function. OR, Most apps will work on Android tablets, but students will need to have access to an Android phone at certain point for at least one required app. Students who build communication apps that require phone call functions, will need an Android phone.
+EDTECH 534 Syllabus EDTECH 535 › (previously 597)
+DIGITAL ENGAGEMENT FOR LEARNING (Effective spring 2015) Provides an overview of instructional elements in digital engagement (e.g., cartoons, TV programs, movies, and digital games). Students conduct research on the practical application of digital engagement in classroom settings through experimentation and play.
+EDTECH 535 Syllabus EDTECH 536 › (previously 597)
+EDUCATIONAL GAME DESIGN (Effective fall 2018) Provides novice students with programming opportunities for designing an instructional digital game. Students will learn how to design and develop instructional games for teaching and learning using an authoring tool of their choice. Students play instructional games and understand the game design process. Once students understand the game design process, they design their own short and simple game. Students will be able to design their own short and simple instructional game.
+EDTECH 536 Syllabus EDTECH 538 › (previously 597)
+MAKER TECH: PHYSICAL COMPUTING FOR STEAM EDUCATION  “Analyze, make, and apply maker tech for teaching and learning contexts. Leverage the power of programming and tinker with digital and physical artifacts for learning/practicing/applying knowledge in science, technology, art, engineering, and mathematics (STEAM).”
+In this course, you will explore and develop your own maker projects. You will utilize intuitive block-based programming tools to create games, science simulations, music instruments, art projects that interact with circuits, everyday objects, and hardware. You will experience computational thinking such as procedural abstraction and algorithmic thinking, and unleash your creativity while experimenting with hybrid projects of digital and physical objects. You will also create instructional units that integrate your own maker projects for your context of teaching.
+EDTECH 538 Syllabus EDTECH 541 ›
+INTEGRATING TECHNOLOGY INTO THE CLASSROOM CURRICULUM Examination and practice in technology integration strategies in classroom environments, using various applications, instructional, and productivity software, evaluating tools and resources, and developing integrated instructional activities.
+EDTECH 541 Syllabus EDTECH 542 ›
+TECHNOLOGY-SUPPORTED PROJECT-BASED LEARNING Examines the Project-Based Learning Model, including development of PBL-based instructional units that engage learners in projects requiring investigation, analysis, synthesis, and presentation in real-world scenarios.
+EDTECH 542 Syllabus  EDTECH 543 ›
+SOCIAL NETWORK LEARNING This graduate level course will explore collaborative and emergent pedagogies, tools, and theory related to the use of social networks in learning environments. Participants will gain hands-on experience with a variety social networking tools, create a community-based resource, and have an opportunity to develop a global professional network for educational technologists.
+EDTECH 543 Syllabus EDTECH 544 ›
+INSTRUCTIONAL TECHNOLOGY COACHING
+EDTECH 544 Syllabus EDTECH 551 ›
+TECHNICAL AND GRANT WRITING Project-based instruction entailing various kinds of technical writing, all focusing on a completed grant proposal. Includes evaluating writing for print versus electronic display. Additional focus on writing proficiencies, as needed.
+EDTECH 551 Syllabus EDTECH 552 ›
+INTRODUCTION TO NETWORK ADMINISTRATION Introduction to technical competencies for school technology coordinators, addressing network administration, topography, and devices. Preparation for the CCENT (Cisco Certified Entry Networking Technician ) or CCNA (Cisco Certified Network Associate ) certificate.
+EDTECH 552 Syllabus EDTECH 554 ›
+MANAGING TECHNOLOGY INTEGRATION IN SCHOOLS Explores strategies for planning and implementing technology integration on an organizational level and examines larger scale professional development models. Develops skills for taking a leadership role in district technology use planning, implementation and assessment.
+EDTECH 554 Syllabus EDTECH 563 › 
+QUEST-BASED LEARNING DESIGN Emphasizes the knowledge, skills, and pedagogy of quest based learning as applied to emerging gaming techniques and technologies.
+EDTECH 563 Syllabus EDTECH 565 ›
+ADVANCED EDUCATIONAL GAME DESIGN Examines advanced digital games design for K-12 implementations. PREREQ: EDTECH 536.
+EDTECH 565 Syllabus EDTECH 582 ›
+SELECTED TOPICS: ONLINE TEACHING e-Portfolio course for the K-12 Online Teaching Endorsement This is a Special Topics course for fulfilling the competency-based requirements for the Idaho K-12 Online Teaching Endorsement. In the course, students will be compiling various artifacts and reflective statements that demonstrate their achievement of competencies as outlined by the Idaho K-12 Online Teaching Standards. The portfolio represents a broad-based selection of significant professional work, reflects the depth and breadth of a candidate’s professional experience, and is used to appraise candidates for the endorsement.
+EDTECH 582 Syllabus EDTECH 592 ›
+PORTFOLIO (M.E.T. only) The portfolio is required for students in the Master of Education Technology (M.E.T.) program who enrolled Fall 2008 and after. This is a three unit course taken in your last semester in the program. In the course, you will be compiling various artifacts and reflective statements that demonstrate your achievement of competencies in the program. Your portfolio will presented to, and evaluated by, your faculty committee. Here is the course description: A broad-based selection of significant student work that is used to appraise student performance and professional development. A portfolio reflects the depth and breadth of a student’s educational growth since entering the graduate program. Portfolios may include, but are not limited to, classroom examinations, journals, writing samples, publishable scholarship, professional projects, annotated bibliographies, and artistic endeavors. Graded pass/fail only. This course is taken at the end of the M.E.T program after the Application for Admission to Candidacy form has been submitted and approved. Departmental permission is required to register for this course. Please complete the online Portfolio Application to obtain a permission number prior to registration. 
+EDTECH 593 ›
+Thesis (Variable Credit; M.S.E.T. only) Independent research or creative activity at the master’s level resulting in a thesis that must be defended at a final oral examination and archived in the university library. The thesis must be written in clear and effective English and presented in a format that conforms to the standards of the Graduate College. Pass/fail only. PREREQ: All MSET courses completed. EDTECH 596 ›
+INDEPENDENT STUDY A Graduate Independent Study involves advanced study of a specialized topic. Any individual who has been admitted to the Graduate College is eligible. The graduate student is expected to work under the supervision of a member of the graduate faculty but with a high degree of autonomy. NOTE: Independent studies cannot substitute for regularly scheduled course offerings. Nor may a scheduled course offering be a significant component of an independent study. Application for Independent Study. EDTECH 597 ›
+SPECIAL TOPICS [Required Modifier] (Variable Credit) Instruction on a
+topic that is not included in the catalog of regular graduate courses; the topic is
+indicated by the required modifier. Descriptions for these courses are given in
+the Schedule of Classes published each semester. Either graded or pass/fail. Integrating Computational Thinking for Education Explores computational thinking (CT) frameworks, pedagogies, assessments, and educational technologies for teaching CT. Participants will create instructional units using effective pedagogies and technologies to integrate CT in their teaching contexts.
+Integrating Computational Thinking for Education Syllabus Cybersecurity in Schools The purpose of this course is to provide the students with an overview of the field of information security and assurance. In this course, students develop the foundation for understanding the key issues associated with protecting information assets and explore cyber trends and threats—along with the broader topic of cybersecurity–in a way that will matter to students and schools. Students will also gain insights for how schools protect their operations from attacks, discover the latest job trends and why the field continues to grow, and create a cybersecurity curriculum. Dystopian Visions, A.I., & Education Considers the thematic elements of dystopian works and their relationship to AI within the context of education. Students will read or view selected pieces of dystopian fiction (i.e., short stories, poetry, novels, movies, music, and streaming series) to develop a series of reflections, creative works, and an academic treatment about A.I. and its impact on teaching and learning. EDTECH 601 ›
+DOCTORAL STUDIES ORIENTATION  Introduction to the purpose and nature of doctoral studies in educational technology. Explores processes and procedures specific to the degree program, tools for collaboration and research, conferences and journals in the field, and graduate faculty research initiatives. Must be taken in first semester enrolled in doctoral program. PREREQ: Admission into the doctoral program in Educational Technology.
+EDTECH 601 Dr. Lowenthal Syllabus
+EDTECH 601 Syllabus EDTECH 602 ›
+EMERGING TRENDS IN EDUCATIONAL TECHNOLOGY Explores current topics and trends in educational technology research and their applications. Reviews literature and practices to identify emerging trends in the field.
+EDTECH 602 Syllabus EDTECH 603 ›
+GLOBAL AND CULTURAL PERSPECTIVES IN EDUCATIONAL TECHNOLOGY  Explores the implementation of information and communications technologies (ICT) in educational systems outside of the United States. Examines promises and challenges of ICT integration in both developed and developing countries as impacted by different contexts.
+EDTECH603 Syllabus EDTECH 604 ›
+LEADERSHIP IN EDUCATIONAL TECHNOLOGY  Examines principles that guide innovative leadership of educational technology programs and initiatives. Focuses on the synthesis of theories, models, and processes that guide policy creation and active project implementation. Emphasis on team building, organizational psychology, people and resources, and change management. PREREQ: EDTECH 601
+EDTECH604 Syllabus EDTECH 606 ›
+RESEARCH WRITING EDTECH 640 ›
+INNOVATIVE EXPERIENCE PREREQ: EdD only; requires proposal. EDTECH 650 ›
+(previously numbered 561)
+RESEARCH IN EDUCATIONAL TECHNOLOGY Review and analysis of research studies in educational technology. Foundations in the relationships among research design, measurement, and statistics; methodology for designing, conducting, and reporting educational technology research. PREREQ: EDTECH 504.
+EDTECH650 Syllabus EDTECH 651 ›
+(previously numbered 562)
+INTRODUCTION TO STATISTICS FOR EDUCATIONAL TECHNOLOGY Measures of central tendency and variability, one and two sample tests, confidence intervals, chi-square, introduction to bivariate correlation, and analysis of variance.
+EDTECH 651 Syllabus EDTECH 652 ›
+QUANTITATIVE RESEARCH METHODS  Overview of quantitative research approaches in educational research. Covers concepts of, and practice with, parametric and non-parametric tests and predictive analysis. Introduction to experimental design, survey sampling, and advanced statistical analysis. Purchase of statistical analysis software is required. PREREQ: EDTECH 651.
+EDTECH652 Syllabus EDTECH 653 ›
+QUALITATIVE RESEARCH METHODS Overview of qualitative research approaches in educational research. Reviews the theory, epistemological assumptions, and application of major methodologies. Focuses on developing skills in creating field notes, planning and conducting interviews, collecting relevant artifacts, analyzing data, and writing reports. Introduction to computer-assisted qualitative data analysis.
+EDTECH 653 Syllabus EDTECH 662 ›
+SURVEY RESEARCH AND ANALYSIS Explores advanced concepts of survey research theory and data analysis methods. Guides selection and application of multiple, appropriate levels of analysis to selected research questions. Purchase of statistical analysis software is required. PREREQ: EDTECH 651.
+EDTECH662 Syllabus EDTECH 663 ›
+ADVANCED QUALITATIVE RESEARCH METHODS  Explores specific qualitative methodologies in depth. Extensive practice in analysis of data based on a selected qualitative tradition, followed by the presentation of results. Focuses on the development, planning, and conduct of an applicable project. Includes further practice with computer-assisted qualitative data analysis. PREREQ: EDTECH 653.
+EDTECH663 Syllabus EDTECH 680 ›
+EDUCATION SPECIALIST FINAL PROJECT (EdS only) Culminating activity for the Education Specialist in Educational Technology (EdS) program. The student-generated project topic must be approved by program coordinator prior to enrollment. Final project is a substantial written product and multi-media representation(s) of the work. Taken after all EdS core courses and cognate courses have been completed. (Pass/Fail). PREREQ: PERM/INST. EDTECH 691 ›
+COMPREHENSIVE EXAMINATION (EdD only; 1 credit hour)
+The Comprehensive Examination can take different forms, but it is an important milestone in the doctoral program. All EdD Core courses, the EdD cognate, and at least four of five research courses must be completed before a student can enroll in EDTECH 691. After passing the Comp Exam, doctoral students are classified as “doctoral candidates.” Pass/Fail Only. EDTECH 693 ›
+DISSERTATION RESEARCH (Variable Credit) Independent research at the doctoral
+level resulting in a dissertation that must be defended at a final oral examination
+and archived in the university library and with UMI. Te dissertation must be
+written in clear and effective English and presented in a format that conforms to
+the standards of the Graduate College. Pass/fail only. PREREQ: EDTECH 691 EDTECH 698 ›
+SEMINAR IN EDUCATIONAL TECHNOLOGY (EdD only; 1 credit hour)
+Doctoral students take Seminar in Ed Tech in each of their first four regular semesters. The seminar is a virtual space where students gather to discuss topics germane to program completion, collaborate with peers, interact with their advisor, and discuss research ideas. Pass/Fail Only. EDTECH 513 ›
+MULTIMEDIA Research-based principles of multimedia learning are combined with technical skills of multimedia production to produce a series of digital multimedia projects for classroom and online applications. EDTECH 531 ›
+TEACHING AND LEARNING IN WORLDS Explores teaching and learning in virtual worlds. Project-based design, facilitation, and evaluation of instruction, research, and other resources. EDTECH 533 ›
+YOUTUBE FOR EDUCATORS Produce educational video for YouTube using digital video cameras and editing software. Design and develop appropriate instructional activities that integrate online video. Examine the benefits and controversial aspects of video sharing in the classroom. EDTECH 537 ›
+BLOGGING IN THE CLASSROOM Focuses on the use of blogs in education, including creating and maintaining blogs, using RSS readers and microblogging. Examines the nature and purpose of blogging, types of blog entries, blog promotion, disclosure guidelines, and building a blogging community. EDTECH 560 ›
+VARSITY ESPORTS Teaches prospective leaders to effectively prepare, launch, and administer an eSports program. Explores the methodologies of organizational design and investigation of competitive systems. EDTECH 563 ›
+QUEST-BASED LEARNING DESIGN Emphasizes the knowledge, skills, and pedagogy of quest based learning as applied to emerging gaming techniques and technologies. EDTECH 564 ›
+GAMIFIED AUGMENTED REALITY AND MOBILE Analysis of emerging technologies that combine virtual and augmented realities, with specific support for mobile applications. EDTECH 605 ›
+PROJECT MANAGEMENT IN EDUCATIONAL SETTINGS Introduction to best practices and principles related to the management of projects in educational organizations (all levels, traditional or online). Emphasis on team building and leadership, establishing relationships, benchmarks and evaluative practices. Review and use of various project management software tools. PREREQ: EDTECH 601. 
+
+					    © 2024 All Rights Reserved
+						 Boise State University.
+					

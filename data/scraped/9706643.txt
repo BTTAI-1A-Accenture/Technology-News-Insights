@@ -1,0 +1,43 @@
+
+By Harry Guinness
+ Posted on Apr 6, 2023 6:00 PM EDT 4 minute read In a blog post this week, Meta AI announced the release of a new AI tool that can identify which pixels in an image belong to which object. The Segment Anything Model (SAM) performs a task called “segmentation” that’s foundational to computer vision, or the process that computers and robots) employ to “see” and comprehend the world around them. As well as its new AI model, Meta is also making its training dataset available to outside researchers.  In his 1994 book, The Language Instinct, Steven Pinker wrote “the main lesson of 35 years of AI research is that the hard problems are easy and the easy problems are hard.” Called Moravec’s paradox, 30-odd years later it still holds true. Large language models like GPT-4 are capable of producing text that reads like something a human wrote in seconds, while robots struggle to pick up oddly shaped blocks—a task so seemingly basic that children do it for fun before they turn one.  Segmentation falls into this looks-easy-but-is-technically-hard category. You can look at your desk and instantly tell what’s a computer, what’s a smartphone, what’s a pile of paper, and what’s a scrunched up tissue. But to computers processing a 2D image (because even videos are just series of 2D images) everything is just a bunch of pixels with varying values. Where does the table top stop and the tissue start? Today we're releasing the Segment Anything Model (SAM) — a step toward the first foundation model for image segmentation.SAM is capable of one-click segmentation of any object from any photo or video + zero-shot transfer to other segmentation tasks ➡️ https://t.co/qYUoePrWVi pic.twitter.com/zX4Rxb5Yfo Meta’s new SAM AI is an attempt to solve this issue in a generalized way, rather than using a model designed specifically to identify one thing, like faces or guns. According to the researchers, “SAM has learned a general notion of what objects are, and it can generate masks for any object in any image or any video, even including objects and image types that it had not encountered during training.” In other words, instead of only being able to recognize the objects it’s been taught to see, it can guess at what the different objects are. SAM doesn’t need to be shown hundreds of different scrunched up tissues to tell one apart from your desk, it’s general sense of things is enough.  [Related: One of Facebook’s first moves as Meta: Teaching robots to touch and feel] You can try SAM in your browser right now with your own images. SAM can generate a mask for any object you select by clicking on it with your mouse cursor or drawing a box around it. It can also just create a mask for every object it detects in the image. According to the researchers, SAM is also able to take text prompts—such as: select “cats”—but the feature hasn’t been released to the public yet. It did a pretty good job of segmenting the images we tested out here at PopSci.  While it’s easy to find lots of images and videos online, high-quality segmentation data is a lot more niche. To get SAM to this point, Meta had to develop a new training database: the Segment Anything 1-Billion mask dataset (SA-1B). It contains around 11 million licensed images and over 1.1 billion segmentation masks “of high quality and diversity, and in some cases even comparable in quality to masks from the previous much smaller, fully manually annotated datasets.” In order to “democratize segmentation,” Meta is releasing it to other researchers.  Meta has big plans for its segmentation program. Reliable, general computer vision is still an unsolved problem in artificial intelligence and robotics—but it has a lot of potential. Meta suggests that SAM could one day identify everyday items seen through augmented reality (AR) glasses. Another project from the company called Ego4D also plans to tackle a similar problem through a different lens. Both could one day lead to tools that allow users to follow directions along with a step-by-step recipe, or leave virtual notes for your partner on the dog bowl.  More plausibly, SAM would also have a lot of potential uses in industry and research. Meta proposes using it to help farmers count cows or biologists track cells under a microscope—the possibilities are endless. Harry Guinness is an Irish freelance writer and photographer. He splits his year between Ireland and the French Alps. Harry’s work has been published in The New York Times, Popular Science, OneZero, Human Parts, Lifehacker, and dozens of other places. He writes about technology, culture, science, productivity, and the ways they collide. 
+By Andrew Paul
+ 
+By Andrew Paul
+ 
+By Charlotte Hu
+ 
+By Charlotte Hu
+ 
+By Charlotte Hu
+ 
+By Andrew Paul
+ 
+By Kelsey D. Atherton
+ 
+By Andrew Paul
+ 
+By Andrew Paul
+ 
+By Andrew Paul
+ 
+By Charlotte Hu
+ 
+By Harry Guinness
+ 
+By Charlotte Hu
+ 
+By Harry Guinness
+ 
+By Charlotte Hu
+ 
+By Jeff Carlson / Popular Photography
+ 
+By Charlotte Hu
+ 
+By Charlotte Hu
+ Sign up to receive Popular Science’s emails and get the highlights. Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+Registration on or use of this site constitutes acceptance of our Terms of Service.
+
+© 2024 Recurrent. All rights reserved. 

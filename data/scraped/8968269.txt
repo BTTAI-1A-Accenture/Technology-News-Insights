@@ -1,0 +1,6 @@
+Two builds just rolled out to the Beta Channel, though they don't have any new features. 
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+ Microsoft has a pair of Windows 11 Insider builds for those in the Beta Channel. The updates don't include any new features, but they have several fixes. The Beta Channel generally ships builds in pairs, with one having new features enabled by default and the other having new features disabled. That's still the case this week, though there aren't any changes exclusive to Build 22631.1825 (new features on by default). Here are all of the changes in Build 22631.1825 and Build 22621.1825, as outlined by Microsoft: All the latest news, reviews, and guides for Windows and Xbox diehards. Sean Endicott brings nearly a decade of experience covering Microsoft and Windows news to Windows Central. He joined our team in 2017 as an app reviewer and now heads up our day-to-day news coverage. If you have a news tip or an app to review, hit him up at sean.endicott@futurenet.com. Windows Central is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site. ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 

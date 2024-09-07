@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/candor-technology-creates-first-ever-loan-quality-services-underwriting-engine/article_2f2f8bbf-1202-5bc3-b3d7-c11b6e3a0186.html

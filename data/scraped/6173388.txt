@@ -1,0 +1,68 @@
+Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics.                     You've finished a Mythic+ dungeon and won a piece of loot. Great job! You notice, too, that said item has something called an "upgrade level" on it. What does that do, and how do you upgrade it? Our World of Warcraft: Dragonflight guide to upgrading your gear with Valor will go over the details to level up your gear and conquer new challenges for Dragonflight Season 1.
+                         Valor is a currency you'll earn in Dragonflight. It's used to upgrade the Mythic+ gear you earn running dungeon keys. Completing a dungeon will give 135 Valor. If your dungeon grants Mythic+ rating, you'll earn an additional 65 Valor.
+                         Unlike Season 4 of Shadowlands, there is a Valor Cap in Dragonflight Season 1. You can only earn a maximum of 1,500 Valor in the first week of Dragonflight Season 1. You can earn an additional 750 Valor each week after.
+                         If you spend all of your Valor, you can't reacquire back to 1,500 or whatever the current Valor Cap is. Once you've earned the capped amount for the week, you can't earn anymore, regardless of whether or not you currently have 15 or 1,500 Valor.
+                         Gear obtained from Mythic+ dungeons is upgraded with Valor. Eligible gear will show the "upgrade level" as indicated by the image below.
+                         As you can tell, there is a maximum amount of times you can upgrade your gear with Valor. Every time you upgrade the item, its ilvl and stats will increase. It's important to determine which gear and stat combination is the best fit for you. You'll want to prioritize items that are the best fit for you. Our Dragonflight guides can assist you with determining what Mythic+ items you should focus on acquiring.
+                         In Valdrakken, you'll want to head over to the Gladiator's Refuge. It can be tricky to find, so we included the entrance on the map below. The in-game coordinates are 40.44.
+                         Once at the entrance, head to the back of the room in a straight line. You'll see a PVP Training Dummy. To its left, your right, you'll see Corxian at 45.38. Talk to him and you can begin the process of upgrading your Mythic+ items with Valor.
+                         With a total of 13 levels, there are several ilvl tiers to purchase. After the sixth level, there will be requirements that must be met in order to progress your item further.
+      Valor Upgrade Rank
+  Item Level
+  Requirements
+                     1
+                         367
+                         None
+                         2
+                         379
+                         None
+                         3
+                         382
+                         None
+                         4
+                         385
+                         None
+                         5
+                         389
+                         None
+                         6
+                         392
+                         None
+                         7
+                         395
+                         Mythic+ Rating of at least 600
+                         8
+                         398
+                         Mythic+ Rating of at least 1,000
+                         9
+                         402
+                         Mythic+ Rating of at least 1,000
+                         10
+                         405
+                         Mythic+ Rating of at least 1,400
+                         11
+                         405
+                         Mythic+ Rating of at least 1,700
+                         12
+                         412
+                         Mythic+ Rating of at least 2,000
+                         13
+                         415
+                         Mythic+ Rating of at least 2,400
+                         Unfortunately, Corxian demands Valor to upgrade your items. It'd be great if this was done at no cost, but alas.
+                         The amount of Valor needed to upgrade your items depends on the type of armor slot it occupies. This table showcases the amount of Valor needed to increase the upgrade level by one, sorted by armor slot.
+                         Valor Upgrade Cost
+                         Armor Slots
+                         250 Valor
+                         Necks, Bracers, Cloaks, Rings, Shields, Off-Hands
+                         400 Valor
+                         Shoulders, Gloves, Belts, Boots, Trinkets
+                         475 Valor
+                         Helms, Chests, Legs
+                         500 Valor
+                         One-Handed Agility Weapons, One-Handed Strength Weapons
+                         750 Valor
+                         One-Handed Intellect Weapons
+                         1,000 Valor
+                         Two-Handed Weapons
+     Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics. Starting from Version 5.0 and going forward, Genshin Impact reveals a way that players will be able to choose a free 5-Star character from an event. Pokemon Unite confirms the addition of three new characters, bringing a trio of Pokemon very popular with fans to Aeos Island. Dragon Age: The Veilguard seems primed and ready to benefit from a Dragon's Dogma 2 pre-release tactic that became a huge hit among fans. Fans who want to explore a new chapter in The Elder Scrolls after the release of Gold Road may have to wait a while for a new storyline. Fortnite Absolute Doom increases the levels players need to acquire all V-Bucks in the Battle Pass. Call of Duty fans have another way to gain early access to the upcoming Black Ops 6 beta before it officially begins on Friday, August 30. Tarnished Will be rewarded with the Dragonbolt Of Florissax as well as a powerful summon by picking specific choices in Elden Ring SOTE.

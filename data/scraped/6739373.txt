@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/janover-inc-launches-new-ai-capabilities-to-further-transform-commercial-real-estate-lending/article_c0c3d314-309d-5895-8711-992f8521103e.html

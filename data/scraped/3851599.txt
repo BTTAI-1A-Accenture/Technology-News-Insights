@@ -1,0 +1,48 @@
+
+30 March 2023
+Be the first to comment
+ This content is contributed or sourced from third parties but has been subject to Finextra editorial review. Data and analytics (D&A) in banking and financial services (BFS) is an area that has seen a huge amount of growth, innovation, and development in recent years. The D&A services market is expected to reach a valuation of $150 billion by 2024, which would
+ represent a 150% increase from where it stood just 5 years ago. As an industry, BFS is the largest adopter of D&A services and makes up about one-quarter of the overall market. The compound annual growth rate (CAGR) for D&A sits between 16 and 18%, and assuming that its growth continues at this rate, it's projected to
+ be worth almost $57 billion by 2027. Furthermore, current economic worries seem to have impacted D&A less than other areas. BFS investment in D&A appears robust, with most enterprises likely to expand their investment. According to Everest Group research, approximately 15-20% of BFS enterprises will even increase their investment by more than 30%. With fears of an impending recession continuing to grow, and many areas of IT services that previously looked strong not showing
+ nearly as much resilience, D&A appears particularly worthwhile. The sense among BFS firms is that to stay competitive in the coming years, it is essential to become data-driven. This will require sizeable investments in D&A tools, as well as integrating these tools into their everyday processes and decision-making. With
+ the technological changes that have occurred in the banking industry, banks now hold far more data than ever before. This data can be incredibly valuable, but advanced analytic capabilities are needed to unlock this value. Where D&A can help BFS firms today One way in which D&A offers huge benefits is in improving personalisation. It is no longer necessary to segment the customer population into groups and customise to those groups’ behaviour and preference profiles. The amount of data that BFS enterprises
+ have at their disposal and the power of the analytic applications currently available mean that it is now possible to customise services to each individual. Customer satisfaction has always been a vital competitive edge in BFS, and personalisation can contribute
+ a great deal to this. ESG is another area where D&A has important uses. Sustainability has become a prime concern in BFS, and proper use of data can allow organisations to make their interventions as effective as possible. D&A can provide concrete numbers and practical insights
+ as to where an enterprise is most lacking and which measures would have the greatest positive effect. It can then assist in measuring how successful ESG actions have been and allow for accurate reporting to stakeholders. As climate-related concerns continue to become more pressing, D&A will have a vital role in allowing BFS organisations to prove that they are following through on their stated commitments in the most effective manner. The journey to the cloud Cloud computing forms an integral part of BFS enterprises’ journey towards being data-driven. This is because banks and financial institutions are looking to the cloud for advances in value and efficiency. Moreover, the trend of cloud migration is also closely
+ related to the wider front-to-back modernisation and transformation of processes that many banks and financial institutions are currently undergoing. At the moment, however, BFS enterprises are not getting all of the value that they expected from the cloud,
+ and most banking workloads have still not been migrated. The reasons for this mainly relate to organisational deficiencies, such as a lack of proper governance, an archaic culture, inefficient management of resources or the business and IT sides being misaligned. A 2022 Everest Group survey of BFS leaders involved
+ in cloud transformation initiatives found that 55% believe that the COVID-19 pandemic led to cloud adoptions being hurried, which may have exacerbated issues. However, despite these roadblocks, cloud remains a key area of focus. Everest also found that 40% of banking executives are likely to significantly increase their IT spending on cloud over the next 2-3 years. Rather than opting exclusively for private or public cloud, the preference in BFS seems to be for a hybrid system in which services are purchased from multiple providers. The reasons for this include avoiding vendor lock-in and having the freedom to choose
+ the best provider for each service. Everest also found that the main motivations for continuing to use private cloud for some purposes were the greater control over the infrastructure that it offers, as well as to meet regulatory compliance requirements. This
+ makes sense as quite a few countries have laws which prohibit data being stored a certain distance away from where it was collected. The role of artificial intelligence Another technology (or set of technologies) closely linked to D&A is artificial intelligence (AI). There are a number of factors driving the implementation of AI in the BFS industry. Organisations seek improvements in their employees’ efficiency and productivity,
+ the quality of the work that they produce and stakeholders’ (including employees and customers) experience. There are a variety of use cases for AI that are seeing increasing interest in BFS. These use cases include chatbots to improve customer satisfaction, document management systems to help employees become more productive, tools that can inform investment
+ decisions, and improved client onboarding processes that can help prevent money laundering and fraud. While AI continues to be viewed as a promising area, there are lingering pain points for banks and financial institutions in this area. Not least among these is talent – organisations of all kinds are competing for a relatively small group of people with
+ the appropriate technical skills. This can be an especially great problem for banks on the smaller side. Another challenge is that with high-profile data breaches occurring quite often, and more public and governmental pressure on this front than ever, data privacy and regulatory issues are at the forefront. More generally, it is seen as incumbent on those
+ deploying AI to demonstrate that they are doing so responsibly and taking appropriate steps to mitigate bias and other ethical issues. What lies ahead? D&A is clearly transformational and shows signs of only continuing to grow as an area for investment, interest, and innovation. This trend is demonstrated by the evolution of the role of the Chief Data Officer (CDO) in BFS firms. The modern CDO must be a
+ technology strategist, business enabler, value creator, and insights generator all in one. In terms of geography, North America leads the way in the maturity of the CDO role, as banks in this region are shifting the focus of the CDO’s role from data management to enabling business strategy. This role is certainly less mature in Europe, where initially, CDOs were brought in to ensure banks were compliant and up-to-date with the latest regulation. Today, they are increasingly used for value creation and insights generation. In contrast, the role is still very more traditionally focused in Asia Pacific and Latin America. Over the next decade, as banks in these regions invest more heavily in D&A, we expect the role of the CDO to mature to the standards of North America. Ultimately,
+ the role of the CDO serves as a microcosm for the growing trend of embedding analytics-fuelled technologies into banks’ core strategies. Of course, there are significant hurdles to the technological advances needed to unlock the full potential of D&A within BFS. However, there can be no doubt that it will play an even more important role in the BFS firm of the future and contribute to a seismic
+ shift in the industry fuelled by digital transformation. Hamish Monk Reporter at Finextra 
+05 August 2024
+
+/devops
+
+ John Barber Vice President and Head at Infosys Finacle 
+08 July 2024
+
+/devops
+
+ Hamish Monk Reporter at Finextra 
+14 May 2024
+
+/devops
+
+ Sehrish Alikhan Reporter at Finextra 
+27 March 2024
+
+/devops
+
+ Dominique Dierks Content Manager at Finextra 
+19 March 2024
+
+/devops
+
+ This content is contributed or sourced from third parties but has been subject to Finextra editorial review. Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

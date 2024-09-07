@@ -1,0 +1,17 @@
+SANTA ROSA, Calif.–(BUSINESS WIRE)–$KEYS #Android—Keysight Technologies, Inc. (NYSE: KEYS) has released Eggplant Test 7.0, an enhanced version of the automated software test solution with powerful integrations that enable quality assurance (QA) teams to test mobile apps on multiple devices and operating systems simultaneously.  
+Mobile apps have become a ubiquitous part of modern digital life, facilitating everything from e-commerce and digital health to home security and business process management. However, users are unlikely to find an app useful if it is buggy or difficult to use. With the myriad of device and operating system combinations, testing mobile apps before they are released is more important than ever. QA teams need automated tools to speed up the validation of app compatibility, functionality, usability, performance, and security across multiple device configurations. 
+Keysight’s Eggplant Test 7.0 meets this challenge with integrations that can test more than 7,500 operating system and device combinations through Sauce Labs’ Real Device Cloud. The latest version of Eggplant Test offers QA teams advanced collaboration features, seamless integration with continuous integration tools, and the ability to connect with virtualized applications. These capabilities collectively enable automation, acceleration, and mitigation of risks inherent in manual testing to enhance the testing process. 
+New enhancements to the Eggplant Test platform include: 
+Gareth Smith, General Manager, Software Test Automation, Keysight, said: “Eggplant Test 7.0 empowers teams to conquer complexity by simultaneously testing mobile apps across over 7,500 operating system and device combinations. By harnessing the power of Sauce Labs’ Real Device Cloud, we eradicate the constraints of costly device labs, unleashing instant test execution. Through seamless integrations like Git, Citrix, Active Directory, and continuous integration tools, we pave the way to unparalleled success through true end-to-end testing. With Eggplant Test 7.0, we are shaping a future defined by seamless, comprehensive testing.” 
+Resources 
+About Keysight Technologies 
+At Keysight (NYSE: KEYS), we inspire and empower innovators to bring world-changing technologies to life. As an S&P 500 company, we’re delivering market-leading design, emulation, and test solutions to help engineers develop and deploy faster, with less risk, throughout the entire product lifecycle. We’re a global innovation partner enabling customers in communications, industrial automation, aerospace and defense, automotive, semiconductor, and general electronics markets to accelerate innovation to connect and secure the world. Learn more at Keysight Newsroom and www.keysight.com.  Contacts  
+Keysight Media Contacts 
+Paul Erwin
+Americas/Europe
++1 248 430 9075
+paul.erwin@keysight.com 
+Fusako Dohi
+Asia
++81 42 660-2162
+fusako_dohi@keysight.com

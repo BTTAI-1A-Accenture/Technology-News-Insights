@@ -1,0 +1,26 @@
+DuckWeb — the website University of Oregon students, faculty members and staff use to check grades, view pay stubs and change personal information — will be unavailable this weekend and next while Information Services performs essential maintenance. Specifically, the two maintenance periods are: During those times, two related administrative applications also will be unavailable: Banner, the behind-the-scenes side of DuckWeb, and AppWorx, a job scheduling service. In addition, DuckDocs will be unavailable May 5-7. The May 12 work is part of a planned technology replacement project for the University of Oregon. The project will move roughly 1,700 virtual servers, including DuckWeb, Banner and AppWorx, to new network infrastructure. The new infrastructure offers more automation and self-service options. For example, staff can much more quickly set up a server, and the platform can automatically give a server more storage when it nears capacity. Information Services is doing the work during early morning weekday hours and weekends, using existing maintenance times when possible, depending on the service, to limit impact on university operations. The project aims to complete all work by the end of 2023. Anyone with questions can contact the Technology Service Desk by phone at 541-346-4357, by live chat or through the UO Service Portal. All Workplace Submit Your Story Idea uonews@uoregon.edu 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+

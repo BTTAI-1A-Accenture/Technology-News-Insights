@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.nola.com/news/fire-explosion-at-dow-in-plaquemine-prompts-shelter-order/article_0334f6f1-8f08-53ec-ab21-59a320dd38b7.html?ref=upstract.com

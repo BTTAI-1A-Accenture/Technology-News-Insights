@@ -1,0 +1,47 @@
+The first surge of digitization in retail resulted in the virtualization of shopping that let customers browse store shelves online and purchase products through e-commerce platforms. Since then, e-commerce adoption has accelerated at breakneck speed; its global market size is valued in trillions of dollars. Data analytics has brought about the hyper-personalisation of shopper experience. Let us chart the captivating journey of the retail industry over the last decade and reflect on its unfolding future.Cloud computing and the transformation of the retail business model: One of the major challenges that the burgeoning e-retail industry had to contend with was seasonality - a substantial part of retail revenues are realized during festival seasons when 10X spikes in demand are common. Cloud computing came to the rescue as the perfect solution since the cloud model thrives when user load fluctuates. Without cloud, retailers have to invest in infrastructure capacity that is congruent to peak demand, which results in immense wastage and ensuing inefficiencies when usage shrinks.
+
+Advt
+
+
+
+
+
+Many legacy retailers began business transformation by moving front-end operations - such as catalogue management and analytics-driven personalized recommendations - to hyperscalers, while retaining mission-critical backend operations – such as billing and fulfilment - on-premise. Digitally native retailers, however, started off by hosting their entire systems on the cloud and created business models that fully exploited cloud as a catalyst for innovation. Retail service design became iterative based on testing the market and learning from purchasing behaviour. Customer acquisition turned smart through customized promotions and targeted messaging. Shopper retention was automated using analytics that predicted customer churn. Brand building became a function of social listening.In-store innovation through computer vision: In the meanwhile, brick-and-mortar showrooms also witnessed an infusion of digitization triggered by machine learning. Retail edge technology matured and advanced. It could track shopper footfalls and dwell times across store aisles, and use eyeball-tracking technology to measure a customer’s interest in a product or an offer. Buyer behaviour and purchase patterns were discerned with deep-learning models. Discounted packs that bundle slow and fast moving merchandise could be dynamically constructed in an attempt to increase wallet share. Digital signage boards could instantly decide the optimal advertisement to display based on the demographic and facial emotions of the shopper standing within camera range. Artificial Intelligence thus arrived at the forefront as a lever to increase in-store conversion rates.
+
+Advt
+
+
+
+
+
+Embedding of fintech within retail: While the retail industry was in the midst of this transformation, fintech unleashed the might of software on financial services for consumers and changed operating models not only in banking but in several other industry verticals including retail. Retailers across the globe make more money out of financing a purchase than from margins on the sold merchandise. The intertwining of finance and retail technologies made it possible to immerse Buy Now Pay Later (BNPL) and just-in-time financing within checkout workflows, thus expanding payment options for the consumer.Breaking free from monopolistic retail with ONDC: E-commerce expanded retail reach, but created oligopolies where a few large corporates captured large chunks of market share by attracting millions of buyers and sellers to their marketplace. The motivation of Open Network for Digital Commerce (ONDC) is to end Indian consumer dependencies on large e-commerce platforms by unbundling buyer and seller acquisition. ONDC seeks to change retail commerce by bringing in interoperability, the way that UPI (Unified Payment Gateway) revolutionized Indian banking. Any app with a user base that is not necessarily retail (for example, a chat application) can enable itself with the ONDC protocol (called beckn) and obtain access to external retail sellers, thus offering its users another path to e-commerce. Similarly, even micro-retailers can make their e-store catalogues visible through the open beckn protocol, to a large buyer base outside of directly acquired customers.ONDC will thus be an enabler to expand online retail penetration, which is still low in India. It will increase the gross merchandise value (GMV) of digital retail transactions and herald explosive growth as more and more apps enable their platforms with ONDC.Shopping in the Metaverse:  The retail industry is turning to the Metaverse to create a real buying experience with virtual showrooms. With Metaverse, a retail store can extend itself outside its real estate and offer a consistent experience within and beyond its walls. A shopper can move across store sections and navigate aisles in a spatial manner through a gesture-enabled user interface. Augmented Reality (AR) adds the perception of depth to the store landscape. Additionally, shoppers in the Metaverse can interact with dedicated digital shopping assistants; they can get contextually responsive offers displayed on private e-signage boards. Customers get an experience that is even more immersive and interactive than in-store shopping, without waiting at checkout lines or following social distancing norms. They can intuitively sort through retailer inventory or try out an apparel or jewellery in a virtual dressing room through 3D rendering. Future e-commerce with Web3 in the Metaverse will unlock many new avenues by decentralizing transactions. Blockchain technology is the cornerstone of Web3 and will provide consumers more control on privacy, trust, and data security.The retail industry has witnessed a decade-long technology-driven disruption that has changed the way consumers shop and merchants sell. The transformation has been multi-faceted across online commerce, showroom experience, hyper-personalization, store operations, shopper empowerment, and privacy protection. The future of retail promises to be even more fascinating.(DISCLAIMER: The views expressed are solely of the author and ETRetail.com does not necessarily subscribe to it. ETRetail.com shall not be responsible for any damage caused to any person/organization directly or indirectly.) By commenting, you agree to the Prohibited Content Policy By commenting, you agree to the Prohibited Content Policy 
+
+News 
+
+ See whats happening in Retail sector right now 
+
+Exclusive 
+
+ Read and get insights from specially curated unique stories from editorial 
+
+Leaders Speak
+
+ Business leaders sharing their insights 
+
+Events
+
+ Explore and discuss challenges & trends in India's leading B2B events 
+
+Awards 
+
+ Recognise work that not only stood out but was also purposeful 
+
+Webinars 
+
+ Join leaders & experts for roundtables, conferences, panels and discussions Subscribe to our Daily Newsletter  By continuing you agree to our Privacy Policy & Terms & Conditions 
+Advertise With Us
+ We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc. 
+Download ETRetail App 
+ Save your favourite articles with seamless reading experience 
+Get updates on your preferred social platform
+ Follow us for the latest news, insider access to events and more. About Us Contact Us Newsletters

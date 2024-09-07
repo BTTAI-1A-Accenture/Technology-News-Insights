@@ -1,0 +1,26 @@
+
+New integrations with Pipedrive and Salesloft Rhythm help sales reps prioritize efforts on prospects most likely to buy.
+
+ 
+Vidyard, the leading video messaging and asynchronous communications platform for go-to-market teams, has announced partnerships with Pipedrive and Salesloft to help sales teams unlock new revenue potential through buyer engagement signals and AI-powered recommended actions. These integrations represent a key milestone in using video engagement insights from customer communications to prioritize sales rep activity and accelerate those deals that are most likely to close.
+
+ 
+Earlier this month, Salesloft unveiled Rhythm, the first AI-powered revenue workflow platform for sellers. With signals from across its partner ecosystem, Rhythm recommends and prioritizes the most impactful actions based on recent activities by prospects, enabling sales reps to work more efficiently and close deals faster. Vidyard's new integration will enable Salesloft Rhythm to recommend next-best-actions to sales reps based on how leads are engaging with personalized video messages, online video content, and videos shared in Vidyard Rooms digital sales rooms.
+
+ 
+"Video messages and tailored video content are changing the way sellers and buyers exchange information in the digital world," said Jonathan Lister, COO at Vidyard. "High engagement in that content is a powerful signal of buyer intent. We're thrilled to partner with Salesloft on their new AI-powered Rhythm workflow to turn these signals into recommended actions that help sales reps prioritize their activities on accounts that are most likely to close."
+
+ 
+The new integration with Pipedrive allows sales reps and leaders to uncover critical video engagement data, including which videos prospects are watching and how long they engage with each video, from within their existing Pipedrive CRM. Armed with these insights, sales reps can gain a deeper understanding of their buyers and customers, allowing them to prioritize their follow-up efforts and tailor their communications accordingly.
+
+ 
+"We're excited to join forces with Pipedrive and Salesloft to create new value for sales teams through digital buying signals and AI-powered recommended actions," said Michael Litt, CEO of Vidyard. "Our integrations will enable sellers to gain a deeper understanding of their prospects' interests, fostering more meaningful connections and driving business growth. These partnerships reinforce Vidyard's commitments to revolutionizing buyer/seller communications in a digital world and leveraging AI to create massive value for sales professionals."
+
+ 
+Vidyard's Pipedrive integration is now available for Pipedrive customers. Vidyard's integration with Salesloft Rhythm will be available to Salesloft customers this summer as part of their revenue workflow platform.
+
+ 
+About Vidyard
+Vidyard is the leading video messaging, video hosting, and asynchronous communications platform for go-to-market teams. More than 250,000 companies use Vidyard to connect with more prospects, humanize their communications, and create exceptional buyer experiences. From individual sales reps to global sales and marketing teams, Vidyard enables any business professional to use online video content, personalized video messages, and tailored digital sales rooms to transform the way they communicate and exchange value with their customers. Learn more about Vidyard and sign up for free at www.vidyard.com.
+
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230628149463/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

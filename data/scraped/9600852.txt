@@ -1,0 +1,587 @@
+
+
+ACB
+
+$1.430 (1.42%) 
+
+ACNNF
+
+$0.030 (0%) 
+
+AERO
+
+$3.210 (0%) 
+
+ALEAF
+
+$0.050 (-14.97%) 
+
+AMMJ
+
+$0.048 (12.81%) 
+
+APHA
+
+$15.380 (0%) 
+
+ARNA
+
+$99.990 (0%) 
+
+ATT:CNX
+
+$0.080 (0%) 
+
+AUSA:CNX
+
+$0.065 (0%) 
+
+AUSAF
+
+$0.050 (0%) 
+
+AVXL
+
+$11.060 (-0.98%) 
+
+BAMM:CNX
+
+$0.130 (0%) 
+
+BBM:CNX
+
+$0.030 (-14.29%) 
+
+BBRRF
+
+$0.027 (-3.27%) 
+
+BE:CNX
+
+$0.005 (0%) 
+
+BIO:CNX
+
+$0.013 (0%) 
+
+BLIS:CNX
+
+$0.315 (0%) 
+
+BLO:CNX
+
+$0.395 (2.6%) 
+
+BLOZF
+
+$0.308 (2.5%) 
+
+BUDZ
+
+$0.100 (-9.09%) 
+
+CADMF
+
+$0.052 (0%) 
+
+CALI:CNX
+
+$0.085 (13.33%) 
+
+CANN
+
+$0.230 (-2.13%) 
+
+CARA
+
+$9.060 (-6.69%) 
+
+CBWTF
+
+$0.062 (0.16%) 
+
+CGC
+
+$2.540 (-0.97%) 
+
+CGRW
+
+$0.016 (-22%) 
+
+CHOO:CNX
+
+$0.005 (0%) 
+
+CHOOF
+
+$0.003 (-16%) 
+
+CNBX
+
+$3.990 (0%) 
+
+CNGGF
+
+$0.203 (0%) 
+
+CODI
+
+$22.680 (0.22%) 
+
+CPMD
+
+$0.020 (-4.81%) 
+
+CRBP
+
+$0.281 (0.07%) 
+
+CRON
+
+$3.050 (0.33%) 
+
+CROP:CNX
+
+$0.015 (0%) 
+
+CSI:CNX
+
+$0.070 (-12.5%) 
+
+CURR
+
+$0.349 (2.65%) 
+
+CVSI
+
+$0.033 (7.49%) 
+
+DIGP
+
+$0.014 (0%) 
+
+EEVVF
+
+$0.078 (0%) 
+
+EMHTF
+
+$0.039 (10.17%) 
+
+EPWCF
+
+$0.059 (0%) 
+
+FFT:CNX
+
+$0.040 (0%) 
+
+FNNZF
+
+$0.075 (13.64%) 
+
+GNBT
+
+$0.001 (0%) 
+
+GRIN:CNX
+
+$0.075 (-16.67%) 
+
+GRWG
+
+$4.840 (-1.83%) 
+
+GTBIF
+
+$10.150 (-1.46%) 
+
+GTII:CNX
+
+$13.090 (-1.65%) 
+
+GWPH
+
+$218.960 (0%) 
+
+HEXO
+
+$0.196 (-0.56%) 
+
+HHPHF
+
+$0.079 (0%) 
+
+HLSPY
+
+$0.363 (0%) 
+
+HMLSF
+
+$2.800 (0%) 
+
+HMPPF
+
+$0.498 (0%) 
+
+HRVOF
+
+$0.023 (-11.07%) 
+
+HSTRF
+
+$0.135 (0%) 
+
+HUGE:CNX
+
+$1.180 (-1.67%) 
+
+IAN:CNX
+
+$0.075 (0%) 
+
+IGC
+
+$0.520 (-3.02%) 
+
+IGXT
+
+$0.219 (13.76%) 
+
+IIPR
+
+$92.910 (-2.5%) 
+
+INQD
+
+$0.009 (-3.23%) 
+
+IONC:CNX
+
+$0.005 (0%) 
+
+IONKF
+
+$0.005 (-2.04%) 
+
+ISOL:CNX
+
+$0.035 (0%) 
+
+ITHUF
+
+$0.062 (5.65%) 
+
+KBEV:CNX
+
+$0.045 (0%) 
+
+KHRNF
+
+$0.091 (-2.15%) 
+
+KSHB
+
+$0.695 (0%) 
+
+LHS:CNX
+
+$1.470 (0%) 
+
+LHSIF
+
+$1.145 (0%) 
+
+LXX:CNX
+
+$8.400 (0%) 
+
+MCIG
+
+$0.028 (0%) 
+
+MEDIF
+
+$0.057 (1.15%) 
+
+MGWFF
+
+$0.060 (9.57%) 
+
+MJ:CNX
+
+$0.050 (0%) 
+
+MJNA
+
+$0.015 (1.4%) 
+
+MNTR
+
+$0.040 (0%) 
+
+MYM:CNX
+
+$0.140 (0%) 
+
+MYMMF
+
+$0.106 (0%) 
+
+NCNNF
+
+$0.058 (0%) 
+
+NDVAF
+
+$0.111 (-6.17%) 
+
+NGW:CNX
+
+$0.410 (0%) 
+
+NRXCF
+
+$0.035 (0%) 
+
+NSPDF
+
+$0.010 (-23.53%) 
+
+NVTQF
+
+$0.596 (0%) 
+
+NWKRF
+
+$0.424 (0%) 
+
+NXGWF
+
+$0.316 (0%) 
+
+NXTTF
+
+$0.033 (6.61%) 
+
+OH:CNX
+
+$5.330 (0%) 
+
+ORHOF
+
+$4.050 (0%) 
+
+PHCG
+
+$0.001 (0%) 
+
+PHVAF
+
+$0.038 (0%) 
+
+PILL:CNX
+
+$0.230 (-17.86%) 
+
+PKG:CNX
+
+$0.020 (-20%) 
+
+PLPRF
+
+$0.357 (0%) 
+
+PLUS:CNX
+
+$0.440 (0%) 
+
+PMCB
+
+$2.420 (0%) 
+
+PNPL
+
+$0.012 (0%) 
+
+PTNYF
+
+$0.018 (3.24%) 
+
+QCA:CNX
+
+$0.095 (-5%) 
+
+RDDTF
+
+$0.020 (1.53%) 
+
+RLLVF
+
+$0.001 (0%) 
+
+RMHB
+
+$0.028 (2.8%) 
+
+RQB:CNX
+
+$0.005 (0%) 
+
+RQHTF
+
+$0.448 (2.99%) 
+
+SLNG:CNX
+
+$0.095 (-9.52%) 
+
+SMG
+
+$83.180 (-1.21%) 
+
+SNN:CNX
+
+$0.155 (0%) 
+
+SOL:CNX
+
+$0.320 (0%) 
+
+SOLCF
+
+$0.250 (0%) 
+
+SPLIF
+
+$0.016 (-15.79%) 
+
+SPRWF
+
+$0.268 (0%) 
+
+STEM:CNX
+
+$0.035 (0%) 
+
+STMH
+
+$0.028 (1.45%) 
+
+SUN:CNX
+
+$0.150 (0%) 
+
+TBPMF
+
+$0.052 (3.82%) 
+
+TCAN:CNX
+
+$0.135 (0%) 
+
+TCNAF
+
+$0.080 (0%) 
+
+TER:CNX
+
+$3.480 (-0.57%) 
+
+TGEN
+
+$1.200 (0%) 
+
+TGIF:CNX
+
+$0.025 (-16.67%) 
+
+TGIFF
+
+$0.020 (-12.28%) 
+
+THC:CNX
+
+$0.048 (0%) 
+
+THCBF
+
+$0.044 (12.85%) 
+
+TLRY
+
+$3.540 (1.14%) 
+
+TRLFF
+
+$0.035 (0%) 
+
+TRSSF
+
+$2.710 (0.37%) 
+
+TURV
+
+$0.001 (0%) 
+
+VIDA:CNX
+
+$0.055 (0%) 
+
+VIN:CNX
+
+$0.015 (0%) 
+
+VPRB
+
+$0.047 (-6%) 
+
+VRTHF
+
+$0.026 (0%) 
+
+VVCIF
+
+$0.035 (-8.14%) 
+
+WAYL:CNX
+
+$0.740 (0%) 
+
+XXII
+
+$1.740 (-12.12%) 
+
+ZDPY
+
+$0.740 (-2.63%) 
+
+ZYNE
+
+$1.190 (-0.83%) Vancouver, British Columbia–(Newsfile Corp. – May 25, 2023) – Vext Science, Inc. (CSE: VEXT) (OTCQX: VEXTF) (“VEXT” or the “Company”) a U.S.-based cannabis operator with vertical operations in Arizona and Ohio1, today reported its financial results for the period ended March 31, 2023. All currency references used in this news release are in U.S. currency unless otherwise noted. Summary Financial Results   Management Commentary Eric Offenberger, CEO of Vext, commented, “The first quarter of 2023 marked a solid start to the year for Vext in the context of a challenging environment across the board for consumer-facing businesses. In Arizona, the state reported a ~15% decrease in overall sales in the first two months of the year, as compared to the same period in 2022. Despite these challenges, our operated dispensaries outperformed the overall state average. Our team has been successful at driving higher traffic and maintaining a recurring customer base, to help compensate for lower average basket sizes, as consumers continue to watch their discretionary spending. Vext’s vertically integrated operations, where we only cultivate flower that we can sell through our own retail footprint, our focus on efficient retail operations and our proven track record of driving efficiencies set the Company up well both through this period, as well as for growth as the economic backdrop improves.” “For the remainder of the year, we will continue to focus on strengthening our presence in Arizona and preparations to close the acquisition of vertical operations in Ohio1, which we see as the next major growth opportunity for Vext, given its limited license structure and potential for future adult-use transition. Our strong balance sheet and proven experience as a profitable operator positions us well to continue to gain market share across our footprint, while building value for shareholders,” added Mr. Offenberger. Q1 2023 Financial Results Conference Call Vext will host a conference call and webcast on Thursday, May 25, 2023 at 8:00 a.m. ET to discuss its first quarter financial results. Date: May 25, 2023 | Time: 8:00am ET
+Participant Dial-in: 416-915-3239 or 1-800-319-4610
+Replay Dial-in: 1-800-319-6413
+Conference ID: 10021826
+Playback #: 0139 (Expires on June 8, 2023)
+Listen to webcast:https://www.gowebcasting.com/12550 For more details, visit Vext’s investor website or contact the IR team at investors@vextscience.com. Non-IFRS Financial Measure The Company has provided certain non-IFRS financial measures including “Gross margin”, “Adjusted Gross Margin”, “EBITDA”, “Adjusted EBITDA” and “Adjusted EBITDA margin”. These non-IFRS financial measures do not have a standardized definition under IFRS, nor are they calculated or presented in accordance with IFRS and may not be comparable to similar measures presented by other companies. The Company defines “Gross margin” as Gross Profit divided by Revenue and “Adjusted Gross Margin” as Gross margin before the impact of biological assets, as adjusted for one-time inventory fair value adjustment, divided by Revenue. The Company defines EBITDA as earnings before interest, taxes, depreciation and amortization. The Company defines “Adjusted EBITDA” as net income (loss) from operations, as reported, before interest and tax, adjusted to exclude extraordinary items, non-recurring items, other non-cash items, including stock-based compensation expense, depreciation and amortization, foreign exchange and acquisition related costs, if applicable. The Company defines “Adjusted EBITDA margin” as Adjusted EBITDA divided by Revenue. The Company has provided these non-IFRS financial measures as supplemental information and in addition to the financial measures that are calculated and presented in accordance with IFRS. The Company believes that these supplemental non-IFRS financial measures provide a valuable additional measure to use when analyzing the operating performance of the business. These supplemental non-IFRS financial measures should not be considered superior to, as a substitute for or as an alternative to, and should only be considered in conjunction with, the IFRS financial measures presented herein. The following information provides reconciliations of the supplemental non-IFRS financial measure presented herein to the most directly comparable financial measure calculated and presented in accordance with IFRS. Gross Margin Before Impact of Biological Assets and Adjusted Gross Margin Gross Margin Before Impact of Biological Assets is defined as: Gross Profit Before Impact of Biological Assets, divided by Revenue. Adjusted Gross Margin is defined as: Gross Margin Before Impact of Biological Assets, adjusted for one-time inventory fair value adjustment, divided by Revenue.   Adjusted EBITDA   About VEXT Science, Inc.
+Vext Science, Inc. is a U.S.-based cannabis operator with vertical operations in Arizona and Ohio1. Vext’s expertise spans from cultivation through to retail operations in its key markets. Based out of Arizona, Vext owns and operates state-of-the-art cultivation facilities, fully built-out manufacturing facilities as well as dispensaries in both Arizona and Ohio1. The Company manufactures Vapen™, one of the leading THC concentrates, edibles, and distillate cartridge brands in Arizona. Its selection of award-winning products are created with Vext’s in-house, high-quality flower and distributed across Arizona and Ohio, as well as through Vext’s partnerships in other states. Vext’s leadership team brings a proven track record of building and operating profitable multi-state operations, with the Company having operated profitably since 2016. The Company’s primary focus is to continue growing in its core states of Arizona and Ohio, bringing together cutting-edge science, manufacturing, and marketing to provide a reliable and valuable customer experience while generating shareholder value. Vext Science is listed on the Canadian Securities Exchange under the symbol VEXT and trades on the OTCQX market under the symbol VEXTF. Learn more at www.vextscience.com and connect with Vext on Twitter and LinkedIn. For more details on the Vapen brand:
+Vapen website: VapenBrands.com
+Instagram: @vapen
+Facebook: @vapenbrands Forward Looking Statements This news release contains “forward-looking statements”. Wherever possible, words such as “may”, “would”, “could”, “should”, “will”, “anticipate”, “believe”, “plan”, “expect”, “intend”, “estimate”, “potential for”, “see” and similar expressions have been used to identify these forward-looking statements. These forward-looking statements reflect the current expectations of the Company’s management for future growth, results of operations, performance and business prospects and opportunities and involve significant known and unknown risks, uncertainties and assumptions, including, without limitation: the Company’s outlook for and expected operating margins, capital allocation and other financial results; statements relating to the business and future activities of, and developments related thereto, the Company after the date of this news release, including such things as future business strategy, competitive strengths, goals, expansion and growth of the Company’s business, operations and plans; expectations regarding cultivation and manufacturing capacity; expectations of market size and growth in the U.S. and the states in which the Company operates; inflation pressures; the timeline to buildout the Eloy cultivation facility; expectations for other economic business or competitive factors related to the Company; the Company’s business outlook, those listed in the Company’s filings with the Canadian securities regulatory authorities (which may be viewed at www.sedar.com). Should one or more of these risks or uncertainties materialize or should assumptions underlying the forward-looking statements prove incorrect, actual results, performance or achievements may vary materially from those expressed or implied by the forward-looking statements contained in this news release. These factors should be considered carefully, and prospective investors should not place undue reliance on the forward-looking statements. The Company disclaims any intention or obligation to revise forward-looking statements whether as a result of new information, future developments or otherwise, except as required by law. The Canadian Securities Exchange has not reviewed, approved or disapproved the content of this news release. Eric Offenberger
+Chief Executive Officer
+844-211-3725 For further information:
+Jonathan Ross, Vext Investor Relations
+jon.ross@loderockadvisors.com
+416-244-9851 SOURCE: VEXT Science, Inc. 1 Vext has entered into a definitive agreement to acquire Appalachian Pharm Processing, LLC, an Ohio limited liability company, together with its subsidiaries and affiliated companies. Subject to regulatory approval, this proposed acquisition (the “Ohio Acquisition”) is expected to close by the end of the third quarter of 2023.
+2 See “Non-IFRS Financial Measures” below for more information regarding Vext’s use of non-IFRS financial measures and other reconciliations.
+3 Adjusted Gross Margin is adjusted for the one-time fair value adjustments to inventory in Q1 & Q2 2022 that were made as a result of Vext’s transition to a for-profit operating and accounting model. The Company does not expect to report Adjusted Gross Margin on an ongoing basis after Q2 2023.  To view the source version of this press release, please visit https://www.newsfilecorp.com/release/167392 SOURCE VEXT Science, Inc. 
+Michael Berger is Managing Partner of StoneBridge Partners, LLC and Founder of Technical420.com. Prior to entering the cannabis industry, Michael was an Equity Research Analyst at Raymond James Financial covering the Energy Sector. Michael has been featured in publications such as The Street, Bloomberg, US Money News, and hosts various cannabis events across North America.  Enter your email below to join the official Technical420 newsletter.  Email*
+CAPTCHAEmailThis field is for validation purposes and should be left unchanged.  
+
+
+
+
+
+
+
+ Enter your email below to join the official Technical420 newsletter. Technical420 is dedicated to educating investors about the risk and rewards of investing in the cannabis industry. We highlight companies that have the most growth potential by utilizing our proprietary analytics platform. Technical420, LLC. is not a licensed broker-dealer, market maker, investment advisor, or underwriter. All information that we provide is for informational purposes only and should not be construed as an offer or solicitation of an offer to buy or sell securities. Furthermore, investing in such securities involves substantial risk of loss and investors should seek advice from financial professionals before investing. Subscribe now and learn how you can capitalize on the Green Age!       

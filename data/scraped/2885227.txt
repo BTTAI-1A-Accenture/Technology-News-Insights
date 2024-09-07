@@ -1,0 +1,326 @@
+Katrina Ávila Munichiello is an experienced editor, writer, fact-checker, and proofreader with more than fourteen years of experience working with print and online publications.  The debt-service coverage ratio (DSCR) measures a firm’s available cash flow to pay its current debt obligations. The DSCR shows investors and lenders whether a company has enough income to pay its debts. The ratio is calculated by dividing net operating income by debt service, including principal and interest.
+ Mira Norian / Investopedia  The debt-service coverage ratio is a widely used indicator of a company’s financial health, especially for companies that are highly leveraged with debt. Debt service refers to the cash necessary to pay the required principal and interest of a loan during a given period.
+  The ratio compares a company’s total debt obligations to its operating income. Lenders, stakeholders, and partners target DSCR metrics and DSCR terms and minimums are often included in loan agreements.
+  The formula for the debt-service coverage ratio requires net operating income and the total debt servicing for a company. Net operating income is a company’s revenue minus certain operating expenses (COE), not including taxes and interest payments. It's often considered equal to earnings before interest and tax (EBIT). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DSCR
+
+
+=
+
+
+
+Net Operating Income
+
+
+Total Debt Service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+where:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net Operating Income
+
+
+=
+
+
+Revenue
+
+
+−
+
+
+COE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COE
+
+
+=
+
+
+Certain operating expenses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Debt Service
+
+
+=
+
+
+Current debt obligations
+
+
+
+
+
+
+
+\begin{aligned} &\text{DSCR} = \frac{ \text{Net Operating Income} }{ \text{Total Debt Service} } \\ &\textbf{where:} \\ &\text{Net Operating Income} = \text{Revenue} - \text{COE} \\ &\text{COE} = \text{Certain operating expenses} \\ &\text{Total Debt Service} = \text{Current debt obligations} \\ \end{aligned}
+
+
+​DSCR=Total Debt ServiceNet Operating Income​where:Net Operating Income=Revenue−COECOE=Certain operating expensesTotal Debt Service=Current debt obligations​ Total debt service refers to current debt obligations including any interest, principal, sinking fund, and lease payments that are due in the coming year. This will include short-term debt and the current portion of long-term debt on a balance sheet. Income taxes complicate DSCR calculations because interest payments are tax deductible and principal repayments are not. A more accurate way to calculate total debt service would be to compute it like this: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TDS
+
+
+=
+
+
+(
+
+
+Interest
+
+
+×
+
+
+(
+
+
+1
+
+
+−
+
+
+Tax Rate
+
+
+)
+
+
+)
+
+
++
+
+
+Principal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+where:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TDS
+
+
+=
+
+
+Total debt service
+
+
+
+
+
+
+
+\begin{aligned} &\text{TDS} = ( \text{Interest} \times ( 1 - \text{Tax Rate} ) ) + \text{Principal} \\ &\textbf{where:} \\ &\text{TDS} = \text{Total debt service} \\ \end{aligned}
+
+
+​TDS=(Interest×(1−Tax Rate))+Principalwhere:TDS=Total debt service​
+  The debt-service coverage ratio reflects the ability to service debt at a company's income level. The DSCR shows how healthy a company’s cash flow is and it can determine how likely a business is to qualify for a loan. Lenders routinely assess a borrower’s DSCR.
+  A DSCR of 1.00 indicates that a company has exactly enough operating income to pay off its debt service costs. A DSCR of less than 1.00 denotes a negative cash flow. The borrower may be unable to cover or pay current debt obligations without drawing on outside sources or borrowing more. A DSCR of 0.95 means there's only enough net operating income to cover 95% of annual debt payments.
+  The entity may appear vulnerable and a minor decline in cash flow could render it unable to service its debt if the debt-service coverage ratio is too close to 1.00. Lenders might require the borrower to maintain a minimum DSCR while the loan is outstanding.
+ A DSCR of at least 2.00 is typically considered to be very strong even though there's no industry standard. It shows that a company can cover two times its debt. Many lenders will set minimum DSCR requirements of 1.2 to 1.25.  The interest coverage ratio indicates the number of times that a company’s operating profit will cover the interest it must pay on all debts for a given period. This is expressed as a ratio and is most often computed annually.
+  Divide the EBIT for the established period by the total interest payments due for that same period. The EBIT is often called net operating income or operating profit. It's calculated by subtracting overhead and operating expenses such as rent, cost of goods, freight, wages, and utilities from revenue.
+  The higher the ratio of EBIT to interest payments, the more financially stable the company. This metric only considers interest payments and not payments made on principal debt balances that may be required by lenders.
+  The debt-service coverage ratio assesses a company’s ability to meet its minimum principal and interest payments, including sinking fund payments. EBIT is divided by the total amount of principal and interest payments required for a given period to obtain net operating income to calculate the DSCR. It takes principal payments into account in addition to interest so the DSCR is a more robust indicator of a company’s financial fitness.
+  The DSCR is a commonly used metric when negotiating loans but it does come with some pros and cons.
+  The DSCR has value when calculated consistently over time, just like other ratios. A company can calculate monthly DSCR to analyze its average trend and project future ratios. A declining DSCR might be an early signal for a decline in a company’s financial health or it can be used extensively in budgeting or strategic planning.
+  The DSCR can also have comparability across different companies. Management might use DSCR calculations from its competitors to analyze how it's performing relative to others. This might include analyzing how efficient other companies are in using loans to drive company growth.
+  The DSCR is also a more comprehensive analytical technique when assessing the long-term financial health of a company. The DSCR is a more conservative, broad calculation compared to the interest coverage ratio.
+  The DSCR is also an annualized ratio that often represents a moving 12-month period. Other financial ratios are typically a single snapshot of a company’s health. The DSCR may be a truer representation of a company’s operations.
+  The DSCR calculation can be adjusted to be based on net operating income, EBIT, or earnings before interest, taxes, depreciation, and amortization (EBITDA). It depends on the lender’s requirements. The company’s income is potentially overstated because not all expenses are being considered when operating income, EBIT, or EBITDA are used. Income isn't inclusive of taxes in any of these three examples.
+  Another limitation of the DSCR is its reliance on accounting guidance. Debt and loans are rooted in obligatory cash payments but the DSCR is partially calculated on accrual-based accounting guidance. There's a little bit of inconsistency when reviewing both a set of financial statements based on generally accepted accounting principles (GAAP) and a loan agreement that stipulates fixed cash payments.
+ Can be calculated over some time to better understand a company’s financial trend May be used to compare operational efficiency across companies Includes more financial categories (i.e., principal repayments) than other financial ratios Might be a more comprehensive analysis of a company’s financial health, as it is often calculated on a rolling annual basis May not fully incorporate a company’s finances, as some expenses (i.e., taxes) may be excluded Has heavy reliance on accounting guidance that may widely vary from actual timing of cash needs May be considered a more complex formula compared with other financial ratios Does not have consistent treatment or requirement from one lender to another  Let’s say a real estate developer seeks a mortgage loan from a local bank. The lender will want to calculate the DSCR to determine the ability of the developer to borrow and pay off their loan as its rental properties generate income. The developer indicates that net operating income will be $2,150,000 per year and the lender notes that debt service will be $350,000 per year. The DSCR is calculated as 6.14×. The borrower can cover their debt service more than six times given their operating income. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DSCR
+
+
+=
+
+
+
+
+$
+
+
+2
+
+
+,
+
+
+150
+
+
+,
+
+
+000
+
+
+
+
+$
+
+
+350
+
+
+,
+
+
+000
+
+
+
+
+=
+
+
+6.14
+
+
+
+
+
+
+
+\begin{aligned} &\text{DSCR} = \frac{ \$2,150,000 }{ \$350,000 } = 6.14 \\ \end{aligned}
+
+
+​DSCR=$350,000$2,150,000​=6.14​
+  MK Lending Corp has outlined its debt requirements for new mortgages. The columns highlighted in yellow represent investors with a DSCR greater than or equal to 1.00. The orange columns represent investors with a DSCR of less than 1.00. The yellow investors are less risky so their loan terms and LTV/CLTV terms are more favorable than those of the orange investors.
+ MK Lending Corp.  Sun Country Inc. entered into an agreement with the U.S. Department of the Treasury and the Bank of New York Mellon. Sun Country agreed to several financial covenants as part of the loan and guarantee agreement.
+  Certain trigger events will occur should Sun Country’s DSCR fall below a specified level. Certain stopgaps will be enacted to protect the lenders when triggers occur. The lenders will receive 50% of select revenues for a specific amount of time should Sun Country’s DSCR drop below 1.00.
+ The DSCR is calculated by taking net operating income and dividing it by total debt service which includes both the principal and interest payments on a loan. A business's DSCR would be approximately 1.67 if it has a net operating income of $100,000 and a total debt service of $60,000. The DSCR is a commonly used metric when negotiating loan contracts between companies and banks. A business applying for a line of credit might be obligated to ensure that its DSCR doesn't dip below 1.25. The borrower could be found to have defaulted on the loan if it does. DSCRs can also help analysts and investors when analyzing a company’s financial strength in addition to helping banks manage their risks. A good DSCR depends on the company’s industry, its competitors, and its growth. A smaller company that's just beginning to generate cash flow might face lower DSCR expectations compared with a mature company that's already well-established. A DSCR above 1.25 is often considered strong as a general rule, however. Ratios below 1.00 could indicate that the company is facing financial difficulties.  The DSCR is a commonly used financial ratio that compares a company’s operating income to the company’s debt payments. The ratio can be used to assess whether a company has sufficient income to meet its principal and interest obligations. The DSCR is commonly used by lenders or external parties to mitigate risk in loan terms.
+ MyAccountingCourse. "Debt Service Coverage Ratio." CFI Education. "Debt Service Coverage Ratio." U.S. Department of the Treasury. “Loan and Guarantee Agreement.” Griffin Funding. "What Is a Good Debt Service Coverage Ratio?"

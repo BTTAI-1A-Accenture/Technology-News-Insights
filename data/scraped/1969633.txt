@@ -1,0 +1,1 @@
+HTTPConnectionPool(host='markets.buffalonews.com', port=80): Max retries exceeded with url: /buffnews/article/issuewire-2023-6-18-gemhub-the-web3-game-platform-lists-on-global-exchange-mexc (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x79da939c9ae0>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kentuckytoday.com/news/business/rosen-a-leading-law-firm-encourages-arrow-financial-corporation-investors-to-secure-counsel/article_81b23293-6b32-5377-9cdb-1fc40555b0a5.html

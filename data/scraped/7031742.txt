@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://helenair.com/news/state-regional/government-politics/democrats-dems-blame-republicans-property-tax-shift-campaign/article_bc6dfffc-5296-11ee-966e-5f238a6815c8.html

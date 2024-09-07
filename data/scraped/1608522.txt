@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/rezonate-expands-its-identity-centric-security-platform-to-automatically-detect-and-stop-identity-threats/article_7222b737-726b-5270-8d5c-91c04cd7f3df.html

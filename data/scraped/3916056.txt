@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » RSAC Fireside Chat: ‘Protective DNS’ directs smart audits, automated remediation to IP addresses Domain Name Service. DNS. It’s the phone directory of the Internet. Without DNS the World Wide Web never would never have advanced as far and wide as it has. However, due to its intrinsic openness and anonymity DNS has also become engrained as the primary communications mechanism used by cyber criminals and cyber warfare combatants. If that sounds like a potential choke point that could be leveraged against the bad actors – it is. And this is where a fledgling best practice —  referred to as “protective DNS” – comes into play. What has happened is this: leading security vendors have begun applying leading-edge data analytics and automated remediation routines to the task of flagging DNS traffic that’s clearly malicious.  Guest expert: David Ratner, CEO, HYAS One sure sign that protective DNS has gained meaningful traction is that Uncle Sam has begun championing it. Last fall the U.S. Cybersecurity & Infrastructure Security Agency (CISA) began making a protective DNS resolver availabile to federal agencies. With RSA Conference 2023 taking place at San Francisco’s Moscone Center next week, I had the chance to visit with David Ratner, CEO of Vancouver, Canada-based HYAS, security company whose focus is on delivering protective DNS services. Ratner explains what protective DNS is all about, and why its widespread adaption will make the Internet much safer. For a full drill down, give the accompanying podcast a listen. I’ll keep watch and keep reporting.  Acohido Pulitzer Prize-winning business journalist Byron V. Acohido is dedicated to fostering public awareness about how to make the Internet as private and secure as it ought to be. (LW provides consulting services to the vendors we cover.)   April 18th, 2023    *** This is a Security Bloggers Network syndicated blog from The Last Watchdog authored by bacohido. Read the original post at: https://www.lastwatchdog.com/rsac-fireside-chat-protective-dns-directs-smart-audits-automated-remediation-to-ip-addresses/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

@@ -1,0 +1,11 @@
+connectBlue, a provider of robust wireless solutions in demanding applications, has signed an agreement with Sigma Connectivity, a leading consultancy company for realizing solutions for Internet of Things.
+
+	Sigma Connectivity will develop automated test fixtures, to be used as test tools in the production facilities where connectBlue’s latest Multiradio module OWL355 is being produced. The same system is planned to be used for all connectBlue’s products. The automated test fixtures are designed for high volume production and will add flexibility through modular design and increase the current capacity.
+
+	“We are pleased to announce our cooperation with connectBlue to deliver a robust test solution for their latest Multiradio module. Our ability to offer robust, flexible and cost efficient test solutions is based on many years of high volume production experience. We are happy to be chosen as partner to connectBlue, and we are confident that we can make a difference in meeting their demand for speed and quality.” says Fredrik Hedlund, CEO of Sigma Connectivity.
+
+	“Though our wireless products already are well-known for their robust and reliable operation under the harshest of conditions, we constantly look at how to make the production more streamlined, faster and of even higher quality,” says Rolf Nilsson, CEO of connectBlue. “This is why we have entered into collaboration with Sigma Connectivity to apply an automated test procedure in the production facilities.”
+
+	The automated test fixtures will as a first step be introduced in the production of the recently launched Multiradio Module OWL355. The OWL355 meets a higher quality level regarding both IPC class and AQL standards.
+
+	>>For more information, click here Leaders relevant to this article:

@@ -1,0 +1,23 @@
+
+New connectivity options available today result in faster time-to-market and greater developer productivity
+ 
+GraphQL innovation leader Hasura today announced support for CockroachDB and AWS Athena, with support for Snowflake coming soon. These native integrations eliminate the time-consuming and redundant backend code traditionally written for each new database, data source, data service and application. By instantly connecting to these databases and generating a GraphQL and REST API on top of them, Hasura reduces the time required to set up an app server, secure connections, develop APIs and optimize performance from weeks or months to minutes.
+ 
+Hasura continues to see strong adoption and mounting industry accolades, with more than 500M downloads and 28.6K GitHub stars, and having received Best in API Infrastructure 2022 at API World and a Silver American Business "Stevie" Award for API Management Solutions.
+ 
+Support for the platforms announced today builds on existing native integrations with PostgresQL, BigQuery and SQL Server. Once connected, users can leverage queries, mutations, and schema features using the Hasura GraphQL engine. These APIs can be used to pull data into the front end, or used to provide data-as-a-service to internal and external teams.
+ 
+"With the launch of Hasura support for CockroachDB, teams of any size can quickly and cost-effectively build resilient, scalable and low-latency GraphQL APIs to power their most important applications," said Nate Stewart, Chief Product Officer for Cockroach.
+ 
+"APIs are crucial for consuming and sharing data both within and outside the business. Yet, as modern organizations leverage increasingly varied sources of data, building APIs for these different sources can be time-consuming and painstaking work, often slowing time-to-market," said KellyAnn Fitzpatrick, senior analyst at RedMonk. "As it expands its set of native integrations to include CockroachDB and AWS Athena, Hasura is working to reduce the toil of building APIs and ease the lives of developers using these technologies."
+ 
+Hasura's event engine makes it possible to embrace cloud-native without having to worry about non-functional things including scaling, reliability and delivery guarantees. Developers can easily build business logic that publishes and consumes events, that reacts to changes in data or gets scheduled based on time.
+ 
+Hasura is ideal for:
+ 
+"The proliferation of databases and data sources in the market today is accelerating at a more rapid pace than ever before," said Tanmai Gopal, co-founder and CEO of Hasura. "Still, most users are taking advantage of the power, stability and support provided by market leaders such as those we have announced support for today. By providing out-of-the-box support for the most-used data sources and services, while enabling users to develop their own connectors for the myriad of others in the market, Hasura is making data of all types more accessible to more developers than any other company, using GraphQL APIs."
+ 
+About Hasura
+ 
+Hasura is helping to build the modern world of globally relevant, data-driven applications and APIs. Hasura's range of data access solutions helps organizations accelerate product delivery by instantly connecting data and services to applications with GraphQL APIs. Hasura was open-sourced in July 2018, and is used by tens of thousands of developers as the data access layer for modern applications. Hasura has also seen adoption across Fortune 500 corporations, fast growing startups & product development agencies. We are a globally distributed team, with offices in San Francisco & Bangalore. For more information, go to: https://hasura.io or follow @HasuraHQ on Twitter.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20221107005444/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

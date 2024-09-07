@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/satellogic-provides-business-update/article_21861779-2875-5cb2-8748-1c24875113fe.html

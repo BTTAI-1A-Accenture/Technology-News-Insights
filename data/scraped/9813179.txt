@@ -1,0 +1,28 @@
+
+UiPath (NYSE: PATH), a leading enterprise automation software company, today announced UiPath Clipboard AI has been selected as one of TIME's Best Inventions of 2023. Compiled based on evaluations by TIME editors, correspondents, and staff, the annual list of Best Inventions recognizes the innovations that are changing the way we live, work, and play.
+
+ 
+Clipboard AI was named to the Productivity Category because it removes the need for anyone to manually copy-paste. A user simply highlights information, then points Clipboard AI toward the destination?another form, another app, or another table?and Clipboard AI figures out where the data should go and pastes it. Clipboard AI can even take information visible in images such as screenshots, scans, or screens and make it actionable by copying it to other forms.
+
+ 
+Clipboard AI was selected to the TIME Best Inventions of 2023 list from a pool of thousands of global nominations. TIME evaluates each contender on a number of key factors, including originality, efficacy, ambition, and impact.
+
+ 
+"As soon as it's installed, Clipboard AI provides instant value and enables anyone to take advantage of the time-saving power of automation and superior intelligence of AI," said Daniel Dines, Co-CEO and Co-founder, UiPath. "AI has always been at the core of the UiPath Business Automation Platform, and this achievement from TIME is a testament to our ongoing effort to bring innovations to market that not only make businesses more productive, but greatly improve how AI can enable humans."
+
+ 
+With Clipboard AI, people are relieved of time-intensive, manual tasks of moving information from one place to another, allowing them to prioritize tasks that will deliver greater value. For example, Wesco International, a leading provider of business-to-business distribution, logistics services, and supply chain solutions, is leveraging UiPath Clipboard AI to automate several tasks, including document-heavy operations. Clipboard AI allows Wesco to take different document types and convert them to digital formats that can be used widely. Businesses that leverage Clipboard AI can enhance productivity, improve customer and employee satisfaction, and improve operational efficiency.
+
+ 
+Clipboard AI is one of the many solutions UiPath offers to its more than 10,000 global customers to deliver on the promise of AI at Work. Most recently, the company announced UiPath Autopilottm, an integration of Generative AI, Specialized AI, and automation.
+
+ 
+Part of a host of AI news announced earlier this month at FORWARD VI, UiPath's global user conference, Autopilot empowers users to leverage natural language to prompt AI-powered automations capable of tackling even the most complex processes. By combining AI with enterprise automation to provide context and take appropriate action, UiPath is revolutionizing how organizations can access and derive value from AI in everyday workplace settings.
+
+ 
+See the full list of TIME's Best Inventions of 2023. To download a free trial of Clipboard AI, visit here.
+
+ 
+About UiPath
+UiPath is on a mission to uplevel knowledge work so more people can work more creatively, collaboratively, and strategically. The AI-powered UiPath Business Automation Platform combines the leading robotic process automation (RPA) solution with a full suite of capabilities to understand, automate, and operate end-to-end processes, offering unprecedented time-to-value. For organizations that need to evolve to survive and thrive through increasingly changing times, UiPath is The Foundation of Innovationtm.
+

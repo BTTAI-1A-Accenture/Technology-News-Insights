@@ -1,0 +1,24 @@
+
+Dialpad, Inc., the industry-defining Ai-Powered Customer Intelligence Platform, today announced a $50 million investment into the continued research and development (R&D) of artificial intelligence (AI) related technologies to accelerate the development of cutting-edge features to automate business processes and provide predictive insights.
+ 
+Dialpad disrupted the collaboration market years ago by developing and releasing the first real-time speech recognition engine for enterprise conversations. The company has since extended its Ai capabilities by delivering industry-first features such as real-time assist (i.e., suggested answers to questions), virtual agents (Ai-powered self-service web and chatbots), and Ai CSAT (i.e., inferred customer satisfaction from service conversations), among others.
+ 
+"Over the next five years, Dialpad is committed to the scientific research required to move the benefits of AI to the next level," said Craig Walker, CEO, and founder of Dialpad. "Dialpad's intuitive Ai insights will simplify how work is done by enabling the end-users to become more informed decision-makers and better understand customers' unique needs."
+ 
+As the country continues to face an economic downturn, it's critical that organizations and their respective contact centers are equipped with Ai that allows them to stay ahead of their customers' needs. In fact, 63% of consumers expect organizations to know their needs in real-time. However, only 14% of marketing executives believe they have the capabilities to do so.
+ 
+Dan O'Connell, Chief Strategy Officer at Dialpad, shared, "There is a huge opportunity to leverage Ai to drive customer intelligence for every business in the world, which is why we're bullish on Ai-powered insights such as Ai CSAT, churn prediction, and revenue prediction. Another major area for us is workflow automation; to leverage Ai to save time and increase productivity; so we're doubling down on our search and information retrieval capabilities to do things such as suggest answers to questions and append notes to CRM records. This additional investment ensures that we will remain a leader in delivering cutting-edge Ai-powered features. We have a unique and exceptional Ai team made up of industry experts in product, engineering, and research. Dialpad Ai Labs provides an opportunity to leverage this talent to further experiment in Ai-feature development and push boundaries in exploration."
+ 
+In the last year alone, nine academic research papers written by Dialpad's Ai Engineers focusing on Natural Language Processing (NLP) were accepted at top academic conferences including the North American Chapter of the Association for Computational Linguistics (NAACL), COLING 2022, and published on ARXIV. This month, two academic research papers were presented at the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), one of which received the best paper award at the DaSH Workshop. To date, Dialpad Ai has transcribed more than 3.46 billion minutes with unmatched accuracy to help businesses analyze their market, customer, and sales intelligence.
+ 
+As a stepping stone to today's announcement, in June 2022, Dialpad launched the industry's first real-time customer satisfaction score (CSAT), called Ai CSAT. The product automatically infers customer satisfaction from any digital or voice conversation, removing the need for additional software or post-call surveys.
+ 
+The investment in R&D and the creation of Dialpad Ai Labs comes on the heels of Dialpad's announcement of its Ai-Powered Customer Intelligence Platform and its commitment to integrating AI across all channels including Ai Contact Center, Ai Sales, Ai Voice, Ai Meetings, and Ai Messaging.
+ 
+Dialpad Ai Labs is available to qualified Dialpad customers. Customers can reach out to their CSM for more details.
+ 
+Learn more:
+ 
+About Dialpad
+ 
+Dialpad is the leading Ai-powered Customer Intelligence Platform that is completely transforming how the world works together. We've designed one, beautiful workspace that seamlessly combines the most advanced Ai Contact Center, Ai Sales, Ai Voice and Ai Meetings with Ai Messaging. More than 30,000 innovative brands and millions of people use Dialpad to unlock productivity, collaboration, and customer satisfaction with real-time Ai insights. Visit dialpad.com to learn more.

@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/goto-gojek-tokopedia-1q-loss-idr3-899t-vs-loss-idr6-614t-goto-jk-5e45e377

@@ -1,0 +1,213 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Jul 30, 2024, 8:37pm The help desk software market is growing rapidly as businesses of all sizes adopt new technologies to improve customer satisfaction and streamline operations. In this guide, we will help you choose the best help desk software for your business by providing an overview of the top products on the market and explaining the key features to look for in a good help desk solution. To come up with the best options, Forbes Advisor considered ease of use, affordability, customer service and features, such as ticket management, knowledge base management and integration with other business tools.  Featured Partners 1 Monday Service Yes Yes Yes 1 Monday Service On Monday Service’s Website 2 Freshdesk $0 14 days AI-powered automations and workflows, customized self-service 2 Freshdesk On Freshdesk’s Website 3 Salesforce $25 per user per month 14 days Yes 3 Salesforce On Salesforce’s Website 4 Zendesk Yes Yes Yes 4 Zendesk On Zendesk’s Website  The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, strategic methodologies and expert insights to inform all of our content and guide you in making the best decisions for your business journey. We reviewed 15 of the leading solutions in the space using a complex methodology to help you find the 10 best help desk software providers. Our ratings looked at key factors that included pricing, general and additional features, customer ratings and analysis by our experts. All ratings are determined solely by our editorial team. Live chat  With Enterprise plans 
+ Self-service ticketing  Yes 
+ Mobile app  Yes 
+ 
+
+With Enterprise plans
+
+
+ With Enterprise plans 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Zoho Desk is the best help desk software for small businesses because it’s feature-packed yet easy to use, and you don’t have to pay extra for features, such as a mobile app or live chat. Zoho Desk also integrates with all of Zoho’s other business apps, so if you’re already using Zoho CRM or Zoho Projects, you’ll find it easy to add Zoho Desk to your workflow. It comes with a 15-day free trial, onboarding and migration. It’s also compliant with the Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act of 2018 (CCPA) and General Data Protection Regulation (GDPR). It has three main plans ranging in price from $14 to $40 per user, per month, when billed annually. When paying monthly, prices range from $20 to $50 per user, per month. For $7 per user per month, or $9 per user per month, billed monthly, you can get Zoho Desk Express for up to five users. It comes with ticketing, social media and analytics. Zoho Desk also has a free plan with limited features. Learn more: Read our Zoho Desk review. Who should use it:  Businesses that want well-rounded help desk software with a free trial. Live chat  Yes 
+ Self-service ticketing  Yes 
+ Mobile app  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Freshdesk is the best help desk software for businesses that need a wide range of integrations because it integrates with over 1,000 marketplace apps with all paid plans. Freshdesk also has a very user-friendly interface and offers a free plan for small businesses with up to ten agents. It comes with a 21-day free trial and has add-on options. These include additional bot sessions and field service management. Paid plans start at $15 and go up to $79 per agent per month when billed annually. Monthly plans start at $18 and go up to $95 per agent per month. Learn more: Read our Freshdesk review. Who should use it: Businesses that want customizable help desk software with a wide range of integrations. Live chat  Add-on 
+ Self-service ticketing  Add-on 
+ Mobile app  Yes 
+ 
+
+Add-on
+
+
+ Add-on 
+ 
+
+Add-on
+
+
+ Add-on 
+ 
+
+Yes
+
+
+ Yes 
+ Each of Jira’s plans come with enterprise service management tools. These include templates for HR service management, facility service management, legal service management, general service management and customer service management. If you need help desk software that can double as enterprise service management software, Jira is a good option. Jira offers four plans. There is a free plan and three paid plans that start at $22.05 per agent per month. If paying annually, you’re paying $650 to $1,500 per year for up to three agents. If you have 201 or more agents, you can get an Enterprise plan, which reportedly costs $134,500 per year for up to 300 agents. However, you need to contact sales for a custom quote. Learn more: Read our Jira Service Management review. Who should use it:  Businesses that want enterprise service management software with help desk features. Live chat  Yes 
+ Self-service ticketing  Yes 
+ Mobile app  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ From a single agent workspace, your employees can interact with customers, track communication and assign priority with Zendesk for Service. There are more than 1,000 integrations to further expand the tool, allowing your agents to be more efficient, provide a better customer experience and work seamlessly with other software. It has advanced routing and intelligence, as well as collaboration tools to connect internal and external teams. You can also develop custom integrations with its API. Zendesk for Service offers a free trial and plans starting at $55 per agent per month, billed annually. If you’re just looking for basic support, such as ticketing, business rules, analytics and interaction history, you could choose a foundational support plan, starting at $19 per agent per month, billed annually. Who should use it: Businesses that want a customer service help desk with advanced features and integrations. Live chat  Yes 
+ Self-service ticketing  Add-on 
+ Mobile app  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Add-on
+
+
+ Add-on 
+ 
+
+Yes
+
+
+ Yes 
+ Hiver is a Gmail-specific help desk that makes it easy for your team to collaborate on customer service issues. It’s designed to work with Gmail, so you can manage all of your customer service communications in one place. You can also use Hiver to track internal emails and tasks, making it a good option for businesses that want to keep all of their email communications in one place. Hiver offers a seven-day free trial and plans ranging from $15 to $59 per user, per month, when billed annually. Features include chat, shared drafts, unlimited tags, unlimited shared inboxes, onboarding assistance and 24/7 email and chat support. Who should use it:  Businesses that want a Gmail-specific help desk solution. Live chat  Yes 
+ Self-service ticketing  Add-on 
+ Mobile app  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Add-on
+
+
+ Add-on 
+ 
+
+Yes
+
+
+ Yes 
+ Help Scout is designed to be simple and easy to use. It’s a good option if you’re looking for a help desk solution that’s easy to set up and doesn’t require a lot of training. The company offers 24/6 support, as well as a library of resources, so you can get help when you need it. Help Scout offers a 15-day free trial, a 30-day money-back guarantee, and plans start at $22 per user per month when billed annually. This certified B corporation (B-corp) plants a tree when you become a customer. Who should use it: Businesses that want an easy-to-use help desk solution. Live chat  Add-on 
+ Self-service ticketing  Yes 
+ Mobile app  Yes 
+ 
+
+Add-on
+
+
+ Add-on 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Freshservice is a good option if you’re looking for a help desk solution that’s focused on incident management. It includes all the tools you need to resolve incidents quickly, including logging, analysis and resolution. Freshservice has a self-service portal, SLA management and workflow automation. Plans start at $19 per agent per month when billed annually. Month to month, you’ll pay $29 per month for its cheapest plan. Its 21-day free trial lets you test drive the service without entering any credit card information. Higher-tiered plans include on-call management, approval workflows, cloud management, team dashboards and a sandbox. Who should use it: Businesses that want a help desk solution focused on incident management. Live chat  No 
+ Self-service ticketing  Yes 
+ Mobile app  Yes 
+ 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Spiceworks Cloud Help Desk is a good option if you’re looking for a free help desk solution. It includes all the basic features you need to get started, including ticket management, remote support sessions, alerts, ticket rules, monitors, push notifications, reports, customization, tasks, active directory integration, user self-service, multi-site support, ticket collaboration and team management. It sets up in minutes and has virtually no learning curve. There’s no ticket or admin limit, and it’ll remain free. It can do this through partnerships with complementary software. Many of these vendors offer discounts right inside Spiceworks so you can further expand your toolkit without busting your budget. Who should use it: Businesses that want a free help desk solution. Live chat  Yes 
+ Self-service ticketing  Yes 
+ Mobile app  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ A ticketing system is a great way to keep things organized on the back end, but it doesn’t make for a great user experience. With Front, you’ve got shared inboxes so you’re working from the same queue, and built-in message assignments let you know who’s working on what. Teammates can see conversation history so they can pick up where you left off if you’re on vacation. Plus, Front integrates with platforms such as Salesforce and Nicereply, helping expand its capabilities. Plans start at $19 per user per month when billed annually (minimum users apply). Who should use it: Businesses that want a ticket-free help desk solution. Live chat  Add-on 
+ Self-service ticketing  Yes 
+ Mobile app  Yes 
+ 
+
+Add-on
+
+
+ Add-on 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ HappyFox’s multilingual agent portal makes it a good option if you have a global team. In addition to English, it’s available in Albanian, Arabic, Brazilian, Bulgarian, Croatian, Czech, Danish, Deutsche, Dutch, French, German, Greek, Hebrew, Hindi, Hungarian, Italian, Japanese, Korean, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Simplified Chinese, Slovenian, Spanish, Swedish, Thai, Traditional Chinese, Turkish and Ukrainian. This means HappyFox will automatically translate the text, no matter what language your customer uses for the message. It even supports multilingual knowledge base articles. Plans start at $9 per agent, per month, billed annually under a two-year contract (minimum agents apply). Who should use it: Businesses with a global team that need a multilingual help desk solution. 
+ Help desk software is a tool that businesses use to manage customer inquiries and support tickets. It aids companies in tracking customer problems, apportioning jobs to team members and ensuring customer inquiries are replied to promptly and competently. Help desk software typically includes features such as ticket management, knowledge base management and reporting and analytics. Businesses of all sizes, from small startups to large corporations, use help desk software. Companies of all sizes can use it to make customer support processes more efficient and boost customer satisfaction. “Service desk” and “help desk” are often thought of as the same thing, although there are some key differences between them. A help desk typically provides support for incident management or break-fix issues, while a service desk goes beyond that to assist with service requests, information requests and other IT service management (ITSM) activities. A service desk is more customer-focused, prioritizing delivering high-quality service to customers quickly. ITSM is the broader concept that encompasses all the processes and activities involved in delivering IT services to customers. ITSM teams manage the end-to-end delivery of IT services, including designing, creating, delivering and supporting IT services. ITSM generally includes several core processes, such as service request management, knowledge management, IT asset management, incident management, problem management and change management. Help desk software can provide numerous benefits for businesses and organizations, including: There are many factors to consider when obtaining help desk software for your business. The biggest component to consider is the features you need, though that’s not the only thing. Other considerations include integrations, scalability and customization options. Integrations are an essential component of any help desk software system. By integrating with other software systems, such as CRMs, analytics tools and collaboration software, you can provide your support reps with valuable data to create a more robust customer conversation. This information can flow both ways, with data from the help desk system informing other operations such as sales and marketing. Look for a help desk system that offers prebuilt integration modules or supports REST APIs to build custom integrations. Customization and scalability are critical considerations when selecting help desk software. Customizing your help desk software to fit the requirements of your organization can help save time and improve productivity. Scalability is equally important as it allows the software to grow with your business needs. The right help desk software should allow you to easily add users, manage workflows and incorporate new features to support your expanding operations. When evaluating help desk software, there are several questions your team needs to ask itself. These include: The cost you can expect to pay for help desk software depends on a variety of factors, including: On average, the cost of help desk software can range from around $20 to $200 per user per month, with some enterprise-level solutions costing much more. However, it is important to note that pricing can vary widely depending on the specific software package and vendor, as well as any customization, integration or support needs. Featured Partners 1 Monday Service Yes Yes Yes 1 Monday Service On Monday Service's Website 2 Freshdesk $0 14 days AI-powered automations and workflows, customized self-service 2 Freshdesk On Freshdesk's Website 3 Salesforce $25 per user per month 14 days Yes 3 Salesforce On Salesforce's Website 4 Zendesk Yes Yes Yes 4 Zendesk On Zendesk's Website To ensure the best possible help desk software solutions for our readers, we use a rating system ranging from one to five stars. This allows us to objectively compare and contrast each solution against its competitors. Our ratings are not influenced by any third-party relationships. We assign weighted scores to each factor to come up with an overall star rating for each product. When we rate help desk solutions on our website, we take into account the following factors. For pricing, we considered several factors, such as how much the software costs, is it a good value for the price and were there any hidden costs or fees. If a provider offered a free trial or a free version of its software, we gave bonus points for that. We also looked at how inexpensive a provider’s lowest-price plan compared to its highest-priced plan and how much benefit a user received by upgrading to a higher plan. This accounted for 10% of our weighted scoring. We wanted to know what kinds of features the software offers and if it had all of the features that users need. We broke features down into two categories: general features and additional features. For general features, these were features that we expected every software provider to offer, either as part of its regular plan or at least as a paid add-on. These included offering mobile apps―bonus points for offering software for both iOS and Android―plus self-service capabilities, asset management, social media connectivity, access to a knowledge base and community forum for assistance and the ability to work remotely. For additional, or “nice-to-have” features, we focused on customer support. We were looking for chatbots or live chat options, support widgets, self-service ticketing and reporting dashboards. We wanted to see how responsive each provider’s customer support was and if it was available by phone, email or live chat. We weighted features at 50% of our total score. Looking at third-party customer reviews on websites that included Capterra, G2 and Trustpilot, we looked at customer responses to using the software. We gave higher ratings to providers that had at least 300 or more reviews on these websites and then again to those providers that had positive reviews of at least 3.5 out of 5 on each site.to give a complete picture of reality and reduce bias. These accounted for 10% of the total score. Factors that included ease of use made up the final aspect of our analysis by our panel of experts. When looking at ease of use, they wanted to know how easy it is to set up and use the software, if the interface was intuitive and if the software required any training to get started using it. Besides ease of use, other factors our experts considered were the overall popularity of the software, any stand-out features and the value for the money each provided. Altogether, these criteria make up 30% of the total score. If you have more than one person working on customer support, then help desk software can be a valuable asset. It will help you keep track of customer inquiries and make it easier to assign and manage tasks. Zoho Desk, Freshdesk and Jira Service Management are our top three picks for best help desk ticketing software. If you’re looking for tons of integrations, Freshdesk is a great choice. Jira Service Management is best for enterprise businesses, and Zoho Desk is an all-around great selection for a variety of businesses. There are several options available for free help desk software. However, we recommend Spiceworks Cloud Help Desk. CRM software helps businesses manage and analyze their interactions with customers and prospects while help desk software primarily focuses on managing and resolving customer support tickets and inquiries. Help desk software can automate various actions, including ticket assignment, routing and escalation as well as sending automated replies, reminders and follow-up messages to customers. Help desk software can be scalable depending on the specific software and pricing plan chosen. Some providers offer flexible pricing options based on the number of agents or the size of the organization, allowing businesses to scale up or down as needed. Help desk software costs can vary depending on the features and number of agents you need. Some solutions have free plans while others can cost up to $100 per agent, per month. Common features of help desk software include ticketing, knowledge base management, live chat and reporting. Some solutions also offer features, such as asset management and project management. 
+                Katherine Haan is a small business owner with nearly two decades of experience helping other business owners increase their incomes.            

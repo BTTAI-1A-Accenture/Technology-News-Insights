@@ -1,0 +1,144 @@
+School of 
+Interactive Games
+and Media Contact   Visit Us Support Us 
+						State-of-the-art facilities and technology
+					 
+						Community of engaged students and faculty
+					 
+						Renowned co-op program
+					 
+						High job placement rate in computing fields
+					 
+		Top 10
+	 
+				One of the best game design and development programs in the nation, according to Princeton Review
+			 
+		96%
+ 
+				Job placement rate since 1998
+			 
+$10k
+	 
+				Won by our national championship-winning Dota 2 Esports team
+			    The School of Interactive Games and Media (IGM) comprises faculty from a variety of academic backgrounds with a shared interest in computing as it relates to interactive media, games, simulations, VR/AR, experimental interfaces, and media-centric systems of all varieties. IGM provides an educational environment that supports and encourages creative and collaborative academic inquiry by both faculty and students. IGM’s programs, coursework, research, and development efforts provide students with the knowledge and skills to pursue meaningful and rewarding careers in media-centric, interactive software development, while simultaneously advancing the field and helping to provide a well-rounded educational experience. IGM Faculty Openings Interested in joining our IGM faculty team at RIT? We are currently accepting applications for a Tenure-Track position, available at both Assistant Professor and Associate Professor ranks. The salary between these ranks ranges from $100,000-$125,000. We are also accepting applications for a Non-Tenure Track position. The salary range is between $78,000-$83,000. The university offers a competitive start-up package with excellent benefits including tuition benefits. Learn more about our benefits.   Curricula and course descriptions: 
+What our students do:   The game design and development major empowers students to explore the entertainment technology landscape and related areas, while still pursuing a broad-based university education. The degree is intended specifically for students who aspire to hold careers within the professional games industry or a related field, such as simulation, edutainment, or visualization. 
+
+              Game Design and Development BS
+															  (Accelerated dual degree available)
+
+
+
+ RIT’s game design BS is ranked 6th among Top 50 Undergraduate Game Design Degrees, according to the 2024 international rankings from The Princeton Review. 
+
+              New Media Interactive Development BS
+							              
+
+
+ RIT’s new media interactive development degree adapts digital technologies for social software, wearable devices, touch interfaces, virtual/augmented reality, and more. The Master of Science degree in game design and development covers the breadth of the game development field through course work in topics such as computer graphics, game engines, interactive narrative, and game design. The degree is specifically for students who aspire to careers within the professional gaming industry or a related field such as simulation, edutainment, or visualization. 
+
+              Computing and Information Sciences Ph.D.
+							              
+
+
+ The Ph.D. in computing and information sciences is a research degree that produces independent scholars, cutting-edge researchers, and well-prepared educators. You'll study with RIT's world-class computing faculty and take advantage of diverse academic offerings and modern facilities as you identify and research challenges within and beyond computing.  
+
+              Game Design and Development MS
+							              
+
+
+ RIT’s game design MS degree is ranked 8th among top universities in the world for students who want to study and create games, according to the 2024 international rankings from The Princeton Review. 
+
+              Free and Open Source Software and Free Culture Minor
+							              
+
+
+ Free and open source software is released with licenses that allow it to be redistributed freely for others to use, copy, and/or modify within certain restrictions and conditions. Free culture refers to writing, art, music, and other creative materials released with rights for reuse and/or redistribution that are more flexible than those of the traditional marketplace. Both are often created and/or distributed by collaborative teams with members around the world. The minor in free and open source software and free culture is intended for students who want to develop a deep understanding of the processes, practices, technologies, financial, legal, and societal impacts of these movements. The minor includes a set of computing and liberal arts courses that explore these aspects through research, analysis, and participation in these communities via the creation of digital cultural artifacts and team-driven software projects. Students complete three required courses, one constrained elective course, and one elective course. 
+
+              Free Culture and Free and Open Source Computing Immersion
+							              
+
+
+ Business, the arts, the sciences, and the humanities now rely on work that is “open," work that is released in a manner that allows it to be shared, copied, and improved upon by its users. Open Source Software powers the internet and the World Wide Web, Open Data, and Open GIS mapping. All of these are at the core of most digital humanities projects. Creative Commons licenses allow artists, musicians, and writers to collaborate more freely by altering the “all on or all off” conditions of copyright. The Open Hardware of the Raspberry Pi and Arduino board drive the maker movement and interactive arts. 
+
+              Game Design Minor
+							              
+
+
+ The game design minor is intended for students outside of technical computing majors who want to explore the process and principles of game design and the associated theories of interactive media. The minor provides an introductory experience to media-centric software development that enables students to prototype and test their own designs. 
+
+              Game Development Minor
+							              
+
+
+ The game development minor is intended for students studying in a technical field who want to combine their knowledge and skill in software development with the media-centric approach to application design that is exemplified in the professional games and simulation industries. The minor defines a series of courses that build upon students’ existing knowledge in computing, physics, and mathematics to explore the design principles of games and interactive worlds through the creation of prototypes and software projects. 
+
+              Geographic Information Systems Immersion
+							              
+
+
+ As the world grows in complexity and interconnectedness, new challenges arise in visually representing, reasoning, and making sense of spatially-oriented problems and data. The geographic information systems immersion allows students to study geographic problem solving and scientific inquiry from an interdisciplinary perspective of interactive, digital mapping tools and related digital data problem solving technologies. Students are introduced to geographic mapping concepts and theory, digital cartography, geographic problem solving with geospatial and related computer tools, geospatial technology ethics and application of GIS to global problems such as natural disasters. 
+
+              Geographic Information Systems Minor
+							              
+
+
+ The geographic information systems (GIS) minor provides students with experience in the concepts, technology, and applications related to computer-based mapping, spatial databases, and geographic analysis and problem solving. The minor features two tracks: a GIS development track for students interested in GIS software development, and a GIS analysis track for students interested in utilizing GIS as a strong methodological base within their major of study. Required courses provide core GIS foundations applicable to a variety of multidisciplinary elective courses students can choose from to match their research, post-graduate, or career interests. 
+			July 30, 2024
+		 
+						Travel-enhanced game design and development course takes students to Japan
+					 The two-week trip was the culmination of the Japanese Game Industry course, where students learned about the world’s third largest video game market. RIT students immersed themselves in the culture, participated in a game jam with Japanese students, and visited a major Japanese game studio. 
+			July 12, 2024
+		 
+						Exploding Kittens game created by RIT alumnus debuts on Netflix
+					 Exploding Kittens, the animated series based on the game, premiered on Netflix July 12. The nine-episode first season brings characters from the game to life and introduces new ones. It also coincides with updates to the Netflix Exploding Kittens mobile game and new show-adapted merchandise. 
+			June 4, 2024
+		 
+						RIT and AT&T offer video game development camp for underrepresented students
+					 RIT and AT&T are teaming up to host a digital game development program that addresses equality issues in technology education and helps local students impacted by the digital divide. IGM Faculty within the School are actively engaged in many research areas.  Both undergraduate and graduate students have opportunities to work with our faculty in their research areas. Learn more about   RIT Alumni Are Gamifying the Stock Market 
+											Erin Graham									 
+							
+																																	Gamifying the every day is one of the best things technology has allowed us, from productivity apps to games that bring the fun back to exercising. But what about something fun to teach us new skills,...
+																					 Year Unknown 
+											Julian Heuser ’25									 
+							
+																								It is the very far future. Humanity has conquered the Earth, the stars, and more. There is nothing left. And then, you wake up.
+																					 What Lurks in Space 
+											Boxi Feng, Rinnie Bi, Taode Ogden ’25									 
+							
+																								What Lurks in Space is a sci-fi stealth/horror game based on space exploration and cosmic horror.
+																					 Here you will find additional resources for the School of Interactive Games and Media, such as advising, student gallery, lab resources, etc.Future Undergraduate StudentsFuture Graduate StudentsUndergraduate Academic AdvisingGraduate and Undergraduate Bulletins at RIT First Year Student DetailsStudent ExperienceStudent GalleryLabs and Technology ResourcesMedia LabsStudent Competitions The faculty and staff in IGM are looking forward to working with you during your college career. 
+              Nicolas
+              LaLone
+             
+              Ji Hwan
+              Park
+             
+              Elouise
+              Oyzon
+             
+              Elisabeth
+              Foster
+             
+              Linda
+              Searing
+             
+              Mackenzie
+              DeRider
+             Step into the future of interactive media at EDGE 2024, the Experiential Development & Games Expo, proudly presented by the School of Interactive Games and Media (IGM). Formerly known as the RIT Student Game Showcase, EDGE is a full-day celebration that brings together students, faculty, alumni, and industry professionals to honor the outstanding achievements of RIT's student-led creative development teams. Join us in-person or virtually on Saturday April 13th, 2024 to experience firsthand the innovation of our remarkable student developers. EDGE is open to all audiences and we hope you attend!  Learn more about EDGE The IGM Industrial Advisory Board (IAB) consists of a broad range of industry representatives. The board helps us stay current with industry trends, offering insight on everything from curriculum to teaching methods. IAB plays an integral role in helping us maintain a balanced, vibrant school. Learn more about the IGM Industrial Advisory Board  Address and Phone 
+									20 Lomb Memorial Drive
+									Rochester, NY 14623-5608
+									585-475-7203
+								 Address and Phone 
+					One Lomb Memorial Drive
+					Rochester, NY 14623
+					585-475-2411
+				 
+				Copyright © Rochester Institute of Technology. All Rights Reserved.
+Land Acknowledgment.
+				Disclaimer.
+				Copyright Infringement.
+				Privacy Statement.
+				Nondiscrimination.
+				Accessibility.
+				Emergency Information.
+			

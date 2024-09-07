@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.securityweek.com/cisco-patches-critical-vulnerability-in-broadworks-platform/

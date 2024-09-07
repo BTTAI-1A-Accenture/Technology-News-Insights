@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Boulevard (Original) » Akira Ransomware Racks Up at Least 63 Victims in 4 Months The Akira ransomware group, which launched four months ago, has racked up at least 63 victims, most of which are small and midsize businesses, according to a new report from Arctic Wolf. The bulk of the targeted companies–45–come from the United States, though the group’s reach extends to such counties as Australia and South Africa, and 80% fall into the SMB category. Twenty-two of them have between 51 and 200 employees. At the same time, researchers with the cybersecurity firm analyzed blockchain information to further tie Akira to some members of the high-profile Conti ransomware group, a challenging task given that much of the source code for Conti’s ransomware was leaked early last year, convincing many members to either migrate to other groups or start their own. “Although Conti disbanded after increased pressure due to internal conflict and the publishing of their source code, many of the Conti members have continued to wreak havoc on organizations in 2023 through their activity with other ransomware-as-a-service groups, including Akira,” Arctic Wolf researchers Steven Campbell, Akshay Suthar and Connor Belfiore wrote, adding that Akira itself “continues to evolve and grow as a ransomware group by changing its tactics to evade detection.” The threat group is a known quantity, with research teams looking at it since it came on the scene in March. Like other ransomware-as-a-service (RaaS) gangs, Akira runs double extortion campaigns, exfiltrating a victim’s data before encrypting it on the devices. “The group does not insist on a company paying for both decryption assistance and the deletion of data,” the researchers wrote. “Instead, Akira offers victims the opportunity to pick and choose what they would like to pay for.” Arctic Wolf said the group targets organizations in such industries as manufacturing, education and financial services, with ransoms ranging from $200,000 to $4 million. If the victim doesn’t pay a ransom, their name and data are published on Akira’s leak site. In an earlier report, SentinelOne threat researchers said the group hosts its leak site on TOR, with victims told to contact the attacker through the TOR-based portal by entering a unique identifier given in the ransom note. Unlike what Arctic Wolf has found, SentinelOne wrote that Akira “is known to require outrageous payments, reaching hundreds of millions of dollars.” Looking at the group, the Arctic Wolf researchers said, “Akira is likely an opportunistic ransomware group due to their victimology and negotiation tactics. In nearly every incident response case Arctic Wolf investigated, the threat actors claimed that they needed time to review the exfiltrated data to determine a ransom demand.” In most of the attacks that the cybersecurity vendor has seen since April, the threat actors used stolen credentials to gain initial access into their victims’ systems, most of which were not protected by multifactor authentication (MFA) on their VPNs. It’s not known how the group got the credentials, though the researchers speculated that they could have bought access or the credential themselves on the dark web. Once in, the group also uses a range of tools for discovery (such as PCHunter, SharpHound and AdFind), credential access (Mimikatz and LaZagne), command and control (AnyDesk, Radmin and Cloudflare Tunnel) and exfiltration (WinSCP, Rclone and FileZilla). The researchers noted that in late June, cybersecurity firm Avast released a decryptor for the Akira ransomware that organizations can use on files decrypted by the group. However, the threat actors appear to have modified its encryption operation since and the decryptor may not work on files encrypted after June 29, 2023. Normally, threat researchers can trace cyberattacks to a specific group by identifying where the ransomware code overlaps with that of other ransomware variants. However, with the Conti code leaked and picked up by so many groups for their own uses, linking a variant back to Conti players is difficult. That said, Arctic Wolf hypothesized that there is some code resemblance between the Akira and Conti ransomware, from ignoring the same file types and directories to similar functions to using the ChaCha algorithm for encrypting files. In addition, the researchers ran pattern analyses of transactions from the cryptocurrency wallets of known threat actors, which turned up other wallet addresses and showed addresses being reused between groups. This suggested that “the individual controlling the address or wallet has either splintered off from the original group or is working with another group at the same time,” they wrote. Through this, they found multiple overlaps between Akira and Conti members. “In at least three separate transactions, Akira threat actors sent the full amount of their ransom payment [more than $600,000] to Conti-affiliated addresses,” the researchers wrote, adding that “all the Conti-affiliated addresses conduct transactions with a group of shared intermediary wallets that were used to cash out funds from the ransom payments or transfer funds within the group.” They used the same analysis method in 2022 to find links between the Karakurt and Diavol groups and Conti. Jeffrey Burt has been a journalist for more than three decades, writing about technology since 2000. He’s written for a variety of outlets, including eWEEK, The Next Platform, The Register, The New Stack, eSecurity Planet, and Channel Insider. jeffrey-burt has 358 posts and counting.See all posts by jeffrey-burt   Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

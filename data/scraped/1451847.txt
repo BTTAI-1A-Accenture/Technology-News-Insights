@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.eastoregonian.com/news/nation_world/white-house-unveils-32-states-to-become-us-tech-hubs/video_5750d3ac-4cfa-550f-be40-80e2da982854.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.yakimaherald.com/news/nation_and_world/business/israels-high-tech-economic-engine-balks-at-govt-policies/article_5777167d-8a17-50b5-abdc-8cf52706adbf.html

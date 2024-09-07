@@ -1,0 +1,51 @@
+
+VantageCloud’s open and connected platform enables organizations to transform their ML (machine learning) initiatives from pilots to production with the tools of their choice
+ SAN DIEGO--(BUSINESS WIRE)--Teradata (NYSE: TDC) today announced the integration and general availability of Teradata VantageCloud, the complete cloud analytics and data platform, with Microsoft Azure Machine Learning (Azure ML). VantageCloud’s scalability, openness and industry-leading analytics – ClearScape Analytics™ – combined with Azure ML’s ability to simplify and accelerate the ML lifecycle helps customers unlock the full value of their data, even in the most complex and demanding environments.
+ 
+Despite continued investment by organizations in artificial intelligence and machine learning (AI/ML), many AI/ML initiatives struggle to get off the ground. “On average, 54% of AI projects make it from pilot to production,” according to Gartner®, Inc., “Gartner Survey Reveals 80% of Executives Think Automation Can Be Applied to Any Business Decision,” August 22, 2022. Teradata VantageCloud delivers the enterprise-scale performance that ensures customers can execute complex analytics and AI/ML on massive datasets with the ability to incorporate the favorite data science tools of their choice, including Azure ML. This unparalleled performance, when combined with the platform’s ability to integrate preferred tools and languages, gives customers the freedom to unleash the full potential of their AI/ML investments by building, deploying and managing more high-quality models in production, faster and with confidence.
+ 
+“As AI/ML rapidly expands in use, more organizations across industries – from healthcare to financial services to retail – are ramping up investment in AI/ML at scale to harness the full power of their data,” said Hillary Ashton, Chief Product Officer at Teradata. “But with only half of AI/ML projects making it into production, it’s become clear that organizations are not able to fully scale their advanced analytics initiatives and maximize their investments. To address this challenge, Teradata is combining Vantage Cloud's scalability, openness and unparalleled in-database analytics with Azure ML’s acceleration and management of the day-to-day workflows of the ML project lifecycle. This gives ML professionals, data scientists, and engineers the ability to quickly and nimbly train and deploy models, and manage MLOps, leveraging the massive amount of data that Vantage ingests.”
+ 
+Teradata VantageCloud and Azure Machine Learning work seamlessly, giving customers using VantageCloud on Azure the ability to tap into the power of their data. With this integration, joint customers across industries can realize the benefits from the following use cases, and much more:
+ 
+"Microsoft Azure Machine Learning empowers data scientists and developers to build, deploy, and manage high-quality models and accelerates time to value with support for the entire ML lifecycle. The platform is trusted by users and designed for responsible AI applications in machine learning – with built-in fairness and responsible usage for compliance. This reliability and trust, coupled with Teradata’s reputation for performance and stability, give our customers the confidence and support to ramp up their AI/ML initiatives to drive measurable business impact,” said, Tony Surma, Chief Technology Officer, U.S. Global Partner Solutions at Microsoft.
+ 
+To learn more about Teradata VantageCloud with Microsoft Azure Machine Learning, watch the webinar on-demand:
+ 
+Scalable Acceleration and Automation for the ML Lifecycle
+ 
+Featuring:
+ 
+Moderator:
+ 
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used herein with permission. All rights reserved.
+ 
+Availability
+ 
+Teradata VantageCloud with Microsoft Azure Machine Learning is available today, worldwide.
+ 
+About Teradata
+ 
+Teradata is the connected multi-cloud data platform for enterprise analytics company. Our enterprise analytics solve business challenges from start to scale. Only Teradata gives you the flexibility to handle the massive and mixed data workloads of the future, today. Learn more at Teradata.com.
+ 
+The Teradata logo and ClearScape Analytics are trademarks, and Teradata is a registered trademark of Teradata Corporation and/or its affiliates in the U.S. and worldwide.
+ 
+MEDIA CONTACTSJanuary Machold
+858-485-3049 office
+January.Machold@Teradata.com
+ 
+
+PharmiWeb.com is Europe's leading industry-sponsored portal for the Pharmaceutical sector, providing the latest jobs, news, features and events listings.The information provided on PharmiWeb.com is designed to support, not replace, the relationship that exists between a patient/site visitor and his/her physician.
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+ PharmiWeb.com is Europe's leading industry-sponsored portal for the Pharmaceutical sector, providing the latest jobs, news, features and events listings.The information provided on PharmiWeb.com is designed to support, not replace, the relationship that exists between a patient/site visitor and his/her physician. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. 
+
+            follow us
+        
+ 
+
+            Copyright © 2024 PHARMIWEB.COM LIMITED, rights reserved by the relevant holders.
+        
+ 
+        Version: 2022.9.21.3
+     You are leaving PharmiWeb.com Disclaimer: You are now leaving PharmiWeb.com website and are going to a website that is not operated by us. We are not responsible for the content or availability of linked sites. ABOUT THIRD PARTY LINKS ON OUR SITE PharmiWeb.com offers links to other third party websites that may be of interest to our website visitors. The links provided in our website are provided solely for your convenience and may assist you in locating other useful information on the Internet. When you click on these links you will leave the PharmiWeb.com website and will be redirected to another site. These sites are not under the control of PharmiWeb.com. PharmiWeb.com is not responsible for the content of linked third party websites. We are not an agent for these third parties nor do we endorse or guarantee their products. We make no representation or warranty regarding the accuracy of the information contained in the linked sites. We suggest that you always verify the information obtained from linked websites before acting upon this information. Also, please be aware that the security and privacy policies on these sites may be different than PharmiWeb.com policies, so please read third party privacy and security policies closely. If you have any questions or concerns about the products and services offered on linked third party websites, please contact the third party directly.

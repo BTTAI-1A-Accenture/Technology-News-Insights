@@ -1,0 +1,136 @@
+Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics.                     Nothing beats the convenience of jotting down flashes of inspiration when they hit you. A note-taking app is the perfect place to store them. There is no shortage of capable note-taking apps on iOS and Android. For a better big-screen experience, a dedicated Android tablet with stylus support offers a best-in-class experience. Whether you're looking for a simple way to replace sticky notes or a cross-platform solution with multiple features, we have you covered. Our editors used and tested dozens of note-taking apps in the Play Store to create a curated list with a little something for everyone.
+                         In its simplest form, a note-taking app stores and organizes text files (or handwriting, in the case of Squid). Most can put the notes into groups, whether they're called blocks, bundles, or notebooks. Because note-taking apps make creating these files quick and easy, it's common for people to have lots of notes. As such, most apps include a search function to make finding what you're looking for easy.
+                         Creating notes on a whim, organizing them, and adding images or audio recordings are great reasons to take digital notes instead of paper notes. When you add more advanced features like cloud-based storage, you won't lose your files. Beyond these core functions, the Android apps listed below set themselves apart from their competition, helping you decide which app better suits your needs.
+     Use Google's note-taking app to its fullest potential                     Finding the best note-taking app that does everything you need or want to do can be challenging. In putting together this list, we considered what makes a good app for storing and taking notes. We highlight the best apps you can use free of charge with as few restrictions as possible. If they offer premium paid features that make it worthwhile, this adds more value to them in terms of usability.
+                         We also feature apps offering cloud-based storage, file or media attachments, and ones where you can take different note types and formats. At the same time, we talk about the popular big-name apps and companies, as they offer great features. We list intuitive apps with advanced or unique features not found in other note-taking apps. This includes open source apps, which are becoming popular as more users want increased privacy controls.
+                         In-app purchases
+                         ❌ None
+                         Subscription
+                         ❌ None
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Feb 7, 2012
+                         OneNote is a powerful cross-platform note-taking solution from Microsoft. It comes with out-of-the-box integration with Microsoft products like Word, Excel, and Sticky Notes. It mimics a traditional notebook with sections and pages to organize your notes. You can add text, attach media, record your voice, and use a rich text editor to complete the formatting. OneNote for Android offers an option to activate a badge that shows an app shortcut on your screen. Tap the OneNote badge and take notes without opening the app.
+                         Microsoft recently redesigned the OneNote app on Android with a new homepage that shows your frequently used notebooks and sticky notes. You can password-protect a notebook section, invite others to a notebook for real-time collaboration, and export a page as a PDF to share with others. OneNote uses Microsoft OneDrive cloud storage to save and sync your data. OneNote has a neat integration on Samsung Galaxy devices. You can sync your Samsung Notes with OneNote and access them on the desktop and other platforms.
+                         While OneNote is free to download and use, you must purchase OneDrive storage after filling up the 5GB of free space. OneDrive pricing starts at $2 per month for 100GB. If you have a Microsoft 365 Home or Business plan, you get 1TB of OneDrive space along with the class-leading Microsoft 365 desktop apps. It is available on all the mobile and desktop platforms.
+                         In-app purchases
+                         ✔️ $1.89 - $17.99 per item
+                         Subscription
+                         ✔️ $1.89 monthly or $18 annually
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Dec 19, 2020
+                         If you like a sharp and intuitive UI, look no further than Bundled Notes. Besides notes and to-dos, Bundled Notes offers a markdown editor with rich formatting and Kanban-style boards to manage small personal projects. The app relies on tags to organize notes, tasks, and projects. There are many options to customize the app to meet your needs. It has everything you'd expect from file and photo attachments to cross-device syncing.
+                         The app's free version limits you to six bundles and 150MB of account storage. With the Pro subscription, you can unlock 15GB of account storage, a 400MB file upload limit, and access the web app.
+                         In-app purchases
+                         ✔️ $1.00 - $169.99 per item
+                         Subscription
+                         ✔️ $15 monthly or $130 annually
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Jun 24, 2008
+                         Evernote has been around for ages, and it's still pushing out updates and redesigns. It's one of the top Apple Notes and Bear alternatives for Android. The popular note-taking app (with over 100 million downloads) offers a customizable home dashboard to stay up-to-date on recent notes, web clips, images, documents, and frequently used notebooks. It also has a scratch pad to jot down a quick note. Evernote has a robust tag system to organize notes, a search function to find text in PDF files, a browser extension to save snippets or web pages, and a rich text editor.
+                         Evernote also supports Google and Outlook calendars and lets you create notes for important meetings. The company recently added a reminders functionality to create and manage your tasks like a pro. It doesn't replace a dedicated task manager. Still, it's a good add-on to manage your daily to-dos in a single app. The company teased a neat mobile redesign on X.
+                         Bending Spoons, a company based in Italy, recently purchased Evernote and made major changes to its free and paid plans. You can create up to 50 notes and one notebook, connect up to two devices, and have a max note size of 25MB. You can upgrade to a Personal plan at $15 per month to unlock such restrictions. Evernote also offers a Professional plan for $18 per month. It offers AI Edit to draft and edit your notes like a pro. AI Search is another neat add-on that allows you to pin down essential notes in no time.
+                         In-app purchases
+                         ❌ No
+                         Subscription
+                         ❌ No
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Mar 20, 2013
+                         Google Keep isn't the flashiest note-taking app on the Play Store, but it gets the job done with basic note-taking options. You can create a new note with different theming options, set a background, and add tasks, media, drawings, and voice recordings. Like Gmail, Google Keep uses labels to organize notes in folders. You can pin notes and set reminders but can't protect your sensitive notes with a password. As for collaboration, you can share notes by inviting others to join you on a note-by-note basis.
+                         One of the advantages of using Keep is its integration with other Google products. For instance, you can access your notes from the sidebar on web apps like Gmail, Docs, Sheets, and Slides. Besides the recent Material You makeover, Google Keep remains mostly the same. Google Keep is available on Android, iOS, and the web.
+     From simple and intuitive to complex and powerful, there's something for everyone                     In-app purchases
+                         ❌ No
+                         Subscription
+                         ✔️ $90 annually
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Oct 13, 2017
+                         Standard Notes is open source and secures your notes with industry-leading encryption. Standard Notes offers hefty security like end-to-end encryption, password protection for individual notes, and two-factor authentication. You're limited to plain text notes without a subscription, but you have access to tags and unlimited cross-platform syncing.
+                         Proton acquired Standard Notes. Proton offers productivity tools like Email, VPN, Calendar, Password Manager, and Cloud storage with top-notch privacy and security. There are no changes to the pricing model, and the company says it will keep the free plan.
+                         The Productivity subscription unlocks all the features you'd expect from a note-taking app, like rich text, markdown notes, checklists, to-dos, folder organization, and revision history. You can use Standard Notes as a 2FA authenticator for other services. Upgrading to the Professional tier unlocks 100GB of cloud storage, a shared subscription with five accounts, and no limits on file sizes. Apart from mobile and desktop platforms, Standard Notes is accessible on Linux.
+                         In-app purchases
+                         ❌ No
+                         Subscription
+                         ❌ No
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Sept 6, 2013
+                         If you're overwhelmed by the dozens of features in other note-taking solutions, Simplenote declutters the experience with a simple note-taking offering. There are some light customization options, but nothing overwhelming. It offers text formatting in plain text or markdown, and you can add to-do lists.
+                         Note organization is done via custom tags that you can search from the home screen. Simplenote is missing many features, like file attachments and voice notes, but it makes up for it by being free and available on every platform with automatic syncing.
+      Nimbus Notes was rebranded as FuseBase in late 2023. As of January 2024, some apps and technical documents were still listed under the Nimbus Notes brand.
+                         In-app purchases
+                         ✔️ $7.99 - $69.99 per item
+                         Subscription
+                         ✔️ $15 monthly or $108 annually
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         May 26, 2014
+                         When it comes to features, FuseBase leans into the idea that more is better. It offers a rich text editor, markdown support, file attachments (photos, videos, and PDFs), a web clipper, and a built-in scanner to digitize physical documents. Nimbus also allows you to create multiple workspaces for the different facets of your life. For example, you can store your personal information in one workspace and share an office workspace with your co-workers. It also has a robust search feature (at least as good as Evernote's) that can search PDFs, images, documents, and web pages.
+                         It's your one-stop solution to manage tasks, create databases and tables, annotate, and capture everything that comes to your mind. FuseBase is one of the best productivity apps available.
+                         FuseBase's free plan includes all editor features and access to the document scanner. Upgrade to Pro for unlimited notes and recording, image recognition, advanced search features, password protection, and 2FA. The Business plan unlocks unlimited workspaces, a custom domain, an SMTP account, and JavaScript integration. It is available on mobile, desktop, and web platforms.
+                         In-app purchases
+                         ❌ No
+                         Subscription
+                         ✔️ Sync add-on ($10 monthly or $96 annually), Publish add-on ($10 monthly or $96 annually)
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Jul 7, 2021
+                         What sets Obsidian apart is the community involvement it has in the form of plugins. Do you need a Kanban board or Git integration for your notes? If so, there's a plugin for it. Another unique feature of Obsidian is its graph view, which visually shows the relationship between your notes. In addition, it has all the features you'd expect from a note-taking app, like markdown-based text input, toolbar customization, and themes.
+                         Obsidian uses a different note-taking approach where you create vaults to store notes. Unlike other apps, you can't sync your notes to OneDrive or Google Drive. It also requires a learning curve. But you won't look back after learning the basics and exploring the plugins library.
+                         The free version of the app is robust, with most core functions included, including access to the plugins and the API. Other services, like cross-device syncing and web hosting, can be purchased separately. Obsidian is accessible on Android, iPhone, iPad, and the desktop.
+                         In-app purchases
+                         ❌ No
+                         Subscription
+                         ✔️ $10 monthly or $96 annually
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Jun 5, 2018
+                         Notion is more than a standard note-taking app. It helps you get things done, which is why big businesses often use it. Apart from standard notes, Notion allows you to keep lists, make tasks, collaborate, attach files, and sync across devices. The app works flawlessly with third-party services like Slack, OneDrive, Asana, GitHub, and Figma.
+                         One area where Notion shines is with its rich template library. You can pick one of the built-in templates or explore templates from the Notion community to get started. You can create multiple workspaces and share your business workspace with other team members and employees to manage notes, create a project management workflow, and plan the next summer picnic.
+                         Notion's mobile apps used to be average at best. The company has improved loading speeds and the overall aesthetics. Now, it doesn't look like a poor web-wrapper.
+                         The free tier allows for collaboration (up to 10 guests), basic analytics, and third-party integration. The Plus plan includes unlimited uploads and blocks and up to 100 guests. The Business plan offers private team spaces, bulk PDF exports, advanced analytics, and up to 250 guests. Notion is available on every platform you can think of.
+                         In-app purchases
+                         ✔️ $1.00 - $14.99 per item
+                         Subscription
+                         ✔️ $1 monthly or $10 annually
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Mar 28, 2012
+                         Squid differentiates itself from other note-taking apps by focusing on handwritten notes. In many ways, the app resembles a digital whiteboard or a drawing app, except you can jot down notes on documents, PDFs, and images. Squid takes full advantage of all types of styluses, from the basic capacitive stylus to the latest pressure-sensitive active stylus. Everything is vector-based, so you have control over zooming in and changing the color or size of previous pen strokes.
+                         At the free tier, you're limited to note-taking and a few background and paper types (wide-ruled, college-ruled, and graph paper). Upgrade to Premium to access document import, more paper types (isometric, polar, music, sports, and planners), and different pens and stamps to use in your notes. It is available on Android only.
+                         In-app purchases
+                         ✔️ $1.99 - $34.99 per item
+                         Subscription
+                         ✔️ $1 monthly or $30 annually
+                         ChromeOS support
+                         ✔️ Yes
+                         Publish date
+                         Apr 12, 2021
+                         UpNote is a no-nonsense note-taking app with the basic features you'd expect and advanced ones you might not have. Notes are organized into notebooks and categorized by tags. The text editor is robust, with rich text and markdown allowing for highlighting, colored text, quotes, tables, to-dos, lists, images, and code blocks. UpNote syncs across all your devices and has offline access. UpNote makes browser extensions for Chrome, Firefox, and Safari if you install a desktop client. On the more advanced side, UpNote supports exporting to PDF, HTML, and plain text, password protection, and links between notes.
+                         The free version limits you to a maximum of 50 notes. The Premium version allows unlimited notes and unlocks attachments, tables, code blocks, password protection, themes, and exporting. UpNote also offers a lifetime access plan. You can purchase it for $40 and enjoy all the feature-rich UpNote apps across all the platforms, including Android, iOS, iPadOS, macOS, and Windows.
+                         In-app purchases
+                         ✔️ $2.49 - $16.99 per item
+                         Subscription
+                         ✔️ $10 per year
+                         ChromeOS support
+                         ❌ None
+                         Publish date
+                         Aug 3, 2023
+                         Goodnotes, a popular Apple-exclusive note-taking app, has turned into a cross-platform solution. It is now available for Android, Windows, and the web. It strikes a balance between handwriting and typing. Whether you want to type an equation, draw a mindmap, or create a diagram, Goodnotes has ample tools to create a note like a pro.
+                         Apart from multimedia notes, it supports PDF annotation, drawing tools, live collaboration, and more. If you have a Galaxy Tab S9, you get Goodnotes free for the first year. The app comes with a solid collection of templates to get started. You can choose from Blank paper, Ruled paper, Checklists, Planner, and more to create a new note in no time. It's a joy to use with a stylus. It is available on Android, iOS, iPadOS, macOS, and Windows.
+                         Finding a great note-taking app doesn't have to be a challenge. There are many variables and features to consider, but use this guide to point you in the right direction. You can even use multiple apps to help you jot down and organize your notes, each with its own unique purpose. No matter what, you now have plenty of options to choose from to take digital notes quickly and efficiently.
+                         If you use AI to improve your productivity, check out the best AI note-taking tools. These apps can help you organize your notes, improve your writing, and automate meeting notes and transcriptions.
+     Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics. We want to hear from you! Share your opinions in the thread below and remember to keep it respectful. Your comment has not been saved  Joplin is probably the app that will last the longest for the near future. It is the most comparable to Evernote for number of features. However, it has two fatal flaws that keep me on the hunt for a new note system: 1) No way to sort searches by date. It changes the date of your notes whenever you view them so sorting by date becomes useless. 2) Markdown. WHY???  I detest markdown. I don't understand it's cult following. What was wrong with rich text formatting? Why do I need to be a tech geek who knows web formatting and CSS programing just to format a document??? You can't even use colored fonts, and it double-spaces all of your text by default. There's no way to turn this off without using CSS hacks. It's completely unfriendly to average users.  I just want rich text files, synced between all my devices, without my privacy being compromised. Why is that so hard to find? The loss of Evernote is becoming more and more hearbreaking. But $150/year is just too much to ask of a single consumer.  In addition, now I can't find a simple notepad or word processor for Android that provides spellchecking. Why is it so difficult? Android devices no longer lack the processing power for these things. The OS tries to substitute keyboard auto-correction for document spellchecking. But it can't spellcheck anything longer than a small paragraph. No wonder people sound so illiterate on Reddit, Facebook, and emails. I just want spellcheck, colored text, and single-spaced lines, privately synced between all my devices. Too much too ask for octa-core device with 8GB of RAM? Seriously?  I apologize for any misspellings above. I couldn't find simple spellchecking for my $1500 Android tablet! It's once again on the attack Capturing the night sky gets easier Why must Samsung waste our time and our phone's storage? A sad day for the world of Android customization  Enlarge a contact profile photo with a tap Messaging Layer Security (MLS) is on its way

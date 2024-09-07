@@ -1,0 +1,19 @@
+
+                        09/06/2023
+
+                            By Cinamon Blair
+ UMass Lowell Department of Mechanical and Industrial Engineering Seminar Series
+
+Topic: Accelerated development of materials using high-throughput strategies and AI/ML
+
+Guest: Surya R. Kalidindi, Georgia Institute of Technology Wednesday, September 20, 2023
+
+3:30-4:30 p.m.
+
+Shah Hall, Rom 306 and Virtual (Zoom)
+
+The dramatic acceleration of the materials innovation cycles is contingent on the development and implementation of high throughput strategies in both experimentation and physics-based simulations, and their seamless integration using the emergent AI/ML (artificial intelligence/machine learning) toolsets. This talk presents recent advances made in the presenter’s research group, including: (i) a novel information gain-driven Bayesian ML framework that identifies the next best step in materials innovation (i.e., the next experiment and/or physics-based simulation to be performed) that maximizes the expected information gain towards a specified target (e.g., optimized combination of material properties, refinement of a material constitutive response), (ii) computationally efficient versatile microstructure image analyses and statistical quantification tools, (iii) formulation of reduced-order process-structure-property models that enable comprehensive inverse solutions needed in materials design (e.g., identifying specific compositions and/or process histories that will produce a desired combination of material properties), and (iv) high throughput experimental protocols for multi-resolution (spatial resolutions in the range of 50 nm to 500 microns) mechanical characterization of heterogeneous materials in small volumes (e.g., individual phase constituents in multiphase material samples, thin coatings or layers in a multilayered sample). These recent advances will be illustrated with multiple case studies.
+
+Surya Kalidindi is a Regents Professor and Rae S. and Frank H. Neely Chair Professor in the George W. Woodruff School of Mechanical Engineering with joint appointments in the School of Computational Science and Engineering and the School of Materials Science and Engineering at Georgia Institute of Technology, Georgia, USA. Surya’s research efforts have made seminal contributions to the fields of crystal plasticity, microstructure design, materials informatics, and high-throughput mechanical testing. Surya has been elected a Fellow of ASM International, TMS, and ASME. He has also been recognized with the Alexander von Humboldt Research Award, the Vannever Bush Faculty Fellow, and the Khan International Award. He has authored/co-authored 2 books, 8 book chapters, 2 edited volumes, and over 300 archival journal articles. His research currently has a h-index of 91 (as per Google Scholar). Most recently, he has co-founded the new venture-funded start-up Multiscale Technologies, Inc., which offers a commercial SaaS platform for Al/ML driven accelerated materials innovation.
+
+For information and Zoom link please email: Alireza Amirkhizi Terms of Use and Privacy Policy For an optimum web experience we recommend the latest version of Firefox, Chrome, Edge, or Safari. Please use one of the links below to install a supported browser.

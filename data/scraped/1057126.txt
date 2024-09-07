@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='rew-online.com', port=443): Max retries exceeded with url: /the-construction-institute-honors-hoffmann-architects-engineers-with-special-industry-recognition-award/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))

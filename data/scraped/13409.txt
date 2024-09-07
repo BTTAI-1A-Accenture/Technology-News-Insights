@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/thomas-h-lee-partners-appoints-former-willis-towers-watson-ceo-john-haley-as-an-executive/article_9d279ffe-7b2a-5e00-b8a8-79b4b02075e6.html

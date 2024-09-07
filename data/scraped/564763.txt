@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.victoriaadvocate.com/bonita-wellness-institute-introduces-the-first-international-palm-certification-for-workplace-wellness/article_ceca1dde-811d-517f-886b-2f73096ff920.html

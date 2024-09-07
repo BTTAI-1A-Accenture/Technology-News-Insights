@@ -1,0 +1,189 @@
+
+5 minutes ago
+ 
+21 minutes ago
+ 
+35 minutes ago
+ 
+51 minutes ago
+ 
+21 minutes ago
+ 
+3 hours ago
+ 
+4 hours ago
+ 
+10 hours ago
+ 
+1 hour ago
+ 
+1 hour ago
+ 
+23 hours ago
+ 
+Aug 19, 2024
+ 
+12 hours ago
+ 
+13 hours ago
+ 
+23 hours ago
+ 
+Aug 19, 2024
+ 
+6 hours ago
+ 
+9 hours ago
+ 
+11 hours ago
+ 
+13 hours ago
+ 
+Aug 11, 2024
+ 
+Aug 3, 2024
+ 
+Jul 29, 2024
+ 
+Jul 28, 2024
+ 
+Dec 31, 2023
+ 
+Oct 14, 2023
+ 
+Aug 11, 2024
+ 
+Jul 22, 2024
+ 
+Jul 7, 2024
+ 
+Jul 7, 2024
+ 
+May 23, 2024
+ 
+May 21, 2024
+ 
+May 7, 2024
+ 
+Mar 24, 2024
+ 
+13 hours ago
+ 
+19 hours ago
+ 
+20 hours ago
+ 
+Jun 14, 2003
+ 
+Jul 14, 2024
+ 
+May 19, 2024
+ 
+Apr 20, 2024
+ 
+Mar 23, 2024
+ 
+1 hour ago
+ 
+4 hours ago
+ 
+6 hours ago
+ 
+10 hours ago
+ 
+
+Paul Hill
+
+Neowin
+                ·
+    
+
+    Oct 9, 2023 22:48 EDT
+    
+
+with 0 comments
+
+  The UK government has announced that its going to build a new exascale supercomputer that will be 50 times more powerful than its most powerful supercomputer. It said that Edinburgh, the Scottish capital, had been nominated to host the computer, bringing high-skilled jobs to the area. According to TOP500, the current best supercomputer in the UK is the ARCHER2 which is also operated from Edinburgh. It has a Linpack score of 19.54 PFlop/s and a theoretical peak of 25.80 PFlop/s. To designate this as an exascale supercomputer, the government either rounded up the Linpack score or used the theoretical peaks as 19.54 PFlop/s multiplied by 50 is just short of being exascale. Commenting on the benefits of the new computer, Science, Innovation and Technology Secretary Michelle Donelan said: ‘This new UK government funded exascale computer in Edinburgh will provide British researchers with an ultra-fast, versatile resource to support pioneering work into AI safety, life-saving drugs, and clean low-carbon energy. It is part of our £900 million investment in uplifting the UK’s computing capacity, helping us forge a stronger Union, drive economic growth, create the high-skilled jobs of the future and unlock bold new discoveries that improve people’s lives.’ The development of this computer is significant for the UK because according to TOP500, there is only one exascale supercomputer right now which is called Frontier and based in the United States. The government didn’t say how long the computer will take to develop but if its done quite soon then it could be part of a relatively exclusive club. Earlier this month, the government also announced that a new AI supercomputer called Isambard-AI will be built in Bristol. It said that it will be one of the most powerful AI-focused computers in Europe when complete. Both of these machines are part of a £900 million investment to upgrade the country’s compute capacity, which was announced in March. Source: GOV UK 
+
+Paul Hill
+                                                ·
+                    
+Aug 19, 2024
+
+with
+4
+                            comment
+                                s
+                                                            
+
+
+ 
+
+Paul Hill
+                                                ·
+                    
+Mar 15, 2023
+
+with
+2
+                            comment
+                                s
+                                                            
+
+
+ 
+
+Steve Bennett
+                                                ·
+                    
+Feb 8, 2023
+
+with
+2
+                            comment
+                                s
+                                                            
+
+
+ 
+
+Karthik Mudaliar
+                                                ·
+                    
+Dec 12, 2022
+
+with
+2
+                            comment
+                                s
+                                                            
+
+
+ Login or Sign Up to read and post a comment. Please enter your reason for reporting this comment. 
+                                windows server insider preview
+                                 
+                                made68
+                                 
+                                windows 11 insider preview promo
+                                 
+                                gamesir
+                                 
+                                windows 11 insider preview promo
+                                 
+                                7800 xt
+                                 
+                                windows 11 insider preview promo
+                                 
+                                ducky zero 6108
+                                 
+                        server
+                         
+                        motion sickness
+                         
+                        t-force z540 and dark airflow
+                         
+                        geekom gt13 pro
+                         
+© Since 2000 Neowin®
+                                    All trademarks mentioned are the property of their respective owners.
+                                

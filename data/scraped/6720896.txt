@@ -1,0 +1,72 @@
+A whale with a lot of money to spend has taken a noticeably bearish stance on PayPal Holdings. Looking at options history for PayPal Holdings PYPL we detected 42 strange trades. If we consider the specifics of each trade, it is accurate to state that 42% of the investors opened trades with bullish expectations and 57% with bearish. From the overall spotted trades, 10 are puts, for a total amount of $470,209 and 32, calls, for a total amount of $2,002,090. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $47.5 to $90.0 for PayPal Holdings over the last 3 months.  In terms of liquidity and interest, the mean open interest for PayPal Holdings options trades today is 3791.48 with a total volume of 32,948.00. In the following chart, we are able to follow the development of volume and open interest of call and put options for PayPal Holdings's big money trades within a strike price range of $47.5 to $90.0 over the last 30 days.  
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+PYPL
+CALL
+TRADE
+BEARISH
+01/19/24
+$50.00
+$287.8K
+2.4K
+7
+
+
+PYPL
+CALL
+SWEEP
+BEARISH
+07/21/23
+$65.00
+$264.9K
+10.8K
+2.2K
+
+
+PYPL
+CALL
+SWEEP
+BULLISH
+06/16/23
+$61.00
+$193.0K
+1.1K
+3
+
+
+PYPL
+CALL
+SWEEP
+BULLISH
+08/18/23
+$75.00
+$82.0K
+639
+294
+
+
+PYPL
+CALL
+SWEEP
+BULLISH
+07/21/23
+$65.00
+$80.8K
+10.8K
+5.0K
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for PayPal Holdings, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

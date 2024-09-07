@@ -1,0 +1,40 @@
+
+1Kosmos Chief Strategy Officer and Former Head of Infosec for Lehman Brothers Mike Engle will also present a solo session on passwordless deployment pitfalls to avoid
+
+ 
+1Kosmos, the only company that unifies identity proofing and passwordless authentication, today announced that its Chief Strategy Officer Mike Engle will present a session on bringing verified identity and passwordless to the masses with Kevin Shanley, Principal Identity Specialist for Amazon Web Services at Identiverse 2023 on June 1 in Las Vegas. Mike will also present a solo session on May 31 on five pitfalls to avoid to fast track passwordless MFA.
+
+ 
+WHO: Mike Engle, Chief Strategy Officer for 1Kosmos, previously served as head of InfoSec for Lehman Brothers where he was instrumental in designing and implementing the bank's security program. As a co-founder of Bastille Networks, he helped raise over $40m in venture capital to create a powerhouse in the RF security sector.
+
+ 
+Kevin Shanley, Principal Identity Specialist for Amazon Web Services has more than 25 years of experience in Identity and Access Management. He has worked in over 30 countries; selling, designing, and deploying IAM systems for multinational companies and government agencies. Kevin currently leads GTM for AWS consumer identity (Amazon Cognito and Amazon Verified Permissions).
+
+ 
+WHAT: Fast Track Passwordless MFA by Avoiding Five Common Pitfalls
+It's no secret that passwords and traditional MFA are at their breaking point. But Passwordless MFA faces many adoption challenges, including unverified biometrics that rely principally on device possession for identity verification. In this session, Mike Engle will explain how verified identity provides a mechanism to truly know who is on the other end of a digital connection and present a low-friction roadmap for moving users gracefully to passwordless.
+
+ 
+Bringing Verified Identity and Passwordless to the Masses
+Today's authentication challenges are mainly associated with phishing and often compromise a user's device, not their identity. In this session 1Kosmos and AWS will review how a user's true identity can be used for authentication and how this approach can be rolled out for the masses.
+
+ 
+WHERE: ARIA Resort and Casino, Las Vegas, Nevada
+
+ 
+WHEN: Fast Track Passwordless MFA by Avoiding Five Common Pitfalls
+Wednesday, May 31, 1:25 pm - 1:40 pm in room Bluethorn 5
+
+ 
+Bringing Verified Identity and Passwordless to the Masses
+Thursday, June 1, 4:30 pm - 4:55 pm in room Ironwood 8
+
+ 
+HOW: To schedule a conversation with Mike Engle, contact Marc Gendron at marc@mgpr.net or +1 617.877.7480.
+
+ 
+About 1Kosmos
+ 
+1Kosmos enables passwordless access for workers, customers and residents to securely transact with digital services. By unifying identity proofing and strong authentication, the BlockID platform creates a distributed digital identity that prevents identity impersonation, account takeover and fraud while delivering frictionless user experiences. BlockID is the only NIST 800-63-3 via Kantara, FIDO2 and iBeta biometrics certified platform that performs millions of authentications daily for some of the largest banks, telecommunications and healthcare organizations in the world. The company is funded by Forgepoint Capital and Gula Tech Adventures with headquarters in East Brunswick, New Jersey. For more information, visit www.1kosmos.com and follow us on Twitter and LinkedIn.
+
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230524005237/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

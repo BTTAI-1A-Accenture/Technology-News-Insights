@@ -1,0 +1,42 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+AWS Key Management Service Now Supports External Key Stores
+ Dec 19, 2022
+								
+								
+								
+									
+									2
+									min read
+								
+							 by 
+
+
+Steef-Jan Wiggers
+
+ AWS recently announced the availability of AWS Key Management Service (AWS KMS) External Key Store (XKS), allowing organizations to store and manage their encryption keys outside the AWS KMS service. AWS Key Management Service (KMS) is an Amazon Web Services (AWS) managed service. It allows organizations to easily create, manage and control the encryption keys to encrypt their data. The service now supports an external key store, which can be a third-party service or application that can be used to store and manage encryption keys. When organizations configure AWS KMS External Key Store, they replace the KMS key hierarchy with a new external root of trust. The root keys are now all generated and stored inside an HSM they provide and operate - when AWS KMS needs to encrypt or decrypt a data key; it forwards the request to their vendor-specific HSM. Sébastien Stormacq, a principal developer advocate at AWS, explains in an AWS News blog post: All AWS KMS interactions with the external HSM are mediated by an external key store proxy (XKS proxy), a proxy that you provide and manage. The proxy translates generic AWS KMS requests into a format that the vendor-specific HSMs can understand. The HSMs that XKS communicates with is not located in AWS data centers. 
+Source: https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/ To provide customers with a broad range of external key manager options, the AWS KMS Team developed the XKS specification with feedback from several HSM, key management, and integration service providers, including Thales, Entrust, Salesforce, T-Systems, Atos, Fortanix, and HashiCorp.  James Bayer, EVP of R&D at HashiCorp, tweeted: AWS announced AWS KMS External Key Store. Now store your KMS root key outside of AWS infrastructure and @HashiCorp. Vault is a launch partner. Important for anyone worried about regulatory compliance and controls related to their encryption keys. In addition, Faiyaz Shahpurwala, chief product and strategy officer at Fortanix, said in a press release: We’re thrilled to work with AWS as they launch AWS KMS External Key Store to global enterprise customers that are subject to regulatory and compliance requirements. We believe this will give customers more choice and control over their key management lifecycle while leveraging the best-in-class benefits provided by AWS. Lastly, pricing-wise, AWS KMS charges $1 per root key per month, no matter where the key material is stored, on KMS, on CloudHSM, or the organization’s own on-premises HSM. Furthermore, additional details about the external key store are available in the FAQs. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

@@ -1,0 +1,29 @@
+Enables advanced safety and automated driving functions; 192 channels – 16 times more resolution than typical automotive radar – provides very detailed scene and object detection within a range of up to 350 metres Over 190 channels: ZF's Imaging Radar provides 16 times more resolution than typical automotive radar and can be combined with ZF’s full suite of sensor technologies for highly accurate perception of the environment. ZF is to soon begin supplying its imaging radar to China's SAIC for its R-Series models. ZF has initiated the first launch of its imaging radar technology to China’s SAIC Motor Corporation for its R-Series vehicles. Previously known as Full-Range Radar, ZF Imaging radar perceives vehicle surroundings in four dimensions, including their discrete height information.  In combination with these technologies, high-resolution imaging radar can help provide the necessary safety and reliability for semi to highly automated driving and autonomous driving applications (L4). Imaging Radar technology offers high resolution for four dimensions: range, velocity, azimuth (horizontal) and elevation (vertical). The addition of the elevation angle helps generate an enhanced 3D image of the traffic situation, enriched with speed information, resulting in a super dense and digitally processed environmental model.  This information helps a vehicle on a roadway to detect the end of a traffic jam, even under a bridge or in a tunnel at an early stage and the system is designed to provide brake warnings or potentially trigger Automatic Emergency Braking if a driver is not responding. The Imaging Radar also provides information that helps detect the edge of the road and whether there are free passing areas in front and at the side of the road for helping enable systems like Automatic Emergency Steering Assist. Imaging Radar has considerably higher resolution than radar solutions available, today which typically have only 12 channels (three transmitters, four receivers). In ZF's Imaging Radar, the number of channels is 16 times greater resulting in a total of 192 channels available. “We are pleased to launch ZF’s Imaging Radar technology to enhance the advanced driver assist and semi-automated functions for SAIC’s R-series vehicles. This represents an important step forward in sensing technology,” said Jana Rosenmann, Head of ZF’s Electronics and ADAS division. “With its high levels of object and scene recognition and long-range detection, the Imaging Radar is key in helping to meet the increasing perception requirements of highly assisted L3 and L4 Autonomous Driving at a competitive price level, while significantly increasing the potential performance of advanced safety and L2+ ADAS driving applications.” Facilitating very detailed object recognition
+The Imaging Radar’s high information density enables very detailed object recognition. For example, it can detect challenging objects like a child in the road up to five times better than typical radars, allowing more precise information in registering the speed of the measured object for each measuring point. ZF’s Imaging Radar can even detect the movement of individual limbs – allowing the sensor to potentially recognize in which direction the pedestrian is walking. Imaging Radar is an important addition to ZF’s comprehensive sensor set for automated driving functions. With an aperture angle of 120-degrees, it is designed for a wide range of situations: from slow city traffic to driving on country roads and highways. At 350 metres, the range is well above the current state-of-the-art Imaging Radar is highly flexible, allowing various mounting positions around the vehicle with 360-degree coverage and works effectively in low or high mounting positions for sports cars up to trucks while being tuned to their specific driving dynamics. It utilises the 77 gigahertz band and the Fast Ramp Frequency Modulated Continuous Wave (FMCW) modulation shared with other radar sensors from ZF.   
+
+
+ Autocar Pro News Desk 
+                                                    
+
+20 Aug 2024
+ 
+                                                CADvizor is a state-of-the-art electrical CAD software for electrical design that provides specialised libraries and des...
+                                             
+
+
+ Autocar Pro News Desk 
+                                                    
+
+19 Aug 2024
+ 
+                                                World’s largest two-wheeler manufacturer looks to tap growing demand for its products in Latin America and plans to expa...
+                                             
+
+
+ Autocar Pro News Desk 
+                                                    
+
+18 Aug 2024
+ 
+                                                Lawrence Whittaker, CEO of the UK-based aftermarket warranty company Warrantywise, has advised the UK government to fix ...
+                                             August 15, 2024 Would you invest in the upcoming Ola and Ather IPOs? Would you invest in the upcoming Ola and Ather IPOs? Yes 20.31% No 79.69% Latest Auto Industry updates and News Articles Get all the latest updates from the automobile universe

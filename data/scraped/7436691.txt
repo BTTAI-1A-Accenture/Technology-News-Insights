@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.theedgesingapore.com/digitaledge/news/mastercard-demonstrates-interoperable-cbdc-trusted-web3-commerce

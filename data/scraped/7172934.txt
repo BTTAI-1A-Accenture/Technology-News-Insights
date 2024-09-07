@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='hightimes.com', port=443): Max retries exceeded with url: /news/missouri-regulators-recall-thousands-of-cannabis-products/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7e2459d25390>, 'Connection to hightimes.com timed out. (connect timeout=5)'))

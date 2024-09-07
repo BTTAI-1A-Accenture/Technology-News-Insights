@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.eagletribune.com/region/proteantecs-achieves-asil-b-automotive-functional-safety-certification/article_a9cdd255-9c11-5191-82d2-877f268993d9.html

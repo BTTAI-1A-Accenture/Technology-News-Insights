@@ -1,0 +1,115 @@
+Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter Numerous streaming providers, including Hulu, ESPN and AMC Networks, have been sued for alleged violations of a video privacy law over the last decade.  
+							By 
+
+	Winston Cho
+ 
+	Scripps Network will not have to face a class action lawsuit accusing it of sharing subscribers’ personal viewing history with Facebook as part of its advertising business. 
+	A federal judge on Tuesday dismissed the suit, finding that consumers who subscribed to HGTV.com’s newsletter aren’t covered by a video privacy law that bars companies from disclosing information about their viewing habits. The ruling could undermine over 100 other identical suits against companies ranging from HBO to the NFL challenging opaque data practices in the absence of a federal data privacy law.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Related Stories		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Business
+			
+
+
+
+	
+		
+					Meta, Universal Music Group to Allow Users to Share Songs on WhatsApp		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Business
+			
+
+
+
+	
+		
+					Meta Beats Wall Street Estimates But Warns AI Spending Will Surge In 2025		
+			
+
+
+
+
+
+
+ 
+	The cases all involve allegations that companies utilizing Meta‘s Pixel tool, which allows advertisers to track visitor activity on websites to measure the effectiveness of ads and create custom audiences for ad targeting, violates the Video Privacy Protection Act. The law carries statutory damages of up to $2,500 per class member and creates a private right of action for consumers to sue for disclosure of information about their video-watching habits. Meta hasn’t been named in any of the complaints.
+
+ 
+	In a statement, Facebook stressed advertisers shouldn’t send sensitive information about users through its business tools. “Doing so is against our policies and we educate advertisers on properly setting up Business tools to prevent this from occurring,” the company said. “Our system is designed to filter out potentially sensitive data it is able to detect.” 
+	The named plaintiffs in the suit each subscribed to at least one newsletter from HGTV and alleged that the network transmitted information to Facebook that allowed the social media platform to identify the videos they watched on the site. 
+	In a ruling potentially limiting the reach of the VPPA, U.S. District Judge P. Kevin Castel concluded that users who signed up for HGTV’s newsletters aren’t considered “subscribers” of a video service provider. 
+	On dismissal, Scripps argued that subscribers to the newsletter aren’t considered consumers who can bring a suit alleging a violation of the VPPA since there’s no allegation they purchased or rented a good or service from HGTV. The argument turned on whether plaintiffs’ subscriptions to HGTV’s newsletter made them “subscribers” covered by the VPPA. 
+	Castel detailed the relationship between a service and consumers that would qualify them as “subscribers” under the video privacy law. He found that plaintiffs cannot bring a suit alleging a violation of the VPPA since the newsletter, which Scripps uses for marketing purposes, is a separate and distinct part of the network’s video content offerings on its website. While the newsletter may encourage consumers to view its videos, a subscription wasn’t required to access them, he said.
+
+	
+
+
+
+
+
+
+
+
+ 
+	“They were subscribers to newsletters, not subscribers to audio visual materials,” the judge wrote, noting that “plaintiffs were free to watch or not watch hgtv.com videos without any type of obligation, no different than any of the other 9.9 million monthly visitors to the site.” 
+	The ruling lends weight to arguments from defendants in identical cases that simply because a business is engaged in the sale or rental of video materials or services doesn’t mean that all of its products are within the scope of the law. 
+	The court looked to other cases over alleged violations of the VPPA. In a suit accusing AMC of violating the law by disclosing users’ viewing history to Facebook, a federal judge concluded that “an individual must do more than simply take advantage of a provided service – even if doing so alone allows a provider to access her information – in order to have acted as a ‘subscriber’ of the provider.” 
+	Federal appeals courts have reached clashing conclusions on whether downloading a mobile ap is enough to plausibly allege subscriber status. The 11th Circuit Court of Appeals has held that it isn’t since there’s no ongoing relationship between the user and service, while the 1st Circuit Court of Appeals has held it is if there’s some sort of transaction, like the exchange of content for data. 
+	“Because the Complaint does not plausibly allege that plaintiffs acted as ‘subscribers’ when they viewed videos on the hgtv.com, it does not plausibly allege that they were ‘consumers’ under the VPPA,” Castel wrote. “The claim will therefore be dismissed.”
+
+	
+
+
+
+
+
+
+
+
+ 
+	The scope of the video privacy law remains contested. Numerous streaming providers, including ESPN and AMC Networks, have been sued for alleged violations of the VPPA over the last decade, with a judge ruling in favor of Hulu in 2015 that it’s not liable because it didn’t knowingly transmit the data to Facebook.  
+	Scripps was represented by David Yohai and David Singh of Weil, Gotshal & Manges.  Sign up for THR news straight to your inbox every day Sign up for THR news straight to your inbox every day Subscribe for full access to The Hollywood Reporter Send us a tip using our anonymous form.

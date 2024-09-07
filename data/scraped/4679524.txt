@@ -1,0 +1,137 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Updated: May 3, 2024, 3:13pm Nothing turns a potential customer away from your site faster than if they get a giant warning in their browser saying “this site may not be secure.” Unfortunately, this happens all too often to small business owners who don’t realize the importance of strong website security. One of the easiest ways to prevent this message from appearing on your website is to buy a secure sockets layer (SSL) certificate. There are multiple types of SSL certificates, including domain validated (DV), organization validation (OV) and extended validation (EV). All of these certificates transform your HTTP to HTTPS. That tiny bit of security is enough to instill trust in site visitors and Google’s ranking algorithms. In addition to boosting your search engine optimization (SEO), an SSL certificate encrypts data you send from your site and data that your site receives. Forbes Advisor has analyzed pricing, certificate types, support and more to bring you this ranking of the top SSL certificate services on the market. Lowest price  $7.95 per year for DV SSL Types of SSL  DV, EV, OV 
+ Money-back guarantee  Yes 
+ 
+
+$7.95
+per year for DV SSL
+
+ $7.95 per year for DV SSL 
+
+DV, EV, OV
+
+
+ DV, EV, OV 
+ 
+
+Yes
+
+
+ Yes 
+ Comodo SSL Store is one of the most popular SSL certificate providers around. It offers a variety of SSL certificates, from DV to Wildcard. Pricing starts at $7.95 per year, if you choose a five-year term, otherwise, a single-year PositiveSSL certificate costs $11.95 per year. For a single-domain EV SSL, it costs $72.18 per year, for five years or $92.07 per year. It is worth noting that as of May 2023, Comodo SSL Store is a Sectigo-owned company that only sells Sectigo certificates. The most expensive SSL certificate is $2,351.22 per year on a five-year term for an enterprise-level EV SSL. This is intended for enterprise clients with multiple domains to manage. There is a 30-day money-back guarantee, and most SSLs come with a warranty of some kind. For example, the multi-domain EV SSL has a $2 million warranty. Plus, you’ll get a free site trust seal to use on a checkout page to ensure users that your site is secure. Who should use it: Comodo SSL Store is a good fit for anyone who needs an SSL certificate. It offers every type of SSL certificate available, trust site seals, money-back guarantees and warranties, which is why it’s one of the best SSL certificate services you can use. Lowest price  $36.75 per year for DV SSL Types of SSL  DV, OV, EV 
+ Money-back guarantee  Yes 
+ 
+
+$36.75
+per year for DV SSL
+
+ $36.75 per year for DV SSL 
+
+DV, OV, EV
+
+
+ DV, OV, EV 
+ 
+
+Yes
+
+
+ Yes 
+ One of the big players in the SSL certificate services industry is SSL.com. It offers competitive pricing, a money-back guarantee and warranties on all SSL certificates. You pay as little as $36.75 per year for five years for a DV SSL or $49 for a single year. An OV SSL costs $224.25 per year for five years ($299 for one year), EV SSLs cost $239.50 per year for two years ($299 for one year) and a multi-domain SAN is $141.60 per year for five years ($177 for one year). There’s a warranty range from $10,000 to $2 million, so you’re protected from fraudulent use of the certificate. The website is a little confusing, specifically if you are trying to choose an OV SSL. Certificate issuance is fast—most SSLs are a 5-minute wait. Who should use it: If you need an SSL certificate quickly, SSL.com can provide it within five minutes, it claims (with EV SSLs as the exception). Also, pricing is competitive. Lowest price  $269.73 per year for OV SSL Types of SSL  OV, EV 
+ Money-back guarantee  Yes 
+ 
+
+$269.73
+per year for OV SSL
+
+ $269.73 per year for OV SSL 
+
+OV, EV
+
+
+ OV, EV 
+ 
+
+Yes
+
+
+ Yes 
+ DigiCert is a premium SSL certificate service, so it is a pricier choice than most. If you agree to a three-year term, you can pay $269.73 per year for an OV SSL; a one-year term costs $289. An EV SSL is $394.17 per year for six years, or $430 for a single year. We didn’t list DV SSLs because DigiCert doesn’t list them as an option, but DV SSLs are available—you have to sign up first and request it specifically from a company representative. Multidomain subject alternate names (SANs) are available, but it’s a costly choice: $708 per SAN with a basic OV SSL, and as much as $3,980 each on an EV SSL. Like most of the best SSL certificate services, DigiCert offers a 30-day money-back guarantee. You’ll also get warranty protection from $1.25 million to $2 million, depending on whether you choose OV or EV SSL certificates. Who should use it: DigiCert has been around for a while, and it’s the parent company of several other known SSL certificate services, so its longevity may make it more trustworthy to you. If priority support from DigiCert is important to you, go with any SSL certificate other than basic to get it. Lowest price  $66 per year for DV SSL Types of SSL  DV, OV, EV 
+ Money-back guarantee  Yes 
+ 
+
+$66
+per year for DV SSL
+
+ $66 per year for DV SSL 
+
+DV, OV, EV
+
+
+ DV, OV, EV 
+ 
+
+Yes
+
+
+ Yes 
+ Sectigo offers affordable SSL certificates for any type of business, and its pricing is transparent on its site. For $66 per year on a six-year plan, you can get a basic DV SSL, or pay $99 for one year. An OV SSL costs $120 per year for a six-year plan ($179 for one year), and an EV SSL is $174 per year for six years or $249 for one year. Multi-domain EV SSLs are as low as $414 per year on a six-year contract, which is ideal for online businesses with more than one website to secure. In addition to being a bit of a budget SSL certificate provider, Sectigo also offers industry-standard money-back guarantees and warranties. A DV SSL gets a $500,000 warranty; an OV SSL has $1 million warranty; an EV SSL gets a warranty of $1.75 million. Who should use it: Sectigo is less expensive than most SSL certificate services, and its multi-domain EV SSL option is a great choice if you run multiple eCommerce sites. Even if you’re just looking for a DV SSL, Sectigo is a solid, affordable option. Lowest price  $49 per year for DV SSL Types of SSL  DV 
+ Money-back guarantee  Yes 
+ 
+
+$49
+per year for DV SSL
+
+ $49 per year for DV SSL 
+
+DV
+
+
+ DV 
+ 
+
+Yes
+
+
+ Yes 
+ AlphaSSL offers a solid value, but you’re out of luck if you need to certify multiple domains. It only offers single-domain SSL certificates. It only offers DV SSL for $49 per year, with no discounts for long-term contracts. You can also get a wildcard SSL for $149 per year. Support is only available through a ticket system. The phone numbers on the site are only for sales phone calls. There is a warranty available for all SSL certificates, but AlphaSSL does not publicize the amount. You will have to check with their sales team for concrete information. Who should use it: The best use case for an AlphaSSL certificate is if you need a low-cost security solution for a single site (or a site with multiple subdomains) for one year at a time. Lowest price  $219 per year for OV SSL Types of SSL  OV, EV 
+ Money-back guarantee  Yes 
+ 
+
+$219
+per year for OV SSL
+
+ $219 per year for OV SSL 
+
+OV, EV
+
+
+ OV, EV 
+ 
+
+Yes
+
+
+ Yes 
+ Entrust is an SSL certificate provider that works a little differently than most of the best SSL certificate services. It doesn’t offer DV SSL certs, and if you need an EV SSL, you have to get a multi-domain one, which ends up being more expensive. Every SSL certificate gets a $500,000 warranty, regardless of type of SSL. You’ll pay $219 per year for a standard OV SSL, $429 for a multi-domain EV SSL and $799 for a wildcard OV SSL. The base price for an EV SSL includes protection for up to two domains, and $139 per year for each additional domain (up to 50). If you need SANs, you’ll have to talk to your account executive for pricing. It’s worth noting that support is limited, which is unusual. Support is available nearly 24 hours per day, with the exception of Saturdays and Sundays. Who should use it: As long as you don’t need 24/7 access to support or a DV SSL, Entrust could work well for you. It’s a good solution for any business that runs multiple websites. Lowest price  $249 per year for DV SSL Types of SSL  DV, OV, EV 
+ Money-back guarantee  Yes 
+ 
+
+$249
+per year for DV SSL
+
+ $249 per year for DV SSL 
+
+DV, OV, EV
+
+
+ DV, OV, EV 
+ 
+
+Yes
+
+
+ Yes 
+ GlobalSign is targeting enterprise-level businesses that need SSL certification, and it’s reflected in the pricing as well as language on the site. A DV SSL costs $249 per year, while OV and EV SSL certificates cost $349 and $599, respectively. These prices are higher than most competitors. The benefit of choosing GlobalSign is it includes three SANs for free (Outlook Web Access, mail, auto-discover) with each SSL certificate. Additional subdomain protection costs $99 each per year. A wildcard SSL costs $949 for unlimited subdomains. If you need a multi-domain SSL, you can get that as an add-on for OV or EV certificates for $199 each per year. Another benefit is that you can typically get EV SSL issuance in as little as three days. Who should use it: GlobalSign tries to make it easy for you to get the SSL certificate you need and add on protection for subdomains or multiple domains, as needed. It’s an ideal choice for companies that expect growth in the future. 
+ Most websites include SSL protection because it’s so helpful for SEO and it protects all the data flowing to and from the site. Also, most of the best website builders and web hosting providers offer free SSLs. If you don’t already know which SSL certificate you need, keep reading for an easy explanation. You can think of an SSL certificate as your website’s passport. It helps a browser or web server authenticate a website’s identity so your site is trustworthy (the HTTPS indicates this). It also encrypts data, so any data to or from your site gets scrambled so it’s unreadable by anyone “listening in.” DV SSL This certificate is the least expensive and least secure of all SSL certificates. All it requires for authentication is verification that the domain is registered to the domain owner (via WHOIS database). Best for: Personal project websites OV SSL There’s much more info to check on an OV SSL, and therefore it’s more secure than a DV SSL. In addition to checking the domain validity, there’s also a check on the organization that owns the domain, plus its address and location. Best for: Business or non-profit websites EV SSL For the strongest protection, there are EV SSL certificates. The validation process checks for the name of the business, address and location. Also, you can find the name of the business in the SSL info window (click on the padlock next to a URL), which is further validation. These certificates also come with the largest monetary warranties. Best for: E-commerce businesses. Everyone who owns a website should have an SSL certificate. If your site isn’t protected by an SSL certificate, it gets a “not secure” mark from Google. Plus, if you want any of your content or your site to rank well in search engines, you need that virtual padlock. Most importantly, though, yes you need an SSL certificate to protect your site and its users. We took note of warranties and their values in our reviews of the best SSL certificate services because it’s important to know how well you’re protected should something go wrong. Most SSLs come with a warranty that ensures your certificate will work as intended. For example, if a payment is made on your SSL-protected site and the end-user is a victim of fraud because of an SSL failure, the warranty will pay the fraudulent-related fees. Some website hosting providers offer free SSL certificates. While any SSL certificate is better than none, free SSL certificates typically offer the lowest security level (DV). Additionally, paid SSL certificates often offer a warranty to protect your site visitors against any potential SSL-related security threats, while free versions generally do not. Read our guide to learn more about the cost of an SSL certificate. Transport Layer Security (TLS) is just an updated protocol known as SSL. While they’re one and the same, we generally use the term SSL. Technology changes quickly but the terms don’t always follow, so this is a valid question. One way of looking at SSL certificates is as insurance. It’s expensive because of the warranties attached to them. If anything goes wrong, an SSL certificate provider will pay out to the end-user affected by an SSL failure. To pay for any of those instances, they charge high prices to the domain owner for that protection and assurance. In many cases, you can determine a site’s SSL status by the URL. If the URL begins with “HTTPS” instead of the standard “HTTP”,  you are visiting a site that has an SSL certificate. While it’s true that all SSL certificates essentially do the same thing, a free SSL certificate is typically the lowest security option (DV) and it probably won’t come with a warranty. So, they are only safe to a degree. But if a security threat happens, your site visitors might not be able to claim a warranty. Both SSL and TLS certificates use the RSA symmetric encryption and asymmetric encryption. Symmetric encryption uses only one key and anyone who has access can use that key to encrypt and decrypt information, such as data. A common example where this type of encryption is used is on virtual private networks (VPNs). In asymmetric encryption, two keys are employed: a public key that works for encryption and a private key that is used for decryption. This type of encryption is most commonly used when sending and receiving emails. 
+                Amy Nichol Smith spent more than 20 years working as a journalist for TV and newspapers before transitioning to software and hardware product reviews for consumers and small businesses. She has been featured in publications such as L.A. Times, Tom's Guide, Investopedia and various newspapers across the U.S.             
+                With over a decade of editorial experience, Rob Watts breaks down complex topics for small businesses that want to grow and succeed. His work has been featured in outlets such as Keypoint Intelligence, FitSmallBusiness and PCMag.            

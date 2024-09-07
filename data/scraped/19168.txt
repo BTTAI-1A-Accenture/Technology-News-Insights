@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.tehrantimes.com', port=443): Max retries exceeded with url: /news/481424/Incentives-should-be-considered-for-agricultural-production (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da9394f2b0>, 'Connection to www.tehrantimes.com timed out. (connect timeout=5)'))

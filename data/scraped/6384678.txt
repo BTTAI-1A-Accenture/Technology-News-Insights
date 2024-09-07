@@ -1,0 +1,18 @@
+
+HighRadius, the Autonomous Finance platform for the office of the CFO, announced the expansion of its hosting partners with the new partnership with Google Cloud. This partnership will accelerate the global deployment of HighRadius solutions for clients on Google Cloud's secure and sustainable infrastructure.
+ 
+In addition, HighRadius' Autonomous Receivables software will now be available on Google Cloud Marketplace. The new partnership will allow the two companies to scale their joint go-to-market strategy and expand their joint customer pilot programs.
+ 
+"The partnership will accelerate the global deployment and expansion of HighRadius Autonomous Finance solutions for our clients on Google Cloud. We wanted to make it easy for our clients to procure our software, and Google Cloud Marketplace made that decision easy for us. We will work closely with the Google Cloud training, support, sales, and go-to-market teams to help our clients achieve speed-to-value with their transformation projects." - Sayid Shabeer, Chief Product Officer at HighRadius.
+ 
+"Solutions that help companies accelerate digital transformations are important to future growth and innovation," said Dai Vu, Managing Director, Marketplace & ISV GTM Programs, Google Cloud. "With HighRadius' Autonomous Finance platform available on Google Cloud Marketplace, customers will be able to quickly access and deploy the solution to their cloud environment, enabling them to digitally transform business finance practices and accelerate their growth in the cloud."
+ 
+About HighRadius Corporation
+ 
+HighRadius offers cloud-based Autonomous Software for the Office of the CFO. More than 700 of the world's leading companies have transformed their order-to-cash, treasury, and record-to-report processes with HighRadius. Our customers include 3M, Unilever, Anheuser-Busch InBev, Sanofi, Engie GBS Solutions, Kellogg Company, Danone, Hershey's, and many more.
+ 
+Autonomous Software is data-driven software that continuously morphs its behavior to the ever-changing underlying domain transactional data. It brings modern digital transformation capabilities like Artificial Intelligence, Robotic Process Automation, Natural Language Processing, and Connected Workspaces as out-of-the-box features for the finance & accounting domain.
+ 
+Finance business stakeholders have been led to believe that they have only two choices: pick an application software vendor that digitizes a paper or Excel-based process to an electronic system of record, or choose a middleware platform for AI or RPA to build and maintain in-house, domain-specific capabilities. In contrast, HighRadius Autonomous Software combines the best of both worlds to deliver measurable business outcomes such as DSO reduction, working capital optimization, bad-debt reduction, reduced month-close timelines, and improved productivity in under six months.
+ 
+Click here to see Autonomous Software in action.

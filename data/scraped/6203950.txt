@@ -1,0 +1,29 @@
+Grammarly is a powerful tool that can help writers improve their writing skills. It is a popular online grammar checker that helps in correcting various kinds of grammatical errors. The good news is, Grammarly is available on Google Docs, which means you can install and use it directly in your Google Docs document. In this article, we will guide you on how to install and use Grammarly in Google Docs. Step 1: Install Grammarly in Google Docs Before installing Grammarly in Google Docs, you must have a Grammarly account. If you don’t have an account, you can create one by heading over to the Grammarly homepage and follow the steps to sign up. Once you have an account, follow these simple steps to install Grammarly in Google Docs: 1. Open Google Chrome and log in to your Google account. 2. Access Google Docs by clicking on the app launcher on the top right-hand corner of your screen. 3. With Google Docs open, locate the “add-ons” option and click on it. 4. A new window will pop up displaying available Google Docs add-ons. Enter “Grammarly” in the search bar and select the Grammarly add-on from the list. 5. To install, click on the “Install” button next to the Grammarly add-on. 6. Once the installation is complete, you can access Grammarly by clicking on the “Add-ons” tab in the top menu and selecting “Grammarly” from the drop-down list. Step 2: Use Grammarly in Google Docs After the installation, Grammarly will be available to use directly in your Google Docs document. Here’s how to use it: 1. Click on “Add-ons” in the top menu and select “Grammarly” from the drop-down list. 2. If you are using Grammarly for the first time, you will be prompted to sign in to your Grammarly account. 3. Once you log in, Grammarly will automatically analyze your document and provide suggestions on how to improve your writing. 4. You can either click on each suggestion to accept or ignore the recommendation or choose to apply all the recommended changes by clicking on the “Apply All Suggestion” button. 5. You can customize the type of errors you want Grammarly to check, such as spelling, punctuation, or style preferences, by clicking on the “Settings” icon on the bottom right corner of the screen. 6. After reviewing and accepting the recommendations, you can close the Grammarly panel, and your document will be free of grammatical errors. In conclusion, Grammarly is a valuable tool for anyone who wants to improve their writing skills. By following the above guide, you can install and use Grammarly in Google Docs, making it hassle-free to check and rectify grammatical errors in your documents. Happy writing! Signup for The Tech Edvocate Newsletter and have the latest in EdTech news and opinion delivered to your email address! 
+ 
+Email address: 
+
+ 
+First Name
+
+ 
+Last Name
+
+ 
+
+ Since technology is not going anywhere and does more good than harm, adapting is the best course of action. That is where The Tech Edvocate comes in. We plan to cover the PreK-12 and Higher Education EdTech sectors and provide our readers with the latest news and opinion on the subject. From time to time, I will invite other voices to weigh in on important issues in EdTech. We hope to provide a well-rounded, multi-faceted look at the past, present, the future of EdTech in the US and internationally. We started this journey back in June 2016, and we plan to continue it for many more years to come. I hope that you will join us in this discussion of the past, present and future of EdTech and lend your own insight to the issues that are discussed. Signup for The Tech Edvocate Newsletter and have the latest in EdTech news and opinion delivered to your email address! 
+ 
+Email address: 
+
+ 
+First Name
+
+ 
+Last Name
+
+ 
+
+ The Tech Edvocate
+910 Goddin Street
+Richmond, VA 23231
+(601) 630-5238
+[email protected]

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.stcatharinesstandard.ca/college-photonics-2/image_cd64a1ef-c77e-5666-80a7-f17830c19be5.html

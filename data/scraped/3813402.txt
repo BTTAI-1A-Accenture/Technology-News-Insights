@@ -1,0 +1,72 @@
+A whale with a lot of money to spend has taken a noticeably bearish stance on American Express. Looking at options history for American Express AXP we detected 10 strange trades. If we consider the specifics of each trade, it is accurate to state that 40% of the investors opened trades with bullish expectations and 60% with bearish. From the overall spotted trades, 8 are puts, for a total amount of $903,986 and 2, calls, for a total amount of $266,750. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $120.0 to $165.0 for American Express over the last 3 months.  Looking at the volume and open interest is a powerful move while trading options. This data can help you track the liquidity and interest for American Express's options for a given strike price. Below, we can observe the evolution of the volume and open interest of calls and puts, respectively, for all of American Express's whale trades within a strike price range from $120.0 to $165.0 in the last 30 days.   
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+AXP
+PUT
+SWEEP
+BEARISH
+06/16/23
+$160.00
+$226.5K
+1.2K
+201
+
+
+AXP
+PUT
+SWEEP
+BULLISH
+06/16/23
+$160.00
+$225.7K
+1.2K
+603
+
+
+AXP
+CALL
+SWEEP
+BULLISH
+06/16/23
+$160.00
+$221.2K
+1.0K
+253
+
+
+AXP
+PUT
+SWEEP
+NEUTRAL
+04/14/23
+$160.00
+$212.2K
+724
+1.5K
+
+
+AXP
+PUT
+TRADE
+BEARISH
+04/14/23
+$160.00
+$129.9K
+724
+2.3K
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for American Express, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

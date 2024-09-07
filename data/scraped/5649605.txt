@@ -1,0 +1,29 @@
+Adobe Illustrator is a powerful tool for graphic designers who want to create professional-level artwork. One of the many useful tools within Illustrator is the Intertwine tool, which is perfect for non-destructive layering. The Intertwine tool allows users to layer multiple shapes and objects without altering their individual properties. This means that you can create complex designs while still maintaining the ability to edit and adjust each individual layer as needed. To use the Intertwine tool in Adobe Illustrator, follow these simple steps: Step 1: Create a series of shapes or objects that you want to layer. In this example, we’ll use basic shapes like circles and rectangles. Step 2: Select all of the shapes that you want to intertwine. You can do this by clicking and dragging your mouse over them, or by holding down the Shift key while clicking each shape to select them individually. Step 3: Open the Intertwine tool by going to Object > Path > Intertwine. You can also find the tool in the toolbar on the left side of the screen. Step 4: Adjust the settings for the Intertwine tool. You can choose how many layers you want to create, the amount of spacing between each layer, and the angle that the layers are intertwined at. Step 5: Click “OK” to apply the Intertwine effect to your selected objects. Now, you’ll see that your shapes have been intertwined into a layered design. Each layer is editable and can be adjusted individually, without affecting the other layers. To make additional adjustments, simply use the Direct Selection Tool (A) to select and move the individual shapes within each layer. By using the Intertwine tool in Adobe Illustrator, you can create striking designs with ease. And with non-destructive layering, you can make changes and adjustments as needed without losing any of the original properties of your shapes and objects. Signup for The Tech Edvocate Newsletter and have the latest in EdTech news and opinion delivered to your email address! 
+ 
+Email address: 
+
+ 
+First Name
+
+ 
+Last Name
+
+ 
+
+ Since technology is not going anywhere and does more good than harm, adapting is the best course of action. That is where The Tech Edvocate comes in. We plan to cover the PreK-12 and Higher Education EdTech sectors and provide our readers with the latest news and opinion on the subject. From time to time, I will invite other voices to weigh in on important issues in EdTech. We hope to provide a well-rounded, multi-faceted look at the past, present, the future of EdTech in the US and internationally. We started this journey back in June 2016, and we plan to continue it for many more years to come. I hope that you will join us in this discussion of the past, present and future of EdTech and lend your own insight to the issues that are discussed. Signup for The Tech Edvocate Newsletter and have the latest in EdTech news and opinion delivered to your email address! 
+ 
+Email address: 
+
+ 
+First Name
+
+ 
+Last Name
+
+ 
+
+ The Tech Edvocate
+910 Goddin Street
+Richmond, VA 23231
+(601) 630-5238
+[email protected]

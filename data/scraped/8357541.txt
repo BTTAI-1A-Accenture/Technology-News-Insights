@@ -1,0 +1,37 @@
+
+Virtual event to provide free access to globally-recognized experts, technical content and innovative techniques for accelerating a threat-informed defense
+ 
+AttackIQ®, the leading independent vendor of Breach and Attack Simulation (BAS) systems, today announced the details surrounding its upcoming Purple Hats Conference, to be held virtually on Thursday, April 6, 2023, from 8 a.m. – 12:30 p.m. PT.
+ 
+WHAT: The award-winning Purple Hats Conference is the industry destination for cybersecurity practitioners around the globe to collaborate, share ideas, and learn how to evolve from a reactive to proactive threat-informed defense. Founded by AttackIQ and leveraging the open AttackIQ Academy platform for cybersecurity education and certification, Purple Hats will provide a free, multi-perspective experience for thousands of virtual attendees to learn how to improve, enhance, and evolve their cybersecurity practice.
+ 
+AttackIQ CEO Brett Galloway will kick off the conference at 8 a.m. PT with welcome remarks, followed by a keynote conversation with Greg Lavender, Senior Vice President, CTO and General Manager of Software and Advanced Technology Group at Intel Corporation, and Carl Wright, Chief Commercial Officer at AttackIQ, on the evolution of cybersecurity.
+ 
+The conference will feature four main tracks:
+ 
+With new and mounting attacks on nearly every industry around the globe, organizations with strong cybersecurity practices aren't just looking for operational strength — they're looking for operational excellence. In this track, speakers discuss what new strategies and tactics can be employed to ensure success in defending against nation-state and criminal groups looking to disrupt operations.
+ 
+Speakers in this track include: David Branscome, Global Enablement Lead for Security, Compliance and Identity at Microsoft; Christopher Frenz, AVP IT Security at Mount Sinai South Nassau; Jonathan Reiber, Vice President of Cybersecurity Strategy and Policy at AttackIQ; Tanya Janca, Founder and CEO of We Hack Purple Academy; Seif Hateb, Principal Security Engineer at Twilio; Tracey Webb, Director of Information and Cyber Security Operations at Global Data Systems; Ryan Sapp, Principal of Cybersecurity Engineering at Huntington Bank; Christopher Ayres, Cyber Threat Analyst at Huntington Bank; James Trainor, Senior Vice President at Aon; Josephine Wolff, Associate Professor of Cyber Security and Policy at Tufts University; and Walt Powell, Lead Field CISO at CDW.
+ 
+Since MITRE ATT&CK was published in 2015, it has transformed how security teams think about threats and approach cybersecurity effectiveness. In this talk track, join leading practitioners of threat-informed defense to discuss the state of research and the state of the practice in how teams can elevate their security program performance.
+ 
+Speakers in this track include: Iman Ghanizada, Global Head of Autonomic Security Operations at Google; James Stanley, Chief, Product Development at The Cybersecurity & Infrastructure Security Agency (CISA); Jonathan Reiber, Vice President of Cybersecurity Strategy and Policy at AttackIQ; Christian Sorensen, CEO at SightGain; Jonathan Baker, Director of Research and Development, Center for Threat-Informed Defense; Carl Wright, Chief Commercial Officer at AttackIQ; Jason Keirstead, CTO of Threat Management and Distinguished Engineer at IBM; Mark Alba, Chief Product Officer at Anomali; Gerard "Gerry" Johansen, Manager, Incident Handling at Red Canary; Ahmet Kilinc, Managed Threat Hunting Leader at EY; Anuj Malkapuram, Principal Security Engineer at Salesforce; David Ng, Director of Product at Salesforce; Ian Davila, Lead Adversary Emulation Engineer at Tidal Cyber; Scott Small, Director of Cyber Threat Intelligence at Tidal Cyber; Francesco Chiarini, Senior Vice President, Resilience and Architecture at Standard Chartered Bank; Calin Gheorghiu, Director of Cyber Resilience at Standard Chartered Bank; Lindbergh Caldeira, Cyber Security Operations Manager at SA Power Networks; Gerado Fernandez Navarrete, Senior Security Engineer at VirusTotal.
+ 
+Cybersecurity leaders today lack data-driven visibility into their security effectiveness, and the result is they don't know how well their security controls will perform against known threats. This talk track distills the unique challenges facing those tasked to lead teams in a complex environment and offers clear examples from the field on how to succeed.
+ 
+Speakers in this track include: Kevin Finch, Senior Business Continuity Architect at Sayers; Susan Peediyakkal, InfoSec Operation Manager at NASA; Irena Damsky, Director of Research at Palo Alto Networks; and Jason Maynard, Field CTO Cybersecurity – Canada at Cisco Secure.
+ 
+This track is for red teamers, blue teamers, security architects, cybersecurity tech enthusiasts. We'll deep dive into the more technical aspects of a strong, reliable security tech stack, helping ensure attendees have the info needed around advanced reporting with Jupyter notebooks, operationalizing MITRE ATT&CK, details on how to effectively validate your security controls, utilizing Attack Graphs and more.
+ 
+Speakers in this track include: Stephan Chenette, CTO and Co-Founder of AttackIQ; Jamie Williams, Principal Adversary Emulation Engineer at MITRE; Mark Haase, Chief Engineer at MITRE; Victor Monga, CISO at Virtually Testing Foundation and Interim Manager of Technical Marketing at VMware; Rick McElroy, Principal Cybersecurity Strategist at VMware; Geert Bussé, Head of NGS Pre Sales EMEA at Westcon; and Hamza Sahli, Solution Architect at Westcon.
+ 
+This conference will end with a keynote presentation with Jonathan Reiber, Vice President of Cybersecurity Strategy and Policy at AttackIQ, and Dr. Jannell MacAulay, Human Performance Specialist, Executive Leadership Consultant, Combat Veteran and Leader, on how mindfulness came to be and how security teams can implement it in their daily lives amidst stressors in the cybersecurity industry.
+ 
+WHERE: Guests can register to attend at https://www.purplehats.org/2023/begin. Presentations will also be available on demand following the event.
+ 
+If you have any questions about the event, please contact the event team at registration@garnishevent.com.
+ 
+About AttackIQ
+ 
+AttackIQ, the leading independent vendor of breach and attack simulation solutions, built the industry's first Security Optimization Platform for continuous security control validation and improving security program effectiveness and efficiency. AttackIQ is trusted by leading organizations worldwide to plan security improvements and verify that cyberdefenses work as expected, aligned with the MITRE ATT&CK framework. The Company is committed to giving back to the cybersecurity community through its free award-winning AttackIQ Academy, open Preactive Security Exchange, and partnership with MITRE Engenuity's Center for Threat-Informed Defense. For more information, visit www.attackiq.com. Follow AttackIQ on Twitter, Facebook, LinkedIn, and YouTube.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230328005394/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

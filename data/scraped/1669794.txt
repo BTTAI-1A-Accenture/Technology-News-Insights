@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.daily-journal.com/news/illinois/global-manufacturer-targeting-manteno-which-would-create-2-600-jobs/article_0d9faeb4-4065-11ee-b598-a7d4652ac0da.html

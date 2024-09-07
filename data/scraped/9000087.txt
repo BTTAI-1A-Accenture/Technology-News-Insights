@@ -1,0 +1,42 @@
+ Washington: Scientists have developed solar- powered smart windows with tunable glazing that can control the heat and light inside a home, saving up to 40 per cent in an average building's energy costs.  The system developed by researchers at Princeton University in the US features solar cells that selectively absorb near-ultraviolet (UV) light, so the windows are completely self-powered, inexpensive and easy to apply to existing windows.  "Sunlight is a mixture of electromagnetic radiation made up of near-UV rays, visible light, and infrared energy, or heat," said Yueh-Lin Loo, from Princeton. 
+	"We wanted the smart window to dynamically control the amount of natural light and heat that can come inside, saving on energy cost and making the space more comfortable," said Loo. 
+	The smart window controls the transmission of visible light and infrared heat into the building, while the new type of solar cell uses near-UV light to power the system. 
+	"This new technology is actually smart management of the entire spectrum of sunlight," said Loo. 
+	Since near-UV light is invisible to the human eye, the researchers set out to harness it for the electrical energy needed to activate the tinting technology. 
+	"Typical solar cells made of silicon are black because they absorb all visible light and some infrared heat - so those would be unsuitable for this application," Loo said. 
+	In the study published in the journal Nature Energy, the researchers described how they used organic semiconductors - contorted hexabenzocoronene (cHBC) derivatives - for constructing the solar cells. 
+	They chose the material because its chemical structure could be modified to absorb a narrow range of wavelengths - in this case, near-UV light. 
+	To construct the solar cell, the semiconductor molecules are deposited as thin films on glass with the same production methods used by organic light-emitting diode manufacturers. 
+	When the solar cell is operational, sunlight excites the cHBC semiconductors to produce electricity. 
+	At the same time, the researchers constructed a smart window consisting of electrochromic polymers, which control the tint, and can be operated solely using power produced by the solar cell. 
+	When near-UV light from the Sun generates an electrical charge in the solar cell, the charge triggers a reaction in the electrochromic window, causing it to change from clear to dark blue. By commenting, you agree to the Prohibited Content Policy By commenting, you agree to the Prohibited Content Policy 
+
+News 
+
+ See whats happening in Energy sector right now 
+
+Exclusive 
+
+ Read and get insights from specially curated unique stories from editorial 
+
+Leaders Speak
+
+ Business leaders sharing their insights 
+
+Events
+
+ Explore and discuss challenges & trends in India's leading B2B events 
+
+Awards 
+
+ Recognise work that not only stood out but was also purposeful 
+
+Webinars 
+
+ Join leaders & experts for roundtables, conferences, panels and discussions Subscribe to our Daily Newsletter  By continuing you agree to our Privacy Policy & Terms & Conditions 
+Advertise With Us
+ We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc. 
+Download ETEnergyworld App 
+ Save your favourite articles with seamless reading experience 
+Get updates on your preferred social platform
+ Follow us for the latest news, insider access to events and more. About Us Contact Us Newsletters

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.idahocountyfreepress.com/community/cottonwood-news-a-boon-for-the-agriculturally-inept/article_41598396-2586-11ee-ab7b-c736853fbcaa.html

@@ -1,0 +1,2 @@
+Returning to greatness Mozilla developers are celebrating that they are now faster than Google Chrome if they test it with the SunSpider JavaScript benchmark. While that  test has been superseded by the JetStream benchmark, it still means that Firefox is returning to form, after being behind Chrome in all areas for ages.  For those not in the no SunSpider is a decade-old JavaScript benchmark. The benchmarks come from AreWeFastYet.com. Meanwhile for the newer and more demanding JetStream 2.0 benchmark, Google Chrome continues to win easily over Firefox. 
+

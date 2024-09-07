@@ -1,0 +1,23 @@
+
+            A hospital in Idaho has been diverting ambulances to other hospitals for more than 24 hours because of a cyberattack, a hospital spokesperson confirmed to CNN on Wednesday in the latest example of a hacking incident complicating health care in the US. 
+     
+            The cyberattack took place on Monday and has forced nurses and doctors at Idaho Falls Community Hospital, an 88-bed hospital in the east of the state, to use pen and paper rather than computers for patient charts, hospital spokesperson Brian Ziel told CNN. 
+     
+            The hospital is still caring for patients and staffers are “working around the clock” to fully restore computer systems, he said.
+     
+            It was not immediately clear if the hack involved ransomware which locks computers so that hackers can demand payments. Ziel said he was not aware of any ransom demand made to the hospital. 
+     
+            Throughout the coronavirus pandemic, ransomware and other cyberattacks hampered patient care at American hospitals that are often ill-equipped to deal with them. 
+     
+            It’s also unclear when the hospital will be able to accept patients by ambulance or how many ambulances have been diverted, Ziel said, adding that the emergency department is accepting walk-in patients.
+     
+            The cyberattack has also hampered computer systems at nearby Mountain View Hospital, which is under the same ownership as Idaho Falls Community Hospital. 
+     
+            “Both hospitals remain open and are safely caring for all their patients and the vast majority of clinics are seeing patients as usual,” the hospitals said in a statement on Wednesday afternoon.  
+     
+            Hackers from North Korea, Russia and Iran have all targeted health care providers in the US in recent years, often in a bid to wring money out of organizations that can ill-afford to be disrupted. Some industry insiders suspect hospitals are quietly paying ransoms to hackers in attacks that go unreported. 
+     
+            Tech giant Microsoft in April used a federal court order to try to cut off cybercriminals’ access to a hacking tool that has been used in nearly 70 ransomware attacks on health organizations in more than 19 countries.
+     
+            Federal officials and health care experts have long been concerned that ransomware attacks can degrade the quality of care that patients receive at hospitals. A recent study by doctors at the University of California, San Diego, found that a ransomware attack on a local health system has ripple effects on regional hospitals, increasing emergency waiting room times and extending patients’ stay in the hospital.
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

@@ -1,0 +1,25 @@
+When Elon Musk joined Twitter late last year after acquiring it for $44 billion, he said the social media network will bring encrypted DMs to the platform among other features. It has taken several months for that feature to launch and like the rest of the features he has launched since then, the new privacy feature is deeply flawed. One of the major weaknesses is that the encryption is not end-to-end which means government bodies or malicious actors can still access your DMs which beats the whole purpose. The company is transparent about this flaw saying that they’re still working on that part. Another issue is that encrypted DMs are not enabled by default – it’s an opt-in feature like on Facebook Messenger. This feature doesn’t allow for group messaging, or sending photos or videos. Twitter has also only allowed Blue users access to this feature which means you have to pay an $8 subscription fee. The toggle is available on the chat screen for senders. Encrypted messages will have a lock badge and the chat will have a banner at the top written “Messages are encrypted” Another limitation is that you can’t use a new device for current encrypted messages. Twitter has limited this feature to only 10 devices and you can remove a device you no longer use. There’s no key backup option as well. The social media company also won’t delete private keys when you log out from a device. Twitter didn’t mention which protocol they are using for their encryption feature. Other messaging platforms have better privacy as they use the Signal encryption protocol and perfect examples include Signal, WhatsApp, and Messenger(when you opt-in with the Secret Conversations feature). They are all free to use. Signal encryption protocol ensures perfect forward secrecy and prevents man-in-the-middle attacks Messaging app Telegram uses a less secure MTProto which is a custom-made encryption protocol for its Secret Chats feature. Here are some of the best reactions *Properly implemented* End to end encrypted messaging = good.But trustworthy & safe deployment = hard.Rolling your own crypto = recipe for trouble.Transparency is key.Many questions: did Twitter roll their own?  Is this somebody else's protocol? Has it been audited? pic.twitter.com/kqUTpL038v Anyway for full disclosure I emailed @cstanley and the other Twitter people implementing encrypted DMs over a week ago to raise some (not super severe) concerns about the implementation and he never replied, so take any claims about external audits with appropriate salt 
+				I brunch on consumer tech | first.last at techweez dot com			 Techweez is a fast growing influential source of technology news, reviews and analysis by leading tech geeks in the industry. 
+Follow Us   © 2024 Techweez - Palahala Media Group may earn a commission when you buy through links on our sites.
+A Palahala Media Group Brand. All rights reserved. .  Login to your account below 
+
+ 
+
+ 
+
+Remember Me
+ 
+
+
+
+ Please enter your username or email address to reset your password. 
+
+ 
+
+
+
+ 
+
+ 
+- Select Visibility -PublicPrivate  Hey there! Just a heads-up: we're big fans of cookies - both the digital and edible kind! 🍪 We use our cookies and some from third parties to ensure your browsing experience on our site is smooth sailing and secure.   But wait, there's more! We also use cookies to gather stats and insights on how you navigate our site. It's like getting a behind-the-scenes peek at your digital adventures!   Don't worry, you're in control. You can adjust your cookie settings anytime to suit your preferences. Feeling curious? Dive into our Privacy Policy for all the juicy details. Happy browsing! 🚀 © 2024 Techweez - Palahala Media Group may earn a commission when you buy through links on our sites.
+A Palahala Media Group Brand. All rights reserved. .

@@ -1,0 +1,683 @@
+OpenAI has finally re-enabled Bing Search on ChatGPT, making it easier to connect ChatGPT to the internet. Earlier, the “Browse with Bing” feature was showing content from paywalled sites, hence, OpenAI had removed it from ChatGPT. But now, you have four different ways, including the best ChatGPT Plugins, Chrome extensions, & an alternative, to overcome the January 2022 knowledge cut-off. These methods allow you to access the internet and access the latest information on any subject, making ChatGPT even more useful. So on that note, let’s learn how to connect ChatGPT to the internet using four simple methods.
+
+
+						
+
+
+						Table of Contents						
+
+
+
+
+
+
+
+Connect ChatGPT to the Internet via ‘Browse with Bing’
+Browse the Web on ChatGPT Using KeyMate.AI Search Plugin (Paid)
+Connect ChatGPT to Internet Using WebChatGPT Extension (Free)
+Use ChatGPT with Internet Access on Microsoft Bing Chat
+
+
+1. Connect ChatGPT to the Internet via ‘Browse with Bing’
+After months of bug fixing, OpenAI has finally brought the native “Browse with Bing” option back to ChatGPT. You can now browse the internet on ChatGPT without having to rely on any third-party plugins. Basically, you are no longer constrained by ChatGPT’s January 2022 knowledge cut-off. That said, keep in mind that you must be subscribed to ChatGPT Plus, which costs $20 per month, to use this feature. And here is how it works:
+
+
+
+1. First of all, launch ChatGPT (visit) and click on “Settings” in the bottom-left corner. 
+
+
+
+
+2. Next, go to “Beta features” and enable the “Browse with Bing” toggle.
+
+
+
+
+3. Now, move to the “GPT-4” model and choose “Browse with Bing” from the drop-down menu.
+
+
+4. Finally, go ahead and ask questions on any topic, and it will bring you all the latest developments on that subject from the internet.
+
+
+
+
+2. Browse the Web on ChatGPT Using KeyMate.AI Search Plugin (Paid)
+Note: There are many ChatGPT plugins that offer internet connectivity on ChatGPT. However, KeyMate.AI Search performs much better and combines results from various sources. Other plugins like WebPilot, MixerBox WebSearch, Link Reader, etc. that we tested failed to fetch details from multiple sources. That said, the only con of the KeyMate.AI search plugin is that it adds a sponsored link at the end of the responses, but that’s about it.
+
+First, go ahead and enable ChatGPT Plugins. Keep in mind that you must be subscribed to ChatGPT Plus.
+Next, open the “Plugin store” under “GPT-4” in ChatGPT.
+Here, search for “KeyMate.AI” and install the plugin.
+
+
+
+
+Then, from the dropdown menu under GPT-4, enable the plugin. You will see a blue tick next to it.
+
+
+
+
+Now, you are free to ask questions and ChatGPT will fetch the latest information from the internet using the KeyMate.AI Search plugin.
+
+
+
+
+You can give a URL as input to ChatGPT, and the plugin can access the live webpage and summarize the information for you.
+
+
+
+
+To test the plugin, I gave it a paywalled link, but it couldn’t read the content, which is expected behavior. So this is possibly the best way to connect ChatGPT to the internet; even if it’s paid.
+
+
+
+3. Connect ChatGPT to Internet Using WebChatGPT Extension (Free)
+If you are looking for a free and simple solution to connect ChatGPT to the internet, you can rely on one of the best ChatGPT Chrome extensions. Called the WebChatGPT Chrome extension, it expands the functionality of OpenAI’s chatbot, and here’s how: 
+
+
+
+
+First, you need to install the WebChatGPT (Free) Chrome extension.
+Next, open the free version of ChatGPT (visit). You don’t even need GPT-4 to use the features in this extension.
+Make sure the “Web access” toggle is turned on at the bottom.
+
+
+
+
+Now, ask your questions on any subject, and the extension will process the information from the internet and show the latest information using ChatGPT.
+
+
+4. Use ChatGPT with Internet Access on Microsoft Bing Chat
+We all know that Microsoft’s Bing Chat is powered by the GPT-4 model from OpenAI. And thankfully, Bing Chat has access to the internet without any restrictions. Additionally, Bing Chat sources its results from the Bing search engine, unlike most plugins and extensions which are powered by the Google Search API.
+
+
+
+Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ After months of bug fixing, OpenAI has finally brought the native “Browse with Bing” option back to ChatGPT. You can now browse the internet on ChatGPT without having to rely on any third-party plugins. Basically, you are no longer constrained by ChatGPT’s January 2022 knowledge cut-off. That said, keep in mind that you must be subscribed to ChatGPT Plus, which costs $20 per month, to use this feature. And here is how it works:
+
+
+
+1. First of all, launch ChatGPT (visit) and click on “Settings” in the bottom-left corner. 
+
+
+
+
+2. Next, go to “Beta features” and enable the “Browse with Bing” toggle.
+
+
+
+
+3. Now, move to the “GPT-4” model and choose “Browse with Bing” from the drop-down menu.
+
+
+4. Finally, go ahead and ask questions on any topic, and it will bring you all the latest developments on that subject from the internet.
+
+
+
+
+2. Browse the Web on ChatGPT Using KeyMate.AI Search Plugin (Paid)
+Note: There are many ChatGPT plugins that offer internet connectivity on ChatGPT. However, KeyMate.AI Search performs much better and combines results from various sources. Other plugins like WebPilot, MixerBox WebSearch, Link Reader, etc. that we tested failed to fetch details from multiple sources. That said, the only con of the KeyMate.AI search plugin is that it adds a sponsored link at the end of the responses, but that’s about it.
+
+First, go ahead and enable ChatGPT Plugins. Keep in mind that you must be subscribed to ChatGPT Plus.
+Next, open the “Plugin store” under “GPT-4” in ChatGPT.
+Here, search for “KeyMate.AI” and install the plugin.
+
+
+
+
+Then, from the dropdown menu under GPT-4, enable the plugin. You will see a blue tick next to it.
+
+
+
+
+Now, you are free to ask questions and ChatGPT will fetch the latest information from the internet using the KeyMate.AI Search plugin.
+
+
+
+
+You can give a URL as input to ChatGPT, and the plugin can access the live webpage and summarize the information for you.
+
+
+
+
+To test the plugin, I gave it a paywalled link, but it couldn’t read the content, which is expected behavior. So this is possibly the best way to connect ChatGPT to the internet; even if it’s paid.
+
+
+
+3. Connect ChatGPT to Internet Using WebChatGPT Extension (Free)
+If you are looking for a free and simple solution to connect ChatGPT to the internet, you can rely on one of the best ChatGPT Chrome extensions. Called the WebChatGPT Chrome extension, it expands the functionality of OpenAI’s chatbot, and here’s how: 
+
+
+
+
+First, you need to install the WebChatGPT (Free) Chrome extension.
+Next, open the free version of ChatGPT (visit). You don’t even need GPT-4 to use the features in this extension.
+Make sure the “Web access” toggle is turned on at the bottom.
+
+
+
+
+Now, ask your questions on any subject, and the extension will process the information from the internet and show the latest information using ChatGPT.
+
+
+4. Use ChatGPT with Internet Access on Microsoft Bing Chat
+We all know that Microsoft’s Bing Chat is powered by the GPT-4 model from OpenAI. And thankfully, Bing Chat has access to the internet without any restrictions. Additionally, Bing Chat sources its results from the Bing search engine, unlike most plugins and extensions which are powered by the Google Search API.
+
+
+
+Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ 1. First of all, launch ChatGPT (visit) and click on “Settings” in the bottom-left corner. 
+
+
+
+
+2. Next, go to “Beta features” and enable the “Browse with Bing” toggle.
+
+
+
+
+3. Now, move to the “GPT-4” model and choose “Browse with Bing” from the drop-down menu.
+
+
+4. Finally, go ahead and ask questions on any topic, and it will bring you all the latest developments on that subject from the internet.
+
+
+
+
+2. Browse the Web on ChatGPT Using KeyMate.AI Search Plugin (Paid)
+Note: There are many ChatGPT plugins that offer internet connectivity on ChatGPT. However, KeyMate.AI Search performs much better and combines results from various sources. Other plugins like WebPilot, MixerBox WebSearch, Link Reader, etc. that we tested failed to fetch details from multiple sources. That said, the only con of the KeyMate.AI search plugin is that it adds a sponsored link at the end of the responses, but that’s about it.
+
+First, go ahead and enable ChatGPT Plugins. Keep in mind that you must be subscribed to ChatGPT Plus.
+Next, open the “Plugin store” under “GPT-4” in ChatGPT.
+Here, search for “KeyMate.AI” and install the plugin.
+
+
+
+
+Then, from the dropdown menu under GPT-4, enable the plugin. You will see a blue tick next to it.
+
+
+
+
+Now, you are free to ask questions and ChatGPT will fetch the latest information from the internet using the KeyMate.AI Search plugin.
+
+
+
+
+You can give a URL as input to ChatGPT, and the plugin can access the live webpage and summarize the information for you.
+
+
+
+
+To test the plugin, I gave it a paywalled link, but it couldn’t read the content, which is expected behavior. So this is possibly the best way to connect ChatGPT to the internet; even if it’s paid.
+
+
+
+3. Connect ChatGPT to Internet Using WebChatGPT Extension (Free)
+If you are looking for a free and simple solution to connect ChatGPT to the internet, you can rely on one of the best ChatGPT Chrome extensions. Called the WebChatGPT Chrome extension, it expands the functionality of OpenAI’s chatbot, and here’s how: 
+
+
+
+
+First, you need to install the WebChatGPT (Free) Chrome extension.
+Next, open the free version of ChatGPT (visit). You don’t even need GPT-4 to use the features in this extension.
+Make sure the “Web access” toggle is turned on at the bottom.
+
+
+
+
+Now, ask your questions on any subject, and the extension will process the information from the internet and show the latest information using ChatGPT.
+
+
+4. Use ChatGPT with Internet Access on Microsoft Bing Chat
+We all know that Microsoft’s Bing Chat is powered by the GPT-4 model from OpenAI. And thankfully, Bing Chat has access to the internet without any restrictions. Additionally, Bing Chat sources its results from the Bing search engine, unlike most plugins and extensions which are powered by the Google Search API.
+
+
+
+Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ 2. Next, go to “Beta features” and enable the “Browse with Bing” toggle.
+
+
+
+
+3. Now, move to the “GPT-4” model and choose “Browse with Bing” from the drop-down menu.
+
+
+4. Finally, go ahead and ask questions on any topic, and it will bring you all the latest developments on that subject from the internet.
+
+
+
+
+2. Browse the Web on ChatGPT Using KeyMate.AI Search Plugin (Paid)
+Note: There are many ChatGPT plugins that offer internet connectivity on ChatGPT. However, KeyMate.AI Search performs much better and combines results from various sources. Other plugins like WebPilot, MixerBox WebSearch, Link Reader, etc. that we tested failed to fetch details from multiple sources. That said, the only con of the KeyMate.AI search plugin is that it adds a sponsored link at the end of the responses, but that’s about it.
+
+First, go ahead and enable ChatGPT Plugins. Keep in mind that you must be subscribed to ChatGPT Plus.
+Next, open the “Plugin store” under “GPT-4” in ChatGPT.
+Here, search for “KeyMate.AI” and install the plugin.
+
+
+
+
+Then, from the dropdown menu under GPT-4, enable the plugin. You will see a blue tick next to it.
+
+
+
+
+Now, you are free to ask questions and ChatGPT will fetch the latest information from the internet using the KeyMate.AI Search plugin.
+
+
+
+
+You can give a URL as input to ChatGPT, and the plugin can access the live webpage and summarize the information for you.
+
+
+
+
+To test the plugin, I gave it a paywalled link, but it couldn’t read the content, which is expected behavior. So this is possibly the best way to connect ChatGPT to the internet; even if it’s paid.
+
+
+
+3. Connect ChatGPT to Internet Using WebChatGPT Extension (Free)
+If you are looking for a free and simple solution to connect ChatGPT to the internet, you can rely on one of the best ChatGPT Chrome extensions. Called the WebChatGPT Chrome extension, it expands the functionality of OpenAI’s chatbot, and here’s how: 
+
+
+
+
+First, you need to install the WebChatGPT (Free) Chrome extension.
+Next, open the free version of ChatGPT (visit). You don’t even need GPT-4 to use the features in this extension.
+Make sure the “Web access” toggle is turned on at the bottom.
+
+
+
+
+Now, ask your questions on any subject, and the extension will process the information from the internet and show the latest information using ChatGPT.
+
+
+4. Use ChatGPT with Internet Access on Microsoft Bing Chat
+We all know that Microsoft’s Bing Chat is powered by the GPT-4 model from OpenAI. And thankfully, Bing Chat has access to the internet without any restrictions. Additionally, Bing Chat sources its results from the Bing search engine, unlike most plugins and extensions which are powered by the Google Search API.
+
+
+
+Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ 3. Now, move to the “GPT-4” model and choose “Browse with Bing” from the drop-down menu. 4. Finally, go ahead and ask questions on any topic, and it will bring you all the latest developments on that subject from the internet.
+
+
+
+
+2. Browse the Web on ChatGPT Using KeyMate.AI Search Plugin (Paid)
+Note: There are many ChatGPT plugins that offer internet connectivity on ChatGPT. However, KeyMate.AI Search performs much better and combines results from various sources. Other plugins like WebPilot, MixerBox WebSearch, Link Reader, etc. that we tested failed to fetch details from multiple sources. That said, the only con of the KeyMate.AI search plugin is that it adds a sponsored link at the end of the responses, but that’s about it.
+
+First, go ahead and enable ChatGPT Plugins. Keep in mind that you must be subscribed to ChatGPT Plus.
+Next, open the “Plugin store” under “GPT-4” in ChatGPT.
+Here, search for “KeyMate.AI” and install the plugin.
+
+
+
+
+Then, from the dropdown menu under GPT-4, enable the plugin. You will see a blue tick next to it.
+
+
+
+
+Now, you are free to ask questions and ChatGPT will fetch the latest information from the internet using the KeyMate.AI Search plugin.
+
+
+
+
+You can give a URL as input to ChatGPT, and the plugin can access the live webpage and summarize the information for you.
+
+
+
+
+To test the plugin, I gave it a paywalled link, but it couldn’t read the content, which is expected behavior. So this is possibly the best way to connect ChatGPT to the internet; even if it’s paid.
+
+
+
+3. Connect ChatGPT to Internet Using WebChatGPT Extension (Free)
+If you are looking for a free and simple solution to connect ChatGPT to the internet, you can rely on one of the best ChatGPT Chrome extensions. Called the WebChatGPT Chrome extension, it expands the functionality of OpenAI’s chatbot, and here’s how: 
+
+
+
+
+First, you need to install the WebChatGPT (Free) Chrome extension.
+Next, open the free version of ChatGPT (visit). You don’t even need GPT-4 to use the features in this extension.
+Make sure the “Web access” toggle is turned on at the bottom.
+
+
+
+
+Now, ask your questions on any subject, and the extension will process the information from the internet and show the latest information using ChatGPT.
+
+
+4. Use ChatGPT with Internet Access on Microsoft Bing Chat
+We all know that Microsoft’s Bing Chat is powered by the GPT-4 model from OpenAI. And thankfully, Bing Chat has access to the internet without any restrictions. Additionally, Bing Chat sources its results from the Bing search engine, unlike most plugins and extensions which are powered by the Google Search API.
+
+
+
+Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ Note: There are many ChatGPT plugins that offer internet connectivity on ChatGPT. However, KeyMate.AI Search performs much better and combines results from various sources. Other plugins like WebPilot, MixerBox WebSearch, Link Reader, etc. that we tested failed to fetch details from multiple sources. That said, the only con of the KeyMate.AI search plugin is that it adds a sponsored link at the end of the responses, but that’s about it.
+
+First, go ahead and enable ChatGPT Plugins. Keep in mind that you must be subscribed to ChatGPT Plus.
+Next, open the “Plugin store” under “GPT-4” in ChatGPT.
+Here, search for “KeyMate.AI” and install the plugin.
+
+
+
+
+Then, from the dropdown menu under GPT-4, enable the plugin. You will see a blue tick next to it.
+
+
+
+
+Now, you are free to ask questions and ChatGPT will fetch the latest information from the internet using the KeyMate.AI Search plugin.
+
+
+
+
+You can give a URL as input to ChatGPT, and the plugin can access the live webpage and summarize the information for you.
+
+
+
+
+To test the plugin, I gave it a paywalled link, but it couldn’t read the content, which is expected behavior. So this is possibly the best way to connect ChatGPT to the internet; even if it’s paid.
+
+
+
+3. Connect ChatGPT to Internet Using WebChatGPT Extension (Free)
+If you are looking for a free and simple solution to connect ChatGPT to the internet, you can rely on one of the best ChatGPT Chrome extensions. Called the WebChatGPT Chrome extension, it expands the functionality of OpenAI’s chatbot, and here’s how: 
+
+
+
+
+First, you need to install the WebChatGPT (Free) Chrome extension.
+Next, open the free version of ChatGPT (visit). You don’t even need GPT-4 to use the features in this extension.
+Make sure the “Web access” toggle is turned on at the bottom.
+
+
+
+
+Now, ask your questions on any subject, and the extension will process the information from the internet and show the latest information using ChatGPT.
+
+
+4. Use ChatGPT with Internet Access on Microsoft Bing Chat
+We all know that Microsoft’s Bing Chat is powered by the GPT-4 model from OpenAI. And thankfully, Bing Chat has access to the internet without any restrictions. Additionally, Bing Chat sources its results from the Bing search engine, unlike most plugins and extensions which are powered by the Google Search API.
+
+
+
+Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ If you are looking for a free and simple solution to connect ChatGPT to the internet, you can rely on one of the best ChatGPT Chrome extensions. Called the WebChatGPT Chrome extension, it expands the functionality of OpenAI’s chatbot, and here’s how: 
+
+
+
+
+First, you need to install the WebChatGPT (Free) Chrome extension.
+Next, open the free version of ChatGPT (visit). You don’t even need GPT-4 to use the features in this extension.
+Make sure the “Web access” toggle is turned on at the bottom.
+
+
+
+
+Now, ask your questions on any subject, and the extension will process the information from the internet and show the latest information using ChatGPT.
+
+
+4. Use ChatGPT with Internet Access on Microsoft Bing Chat
+We all know that Microsoft’s Bing Chat is powered by the GPT-4 model from OpenAI. And thankfully, Bing Chat has access to the internet without any restrictions. Additionally, Bing Chat sources its results from the Bing search engine, unlike most plugins and extensions which are powered by the Google Search API.
+
+
+
+Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ We all know that Microsoft’s Bing Chat is powered by the GPT-4 model from OpenAI. And thankfully, Bing Chat has access to the internet without any restrictions. Additionally, Bing Chat sources its results from the Bing search engine, unlike most plugins and extensions which are powered by the Google Search API.
+
+
+
+Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ Best of all, Microsoft has opened access to Bing Chat on every browser, including Chrome and Firefox. So if you use Bing over Google, go ahead and use Bing Chat on any browser with internet access.
+
+
+
+
+Open Bing.com (visit) in your browser of choice.
+Then, click the “Chat” button in the top-left corner.
+
+
+
+
+Now, ask your question on any latest topic and it will find information from the internet and process it using the GPT-4 model. 
+
+
+
+
+
+
+ Passionate about Windows, ChromeOS, Android, security and privacy issues. Have a penchant to solve everyday computing problems. Utopia P2P chatGPT assistant is a conversational genius. Its ability to comprehend complex questions and generate detailed responses showcases the power of AI. Whether I need assistance with a problem or want to explore a topic, this AI assistant is my reliable conversation companion. Add new comment Name  Email ID   
+
+  Δ  
+
+
+  
+
+
+  
+
+
+
+Trending Stories in#chatGPT
+
+
+
+
+01
+
+
+How to Use ChatGPT 4 For Free
+
+
+
+
+ Arjun Sha
+
+ 
+
+
+
+
+02
+
+
+ChatGPT Got a Secret Update Last Week, And It’s Performing At Its Best
+
+
+
+
+ Arjun Sha
+
+ 
+
+
+
+
+03
+
+
+10 Best ChatGPT Alternatives in 2024 (Free and Paid)
+
+
+
+
+ Arjun Sha
+
+ & 
+ Upanishad Sharma
+
+ 
+
+
+
+
+04
+
+
+How to Use ChatGPT with Siri on iPhone
+
+
+
+
+ Kanika Gogia
+
+ 
+
+
+
+
+05
+
+
+How to Upload a Document to ChatGPT
+
+
+
+
+ Arjun Sha
+
+ 
+
+
+
+
+
+ 01 02 03 04 05

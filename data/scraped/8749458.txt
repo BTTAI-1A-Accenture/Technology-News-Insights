@@ -1,0 +1,1 @@
+The blue social bookmark and publication sharing system.   Log in with your username. I've lost my password. Log in with your OpenID-Provider. BibSonomy is offered by the Data Science Chair of the University of Würzburg, the Information Processing and Analytics Group of the Humboldt-Unversität zu Berlin, the KDE Group of the University of Kassel, and the L3S Research Center.

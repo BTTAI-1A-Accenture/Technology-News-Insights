@@ -1,0 +1,39 @@
+By providing your information, you agree to our Terms of Use and our Privacy Policy.
+				We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply. [Editor’s note: The following interview contains spoilers for both “Spider-Man: Across the Spider-Verse” and its post-credits, well, kind of scenes.]Wondering why there is no “Spider-Man: Across the Spider-Verse” post-credits scene? That’s because nothing they tried fit. “Hard to beat where we left off,” producer Phil Lord told IndieWire. However, there was a promising idea that was scrapped as a follow-up to a never completed scene in the film. It involved Spot (Jason Schwartzman), the bizarre-looking nemesis who’s all white with black spots that serve as inter-dimensional portals.  According to Lord and producing partner Chris Miller, the first scene had Spot hanging out at a Spidey villain bar but can’t get a drink because no one will notice him. “And then he finally steals the drink for himself and he pours it down and it all leaks out of his holes,” Lord said. “He’s the dorkiest villain. A great line that Chris wrote, though: ‘Trying to fill a hole in his heart with more holes.’ Not a great method.”
+
+ 
+
+
+
+
+
+
+
+
+Related Stories Bahrām Beyzaie’s Surreal ‘The Stranger and the Fog’ Is Restored in 4K for 50th Anniversary — Watch Trailer Micheal Keaton ‘Didn’t Care’ That ‘Batgirl’ Was Scrapped: It Was a ‘Nice Check’  Schwartzman, however, was fascinated by his character’s bizarre existential crisis. “[Schwartzman] was really interested and curious about a person who’s missing things,” Miller told IndieWire. “And he’s sort of on the same path as Miles Morales, just taken the darker route. He feels left out and alone and wants to be seen and appreciated like we all do.”
+
+ Yet, after starting off as an inept villain who can’t even rob an ATM, Spot eventually becomes a serious threat to the Spider-Verse. He gains strength from a super Collider and learns to control his portals. In the proposed post-credits tag, Spot returns to the villain bar as a badass, sits proudly in the coveted booth, and dispatches all the baddies who previously made fun of him. “That was one of my favorite things, seeing this guy get picked on and then come back and, with just a whisper, demolishes every person that comes at him,” Alan Hawkins, returning head of character animation, told IndieWire. “But you have to have both of those sequences for that to work.” Hawkins was part of the 1,000 crew team at Sony Pictures Imageworks that raised the bar substantially from the ground-breaking, Oscar-winning “Into the Spider-Verse.” They created a new set of tools to take more complex 2D stylization of comic book designs into 3D animation. Spot, as the most complex character, required many of them to achieve his different looks. They included an artistically driven line art pipeline, brush tools, ink-dripping tech, and a non-photorealistic comp tool for producing multiple types of edges on every spot. Spot evolves throughout the film, going from a rough drawing to a fully-formed character, with line work tracing his shape and each ink drop in his body looking and behaving differently. 
+
+ 
+
+
+
+
+
+
+
+
+ “The whole thing with him was he was supposed to be the absence of color, the absence of rendering,” returning VFX supervisor Mike Lasker told IndieWire. “Basically, he’s like a drawing that’s built up from nothing. We tried to treat him like he was a painting, ink washed when he’s in shadow and white paint brushed when he’s in light. And the spots were first created in animation and then effects would replace them with more inky smear spot techniques. As Spot grew in strength, you’d see those ink spots get more active and busier and move around and have more personality and come off his body. Nothing was static, he was always moving.” After scrapping an early concept of a shape-shifting face that didn’t match the rest of his body, Hawkins and the animation team regrouped and simplified Spot’s design to improve his look and character messaging. This included changing the design of the spots. “We went with just having the one spot on his face, which changes shapes a couple times,” Hawkins said. “Sometimes it shoots out some particles when he is yelling at Miles [Shameik Moore]. But we wanted to really boil him down to his essence, which is just the bareness of his black-and-white design and the spots. And then use that to live within those boundaries.” The process of Spot learning to control his spots wasn’t always written into the scenes, so they honed in on that during an early action sequence, where he accidentally learns how to throw a portal. “And then that way it makes sense when he throws them with more control later in the film,” added Hawkins. “So, if he gets angry, they spin or move much faster.”
+
+ 
+
+
+
+
+
+
+
+
+ In the beginning, when Spot’s out of control, he ends up in his own little pocket dimension without any spots. Then, when he recreates a Collider and starts traveling from dimension to dimension, he becomes all black when the spots overtake his body, transforming into an abyss-like character. “Oftentimes, we would explore [anarchic] deformations,” Hawkins said. “But sometimes they would go in the wrong direction and he would end up looking more like a creature than a person. It was important that he still be the person that he is, not like this mindless beast.” For Lasker, Spot, in particular, provided an opportunity to test out many more novel techniques “with tools upon tools upon tools to build up to him. But everything was layered with a lot of stuff, and the artists had to learn how to use all these tools, which was a real testament to the artistry.” A Sony Pictures Animation release, “Spider-Man: Across the Spider-Verse″ is now in theaters. By providing your information, you agree to our Terms of Use and our Privacy Policy.
+				We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply. By providing your information, you agree to our Terms of Use and our Privacy Policy.
+				We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply.

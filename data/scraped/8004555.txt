@@ -1,0 +1,319 @@
+We’ve spent the past year or so waiting to see which new social media platform might be able to replace Twitter — but could there actually be two “new Twitters” by the time the dust settles? Not to mention, of course, the lingering corpse of Twitter itself (if it’s still functional and solvent, ahem). The future of the OG micro-blogging platform has never been more tenuous, with Elon Musk’s regime keeping Twitter seemingly on the knife’s edge of collapse (fresh off the rate limit fiasco that made the system effectively unusable for millions over the span of two days), with radical new policies and user-hostile changes rolling out at a near-monthly basis at this point. Though some seem to like the direction Musk has taken Twitter (looking at you, Tesla fanboys and crypto scammers!), a whole lot of people are desperately looking for a port in the storm for a social network that can function in the same way as Twitter, just without the right-wing politics and chaos that Musk has started imprinting into the service’s DNA over the past year. A whole lot of services have already popped up, ranging from the long-running open-source project Mastodon (which is arguably a bit too complicated for the average user), as well as up-starts like Hive Social and Post. But none of those have managed to truly capture the zeitgeist, though two more recent entries could have the pedigree to become the “new” Twitter. Not surprisingly, you’ll probably recognize the folks behind them. Bluesky was created by original Twitter founder Jack Dorsey; while the newly launched Threads was developed by Meta and is linked to the company’s Instagram architecture. Both bring the experience and hype to actually (potentially) challenge Twitter. So how do they stack up? Meta has been developing its own text-based social network platform for a while now, but when Twitter melted down with the rate limit disaster, Mark Zuckerberg & Co. pushed up the app’s release date to capitalize on the chaos. Judging by the early reaction, the surprise launch was a smart move. The service amassed 70 million sign-ups two days after it went live, with users making more than 100 million posts (or “threads”). Meta wisely leveraged its Instagram audience to make signing up a simple one-click process if you already had an Instagram account, and the company courted major brands and celebrities to get them posting on the app before launch, so a lot of the famous big names you might be used to seeing on Twitter were already on Threads from Day 1. It helped bring an air of buzz and legitimacy to the platform from the jump, though it also felt a bit too polished and branded, if that makes sense. But if Threads can attract even one-fourth of Instagram’s approximately 2 billion users, it could put it ahead of Twitter’s reported 420 million active users pretty quick. The stability of Meta also appears promising for advertisers looking to spend money on social media after plenty of major firms paused and pulled spending on Twitter due to Musk’s unpredictability. But it’s not all great at Threads, especially for users accustomed to some of Twitter’s basic functions. Most importantly, there is no way to have a “follower-only feed,” meaning your main Threads feed is a mix of the folks you choose to follow, as well as posts recommended by the algorithm. Considering how much people generally hate the “For You” feed on Twitter, that could be a problem, though considering the product is an Instagram spinoff, the choice makes sense. For what it’s worth, the company says a follower-only feed is “on the list” of planned features. In actual use, the algorithm doesn’t seem too bad, with most of my personal feed in testing populated with posts from the people I already follow, and a mix of content and users that make sense within that ecosystem. But, it’s still not ideal. There are also no direct messaging options available at launch, and with this being a Meta product, you’re obviously signing away some personal data privileges when you sign up to use the product. But if you’re already using Instagram, that might not be too big of a compromise. That Instagram connection does solve one of the biggest self-inflicted problems in Musk’s Twitter, though, with user and brand verification carrying over from Instagram. Instagram already has a verification process not unlike the old version of Twitter, where a checkmark actually means the person or brand is legitimate, and not that they’re simply willing to part with $8 per month for a checkmark. The verification process might need some tweaking at Threads (especially if they hope to attract the journalists and newsmakers who make up the small but mighty contingent of Twitter power users), but it’s a solid foundation to build on. After leaving Twitter, Jack Dorsey turned his attention to taking another swing at a social network with Bluesky Social. The service is a decentralized social network that is still in an invite-only beta phase, though it has attracted close to a million or so users at this point as folks fight and claw for those invite codes to get in on the ground floor. It’s worth noting that user number could be higher (or much higher) now, as Bluesky has had to sporadically pause new sign-ups due to an influx of users jumping on as they ramp up infrastructure. If Threads is the big budget, deep-pocketed, Instagram-style popular challenger to Twitter, Bluesky is more… well, early era Twitter, in a lot of ways. It’s a more free-wheeling vibe, with many journalists and Twitter power users kicking the tires and making connections. Another analogy: If Threads is the dinner party upstairs, Bluesky is more the speakeasy in the basement. The feature-set is effectively as bare bone as Threads (no direct messaging feature here, either), though Bluesky does critically offer a follower-only feed, just like Twitter. Users can also opt for a “What’s Hot” feed of trending posts (or “skeets”), as well as a “Popular With Friends” feed to see what the folks you follow are talking about and sharing. Threads is most definitely where most of the celebrities, big brands and people you’re friends with on Facebook and Instagram are going — but Bluesky is where everyone else is starting to check out. With Threads now in the wild, we’re watching a weird and wild moment in social media happen right on our phones in real time. I’d argue neither of these services could kill Twitter on their own, but Musk seems to be doing a pretty good job of it himself, which is what has opened the door for these challengers to step into the gap. Barring a massive turnaround in Musk’s management style and approach at Twitter, it seems we’re simply in a race to see whether he’ll break the service beyond repair or run off his customer base first. He had the space to make mistakes and alienate users even a year ago, when there weren’t any strong alternatives on the market, but that calculus has changed drastically now. Twitter will likely survive regardless in some form, but it seems plenty of users might take the first viable offramp to something saner, and long-term you could see Twitter potentially become the successor of right-wing services like Parler or Truth Social, as the folks who more closely align with Musk’s political ideology stick around and become even more prominent. As for Threads and Bluesky? Meta has a proven track record of bringing hundreds of millions of users onto their platforms and keeping them there — and it’s never been a great bet to hedge against Zuckerberg. Threads has the resources to be a text-based compliment to Instagram, and it’s launching at the perfect time with Twitter hobbled by its own stumbles. Bluesky has the pedigree with Dorsey behind the wheel, but it will only reach and sustain mass appeal if it can attract and retain the power users who drove the conversion on Twitter. It’s done a good job of that early, but it’s now fighting a war on two fronts, trying to draw users from Twitter and keep them from going to Threads instead. But could they both have a future? It’s possible. Social media is only getting more fragmented, and it stands to reason the answer to Twitter could actually be two new Twitters by the time it’s all over. One with independent vibes for folks missing the feel and mood of Twitter’s early days; and a broad service for more casual users simply looking for a place to see the latest teases from Netflix (already on Threads) or find out what celebs like Kim Kardashian or Will Smith are up to (both also already on Threads). Whatever happens, it’ll be interesting to see if any new (or old) service can ever recapture the cultural cachet that Twitter commanded during its heyday. To be the place where news was made, where connections were made, and where all the cool stuff just happened. Don’t expect a definitive answer anytime soon. In the meantime, it probably means we’re all going to need to clear out a few more spots on our phone’s home screen to fit these new apps, until we figure out where everyone else is going to end up.   Trent Moore is a recovering print journalist, and freelance editor and writer with bylines at lots of places. He likes to find the sweet spot where pop culture crosses over with everything else. Follow him at @trentlmoore on Twitter. GET PASTE RIGHT IN YOUR INBOX The best music, movies, TV, books, comedy and more.  
+
+Sign
+Up
+ 
+Related ContentFormer NBCUniversal Ad Exec Linda Yaccarino Is Elon Musk's Choice To Run TwitterMay 12, 2023 | 5:08pmBreaking Blue: The Evolving Legacy of Twitter VerificationMay 11, 2023 | 2:00pmElon Musk Threatens To Reassign NPR's Twitter Handle After It Quit PlatformMay 3, 2023 | 3:16pmTwitter Accessibility Bots Are Being Threatened Under Elon Musk's OwnershipApril 13, 2023 | 2:24pmTwitter Is Full of Whiskey Scammers, but These Accounts Are Dedicated to Fighting BackJanuary 10, 2023 | 11:05am
+ 
+
+
+Most Popular
+
+
+
+
+The 50 Best Movies on Amazon Prime Right Now (August 2024)
+By Paste Staff
+August 16, 2024 | 3:16am
+
+
+
+
+The 35 Best Anime of All Time
+By Austin Jones and Paste Staff
+August 15, 2024 | 12:20pm
+
+
+
+
+The 30 Best Apple TV+ Shows, Ranked
+By Paste Staff
+August 16, 2024 | 4:00pm
+
+
+
+
+The 50 Best Movies on Hulu Right Now (August 2024)
+By Paste Staff
+August 16, 2024 | 2:10am
+
+
+
+
+The 10 Best Movies in Theaters Right Now
+By Paste Staff
+August 16, 2024 | 6:30am
+
+
+
+
+The 50 Best Movies on Disney+ Right Now (August 2024)
+By Josh Jackson and Paste Staff
+August 16, 2024 | 2:31am
+
+
+
+
+The 50 Best TV Shows on Netflix, Ranked (August 2024)
+By Paste Staff
+August 16, 2024 | 3:00pm
+
+
+
+
+The 10 Best Movies on Apple TV+, Ranked (August 2024)
+By Jacob Oller and Paste Staff
+August 16, 2024 | 2:32am
+
+
+
+
+Paste Power Rankings: The 5 Best TV Shows on Right Now
+By Paste Staff
+August 13, 2024 | 10:00am
+
+
+
+
+The 10 Best New Movies (Right Now)
+By Paste Staff
+August 16, 2024 | 5:10am
+
+
+
+More Most Popular
+
+
+ 
+
+
+Editors' Picks
+
+
+
+
+Best New Albums: This Week's Records to Stream
+By Paste Staff
+August 16, 2024 | 2:00pm
+
+
+
+
+The Best Sitcoms on Netflix Right Now (August 2024)
+By Garrett Martin and Paste Staff
+August 13, 2024 | 9:30am
+
+
+
+
+The 50 Best TV Shows on Netflix, Ranked (August 2024)
+By Paste Staff
+August 16, 2024 | 3:00pm
+
+
+
+
+5 Burning Questions We Still Have About GLOW
+By Clare Martin
+March 22, 2024 | 3:02pm
+
+
+
+
+9 Times Sitcom B-Plots Were Better Than the Main Storylines
+By Olivia Cathcart
+December 26, 2023 | 1:12pm
+
+
+
+
+A Love Letter to I’m Sorry and a Tribute to Funny Moms in 3 Bits
+By Annie Berke
+September 6, 2023 | 11:48am
+
+
+
+
+An Ode to the Horniest Sitcom Parents, the Belchers and the Wilkersons
+By Clare Martin
+December 27, 2023 | 1:09pm
+
+
+
+
+The 30 Best Apple TV+ Shows, Ranked
+By Paste Staff
+August 16, 2024 | 4:00pm
+
+
+
+
+The 10 Best Bob’s Burgers Thanksgiving Episodes
+By Olivia Cathcart
+November 20, 2023 | 11:50am
+
+
+
+
+The Best Halloween Sitcom Episodes
+By Olivia Cathcart
+October 9, 2023 | 1:38pm
+
+
+  
+
+
+A.V. Club
+
+
+
+
+It's all "Smoke And Mirrors" on this week's Industry
+August 18, 2024 | 10:02pm
+
+
+
+
+Brian Cox adds Deadpool And Wolverine, superhero movies to his ever-growing shit list
+August 18, 2024 | 7:27pm
+
+
+
+
+R.I.P. John Aprea, The Godfather Part II actor
+August 18, 2024 | 5:58pm
+
+
+
+
+R.I.P. Alain Delon, French superstar of Le Samouraï
+August 18, 2024 | 3:51pm
+
+
+
+
+Sinéad O'Connor's final album is a happy, funky blues homage
+August 18, 2024 | 12:00pm
+
+
+
+
+What's on TV this week—Homicide: Life On The Street hits streaming, Evil ends
+August 18, 2024 | 8:00am
+
+
+
+
+Watch Daredevil's Deborah Ann Woll get Jon Bernthal hooked on D&D in 5 quick minutes
+August 17, 2024 | 7:39pm
+
+
+
+More A.V. Club
+
+
+ 
+
+
+Jezebel
+
+
+
+
+Project 2025 Co-Author Caught on Camera Saying Trump ‘Blessed’ Their Efforts
+August 16, 2024 | 6:28pm
+
+
+
+
+Professional Dog Walkers Aren’t Sure JD Vance Has Ever Walked—or Even Met—His Dog Before
+August 16, 2024 | 5:59pm
+
+
+
+
+Chicago Police Department Got Itself a New Toy for the DNC
+August 16, 2024 | 5:04pm
+
+
+
+
+Some Bad News for Florida's Abortion Rights Ballot Measure
+August 16, 2024 | 3:04pm
+
+
+
+
+Dumb GOP Senate Candidate Says Plan B Is Used for Abortion
+August 16, 2024 | 12:31pm
+
+
+
+
+Dakota Johnson and Chris Martin Have (Not) Consciously Uncoupled
+August 16, 2024 | 10:05am
+
+
+
+
+Abortion Funds Sued Alabama's Attorney General for His 'Fringe' Threats. But the Damage Was Already Done.
+August 16, 2024 | 9:41am
+
+
+
+More Jezebel
+
+
+ 
+
+
+Splinter
+
+
+
+
+The Biden Administration's "Ceasefire" Proposal in Gaza Is Not a Ceasefire
+August 19, 2024 | 9:30am
+
+
+
+
+To Save Baseball, MLB Needs to Stop the Things that Help Teams Win
+August 16, 2024 | 3:10pm
+
+
+
+
+Schmuck of the Week: Larry Summers and the Billionaire Caucus in the Democratic Party
+August 16, 2024 | 12:35pm
+
+
+
+
+Two Years In, Biden's Inflation Reduction Act Has Made a Dent
+August 16, 2024 | 9:40am
+
+
+
+
+What's Going on With...Ukraine's Invasion of Russia?
+August 16, 2024 | 8:55am
+
+
+
+
+Israel's Bombing of Lebanon Risks Sparking a Larger Regional War
+August 16, 2024 | 8:15am
+
+
+
+
+New Study Finds More than 4 Billion People Lack Clean Drinking Water, Doubling Previous Estimate
+August 15, 2024 | 12:00pm
+
+
+
+More Splinter
+
+
+ © 2024 Paste Media Group. All Rights Reserved

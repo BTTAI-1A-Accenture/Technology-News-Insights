@@ -1,0 +1,39 @@
+
+Innovative routing technologies and platforms, next-generation cloud transit, and hands-free provisioning and automation for the enterprise
+ 
+Arista Networks ANET today introduced the Arista WAN Routing System, which combines three new networking offerings: enterprise-class routing platforms, carrier/cloud-neutral internet transit capabilities, and the CloudVision® Pathfinder Service to simplify and improve customer wide area networks. Based on Arista's EOS® routing capabilities, and CloudVision management, the Arista WAN Routing System delivers the architecture, features, and platforms to modernize federated and software-defined wide area networks.
+ This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230321005497/en/ Arista WAN Routing System Architecture (Graphic: Business Wire) 
+The introduction of the Arista WAN Routing System enables customers to deploy a consistent networking architecture across all enterprise network domains from the client to campus to the data center to multi-cloud with a single instance of EOS, a consistent management platform, and a modern operating model.
+ 
+Modern WAN Management, Provisioning, and Optimization
+ 
+A new Arista WAN Routing System component is the CloudVision Pathfinder Service, which modernizes WAN management and provisioning, aligning the operating model with visualization and orchestration across all network transport domains. This enables a profound shift from legacy CLI configuration to a model where configuration and traffic engineering are automatically generated, tested, and deployed, resulting in a self-healing network. Arista customers can therefore visualize the entire network, from the client to the campus, the cloud, and the data center.
+ 
+"As an Elite Partner and Arista Certified Services Provider (ACSP), we have been using Arista EOS and CloudVision for years and testing the Arista WAN Routing System in production environments for several quarters. The software quality and features within the system are ideal for enterprise network architectures embracing modern distributed application architectures across a blend of edge, campus, data center, cloud and SaaS environments," stated Jason Gintert, chief technology officer at WAN Dynamics.
+ 
+Arista WAN Platform Portfolio
+ 
+An enterprise WAN also requires modern platforms to interconnect campus, data center, and edge networks, as well as a variety of upstream carriers and Internet-based services. In addition to CloudEOS for cloud connectivity, the new Arista 5000 Series of WAN Platforms, powered by Arista EOS, offer high-performance control and data-plane scaling fit-to-purpose for enterprise-class WAN edge and aggregation requirements. Supporting 1/10/100GbE interfaces and flexible network modules while delivering from 5Gb to over 50Gbps of bidirectional AES256 encrypted traffic with high VRF and tunnel scale, the Arista 5000 Series sets the standard for aggregation and critical site interconnect with multiple use cases such as:
+ 
+Cloud and Carrier Neutral Transit Hubs
+ 
+The Arista WAN Routing System also embraces a new implementation of the traditional WAN core – the Transit Hub. These are physical or virtual routed WAN systems deployed in carrier-neutral and cloud-neutral facilities with dense telecommunications interconnections.
+ 
+Arista has worked with Equinix to develop virtual and physical implementations of the Arista WAN Routing System that are globally deployable in Equinix International Business Exchange™ (IBX®) data centers. This enables customers to access a distributed WAN core leveraging multi-carrier and multi-cloud transit options – all provisioned through the CloudVision Pathfinder Service.
+ 
+"Arista Pathfinder leverages Equinix's Network Edge, Equinix Metal, and Equinix Fabric services to deliver scalable routing architectures that accelerate customers with cloud and carrier-neutral networking," stated Zachary Smith, Global Head of Edge Infrastructure Services at Equinix. "Pathfinder's ability to scale, in software, from a single virtual deployment to a multi-terabit globally distributed core that reallocates paths as network conditions change is a radical evolution in network capability and self-repair."
+ 
+Pricing and Availability
+ 
+The Arista WAN Routing system is in active customer trials and deployments with general availability in the summer of 2023. The following components are part of the Arista WAN Routing System:
+ 
+Learn More About the Arista WAN Routing System
+ 
+Read more about this announcement in vice president and general manager for Cloud Networking Software, Doug Gourlay's blog here. Deep dive into many of the technologies and innovations available with this video from the product and engineering leaders.
+ 
+About Arista Networks
+ 
+Arista Networks is an industry leader in data-driven client to cloud networking for large data center, campus, and routing environments. Arista's award-winning platforms deliver availability, agility, automation, analytics, and security through an advanced network operating stack. For more information, visit www.arista.com.
+ 
+ARISTA, EOS, CloudVision, NetDL and AVA are among the registered and unregistered trademarks of Arista Networks, Inc. in jurisdictions worldwide. Other company names or product names may be trademarks of their respective owners. Additional information and resources can be found at www.arista.com. This press release contains forward-looking statements including, but not limited to, statements regarding the performance and capabilities of Arista's products and services. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Forward-looking statements are subject to risks and uncertainties that could cause actual performance or results to differ materially from those expressed in the forward-looking statements, including rapid technological and market change, customer requirements and industry standards, as well as other risks stated in our filings with the SEC available on Arista's website at www.arista.com and the SEC's website at www.sec.gov. Arista disclaims any obligation to publicly update or revise any forward-looking statement to reflect events that occur or circumstances that exist after the date on which they were made.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005497/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

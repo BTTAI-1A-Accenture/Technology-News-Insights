@@ -1,0 +1,197 @@
+Follow: 
+    Editor’s Note: This is the second installment of a CNN Opinion project dedicated to examining the potential and the risks of artificial intelligence. “Our AI future: promise and peril” explores how AI will affect our lives, the way we work and how we understand ourselves.
+ 
+            “AI is coming for your job.”
+     
+            That’s just one variation of the many headlines you’ve probably seen ever since ChatGPT exploded in popularity and won the world’s attention late last year. But is it true?
+     
+            Back in April, Dropbox announced it was cutting 500 employees. In May, outplacement firm Challenger, Gray & Christmas let go of almost 4,000 people. And in July, the founder of an e-commerce startup said he laid off 90% of his support team. The common reason cited? You guessed it: artificial intelligence.
+     
+Goldman Sachs economists have estimated that 300 million full-time jobs across the globe could be automated in some way by the newest wave of AI, with up to a quarter of all jobs being completely done by AI.
+     
+            Indeed, large language models like ChatGPT have demonstrated a pretty remarkable ability to write code, offer detailed instructions for different tasks, pass a law school bar exam, and even express empathy when answering medical questions. And while this technology has the potential to cause widespread disruption, the effects may not be felt evenly across the workforce, with white-collar workers likely to be more affected than manual laborers.
+     
+            AI isn’t always better, faster or cheaper, though. In fact, current iterations are prone to making mistakes and spitting out false information. News outlet CNET had to issue several corrections after it used an AI tool to help write stories. And some workers, including members of the International Association of Machinists and Aerospace Workers union, have said that their workload actually increased since their companies implemented new AI tools.
+     
+            In some industries, experts have suggested a future in which AI can assist humans rather than replace them entirely. In others, artificial intelligence may have little to no impact at all.
+     
+            To get a better sense of the effect AI might have on different industries across the labor market, we reached out to experts in medicine, law, art, retail, film, tech, education and agriculture, to address 1) How will AI change the nature of work? and 2) How will AI change the labor force in this specific industry?
+     
+            Read on to see what they had to say. The views expressed in this commentary are their own.
+     
+Erich S. Huang is the head of Clinical Informatics at Verily and former chief data officer for quality at Duke Health and assistant dean for Biomedical Informatics at Duke University School of Medicine.
+ 
+            Imagine you are sitting in an exam room. You are a 47-year-old with a 16-year-old daughter and a 10-year-old son. Last week you had your annual screening mammogram and the radiologist identified a suspicious lesion. This week you have an ultrasound and a core needle biopsy. You’ve never needed a knowledgeable and compassionate doctor more than now.
+     
+            How much of this experience do you feel comfortable outsourcing to artificial intelligence? How do we position algorithms in settings where we still need professionals to sit down, look you in the eye, understand who you are as a person, help you understand what is going to happen next and answer all of your questions?
+     “While AI might simulate compassion, beyond chatbot interactions, AI cannot truly empathize or be emotionally anticipatory the way human clinical professionals can.” Erich S. Huang 
+            I’ve worked on AI in biomedicine for my entire career. I absolutely believe in its potential and know that AI will certainly be a part of medicine as we work to improve and further personalize care. AI can win back time and space for clinicians and help to reduce the administrative burden that is mostly tangential to direct patient care.
+     
+            How often do you notice your doctor or nurse looking at a screen rather than looking at you? Several hours and thousands of mouse clicks a day are laboriously devoted to entering data into an electronic health record. Many health care person hours are spent on billing and reimbursement rather than patient care. These represent low-hanging opportunities for automation that will help your doctor be more present for you.
+     
+            But AI should not take away clinical jobs. While AI might simulate compassion, beyond chatbot interactions, AI cannot truly empathize or be emotionally anticipatory the way human clinical professionals can.
+     
+            Graduating from medical school, we raise our right hands and pledge the Hippocratic Oath. Machine learning algorithms and artificial intelligence do not. The best clinicians make data-driven decisions while helping you and your family understand your options with compassion. They are professionals. Algorithms are not.
+     
+            Think of navigation aids like Apple or Google Maps: We entrust algorithms to evaluate factors such as traffic and road construction to find us the best route to our destination. We still drive the car. We still scan the road ahead for changing conditions and pump the brakes (even with self-driving cars) when we need to react quickly.
+     
+            We must do the same for health care. Our task is to use algorithms to marshal data to efficiently assist human professionals to help other human beings to better health. How we care for patients should not be “artificial.”
+     
+Regina Barzilay is a distinguished professor for AI and health in the Electrical Engineering and Computer Science Department at MIT. She is the AI lead of Jameel Clinic for Machine Learning and Health. Barzilay is also a MacArthur Fellow and a member of the National Academy of Engineering, and the American Academy of Arts and Sciences.
+ 
+            In 2016, AI pioneer Geoffrey Hinton made a bold prediction that within five to 10 years, AI models would outperform humans in reading medical images, saying, “People should stop training radiologists now.”
+     
+            He was right in some ways and wrong in others. Most clinicians refer to this quote as an example of AI hype, citing the significant shortage of radiologists, who are still very much in demand today. But he was right about AI’s abilities — in some areas of clinical AI, primarily radiology, machines indeed match and even outperform human experts. Among AI practitioners, Hinton’s comments often ignite feelings of frustration over the increasing gap between the performance capacity of these existing tools and the slow rate of their adoption in health care systems.
+     
+        Smart AI algorithms, which are trained on large-scale medical data and equipped with powerful computing, can go beyond what is humanly possible, eliminate care delays and reduce the cost of health care.
+     
+            Regina Barzilay
+         
+            Smart AI algorithms, which are trained on large-scale medical data and equipped with powerful computing, can go beyond what is humanly possible, eliminate care delays and reduce the cost of health care. We already see research models that can diagnose diseases years prior to symptom occurrence, predict an individual patient’s response to intervention and personalize the treatment.
+     
+            But real-world integration of AI in health care has been slow due to a number of reasons, from the initial cost of adoption to qualms about safety and regulation. Based on my experience collaborating with hospitals, health care systems are more likely to utilize AI to reduce the administrative burden in care management, fueled by advancements in natural language processing tools (such as ChatGPT) that can automate the transcription of doctors’ notes, help with scheduling and streamline office support. Instead of replacing doctors, this technology can help address issues of burnout and allow health care providers to focus more on improving the patient experience.
+     
+            But the more fundamental change to health care will come from the uptake of new AI-powered diagnostic and treatment tools which will shift late-disease treatment to prevention and early-stage interventions. In the same way that e-commerce provides recommendations tailored to a consumer, AI-empowered medicine will eventually be personalized.
+     
+            To achieve this vision, advancements in AI are not sufficient on their own; clinicians, regulators and the general public have a role to play in determining the extent to which AI will be adopted in hospitals and doctors’ offices.
+     
+Daniel W. Linna Jr. has a joint appointment at Northwestern’s Pritzker School of Law and McCormick School of Engineering. Dan’s research and teaching focus is on using AI for legal services and the regulation of AI in society. Previously, Dan was a litigator and equity partner at Honigman, a large law firm, and an IT manager, developer and consultant.
+ 
+            Artificial intelligence will better equip society to uphold the values and achieve the goals of the law. With AI assistance, lawyers can spend more time working on the challenges that attracted many of us to the law, such as eradicating inequality, ensuring access to justice, safeguarding democracy and strengthening and expanding the rule of law.
+     
+            For instance, we can develop AI tools to help individuals understand their responsibilities and rights, and preserve and enforce those rights. At Northwestern University’s CS+Law Innovation Lab, where my colleague and I oversee teams of law and computer science students who build prototype technologies, we have worked with the nonprofit Law Center for Better Housing to improve Rentervention, a chatbot that helps tenants in disputes with landlords. If a landlord does not return a security deposit, for example, Rentervention can help tenants determine if they are entitled to the security deposit and, if so, help draft a letter demanding its return.
+     
+            People in businesses, large and small, are already using chatbots, AI assistants and other AI tools to help them comply with laws, regulations and internal policies. AI tools specifically developed for legal tasks can help them draft and negotiate contracts, make business decisions consistent with legal and ethical principles and proactively identify potential problems that they should discuss with a lawyer.
+     “…in a business dispute for nonpayment of goods, an AI system could predict the likelihood of success and create initial drafts of legal briefs …  based on the AI system’s analysis of the judge’s past written decisions.” Daniel W. Linna Jr. 
+            For lawyers, this means that AI can automate or augment many legal tasks that they perform. Most lawyers spend a lot of time finding applicable laws, organizing information, spotting common issues, performing basic analysis and drafting formulaic language in emails, memos, forms, contracts and briefs. AI systems will be able to do this faster, cheaper and better. Large language models, like those behind ChatGPT, have significantly increased the capabilities of these systems. Established legal information providers and many startups are rapidly developing and releasing AI systems that are “fine-tuned” or specialized for legal tasks.
+     
+            Unsurprisingly, AI is changing the skills lawyers need. To responsibly use AI, they will need a functional understanding of the technology to evaluate the benefits and risks of using it, such as how it might fail and the ways in which it might be biased or unfair.
+     
+            Lawyers will also need to exercise judgment to tailor an AI system’s output for specific situations. For example, in a business dispute for nonpayment of goods, an AI system could predict the likelihood of success and create initial drafts of legal briefs, using the specific language and arguments that are most likely to persuade the assigned judge to rule in favor of the client, based on the AI system’s analysis of the judge’s past written decisions.
+     
+            A lawyer will need to determine if the prediction and the proposed language and arguments are a good fit given the client’s goals and interests. Perhaps what would be a winning argument, for example, would cause damage to the client’s brand in the eye of the public, and the lawyer should revise it.
+     
+            Lawyers will continue to play a significant role as governments update laws, regulations and policies for emerging technologies, including to address AI bias, discrimination, privacy, liability and intellectual property. Additionally, new roles are emerging in the legal industry, such as legal engineers who build systems, legal data scientists and legal operations professionals. And there is significant unmet demand for legal services from individuals and even businesses. Considering all of this, the best long-term prediction now is that there will continue to be a stable number of jobs for lawyers and other legal professionals, so long as the legal industry embraces technology and trains professionals to develop important complementary skills.
+     
+            While there is uncertainty about the future, there have never been more opportunities for lawyers to make an impact on society.
+     
+Refik Anadol is a media artist and director who owns and operates Refik Anadol Studio and teaches at UCLA’s Department of Design Media Arts. His work locates creativity at the intersection of art, science and technology, and has been featured at landmark institutions including The Museum of Modern Art, The Centre Pompidou and Walt Disney Concert Hall.
+ 
+            Artificial intelligence and automation will initially cause some shifts in the labor force in the arts, but I do think that in the long run, it will create more jobs than it will disrupt.
+     
+            For example, we already need an army of ethicists, translators, linguists and humanities professionals to oversee chatbots and implement policies to make sure they make fewer mistakes. And because AI will continue to push human imagination — whether for the pursuit of meaningful human-AI collaborations or to prove that man-made art is better than AI-generated art — it will give rise to more areas for further professional training. We will encounter new art movements and new forms of digital aesthetics in the near future, and those will be created by humans, not AI.
+     
+            For almost a decade, I have been using AI as a collaborator in my media art practice. I use publicly available data sets to train AI algorithms, ranging from cities’ weather patterns to photographs of California’s national parks. Since the pandemic, my focus has been to compile the largest nature-themed data set and contribute to its preservation by creating archives of images of disappearing natural places or through fundraising.
+     “We will encounter new art movements and new forms of digital aesthetics in the near future, and those will be created by humans, not AI.” Refik Anadol 
+            Our work changes with every new AI-related invention, because we engage with deep research to first understand and then incorporate novel technologies into our works. Generative AI uses still-evolving projection algorithms that can learn from existing artifacts to create novel artifacts that accurately reflect the features of the initial data without repeating them. It provides us the possibility to train algorithms with any image, sound or even scent data. The current hype around generative AI models such as text-image generators and natural language chatbots made us put more emphasis on alternative data collection methods. We are committed to contributing to the practice of and dialogues around safeguarding against data bias, protecting data privacy and full transparency about how data is collected and used in training algorithms.
+     
+            A big challenge of using generative AI in art is figuring out how to provide the models with original and authentic data for the kinds of artistic output that I imagine in the beginning. For example, for our most recent project, “Glacier Dreams” — a series of multisensory AI art installations — we decided not to use models already trained with existing glacier images. Making sure that the trained models use ethically sourced data in terms of consent, or even making sure that the data we collect from publicly available platforms fall under that category, is one of the major concerns in our field. So, in order to address these issues, we started to collect our own images, sounds and climate data. By traveling to our first destination, Iceland, we were able to capture the beginning of our own narrative of glaciers by taking our own images and videos.
+     
+            I think that the increasing prevalence, accessibility and acceptance of AI-generated art will force not only artists, but also writers, designers and other creatives to re-consider the meaning of creativity and push their imagination even further. This will require time, effort and in some cases re-structuring of methods and practices, but I am in favor of keeping an open mind while reviewing innovation through a respectful and critical lens.
+     
+Adam Elmachtoub is an associate professor in the Department of Industrial Engineering and Operations Research at Columbia University, specializing in machine learning, optimization and pricing algorithms for e-commerce and logistics.
+ 
+            Consider a grocery retailer or restaurant chain on the day that the NBA releases its playoff schedule. For cities that are hosting games, AI tools will one day be able to immediately realize that this news will adjust the demand forecast for foods like chicken wings and potato chips, which are associated with basketball viewing parties. AI tools will then quickly re-optimize decisions associated with inventory shipments, staffing and promotions.
+     
+            Over the last decade, online and brick-and-mortar retail have leveraged many advances in AI, particularly in the fields of operations research and machine learning. Operations research methodologies are used for inventory management, price optimization and delivery logistics, while machine learning tools are used for forecasting demand, digesting product reviews and targeted advertising. In the next wave of AI, we will solve operations problems faster by learning from past data, while also predicting changes to demand at a more granular level (both in space and time).
+     
+        For cities that are hosting games, AI tools will one day be able to immediately realize that this news will adjust the demand forecast for foods like chicken wings and potato chips, which are associated with basketball viewing parties.
+     
+            Adam Elmachtoub
+         
+            Suppose the “Wannabe” music video by the Spice Girls was released today, rather than in 1996, and went viral on social media. A clothing retailer with an AI system in place can pick up on this viral hit immediately and initiate designs for similar clothing styles as in the video. Machine learning can help predict the demand at a local level, while operations research tools can help to immediately start sourcing materials, optimize manufacturing and plan inventory shipments.
+     
+            While it is possible that retailers might have data scientists that follow the NBA and social media closely, there are countless other events that AI systems will detect and react to in real time — with less human intervention and serendipity required. AI will help make data scientists and managers more efficient, but not necessarily take away jobs, as there will be more opportunities to leverage data and improve the customer experience. Of course, human workers will still be needed to manage AI systems, which can have trouble navigating through satire, false information and adversarial attacks. While some roles, such as operating a register or stocking shelves, might be replaced by AI-powered robots in the future, more jobs may open up in assisting customers with complex tasks such as returns or advice, as retailers compete more on (human) service quality.
+     
+Dr. Nisreen Ameen is a senior lecturer in digital marketing and co-director of the Digital Organisation and Society (DOS) Research Centre at Royal Holloway, University of London. Nisreen is also currently serving as vice president of the UK Academy of Information Systems (UKAIS). 
+ 
+            AI will be a game changer for retailers, and the value of this technology in the global retail market is expected to grow dramatically in the next few years.
+     
+            AI will allow retailers to improve the online shopping experience and connect with their customers through personalization, whether it be through online advertisements or curated product pages. Instead of having customers scroll through hundreds of products to find one item that they like or need, selected products can be presented to meet the customer’s tastes or demands, leading to higher engagement and increased sales.
+     
+            AI can also transform the shopping experience in new and unique ways. Some retailers have already installed smart mirrors, which use augmented reality and artificial intelligence for virtual try-ons. These mirrors can suggest different sunglasses, for example, based on an analysis of the customer’s face shape, or help customers visualize how certain beauty products will look. In some cases, customers can also create a digital avatar for online shopping, helping them to confidently select the best size and fit.
+     “These mirrors can suggest different sunglasses, for example, based on an analysis of the customer’s face shape, or help customers visualize how certain beauty products will look.” Nisreen Ameen 
+            AI will have an enormous impact on both the nature of work in retail and the labor force in this industry. Chatbots are already widely used in customer service, and AI-driven robots can assist with tasks like inventory monitoring and answering simple questions in retail stores, such as where to find certain items.
+     
+            While AI can handle repetitive and time-consuming tasks or synthesize massive amounts of data, and some retail jobs could be in danger of being replaced, employees’ input is still currently required for decision making and tasks that require empathy and emotional intelligence — particularly when it comes to branding, marketing and public relations, for example.
+     
+            For many employees, AI will redefine job descriptions, and the integration of this technology will require upskilling in order to work with AI and remain creative. Managers in retail should understand the potential and limitations of this new technology and focus on augmentation — utilizing AI in conjunction with human intelligence — instead of automation.
+     
+Theodore Kim is a professor of computer science at Yale, a former senior research scientist for Pixar and a two-time Scientific and Technical Academy Award winner.
+ 
+            If the Writers Guild of America and SAG-AFTRA, the union representing 160,000 actors, don’t secure stricter guardrails against the use of AI during their negotiations with Hollywood studios, the film industry will end up relying less on the traditional writers, actors and directors who help bring movies to life.
+     
+            Instead, movies will increasingly be made on the cheap by people who wrestle images out of generative AI systems — a prestigious-sounding task called “prompt engineering.” In reality, this grueling and inevitably low-paying vocation will make today’s relentless, unsustainable visual effects work look like a beach weekend. Instead of meticulously manipulating digital shapes and lights, they will generate images using indirect and ever-more baroque text prompts, and the final images will still get credited to AI. Paychecks will shrink, as they always do when occupations undergo deskilling.
+     “…the race to the bottom sparked by AI is going to see this genre explode, where every big budget movie gets automatically ingested and imitated.” Theodore Kim 
+            Moreover, if all this comes to pass, we should prepare for the golden age of the mockbuster. With no protections in place for writing or acting, the race to the bottom sparked by AI is going to see this genre explode, where every big budget movie gets automatically ingested and imitated.
+     
+            The ChatGPT prompts will begin with, “Make me a ‘Mission Impossible,’ but different enough that I can’t get sued.” These AI-generated films will be a computational distillation of that episode of “30 Rock” where a Janis Joplin biopic that failed to secure her life rights was transformed into the more legally defensible “Jackie Jormp-Jomp” story.
+     
+            As much as advocates breathlessly proclaim that AI will unleash new forms of creative expression, it excels most at imitation and interpolation, and may as well have been custom-made for mockbusters. We’re already seeing AI-generated trailers rip off Baz Luhrmann’s “The Great Gatsby” in a litigiously ambiguous manner. That’s not Leonardo DiCaprio, the argument goes. The hair color is different and the face is creepily blurrier.
+     
+            It remains to be seen whether the use of AI will backfire on the studios and whether audiences might be willing to wait a week for close-enough ripoffs to appear on YouTube. In the meantime, AI-generated films won’t be a boon to actors, directors or viewers. With all those billable hours spent chasing after mockbusters, the winners here will be the lawyers.
+     
+Dr. Eirini Kalliamvakou is a staff researcher at GitHub Next, where she guides the team’s strategic prototyping efforts. Eirini has led the productivity research on GitHub Copilot, and has spoken extensively about developer productivity and happiness.
+ 
+            AI has already proven to be one of the best tools we have to empower the next generation of software developers by redefining productivity and lowering barriers to entry. I believe AI will change the way developers work while ultimately increasing demand for these already highly sought-after professionals.
+     
+            A survey of 500 US-based developers found that the vast majority (92%) is already using AI coding tools, and in a controlled study, we found that GitHub Copilot, an AI pair programmer that offers automated code suggestions, helps developers complete tasks 55% faster than they could without it.
+     
+            AI tools like GitHub Copilot can reduce the amount of repetitive code developers need to write by providing auto-complete suggestions that can be accepted with minor edits. The code completions also contain the right coding syntax that developers would otherwise have to look up, minimizing interruptions to their work.
+     “The trajectory of the software industry includes many attempts to increase automation, and while that changed the nature of coding, it didn’t end the need for developers.” Eirini Kalliamvakou 
+            More than 2,000 developers have reported that GitHub Copilot helps them stay in the flow, focus on more satisfying work and conserve mental energy. That’s a clear win for overall developer happiness.
+     
+            As for how developers might use the time saved by AI? They can focus more on problem solving, software architecture and innovation. Development work is endless, and software companies and projects often have long backlogs of features, ideas and innovations that they never get to build because their resources are poured into the day’s work.
+     
+            This increase in productivity could make a huge material difference — research shows that AI developer tools could boost global gross domestic product by more than $1.5 trillion by 2030. Given the benefits, learning how to use these tools will soon become table stakes for software developers, who will become more fluent in prompting and interacting with AI. This will ultimately help democratize access to a career in software development and establish AI pair programming tools as part of the standard education and training in this field.
+     
+            If the past is any indication, new developer tools will only augment developers and improve their workflows. The trajectory of the software industry includes many attempts to increase automation, and while that changed the nature of coding, it didn’t end the need for developers.
+     
+            In fact, the number of developers has increased, their wages have gone up, and the barriers to entry have lowered. We expect AI to have a similar effect.
+     
+            Developers’ work is already becoming faster and more enjoyable with AI tools. Can it also become less mentally taxing, more expressive and exactly collaborative enough?
+     
+            Our ambition now spreads to reimagine a different way for developers to bring their ideas to life, work with code and work with AI. Developers and organizations will be more ambitious with what they can accomplish through software development, which helps accelerate overall human progress — a win for developers and society alike.
+     
+Ashok Goel is a professor of computer science and human-centered computing at Georgia Institute of Technology and the executive director of the National AI Institute for Adult Learning and Online Education, sponsored by the US National Science Foundation and headquartered at Georgia Tech.
+ 
+            In 2016, when my laboratory created a virtual teaching assistant named Jill Watson to automatically answer students’ common questions in online education, we offloaded a routine task from professors to AI agents. This provided students with access to the virtual teaching assistant any place and any time. Over time, this also freed professors to attend to other, more important tasks, such as engaging in deeper conversations with students. Since then, my laboratory has developed interactive books and interactive videos to enhance cognitive engagement, virtual assistants that facilitate social interactions, and learning environments that personalize learning.
+     
+            I believe that AI will have a deep, profound and systemic impact on education. The impact will be more rapid and radical in higher education because it has more freedom to experiment; a variety of social, cultural and political forces often make changes in K-12 education more difficult to achieve. I expect that within the next few years, we will see the rise of the first fully AI-powered universities in which every office, job and activity will be automated or augmented by AI.
+     “I expect that within the next few years, we will see the rise of the first fully AI-powered universities in which every office, job and activity will be automated or augmented by AI.” Ashok Goel 
+            It has been said that AI helps humans do things better, for example, do things faster and more easily. While this is true for many administrative tasks, the real value of AI is in helping humans do better things, for example, be more creative.
+     
+            Based on Jill Watson and other experiments in our laboratory, I expect that students in general will embrace the new AI technologies. And most professors will adapt to advances in AI, as the tools will help amplify their voice and reach. AI will allow them, for instance, to reach more students. Professors will also have more time to focus on important tasks such as creating new content and mentoring students. It remains to be seen how easily administrative staff will accommodate the approaching changes, as some may see AI as a potential threat to their jobs. While I see no reason for professors to lose their jobs, some staff positions may well be lost to AI.
+     
+            More generally, AI will enable universities to engage in more creative educational practices, for example, personalized learning — learning tailored to the needs and profiles of individual students — and lifetime education — learning new skills throughout a student’s lifetime. This will empower students, enabling them to learn what they want and when they want it. This will redefine the role of institutions of higher education in our lives and society, as these institutions will emerge as centers of continuous and sustained workforce development critical to the economy.
+     
+Kristen DiCerbo, Ph.D. is the chief learning officer at Khan Academy. She has spent most of her career designing and researching digital learning environments.
+ 
+            Within the education system, teachers are often being asked to do too much and, in some places for some subjects, there are teacher shortages. The promise of AI in education is that we can free up teachers’ time by providing them assistance to complete labor-intensive activities, such as lesson planning, rubric creation, and even feedback and grading.
+     
+            An AI teaching assistant, for example, can offer students more frequent and immediate feedback on their writing, and can ask them to explain their steps on a math problem. Students learn best when they get a chance to practice new skills and get immediate feedback on their efforts, but this is impossible with one teacher and large class sizes.
+     
+        Teachers help students achieve a sense of belonging in school, see themselves as capable of success, and act as architects of their own future. Artificial intelligence cannot do any of that.
+     
+            Kristen DiCerbo
+         
+            So AI will really become an extension of the teacher rather than a replacement. Systems based on large language models, like chatbots, can help teachers differentiate lessons for learners at different levels. It can reduce the amount of time teachers spend on planning by serving as a partner in creating lesson plans, brainstorming class activities and drafting quizzes.
+     
+            Spending less time on these tasks does not mean we need fewer teachers. It means teachers have more time to build relationships with students. Studies show that strong relationships with teachers and school staff help increase students’ motivation and academic engagement. Teachers help students achieve a sense of belonging in school, see themselves as capable of success, and act as architects of their own future. Artificial intelligence cannot do any of that.
+     
+National assessment results are not where we want them to be. We are not reaching all learners. Using AI can shift responsibilities so teachers can focus on the uniquely human things they can do to help students learn and prepare to solve the challenges of tomorrow.
+     
+Dr. Alireza Pourreza is an associate professor of extension in the Biological and Agricultural Engineering department at the University of California, Davis, and the director of the university’s Digital Agriculture Lab. Pourreza leads research and extension education in digital agriculture, remote sensing, precision agriculture, and mechanization.
+ 
+            Artificial intelligence can transform agriculture and food production, revolutionize decision-making and help farmers address emerging issues from crop diseases to extreme weather events.
+     
+            By analyzing vast amounts of data, AI provides farmers with valuable decision-support tools that help optimize best practices and increase productivity. AI-driven predictive crop growth models can offer accurate crop yields and quality forecasts by analyzing weather patterns, soil conditions and crop health. This data helps farmers make effective decisions when it comes to planting schedules, allocating resources and marketing their crops by aligning supply with demand, adjusting pricing, timing market entry, targeting specific segments and negotiating contracts effectively based on accurate yield predictions.
+     “…it is essential to recognize that AI cannot fully replace the creative thinking and intuition that farmers bring to their work.” Alireza Pourreza 
+            AI is also helpful for precision agriculture, or tailoring farming practices such as irrigation, fertilization and pest control to the specific needs of different areas within a field, recognizing that some areas may require different treatments for optimal crop growth and health than others. This can lead to improved yields, reduced waste and enhanced quality. Drones equipped with AI-driven sensors and spectral cameras can also identify crop stress and damage or detect pests and diseases, allowing for timely intervention. A farmer might use an AI-driven irrigation system to monitor soil moisture levels, adjusting irrigation daily to meet the specific needs of different areas within a field. This precise control can conserve water and promote healthier crop growth, adapting to weather changes and leading to higher yields.
+     
+Labor shortages are common in the agriculture industry and autonomous robotic systems can harvest crops accurately and efficiently, while AI-powered machines can streamline sorting and packaging. By automating labor-intensive tasks, AI enables farmers to strategically allocate their workforce, focusing on other activities that require human expertise.
+     
+            While AI offers immense potential, there are limitations. AI relies on the quality and accuracy of data, as well as wireless connectivity, which can be limited in rural areas. Initial implementation costs may also pose a challenge for small-scale farmers with limited resources. And it is essential to recognize that AI cannot fully replace the creative thinking and intuition that farmers bring to their work.
+     
+            By striking a balance between leveraging AI’s capabilities and recognizing the value of human expertise, farmers can embrace AI as a powerful tool, ensuring a more sustainable and prosperous future for agriculture.
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

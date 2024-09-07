@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.cnnphilippines.com', port=443): Max retries exceeded with url: /news/2023/6/14/rockwell-land-corporation-lian-batangas-beachfront-community.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cnnphilippines.com'. (_ssl.c:1007)")))

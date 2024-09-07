@@ -1,0 +1,52 @@
+
+Hybrid search with end-to-end AI enriches consumer discovery enabling businesses to significantly uplift site conversions and boost revenue
+
+ SAN FRANCISCO--(BUSINESS WIRE)--Algolia today launched Algolia NeuralSearch™, a next-generation vector and keyword search in a single API with powerful, end-to-end AI processing every query. Algolia NeuralSearch understands natural language and delivers highly accurate and relevant results in milliseconds. This technology is a breakthrough in search and discovery that promises to revolutionize the way individuals engage with content online or in apps. Algolia NeuralSearch delivers superior conversions and increased revenue at enterprise scale for huge production workloads. It uses advanced Large Language Models (LLM) – the same technology underpinning ChatGPT and generative AI – and goes a step further with Algolia’s Neural Hashing™ for hyper-scale and constantly learns from user interactions for better results.
+
+  
+Guillermo Romero, Director Enterprise Architecture at Best Buy Canada said: “Algolia's NeuralSearch technology will help us better understand customer intent to improve our search relevance across our extensive, rich product catalog. We're excited to partner with Algolia to integrate this next generation vector and keyword search technology and create a better search and discovery experience for our customers.”
+
+ 
+Bernadette Nixon, chief executive officer, Algolia noted: "Algolia is committed to advancing AI-powered Search, and we believe Algolia NeuralSearch does just that. Algolia NeuralSearch, a first-of-its-kind hybrid search product, provides users with a smarter and more intuitive way to discover the most relevant content they want, when they need it, irrespective of the type of query presented. Importantly, we make it easy to achieve live production quickly—specifically, we provide the set-up, scaling, and management of all search capabilities and services—all of which helps accelerate and power discovery. Moreover, Algolia NeuralSearch is backward compatible, which means there is zero engineering required for customers to become AI-enabled.”
+
+ 
+Frasers Group, which encompasses an array of fashion apparel brands serving unique audiences, was among the first Algolia customers to use Algolia NeuralSearch in a real world environment. Kyle Sanders, Head of Digital Optimisation, Frasers Group, said: “We tested Algolia NeuralSearch with two of our brands (Missguided and Isawitfirst), and were thrilled to see above ~65 percent drop in zero search results and up to 17 percent uplift in conversion rates. These results, despite only sending a portion of our query traffic to Algolia NeuralSearch over a four-week period, exceeded our expectations. Notably, our existing search implementation seamlessly evolved to further improve our customers’ discovery journey and improve their experience on our website—all without having to make any changes to a single line of code. We are excited to see what the future holds with Algolia NeuralSearch.”
+
+ 
+Algolia NeuralSearch analyzes the relationships between words and concepts, generating vector representations that capture their meaning in an abstract and contextual manner. Because vector-based understanding and retrieval is combined with Algolia’s award-winning full-text keyword engine, it works for exact matching too. Algolia NeuralSearch uniquely addresses an industry-wide problem with vector search: the inherent limitation to scale and the high burden of costs associated with using specialized computers. To solve this problem, Algolia pioneered Neural Hashing, which compresses these search vectors from 2,000 decimal long numbers into static length expressions making computing them very fast and significantly more economical. Prior to Algolia’s proprietary breakthrough, vector-based search has been too computationally expensive to run in production.
+
+ 
+Hayley Sutherland, Research Manager, IDC noted: “By adding Neural Hashing of vectors to its existing keyword-based search within a single index, leveraging a single API, Algolia has the potential to disrupt AI-powered search with significantly better precision and recall, in a manner that requires less manual work to set up and update, while incurring fewer storage and processing costs.”
+
+ 
+Algolia is the only company that incorporates AI across three primary functions—query understanding, query retrieval, and ranking of results.
+
+ 
+Most organizations only have the resources to optimize their search for a few popular queries. However, this leaves a significant amount of potential revenue on the table. “Industry-wide, retailers are leaving a significant amount of potential revenue on the table because it’s challenging to capture revenue from ‘long tail’ search queries (such as ‘stunning fall outfit for mother of the bride’), which could potentially represent up to 55% of all search queries today,” added Nixon. “These low volume searches could collectively amount to millions of queries corresponding to billions of dollars in unfulfilled sales of less popular or searched for products. Algolia NeuralSearch optimizes for all queries, popular or infrequently searched for, while using specific keywords or natural free-form expression—truly putting search on autopilot at a price point that is 90% less than other vector-based search options.”
+
+ 
+Hayley Sutherland added: “This evolution from search to discovery through methods like vector search is significant for the ecommerce and retail industries due to its implications for product discovery use cases. In the retail world, long-tail searches—that is, less commonly used search terms that may not find exact keyword matches and return null results when queried — represent lost revenue when they return null results to users, forcing those potential customers to abandon searches and take their business elsewhere. Vector search has become popular in recent years due to its ability to provide customers with similar or related products when an exact match is not found, allowing customers to find relevant results using free-form natural language and helping to ensure their revenue does not go to competitors.”
+
+ 
+Additionally, as the index changes, new products are added, new content is uploaded, or as terms take on new meaning, the AI-powered Algolia NeuralSearch product will learn and adjust automatically. It doesn’t require any additional headcount or manual operations. It will automatically match keywords or concepts—possibly a mix of both—depending on the query or search phrase. This truly puts search on autopilot.
+
+ 
+Rachel Maxwell, Digital Merchandising Manager at Everlane said: “When we implemented Algolia NeuralSearch, the overall results have been amazing and have included a 9 percent increase in clickthrough rates and a 9 percent increase in the conversion rate. We’re also finding our merchandisers are spending less time on manual tasks such as creating synonyms to optimize search results, and more time on more strategic work.”
+
+ 
+Algolia NeuralSearch is available now; more information here.
+
+ 
+About Algolia 
+Algolia is the world’s only end-to-end AI search and discovery platform. Our engineers invented a breakthrough use of AI to create exponentially better search & discovery. Our proprietary NeuralSearch tech combines vector-based natural language processing & keyword matching in a single API. Algolia powers 1.5 Trillion search requests a year or more than 30 Billion a week enabling more than 17,000 customers (including Under Armour, Stripe, Petsmart, Walgreens, Procter & Gamble, Sony, NBC (Universal), British Telecom and Citibank) in 150+ countries to build blazing fast and relevant search and discovery experiences for their in-app users and/or online visitors (using any web, mobile or voice device) – by surfacing the desired content instantly and at scale. To learn more, visit www.algolia.com.
+
+ 
+Media: 
+Sean Welch
+PAN Communications for Algolia
+Algolia@pancomm.com
+ 
+Media: 
+Sean Welch
+PAN Communications for Algolia
+Algolia@pancomm.com

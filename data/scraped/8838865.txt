@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/servicetitan-appoints-dave-sherry-as-chief-financial-officer/article_4b1dd6e9-69f5-5cd2-8b10-d7074a6d2d1c.html

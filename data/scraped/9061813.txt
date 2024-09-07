@@ -1,0 +1,21 @@
+
+Driven by Developer Value and Enterprise Recognition of the Power of Clean Code - Sonar Solution Scales to 7 Million Users and 21,000 Enterprise Customers
+ 
+SonarSource, the leading provider of Clean Code solution, today announced record growth in developer and enterprise customer adoption. With a 43% growth in its user base, SonarSource supports more than 400,000 organizations and seven million users. The Sonar solution leads the industry with total analyzed code – which now tops more than half a trillion lines of code for organizations across the world. By adding 5,000 paying customers in 11 months, Sonar now supports 21,000 enterprise customers including over 75% of Fortune 100 and nearly half of Fortune 500 companies. Much of this progress transpired on the heels of the Company closing a $412 million funding round, which brought its valuation to $4.7 billion. SonarSource's massive momentum is driven by the recognition from enterprises everywhere that Clean Code is an organizational imperative for long-term competitiveness and market success.
+ 
+A Rapid Pace of Innovation
+ 
+With a laser focus on empowering developers to deliver Clean Code, Sonar continues its tradition of innovation. Following a steady cadence of releases that add value to their community and enterprise users, Sonar continued to expand its analysis capabilities to be the most comprehensive, precise, and fastest in the market. Sonar solution, with 5,000 rules, now supports over 30 languages, frameworks, and infrastructure technologies including Infrastructure-as-Code support for secure Cloud Native applications and containerized development with Kubernetes rules. Improvements include the detection of complex bugs and faster analysis for the majority of the flagship languages, as well as stronger Kotlin and Java analysis for secure Android Mobile app development. Sonar's enterprise capabilities got a big boost with enhanced compliance functionality, reporting, and better admin controls. Sonar continues to increase value to the developers as they write code in their preferred IDE with new capabilities and a frictionless experience when finding and fixing issues at every stage in their existing development workflow.
+ 
+Global Team Expansion to Accelerate Momentum
+ 
+To support this rapid acceleration, SonarSource has expanded its global staff to more than 400, opened a new APAC office in Singapore and expanded its presence in Austin, Texas, and LATAM. The Company also added to its leadership team, by naming a new CMO Manish Gupta, and a new General Counsel, Derek Smith this year.
+ 
+"We are on a mission to help organizations deliver Clean Code, code that is secure, robust, and can evolve. This is the single step needed to make software an asset instead of a liability," said Olivier Gaudin, Founder and CEO of SonarSource. "Our journey has been incredible, and we're delighted with the accelerated user and customer adoption of our Sonar solution. SonarSource's success is deeply rooted in the steadfast support from the developer community."
+ 
+About SonarSource
+ 
+SonarSource's Clean Code solution enables developers and development teams to write clean code and remediate existing code organically, so they can focus on the work they love and maximize the value they generate for businesses. Its open source and commercial Sonar solution – SonarLint, SonarCloud, and SonarQube – support over 30 programming languages, frameworks, and infrastructure technologies. Trusted by more than 400,000 organizations globally to clean more than half a trillion lines of code, Sonar has become integral to delivering software.
+ 
+To learn more about SonarSource, please visit https://www.sonarsource.com/company/about/.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20221206005401/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

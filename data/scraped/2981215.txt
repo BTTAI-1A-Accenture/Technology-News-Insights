@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/5g-advanced-will-build-more-capabilities-and-intelligence-in-wireless-networks/article_ccb14117-0d78-5f03-85f1-ade963818d91.html

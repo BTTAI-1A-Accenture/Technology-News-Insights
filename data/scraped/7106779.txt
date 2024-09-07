@@ -1,0 +1,26 @@
+
+After Deploying Beyond Identity’s Passwordless MFA Internally WWT Will Resell the Advanced Zero Trust Authentication Solution To Its Customers
+ NEW YORK–(BUSINESS WIRE)–Beyond Identity, the leading provider of phishing-resistant and passwordless MFA, today announced its two-pronged partnership with IT services and consulting company World Wide Technology (WWT). The engagement between the two leaders allows WWT to harness Beyond Identity’s authentication platform internally while also acting as a global channel partner. WWT has already initiated an internal roll-out of Beyond Identity’s passwordless, multi-factor authentication (MFA) to its 8,000 employees.
+  
+Cyber attacks continue to grow in scale, including the massive wave of ransomware and account take over breaches. Traditional MFA was the go-to solution for password vulnerabilities – the largest initial attack vector year after year. But today, even run-of-the-mill threat actors are equipped to bypass legacy MFA at scale. This volatile environment has prompted new government zero trust regulations that specify passwordless and phishing-resistant MFA. Insurance carriers are also mandating MFA to be broadly deployed across organizations before issuing or renewing cyber insurance policies, making the user experience increasingly important.
+ 
+Beyond Identity’s advanced solution meets both phishing-resistant and more stringent zero-trust requirements. It eliminates passwords and all other weak MFA factors like push notifications, one-time-codes, and magic links, and creates a frictionless authentication experience using a combination of device biometrics and strong cryptographic passkeys. The solution provides the base layer for zero trust with strong user authentication and an advanced policy engine that evaluates device security posture and incorporates additional risk signals from MDM, EDR, XDR, and ZTNA solutions during the authentication transaction and continuously thereafter.
+ 
+“Modern cyber attacks have unfortunately surpassed traditional MFA technology, leaving organizations’ widely exposed,” said Thomas Jermoluk, CEO of Beyond Identity. “If there’s a password, or other weak factors, there’s an easily exploited attack vector for threat actors. Beyond Identity’ enables organizations to modernize their infrastructure and stay ahead of hackers.
+ 
+“The world is going passwordless and we’re delighted that WWT selected Beyond Identity to take their company there today,” said Bill Hogan, CRO of Beyond Identity. “Their entire go-to-market team can now personally vouch our unmatched user experience and with Beyond Identity available in WWT’s Advanced Technology Center, their team can showcase important integrations with zero trust leaders like CrowdStrike and Zscaler.”
+ 
+The partnership will enable WWT to significantly reduce its own and its customers’ cybersecurity risk with a critical component of zero trust, and reduce help costs by eliminating password reset calls.
+ 
+“After evaluating a strategic partnership with Beyond Identity, it was clear that they could provide value to our company beyond just an industry relationship,” said Jim Kavanaugh, CEO of WWT. “We were blown away by Beyond Identity’s advanced MFA, and the awesome user experience also played a large part in our decision making. Beyond Identity shares our passion and vision for advanced technology that moves the needle for businesses, and a brighter and more secure digital future.”
+ 
+Based in Maryland Heights, Missouri, WWT boasts over 30 years in the industry, employs approximately 8,000 individually globally, and was named by Time Magazine as one of the “100 Most Influential Companies” in the 2021 “Leaders” category. As an IT provider to more than 70 Fortune 100 companies, including leading financial institutions, WWT is trusted with highly confidential information every day.
+ 
+Beyond Identity’s passwordless and phishing-resistant MFA is available to all WWT customers today. To learn more, visit:
+ 
+About Beyond Identity
+Beyond Identity is revolutionizing secure digital access for workforces, contractors, customers and developers. Our Universal Passkey Architecture provides the industry’s most secure and frictionless multi-factor authentication that prevents credential-based breaches, ensures device trust, and delivers secure and frictionless digital access, eliminating passwords entirely. Industry leaders like Snowflake, Unqork and Roblox rely on Beyond Identity to solve their access security challenges for their customers, employees, contractors and developers and to advance their journey toward Zero Trust Security. To learn more about Beyond Identity’s solutions and innovations, visit beyondidentity.com and stay connected with us on Twitter, LinkedIn, and YouTube.
+  Contacts  
+Mary Amenta
+Matter Communications for Beyond Identity
+BeyondIdentity@Matternow.com

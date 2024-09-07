@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='web.unep.org', port=443): Max retries exceeded with url: /globalmercurypartnership/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)')))

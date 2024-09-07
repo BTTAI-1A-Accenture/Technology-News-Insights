@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://theindependent.com/life-entertainment/local/home-gardening/elizabeth-exstrom-it-s-not-easy-being-chartreuse/article_61d1fd54-2da3-11ee-88f6-2f7d76d21ca8.html

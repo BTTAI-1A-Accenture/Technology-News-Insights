@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/growing-debt-divide-in-the-u-s-sees-some-pulling-ahead-as-others-fall-further-behind-95df20a0

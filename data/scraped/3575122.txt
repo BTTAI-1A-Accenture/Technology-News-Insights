@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.eagletribune.com/region/accenture-acquires-canadian-capital-projects-consulting-company-comtech-group/article_336ad53b-eb51-591a-81c0-04862aa9b5c2.html

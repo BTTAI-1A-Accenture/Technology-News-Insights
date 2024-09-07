@@ -1,0 +1,8 @@
+High-quality and powerful display processor 1.8V general purpose I/O for 4nm FinFET Temperature Sensor (Digital Output) UCIe PHY on TSMC N3P SignatureIP Networks-on-Chips (NoCs) to Accelerate RISC-V Designs SEALSQ Introduces QS7001, a Newly Developed Cutting-Edge RISC-V Secure Hardware Platform, Specifically Designed for IoT security in the Post-Quantum Era Xiphera's xQlave® Product Family Enables Full Compliance with Finalised NIST PQC Standards Ensure Cybersecurity in the Connected Vehicles Era With ISO/SAE 21434 Key considerations and challenges when choosing LDOs BCD Technology: A Unified Approach to Analog, Digital, and Power Design PCIe Over Optical: Transforming High-Speed Data Transmission Pipelined Data Masters in D-Series GPUs RISC-V for the Datacenter: Introducing the P870-D IP Provider: Give the best exposure to your IPs, 
+by listing your products for free 
+in the world's largest Silicon IP catalog (6 500 products from more than 
+400 companies)
+  © 2024 Design And Reuse All Rights Reserved. No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used without the express written permission of Design And Reuse. 
+
+ Suppliers, list
+	your IPs for free.

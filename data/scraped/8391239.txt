@@ -1,0 +1,12 @@
+Developed by Qucit, Qucit Bike helps you digitize and optimize your daily field operations to operate your bike sharing system. 
+
+Qucit Bike is a software solution which consists of a mobile application for the field teams and a dashboard for the team leaders and the operations manager. 
+
+Qucit Bike mobile app support rebalancing and maintenance operations by:
+•    proposing optimized rebalancing tasks for balanced stations for a maximum of time
+•    accompanying operators on their route thanks to an integration with Waze and Google maps
+•    optimizing maintenance rounds in the field (disabled bike, station out of service, station visits, battery swapping, ...)
+
+A bike-sharing software solution to improve operators profitability and their environmental footprint.
+
+Contact: contact@qucit.com  We continuously enhance Qucit Bike with new features to make field operations more efficient. Our goal is to constantly improve your user experience and reduce bugs. Recevez chaque jour les meilleures promos

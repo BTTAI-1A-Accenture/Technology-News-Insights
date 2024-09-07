@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thestar.com/business/electric-vehicle-company-lion-electric-raising-us-142-million-to-fund-growth/article_b8136ff4-5078-547c-a0c3-acd4ff4f0c43.html

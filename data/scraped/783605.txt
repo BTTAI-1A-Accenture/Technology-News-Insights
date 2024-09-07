@@ -1,0 +1,27 @@
+
+Follow us  Share this article 
+Latest news  
+
+3 min. read  
+
+
+Published on July 12, 2023
+
+ 
+
+published on 
+
+July 12, 2023 
+
+
+ Share this article 
+Read our disclosure page to find out how can you help Windows Report sustain the editorial team Read more
+ Dell Technologies Inc. has launched a range of services catered specifically to customers using Microsoft Corp. technology.
+These services include multi-cloud solutions, modern workforce enablement, applications, data optimization, resiliency, and security enhancements. The primary objective is to assist customers in extracting maximum value from their Microsoft technology investments while fostering innovation. In a blog post, Dell explained that these new offerings address several challenges that impede innovation within enterprises. Dell referenced a recent study conducted by Forrester Consulting, which revealed that 75% of information technology decision-makers require external expertise to achieve specific outcomes. Moreover, the study highlighted that 69% of IT decision-makers need more resources and expertise to leverage their tech investments’ value fully. To tackle these obstacles, Dell is introducing new multi-cloud services that empower businesses to capitalize on the Microsoft Azure cloud fully. These services encompass running container workloads natively in Azure, utilizing Azure Stack hyper-converged infrastructure for hybrid, multi-cloud, and edge use cases, and expanding VMware on Azure. Dell’s new modern workforce advisory services also aim to help businesses establish personalized and secure environments for hybrid and remote workers. These services encompass Microsoft 365 and Dynamics 365, providing versatile and cost-effective access to Dell’s experts. Dell offers new implementation services in applications and data that enable customers to modernize critical apps for Azure. Furthermore, Dell facilitates the effective utilization of artificial intelligence-powered data analytics and cloud databases while ensuring the delivery of reliable and secure applications. For example, Dell’s new DevSecOps implementation service on Azure incorporates enterprise-grade security features from Azure and GitHub into customers’ DevOps pipelines. Lastly, Dell will provide Azure with new backup and recovery services to bolster customer resiliency and safeguard their ability to restore data in the face of cyberattacks, corruption, or accidental deletion. Dell’s incident response team, with a 97% success rate in helping customers recover from cyberattacks, is highlighted as a testament to the company’s unique capabilities in this area. Holger Mueller of Constellation Research Inc. stated, “Dell is continuing its long tradition of providing additional value to customers through its partnership with Microsoft. It’s helping customers to get more out of their multi-cloud, resilience, and future-of-work investments. Customer adoption will soon tell us how well Dell has hit the nerve regarding the value proposition of these services.” Dell emphasizes that these new services build upon its successful partnership with Microsoft, which spans over 35 years and encompasses infrastructure, software, security, advisory, and digital experience. via SiliconAngle 
+Davesh Beri
+
+ 
+Davesh Beri
+
+ Was this page helpful? Let us know if you managed to solve your tech problem reading this article. We’re happy to hear that! You can subscribe to our newsletter to stay up to date with the latest news and best deals! Do you have a suggestion? We know how frustrating could be to look for an universal solution. If you have an error which is not present in the article, or if you know a better solution, please help us to improve this guide.  Δ 
+Follow us 

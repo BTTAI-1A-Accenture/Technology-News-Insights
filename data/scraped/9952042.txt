@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thestar.com/business/2023/06/27/rising-mortgage-rates-fixed-payment-woes-some-homeowners-seeing-amortization-periods-skyrocketing.html

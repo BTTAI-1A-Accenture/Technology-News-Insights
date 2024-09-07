@@ -1,0 +1,92 @@
+Adam Hayes, Ph.D., CFA, is a financial writer with 15+ years Wall Street experience as a derivatives trader. Besides his extensive derivative trading expertise, Adam is an expert in economics and behavioral finance. Adam received his master's in economics from The New School for Social Research and his Ph.D. from the University of Wisconsin-Madison in sociology. He is a CFA charterholder as well as holding FINRA Series 7, 55 & 63 licenses. He currently researches and teaches economic sociology and the social studies of finance at the Hebrew University in Jerusalem.   Capital employed, also known as funds employed, is the total amount of capital used for the acquisition of profits by a firm or project. Capital employed can also refer to the value of all the assets used by a company to generate earnings.
+  By employing capital, companies invest in the long-term future of the company. Capital employed is helpful since it’s used with other financial metrics to determine the return on a company’s assets as well as how effective management is at employing capital.
+  Capital employed can give a snapshot of how a company is investing its money. However, it is a frequently used term that is, at the same time, very difficult to define because there are so many contexts in which it can be used. All definitions generally refer to the capital investment necessary for a business to function.
+  Capital investments include stocks and long-term liabilities. It also refers to the value of assets used in the operation of a business. In other words, it is a measure of the value of assets minus current liabilities. Both of these measures can be found on the balance sheet. A current liability is the portion of debt that must be paid back within one year. In this way, capital employed is a more accurate estimate of total assets.
+  Capital employed is better interpreted by combining it with other information to form an analysis metric such as return on capital employed (ROCE).
+  
+
+
+
+
+
+
+
+Capital employed
+
+
+
+
+
+
+
+
+=
+
+
+Total assets
+
+
+−
+
+
+Current liabilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+Equity
+
+
++
+
+
+Noncurrent liabilities
+
+
+
+
+
+
+
+\begin{aligned} \text{Capital employed} &= \text{Total assets} - \text{Current liabilities} \\ &=\text{Equity} + \text{Noncurrent liabilities} \end{aligned}
+
+
+Capital employed​=Total assets−Current liabilities=Equity+Noncurrent liabilities​ Capital employed is calculated by taking total assets from the balance sheet and subtracting current liabilities, which are short-term financial obligations. Capital employed can be calculated by adding fixed assets to working capital, or by adding equity—found in the shareholders’ equity section of the balance sheet—to noncurrent liabilities, meaning long-term liabilities.
+  Capital employed is primarily used by analysts to determine the return on capital employed (ROCE). Like return on assets (ROA), investors use ROCE to get an approximation of what their return might be in the future.
+  Return on capital employed (ROCE) is thought of as a profitability ratio. It compares net operating profit with capital employed and tells investors how much each dollar of earnings is generated with each dollar of capital employed.
+  Some analysts prefer return on capital employed over return on equity and return on assets since it takes long-term financing into consideration, and is a better gauge for the performance or profitability of the company over a longer time period.
+  A higher return on capital employed suggests a more efficient company, at least in terms of capital employment. A higher number may also be indicative of a company with a lot of cash on hand since cash is included in total assets. As a result, high levels of cash can sometimes skew this metric.
+ One way to determine if a company has a good return on capital employed is to compare the company’s ROCE with that of other companies in the same sector or industry. The highest ROCE indicates the company with the best profitability among those being compared.  Return on capital employed is calculated by dividing net operating profit, or earnings before interest and taxes (EBIT), by employed capital. Another way to calculate it is by dividing earnings before interest and taxes by the difference between total assets and current liabilities.
+  A company’s ROCE can be compared with the returns from previous years. A downward trend means the company’s profitability levels are declining. Increasing ROCE means the company’s profitability is increasing as well.
+  Capital employed and equity each play a different role in a company’s capital structure. Equity is the amount of money that shareholders have invested in the company plus any retained earnings. The primary difference between capital employed and equity lies in their composition and usage.
+  While equity focuses on the owner’s investment and retained earnings, capital employed encompasses both equity and long-term debt. This broader perspective provided by capital employed allows for a more comprehensive review of how a company is doing. While equity is usually more concerned with ownership and the financial returns to shareholders, capital employed gives better insight into the overall financial structure of a company.
+  In terms of financial analysis, capital employed and equity serve different purposes. Capital employed is often used in ratios (such as the ROCE formula we talked about above). As mentioned in the last paragraph, equity is factored into formulas like return on equity (ROE) that track what value is generated for shareholders. Ultimately, each is used in different ways to collectively provide a holistic view of a company’s financial performance (focusing on both operational efficiency and shareholder value).
+  The concept of capital employed might be of bigger consequence when thinking about small businesses vs. large businesses. For small businesses, capital employed often consists primarily of the owner’s equity and a modest amount of debt. Large businesses usually have more complex capital structures involving a mix of significant equity and substantial long-term debt.
+  The nature of capital employed is sometimes different between the two because of the nature of their operations. Small businesses typically have limited access to extensive credit facilities and rely more on personal investments, small business loans, or reinvested profits. The focus for small businesses is often on maintaining liquidity and managing working capital efficiently to ensure that day-to-day operations can be sustained without financial strain. Meanwhile, the large-scale nature of large business operations often requires substantial investments in fixed assets such as property, plant, and equipment.
+  The management and optimization of capital employed may vary between small and large businesses. Small businesses typically prioritize agility and flexibility, focusing on efficient working capital management to optimize cash flow. This involves tight control over inventory, accounts receivable, and accounts payable, and this is because it may have scarcer resources compared with a larger firm. Conversely, large businesses can invest heavily in advanced technologies, large-scale projects, and expansive infrastructure. These types of businesses may also be able to secure financing at a much lower cost, meaning it’s able to collect and disburse capital at much greater scales.
+  First, the determination of capital employed involves various accounting estimates and judgments. Different accounting methods for valuing assets and liabilities such as historical cost vs. fair value can lead to varying interpretations of capital employed. This may affect the amount of capital employed by one company compared with the capital employed by another.
+  Second, capital employed calculations often do not capture the full complexity of a company’s financial commitments and obligations. For example, lease liabilities, off-balance-sheet arrangements, and contingent liabilities may not always be pulled into the calculation. These hidden obligations can significantly impact the financial health and risk profile of a business but may not be apparent in standard capital employed analyses.
+  The interpretation of capital employed can also be influenced by external economic factors and industry dynamics. Changes in interest rates, inflation rates, or specific industry/market conditions can impact the value of assets and liabilities included in capital employed calculations. For example, fluctuations in property values or currency exchange rates can affect asset and liability balances. At any given time, it’s not unusual for a company’s financial records to be in flux and changing.
+  Finally, capital employed metrics may not account for intangible assets. While tangible assets like property and equipment are typically included in capital employed calculations, intangible assets such as patents, brands, and goodwill may not be accurately valued or captured. This could severely understate the true value of a company, as it may be generating asset value associated with but technically unrelated to the cash it is directly spending.
+  There are a couple of alternative metrics you can use to analyze financial performance. Aside from capital employed, similar types of metrics may include:
+  Let’s calculate the historical return on capital employed by three tech companies—Alphabet Inc., Apple Inc., and Microsoft Corp.—for the fiscal year ending in 2023.
+  Of the three companies, Apple Inc. has the highest return on capital employed of 183.9%. A return on capital employed of 183.9% means that for every dollar invested in capital employed for 12 months ended Sept. 30, 2023, the company made almost $2 in profits. Investors are interested in the ratio to see how efficiently a company uses its capital employed as well as its long-term financing strategies.
+ Capital employed represents the total funds invested in a company’s operations, including both equity and debt. It’s crucial in finance, as it shows how effectively a company uses its resources to generate profits and assesses its financial health. In general, the higher the return on capital employed (ROCE), the better it is for a company. The ROCE calculation shows how much profit a company generates for each dollar of capital employed. The higher the number (which is expressed as a percentage), the more profit the company is generating. Return on average capital employed (ROACE) is a ratio that measures a company’s profitability vs. the investments it has made in itself. To calculate ROACE, divide earnings before interest and taxes (EBIT) by the average total assets minus the average current liabilities. ROACE differs from the return on capital employed (ROCE) because it takes into account the averages of assets and liabilities over a period of time. First, find the net value of all fixed assets on the company’s balance sheet. You’ll see this value listed as property, plant, and equipment (PP&E). Add this value to the value of all capital investments and current assets. Then subtract all current liabilities. These include all financial obligations due in a year or less. Examples of current liabilities listed on a company’s balance sheet include accounts payable, short-term debt, and dividends payable. Businesses can optimize capital employed by improving asset efficiency, managing working capital effectively, refinancing debt to lower costs, and investing in projects with higher returns.  Capital employed, or funds employed, is the total amount of capital that a company uses in capital investments to generate profits. Capital investments include stocks and long-term liabilities, as well as the value of the assets that are used in operations. Because of this, capital employed can provide a snapshot of how effectively the company is using its money.
+  Capital employed is calculated by subtracting current liabilities from total assets (total assets are the net value of all fixed assets plus all capital investments and current assets). You can also find capital employed by adding noncurrent liabilities to owners’ equity.
+  Analysts use capital employed to calculate return on capital employed (ROCE). This shows the return on a company’s investment. A higher ROCE indicates a more efficient company with more successful capital investments.
+ Fuqua School of Business, Duke University. “FSA Note: Summary of Financial Ratio Calculations,” Page 4. The Wall Street Journal. “MSFT—Financial Statements: Balance Sheets.” The Wall Street Journal. “GOOG—Financial Statements: Balance Sheets.” The Wall Street Journal. “AAPL—Financial Statements: Balance Sheets.” The Wall Street Journal. “MSFT—Financial Statements: Income Statements.” The Wall Street Journal. “GOOG—Financial Statements: Income Statements.” The Wall Street Journal. “AAPL—Financial Statements; Income Statements.”

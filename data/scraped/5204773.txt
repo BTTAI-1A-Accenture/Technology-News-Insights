@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/sap-introduces-sap-datasphere-simplify-063000663.html

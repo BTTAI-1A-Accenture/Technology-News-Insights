@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.dcourier.com/news/2023/aug/22/mcdonalds-canada-has-a-new-breakfast-sandwich/

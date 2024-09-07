@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://tucson.com/weather/interactive-map-what-are-the-odds-of-a-white-christmas/article_5227acee-87ea-5a45-b493-49a049926619.html

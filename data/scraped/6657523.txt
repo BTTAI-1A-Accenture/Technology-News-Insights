@@ -1,0 +1,42 @@
+Markets 
+
+
+ Hot Stocks 
+
+
+ Fear & Greed Index 
+
+
+ 
+            Latest Market News 
+
+
+ 
+            Hot Stocks 
+
+
+ 
+            Two US senators are calling for the creation of a new federal agency to regulate tech companies such as Amazon, Google and Meta, in the latest push by members of Congress to clamp down on Big Tech.
+     
+            Under the proposal released Thursday by Sen. Elizabeth Warren, a Massachusetts Democrat, and Sen. Lindsey Graham, a South Carolina Republican, Congress would establish a new regulatory body with the power to sue platforms — or even force them to stop operating — in response to various potential harms to customers, rivals and the general public, including anticompetitive practices, violations of consumer privacy and the spread of harmful online content.
+     
+            The new regulator would have broad jurisdiction, covering not just social media platforms or e-commerce but also the rapidly evolving field of artificial intelligence. The bill targets tech platforms including Amazon, Apple, Google, Meta, Microsoft, TikTok and Twitter, which now officially known as X, a Senate aide told CNN, though the companies aren’t directly named in the legislation.
+     
+            “For too long, giant tech companies have exploited consumers’ data, invaded Americans’ privacy, threatened our national security, and stomped out competition in our economy,” Warren said in a statement. “This bipartisan bill would create a new tech regulator and it makes clear that reining in Big Tech platforms is a top priority on both sides of the aisle.”
+     
+            The push comes after years of stalled attempts to impose new rules on large tech companies and multiple failed efforts to block deals on antitrust grounds. Some AI companies have openly welcomed the creation of a special-purpose AI regulator. Warren and Graham’s legislation, the Digital Consumer Protection Commission Act, would be the first bipartisan bill of its kind, though a similar proposal by Sen. Michael Bennet, a Colorado Democrat, has been circulating since last year. Thursday’s proposal differs from Bennet’s bill, the aide said, in that it is in some ways more specific in its restrictions on the tech industry.
+     
+            The new commission would have far-reaching authority under the bill, with the ability to make regulations for the industry, investigate claims of wrongdoing and pursue enforcement actions. For the largest companies under its purview — defined by a mixture of user numbers, revenue figures, market capitalization and other metrics — the commission would issue operating licenses that could be revoked in the case of repeat offenses, according to a copy of the bill text reviewed by CNN.
+     
+            “Enough is enough. It’s time to rein in Big Tech,” Graham and Warren wrote in an op-ed in the New York Times Thursday. “And we can’t do it with a law that only nibbles around the edges of the problem. Piecemeal efforts to stop abusive and dangerous practices have failed.”
+     
+            The legislation would also ban certain practices outright and direct the new agency to police any violations. For example, companies such as Google would not be able to prioritize its own apps and services at the top of search results or use noncompete agreements to block employees from going to work for a rival startup.
+     
+            Companies covered by the legislation would also face restrictions on how they can use Americans’ personal information for targeted advertising, in a privacy-focused move.
+     
+            And the legislation seeks to address the type of national security concerns that have been linked to TikTok by forcing “dominant” platforms to be either based in the United States or controlled by US citizens, and by restricting the companies’ ability to store data in certain countries.
+     
+            In unveiling the bill, the lawmakers drew parallels between their proposed US agency and other sector-specific regulators such as the Federal Communications Commission, which oversees the telecom and broadcast industries, and the Nuclear Regulatory Commission, which regulates nuclear power.
+     
+            But the legislation could also lead to some areas of overlap — for example, with the Federal Trade Commission and the Department of Justice overseeing antitrust issues, as well as with the FTC on consumer protection issues. The Senate aide told CNN that the bill’s intent is to see the new tech-focused commission working together with the FTC and DOJ, and that the legislation ensures both existing agencies will also be able to conduct their own enforcement as well.
+     Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

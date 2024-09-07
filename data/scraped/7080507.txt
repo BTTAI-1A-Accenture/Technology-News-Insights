@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.societe.com/societe/sa-scop-l-union-775689987.html

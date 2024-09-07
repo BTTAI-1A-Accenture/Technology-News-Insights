@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/why-paypals-stablecoin-is-likely-succeed-where-facebooks-libra-failed-2023-08-21/

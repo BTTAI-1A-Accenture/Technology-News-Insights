@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.tehrantimes.com', port=443): Max retries exceeded with url: /news/481787/How-to-choose-a-construction-software-company (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da970eec50>, 'Connection to www.tehrantimes.com timed out. (connect timeout=5)'))

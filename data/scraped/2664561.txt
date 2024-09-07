@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/rob-clark-named-president-and-chief-technology-officer-of-seekr/article_c5035ce7-828e-53fd-9e28-8680a668436a.html

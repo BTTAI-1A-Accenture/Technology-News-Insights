@@ -1,0 +1,30 @@
+
+Two-day developer conference to focus on all things AI, Algolia NeuralSearch, Conversational AI, and more
+ SAN FRANCISCO--(BUSINESS WIRE)--Algolia today announced its second annual developer conference: DevCon 2023. Taking place on June 28 and 29, the virtual conference includes developers from across Algolia’s vast global community. Algolia Chief Executive Officer Bernadette Nixon and Chief Product Officer Bharat Guruprakash will kick off proceedings with keynotes. There will be an in-person meet-up taking place in Paris, France, but all sessions will also be available online to watch.
+
+  
+Similar to other developer conferences like Google I/O and Apple’s WWDC, Algolia uses DevCon to make feature announcements for its platform and provide in-depth sessions for developers and other professionals that rely on its technology. This year’s conference is heavily focused on AI, with new additions to the Algolia platform, as well as a deep dive into Algolia NeuralSearch, Query Categorization, Conversational AI, new developer documentation, data connectors and more.
+
+ 
+“When we launched the first DevCon last year, we were thrilled by the number of developers who joined us for workshops and networking during those jam-packed two days,” said Bharat Guruprakash, Chief Product Officer at Algolia. “The Algolia team is delighted to host DevCon for the second time and further equip our developer community with the insights and innovations needed to put content in motion in new ways and discover their path to an AI-powered search and discovery. We also wish to thank our sponsors for this year’s conference, Contentful and Strapi.”
+
+ 
+As the provider of the world’s only end-to-end AI Search and Discovery platform, Algolia is dedicated to remaining at the forefront of innovation and empowering the developer community’s use of AI to put content into motion. In addition to unveiling key updates from Algolia, DevCon 2023 will feature 15+ presentations and workshops led by search and discovery and artificial intelligence thought leaders across a variety of themes, including ‘Fine-Tuning LLMs for Search,’ ‘The Impact of ChatGPT on Smart Apps,’ ‘DX delight: An Exploration of New Documentation.’
+
+ 
+For more information about DevCon 2023 or to register to attend, please visit: https://www.algolia.com/devcon/.
+
+ 
+About Algolia
+Algolia is the world’s only end-to-end AI search and discovery platform. Our engineers invented a breakthrough use of AI to create exponentially better search & discovery. Algolia’s proprietary NeuralSearch tech combines vector-based natural language processing & keyword matching in a single API. Algolia powers 1.75 trillion search requests a year or more than 30 billion a week enabling more than 17,000 customers (including Clarke, GoFundMe, Hershey, Slack, and Stripe) in 150+ countries to build blazing-fast and relevant search and discovery experiences for their in-app users and/or online visitors using any web, mobile or voice device – by surfacing the desired content instantly and at scale.
+
+ 
+Media: 
+Sean Welch
+PAN Communications for Algolia
+Algolia@pancomm.com
+ Algolia Announces 2nd Annual Developer Conference: DevCon 2023 
+Media: 
+Sean Welch
+PAN Communications for Algolia
+Algolia@pancomm.com

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.victoriaadvocate.com/carrier-energy-partners-ii-sells-eagle-ford-assets/article_6dec6cf0-d2c7-51cf-a9ef-1d2faf2e1f48.html

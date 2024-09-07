@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://dnews.com/reader_photo/whooo-will-blink-first/article_ce88c8c2-6b99-56a8-8ac5-6d8f811bc241.html

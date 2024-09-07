@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Hot off the press!! Yesterday I got my copy of Google Anthos in Action from Manning Publications delivered! Some topics, being complex and complicated, are better digested in the form of a physical book. Google Anthos is one of them. Google's documentation is good, but... it is documentation: comprehensive, detailed to the point of losing sight of the wood for the trees. This book complements the learning of Google Anthos perfectly by providing distilled experiences and best practices from the star team of 17 Googlers. It provides structure and the right level of generalisation to grasp the high-level picture without being overwhelmed while adding specific steps and information to illustrate the points discussed.  The industry examples and modernisation use cases put Google Anthos into context, which would be hard to capture in the documentation and tricky to get from articles scattered across the Internet.  There are many tricky topics, like networking/service mash, migration use cases analysis, and monolith-into-microservices, that are always hard to squeeze into 15-25 page chapters, but the book approach when each chapter is written by a subject expert, makes most of the limited space, providing you with sufficient knowledge to delve deeper into the documentation on your own.  Chapter 8 on using Anthos for Edge and Telco workloads written by my colleague Giovanni Galloro is especially recommended.  It's a perfect introduction to and navigation tool around the product for novice users, yet contains gems of wisdom and insights that even Anthos experts will find valuable. It is challenging to keep in touch with all and every aspect of this constantly evolving product. I wish I had this book back in April 2019 when Anthos was announced... or a year after... or even last year. A bit late for me, but if you start your Google Anthos journey, start it with the Google Anthos in Action which gives an excellent snapshot of what is important and what to look at now. Thanks to Ozan Seymen for flagging the book in a MEAP form 6 months ago to me. Congratulations to the team behind the book for a great job! Shout out to the Manning Publications Co. for curating another great In Action project and putting the historical city of Frascati on my tourist radar. 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

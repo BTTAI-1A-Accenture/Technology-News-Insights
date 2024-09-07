@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Cybersecurity » Analytics & Intelligence » Threat Intelligence » Stopping Abuse in the Digital Age With The Anti-Human Trafficking Intelligence Initiative At HYAS, we take pride in our effort to try to make a positive impact on the world whenever possible. Cybersecurity, of course, is a business, but stopping bad actors helps protect not only people’s livelihoods but also the critical services that we all depend on. It also prevents the profits from these activities from being funneled back into other criminal ventures. However, we are always inspired by organizations that dedicate themselves to stamping out injustice in the world. Human trafficking is one of the most horrendous yet tragically overlooked crimes of the modern age. Thankfully, there are charitable organizations like the Anti-Human Trafficking Intelligence Initiative (ATII) that are fighting to put an end to modern slavery by donating time and resources to help investigate cases and work with police to shut down this shadow industry. While boots-on-the-ground arrests by local law enforcement is the ultimate goal, in the digital age, many frontline investigators do their work entirely online. In the case of ATII, this comprises anything from transaction monitoring and block chain forensics to dark web and open source intelligence. Essentially, the charity serves as a hub for various law enforcement groups to be able to access the technology and resources they need to investigate cases. Unfortunately, the magnitude of the problem is great and encompasses many different distinct criminal enterprises. In addition to the types of trafficking that immediately come to mind, there are many forms of trafficking that receive very little coverage. Take so-called “pig butchering” scams, where enslaved workers are kept in horrific conditions and forced to work in call centers participating in phone-based scams targeted at individuals in wealthier nations.  Most of ATII’s resources come from donated time and technology, including the vital software they use for investigations. Always looking for ways to augment their capabilities, the charity discovered HYAS while researching enhanced intelligence solutions that integrated with Maltego, their existing intelligence platform. Believing in the importance of its mission and commitment to changing the world for the better, HYAS provided ATII with complete access to our advanced threat intelligence solution HYAS Insight.  “Human trafficking is in every city, every state, every country, so don’t think you’re immune to it,“ said Larry Cameron, CISO for ATII. “It happens in plain sight, but you need the data HYAS has to be able to see what’s not in plain sight.” With HYAS Insight integrated into their toolset, ATII members were able to drastically cut the average time it took to close cases and move away from a time-consuming manual process that involved using WHOIS lookups on IPs and domains. With HYAS Insight, not only was this information readily available and centralized, it also gave investigators access to historical data, a useful tool when bad actors cover their tracks by constantly switching up the domains they use. “We’re a non-profit, so we have like zero budget for software,” said Cameron, “but companies like HYAS  help us fill in the gaps.”  HYAS is proud to support organizations like ATII and their work to help create real, meaningful change in the world. When we heard about ATII’s mission, we knew we could help by giving them access to Insight’s powerful investigative abilities. Cameron touts that HYAS Insight, “Saved us weeks of investigation time.” And when it comes to an industry as nefarious as human trafficking, each minute can mean the difference between life and death.  We were glad to be able to assist the ATII with their work, but the applications for HYAS Insight extend far beyond the uses outlined above. A fully featured intelligence platform, HYAS Insight provides networking professionals with access to the information they need to more effectively carry out investigations. Combining our vast and varied data sources with our in-depth knowledge of attacker infrastructure, we are able to use advanced AI to determine the nuanced relationships between datasets to an extent that other platforms simply cannot. With this information at hand, users can pivot from dataset to dataset to uncover and attribute the source of an attack and any related infrastructure. AI-Generated Malware Is Here. Download the BlackMamba Whitepaper below  *** This is a Security Bloggers Network syndicated blog from HYAS Blog authored by HYAS. Read the original post at: https://www.hyas.com/blog/stopping-abuse-in-digital-age-with-the-anti-human-trafficking-intelligence-initiative    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

@@ -1,0 +1,29 @@
+
+Appointment helps bolster the company’s existing executive technical leadership, solidifying its commitment to operational excellence, business infrastructure systems resilience, security, and scalability
+ JFrog's new CIO, Aran Azarzar, helps further the company's commitment to operational excellence, business infrastructure, systems resilience, security, and scalability. (Photo: Business Wire) JFrog's new CIO, Aran Azarzar, helps further the company's commitment to operational excellence, business infrastructure, systems resilience, security, and scalability. (Photo: Business Wire)  SUNNYVALE, Calif.--(BUSINESS WIRE)--JFrog Ltd. (“JFrog”) (NASDAQ: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, today announced Aran Azarzar will join as the company’s global Chief Information Officer (CIO), effective immediately. In this role, Azarzar will lead the strategy and operations for JFrog’s Information Technology organization, reporting directly to co-Founder and CEO, Shlomi Ben Haim.
+  
+"As we innovate our products and scale our organization, we always aim to have a state-of-the-art technology infrastructure that meets the needs of our business growth, customers, partners, and employees’ needs, in the present and future,'' stated Ben Haim. "I'm thrilled to welcome Aran to the company, who brings with him a vast experience in modernizing systems and organizations. Under his leadership JFrog's internal systems will accelerate, optimize and have a direct impact on JFrog business infrastructure for our community and customers."
+ 
+Azarzar brings nearly two decades of extensive experience in information technology and cybersecurity to JFrog, including multiple IT leadership positions at various companies including Amdocs and Zerto. More recently, he served as CIO at NSO Group and HUB Security, where he helped establish the global systems and technology strategy for improving applications and security processes throughout the organization that led to outstanding operational performance and a better customer experience. At JFrog, Azarzar will oversee development of the company's IT infrastructure for cloud, business intelligence, and data management, further enhancing its ability to scale and deliver better value to customers. He will also lead a security-first approach to IT operations and determine how the organization can use its technological prowess to speed time-to-market and outperform competitors.
+ 
+“I’m honored to join a company with a reputation for having a strong culture, commitment to security, and sits at the heart of the technology ecosystem,” said Aran Azarzar, CIO at JFrog. “JFrog powers the software that runs the world. I’m excited to work with the leadership team, employees, and customers to anticipate what’s next, drive innovation throughout the business, and our competitive edge by ensuring we’re continuously one step ahead of emerging technologies.”
+ 
+To learn more about JFrog’s new global CIO, Aran Azarzar, read this blog. More information on JFrog and its solutions can be found at jfrog.com.
+ 
+Like this story? Tweet this: .@jfrog welcomes seasoned IT leader @aranZ as its new CIO. Learn more: https://bit.ly/3lORYy6 #SoftwareSupplyChain #security #DevOps
+ 
+About JFrog
+ 
+JFrog Ltd. (Nasdaq: FROG) is on a mission to create a world of software delivered without friction from developer to device. Driven by a “Liquid Software” vision, the JFrog Software Supply Chain Platform is a single system of record that powers organizations to build, manage, and distribute software quickly and securely, ensuring it is available, traceable, and tamper-proof. The integrated security features also help identify, protect, and remediate against threats and vulnerabilities. JFrog’s hybrid, universal, multi-cloud platform is available as both self-hosted and SaaS services across major cloud service providers. Millions of users and 7K+ customers worldwide, including a majority of the FORTUNE 100, depend on JFrog solutions to securely embrace digital transformation. Once you leap forward, you won’t go back! Learn more at jfrog.com and follow us on Twitter: @jfrog.
+ 
+Media Contact: 
+Siobhan Lyons, Sr. MarComm Manager, JFrog, siobhanL@jfrog.com
+ 
+Investor Contact: 
+Jeff Schreiner, VP of Investor Relations, jeffS@jfrog.com
+ Today JFrog announced IT systems expert and security specialist Aran Azarzar will join as the company's Global Chief Information Officer (CIO). 
+Media Contact: 
+Siobhan Lyons, Sr. MarComm Manager, JFrog, siobhanL@jfrog.com
+ 
+Investor Contact: 
+Jeff Schreiner, VP of Investor Relations, jeffS@jfrog.com

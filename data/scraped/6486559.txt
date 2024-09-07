@@ -1,0 +1,21 @@
+The University of Minnesota has been investigating a potentially significant data breach for the past month, a spokesperson confirmed on Tuesday. It’s the third major public institution in the Twin Cities to be targeted with suspicious activity recently. Minneapolis Public Schools and the Minnesota Department of Education were recently attacked by hackers, exposing thousands of Minnesotans’ data. The University of Minnesota has been working with law enforcement and has notified state and federal officials about the alleged breach since officials first learned just over a month ago “that an unauthorized party claimed to possess sensitive data allegedly taken from the university’s systems,” spokesperson Jake Ricker said in a statement. The university immediately started investigating and hired digital forensics professionals to figure out if the hacker’s claims were true and to secure the school’s computer systems, according to Ricker. It wasn’t until late Tuesday afternoon that a similar notice went out to students, faculty and staff. Officials have not said how they were alerted to the possible breach, only saying officials learned about it on July 21. On that same day, news site The Cyber Express wrote about the alleged hacker’s claims, including that they gained unauthorized access to 7 million or more Social Security numbers from digitized records dating back to 1989. Responding to questions from 5 EYEWITNESS NEWS, Ricker said, “We are aware of the claims and are working to verify if any or all of the claims made might be true.” “The preliminary assessment is that the data at issue is from 2021 and earlier,” the initial statement read. After a call from 5 EYEWITNESS NEWS, Computer Forensic Services Chief Technology Officer Mark Lanterman checked out the hacker’s claims for himself. “He hasn’t shared proof that he actually did this. Now, based on the university’s statements, I believe that he did,” Lanterman said in an interview Tuesday afternoon. “It’s not credit card information. It’s our personal information. And then just with the sheer volume of 7 million, this is a very, very significant data breach.” Although the university — and those potentially impacted — are victims of a crime, the alleged leak may have been avoidable, Lanterman added. “Why are you storing data going back that far?” he said, recommending a compliance audit of the school’s cybersecurity system. “What’s being stored? How is it being stored? Is it being stored in an encrypted state? It does not appear to be,” Lanterman continued. “And most importantly, why was that data being stored on a computer connected to the internet?” In his initial statement, Ricker listed steps the university has taken since 2021 to “bolster its overall system security through actions such as enhancing multi-factor authentication capabilities and increasing the frequency of monitoring activities” “Didn’t stop this,” Lanterman reacted. “So don’t tell me about the things that you have done that have failed. Tell us about the steps you are taking moving forward to ensure that students don’t have their personal data compromised in the future.” The university also ran scans that have not shown ongoing, related suspicious activity, Ricker’s statement added. Lanterman argued it shouldn’t have taken a month for this information to begin to reach those who could be impacted. Any person with disabilities who needs help accessing the content of the FCC Public File may contact KSTP via our online form or call 651-646-5555 This website is not intended for users located within the European Economic Area.
+					©  KSTP-TV, LLC
+					A Hubbard Broadcasting Company 
+
+
+
+KSTP Follow
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

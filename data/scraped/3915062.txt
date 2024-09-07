@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Editorial Calendar » API Security » Understanding the Evolution of OWASP API Top 10 from 2019 to 2023 The Open Web Application Security Project (OWASP) is a non-profit organization dedicated to improving software security. One of their most well-known projects is the OWASP API Security Project, which aims to provide a foundational set of security controls for APIs. In this post, we’ll explore the changes introduced in the 2023 version compared to the 2019 version of the OWASP API Top 10. The 2023 version of the OWASP API Security Top 10 introduces new categories that reflect the evolving landscape of API security threats. It emphasizes the importance of proper authorization at both the object and function levels, managing resource consumption, protecting sensitive business flows, and maintaining a proper inventory of APIs. It also introduces the concept of unsafe consumption of third-party APIs, highlighting the risks of trusting data from external sources. The 2023 version of the OWASP API Security Top 10 introduces several new categories and redefines existing ones. Here’s a sneak peek: The OWASP API Top 10 2023 version reflects the evolving landscape of API security threats and the growing importance of APIs in today’s digital world. The changes introduced have significant implications for developers, security professionals, and businesses alike. The 2023 version introduces a new category, Broken Object Property Level Authorization, which combines two categories from the 2019 version: Excessive Data Exposure and Mass Assignment. This change emphasizes the importance of proper authorization at the object property level, not just at the object level. It indicates that APIs need to be designed with granular access controls in mind, ensuring that only authorized users can access or modify specific properties of an object. The addition of Unrestricted Resource Consumption as a category highlights the importance of managing the resources required to satisfy API requests. This is particularly relevant in the era of cloud computing, where resources are billed per usage. Unrestricted resource consumption can lead to increased operational costs and even Denial of Service (DoS) if not properly managed. The new category Unrestricted Access to Sensitive Business Flows emphasizes the need to protect business logic from abuse. APIs often expose business processes that, if used excessively or in an automated manner, could harm the business. This category encourages businesses to consider the business logic implications of their APIs and implement appropriate rate limiting and abuse prevention mechanisms. The addition of Improper Inventory Management as a category highlights the importance of maintaining a proper inventory of hosts and deployed API versions. As microservices architectures and API-first approaches become more prevalent, keeping track of all deployed APIs becomes a significant challenge. This category emphasizes the need for proper API governance and lifecycle management. The new category Unsafe Consumption of APIs highlights the risks associated with trusting data received from third-party APIs. Developers often trust third-party APIs as they would internal APIs, leading to weaker security controls. This category encourages developers to treat third-party API data with the same level of scrutiny as user input. The changes in the OWASP API Top 10 2023 version underscore the evolving nature of API security threats. They highlight the need for robust authorization controls, resource management, proper inventory management, and safe third-party API consumption. As APIs continue to play a crucial role in modern applications, understanding and mitigating these risks will be key to maintaining secure systems. Free API Security Assessment  The post Understanding the Evolution of OWASP API Top 10 from 2019 to 2023 appeared first on Cequence Security. *** This is a Security Bloggers Network syndicated blog from Cequence Security authored by Jonathan Care. Read the original post at: https://www.cequence.ai/blog/api-security/evolution-of-owasp-api-top-10/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

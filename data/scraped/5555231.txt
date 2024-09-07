@@ -1,0 +1,61 @@
+News 
+  Microsoft is adding to its vast trove of video developer resources with a new miniseries starting next week on the company's YouTube and Twitch channels.
+  
+ 
+  Titled "2023 Visual Studio Miniseries: Tea & Technology," the seven-episode video series kicks off next Wednesday, Oct. 4, with a session featuring the company's Visual Studio extension guru, Mads Kristensen, titled "Transforming Ideas into Features."
+  
+ 
+  The goal of the miniseries is to provide an insider's snapshot look at some of the people who contribute to shaping the Visual Studio IDE every day.
+  
+ 
+  The series is filmed at the Redmond, Wash., campus and led by podcaster Richard Campbell from .NET Rocks. 
+  
+ 
+  As for the "Tea & Technology" name, the company said: "Much like a cup of tea fosters rich conversations, this miniseries aims to blend tech insights with meaningful dialogue. Richard Campbell, our pro host, will fuel the conversation with a medley of coding tips, sneak peeks at upcoming features, and an exploration of what the future holds for .NET and Visual Studio."
+  
+ 
+  The summary for the first episode reads: "Join veteran Principal Product Manager Mads Kristensen as he delves into the transformative journey of Visual Studio. Renowned for his extensive contributions to extensions, Mads explores how the IDE has evolved to become a comprehensive, all-in-one platform. From the power of community-driven features to the adaptability of the IDE in both individual and enterprise settings, this episode offers a sweeping view of Visual Studio's enduring appeal."
+  
+ 
+  The videos hosted on YouTube and Twitch  are mostly pretty short, ranging from 10 minutes to 27 minutes.
+  
+ 
+Other episodes include:
+  
+ 
+  "We're incredibly excited to share this series with you and can't wait for you to join us on this tech-filled journey," said Jim Harrer, senior product marketing manager, Visual Studio in an announcement post this week. "Check out the episode guide above and comment below to let me know which episodes have caught your eye. Your feedback is always valuable to us."
+  
+ 
+  Other video developer resources, such as the old Channel9 series, are available at Microsoft's Learn site.
+  
+ About the Author 
+
+                    David Ramel is an editor and writer for Converge360.
+                    
+
+ Printable Format 
+                         With Visual Studio 2022 v17.11 shipping this week, the first preview of the next edition sees Microsoft emphasizing support for the coming .NET 9 and cloud development with Aspire.
+                        
+                        
+                        
+                     
+                        Dr. James McCaffrey from Microsoft Research presents a demonstration program that models biological immune systems to identify network intrusion threats. The demo illustrates challenges with artificial immune systems as well as promising new approaches.
+                        
+                        
+                        
+                     
+                        Microsoft's Mads Kristensen heavily emphasized the community contributions that helped the dev team ship the brand-new Visual Studio 2022 version 17.11, which includes new features, improvements and fixes across the board spawned from the ideas of users. 
+                        
+                        
+                        
+                     
+                        .NET 9 is coming in November, so here is help in how to build and deploy a modern .NET 9 app using cloud and DevOps tools.
+                        
+                        
+                        
+                     
+                        "During the VS Live conference last week, it was brought to my attention that Visual Studio has no support for formatting SQL files."
+                        
+                        
+                        
+                     Subscribe on YouTube > More Webcasts Problems? Questions? Feedback? E-mail us.

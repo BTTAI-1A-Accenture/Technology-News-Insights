@@ -1,0 +1,31 @@
+ Published 2022-12-06 08:53 by Hilbert Hagedoorn And it should be treated with caution. The first benchmark results for AMD's new flagship graphics card are circulating online a week before the Radeon RX 7900 XTX and Radeon RX 7900 XT go on sale.  However, the validity is called into question, on the one hand since the benchmarks are far from reality, and on the other hand because the drivers are unlikely to be finalised just yet. The first benchmark results were provided by @BenchLeaks. The same game can now be viewed with the Radeon RX 7900 XTX, and once again it is the Geekbench V5, which is not especially important in terms of real game performance. In this regard, the necessary note comes first: When interpreting the values, use caution. Nothing needs to be perfect, and a lot can still go wrong, especially given the disparity between the two benchmark outcomes. The OpenCL, Vulkan, and CUDA scores of the GeForce RTX 4080 were leaked at the time; the latter is currently missing from the Radeon RX 7900 XTX for obvious reasons: Nvidia's CUDA API is not supported by AMD graphics devices. However, in the OpenCL benchmark, the future Radeon top model paired with an AMD Ryzen 7700X (test) on an Asus ROG Crosshair X670E Extreme obtains a score of 228,647 points, while the Vulkan benchmark achieves 179,579 points. It should be noted that in the OpenCL test run, the maximum GPU clock of the Radeon RX 7900 XTX was only 2269 MHz, but new information on Asus TUF custom designs indicates the theoretical boost clock at roughly 2600 MHz. The GPU clock is not specified in the Vulcan benchmark. It is also possible that the graphics driver used was not the final version.  First Radeon RX 7900 XTX Benchmark Result Surfaces 
+ Share this content
+
+
+ Twitter
+                                
+
+
+ Facebook
+                                
+
+
+ Reddit
+                                
+
+
+ WhatsApp
+                                
+
+
+ Email
+                                
+
+
+ Print
+                                
+ 
+
+ Dell unleashes 34-inch UWQHD OLED gaming display (AW3423DWF) 
+
+Intel Roadmap 2023 Reveals Busy Q1 2023  Copyright ©1997-2024 guru3dPowered by Contentteller® CMS System

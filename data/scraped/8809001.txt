@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://gazette.com/news/us-world/israeli-strikes-in-gaza-kill-three-senior-palestinian-armed-group-commanders/article_8184df23-4bb7-552f-859d-f00444633185.html

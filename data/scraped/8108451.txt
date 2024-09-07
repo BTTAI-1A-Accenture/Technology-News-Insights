@@ -1,0 +1,52 @@
+LAGUNA HILLS, Calif.--(BUSINESS WIRE)--BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), a global leader in neuromorphic artificial intelligence (AI) IP, and Lorser Industries Inc., a leading provider of system-level manufacturing and integration, announced today the companies will use BrainChip’s Akida™ technology to deliver neuromorphic computing solutions for software-defined radio (SDR) devices.
+
+  
+The partnership will leverage Lorser’s expertise in SDR design and manufacturing and BrainChip’s cutting-edge neuromorphic technology to create innovative, intelligent solutions that enhance the adaptability, reliability, and scale of SDR devices.
+
+ 
+In addition to sending and receiving shortwave and broadcast radio worldwide, SDR is an asset in astronomy, aerospace, geography, oceanography, navigation, and logistics. Akida’s neural network processing allows SDR devices to perform advanced tasks such as signal detection, classification, modulation/demodulation, encryption/decryption, and detect anomalies in signal or acoustic data with AI and machine learning (ML).
+
+ 
+“We believe that neuromorphic computing is the future of AI/ML, and an SDR with neuromorphic AI/ML capability will offer users significantly more functionality, flexibility, and efficiency,” said Diane Serban, CEO of Lorser Industries. “The Akida processor and IP is the ideal solution for SDR devices because of its low power consumption, high performance, and, importantly, its ability to learn on-chip, after deployment in the field.”
+
+ 
+“BrainChip and Lorser share a common interest in creating intelligent devices that can manage communication in a variety of different and evolving environments,” said Rob Telson, Vice President of Ecosystems & Partnerships at BrainChip. “Lorser, with their leadership in advanced SDR technology, is the ideal partner for us to work with on a breakthrough device with the ability to utilize AI/ML to identify patterns, detect anomalies and intelligently adapt to a range of scenarios.”
+
+ 
+Akida powers next-generation edge AI in a range of industrial, home, automotive, and scientific environments. The fully digital, customizable, event-based AI neural processor and IP is ideal for advanced AI/ML such as intelligent sensors, medical devices with extended battery life, high-end video-object detection, and ADAS/autonomous systems. Akida’s neuromorphic architecture can learn real-time on-chip, and limits energy consumption to micro watt to milli-watt ranges, making it ideal for low-power, high-efficiency applications. BrainChip is actively developing the Essential AI Ecosystem of collaborative partners: best-in-class semiconductor, software, and commercialization leaders, jointly demonstrating interoperability, functionality, and vertical value.
+
+ 
+About Lorser Industries Inc.
+ 
+Lorser Industries Inc. provides design, testing, assembly, manufacturing, software engineering, system-level manufacturing, and integration, from prototyping low volume/high mix to high volume/cost optimized production. In its 30 years of operations delivering more than 500 product designs, Lorser has become an end-to-end provider of complex technology products including supply chain management and a complete service from manufacturing, BTO/CTO, order fulfillment and aftermarket support. Its strict quality and process management protocols and procedures help deliver and mitigate risk for every customer requirement. A state-of-the-art, fully automated main manufacturing facility and headquarters in Carlsbad, Calif. offers 23,000 square feet of environmentally controlled workspace. Lorser serves clients in communications, industrial, medical, automotive, multimedia, defense and aerospace, computing and storage, and oil and gas. For more information visit https://lorserindustries.com.
+
+ 
+About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY)
+ 
+BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company’s first-to-market, fully digital, event-based AI processor, AkidaTM, uses neuromorphic principles to mimic the human brain, analyzing only essential sensor inputs at the point of acquisition, processing data with unparalleled efficiency, precision, and economy of energy. Akida uniquely enables edge learning local to the chip, independent of the cloud, dramatically reducing latency while improving privacy and data security. Akida Neural processor IP, which can be integrated into SoCs on any process technology, has shown substantial benefits on today’s workloads and networks, and offers a platform for developers to create, tune and run their models using standard AI workflows like Tensorflow/Keras. In enabling effective edge compute to be universally deployable across real world applications such as connected cars, consumer electronics, and industrial IoT, BrainChip is proving that on-chip AI, close to the sensor, is the future, for its customers’ products, as well as the planet. Explore the benefits of Essential AI at www.brainchip.com.
+
+ 
+Follow BrainChip on Twitter: https://www.twitter.com/BrainChip_inc 
+Follow BrainChip on LinkedIn: https://www.linkedin.com/company/7792006
+ 
+Media Contact: 
+Mark Smith
+JPR Communications
+818-398-1424
+
+ 
+Investor Relations: 
+Tony Dawe
+Director, Global Investor Relations
+tdawe@brainchip.com
+ BrainChip and Lorser Industries to Develop Neuromorphic Computing Systems for Software-Defined Radio Devices 
+Media Contact: 
+Mark Smith
+JPR Communications
+818-398-1424
+
+ 
+Investor Relations: 
+Tony Dawe
+Director, Global Investor Relations
+tdawe@brainchip.com

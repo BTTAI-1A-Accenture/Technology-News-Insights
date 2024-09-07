@@ -1,0 +1,48 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+Amazon Introduces AWS HealthImaging to Store and Analyze Medical Imaging Data
+ 
+					This item in
+					
+
+						japanese
+					
+
+ Aug 15, 2023
+								
+								
+								
+									
+									2
+									min read
+								
+							 by 
+
+
+Renato Losio
+
+ At the recent AWS Summit in New York, Amazon announced AWS HealthImaging. The new HIPAA-eligible service helps healthcare providers to store, analyze, and share medical imaging data at scale. AWS HealthImaging optimizes medical imaging data, storing a single authoritative copy of each image for all clinical and research workflows. The service ingests data in the DICOM P10 format and provides APIs for low-latency retrieval. It creates de-identified copies of an image without copying pixel data, providing access control at the metadata level. Tehsin Syed, general manager at AWS, and Andy Schuetz, principal product manager at AWS, write: Globally, more than 3.6 billion medical imaging procedures are performed each year, collectively generating exabytes of medical imaging data. The healthcare system is struggling to meet the growing demand for medical imaging procedures. Since 2008, the average number of imaging procedures assigned to radiologists in the US has increased from 58 per day to 100 per day. In that same period, the typical imaging study size doubled to nearly 150 MB. The new service integrates with AWS DataSync and AWS Direct Connect to move data to the cloud. According to AWS, it is already supported by major medical imaging vendors and provides access to medical imaging data with sub-second image latency: once imported, data is immediately available for research workflows and diagnostic applications like picture archiving and communication systems (PACS). Syed and Schuetz explain how the import works: Individual DICOM P10 files are imported as image frames and automatically organized in image sets with consistent metadata at the patient, study, and series levels. (...) The pixel data for each DICOM P10 file is encoded as High-Throughput JPEG 2000 (HTJ2K), a state-of-the-art image compression codec offering efficient lossless compression and resolution scalability. HealthImaging validates that all data is transcoded successfully by adding checksums for each frame, so customers can verify the lossless image processing upon retrieving an image frame. Jeremy Bikman, president & CEO at Reaction Data, writes: For the past 5 years, I've warned every medical imaging supplier that it was a matter of when, not if, Amazon would truly enter the space beyond providing just cloud services. Well, the other shoe finally dropped. Now the question is how long before they move upstream and start displacing solutions radiologists actually use. AWS HealthImaging is not the only managed service announced at the summit targeting the medical industry. As separately reported on InfoQ, the cloud provider also previewed AWS HealthScribe, a new HIPAA-eligible service that uses speech recognition and generative AI to generate clinical documentation. Commenting on the announcements, Corey Quinn, chief cloud economist at The Duckbill Group, writes: This is a prime example of AWS's industry-vertical approach: slap an industry name on a barely differentiated version of a baseline service. Trouble is, customers are sophisticated when it comes to their specific industries, and they aren't fooled. Virtually every previous incarnation of this pattern lands well with the tech press and the analyst firms, but actual customers pan them. HealthImaging charges according to the amount of data stored and accessed, offering a tiered storage similar to the S3 Intelligent-Tiering storage class. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

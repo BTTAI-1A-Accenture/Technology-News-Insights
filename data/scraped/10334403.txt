@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/zoetis-welcomes-officials-to-celebrate-new-r-d-building-in-durham-n-c/article_05027609-fe86-595d-9827-49b4c02ae875.html

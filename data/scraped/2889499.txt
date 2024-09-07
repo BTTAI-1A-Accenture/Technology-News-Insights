@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/press-release/capacitive-touch-panel-pc-market-projections-and-regional-outlook-depth-study-analysis-key-drivers-top-players-trends-and-forecast-2023-2029-2023-01-23

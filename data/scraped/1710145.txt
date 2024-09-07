@@ -1,0 +1,1 @@
+502 Server Error: Bad Gateway for url: https://www.cnet.com/personal-finance/a-w-settles-for-15m-over-misleading-ad-claims-the-deadline-to-submit-a-claim-is-tomorrow/

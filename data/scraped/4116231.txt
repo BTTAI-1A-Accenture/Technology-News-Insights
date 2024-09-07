@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.lse.co.uk/rns/AUTO/transaction-in-own-shares-iekdiq72cv84ym3.html

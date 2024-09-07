@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/gnwcq-2022-12-20-fuelcell-energy-reports-fourth-quarter-of-fiscal-2022-results (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da93e9dcc0>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

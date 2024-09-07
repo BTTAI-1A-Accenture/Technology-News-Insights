@@ -1,0 +1,29 @@
+If you’re someone who has multiple email accounts, it can be challenging to keep track of all your emails. Mozilla Thunderbird is a free and open-source email client that can help you manage your emails efficiently. One of its most useful features is the ability to read emails from multiple accounts in one unified inbox. In this article, we’ll show you how to set up a unified inbox in Mozilla Thunderbird. Step 1: Install Mozilla Thunderbird If you don’t have Mozilla Thunderbird installed on your computer, you can download it for free from the Mozilla website. Once you’ve downloaded and installed the software, open it up. Step 2: Add Email Accounts To add your email accounts, click on the “File” menu in the top left corner of the screen and select “New” followed by “Existing Mail Account.” Enter your name, email address, and password, and Thunderbird will automatically detect the settings for your email account. Repeat this step for each email account you want to add to Thunderbird. Step 3: Create a Unified Inbox Once you’ve added your email accounts to Thunderbird, you can create a unified inbox to see all your emails in one place. To do this, click on the “View” menu and select “Folders” followed by “Unified.” Thunderbird will now show you a unified view of all your email accounts. Step 4: Customize Your View If you want to customize your unified inbox, you can do so by clicking on the “View” menu and selecting “Message List Columns.” Here, you can choose which columns to display, such as sender, subject, and date. Step 5: Manage Your Emails Now that you have a unified inbox, you can manage your emails more efficiently. You can sort your emails by date, sender, or subject, and you can use Thunderbird’s powerful search feature to find specific emails quickly. Conclusion Managing multiple email accounts can be overwhelming, but with Mozilla Thunderbird’s unified inbox feature, you can keep track of all your emails in one place. Setting up a unified inbox is easy, and once you’ve done it, you’ll wonder how you ever managed without it. Give it a try today and see how much more efficiently you can manage your emails. Signup for The Tech Edvocate Newsletter and have the latest in EdTech news and opinion delivered to your email address! 
+ 
+Email address: 
+
+ 
+First Name
+
+ 
+Last Name
+
+ 
+
+ Since technology is not going anywhere and does more good than harm, adapting is the best course of action. That is where The Tech Edvocate comes in. We plan to cover the PreK-12 and Higher Education EdTech sectors and provide our readers with the latest news and opinion on the subject. From time to time, I will invite other voices to weigh in on important issues in EdTech. We hope to provide a well-rounded, multi-faceted look at the past, present, the future of EdTech in the US and internationally. We started this journey back in June 2016, and we plan to continue it for many more years to come. I hope that you will join us in this discussion of the past, present and future of EdTech and lend your own insight to the issues that are discussed. Signup for The Tech Edvocate Newsletter and have the latest in EdTech news and opinion delivered to your email address! 
+ 
+Email address: 
+
+ 
+First Name
+
+ 
+Last Name
+
+ 
+
+ The Tech Edvocate
+910 Goddin Street
+Richmond, VA 23231
+(601) 630-5238
+[email protected]

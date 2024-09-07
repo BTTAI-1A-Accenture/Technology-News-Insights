@@ -1,0 +1,1 @@
+HTTPConnectionPool(host='markets.buffalonews.com', port=80): Max retries exceeded with url: /buffnews/article/gnwcq-2023-4-5-ine-recognized-as-spring-2023-enterprise-leader-by-g2 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x79da96f3d1b0>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

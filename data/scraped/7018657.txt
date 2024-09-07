@@ -1,0 +1,14 @@
+
+            The AI Assist feature incorporates generative AI and language models to speed up actioning contracts
+         LawVu has bolstered its legal workspace software platform by integrating AI to speed up the process of actioning contracts. The new AI Assist feature incorporates Microsoft Azure OpenAI’s generative AI and language models. The tool examines and sums up crucial information from contracts such as the parties involved, key dates, signatories, scope, liabilities, and warranties. The tool can also pinpoint contract renewal and expiry dates. Moreover, users can offer feedback on the accuracy and value of the software’s response through a ‘thumbs up or down’ vote, enabling the software to “learn on the job,” LawVu explained. The advancements to LawVu’s software stemmed from a strategic collaboration between LawVu and Microsoft. The developments were initiated in response to findings from LawVu’s In-house Legal Technology report, which identified efficiency and productivity as a “pressing” priority for in-house legal teams and their businesses. “A key barrier to driving productivity stems from in-house legal teams’ lack of access to the latest technology. Typically, these teams have access to rich data sets that contain a wealth of information about the business, but lack the resources to unlock the insights this data holds,” LawVu said. Through its participation in the Microsoft AI First Movers program, LawVu gained early access to Microsoft’s AI technology, which the legaltech company used to develop new tools. Other new features were developed by leveraging Microsoft’s Azure Form Recognizer and Zuva’s DocAI, including the AI Contract Import and Review feature and the AI Contract Extraction tool, which “pulls critical data from contracts into in-house legal teams’ record systems, so it can be used for alerts, notifications and reporting.” The tool “also helps to create a standardised, complete dataset to facilitate reporting functions,” LawVu said. “LawVu is supercharging the capabilities of in-house legal teams with AI,” said Lee Hickin, chief technology officer at Microsoft Australia and New Zealand. “We are excited to witness and support their journey in augmenting what teams can do to drive efficiency, reduce burnout and improve the employee experience in the legal field.” 
+            Subscribe to our FREE newsletter service and we’ll keep you up-to-date with the latest breaking news, cutting edge opinion, and expert analysis affecting both your business and the industry as whole.
+         
+            Please enter your email address below and click on Sign Up for daily newsletters from NZ Lawyer.
+         
+15 Aug 2024
+ 
+16 Aug 2024
+ 
+14 Aug 2024
+ 
+14 Aug 2024

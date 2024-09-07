@@ -1,0 +1,723 @@
+
+					Covering the business and politics of space				 Ever since humanity gained access to space, observation satellites, also known as “reconnaissance satellites,” have become a highly sought-after strategic capability for many nations. These satellites employ optical sensors for daytime reconnaissance, infrared imaging for night observation, and Synthetic Aperture Radar (SAR) imaging, allowing all-weather, day, and night observation, which can also overcome obscurants. 
+
+
+
+
+
+IAI, a world-leading high-end reconnaissance satellite provider, offers both Electro-Optic (EO) and SAR capabilities. Designed as compact mini-satellites, they can be launched into orbit by smaller satellite launchers or ride-share with larger satellites on commercial missions. Built on IAI’s rich heritage of observation satellites, the OPTSAT 3000 represents the third-generation IAI’s EO Observation Satellites. This versatile system is designed to meet multi-purpose applications and critical national requirements. With the associated ground control stations, also developed and built by IAI, OPTSAT 3000 provides operational autonomy and full sovereignty to its customers. With high geo-location accuracy, these satellites deliver excellent image quality, agility, and multimode imaging capability. 
+
+
+
+
+
+The TecSAR Family 
+The TecSAR satellite family complements the EO satellites by extending observation capability where, or when, EO observation is limited. Despite its compact size, it offers enhanced performance and agility compared to equivalent satellites, and its outstanding maneuverability and image resolution provides high image quality. TecSAR excels in all weather conditions and any time of day thanks to its IAI’s ELM-2070 lightweight SAR, specifically designed for Low Earth Orbiting (LEO) Image Intelligence (IMINT) Satellites. Leveraging the platform’s maneuverability and multi-beam electronic antenna steering, the ELM-2070 covers large areas and produces high-quality SAR images of state of the art resolution for any area of interest worldwide. 
+
+
+
+
+
+The radar supports Scan, Strip, Spot, and Mosaic SAR modes, employing electronic and mechanical steering to obtain highly detailed images and achieve high-resolution coverage of extensive areas. Additional SAR modes enhance even more the imaging quality and target discrimination. 
+
+
+
+
+
+In addition to the space segment, IAI provides the Ground Imaging Exploitation Segment (IES), which enables users to receive raw data from the satellite, process it into SAR images, and distribute the results to relevant agencies. The IES facilitates automatic target, cluster, or change detections, report generation, and dissemination. 
+
+
+The Younger Siblings 
+With the increasing demand for satellite reconnaissance and the need for continuous surveillance of areas of interest, satellite manufacturers and operators turn to satellite constellations consisting of smaller satellites. To meet the demand, these constellations should provide higher revisit rates, with uncompromised performance, and at an affordable cost. 
+
+
+
+
+
+IAI’s new generation of Micro Satellites leads this trend. The family includes three platforms: OptSAT 500 EO Microsatellite, TecSAR xp Micro-SAR Satellite, and OptSAR 550, a hybrid platform combining both EO and SAR capabilities. These satellites are designed for easy assembly and rapid delivery to customers in space, providing a seven-year mission lifetime and ensuring strategic advantage from space is achieved swiftly. 
+
+
+
+
+
+OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ IAI, a world-leading high-end reconnaissance satellite provider, offers both Electro-Optic (EO) and SAR capabilities. Designed as compact mini-satellites, they can be launched into orbit by smaller satellite launchers or ride-share with larger satellites on commercial missions. Built on IAI’s rich heritage of observation satellites, the OPTSAT 3000 represents the third-generation IAI’s EO Observation Satellites. This versatile system is designed to meet multi-purpose applications and critical national requirements. With the associated ground control stations, also developed and built by IAI, OPTSAT 3000 provides operational autonomy and full sovereignty to its customers. With high geo-location accuracy, these satellites deliver excellent image quality, agility, and multimode imaging capability. 
+
+
+
+
+
+The TecSAR Family 
+The TecSAR satellite family complements the EO satellites by extending observation capability where, or when, EO observation is limited. Despite its compact size, it offers enhanced performance and agility compared to equivalent satellites, and its outstanding maneuverability and image resolution provides high image quality. TecSAR excels in all weather conditions and any time of day thanks to its IAI’s ELM-2070 lightweight SAR, specifically designed for Low Earth Orbiting (LEO) Image Intelligence (IMINT) Satellites. Leveraging the platform’s maneuverability and multi-beam electronic antenna steering, the ELM-2070 covers large areas and produces high-quality SAR images of state of the art resolution for any area of interest worldwide. 
+
+
+
+
+
+The radar supports Scan, Strip, Spot, and Mosaic SAR modes, employing electronic and mechanical steering to obtain highly detailed images and achieve high-resolution coverage of extensive areas. Additional SAR modes enhance even more the imaging quality and target discrimination. 
+
+
+
+
+
+In addition to the space segment, IAI provides the Ground Imaging Exploitation Segment (IES), which enables users to receive raw data from the satellite, process it into SAR images, and distribute the results to relevant agencies. The IES facilitates automatic target, cluster, or change detections, report generation, and dissemination. 
+
+
+The Younger Siblings 
+With the increasing demand for satellite reconnaissance and the need for continuous surveillance of areas of interest, satellite manufacturers and operators turn to satellite constellations consisting of smaller satellites. To meet the demand, these constellations should provide higher revisit rates, with uncompromised performance, and at an affordable cost. 
+
+
+
+
+
+IAI’s new generation of Micro Satellites leads this trend. The family includes three platforms: OptSAT 500 EO Microsatellite, TecSAR xp Micro-SAR Satellite, and OptSAR 550, a hybrid platform combining both EO and SAR capabilities. These satellites are designed for easy assembly and rapid delivery to customers in space, providing a seven-year mission lifetime and ensuring strategic advantage from space is achieved swiftly. 
+
+
+
+
+
+OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ The TecSAR Family 
+The TecSAR satellite family complements the EO satellites by extending observation capability where, or when, EO observation is limited. Despite its compact size, it offers enhanced performance and agility compared to equivalent satellites, and its outstanding maneuverability and image resolution provides high image quality. TecSAR excels in all weather conditions and any time of day thanks to its IAI’s ELM-2070 lightweight SAR, specifically designed for Low Earth Orbiting (LEO) Image Intelligence (IMINT) Satellites. Leveraging the platform’s maneuverability and multi-beam electronic antenna steering, the ELM-2070 covers large areas and produces high-quality SAR images of state of the art resolution for any area of interest worldwide. 
+
+
+
+
+
+The radar supports Scan, Strip, Spot, and Mosaic SAR modes, employing electronic and mechanical steering to obtain highly detailed images and achieve high-resolution coverage of extensive areas. Additional SAR modes enhance even more the imaging quality and target discrimination. 
+
+
+
+
+
+In addition to the space segment, IAI provides the Ground Imaging Exploitation Segment (IES), which enables users to receive raw data from the satellite, process it into SAR images, and distribute the results to relevant agencies. The IES facilitates automatic target, cluster, or change detections, report generation, and dissemination. 
+
+
+The Younger Siblings 
+With the increasing demand for satellite reconnaissance and the need for continuous surveillance of areas of interest, satellite manufacturers and operators turn to satellite constellations consisting of smaller satellites. To meet the demand, these constellations should provide higher revisit rates, with uncompromised performance, and at an affordable cost. 
+
+
+
+
+
+IAI’s new generation of Micro Satellites leads this trend. The family includes three platforms: OptSAT 500 EO Microsatellite, TecSAR xp Micro-SAR Satellite, and OptSAR 550, a hybrid platform combining both EO and SAR capabilities. These satellites are designed for easy assembly and rapid delivery to customers in space, providing a seven-year mission lifetime and ensuring strategic advantage from space is achieved swiftly. 
+
+
+
+
+
+OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ The TecSAR satellite family complements the EO satellites by extending observation capability where, or when, EO observation is limited. Despite its compact size, it offers enhanced performance and agility compared to equivalent satellites, and its outstanding maneuverability and image resolution provides high image quality. TecSAR excels in all weather conditions and any time of day thanks to its IAI’s ELM-2070 lightweight SAR, specifically designed for Low Earth Orbiting (LEO) Image Intelligence (IMINT) Satellites. Leveraging the platform’s maneuverability and multi-beam electronic antenna steering, the ELM-2070 covers large areas and produces high-quality SAR images of state of the art resolution for any area of interest worldwide. 
+
+
+
+
+
+The radar supports Scan, Strip, Spot, and Mosaic SAR modes, employing electronic and mechanical steering to obtain highly detailed images and achieve high-resolution coverage of extensive areas. Additional SAR modes enhance even more the imaging quality and target discrimination. 
+
+
+
+
+
+In addition to the space segment, IAI provides the Ground Imaging Exploitation Segment (IES), which enables users to receive raw data from the satellite, process it into SAR images, and distribute the results to relevant agencies. The IES facilitates automatic target, cluster, or change detections, report generation, and dissemination. 
+
+
+The Younger Siblings 
+With the increasing demand for satellite reconnaissance and the need for continuous surveillance of areas of interest, satellite manufacturers and operators turn to satellite constellations consisting of smaller satellites. To meet the demand, these constellations should provide higher revisit rates, with uncompromised performance, and at an affordable cost. 
+
+
+
+
+
+IAI’s new generation of Micro Satellites leads this trend. The family includes three platforms: OptSAT 500 EO Microsatellite, TecSAR xp Micro-SAR Satellite, and OptSAR 550, a hybrid platform combining both EO and SAR capabilities. These satellites are designed for easy assembly and rapid delivery to customers in space, providing a seven-year mission lifetime and ensuring strategic advantage from space is achieved swiftly. 
+
+
+
+
+
+OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ The radar supports Scan, Strip, Spot, and Mosaic SAR modes, employing electronic and mechanical steering to obtain highly detailed images and achieve high-resolution coverage of extensive areas. Additional SAR modes enhance even more the imaging quality and target discrimination. 
+
+
+
+
+
+In addition to the space segment, IAI provides the Ground Imaging Exploitation Segment (IES), which enables users to receive raw data from the satellite, process it into SAR images, and distribute the results to relevant agencies. The IES facilitates automatic target, cluster, or change detections, report generation, and dissemination. 
+
+
+The Younger Siblings 
+With the increasing demand for satellite reconnaissance and the need for continuous surveillance of areas of interest, satellite manufacturers and operators turn to satellite constellations consisting of smaller satellites. To meet the demand, these constellations should provide higher revisit rates, with uncompromised performance, and at an affordable cost. 
+
+
+
+
+
+IAI’s new generation of Micro Satellites leads this trend. The family includes three platforms: OptSAT 500 EO Microsatellite, TecSAR xp Micro-SAR Satellite, and OptSAR 550, a hybrid platform combining both EO and SAR capabilities. These satellites are designed for easy assembly and rapid delivery to customers in space, providing a seven-year mission lifetime and ensuring strategic advantage from space is achieved swiftly. 
+
+
+
+
+
+OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ In addition to the space segment, IAI provides the Ground Imaging Exploitation Segment (IES), which enables users to receive raw data from the satellite, process it into SAR images, and distribute the results to relevant agencies. The IES facilitates automatic target, cluster, or change detections, report generation, and dissemination. 
+
+ The Younger Siblings 
+With the increasing demand for satellite reconnaissance and the need for continuous surveillance of areas of interest, satellite manufacturers and operators turn to satellite constellations consisting of smaller satellites. To meet the demand, these constellations should provide higher revisit rates, with uncompromised performance, and at an affordable cost. 
+
+
+
+
+
+IAI’s new generation of Micro Satellites leads this trend. The family includes three platforms: OptSAT 500 EO Microsatellite, TecSAR xp Micro-SAR Satellite, and OptSAR 550, a hybrid platform combining both EO and SAR capabilities. These satellites are designed for easy assembly and rapid delivery to customers in space, providing a seven-year mission lifetime and ensuring strategic advantage from space is achieved swiftly. 
+
+
+
+
+
+OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ With the increasing demand for satellite reconnaissance and the need for continuous surveillance of areas of interest, satellite manufacturers and operators turn to satellite constellations consisting of smaller satellites. To meet the demand, these constellations should provide higher revisit rates, with uncompromised performance, and at an affordable cost. 
+
+
+
+
+
+IAI’s new generation of Micro Satellites leads this trend. The family includes three platforms: OptSAT 500 EO Microsatellite, TecSAR xp Micro-SAR Satellite, and OptSAR 550, a hybrid platform combining both EO and SAR capabilities. These satellites are designed for easy assembly and rapid delivery to customers in space, providing a seven-year mission lifetime and ensuring strategic advantage from space is achieved swiftly. 
+
+
+
+
+
+OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ IAI’s new generation of Micro Satellites leads this trend. The family includes three platforms: OptSAT 500 EO Microsatellite, TecSAR xp Micro-SAR Satellite, and OptSAR 550, a hybrid platform combining both EO and SAR capabilities. These satellites are designed for easy assembly and rapid delivery to customers in space, providing a seven-year mission lifetime and ensuring strategic advantage from space is achieved swiftly. 
+
+
+
+
+
+OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ OptSAT 500 is a high-performance microsatellite designed for Stand Alone and constellation configurations. It is compatible with PAN, MS, SWIR, and Video sensors, offering a uniquely high native ground resolution. OptSAT 500 provides high-quality images, wide coverage capability, and optimal performance in a cost-effective package. 
+
+
+
+
+
+TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ TecSAR xp is a similar microsatellite with a small, wideband high-end SAR system that enables effective detection in a single-look mode. With its extensive coverage in range and azimuth, TecSAR xp delivers near real-time, high-quality products with an unprecedented resolution for micro-satellites. It supports different operating modes with high imaging resolution over land and maritime areas, with exceptional imaging quality and throughput. 
+
+
+
+
+
+OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ OptSAR 550 represents a revolutionary EO/SAR/Dual imagery with a high-end microsatellite, ideally suited for strategic applications. It combines the capabilities of both the OptSAT 500 and the TecSAR xp into a single platform. This unique feature enables a multi-sensor superior and detailed investigation of targets from space. Additionally, the satellite’s high maneuverability ensures effective imaging of close targets and rapid image acquisition cycles. 
+
+
+
+
+
+As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ As a leading provider, IAI offers a range of reconnaissance satellites, from the third-generation EO Observation Satellite OPTSAT 3000 and the highly maneuverable TecSAR Family to the new Micro Satellites, such as OptSAT 500, TecSAR xp, and OptSAR 550. These smaller yet powerful satellites are suitable for constellation operation, enabling continuous surveillance and high revisit rates. Delivering advanced capabilities at affordable cost, these satellites are becoming indispensable strategic assets for national security. 
+
+
+
+
+						
+
+
+
+Sponsored by IAI 
+
+
+
+
+
+As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+
+
+ As Israel's National Space House, IAI leads space programs for national security, scientific research, and commercial applications for Israel's MOD, foreign governments and private entities.
+
+
+
+
+IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+ IAI space prowess is demonstrated in +40 years of experience and expertise in space technologies and New Space approach to achieve top-tier performance. Focused on small to medium-size satellites and spacecraft, IAI offers end-to-end turnkey solutions, including the state-of-the-art ground segment.
+
+
+
+
+										Learn more about IAI									
+ all dispatches >> all events >> Get top stories, military space news and more delivered to your inbox.

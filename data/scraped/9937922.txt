@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.galvnews.com/news_ap/business/vanta-names-security-leader-david-eckstein-as-cfo/article_50411880-96c2-5462-a328-9db2b25586be.html

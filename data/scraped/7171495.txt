@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.valdostadailytimes.com/ap/business/trulieve-opening-relocated-medical-cannabis-dispensary-in-melbourne-florida/article_f6467574-4ae6-5be9-b893-a8fdc04237cb.html

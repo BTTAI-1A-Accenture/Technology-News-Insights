@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='breakingnewsalbuquerque.com', port=443): Max retries exceeded with url: /ftts-price-surged-in-the-last-24h-recovery-or-upcoming-dump/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da9706eef0>: Failed to resolve 'breakingnewsalbuquerque.com' ([Errno -2] Name or service not known)"))

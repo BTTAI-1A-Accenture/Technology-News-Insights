@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.sis.gov.eg', port=443): Max retries exceeded with url: /Story/174794/Telecommunications-Minister%2C-Indian-Ambassador-in-Cairo-discuss-joint-cooperation?lang=en-us (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))

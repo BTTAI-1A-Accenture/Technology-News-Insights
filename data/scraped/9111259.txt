@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/oro-and-supplycore-secure-top-honors-at-2023-supply-demand-chain-executives-top-supply-chain/article_f92a4f26-39cc-5197-9615-b15be56122ca.html

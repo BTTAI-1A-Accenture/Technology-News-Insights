@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/hyperfine-inc-receives-fda-clearance-for-updated-software-to-further-improve/article_b52b9c5f-1411-537e-8227-dc18f8c7c8ad.html

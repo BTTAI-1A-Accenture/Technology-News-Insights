@@ -1,0 +1,1 @@
+HTTPConnectionPool(host='markets.buffalonews.com', port=80): Max retries exceeded with url: /buffnews/article/prlog-2023-4-12-daniel-imperato-for-president-2024-to-rally-the-troops-across-america (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x79da9707a9e0>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

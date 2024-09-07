@@ -1,0 +1,72 @@
+A whale with a lot of money to spend has taken a noticeably bullish stance on Affirm Holdings. Looking at options history for Affirm Holdings AFRM we detected 14 strange trades. If we consider the specifics of each trade, it is accurate to state that 57% of the investors opened trades with bullish expectations and 42% with bearish. From the overall spotted trades, 11 are puts, for a total amount of $500,179 and 3, calls, for a total amount of $153,378. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $19.5 to $29.0 for Affirm Holdings over the last 3 months.  Looking at the volume and open interest is a powerful move while trading options. This data can help you track the liquidity and interest for Affirm Holdings's options for a given strike price. Below, we can observe the evolution of the volume and open interest of calls and puts, respectively, for all of Affirm Holdings's whale trades within a strike price range from $19.5 to $29.0 in the last 30 days.   
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+AFRM
+PUT
+SWEEP
+BEARISH
+10/20/23
+$25.00
+$101.2K
+366
+339
+
+
+AFRM
+PUT
+TRADE
+BEARISH
+09/22/23
+$29.00
+$101.0K
+200
+200
+
+
+AFRM
+CALL
+SWEEP
+BEARISH
+09/15/23
+$19.50
+$90.2K
+909
+235
+
+
+AFRM
+PUT
+SWEEP
+BULLISH
+11/17/23
+$25.00
+$55.1K
+2.1K
+553
+
+
+AFRM
+PUT
+SWEEP
+BULLISH
+11/17/23
+$25.00
+$53.2K
+2.1K
+238
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for Affirm Holdings, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.magnoliareporter.com/news_and_business/local_business/article_b06745da-5dd9-11ee-ba45-0b09c9dbe7a2.html

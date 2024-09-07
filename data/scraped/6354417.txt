@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/herddogg-announces-the-appointment-of-john-longoria-as-vice-president-of-sales-and-customer-service/article_8a6820ab-3d66-58af-a76b-321a0a934f21.html

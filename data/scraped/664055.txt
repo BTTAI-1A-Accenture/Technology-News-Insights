@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/press-release/oil-shale-market-2023-by-global-trends-recent-developments-opportunities-business-size-and-regional-segmentations-forecast-to-2027-2023-01-31

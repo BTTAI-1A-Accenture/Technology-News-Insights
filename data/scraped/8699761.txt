@@ -1,0 +1,26 @@
+
+Verocel Inc., a leading independent software verification company serving the global safety-critical software industry, announced today it has signed an agreement with GMV, to develop the safety computer platform for the Southern Positioning Augmentation Network system, known as SouthPAN. The development and operation of this program, commissioned by Geoscience Australia and Toit? Te Whenua Land Information New Zealand, is being undertaken by a consortium spearheaded by Lockheed Martin Australia.
+
+ 
+Verocel was selected by GMV to design, construct and develop the SouthPAN safety computers which includes the chassis, infrastructure software, custom and the commercial off-the-shelf hardware. Verocel has teamed with Curtiss-Wright Controls, Defense Systems Group, and Atrenne Computing Solutions to provide components that comprise the hardware platform for the SouthPAN safety computer.
+
+ 
+The SouthPAN SBAS and precise positioning systems augment generic satellite-based navigation capabilities and have applications in industries as diverse as airborne navigation, agriculture and road, maritime, and rail transportation, as well as in the field of geomatics. SouthPAN will accelerate the development of applications in all of these areas. Most importantly, SouthPAN will be the first SBAS in the southern hemisphere while also delivering precise positioning services with accuracy improved from 5-10 metres to as little as 10 centimetres.
+
+ 
+"GMV, as the organization responsible for providing the SouthPAN Central Processing Facility, selected Verocel as the hardware supplier for the critical component ensuring the integrity of navigation augmentation in the program," said José Caro, Director of Navigation Augmentation Systems and Services at GMV. "This decision was made based on Verocel's extensive experience in the sector, their successful track record with similar systems, and their strong reputation. The confidence in this decision is being justified by the excellent contributions and flexibility that Verocel has demonstrated during the early stages of the program."
+
+ 
+"Verocel is proud to play a key role in the SouthPAN safety computer development and production," said Jim Chelini, president of Verocel. "This production win underscores our decades experience in development of satellite-based augmentation systems and showcases our capabilities as both as developers and as independent verifiers of safety-critical software and systems."
+
+ 
+Verocel has prior experience in developing and producing the safety computers for the existing US-based Wide-Area Augmentation System as well as MSAS (Multi-functional Satellite Augmentation System), used in Japan. Verocel is also the developer of RTCA/DO-278 certification evidence for the board support software used in SouthPAN, and developed the hardware comparator-based voting logic using RTCA/DO-254.
+
+ 
+About Verocel, Inc.
+ 
+Verocel (www.verocel.com) provides expertise and services for software verification in the safety-critical software industry. With a strong presence in the U.S. and in Europe, Verocel has extensive experience providing safety-critical software tools and services in the aerospace, automotive, and industrial systems.
+
+ 
+Tools include Software Lifecycle Management tools and services include development and review of software plans and standards, software requirement and test development, software structural coverage analyses, life cycle data traceability, and outsource support.
+

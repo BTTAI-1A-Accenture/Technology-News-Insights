@@ -1,0 +1,47 @@
+
+Semtech’s LoRa devices and gateways utilizing LoRaWAN® help to improve farming practices, lower operational costs and increase crop yields
+ Sustainable Hrvest has deployed LoRa-enabled sensors and LoRaWAN-based gateways across its Durian fruit farms in greater Malaysia, to improve farming practices, lower operational costs and increase crop yields. (Photo: Business Wire) Sustainable Hrvest has deployed LoRa-enabled sensors and LoRaWAN-based gateways across its Durian fruit farms in greater Malaysia, to improve farming practices, lower operational costs and increase crop yields. (Photo: Business Wire)  CAMARILLO, Calif.--(BUSINESS WIRE)--Semtech Corporation (Nasdaq: SMTC), a high-performance semiconductor, IoT systems and Cloud connectivity service provider, announces that Sustainable Hrvest Sdn Bhd (SH) has deployed LoRa-enabled sensors and LoRaWAN-based gateways across its Durian fruit farms in greater Malaysia. While one of the country’s most popular fruits, Durian trees are challenging to grow and harvest. These plants are sensitive to weather and moisture conditions and need 24X7 maintenance for high yield. LoRa-enabled sensors now give Malaysian farmers real-time data on the health of their farms every step of the growth cycle from pre-harvest, harvest, until post-harvest. This real-time visibility has made farmers' lives easier, while also helping improve their bottom line.
+
+ 
+LoRa is the de facto wireless platform of Internet of Things (IoT). Semtech's LoRa chipsets connect sensors to the Cloud and enable real-time communication of data and analytics. This instantaneous management helps to enhance the efficiency and productivity of sustainable IoT use cases. Globally, there are more than 300 million LoRa end nodes deployed across a wide array of customer applications from agriculture and healthcare to industrial and transportation, and more.
+
+ 
+“We founded this company to address the farming barriers and pain points here in Malaysia. To better serve our community, we knew that we needed to improve farming practices, reduce operational costs, and help farmers deliver better yields,” said Han Wei, co-founder, and chief technology officer at SH. “LoRa was an easy choice for our team. One of our biggest farms, Musang Valley Plantation, is more than 700 acres with 11,000 Durian trees. The land includes many steep hillsides which make managing the crops challenging. LoRa monitors the trees, alerts the farmer if there is an issue, and allows them to take immediate action. This response saves not only time, but also mitigates potential tree loss and revenue. Sustainable IoT and LoRa have completely overhauled farming in Malaysia.”
+
+ 
+Currently, there are 30 LoRa-powered farms in Malaysia with new plantations expected to go live in the coming 12 months. Designed by Sustainable Hrvest, the IoT nodes utilizing LoRaWAN implement LoRa’s low power, long range sensors and last upwards of four years in the field without needing replacement. This purpose-built chip-to-Cloud sensor platform monitors the flow rate and pressure of irrigation systems to maintain soil moisture levels. It also tracks the nutrients in the soil. The data-driven farming practice gives Malaysian farmers the ability to remotely care for their crops and helps to deliver a more sustainable planet for future generations.
+
+ 
+About Semtech
+ 
+Semtech Corporation (Nasdaq: SMTC) is a high-performance semiconductor, IoT systems and Cloud connectivity service provider dedicated to delivering high quality technology solutions that enable a smarter, more connected and sustainable planet. Our global teams are dedicated to empowering solution architects and application developers to develop breakthrough products for the infrastructure, industrial and consumer markets. To learn more about Semtech technology, visit us at Semtech.com or follow us on LinkedIn or Twitter.
+
+ 
+About Semtech’s LoRa® Platform
+ 
+Semtech’s LoRa chip-to-Cloud platform is a globally adopted long range, low power solution for Internet of Things (IoT) applications, enabling the rapid development and deployment of long range, ultra-low power and cost efficient IoT networks, gateways, sensors, module products, and IoT services worldwide. Semtech’s LoRa technology provides the communication layer for the LoRaWAN® standard, which is maintained by the LoRa Alliance®, an open IoT alliance for Low Power Wide Area Network (LPWAN) applications that has been used to deploy IoT networks in over 173 countries. Semtech is a founding member of the LoRa Alliance and produces the “The WAN Network Show” podcast to connect massive IoT end users to operators of LoRaWAN networks around the world. With the proliferation of LoRa devices and the LoRaWAN standard, the LoRa Developer Portal is a technical support platform for IoT innovators to learn, connect, collaborate, and find resources to help accelerate product development efforts and expedite time to market. To learn more about how LoRa enables IoT and creates a more sustainable and smarter planet, visit Semtech’s LoRa site.
+
+ 
+About Sustainable Hrvest
+ 
+Sustainable Hrvest (SH) is a pioneer of smart farming, that focusing on application in Durian Farming. We provide service and solutions for agricultural especially for durian industry and indoor vertical farming. Our headquarter is located at Kuala Lumpur, Malaysia. SH has continued successfully transforming digitally on agriculture from farm's size of 10 arc to 10,000 arc of plantation with technologies such as IoT, Machine Learning, Big Data etc. We are working with crops specialist and operation team, to work out the best practices, the ideal soil data from pre-harvest, harvest and post-harvest. Visit us at www.iotdurian.com or follow us on LinkedIn.
+
+ 
+Forward-Looking and Cautionary Statements
+ 
+All statements contained herein that are not statements of historical fact, including statements that use the words “expect” or other similar words or expressions, that describe Semtech’s or its management’s future plans, objectives or goals are “forward-looking statements” and are made pursuant to the Safe-Harbor provisions of the Private Securities Litigation Reform Act of 1995, as amended. Such forward-looking statements involve known and unknown risks, uncertainties and other factors that could cause the actual results of Semtech to be materially different from the historical results and/or from any future results or outcomes expressed or implied by such forward-looking statements. Such factors include those risk factors set forth in Semtech’s Annual Report on Form 10-K filed with the Securities and Exchange Commission (www.sec.gov) on March 30, 2023 as such risk factors may be updated, amended or superseded from time to time by subsequent reports that Semtech files with the Securities and Exchange Commission. Semtech assumes no obligation to update any forward-looking statements in order to reflect events or circumstances that may arise after the date of this release, except as required by law.
+
+ 
+Semtech, the Semtech logo and LoRa are registered trademarks or service marks of Semtech Corporation or its affiliates.
+
+ 
+SMTC-P
+
+ 
+Shannon Love
+Semtech Corporation
+slove@semtech.com
+ Semtech’s LoRa devices and gateways utilizing LoRaWAN® help to improve farming practices, lower operational costs and increase crop yields 
+Shannon Love
+Semtech Corporation
+slove@semtech.com

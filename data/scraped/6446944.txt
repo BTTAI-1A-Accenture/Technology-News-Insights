@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Digital Forensics and Investigation (DFnI), primarily use various procedures, tools and technologies which are essential for conducting thorough investigations, analyzing digital evidence, and recovering information from electronic devices and digital systems. These tools aid in preserving the integrity of evidence and providing valuable insights into various types of cyber incidents. Here are some DFnI tools from which I have built a digital forensics lab: Disk Imaging and Analysis: Memory Analysis: Network Analysis: Malware Analysis: File Carving: Registry Analysis: Mobile Device Forensics: Log Analysis: Data Recovery: Virtual Machine Forensics: Steganography Analysis: Database Forensics: The tools advised above are not exhaustive, the selection of tools totally depends on the specific nature of the incident or the purpose of investigation, the type of digital evidence being analyzed, and the investigator's expertise. The important is what how much we stay up-to-date with the latest tools and techniques is crucial due to the evolving nature of digital threats and technologies. SALES LEADER | TEAM LEADER | B2B & B2C SALES CHAMPION | BUSINESS DEVELOPMENT EXPERT |PROFESSIONAL TRAINER | Tsegay Tesfay(TT) |Information Communication Technology Leader | Cybersecurity, Information Technology, Telecommunications | I help Orgs grow digitally with 20% annual reduction in Cybersecurity risks| Covered the topic holistically yet in easy way...Great effort  Dear Amir, what's your consent about ELK as A SIEM solution?  SALES LEADER | TEAM LEADER | B2B & B2C SALES CHAMPION | BUSINESS DEVELOPMENT EXPERT |PROFESSIONAL TRAINER | OKEOGHENE  E. ADIDI love to hear from you  SALES LEADER | TEAM LEADER | B2B & B2C SALES CHAMPION | BUSINESS DEVELOPMENT EXPERT |PROFESSIONAL TRAINER | This article provides a comprehensive overview of essential digital forensics tools across various categories, explaining their functionalities and use cases. It underscores the importance of staying updated in a rapidly evolving digital landscape. Highly informative for understanding tools crucial in conducting thorough investigations and analyzing digital evidence. 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

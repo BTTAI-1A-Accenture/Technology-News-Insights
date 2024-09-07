@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://ca.finance.yahoo.com/news/p-tsx-composite-nearly-100-163628849.html

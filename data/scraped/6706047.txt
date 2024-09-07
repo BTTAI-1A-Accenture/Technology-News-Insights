@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/iterable-unveils-new-global-sms-service-and-eu-data-center-to-help-brands-accelerate-global/article_7848b0e9-78c5-5a21-bb4b-bba485ec94a9.html

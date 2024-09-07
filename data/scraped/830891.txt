@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.fox23.com/news/local/tulsa-wins-tech-hub-designation-from-us-economic-development-administration/article_019ade40-71f7-11ee-a0a2-ef37747a83e4.html

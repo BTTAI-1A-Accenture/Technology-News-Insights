@@ -1,0 +1,207 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Aug 10, 2024, 12:35pm Payment gateways enable businesses to accept payments both online and in-person. However, choosing the right payment gateway can be a challenge as pricing and transaction fees differ as do the features and inclusions. To help, Forbes Advisor has rounded up the best payment gateways for a wide variety of business types. We hope our guide helps you find the ideal solution for your needs and budget.  Featured Partners 1 Stax No First Month Free $99 per month, 7 cents to 15 cents per transaction plus interchange rate 1 Stax On Stax’s Website 2 North Payments No $0 Setup with Free Equipment + No Cancellation Fee Zero Cost Processing Options – Guaranteed Cost Savings 2 North Payments On North Payments’ Website 3 Payment Depot No First Month Free $59 per month, $0.07 – $0.15 per transaction + interchange rate 3 Payment Depot On Payment Depot’s Website 4 Payment Cloud No Free terminal, Zero Fee Processing Options, Dedicated Account Manager Zero cost processing options, Customized interchange + Pricing 4 Payment Cloud On PaymentCloud’s Website  Featured Partners 1 Clover $14.95 per month (plus hardware) 90 days Versatile POS, invoicing, employee management 1 Clover On Clover's Website 2 Toast $0 No POS built specifically for restaurants, payroll, online ordering, team and inventory management 2 Toast On Toast's Website 3 KORONA POS $59/mo Unlimited Inventory management, custom reporting, advanced cashier functionality, accounting integrations 3 KORONA POS On Korona's Website The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, strategic methodologies and expert insights to inform all of our content to guide you in making the best decisions for your business journey. We analyzed more than 25 of the leading payment gateways and narrowed it down to the top 10, which were analyzed across 41 metrics to rank the best payment gateways for small businesses. Our ratings consider factors such as transparent pricing, employee self-sufficiency, compatibility with third-party integrations, access to customer support and ratings. All ratings are determined solely by our editorial team. Starting price  $25 per month Instant deposits  No 
+ Invoicing  Yes 
+ 
+
+$25
+per month
+
+ $25 per month 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ Authorize.net excels at fraud prevention thanks in part to its Advanced Fraud Detection Suite (AFDS). Leveraging data from years of transaction processing experience, this suite comprises 13 fraud filters that can be personalized according to business needs. With these, businesses can set minimum transaction thresholds, payment velocity settings, geographic limitations and more, giving them more control over transaction authenticity. The proactive nature of AFDS is ideal for businesses of any size, making it an important tool for minimizing fraud-related losses. This service also appeals to businesses because of its pricing transparency and flexibility. The two types of plans—All-in-One and Gateway-Only—cater to different business requirements. The former includes a merchant account while the latter is ideal for businesses that already have a merchant account. Both plans come without setup fees and have reasonable per-transaction costs. Recurring payments, digital invoicing and account updater are among the multiple payment types and features supported by the platform. These features go beyond processing payments and offer businesses flexible tools to handle customer transactions. Learn more: Read our full Authorize.net review. Who should use it: Businesses seeking a secure, flexible payment gateway that effectively combats fraud. Starting price  $99 per month (no transaction fees) Instant Deposits  No 
+ Invoicing  Yes 
+ 
+
+$99 per month
+(no transaction fees)
+
+ $99 per month (no transaction fees) 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ Stax is a low-cost, scalable payment gateway from Fattmerchant. Merchants pay a monthly fee and a per-transaction cost, but there are no markups on interchange fees. Per-transaction fees are $0.15 per keyed transaction and $0.08 per swipe transaction. Stax offers invoicing and integrates with QuickBooks Online to make accounting easier. Businesses don’t have to spend extra for functions that they never intend to use. With add-ons and optional packages, you’ll only pay for what you need. Examples of extras included in higher-priced packages include accounting reconciliation syncing, API key integration, enhanced dashboards and a dedicated account manager. Learn more: Read our full Stax review. Who should use it:  Stax is a great solution for businesses with high sales volumes (over $5,000 per month) and growth-oriented enterprises. Small merchants can begin with low, predictable prices and add more features as their business grows. Starting price  $10 per month Instant deposits  No 
+ Invoicing  Yes 
+ 
+
+$10
+per month
+
+ $10 per month 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ Payline Data is ideal for subscription-based businesses because of its variety of features tailored to meet the unique needs of these models. Its platform can handle fundamental aspects of subscription services, such as recurring billing and invoicing. Businesses can reduce administrative task time and streamline their operations by automating these processes. Additionally, Payline Data’s platform offers an advanced API and Developer Docs feature, allowing businesses to build custom integrations with native or third-party software. This flexibility can be beneficial for subscription-based businesses which may require specialized software integrations to optimize their operations. Payline Data also includes a Virtual Terminal & Dashboard, providing a central location to manage various payment tasks. These include keying in transactions, viewing reports, storing customer profiles and sending invoices, essential features for businesses with regular customer payments. It provides a secure environment for transactions, employing modern encryption and tokenization to protect user and card data. This security measure is vital for subscription-based businesses as they handle sensitive customer payment information regularly. Learn more: Read our full Payline Data review. Who should use it: Subscription-based businesses seeking an adaptable and secure payment gateway with strong recurring billing and invoicing capabilities. Starting price  $5 per month for social selling, $29 per month for online stores 
+ Instant deposits  Yes 
+ Invoicing  Yes 
+ 
+
+$5 per month for social selling, $29 per month for online stores
+
+
+ $5 per month for social selling, $29 per month for online stores 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Supporting businesses of any size or type makes Shopify ideal for ecommerce ventures, whether it’s startups or established brands. Its scalability and complete set of ecommerce tools and features make it an appealing option for startups. The platform encourages creativity and uniqueness, providing flexible customization options for online stores. Shopify centralizes all commerce activities, simplifying business management and making the online store accessible from anywhere. It also takes care of server maintenance and software upgrades to make business operations more accessible and less complex. Shopify allows for easy scalability by offering additional products and services to amplify the capabilities of businesses on its platform. Its solutions can provide independent entrepreneurs with a competitive advantage in the market. For example, for those desiring further customization, Shopify grants access to its APIs and development tools. This makes it easy for businesses to shape their online store’s capabilities to their exact desires, allowing for an improved customer experience and extended functionality. The App Store further expands these options, providing many third-party apps to improve the ecommerce experience. Learn more: Read our full Shopify review. Who should use it: Entrepreneurs at any stage of business development seeking to launch, manage and scale an ecommerce venture. Shopify’s features make it an excellent pick for those stepping into ecommerce, providing a balance of convenience and customization potential. Starting price  0.40% plus 8 cents in (person) or 0.50% plus 25 cents (online) 
+ Instant Deposits  Yes 
+ Invoicing  Yes 
+ 
+
+0.40% plus 8 cents in (person) or 0.50% plus 25 cents (online)
+
+
+ 0.40% plus 8 cents in (person) or 0.50% plus 25 cents (online) 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Helcim is best known for its low-cost payment gateway. It offers a wide variety of features, including the ability to create invoices, set up subscriptions and process international payments. It also offers a wide variety of APIs that allow you to customize your payment gateway to best suit your needs. If you process a large volume of transactions, Helcim offers volume discounts. You don’t even have to call their sales team, either—this discount happens automatically the more you process. Who should use it: Helcim is best for businesses that process a lot of transactions. It offers volume discounts to help reduce the cost of processing payments and has a wide variety of features that can be customized to best suit your needs. Learn more: Read our full Helcim review. Starting price  Does not disclose 
+ Instant deposits  No 
+ Invoicing  Yes 
+ 
+
+Does not disclose
+
+
+ Does not disclose 
+ 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ Elavon is not just another name in the sea of payment gateways; it’s a solution engineered for businesses that wish to incorporate their existing POS systems into a multifaceted payment system. It accommodates many types of transaction environments—be it a physical store, an online website or a mobile app, allowing businesses to reach customers wherever they are. Its inherent flexibility is displayed through its capability of handling various forms of payments—from the traditional card swipes to the modern contactless and mobile-wallet transactions, enabling businesses to cater to a broader demographic of customers. Whether a company has been in the e-commerce field for years or is venturing into it for the first time, Elavon provides the tools necessary for a smooth transition or expansion. It protects both the business and its customers through its security measures. By employing advanced security measures, the platform ensures Payment Card Industry Data Security Standard (PCI DSS) compliance and protects payment data. Businesses can effectively manage their payment accounts with the help of its reporting and reconciliation features. By doing this, administrative tasks take less time, leaving more time for the core aspects of the business. Learn more: Read our full Elavon review. Who should use it: Elavon is suitable for businesses aiming for a seamless transition between different payment environments and looking for a solution to effectively integrate with their existing POS systems. Starting price  2.6% plus 10 cents per transaction 
+ Instant Deposits  Yes 
+ Invoicing  Yes 
+ 
+
+2.6% plus 10 cents per transaction
+
+
+ 2.6% plus 10 cents per transaction 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Square is best known for its POS system, which allows retailers to accept payments in person. Square also offers a comprehensive payment gateway that includes the ability to create invoices, set up subscriptions and process international payments. It also offers a massive selection of APIs that allow you to customize your payment gateway to best suit your needs. What sets Square apart from most competitors is its extra features. Users can take advantage of customer relationship tools to build customer loyalty and employee management tools that help to track hours worked. It also offers inventory management solutions and advanced reporting to help you best manage your business. Who should use it: Square is best for businesses that want to take advantage of customer loyalty tools, which help create repeat business. Learn more: Read our full Square review. Starting price  2.9% plus 30 cents per transaction 
+ Instant Deposits  Yes 
+ Invoicing  Yes 
+ 
+
+2.9% plus 30 cents per transaction
+
+
+ 2.9% plus 30 cents per transaction 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Stripe is best known for its payment processing solutions, but it also offers a comprehensive payment gateway. Its Stripe Terminal integrates with your in-person payment system, allowing you to accept payments from a variety of sources. Stripe Terminal is ideal for businesses that want to create a custom payment solution or need to accept payments in person. Stripe also offers a wide variety of features, including the ability to create invoices, set up subscriptions and process international payments. It also offers a huge selection of APIs that allow you to customize your payment gateway to best suit your needs. Learn more: Read our full Stripe review. Who should use it: Stripe is best for businesses that need a lot of customization or want to accept payments in person. Its APIs allow you to customize your payment gateway and point-of-sale (POS) solutions, as well as accept payments in person with terminals. Starting price  $14.95 per month 
+ Instant deposits  Yes 
+ Invoicing  Yes 
+ 
+
+$14.95 per month
+
+
+ $14.95 per month 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Clover’s intuitive design and powerful features make it a reliable partner for restaurants, going so far as to reshape their everyday operations. The tailored POS systems aren’t just payment gateways. They are multifunctional tools that cater to the ebb and flow of restaurant dynamics. Consider a busy Friday evening. Front of house staff wrestle with many orders and split checks, while the kitchen works to maintain harmony amidst the culinary chaos. Here, Clover steps in, integrating seamlessly with the front of house. Its order management system tracks orders smoothly and manages split checks effortlessly, relieving staff from the complex mathematics of dividing bills and ensuring quicker table turnovers. In the back of house, Clover’s tracking features bring order to the controlled pandemonium. Real-time inventory updates help chefs maintain a consistent workflow and prevent unfortunate surprises during peak hours. Its reporting system further streamlines operations, offering actionable insights on everything from sales trends to staff performance. When it’s time to wind down, Clover doesn’t clock out. It provides payroll integrations that simplify the otherwise daunting process of managing wages, taxes and tips. Restaurateurs can devote more time to crafting unforgettable dining experiences as the administrative burden is reduced. Its broad spectrum of payment options, from traditional credit cards to mobile wallets, respects the diversity of customer preferences, making transactions a breeze. Clover isn’t just a payment gateway. It’s a comprehensive solution, a boon to the restaurant industry, integrating with every facet of the restaurant operation—front of house, back of house and beyond. The result? A smoother dining experience for your customers and a more efficient and manageable operation for you. Learn more: Read our full Clover review. Who should use it: Restaurants seeking a comprehensive, adaptable and transparently priced solution for smooth operation and diverse payment acceptance. Starting price  2.29% plus 9 cents 
+ Instant deposits  Yes 
+ Invoicing  Yes 
+ 
+
+2.29% plus 9 cents
+
+
+ 2.29% plus 9 cents 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ PayPal distinguishes itself through its unmatched versatility and global recognition. A payment solution that caters to a variety of business requirements, PayPal ensures secure transactions for both online and in-person sales. It’s easy to implement, with compatibility on all major ecommerce platforms, simplifying the process of connecting an online store to a PayPal Business account. This ease extends to financial services too, with applications for business loans, credit cards and debit cards. The streamlining of daily operations is another plus, offering insights about shoppers, risk management and operational efficiency. PayPal’s ability to drive checkout conversion rates is compelling. Businesses that implement PayPal often see a surge in repeat customers and a considerable increase in transaction frequency. This is because customers worldwide trust PayPal for their transactions. An impressive 69% of PayPal customers feel more secure shopping at a merchant that accepts PayPal. Even after the sale, PayPal remains a reliable partner with efficient customer support available via call or live chat. In terms of pricing, there are no surprising costs. The fees are only applied when businesses make a sale, offering an economically feasible solution. However, if you’re processing a lot of sales, you may find better rates with one of the alternatives on our list. Learn more: Read our full PayPal review. Who should use it: Businesses seeking versatile and globally recognized payment solutions that boost customer trust and conversion rates. 
+ A payment gateway is a software application that merchants use to accept credit cards and other types of electronic payments. Payment gateways are encryption systems that protect sensitive information, such as credit card numbers, as it passes from customer to merchant. These gateways then pass the transaction information to the customer’s bank and to the merchant’s acquiring bank (or the bank that has partnered with the merchant to provide credit card processing services). The payment gateway is responsible for authorizing the credit card transaction and ensuring that the funds are transferred from the customer’s account to the merchant’s account. Payment gateways typically charge a monthly fee as well as a per-transaction fee. Payment gateways are necessary for any business that wants to accept online credit card payments. The technology circulates financial data around to the necessary entities to authorize payments and move money from a customer to a merchant. When choosing the best payment gateway, it’s important to consider pricing and fees, integrations, security, and other factors: The cost factors for payment gateways are the subscription fees and the payment processing fees. The subscription fees are the monthly fees that the payment gateway charges, and the payment processing fees are the fees that the payment gateway charges for each transaction. Some payment portals don’t charge a monthly fee and charge a higher transaction fee instead. You can expect to pay $25 to $50 per month for a subscription fee and around 2.9% plus 30 cents per transaction for the payment processing fee. Anything outside these parameters tends to have more or fewer features than average. When considering pricing, you should also factor in the following: There are three main types of payment gateways: Your payment gateway should be able to integrate with your shopping cart, accounting software and any other software you use for your business. This will allow you to automate your accounting and save time. You should also consider whether the payment gateway offers any customization options. For example, you may want to be able to add a logo or change the color scheme of the payment page. This can often be accomplished using an API, though not every gateway offers this option. When choosing a payment gateway, security should be one of your top considerations. You want to make sure that the gateway uses the latest encryption technology to protect your customers’ credit card information from being stolen. The payment gateway should also be PCI-compliant. This means that they follow the Payment Card Industry Data Security Standard (PCI DSS), which is a set of security standards that all businesses that process credit card payments must follow. Another thing to take into account is what payment methods are supported by the chosen gateway. In addition to credit cards, you may want to accept payments via PayPal, Venmo, ACH or eCheck. You may also want to offer customers the option to pay by invoice. Some payment gateways allow you to process transactions on your website while others require customers to be redirected to a separate page to enter their credit card information. If you want to process transactions on your website, you’ll need to choose a gateway that offers an on-site payment solution. If you don’t mind redirecting customers to a separate page to enter their credit card information, you can choose either an on-site or off-site gateway. Featured Partners 1 Stax No First Month Free $99 per month, 7 cents to 15 cents per transaction plus interchange rate 1 Stax On Stax's Website 2 North Payments No $0 Setup with Free Equipment + No Cancellation Fee Zero Cost Processing Options - Guaranteed Cost Savings 2 North Payments On North Payments' Website 3 Payment Depot No First Month Free $59 per month, $0.07 - $0.15 per transaction + interchange rate 3 Payment Depot On Payment Depot's Website 4 Payment Cloud No Free terminal, Zero Fee Processing Options, Dedicated Account Manager Zero cost processing options, Customized interchange + Pricing 4 Payment Cloud On PaymentCloud's Website Payment gateways include these key stakeholders: The term “payment gateway” is often conflated with the terms “payment processor” and “payment service provider,” but these are three distinct things. A payment processor transfers information between the issuing and acquiring banks to move money into your merchant account, but it requires a payment gateway to communicate across the other moving parts and authorize the transaction. A payment service provider, like PayPal, includes a payment processor and a payment gateway, as well as a merchant account and often other features to handle all aspects of a transaction. The reason there are so many payment gateway providers is that each of them is adept for specific situations. Brick-and-mortar retailers and pizza shops have different requirements than a law firm or a dental implant manufacturer. So, when it comes down to picking your payment gateway provider, you need to consider your unique needs. But here are a few common questions you should consider when choosing your payment gateway provider. Rates for in-person and online payments vary, as do the costs for processing one credit card versus another. So, if you sell more in one realm than another, one provider might not cut into your margins as much as another. Price aside, some payment gateway providers offer better features and services for handling payments in one dimension versus another. Some customers prefer credit cards. Others prefer digital wallets. How they like to pay should influence which service to use. Again, some providers might have better pricing, features or services (or all three) to support the payment methodology that your customers like. Your monthly sales volume—in terms of the total number of transactions and dollar value—is another major factor that any business should consider when selecting a payment gateway. Businesses with higher volumes would benefit from plans where they pay a high monthly fee for lower rates on each transaction, whereas businesses with low volumes would be better off paying a higher per-transaction fee without a monthly fee. When choosing a payment gateway or payment service provider, ask yourself these questions: If you’re just getting started with a small business, the simplest option is to go with a payment service provider like PayPal, Stripe or Square. They handle the process all the way through, so you don’t have to worry about setting up an additional bank account or custom software. You forfeit some control over the customer experience by using a third-party service, but you also don’t have to worry about handling security yourself. If your business has more complex needs, you can choose a payment gateway provider or build a custom solution. You’ll need to open a merchant account with a bank and set up the necessary hardware and software to accept credit card payments. To determine the best payment gateways, we employed a comprehensive methodology that examined various payment gateway providers across a spectrum of criteria. Each provider was assigned a score in each category, which was then used to calculate a product’s total score, with a maximum score of five stars. By employing this methodology, we were able to objectively evaluate and rank the best payment gateways based on their performance in these key categories:  Learn how we test credit card processors. Authorize.net, Stax and Payline Data all offer a convenient way to accept payments, get you paid quickly and lessen the risk of fraudulent transactions. Authorize.net offers top-tier fraud prevention, while Stax is perfect for high-value transactions. Payline Data is ideal for subscription-based businesses. A payment gateway is a secure portal that allows businesses to process payments by checking to make sure the card is real and there’s enough money to cover the purchase. It connects to your shopping cart or content management system (CMS) and transmits customer information securely to the payment processor. The payment gateway then forwards the payment to the merchant’s account. The first step is to select a payment gateway provider. Once you’ve done that, you’ll need to sign up for a merchant account and get your API key. Then, you’ll need to add the code to your website. Some payment portals, such as Braintree, offer a drop-in solution that makes it easy to add payment processing to your site with just a few lines of code. Others, such as Stripe, require a bit more development work. Payment portals aren’t required. However, most businesses use them because cash is no longer the most common form of payment. If you don’t have an option for processing credit card payments, you are likely to miss out on sales. You can build a custom payment gateway self-hosted on your own servers. This gives you complete control over the customer experience during a transaction, and it puts the burden of security on you, rather than a third-party payment provider. A multicurrency payment gateway lets you accept payments in multiple currencies and get paid in your local currency. A multicurrency gateway is necessary to accept payments from customers around the world. 
+                Katherine Haan is a small business owner with nearly two decades of experience helping other business owners increase their incomes.            

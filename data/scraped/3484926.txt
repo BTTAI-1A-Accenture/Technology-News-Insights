@@ -1,0 +1,28 @@
+
+Former Head of Information Security at Lehman Brothers Mike Engle will explain how to get digital identity right to increase customer satisfaction and security
+ EAST BRUNSWICK, N.J.--(BUSINESS WIRE)--1Kosmos, the only company that unifies identity proofing and passwordless authentication, today announced that Mike Engle, Co-Founder and Chief Strategy Officer, will present a session on getting digital identity right at the Texas Bankers Association Annual Cyber Tech Conference. This two day event will feature educational sessions and peer networking opportunities to help bank executives increase productivity, customer satisfaction and profitability.
+  
+WHO: Mike Engle, Co-Founder and Chief Strategy Officer of 1Kosmos is a proven information technology executive, company builder and entrepreneur, as well as an expert in information security, business development and product design/development. He was previously head of information security at Lehman Brothers and co-founder of Bastille Networks.
+ 
+WHAT: Synthetic identity is the leading source of fraud losses for banks. Until recently it was virtually impossible for banks to verify whether online banking users were who they claimed to be. Advances in technology, including biometrics, identity proofing, multi-factor passwordless authentication and digital wallets, have changed the playing field. This session will explain how to get digital identity right in order to eliminate friction for customers and workers, make passwords a thing of the past, reduce fraud and eliminate the high cost of cyber insurance.
+ 
+WHERE: Hyatt Regency Hill Country Resort & Spa, 9800 Hyatt Resort Drive, San Antonio, TX 78251
+ 
+WHEN: 9:15 – 10:00 AM on Thursday, February 16, 2023
+ 
+HOW: For more information and to register, visit: http://bit.ly/3Xfl9Hc. To schedule a conversation with Mike Engle, contact Marc Gendron at marc@mgpr.net or +1 617.877.7480.
+ 
+About 1Kosmos
+1Kosmos enables passwordless access for workers, customers and citizens to securely transact with digital services. By unifying identity proofing and strong authentication, the BlockID platform creates a distributed digital identity that prevents identity impersonation, account takeover and fraud while delivering frictionless user experiences. BlockID is the only NIST, FIDO2, and iBeta biometrics certified platform that performs millions of authentications daily for some of the largest banks, telecommunications and healthcare organizations in the world. The company is funded by Forgepoint Capital and Gula Tech Adventures with headquarters in Somerset, New Jersey. For more information, visit www.1kosmos.com and follow us on Twitter and LinkedIn.
+ 
+Media Contact: 
+Marc Gendron
+Marc Gendron PR for 1Kosmos
+617.877.7480
+marc@mgpr.net
+ Session will explain how to eliminate friction for customers and workers, make passwords a thing of the past and reduce fraud. 
+Media Contact: 
+Marc Gendron
+Marc Gendron PR for 1Kosmos
+617.877.7480
+marc@mgpr.net

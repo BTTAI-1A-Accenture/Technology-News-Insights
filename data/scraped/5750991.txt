@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ To provide any solution to your customer it is important to understand the customer very well. This article covers some of the best practices and techniques for understanding your customer better to come up with a solution for the pain points of your customer 1.   Understand your customer business  Try to understand the type of business, strategy, history of the customer, and company’s vision and going one step ahead understand their customers as well. It will help you to derive the solution that is better for their ecosystem 2.   Type of business or segment It is very important to understand the type of business or segment, it will help you define a solution in compliance with their segment. It would help you to define the USP of the customer. What is important to the market segment like 3.   Understand the customer’s competitor Before coming up with any solution, it is very important to understand the customer’s competitor and their offering in the solution. If you design software that overcomes the shortfalls of your customer competitor will be your USP to the customer 4.   Customer news  It is important to analyze the viewpoint of the customer’s end users. You can get a lot of information by going through the news of the customer. The news likes All these data will help while designing a solution for your customer. You can uncover information like future integrations, and analyzing their platform outages will give us information on their quality for the current systems (both software and infrastructure).  5.   Customer relationship with your company The customer might be already doing business with your company but with different business units. The type of relationship with your company could be financial, different products, etc. Your peer’s experience with the customer would tell you a lot about their priorities, expectations, etc., It could also help to understand the challenges to work with the customer so that you can plan and overcome them through your solutions. To collect all this information, there are some best practices to be followed. I have listed some of them  1.   Meeting with the customer The most important skill for collecting information from your customer is listening skill. Here is a checklist to follow        Do you have any problem with your existing software? Instead of this            frame question like below       What are the pain points with your existing system/process/software? 2.   Ask why? Asking why always open up a lot of information. Toyota Motor Corporation describes the same as the five whys technique. It is not about simply asking for every response from a customer. Rather plan those five why’s to the subject. Here is an example from the Wiki link An example of a problem is: the vehicle will not start.  1.   Why? – The battery is dead. 2.   Why? – The alternator is not functioning. 3.   Why? – The alternator belt has broken. 4.   Why? – The alternator belt was well beyond its useful service life and not replaced. 5.   Why? – The vehicle was not maintained according to the recommended service schedule. (A root cause) 3.   Capturing the notes  It is important to capture the notes of the conversation through a whiteboard or some techniques like a domain model diagram. Walking through them would ascertain your understanding of the customer’s pain points. 4.   Next steps Before closing your conversation, it is highly critical to define the next steps so that the expectations are set. What the customer should expect from us and when we are planning to do that.  I hope these techniques will help to collect the most important information from the customer and come up with the best solution for the customer's pain points. 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

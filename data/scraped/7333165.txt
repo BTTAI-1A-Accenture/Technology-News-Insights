@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/verve-therapeutics-highlights-recent-company-progress-and-reports-second-quarter-2023-financial/article_8c0a1d5d-3192-5d36-95bc-434ee33c075e.html

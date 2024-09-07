@@ -1,0 +1,34 @@
+Community The complicated landscape of compliance standards in the UK is increasingly difficult to navigate for IT leaders within financial organisations. With constantly evolving EU and UK laws, financial services organisations have to make sure that they keep up
+ with the ongoing changes while managing their exponentially growing data. While ensuring compliance can be complex in any situation, it becomes even more complicated in multi-cloud environments. As financial institutions expand into new cloud environments to manage huge amounts of data, keeping track of what is being stored becomes
+ even more difficult. In fact, it is estimated that more than half of a company’s data is dark, which means it might not be business critical or useful for decision making. What’s more, automated backup policies, which are popular to ensure compliance, can
+ also result in the redundant storage of unnecessary data, adding another layer of data to sift through. Popular automated backup policies can inadvertently exacerbate the problem by storing redundant data. In response, IT teams can proactively address these issues and optimise data management practices to ensure both compliance and efficiency. It's imperative
+ to leverage modern technologies and strategies to identify, classify, and manage data effectively in this evolving compliance environment. So, how can IT teams within financial institutions address non-compliant data and avoid the large financial penalties and reputation damage that threaten organisations if they are fined? The answer lies in three key steps:   Step 1: Recognising and classifying financial data In addition to costing an average of £23 million in storage expenses a year, dark data poses a significant risk to an enterprise’s compliance efforts due to the high amounts of personally identifiable information (PII) that may be unaccounted for. This is
+ especially true as distributed workforces rely on data sources like Zoom and Teams recordings that could mention PII but can’t be identified using traditional categorisation methods without a transcript.  To prepare data in the cloud for compliance efforts, IT teams must sift through their full catalogue of data – including video and voice recordings, internal messaging chats and traditional data files – to identify correct data categories: business critical,
+ useless or even non-compliant. Once this data is identified and sorted, IT professionals can make more informed decisions about usefulness of the data and if it can be archived or deleted.   Step 2: Automating a classification system Once non-compliant data has been located and properly categorised, IT leaders can begin to further evaluate and streamline their data. According to
+
+WEF, the world will produce data at a rate of 463 exabytes per day by 2025. To appropriately classify and manage the massive amount of data created, IT teams will need to utilise artificial intelligence (AI) and machine learning (ML) strategies to effectively
+ create and maintain a classification system that organises their information efficiently. Once established, an automated classification system can allow IT teams to easily resurface essential data, minimising the amount of time that employees spend locating, classifying and sharing data on short notice. Employing autonomous strategies can also
+ streamline decisions on whether to keep or archive data, outlined in step one, and significantly reduce enterprise IT operations costs due to its capabilities in visibility, reliability, security and scalability.   Step 3: Introducing best practices when it comes to data classification Once data is identified and classified, IT teams need to initiate a forward-thinking strategy to get ahead of data that’s created in the future. As data is democratised across a business, it’s important that classification spans beyond the IT team to the
+ employees creating the data in order to ensure business resilience in case of a ransomware attack. Automated classification systems make this process easier so that an organisation isn’t relying on the subjective opinions of its employees, instead relying
+ on an automated system that classifies based on organisational rules and requirements. While some manual oversight is still required, democratising data classification can take the burden off the IT team alone. This combination of manual and automatic policies will encourage a long-lasting, efficient strategy in which the entire organisation
+ is involved, and remove the solitary burden of data management and compliance from IT leaders. While the steps to addressing compliance may seem costly and complicated, the benefits stretch much further than simply avoiding fees and a corporate reputation nightmare –spanning cloud budgets and sustainability efforts. For organisations operating within
+ the financial services sector, ever-evolving data privacy regulations across the UK, EU and globally, has created a spark to ignite a mindset shift across the enterprise. As IT leaders act on that spark internally, it provides an opportunity to keep streamlined
+ data management practices top of mind to reap the benefits across the organisation and across the finance sector at large.     This content has been created by the Finextra editorial team with inputs from subject matter experts at the funding sponsor. Peter Pizzutelli  Sr. Manager, Advisory Services at Diebold Nixdorf 
+14 hours
+ Francesco Fulcoli  Chief Compliance and Risk Officer at Flagstone 
+15 hours
+ Tom Rowe-Jones  M&A Director at LAVA Advisory Partners 
+15 hours
+1
+ Gustav Korobov  Senior Sales Executive - Core Banking platform at Advapay 
+16 hours
+114
+ This content is provided by an external author without editing by Finextra. It expresses the views and opinions of the author. Sergio Barbosa CIO of Global Kinetic, and CEO of FutureBank. at Global Kinetic and FutureBank 
+16 August
+ Sergiy Fitsak Managing Director, Fintech Expert at Softjourn 
+14 August
+ Mete Feridun Chair at EMU Centre for Financial Regulation and Risk 
+14 August
+ Konstantin Rabin Head of Marketing at Kontomatik 
+14 August
+ Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

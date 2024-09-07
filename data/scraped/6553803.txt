@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Software Configurable IO's  One technology that plays a key role in helping Industry 4.0 achieve its full potential is software Configurable IO’s. The ability to reduce equipment downtime and simplify marshaling cabinet connections between the field Instruments and the PLC is achieved by providing Software Configurable IO’s. This reduces the time needed for a technician to install new Field Equipment because they no longer need to match the remaining available PLC IO to the specific type of IO of the sensor or actuator being installed on the factory floor. Now a PLC with Software Configurable IO allows the sensor or actuator to be connected to any of the available PLC IO terminals. Once the connection is made to the any available PLC IO port, the new device is detected through the PLC’s HMI software. Next, the operator selects the correct style of IO from the pull-down menu and commissions the new sensor or actuator electronically. Another benefit of Software Configurable IO’s, are their ability to accommodate factory floor expansions as new production cells are added to support growing manufacturing need. This capability eliminates the cost associated with purchasing additional fixed IO cards that limit the PLC’s capabilities. Instead, the Universal IO nature of the software configurable IO solution provides the ability to accommodate voltage & current Analog IO or Digital IO options across all IO ports provided in a PLC or DCS hardware platform. This Electronic Marshalling technology has already been adopted and is in use across Factory, Process, and Building Automation companies today. The benefits of using software Configurable IO’s in an Industry 4.0 factory have shown a reduction of commissioning and installation times billed by technicians. The results of this approach have simplified the complexity of connecting new equipment between the Field and PLC. Adoption of this technology has contributed to a 40% reduction in machine downtime and 20% savings in maintenance costs. If interested in purchasing Software Configurable IO line cards, then a simple search of the product catalogs from Siemens, Rockwell, Schneider, Spectrum Controls, Wago, Moxa, Phoenix Contact, Weidmuller, Honeywell, Johnson Controls, and Emmerson are recommended. If you are looking to design a solution from the ground up, then Analog Devices or TI can provide an extensive portfolio of semiconductor products to achieve this capability. I hope you  found today’s installment on the Benefits of Industry 4.0 interesting, and stay tuned for next week’s installment of Artificial Intelligence and thanks for listening.   
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

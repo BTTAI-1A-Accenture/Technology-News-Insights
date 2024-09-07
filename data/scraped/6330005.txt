@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.collinsdictionary.com/us/dictionary/french-english/invention-brevet%C3%A9e

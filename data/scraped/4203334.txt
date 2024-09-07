@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.blglobal.co.uk', port=443): Max retries exceeded with url: /BusinessNews.aspx?id=barclays-private-bank-recruits-lauren-harzo-as-director (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.blglobal.co.uk'. (_ssl.c:1007)")))

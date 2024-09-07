@@ -1,0 +1,12 @@
+
+The plugin leverages Idomoo’s Next Generation Video Platform for real-time AI video generation. NEW YORK–(BUSINESS WIRE)–#AIvideo–Idomoo’s official ChatGPT plugin is making text-to-video more accessible than ever. Now, users can easily transform any ChatGPT response into a complete, usable video in seconds with the Lucas AI Video Creator plugin. From a simple text prompt, Lucas creates a one-of-a-kind video with all necessary assets, including script, voiceover, footage and an interactive CTA button.  
+Plugins like Lucas extend the capabilities of ChatGPT beyond just providing a text answer to supporting a range of tasks, such as making a video (as Lucas does), booking a hotel or ordering groceries. Plugins are currently available to GPT-4 users as part of ChatGPT Plus. 
+Lucas plugin benefits include: 
+“Lucas is an AI agent who brings together multiple technologies to create each video, including text-to-speech, AI imagery and more,” said Danny Kalish, Idomoo CTO and co-founder. “Now with our integration for ChatGPT, even more users can leverage this powerful tool to create engaging and effective videos instantly, no technical skills needed.” 
+To date, Lucas has created hundreds of thousands of videos for SMBs, nonprofits and individual users, and he’s improving all the time with additional styles, new features like saved history and more. 
+“As Lucas learns new skills, those will be immediately available to ChatGPT users who take advantage of this plugin,” said Dan Shamir, VP of Innovation at Idomoo. “By integrating with ChatGPT, we’re excited to see Lucas reach even more people with the magic of instant, easy text-to-video generation.” 
+To try Lucas for yourself, visit idomoo.ai. 
+About Idomoo 
+Idomoo’s fully open Next Generation Video Platform combines data with video to deliver an unparalleled customer experience. Brands can create millions of data-driven videos in cinematic quality and up to 100x real time, a 1:1 communication approach that’s proven effective, sparking 5x engagement and 8x conversions across industries. Learn more at www.idomoo.com.  Contacts  
+IdomooCheryl Rodewig
+cheryl.rodewig@idomoo.com, 434-298-4410

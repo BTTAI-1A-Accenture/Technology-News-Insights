@@ -1,0 +1,88 @@
+Facebook Twitter Instagram Search Menu Webcasts Microphone Icon Events Events Videos Video Icon HUB Security announces public cloud security and data privacy for Google Cloud                             Also Noted By SSN Staff Updated 1:29 PM CST, Tue March 7, 2023 MOUNTAIN VIEW, Calif. – Cybersecurity solutions company HUB Security Ltd. has announced a unique cybersecurity solution for the Google Cloud leveraging HUB’s core technologies. Utilizing isolation, governance, and tight access control, HUB calls their latest solution a potential paradigm shift in cyber security. It provides protection for data at rest, in transit, and in use a time when data cannot be encrypted and is at its most exposed. “HUB prides itself in isolating and securing the whole execution environment," said Uzi Moskovitz, HUB’s CEO. “The historical focus on cyber intrusion and network defenses is no longer an acceptable solution. HUB is focused on making trustless security environments a reality, providing protection even if end user systems and computers are compromised.” Working together with Google, HUB has attempted to use their solution to solve the security and privacy problem for cloud with confidential computing that compensates for cloud-based weaknesses with a secure environment for the creation and distribution of keys. Normally only a benefit to high volume cloud users, HUB aims to bring easy to scale solutions that fit both large and small organization in heavily regulated industries like finance, insurance, and healthcare. You can learn more about HUB’s offerings at hubsecurity.com. Cloud-Based, Cybersecurity, Google Cloud, HUB Security Ltd., Security, Uzi Moskovitz Comments To comment on this post, please log in to your account or set up an account now. Need the Latest Security News in the Industry? Want to always have the latest security news in the industry right in your inbox? Click the button below to subscribe. Subscribe Now From Fire Panel to Fire Service: Honeywell's CLSS Paves the Way for Faster, More Reliable Alarm Communication Inovonics to feature Inovonics Cloud Services software at ISC West, booth #3103 Investing Now Makes the Rest of the Year Less Taxing. Literally. WeSuite’s Tracy Larson Shares How Speed and Accuracy Grow Sales Organizations Categories Recent Archives Commercial Monitoring Residential Suppliers Cybersecurity General News Also Noted On The Editor's Desk Monitoring Matters 20 Under 40 Emerging Leaders Under 40 Fire Systems Installation News and Notes Women in Security This Blog's on Fire (And Other Stuff) 
+SecurityCEU.com launches Professional Alarm Contractor Education (PACE) program
+ 
+SIA announces winners of 2024 Denis R. Hébert Identity Management Scholarship
+ 
+Genetec updates FICAM, expands list of access control options for U.S. fed
+ 
+Brinks announces partnership success with Cresta
+ 
+AFS provides financing for multiple alarm company acquisitions
+ 
+HiveWatch, SAGE Integration announce partnership
+ 
+Pye-Barker Fire & Safety acquires Safety Plus
+ 
+ZeroEyes launches ZeroEyes One (ZEO)
+ 
+Cohesity issues 2024 Global Cyber Resilience Report
+ 
+LVT Integrates with Axon’s RTCC
+ 
+August 2024
+ 
+July 2024
+ 
+June 2024
+ 
+May 2024
+ 
+April 2024
+ 
+March 2024
+ 
+February 2024
+ 
+January 2024
+ 
+December 2023
+ 
+November 2023
+ 
+October 2023
+ 
+September 2023
+ 
+August 2023
+ 
+July 2023
+ 
+June 2023
+ 
+May 2023
+ 
+April 2023
+ 
+March 2023
+ 
+February 2023
+ 
+January 2023
+ 
+December 2022
+ 
+November 2022
+ 
+October 2022
+ 
+September 2022
+ 
+View all Archives
+ Quorum Cyber turns tables on cybercriminals by exposing new RAT Altronix announces strategic partnership with LiftMaster Index Engines adds data reporting in CyberSense 
+Privacy Policy
+                             |
+                            Sitemap |
+                            Terms
+                                of Use |
+                            Web
+                                Accessibility Guidelines
+ © 2024                            Security Systems News. All rights reserved. Web solutions provided by VGM Forbin Media Kit Advertise Advertiser Directory 
+Privacy
+                        Policy
+                     |
+                    Sitemap |
+                    Terms of
+                        Use |
+                    Web Accessibility
+                        Guidelines
+ © 2024                    Security Systems News. All rights reserved. Web solutions provided by VGM Forbin  Webcasts Microphone Icon Events Events Videos Video Icon Subscribe Now *  - Indicates required fields Password Requirements

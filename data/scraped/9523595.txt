@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.havasunews.com/opinion/captain-kenn-mckinney-this-boating-season-make-safety-your-compass/article_b64050be-ff47-11ed-9ac3-fb99a2df5bfc.html

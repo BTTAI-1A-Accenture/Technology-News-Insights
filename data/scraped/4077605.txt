@@ -1,0 +1,78 @@
+Glassdoor says that 41 tech companies made up the 2023 100 Best Places to Work list for several reasons, including a focus on better pay and benefits, diversity, equity and inclusion, and flexible work schedules/a good work-life balance. 
+
+
+
+
+
+
+ Who Made The Cut Glassdoor this week revealed its annual 100 Best Places to Work list for large, U.S.-based companies. Several large tech giants made the cut, including a brand-new addition to the list that nabbed the top spot. Glassdoor, a website that allows current and former employees anonymously review companies, uses at least 75 ratings across nine workplace attributes from U.S.-based employees at companies of at least 1,000 employees as requirements for its annual list. The nine workplace attributes that are weighed are career opportunities, compensation and benefits, culture and values, diversity and inclusion, senior management, work-life balance, recommend to a friend, six-month business outlook, and overall company rating. [RELATED STORY: Glassdoor: The Top 10 Tech Companies To Work For In 2022 ] This year’s top 10 tech players included a few mainstays, such as Nvidia and LinkedIn. But it also included a couple of newcomers. Software company Gainsight and security player CrowdStrike joined the fray. And of the 15 years that Glassdoor has been publishing its list, only one tech company has made the cut consistently every year: Google. Here are Glassdoor’s top 10 tech companies to work for in 2023, along with their rankings and review excerpts from employees. 
+
+
+
+
+
+
+ #19 LinkedIn Rating: 4.5 Holding steady at No. 19 is Sunnyvale, Calif.-based LinkedIn. The Microsoft-owned company focuses its social network platform on businesses, employee end users and job seekers. Founded in 2002, LinkedIn has since expanded beyond its core focus of networking into job postings, videos, analytics and online learning. Review Excerpt: “Work-life balance is incredible here. LinkedIn truly takes care of its employees in more ways than just their salary.” 
+
+
+
+
+
+
+ #15 CrowdStrike Rating: 4.5 A newcomer to the annual Glassdoor list, Austin, Texas-based CrowdStrike is making moves in the market with its cloud workload and endpoint security, threat intelligence, and cyberattack response services. Founded in 2011, the company went public in 2019 and has since built out its portfolio organically and through acquisition, having most recently announced its intent to purchase Reposify, a Tel Aviv, Israel-based provider of an external attack surface management (EASM) platform. Review Excerpt: “New product offerings and constant growth will keep you busy; lots of opportunities within the company.” 
+
+
+
+
+
+
+ #14 Adobe Rating: 4.5 Moving up two spots to No. 14 this year, San Jose, Calif.-based Adobe comes to market with products for creativity, marketing and document management. Founded in 1982, the company’s portfolio includes popular applications such as Photoshop and Premiere Pro, as well as document management solutions like Adobe Acrobat and Adobe Sign, and marketing solutions like Adobe Marketo Engage and Adobe Analytics. The company announced its intent toward the end of 2022 to acquire Figma, a developer of web-first collaborative design technology whose tools are in use by some of the world’s largest software companies. Review Excerpt: “They show that they really care about employees. Mental health days, flexible work schedules and WFH.” 
+
+
+
+
+
+
+ #13 Microsoft Rating: 4.5 Jumping to No. 13 from 28 in 2022, tech behemoth Microsoft has been a mainstay in the IT industry since it was founded in 1975. the multinational technology corporation today offers enterprise applications, one of the largest cloud platforms in the world, software for business and consumer use, as well as consumer electronics and personal computers and devices. Review Excerpt: “The benefits are amazing, and the culture really pushes you to collaborate and become a better employee every day.” 
+
+
+
+
+
+
+ #11 HubSpot Rating: 4.5 Software provider HubSpot dipped slightly to No. 11 from the second spot last year. The Cambridge, Mass.-based company provides marketing, sales and customer service software. Founded in 2005, the software company’s core business is a customer relationship management (CRM) platform that hooks into other products for marketing, sales, content management, customer service and operations. Review Excerpt: “Empathy is a core HubSpot value and the leadership team truly walks the walk.” 
+
+
+
+
+
+
+ #9 ServiceNow Rating: 4.6 Climbing from No. 23 to the top ten this year, Santa Clara, Calif.-based ServiceNow comes to the market with its cloud-based platform to help organizations manage their digital workflows. The company in October revealed its initiative called RiseUp with ServiceNow, a global program that will give the company, its customers, and its channel partners the skills needed to expand use of the ServiceNow platform in the face of a global shortage of people with digital transformation IT skills. Review Excerpt: “Excellent culture - promotion of growth, embracing diversity and inclusion.” 
+
+
+
+
+
+
+ #8 Google Rating: 4.6 One of the largest tech giants in the world, Mountain View, Calif.-based Google is providing a wide range of internet-related services and products that includes smartphones, cloud computing infrastructure and cloud-based productivity software, including its uber popular Google Workspace portfolio. Founded in 1998, the company was reorganized in 2014 as a wholly-owned subsidiary of Alphabet Inc. Review Excerpt: “The company and colleagues care about well-being, respect, and inclusivity in the workplace.” 
+
+
+
+
+
+
+ #5 Nvidia Rating: 4.6 Santa Clara, Calif.-based Nvidia slipped from first to fifth place in 2023, but the Santa Clara, Calif.-based company remains is the dominant provider of graphics processing units. Founded in 1993, the semiconductor company got its start making GPUs for PCs, but the chipmaker significantly expanded its business into other areas, including using GPUs to accelerate AI workloads in servers and edge devices. The company has spent the last two years working to become a full-stack computing company, which includes high-performance network chips, purpose-built systems and enterprise software products. Nvidia attempted to buy British chip designer Arm in 2022 but terminated its $40 billion bid in February. Review Excerpt: “The culture of the company is inclusive and encouraging, and the people I work with are intelligent, patient, talented, and supportive.” 
+
+
+
+
+
+
+ #2 Box Rating: 4.6 Moving from fifth place to the number two spot, Redwood City, Calif.-based Box offers cloud-based content management, collaboration and file sharing tools. Founded in 2005, the company pitches itself as a top collaboration platform that can integrate with thousands of applications, automate processes and protect data. Review Excerpt: “Talented colleagues that reinforce a collaborative culture, making remote employees feel included.” 
+
+
+
+
+
+
+ #1 Gainsight Rating: 4.7 Software firm Gainsight, a newcomer to Glassdoor’s Best Places To Work list, jumped all the way into the top spot in 2023. The company, which was founded in 2009, specializes in customer success and product experience software. Its solutions integrate with the likes of Salesforce, SAP, Outlook and Zoom. Review Excerpt: “Gainsight truly lives and breathes its company values and tries winning in business while being human-first. As a person of color myself, I embrace the many programs that they promote that touch on diversity and inclusion.”

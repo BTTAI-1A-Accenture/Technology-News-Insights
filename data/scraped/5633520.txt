@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.postandcourier.com/charleston_scene/my-charleston-weekend-underdogs-and-undies/article_01068fa4-a62a-11ed-a734-a3cf23e57cd1.html

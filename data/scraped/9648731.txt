@@ -1,0 +1,47 @@
+
+Techaeris | March 13, 2024January 31, 2023 Tech, Security
+ Smart devices have become a modern home essential, allowing for seamless integration with household appliances and providing better experiences with your own products. However, the convenience of a smart speaker (or device) may come at the price of your privacy.   Estimated reading time: 5 minutes In the first quarter of 2022, over 30 million smart speaker shipments were made worldwide. Amazon is the market leader in the smart device industry, selling nearly 10 million smart speakers in the first quarter, compared to Google and Apple, which had 6 million and 4 million shipments, respectively.    Cybersecurity experts from  VPNOverview investigated the privacy risks associated with owning a smart speaker and what you should do to protect your privacy.  By design, smart speakers are ‘always on’ awaiting their command word. Though there is an option to wake the device manually, this removes its purpose and convenience.  Smart speakers can misinterpret certain words or phrases as their wake word, ultimately taking action from what was said. This may lead to things turning on/off, awkward messages/calls being made, or even purchasing items without your knowledge.   One way to deal with this is by having the mic muted on your device. Most smart speakers can turn off the microphone manually, which removes the device’s convenience. Instead of using voice to turn it on, the user will have to manually wake the device by pressing it and saying the command or question.   Furthermore, smart speakers record and save what is being said after hearing the wake word. This is to help with creating routines for the users, as well as helping developers improve the functionality of the device.   To deal with these risks, users will have to use the in-app settings of the smart speaker to change how or if their data is used. They can also change the wake word, and this can help minimize the speaker misinterpreting conversations for commands. Picking a wake word that is more bizarre will reduce the likelihood of the device misinterpreting conversations as commands. So, if you’re using your smart speaker to its full potential, be aware that it is always on and listening. A common misconception is that when users interact with their smart speaker, they assume their data is only collected by first-party developers (Amazon/Google/Apple, etc.). Third-party developers actually create certain commands and skills of the speaker.   When a user downloads and utilizes a skill on their smart speaker, the data and other account information can be given to third-party developers creating a risk.   Some of these third-party skills are not thoroughly moderated compared to skills provided by the manufacturer. Therefore this can become a gateway for hackers leading to leaks of information, as well as potential eavesdropping.   A way to deal with this is by ensuring that users only use skills and software that first-party developers have provided. Users can also use a VPN to provide an added layer of protection, as this will create an anonymous connection to the internet.  Smart speakers have the ability to purchase items. This is why Amazon’s Alexa is very popular in kitchens and pantries, as you can purchase household items as and when they run out.   This creates a security risk as anyone can use the speaker to make transactions. One way to deal with this is by making sure two-factor authorization or two-step verification is enabled on your device. This will send a code to your phone via text or an authenticator application, providing users with an added layer of security.    VPNOverview says that “the convenience of smart devices comes with the cost of our privacy. There are no other options to a smart speaker that provides this level of convenience, entertainment, and education”.   As long as users are careful with the speaker’s placement and how they use it, and by ensuring their account is set up correctly, they can prevent possible hacks and sharing of unwanted data.”  A smart speaker is ultimately a tool that can be handy in various ways. Users need to know that their smart speaker is a data collection point for big tech. The product you have purchased turns you into the product. Data collected from these devices can be used how the collector sees fit. So if you are comfortable with that, a smart speaker is a great device. If you value your privacy, it may be wise to steer clear of these devices. What do you think of the smart speaker craze and smart home devices? Please share your thoughts on any of the social media pages listed below. You can also comment on our MeWe page by joining the MeWe social network. Be sure to subscribe to our RUMBLE channel as well! Last Updated on March 13, 2024. Techaeris was founded in 2013 by Alex Hernandez who is the Editor-In-Chief and Owner. Techaeris is fast becoming your source for technology news, reviews and all things geek/nerd entertainment related. We cover movies, comics, books, gaming, tech, and industry news all in one clean place. Amazon
+Android
+Apple
+App Store
+ASUS
+AT&T
+Audio
+Augmented reality
+Automotive Technology
+battery
+Best Buy
+BlackBerry
+Black Friday
+Bluetooth
+Business
+Camera
+Canada
+Cars
+CES
+Chicago
+China
+Christmas
+Chrome
+Chromebook
+Chromecast
+Crowdfunding
+Deals
+Dell
+EarBuds
+Education
+Elon Musk
+Facebook
+Fitness
+Forza Motorsport
+Game controller
+Games
+gaming
+giveaway
+Google
+Google Play
+Guitar
+Hardware
+HBO
+Headphones
+Health

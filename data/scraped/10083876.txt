@@ -1,0 +1,76 @@
+Front page layout Site theme Before we had developed the first qubit, theoreticians had done the work that showed that a sufficiently powerful gate-based quantum computer would be able to perform calculations that could not realistically be done on traditional computing... 
+John Timmer
+    –    Apr 19, 2023 7:52 pm UTC
+ While many companies are now offering access to general-purpose quantum computers, they're not currently being used to solve any real-world problems, as they're held back by issues with qubit count and quality. Most of their users are either running... 
+John Timmer
+    –    Jan 2, 2023 12:00 pm UTC
+ Because quantum computing has been attempted via multiple approaches, those approaches can be a bit confusing to follow. Most quantum computing efforts go toward what are called gate-based computers, which allow you to perform logical operations on... 
+John Timmer
+    –    Oct 5, 2021 10:45 pm UTC
+ Early on in D-Wave's history, the company made bold claims about its quantum annealer outperforming algorithms run on traditional CPUs. Those claims turned out to be premature, as improvements to these algorithms pulled the traditional hardware back... 
+John Timmer
+    –    Feb 24, 2021 4:43 pm UTC
+ Today, quantum computing company D-Wave is announcing the availability of its next-generation quantum annealer, a specialized processor that uses quantum effects to solve optimization and minimization problems. The hardware itself isn't much of a... 
+John Timmer
+    –    Sep 29, 2020 6:13 pm UTC
+ The D-Wave quantum annealer isn't a general-purpose computer, in that it can only solve a set of problems that can be structured as energy minimizations. And even on those problems, D-Wave employees will acknowledge that the current generation of... 
+John Timmer
+    –    Oct 1, 2019 5:10 pm UTC
+ On Tuesday, D-Wave announced the details of its next-generation computation hardware, which it's calling "Advantage," and released a set of white papers that describe some of the machine's performance characteristics. While some of the details of the... 
+John Timmer
+    –    Sep 30, 2019 3:02 pm UTC
+ Time: non-specific 2018. Location: a slightly decrepit Slack channel. 
+Chris Lee
+    –    Mar 18, 2019 11:45 am UTC
+ Last week, D-Wave announced a new version of its quantum annealing computer. The new machine includes a number of technical improvements, as well as a significant change to the physical arrangement of the board. What does all this mean? Combined with... 
+Chris Lee
+    –    Mar 5, 2019 9:33 pm UTC
+ D-Wave's hardware has always occupied a unique space on the computing landscape. It's a general-purpose computer that relies on quantum mechanical effects to perform calculations. And, while other quantum-computer makers have struggled to put more... 
+John Timmer
+    –    Jul 16, 2018 9:15 pm UTC
+ Machine learning has returned with a vengeance. I still remember the dark days of the late '80s and '90s, when it was pretty clear that the current generation of machine-learning algorithms didn't seem to actually learn much of anything. Then big... 
+Chris Lee
+    –    Oct 25, 2017 2:42 pm UTC
+ IBM has solved most of the science behind quantum computing. Time to make some money. 
+Sebastian Anthony
+    –    Mar 6, 2017 11:59 am UTC
+   D-Wave, a company based in British Columbia, has announced a new version of its quantum annealer: the D-Wave 2000Q. As the name suggests, the number of bits has increased from about 1,000 to just over 2,000. This is, for D-Wave, an important step on... 
+Chris Lee
+    –    Jan 26, 2017 4:15 pm UTC
+ We have been following D-Wave's claims about its quantum hardware at Ars for a number of years. Over that time, my impression has oscillated between skepticism, strong skepticism, and mild enthusiasm. 
+Chris Lee
+    –    Feb 16, 2016 3:46 pm UTC
+ Two years ago Google and NASA went halfsies on a D-Wave quantum computer, mostly to find out whether there are actually any performance gains to be had when using quantum annealing instead of a conventional computer. Recently, Google and NASA... 
+Sebastian Anthony
+    –    Dec 9, 2015 3:04 pm UTC
+ D-Wave, a company we have covered extensively in the past, has taken some heat because a number of tests have shown that its adiabatic quantum optimizer is no faster than a regular computer. But the company is now claiming that its machine... 
+Chris Lee
+    –    Sep 2, 2015 3:28 pm UTC
+ I have to admit it: D-Wave is starting to produce some impressive results. For the uninitiated, D-Wave came to our attention by loudly and repeatedly claiming that it had built a quantum computer. Many of us were skeptical. Over time, though, D-Wave... 
+Chris Lee
+    –    Jun 11, 2014 2:22 pm UTC
+ When Lockheed Martin purchased one of D-Wave's computers, speculation ran riot in the streets. Was it going to be used to debug flight control systems? Maybe it would be used to solve design problems. Perhaps it could replace an intern and make the... 
+Chris Lee
+    –    Aug 6, 2013 6:50 pm UTC
+ Quantum optimizer manufacturer D-Wave Systems has been gaining a lot of traction recently. They've sold systems to Lockheed Martin and Google, and started producing results showing that their system can solve problems that are getting closer to... 
+Chris Lee
+    –    Jul 1, 2013 1:00 pm UTC
+ Back in 2007, a company called D-Wave made waves by claiming it had built a 16-bit quantum computer at a time when most academic labs could only manage a handful of bits. What they demonstrated, however, wasn't a quantum computer in the sense that... 
+John Timmer
+    –    May 13, 2013 9:25 pm UTC
+ In 2007, D-Wave announced with great fanfare that it had developed the world's first commercial quantum computer. Unfortunately, details were rather scarce, and it was hard to confirm that anything quantum was going on in the company's device. In the... 
+Chris Lee
+    –    Aug 20, 2012 3:50 pm UTC
+  I admit that I have never been much of a fan of D-Wave, a company that used to claim that it made quantum computers and now claims to make quantum optimizers. But one of the things I have come to admire about the firm is its track record in... 
+Chris Lee
+    –    Feb 7, 2011 4:46 pm UTC
+  Way back in 2007, a company called D-Wave systems demonstrated... well, no one is really sure what it demonstrated. D-Wave claimed it was a quantum computer, but if that was so, then this tiny company managed to produce something that was way beyond... 
+Chris Lee
+    –    Dec 14, 2009 8:35 pm UTC
+ Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. Sign me up → 
+  CNMN Collection
+  WIRED Media Group
+  © 2024 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Ars Technica Addendum. Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights |  Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices

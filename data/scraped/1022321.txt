@@ -1,0 +1,78 @@
+Businesses are looking to big data tech developers to help them leverage exploding volumes of data for competitive advantage. Here’s a look at 10 hot big data companies – both startups and established companies – that the channel should keep an eye on this year. 
+
+
+
+
+
+
+ The Ones To Watch Businesses and organizations are struggling to effectively manage big data that continues to grow in volume, expand in variety and accelerate in speed – never mind analyze all that data to gain valuable insights that can lead to competitive advantages. This year, with the ongoing economic uncertainty, businesses and organizations have even more incentive to leverage data and data analytics to obtain insights that will help them navigate rapidly changing business conditions. Here’s a look at 10 big data companies with database, data management, data integration and analytics products to keep an eye on this year. Some are established vendors that have made strategic changes, are in growth mode or looking to go public in the near future. Others are startups with ground-breaking ideas and technologies that could change the big data industry – or disappear. 
+
+
+
+
+
+
+ Alteryx Top Executive: CEO Mark Anderson Alteryx calls itself the “analytics automation” company, marketing a unified, low-code/no-code platform that incorporates analytics, data science and business process automation in a single system that, according to Alteryx, brings advanced analytics capabilities to a broad range of data workers. Alteryx was founded in 1997. But the Irvine, Calif.-based company has undergone significant changes since late 2020 when co-founder and long-time CEO Dean Stoecker stepped down and was replaced by current CEO Mark Anderson. Most of Alteryx’s top management has turned over in the last two years and the company has taken on a more aggressive competitive posture. In 2022 it launched the Alteryx Analytics Cloud, acquired data “wrangling” software tool developer Trifacta, and conducted a major revamp of its partner program with the goal of becoming a more channel-centric company. Alteryx reported revenue of $554.3 million in the first nine months of 2022, up 53 percent from the same period in 2021. The company continued that momentum through the end of the year (the company will report its full-year results on Feb. 9) and looks to build on that success in 2023. 
+
+
+
+
+
+
+ Databricks Top Executive: Co-Founder and CEO Ali Ghodsi Databricks is one of the leading cloud data service providers, competing with Snowflake, Cloudera and other cloud data platform companies with services around data analytics, data engineering, data governance, data sharing, machine learning and more. The company is also the leading proponent of data lakehouse systems as an alternative to traditional data warehouses. Databricks makes this “companies to watch” list because many observers expect that the company could move on its long-awaited – and highly anticipated – initial public offering (IPO) in 2023. Some expected that to happen in 2021 or 2022, but last year proved to be a debacle for technology stocks and IPOs were few and far between. The San Francisco-based company has raised $3.5 billion in funding, including a $1.6 billion Series H funding round in September 2021 that boosted the company’s valuation to $38 billion. In 2022 Databricks continued to expand its product portfolio, including launching data lakehouse packages for specific vertical markets including financial services, healthcare and life sciences, and retail and consumer goods. The company also launched its Brickbuilder Solutions initiative to help systems integrators, ISVs and other partners develop analytic and AI solutions on the Databricks Lakehouse Platform. 
+
+
+
+
+
+
+ Dbt Labs Top Executive: Founder and CEO Tristan Handy Dbt Labs has been gaining serious momentum with its cloud-based data transformation workflow tools that help businesses and organizations build data pipelines and transform, test and document data within cloud data warehouse systems. Dbt Labs, based in Philadelphia, sees its technology playing a central role in the cloud data analytics “stack.” Dbt Cloud integrated development environment launched in 2019 followed by a series of technology enhancements and expansions, including Dbt Core v1.0 in late 2021. The Dbt Labs platform includes a development framework that combines SQL development and software engineering best practices such as modularity, portability, CI/CD and documentation. In February 2022 the company raised $222 million in Series D financing with Snowflake and Databricks among the investors. Customers include JetBlue, HubSpot and Sunrun. Last year a number of players in the big data space established alliances with Dbt Labs and/or linked their products with the Dbt Labs platform and tools, including data lakehouse developer Databricks and cloud data analytics provider Starburst. 
+
+
+
+
+
+
+ EdgeDB Top Executive: Co-Founder and CEO Yuri Selivanov Proclaiming that “the post-SQL era has arrived,” EdgeDB offers an open-source, graph-relational database with a goal of redefining legacy relational database software. CEO Yury Selivanov notes that the core technology in relational databases in wide use today was invented back in the 1970s. Rather than tables and relational data models, the EdgeDB database incorporates graph database technology that uses nodes and relationships to manage data, better representing relationships between the data. The company also developed a new query language that works with its database. EdgeDB’s target audience is developers who build applications that run on the database. EdgeDB, founded in 2019 and headquartered in San Francisco, debuted the 1.0 release of its database product in February 2022, followed by EdgeDB 2.0 in July. In November 2022, the company raised $15 million in a Series A funding round led by Nava Ventures and Accel. 
+
+
+
+
+
+
+ Immuta Top Executive: Founder and CEO Matthew Carroll As the number of data sources maintained by businesses and organizations proliferate across the cloud and the number of people who access that data grows, making sure that the right people are accessing the right data – and enforcing data use rules and regulations – becomes a huge challenge. Immuta, headquartered in Boston, develops its Data Security Platform that discovers sensitive data, secures data access and monitors data usage, helping to eliminate insider threats by ensuring that only the right people have data access and providing data and security teams with the ability to manage and ensure compliance with data use policies. Just this month the company debuted Immuta Detect, the latest addition to the Data Security Platform, providing continuous data security monitoring capabilities that alert data and security teams about risky behavior, enabling faster, more accurate risk remediation and improving data security management across cloud data platforms. 
+
+
+
+
+
+
+ Momento Top Executive: Co-Founder and CEO Khawaja Shams Momento just emerged from stealth in November with its Momento Serverless Cache that optimizes and accelerates any database running on Amazon Web Services or the Google Cloud Platform. A cache accelerates response database response time by delivering commonly or frequently used data faster. But Momento’s founders argue that today’s caching technology wasn’t designed for today’s modern cloud stack. The highly available Momento cache technology can serve millions of transactions per second, according to the startup, and operates as a backend-as-a-service platform, meaning there is no infrastructure to manage. Momento, headquartered in Seattle, was co-founded by CEO Khawaja Shams and CTO Daniela Miao who previously worked at AWS and were the engineering leadership behind AWS DynamoDB, Amazon’s proprietary NoSQL database service. The company has received $15 million in seed funding led by Bain Capital Ventures. 
+
+
+
+
+
+
+ MotherDuck Top Executive: Founder and CEO Jordan Tigani Just launched in May 2022, MotherDuck is developing a serverless data analytics platform based on DuckDB, an open-source, in-process SQL OLAP database. The technology is currently in private preview with a public beta expected in March. Unlike other data analysis platforms like Snowflake and Google BigQuery that tout their ability to process huge datasets, MotherDuck is targeting more lightweight analytics chores that businesses face every day. The goal is to develop a data analytics platform that’s easy to use and can leverage the processing power of today’s hardware – even on laptops – without the complexities of distributed computation, according to a company blog. The company was founded by Jordan Tigani, previously the chief product officer at database developer SingleStore and before that a founding engineer for Google BigQuery. MotherDuck, based in Seattle, raised $35 million in Series A funding in November, with Andreessen Horowitz Altimeter among the investors, on top of a $12.5 million seed funding round earlier in the year. 
+
+
+
+
+
+
+ Nextdata Top Executive: Founder and CEO Zhamak Dehghani “Data mesh” has become a hot buzz phrase in the big data arena. Data mesh is a new approach to building a distributed data architecture that supports domain-specific data consumers (such as sales or marketing, for example), rather than traditional centralized, monolithic approaches like data warehouses or data lakes. The data mesh concept was originally defined by Zhamak Dehghani in 2019 while working as a principal consultant at Thoughtworks, a global technology consulting firm. No surprise, then, that Nextdata, of which Dehghani is the founder and CEO, has been generating some buzz of its own after the startup exited stealth earlier this month. The company’s goal with its NextdataOS, according to the company’s website, is to do for data what containers and web APIs did for software. The core of Nextdata’s technology is a data product container “that bundles data with everything needed to make it independently usable,” such as transformations, guarantees and policies, according to the company. Other components include analytical data product APIs, embedded computational policies and data product dynamic discovery. Is Nextdata the start of a big data revolution or will this be a big idea that fails to gain traction? Definitely worth watching in 2023. 
+
+
+
+
+
+
+ SAS Top Executive: Co-Founder and CEO James Goodnight SAS is a company to watch in 2023 because the company, privately held since its 1976 founding, is getting ready to go public – possibly as early as 2024 – and the moves it makes this year will be critical toward meeting its IPO goals. While many of the big data companies on this list are startups launched over the last few years, SAS – with annual revenue around $3 billion – is one of the biggest and most established companies in the AI, big data and business analytics space. In 2021, following reports that the company had been in talks to be acquired, SAS said it was setting itself on a path to an IPO by 2024. Those preparations include refining its financial reporting structure, streamlining operational processes, and focusing on segments of its technology platform that provide the most growth potential to benefit the company’s stakeholders. In recent years SAS has been adapting its flagship SAS Viya business analytics software for the cloud and building more AI capabilities into its offerings. And where SAS products and tools were once based on proprietary technology, the company has opened up its environment to outside technologies such as the R and Python development languages. SAS’ IPO timetable, of course, will depend heavily on the state of the stock markets – and the IT industry took a beating there in 2022. But in published reports in September 2022 company executives, including co-founder and CEO Jim Goodnight, signaled that 2024 was still the target date for an IPO. 
+
+
+
+
+
+
+ ThoughtSpot Top Executive: CEO Sudheesh Nair Since pivoting to cloud data analytics in 2020 ThoughtSpot has muscled its way into the top tier of companies in the very crowded business analytics tech space. Can ThoughtSpot, which uses the tagline “The modern analytics cloud company,” maintain that momentum in 2023? The Sunnyvale, Calif.-based company aggressively expanded its product offerings in 2022, including adding new capabilities to its core platform, debuting new editions for workgroups and “power individuals,” and instituting a consumption-based pricing model. ThoughtSpot also made significant channel moves last year, hiring former MuleSoft and Salesforce executive Kuntal Vahalia as the company’s new global channel chief, who is working to expand the company’s alliances with systems integrators and the major cloud data service providers.

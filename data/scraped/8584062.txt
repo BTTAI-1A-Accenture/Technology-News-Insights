@@ -1,0 +1,226 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » How Behavior Analytics Improves Cybersecurity Behavior analytics can be a valuable addition to cybersecurity plans, helping organizations detect and respond to potential threats more effectively. By leveraging behavior analytics, organizations gain the ability to monitor and analyze user behavior, entity behavior, and system behavior to identify anomalies and deviations from normal patterns. This can enable early detection of security incidents, such as insider threats or suspicious activities, and facilitate a proactive response to mitigate risks. To incorporate behavior analytics into cybersecurity plans, organizations should start by identifying the specific use cases where behavior analytics can provide the most value. This could include areas such as anomaly detection, insider threat detection, or user access control. Once the use cases are defined, organizations need to select appropriate behavior analytics tools and solutions that align with their needs and integrate them with existing security infrastructure. It is crucial to establish baselines of normal behavior and customize the analytics models to the organization’s specific requirements. Regular monitoring and analysis of behavior analytics outputs, along with continuous refinement and improvement of the models, are essential to ensure the effectiveness of behavior analytics in enhancing the overall security. Behavior analytics is a branch of security analytics that focuses on analyzing patterns of behavior and activities within an organization’s network or system to detect and mitigate security threats. By leveraging behavior analytics, organizations can gain insights into user behavior, identify potential threats and risks, and respond swiftly to security incidents. These techniques enhance the overall security posture by complementing traditional security measures and providing a proactive approach to threat detection and mitigation. Machine learning (ML) plays an important role in supporting behavior analytics by providing advanced data analysis techniques and predictive modeling capabilities. ML algorithms can identify patterns, trends, and anomalies in behavioral data. By training models on historical data, they can learn to recognize regular behavioral patterns and detect deviations from those patterns, which can be useful for identifying abnormal behavior or potential threats. What’s more, ML algorithms can be trained to detect anomalous behavior or outliers in very large datasets such as those used in security analytics and can continuously analyze streaming data and provide real-time insights into behavior patterns. This can be valuable in cybersecurity incidents that require immediate action when a threat is detected. The models continuously learn, adapt, and improve over time by continuously learning from new data (i.e., ongoing user activity). This capability allows behavior analytics systems to stay up to date and adjust to changing behaviors and patterns – for example, an employee’s new job role – thus ensuring accurate and relevant insights. By leveraging behavior analytics, organizations can proactively detect and respond to cyber threats, reduce detection and response times, minimize false positives, and strengthen their overall security posture. It complements traditional security solutions and enhances the ability to identify and mitigate advanced and evolving threats in a dynamic cybersecurity landscape. Behavior analytics offers several advantages over traditional security approaches. For example, it can detect insider threats and attacks by people using compromised credentials that cannot be detected by traditional security tools. By monitoring user behavior and identifying unusual activities, behavior analytics can raise alerts for suspicious insider actions, such as unauthorized data access, privilege abuse, or data exfiltration. Behavior analytics also can detect unknown or emerging threats by focusing on detecting anomalous behaviors or deviations from normal patterns, allowing it to identify previously unseen or zero-day attacks. It also helps in the detection of advanced persistent threats (APTs), which are sophisticated attacks that involve a prolonged and stealthy compromise of a target network. Behavior analytics can analyze a wide range of behavioral indicators, such as network traffic, user activities, and system events, to identify subtle and persistent attack patterns that may go undetected by traditional security measures. Behavior analytics provides valuable insights for incident response teams by identifying the root cause, scope, and impact of security incidents. It helps in investigating security breaches, reconstructing attack timelines, and understanding the tactics, techniques, and procedures (TTPs) employed by attackers. Behavior analytics offers numerous benefits in the field of cybersecurity. Here are some key advantages: Insider threats are malicious activities carried out by authorized individuals within an organization—employees, contractors, vendors, and the like. By monitoring user behavior and identifying unusual or suspicious activities, behavior analytics can raise alerts for insider threats such as data exfiltration, privilege abuse, or unauthorized access. A common network entry point for a malicious actor is to use legitimate credentials that have been stolen or otherwise compromised. The actor appears to be a legitimately authorized user—until they perform some activity that isn’t common for that user account. By comparing the bad actor’s actions to the real user’s baseline profile, behavior analytics can quickly identify anomalous activity that could be indicative of a threat. Behavior analytics can build profiles of normal device behavior by monitoring and analyzing device activities over time. This includes examining device interactions, network traffic patterns, resource usage, application usage, and system events. Any deviations from the established device profiles can be flagged as suspicious or potentially malicious. This is helpful in detecting variances in devices on the Internet of Things. Traditional security measures often rely on known signatures or patterns of known threats. Behavior analytics, however, can identify unknown or advanced threats that do not match any predefined signatures. By analyzing behavioral indicators and detecting anomalous activities, behavior analytics can uncover sophisticated attacks, including zero-day exploits and advanced persistent threats (APTs). Behavior analytics enables continuous monitoring and analysis of user behavior and system activities. It can adapt to evolving threats and changing patterns of behavior, allowing security systems to stay up to date and respond effectively to emerging risks. This dynamic nature of behavior analytics enhances the overall security posture of an organization. By analyzing behavior patterns leading up to a security incident, security teams can gain a better understanding of attack vectors, timelines, and tactics used by attackers. This information can help in containing and mitigating the incident effectively, as well as improving future incident response strategies. Behavior analytics can help reduce false positives, which are alerts or alarms triggered by legitimate user activities that may appear suspicious. By analyzing behavior patterns, historical data, and context, behavior analytics can differentiate between normal and abnormal behavior, resulting in more accurate and targeted alerts, reducing the number of false positives and minimizing the burden on security teams. Various types of behavior analytics techniques are employed to secure organizations. Here are some common ones. UBA monitors and analyzes the behavior of individual users within an organization’s network. It establishes baselines for normal behavior and identifies anomalies that could indicate malicious activity, such as unusual login times, excessive access requests, or data exfiltration attempts. UEBA extends the analysis beyond individual users to other entities such as applications, servers, or IoT devices. It looks for abnormal behavior patterns, such as sudden spikes in network traffic, unexpected communication between devices, or unauthorized changes to system configurations. NTA monitors network traffic and analyzes communication patterns between devices such as routers, switches, firewalls, and endpoints. It detects anomalies in network behavior such as unusual traffic volumes, abnormal communication flows, suspicious connection attempts, and data exfiltration attempts. NTA can help identify network-based attacks, malware infections, and unauthorized network access. Anomaly detection techniques use statistical models or machine learning algorithms to identify deviations from normal behavior. By establishing baselines of typical network, user or entity behavior, anomalies like unusual data flows, access attempts, or unexpected configuration changes can be detected and investigated as potential security incidents. Threat hunting involves actively searching for indicators of compromise and potential threats within an organization’s network. Behavior analytics aids in this process by examining patterns and trends across multiple data sources, such as logs, network traffic, and security events, to proactively identify potential threats that may have evaded traditional security measures. Behavior analytics provides a basis for assigning risk scores to users, entities, or events based on their behavior patterns. These risk scores help prioritize security responses, focusing resources on higher-risk activities and individuals, and enabling efficient incident response. UEBA can be highly effective in enhancing cybersecurity for several reasons. It enables early threat detection by leveraging advanced analytics and machine learning algorithms to establish baselines of normal behavior for users and entities within an organization. By continuously monitoring and analyzing their activities, UEBA can quickly detect anomalous or suspicious behavior patterns that may indicate a security threat. This early threat detection helps security teams respond promptly and mitigate potential risks before they escalate. Detecting insider threats is another important function of UEBA. By monitoring user behaviors such as data access patterns, privileged account usage, and unusual activity, UEBA helps identify insiders who may be engaged in malicious activities, unauthorized data exfiltration, or privilege abuse. This can significantly reduce the time to detect and respond to insider threats, minimizing potential damage. UEBA also provides excellent advanced threat detection. Traditional security solutions often rely on predefined signatures or patterns to detect known threats. UEBA complements these solutions by employing machine learning and behavior analytics to identify unknown or advanced threats that may evade traditional detection mechanisms. By detecting deviations from established behavior patterns, UEBA can uncover sophisticated attack techniques, including zero-day exploits, targeted attacks, and insider collusion. UEBA provides valuable contextual insights by correlating data from multiple sources such as logs, network traffic, and authentication data. By analyzing a wide range of data points, UEBA helps security teams gain a holistic view of user and entity activities, enabling them to understand the context of observed behaviors. This contextual awareness allows for more accurate threat detection and reduces false positives. UEBA enhances incident response capabilities by providing security teams with actionable insights. When a suspicious behavior is detected, UEBA solutions can generate real-time alerts or notifications, along with detailed information about the observed behavior. These alerts help security analysts investigate incidents more efficiently and prioritize their response efforts, enabling quicker incident resolution and minimizing the impact of security breaches. Implementing behavior analytics in cybersecurity takes some planning and careful execution to ensure its effectiveness. Here are some tips to consider. Start by defining clear goals and objectives for implementing behavior analytics. Determine what specific security challenges and use cases you aim to address and the outcomes you expect to achieve. This will help you align your implementation strategy with your organization’s overall cybersecurity objectives. Determine the data sources that will provide valuable insights for behavior analytics. This may include log files, network traffic data, system event logs, user activity logs, application logs, and more. Ensure that you have access to the necessary data and that it is properly collected, aggregated, and stored for analysis. Select behavior analytics tools and technologies that align with your organization’s needs and objectives. Consider factors such as scalability, integration capabilities with existing security systems, machine learning capabilities, and user-friendly interfaces. Evaluate different vendors and solutions to find the most suitable one for your requirements. Establish baselines and profiles of normal behavior for users, entities, and systems. This involves analyzing historical data to identify patterns and typical behavior. These baselines will serve as a reference for identifying deviations and anomalies that may indicate potential security threats. Tailor your behavior analytics models to specific use cases. Different use cases may require different algorithms, parameters, and rules. Customize the models to detect relevant anomalies and behaviors associated with the specific threats you are targeting. This will improve the accuracy of the analytics and reduce false positives. Behavior analytics should be integrated with existing security systems and processes to maximize its effectiveness. Ensure proper integration with intrusion detection systems, SIEM (Security Information and Event Management) solutions, incident response workflows, and other security controls. This integration enables timely and coordinated responses to detected anomalies or incidents. Implementing behavior analytics is an iterative process. Continuously monitor the effectiveness of the analytics and refine the models based on new data, emerging threats, and changing user behaviors. Regularly review and update the baselines, rules, and algorithms to adapt to evolving security landscapes and ensure optimal performance. Provide training and awareness programs to security teams and relevant stakeholders to understand the capabilities and limitations of behavior analytics. Ensure that the teams are proficient in interpreting analytics outputs, investigating alerts, and responding to potential threats effectively.
+ There are several behavior analytics tools that can help improve security within an organization. Here are some examples: User and Entity Behavior Analytics (UEBA) Tools, Network Traffic Analysis (NTA) Tools, Application Behavior Analytics (ABA) Tools, Endpoint Detection and Response (EDR) Tools, Security Information and Event Management (SIEM) Tools, Insider Threat Detection Tools, and Log Analysis and Log Management Tools. The effectiveness of these tools depends on factors such as proper configuration, integration with other security systems, and regular updates to adapt to evolving threats. Organizations should carefully evaluate and choose behavior analytics tools that align with their specific security needs and objectives. User and Entity Behavior Analytics is a key product within the Gurucul Security Analytics and Operations Platform. Gurucul UEBA detects and responds quickly to threats based on an understanding of normal activity that continuously learns and adjusts to characterize suspicious and anomalous activity. Combined with our out-of-the- box threat content and other analytical capabilities, Gurucul UEBA can help security teams quickly distinguish malicious activity from false positives. Among the key capabilities of Gurucul UEBA are: Gurucul UEBA can detect threats immediately upon deployment with 2500+ behavior-based ML models for the most popular use cases and industries—all of which can easily adapt to your organization. Our enterprise-class risk engine combines all our telemetry, analytics, and behavioral modeling into a unified risk score that helps security teams prioritize investigation and response actions. It’s easy to mask any data attribute using roles or individual users to support data privacy requirements. Gurucul UEBA uses multiple threat hunting methodologies including hypothesis-driven investigation, known indicators of compromise, and advanced analytics / ML investigations. Security teams can create custom machine learning models without coding and with minimal knowledge of data science. Gurucul UEBA provides a step-by-step graphical interface to select attributes, train models, create baselines, set prediction thresholds, and define feedback loops. Gurucul does not charge for ingesting events and does not require standing up a proprietary data lake. Gurucul UEBA supports an open choice of big data, enabling customers to use their existing data lakes to reduce costs. A Hadoop data lake is provided at no cost for use with Gurucul UEBA, if/as needed. Gurucul UEBA includes an integrated case management system that allows organizations to track and maintain investigation materials all in one place. It can also integrate with third party case management systems. Gurucul UEBA supports numerous use cases, including insider risk and threat monitoring, host/device compromise detection, anomalous activity monitoring, and lateral movement detection. By leveraging behavior analytics in cybersecurity, organizations can enhance their threat detection capabilities, respond quickly to security incidents, reduce false positives, and strengthen their overall security defenses. Behavior analytics provides a proactive and data-driven approach to cybersecurity, allowing organizations to better protect their systems, data, and assets, and ultimately improving their overall security posture.  The objective of behavior analytics within a cybersecurity program is to proactively identify potential security incidents or risks by monitoring and analyzing behaviors, rather than relying solely on signature-based or rule-based approaches. By understanding normal behaviors and identifying deviations, organizations can improve threat detection capabilities, enhance incident response, and strengthen their overall security posture.  Data analytics plays a crucial role in security by enabling organizations to collect, process, and analyze vast amounts of data to identify patterns, detect anomalies, and gain insights into potential security threats. Blog: What Is Cyber Security Analytics? Read More  Whitepaper: User and Entity Behavior Analytics Use Cases Download Now  Blog: Top UEBA Use Cases to Fuel Modern, Next-Gen Security Operations Read More  About The Author Vikram Mathu, VP Customer Success, Gurucul Vikram Mathu is a technology leader with 20+ years of experience in Cyber security, Customer Success, Product delivery and management, Infrastructure management, Identity & Access Management. He is a strategic thinker and planner, skilled in the design, implementation and management of highly effective product development, security architectures. Vikram possesses outstanding leadership and team building strengths that generate optimum productivity and performance excellence from organizational staff. He is committed to achieving corporate objectives with a history of successful delivery of projects and services. Specialties: Customer Success, Cyber Security, Identity & Access Management, Infrastructure Management. The post How Behavior Analytics Improves Cybersecurity appeared first on Gurucul. *** This is a Security Bloggers Network syndicated blog from Blog Archives - Gurucul authored by Vikram Mathu. Read the original post at: https://gurucul.com/blog/how-behavior-analytics-improves-cybersecurity    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

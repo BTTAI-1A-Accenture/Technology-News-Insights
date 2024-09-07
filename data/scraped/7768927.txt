@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.hometownsource.com/morrison_county_record/news/idaho-man-hurt-after-two-vehicle-crash-south-of-motley/article_8d770470-e656-11ed-b980-7340c4749309.html

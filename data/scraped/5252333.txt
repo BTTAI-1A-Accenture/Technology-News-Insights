@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.couriernews.com/sports/atus-dean-signs-with-cfl-s-hamilton-tiger-cats/article_0256adfb-c651-5b98-bb23-19c1222060e6.html

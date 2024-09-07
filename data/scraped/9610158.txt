@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.wenatcheeworld.com/news/northwest/the-egg-shortage-wont-end-anytime-soon-heres-why/article_b77e72f4-b95f-11ed-ba45-3b9f25284e4b.html

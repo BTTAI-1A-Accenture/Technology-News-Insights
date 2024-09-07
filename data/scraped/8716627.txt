@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/samsung-electronics-and-amd-extend-strategic-ip-licensing-agreement-to-bring-amd-radeon-graphics-to/article_47a45efa-2880-5840-a36a-13ff6f46d1c9.html

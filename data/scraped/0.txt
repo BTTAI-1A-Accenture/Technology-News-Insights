@@ -1,0 +1,50 @@
+
+The two companies collaborate on high-performance energy storage and solar string inverter solutions for a sustainable future
+ SCOTTSDALE, Ariz.--(BUSINESS WIRE)--onsemi (Nasdaq: ON), a leader in intelligent power and sensing technologies, today announced that Sineng Electric will integrate onsemi EliteSiC silicon carbide (SiC) MOSFETs and IGBT-based high-density power integrated modules (PIMs) into its utility-scale solar inverter and industry-first 200kW energy storage system (ESS). The two companies worked together to develop optimized solutions that maximize the performance of solar inverters, energy storage and power conversion systems.
+
+  
+Sineng’s work with onsemi EliteSiC has led to the launch of a utility-scale solar string inverter, which offers simplicity in design, reduced maintenance costs and lower downtimes compared to a centralized inverter solution. The adoption of onsemi’s highly optimized single-stage PIM with multi-level topology in 200KW ESS enables industry leading system efficiency and lower total cost of ownership.
+
+ 
+“onsemi supports us in solving the most challenging technical problems such as system-level design, simulations, thermal analysis and creation of sophisticated control algorithms,” said Qiang Wu, chairman of Sineng Electric. “Integrating the highly efficient EliteSiC technology enables us to develop and implement cutting-edge renewable energy solutions tailored to our customers’ needs. In combination with onsemi’s end-to-end SiC supply chain, we have the supply assurance to plan for long-term growth.”
+
+ 
+Both companies will continue to collaborate on the development of new high-power products to enable a broader range of renewable energy solutions. As part of this process, Sineng will adopt more EliteSiC products, thereby benefitting from efficiency and scale.
+
+ 
+“Together, we will leverage the benefits of onsemi’s high performance products and Sineng Electric’s expertise in power electronics system design to deliver industry leading solutions for sustainable energy applications,” said Asif Jakwani, senior vice president and general manager, Advanced Power Division, onsemi. “Our continuous pursuit to improve overall system efficiency plays a pivotal role in society moving towards the goal of a net-zero emissions future.”
+
+ 
+The two companies expect to extend their existing long-term supply agreement (LTSA), signed in late 2022, further demonstrating their commitment to collaboration and innovation.
+
+ 
+About onsemi
+ 
+onsemi (Nasdaq: ON) is driving disruptive innovations to help build a better future. With a focus on automotive and industrial end-markets, the company is accelerating change in megatrends such as vehicle electrification and safety, sustainable energy grids, industrial automation, and 5G and cloud infrastructure. onsemi offers a highly differentiated and innovative product portfolio, delivering intelligent power and sensing technologies that solve the world’s most complex challenges and leads the way to creating a safer, cleaner, and smarter world. onsemi is recognized as a Fortune 500® company and included in the S&P 500® index. Learn more about onsemi at www.onsemi.com.
+
+ 
+onsemi and the onsemi logo are trademarks of Semiconductor Components Industries, LLC. All other brand and product names appearing in this document are registered trademarks or trademarks of their respective holders.
+ 
+Stefanie Cuene 
+Head of Public Relations
+onsemi
+(602) 315-3778
+Stefanie.Cuene@onsemi.com
+ 
+Parag Agarwal 
+Vice President - Investor Relations & Corporate Development
+onsemi
+(602) 244-3437
+investor@onsemi.com
+ 
+Stefanie Cuene 
+Head of Public Relations
+onsemi
+(602) 315-3778
+Stefanie.Cuene@onsemi.com
+ 
+Parag Agarwal 
+Vice President - Investor Relations & Corporate Development
+onsemi
+(602) 244-3437
+investor@onsemi.com

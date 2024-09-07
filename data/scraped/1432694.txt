@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/the-hartford-renames-accidental-death-and-dismemberment-insurance-to-enhance-consumer-understanding/article_7498c717-fa89-5bfa-9feb-b9904ad46385.html

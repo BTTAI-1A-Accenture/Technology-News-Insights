@@ -1,0 +1,88 @@
+Facebook Twitter Instagram Search Menu Webcasts Microphone Icon Events Events Videos Video Icon Lumeo announces “Lumeo-Ready” Gateways to accelerate field deployments                             Also Noted By SSN Staff Updated 9:22 AM CDT, Thu October 19, 2023 OAKLAND, Calif.—Lumeo, a designer of computer vision solutions, has announced the launch of “Lumeo-Ready” Gateways, in partnership with AIMobile, Seeed Studio, and Velasea. Lumeo-Ready Gateways are production-ready devices that allow end-users and integrators to quickly bring up and configure on-site hardware, and then deploy a wide range of video analytics solutions using Lumeo’s customizable video analytics platform. Lumeo is an open and flexible video analytics platform that addresses the specific business challenge of bridging the latest AI models and techniques with a growing audience attempting to bring intelligence and automation to market through vision AI. The easy-to-use Lumeo platform lets customers harness AI with their existing cameras and infrastructure to make sense of video data for alarm monitoring, customer experience, marketing, compliance, physical security, and many more use cases. Lumeo-Ready gateways come pre-installed with the Lumeo engine and a user-friendly browser-based configuration, so setting them up in the field has never been easier. Users simply plug in the device, access the browser interface, and link it to their Lumeo account to start deploying advanced video analytics. One of the key features of these gateways is their seamless integration with Tailscale and AllXON, allowing for effortless remote configuration, management, and firmware updates. This ensures that users can easily maintain and optimize their devices from any location, maximizing efficiency and productivity. To cater to diverse needs, the Lumeo-Ready Gateways are available in various configurations, including the Nvidia Orin Nano, Nvidia Orin NX, and x86 workstations/servers with Nvidia DGPUs. These device configurations can support processing from eight to 50+ channels per device, providing users with the scalability and performance required for their specific projects. For developers and the broader Nvidia ecosystem, Lumeo-Ready gateways offer pre-validated, production-grade hardware, along with a supply chain that is ready for scale. Combined with the flexibility of Lumeo’s platform to deploy custom AI models and build Python/OpenCV-based solutions, they significantly reduce the time to go live for custom solutions. Lumeo is partnering with three vendors, AIMobile, Seeed Studio, and Velasea, to bring the Lumeo-Ready Gateways to market. This collaboration offers customers flexibility in terms of procurement, pricing, service, and warranty options. Lumeo-Ready gateways are now available via partner websites and distribution channels as well. With these partnerships, Lumeo aims to empower integrators & end-users with the tools they need to succeed in their video analytics endeavors. “In our continued effort to grow our portfolio of offerings and partner with cutting-edge technology companies, we are thrilled to announce our ability to deliver a turnkey solution that combines the best AI-enabled hardware with our Lumeo Platform,” said Devarshi Shah, CEO and co-founder of Lumeo. “Lumeo-Ready devices, powered by the innovative hardware solutions offered by AIMobile, Seeed Studio, and Velasea offer everything a customer needs to get a full AI analytic solution up and running in a short amount of time.” For more information, email info@lumeo.com   AIMobile, Devarshi Shah, Lumeo, Seeed Studio, Velasea Comments To comment on this post, please log in to your account or set up an account now. Need the Latest Security News in the Industry? Want to always have the latest security news in the industry right in your inbox? Click the button below to subscribe. Subscribe Now From Fire Panel to Fire Service: Honeywell's CLSS Paves the Way for Faster, More Reliable Alarm Communication Inovonics to feature Inovonics Cloud Services software at ISC West, booth #3103 Investing Now Makes the Rest of the Year Less Taxing. Literally. WeSuite’s Tracy Larson Shares How Speed and Accuracy Grow Sales Organizations Categories Recent Archives Commercial Monitoring Residential Suppliers Cybersecurity General News Also Noted On The Editor's Desk Monitoring Matters 20 Under 40 Emerging Leaders Under 40 Fire Systems Installation News and Notes Women in Security This Blog's on Fire (And Other Stuff) 
+SecurityCEU.com launches Professional Alarm Contractor Education (PACE) program
+ 
+SIA announces winners of 2024 Denis R. Hébert Identity Management Scholarship
+ 
+Genetec updates FICAM, expands list of access control options for U.S. fed
+ 
+Brinks announces partnership success with Cresta
+ 
+AFS provides financing for multiple alarm company acquisitions
+ 
+HiveWatch, SAGE Integration announce partnership
+ 
+Pye-Barker Fire & Safety acquires Safety Plus
+ 
+ZeroEyes launches ZeroEyes One (ZEO)
+ 
+Cohesity issues 2024 Global Cyber Resilience Report
+ 
+LVT Integrates with Axon’s RTCC
+ 
+August 2024
+ 
+July 2024
+ 
+June 2024
+ 
+May 2024
+ 
+April 2024
+ 
+March 2024
+ 
+February 2024
+ 
+January 2024
+ 
+December 2023
+ 
+November 2023
+ 
+October 2023
+ 
+September 2023
+ 
+August 2023
+ 
+July 2023
+ 
+June 2023
+ 
+May 2023
+ 
+April 2023
+ 
+March 2023
+ 
+February 2023
+ 
+January 2023
+ 
+December 2022
+ 
+November 2022
+ 
+October 2022
+ 
+September 2022
+ 
+View all Archives
+ Lumeo unveils generative AI search and training-free video analytics Lumeo launches Universal AI Bridge for enhanced video analytics Lumeo announces partnership with Grip Places 
+Privacy Policy
+                             |
+                            Sitemap |
+                            Terms
+                                of Use |
+                            Web
+                                Accessibility Guidelines
+ © 2024                            Security Systems News. All rights reserved. Web solutions provided by VGM Forbin Media Kit Advertise Advertiser Directory 
+Privacy
+                        Policy
+                     |
+                    Sitemap |
+                    Terms of
+                        Use |
+                    Web Accessibility
+                        Guidelines
+ © 2024                    Security Systems News. All rights reserved. Web solutions provided by VGM Forbin  Webcasts Microphone Icon Events Events Videos Video Icon Subscribe Now *  - Indicates required fields Password Requirements

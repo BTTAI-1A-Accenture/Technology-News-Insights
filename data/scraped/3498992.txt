@@ -1,0 +1,125 @@
+  Gaeilge (Baile)  
+You are here
+Web Publishing > Webauthor accounts > General information
+ Websites created under the tcd.ie domain can be categorised into two types: The information on this page refers to websites hosted on the 'on-premises' Trinity web server only. In order to login and publish web pages to the 'on-premises' Trinity server, you must have a webauthor account and a specific set of permissions to the website you would like to edit.
+Frequently Asked Questions
+
+What is a webauthor account?
+A webauthor account is a username and password which gives you access to download, edit and upload pages to the 'on-premises' Trinity web server. 
+It is a separate account to your network login account, and specifically deals with web server access.
+Why do I need a webauthor account?
+Your webauthor account allows you to access your website on the 'on-premises' Trinity web server and edit the webpages, or folders containing your web pages, that you have permissions to update.
+Each site has its own folder on the web server, containing all the pages, images, documents and elements needed to display your site.
+Depending on the permissions given to your webauthor account, you have access to add and edit the pages in this folder, and upload to your site only, this protects your site from unintentional editing by other webauthors and limits your access specifically to your site. 
+Who can have a webauthor account?
+Access to the 'on-premises' Trinity web server is for registered Trinity staff or postgraduates.
+See the IT and Cyber Security Policy for further information.
+If you have employed an external web developer/contractor to update your site it is possible to apply for external third party access. Details are available in the IT and Cyber Security Policy (Section 9.1.9). The Third Party Agreement must be in place prior to access being facilitated.
+How do I get a webauthor account?
+A webauthor account can be requested for you  by one of the following people in your department/school/unit.
+
+The designated departmental web administrator;
+The School Administrator or Head;
+The Head of Department.
+
+The departmental web administrator, once  satisfied for the request to go ahead, should email itservicedesk@tcd.ie with the details listed  below: 
+
+The full path (or URL) of all the files/folders  the access is being requested for;
+The username, in short format (i.e. jbloggs and  not Joe.Bloggs) of the person(s) for whom the  access is being  requested;
+Details of the access changes required e.g.  the granting of write access, the withdrawal of write access, change in  ownership;
+
+Please note: Your webauthor account password is initially  your original Trinity password. If you do not have this, please contact the IT Service Desk.
+I need to change my webauthor access, I am no longer editing the same site.
+Changes in the access granted to your webauthor account  can be requested for you by one of the following people in your department/school/unit.
+
+ The designated departmental web administrator;
+ The School Administrator or Head;
+ The Head of Department.
+
+The departmental web administrator, once  satisfied for the request to go ahead, should email itservicedesk@tcd.ie with the details listed  below: 
+
+The full path (or URL) of all the files/folders  the change in access is being requested for;
+The username, in short format (i.e. jbloggs and  not Joe.Bloggs) of the person(s) for whom the change in access is being  requested;
+Details of the access changes required e.g.  the granting of write access, the withdrawal of write access, change in  ownership;
+
+Please note: the designated departmental website administrator may not request their own replacement. Changes in site administrators must be authorized by one of the other individuals in the list above, i.e. School Administrator or Head, or Head of Department.
+I am working remotely from home or travelling, I can't connect to the web server.
+Only computers that are connected to the Trinity data network,  whether located on the main campus or in a remote location, can be used to  access the Trinity web server for uploading or downloading files (using SSH, Dreamweaver or similar software). 
+Attempts to login or establish a connection from a computer not logged into the Trinity network will be automatically refused by the Trinity web server. 
+For staff members who need to work from home or some other remote location the solution would be to request a VPN connection.
+I need to change my webauthor password.
+Your webauthor password is not linked to your network password, therefore you must change your webauthor password separately.
+Please follow the link for  instructions on how to change your Webauthor password or check if your webauthor password has expired.
+
+For security reasons your webauthor account password will automatically expire every 180 days.
+You should receive an automated email 6 days prior to the password expiry directing you to this page. 
+You will receive this email daily until you have set a new webauthor password. 
+
+Please note: If you cannot remember your webauthor password, please contact the IT Service Desk.
+What is the difference between a web administrator and a web author?
+A web administrator (departmental web administrator) is the person with responsibility for the full department website.
+They are listed here designated departmental web administrator 
+They can approve requests to give staff/postgraduates access to edit the website, or pages within the site.
+It is their responsibility to ensure that access is granted / revoked as staff move into and leave from the department.
+A web administrator cannot revoke their own access, if they leave the department the Department Head / Head of School must email itservicedesk@tcd.ie to change the web administrator.
+A web author is a staff member or postgraduate who has been given access to edit the departmental website, or pages within the website.
+A department can have multiple web authors, it is the responsibility of the web administrator to ensure correct staff members have access to edit the site.
+I have my webauthor account and have been granted access to the web site, what do I need to do now?
+In order to make changes to websites that you have access to and upload them to the web server, you will need a file edit and transfer program such as Dreamweaver.
+If you wish to use Dreamweaver, please visit the following web pages for more information.
+
+Maintaining Trinity Webpages - Frequently Asked Questions 
+Configuring Dreamweaver to Publish to the Trinity Web Server.
+
+It is also recommended that new webauthors attend the following course Maintaining Trinity Websites using Dreamweaver. 
+Why has my webauthor account been removed?
+There are several circumstances where your webauthor account will be removed:
+Your permissions have been removed
+If a site administrator requests withdrawal of permissions for your webauthor account and this subsequently leaves you without permission to edit any Trinity website content, your webauthor account will be removed.
+Your account was a temporary one
+If a temporary webauthor account is granted to you for Dreamweaver training, it will be removed after the training session.
+Your account is inactive
+If your webauthor account has not been used in 12 months it will be considered inactive and removed.
+Your Trinity computer account has expired
+If your  Trinity computer account is expired, your webauthor account will be removed
+Please note: Removal of your account does not remove or change any files of folders you had permissions to. Once your account is removed, IT Services have no record of the permissions held by your account.
+
+ A webauthor account is a username and password which gives you access to download, edit and upload pages to the 'on-premises' Trinity web server.  It is a separate account to your network login account, and specifically deals with web server access. Your webauthor account allows you to access your website on the 'on-premises' Trinity web server and edit the webpages, or folders containing your web pages, that you have permissions to update. Each site has its own folder on the web server, containing all the pages, images, documents and elements needed to display your site. Depending on the permissions given to your webauthor account, you have access to add and edit the pages in this folder, and upload to your site only, this protects your site from unintentional editing by other webauthors and limits your access specifically to your site.  Access to the 'on-premises' Trinity web server is for registered Trinity staff or postgraduates. See the IT and Cyber Security Policy for further information. If you have employed an external web developer/contractor to update your site it is possible to apply for external third party access. Details are available in the IT and Cyber Security Policy (Section 9.1.9). The Third Party Agreement must be in place prior to access being facilitated. A webauthor account can be requested for you  by one of the following people in your department/school/unit. The departmental web administrator, once  satisfied for the request to go ahead, should email itservicedesk@tcd.ie with the details listed  below:  Please note: Your webauthor account password is initially  your original Trinity password. If you do not have this, please contact the IT Service Desk. Changes in the access granted to your webauthor account  can be requested for you by one of the following people in your department/school/unit. The departmental web administrator, once  satisfied for the request to go ahead, should email itservicedesk@tcd.ie with the details listed  below:  Please note: the designated departmental website administrator may not request their own replacement. Changes in site administrators must be authorized by one of the other individuals in the list above, i.e. School Administrator or Head, or Head of Department. Only computers that are connected to the Trinity data network,  whether located on the main campus or in a remote location, can be used to  access the Trinity web server for uploading or downloading files (using SSH, Dreamweaver or similar software).  Attempts to login or establish a connection from a computer not logged into the Trinity network will be automatically refused by the Trinity web server.  For staff members who need to work from home or some other remote location the solution would be to request a VPN connection. Your webauthor password is not linked to your network password, therefore you must change your webauthor password separately. Please follow the link for  instructions on how to change your Webauthor password or check if your webauthor password has expired. Please note: If you cannot remember your webauthor password, please contact the IT Service Desk. A web administrator (departmental web administrator) is the person with responsibility for the full department website. They are listed here designated departmental web administrator  They can approve requests to give staff/postgraduates access to edit the website, or pages within the site. It is their responsibility to ensure that access is granted / revoked as staff move into and leave from the department. A web administrator cannot revoke their own access, if they leave the department the Department Head / Head of School must email itservicedesk@tcd.ie to change the web administrator. A web author is a staff member or postgraduate who has been given access to edit the departmental website, or pages within the website. A department can have multiple web authors, it is the responsibility of the web administrator to ensure correct staff members have access to edit the site. In order to make changes to websites that you have access to and upload them to the web server, you will need a file edit and transfer program such as Dreamweaver. If you wish to use Dreamweaver, please visit the following web pages for more information.
+
+Maintaining Trinity Webpages - Frequently Asked Questions 
+Configuring Dreamweaver to Publish to the Trinity Web Server.
+
+It is also recommended that new webauthors attend the following course Maintaining Trinity Websites using Dreamweaver. 
+Why has my webauthor account been removed?
+There are several circumstances where your webauthor account will be removed:
+Your permissions have been removed
+If a site administrator requests withdrawal of permissions for your webauthor account and this subsequently leaves you without permission to edit any Trinity website content, your webauthor account will be removed.
+Your account was a temporary one
+If a temporary webauthor account is granted to you for Dreamweaver training, it will be removed after the training session.
+Your account is inactive
+If your webauthor account has not been used in 12 months it will be considered inactive and removed.
+Your Trinity computer account has expired
+If your  Trinity computer account is expired, your webauthor account will be removed
+Please note: Removal of your account does not remove or change any files of folders you had permissions to. Once your account is removed, IT Services have no record of the permissions held by your account.
+ It is also recommended that new webauthors attend the following course Maintaining Trinity Websites using Dreamweaver.  There are several circumstances where your webauthor account will be removed: Your permissions have been removed
+If a site administrator requests withdrawal of permissions for your webauthor account and this subsequently leaves you without permission to edit any Trinity website content, your webauthor account will be removed. Your account was a temporary one
+If a temporary webauthor account is granted to you for Dreamweaver training, it will be removed after the training session. Your account is inactive
+If your webauthor account has not been used in 12 months it will be considered inactive and removed. Your Trinity computer account has expired
+If your  Trinity computer account is expired, your webauthor account will be removed Please note: Removal of your account does not remove or change any files of folders you had permissions to. Once your account is removed, IT Services have no record of the permissions held by your account. 
+itservicedesk@tcd.ie
+
++353-1-896-2000
+
+ 
+										IT Services Ground Floor Áras An Phiarsaigh Trinity College Dublin Dublin 2 Ireland
+									 
+										View the contact page for more contact and location information
+									 Gaeilge (Baile)  IT Services Knowledge Base > Web Publishing > Webauthor accounts > General information 
+
+Updated 
+30 July 2024
+
+ 
+
+
+

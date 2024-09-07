@@ -1,0 +1,234 @@
+The Home of the Security Bloggers Network Home » Promo » Cybersecurity » Security Podcasting, Hacking Stories, and The State of Firmware Security with Paul Asadoorian Paul Asadoorian, OG security podcaster and host of the popular Paul’s Security Weekly podcast, joins us in this episode to talk about his career as one of the original security podcasters. Paul’s been podcasting for more then 17 years! Paul also shares with us some of his greatest hacking stories and don’t miss our lively discussion about the state of firmware security. ** Links mentioned on the show * Paul Asadoorian’s Hacker Musings, Security Podcasts, and Nerd Stuff.
+https://securitypodcaster.com/ Paul’s YouTube Channel
+https://www.youtube.com/@securitypodcaster Paul’s Security Weekly Podcast
+https://www.youtube.com/@SecurityWeekly
+https://podcasts.apple.com/us/podcast/pauls-security-weekly/id91472687 Connect with Paul
+https://www.linkedin.com/in/paulasadoorian/
+https://infosec.exchange/@paulasadoorian
+https://twitter.com/securityweekly ** Watch this episode on YouTube ** 
+ ** Become a Shared Security Supporter ** For only $5 per month get exclusive access to ad-free episodes, listen to new episodes before they are released, get access to our private Discord server, receive a monthly shout-out on the show, and get a discount code for 15% off merch at the Shared Security store. Become a supporter today! https://patreon.com/SharedSecurity ** Thank you to our sponsors! ** SLNT Visit slnt.com to check out SLNT’s amazing line of Faraday bags and other products built to protect your privacy. As a listener of this podcast you receive 10% off your order at checkout using discount code “sharedsecurity”. Click Armor To find out how “gamification” of security awareness training can reduce cyber risks related to phishing and social engineering, and to get a free trial of Click Armor’s gamified awareness training platform, visit: https://clickarmor.ca/sharedsecurity ** Subscribe and follow the podcast ** Join the Shared Security Community on Reddit: https://www.reddit.com/r/SharedSecurityShow/ Subscribe on YouTube: https://www.youtube.com/c/SharedSecurityPodcast Watch and Subscribe on Odysee (YouTube alternative)
+https://odysee.com/@SharedSecurity:c Follow us on Mastodon: https://infosec.exchange/@sharedsecurity Follow us on Twitter: https://twitter.com/sharedsec Visit our website: https://sharedsecurity.net Subscribe on your favorite podcast app: https://sharedsecurity.net/subscribe Sign-up for our email newsletter to receive updates about the podcast, contest announcements, and special offers from our sponsors: http://eepurl.com/dwcc8D Leave us a rating and review: https://ratethispodcast.com/sharedsecurity Contact us: https://sharedsecurity.net/contact The post Security Podcasting, Hacking Stories, and The State of Firmware Security with Paul Asadoorian appeared first on Shared Security Podcast. *** This is a Security Bloggers Network syndicated blog from Shared Security Podcast authored by Tom Eston. Read the original post at: https://sharedsecurity.net/2023/06/26/security-podcasting-hacking-stories-and-firmware-security-with-paul-asadoorian/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

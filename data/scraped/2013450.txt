@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://tulsaworld.com/ap/article_0827d544-4071-526b-8398-19b8198d42e0.html

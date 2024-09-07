@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.bakersfield.com', port=443): Max retries exceeded with url: /ap/news/zoetis-to-participate-in-the-stifel-2023-jaws-and-paws-conference/article_043b90fd-a9ea-5e6a-8986-ff98501a6eec.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da96a91870>, 'Connection to www.bakersfield.com timed out. (connect timeout=5)'))

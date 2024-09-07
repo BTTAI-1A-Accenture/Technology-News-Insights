@@ -1,0 +1,33 @@
+Sign Up! 
+
+envelope_alt
+
+
+ Get the latest Android News in your inbox every day 
+
+arrow_right
+
+
+ 
+Sign up to receive the latest Android News every weekday:
+ 
+
+ Only send updates once a week
+
+ 
+Android Headlines / Android News / Twitter puts third-party clients out of business It’s now official, Twitter basically put all third-party Twitter clients out of business. About a week ago, the company blocked third-party app access to its platform. It seemed like an error at first, but it was not. It’s now official. Twitter has now issued new developer rules, which essentially cut off third-party apps. The company states that you can’t use Twitter’s API or content to “create or attempt to create a substitute or similar service or product to the Twitter Applications”. Just to be clear, ‘Twitter Applications’ refers to the company’s “consumer facing products, services, applications, websites, web pages, platforms, and other offerings, including without limitation, those offered via https://twitter.com and Twitter’s mobile applications”. This rule basically destroyed all third-party Twitter apps out there, including Tweetbot, which was immensely popular. Developers behind both Tweetbot and Twitterific said that they didn’t receive any communication regarding what was going on, prior to the block on January 12. So, why did Twitter do this? Well, the most obvious answer is probably the right one, money. The Verge actually explained things really well regarding the whole situation. Twitter has been struggling financially for a while, and it seems like things got worse from when Elon Musk took over. Considering that third-party clients probably earn the company less money, this change happened. Some developers do pay to access the API, but Twitter doesn’t serve ads through it. Also, people using third-party clients are probably not interested in the Twitter Blue subscription, at least most of them. Can we expect Twitter to change its mind? Well, it’s unlikely. This change obviously didn’t happen by accident, Twitter obviously knew what it was doing here. Many people used Tweetdeck, and a number of other, third-party solutions. That will no longer be possible, however, unfortunately. Copyright ©2023 Android Headlines. All Rights Reserved. Kristijan has been writing for Android Headlines since 2014 and is an editor for the site. He has worked as a writer for several outlets before joining Android Headlines, and has a background in writing about Android and technology in general. He is a smartphone enthusiast that specializes in Android applications, and that platform in general. Contact him at [email protected] Main Deals & More Android News Sign Up! 
+
+envelope_alt
+
+
+ Get the latest Android News in your inbox every day 
+
+arrow_right
+
+
+ 
+Sign up to receive the latest Android News every weekday:
+ 
+
+ Only send updates once a week
+

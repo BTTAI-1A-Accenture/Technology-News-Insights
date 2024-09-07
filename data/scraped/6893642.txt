@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.adelaidenow.com.au', port=443): Read timed out. (read timeout=5)

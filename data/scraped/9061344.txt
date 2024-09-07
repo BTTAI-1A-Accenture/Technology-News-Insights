@@ -1,0 +1,5 @@
+    Shaun NicholsAugust 16, 2024 Administrators ready to take an early weekend have been served with what might be the scariest three words in IT: Critical SolarWinds Vulnerability. Steve ZurierAugust 16, 2024 Security pros say the Entra ID flaw could let attackers impersonate a user with Global Admin privileges, even the CEO. SC StaffAugust 16, 2024 Attackers could have leveraged the issue in the Setuptools Python package — which is used to facilitate Python library management and installation in AI models — to enable arbitrary code execution via specially crafted package URLs. Thu Aug 29 On-Demand Event On-Demand Event   By clicking the Subscribe button below, you agree to SC Media Terms and Conditions and Privacy Policy.     
+        Copyright © 2024 CyberRisk Alliance, LLC All Rights Reserved.
+        This material may not be published, broadcast, rewritten or redistributed
+        in any form without prior authorization.
+       Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms of Use.

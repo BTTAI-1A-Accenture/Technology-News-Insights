@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://gazette.com/news/us-world/tech-sector-layoffs-warning-sign-of-broader-job-losses/article_0e53ed94-33fd-5d94-8521-820f97af307e.html

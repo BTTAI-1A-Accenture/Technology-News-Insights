@@ -1,0 +1,25 @@
+Home » Press Release 
+Helix by Q2 (NYSE:QTWO), an award-winning, cloud-native core purpose-built for Banking-as-a-Service (BaaS), announced today a new partnership with Unit21 to provide customers with Unit21’s fraud detection and investigation infrastructure, which identifies and prevents suspicious activity for payment providers, fintechs, banks and more.
+ 
+Through the partnership, Helix will offer a pre-integrated fraud, risk and anti-money laundering (FRAML) infrastructure to help monitor, investigate and resolve suspicious activity. By accessing Helix user data, Unit21 has the capability to flag suspicious transactions at the user level based on the context provided by the user’s previous financial activity. Pairing these two elements enables fintechs to create a more holistic, multi-layered approach to fraud detection and prevention.
+ 
+“Fraud monitoring cannot be a generalized experience. To be effective, it must be personalized to the user,” said Ahon Sarkar, general manager, Helix. “By partnering with Unit21, fintechs and consumer brands will have the risk tools to confidently create individualized customer experiences while adding another layer to their fraud management stack to drive profitability without harming the customer experience.”
+ 
+The integration of Unit21 solutions to Helix’s embedded finance core will help fintech companies and consumer brands confidently create individualized customer service experiences knowing they have the risk tools to support their unique offerings.
+ 
+“Unit21 and Helix have partnered together to put the customer’s financial well-being at the center,” said Unit21 CEO and co-founder Trisha Kothari. “Customers already use Unit21’s risk and compliance infrastructure to eliminate data silos and make updates in real-time to detect and prevent fraud. Combining that with Helix core data allows customers to approach fraud and risk proactively and more holistically than before. This allows them to deliver a superior end-user experience by utilizing metadata to create personalized financial products with a proactive approach to fraud and risk baked-in.”
+ 
+“Unit21 has embraced Banking-as-a-Service by providing tools for banks and fintechs to reduce fraud and money laundering risks. Transaction monitoring is a key pillar of a strong anti-money laundering (AML) and fraud program that allows both parties to have long-term success,” said Brian Fellows, senior vice president and director of risk management at nbkc bank, a Helix partner bank. “Partnering with Helix and Unit21 has enabled the bank to have visibility into our fintech partner’s transaction monitoring processes, enabling stronger controls by the bank, all while reducing the AML and fraud risk for both parties. Unit21’s capabilities to seamlessly share information between the bank and fintech has enabled quicker identification of risks, timely investigations, and reduction in overall workload for both teams.”
+ 
+Helix serves over 14 million users nationwide and processes over $51 billion in transactions annually. It offers the building blocks of banking – accounts, cards, payments, data and controls, administrative tools and monetization solutions – all in one place, making it easier for innovative companies to embed personalized financial experiences within their applications. In 2021, Unit21 monitored approximately $40 billion in transactions and protected more than 320 million entities.
+ 
+For more information about Helix, visit helix.q2.com. For more information about Unit21, visit unit21.ai.
+ 
+About Helix by Q2
+ 
+Helix’s award-winning Banking-as-a-Service platform gives innovative fintechs and brands the building blocks of banking — accounts, cards, payments, data and controls, admin tools, and monetization solutions — to make it easy to embed personalized financial experiences that easily integrate and scale. For more information on Helix, visit helix.Q2.com. Follow us on LinkedIn and Twitter to stay up-to-date.
+ 
+About Unit21
+ 
+Unit21 helps protect businesses against adversaries with infrastructure that enables risks and compliance professionals to combat fraud and money laundering across multiple industries. Visit unit21.ai or follow @unit21inc on Twitter.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230223005357/en/

@@ -1,0 +1,19 @@
+Reddit says that it was hacked earlier this month, in a security incident that compromised some company data. However, the company says that Redditors have no need to fear because user data was not impacted by the episode—at least, that the company knows of…“so far.” In a thread posted to the official r/reddit community on Thursday, a company rep explained that a  phishing attack had taken place on the evening of Feb. 5. “Based on our investigation so far, Reddit user passwords and accounts are safe, but on Sunday night (pacific time), Reddit systems were hacked as a result of a sophisticated and highly-targeted phishing attack,” the statement reads. “They gained access to some internal documents, code, and some internal business systems.” The hacker, whoever they were, managed to trick a Reddit employee into clicking on a “plausible-sounding” prompt that forwarded them to a “website that cloned the behavior of our intranet gateway, in an attempt to steal credentials and second-factor tokens.” After the hacker nabbed the user’s login credentials, they used them to access “some internal docs, code, as well as some internal dashboards and business systems,” as the company puts it. In its statement, Reddit stresses that it doesn’t think users were impacted by the digital intrusion. “Based on several days of initial investigation by security, engineering, and data science (and friends!), we have no evidence to suggest that any of your non-public data has been accessed, or that Reddit’s information has been published or distributed online,” the company says. Reddit used the opportunity to encourage Redditors to beef up their personal account security. “Since we’re talking about security and safety, this is a good time to remind you how to protect your Reddit account…Learn how to enable 2FA in Reddit Help.” When it comes to minor data breaches, this isn’t Reddit’s first rodeo. In fact, approximately five years ago the platform posted a thread with an identical headline, announcing that it had been hacked in a somewhat similar way. It’s good that Reddit is being transparent and candid with users about this incident, although “we don’t think any of your data was stolen” has an unfortunate habit of being what a company says before a larger breach is announced. That said, there’s no indication that that’s the case here—you know, so far. 
+          Reddit claims the move which, further bolsters Google's search engine dominance, has nothing to do with an exclusive deal between the two companies. 
+         
+          Take your Reddit experience to the next level with these tips for beginners and veterans. 
+
+         
+          The Cocoapods vulnerabilities could threaten TikTok, Snapchat, LinkedIn, Netflix, Microsoft Teams, Facebook Messenger, and many others.
+         
+          Americans lost $10 billion to fraud in 2023, with $1.4 billion worth starting on social media, according to the FTC.
+         
+          AU10TIX promised to keep user data safe but the company appears to have badly bungled its own security.
+         
+          Gizmodo has a new owner, the firm Keleops, and we are looking to grow our team.
+         We may earn a commission when you buy through links on our sites.
+©2024 GIZMODO USA LLC. All rights reserved. Mode 
+                Follow us
+               Mode 
+                Follow us
+              

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.caledonianrecord.com/news/national/aligned-ranked-33-on-tech-industry-s-most-prestigious-list/article_c1229376-3d72-560c-b54b-9e30fb050e6c.html

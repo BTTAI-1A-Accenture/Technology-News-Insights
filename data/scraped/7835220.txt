@@ -1,0 +1,95 @@
+This site uses cookies to enhance your user experience. By continuing to use this site you are agreeing to our COOKIE POLICY.
+ 
+						ERROR 1
+					 
+						ERROR 1
+					 
+							ERROR 2
+					 
+							ERROR 2
+					 
+							ERROR 2
+					 
+							ERROR 2
+					 
+							ERROR 2
+					 
+							Password and Confirm password must match.
+					 
+							If you have an ACS member number, please enter it here so we can link this account to your membership. (optional)
+					 
+							ERROR 2
+					 
+						ACS values your privacy. By submitting your information, you are gaining access to C&EN and subscribing to our weekly newsletter. We use the information you provide to make your reading experience better, and we will never sell your data to third party members.
+					 
+						Already have an ACS ID? Log in here
+   
+           
+               Already an ACS Member?
+               Log in here
+            
+             
+          $0 Community Associate
+ ACS’s Basic Package keeps you connected with C&EN and ACS. $80 Regular Members & Society Affiliates ACS’s Standard Package lets you stay up to date with C&EN, stay active in ACS, and save. $160 Regular Members & Society Affiliates
+$55 Graduate Students
+$25 Undergraduate Students ACS’s Premium Package gives you full access to C&EN and everything the ACS Community has to offer. 
+                                    
+                                    Your account has been created successfully, and a confirmation email is on the way.
+                                    
+                                 
+                                    
+                                    Your username is now your ACS ID.
+                                    
+                                 Most Popular in Business
+
+
+C&EN’s Global Top 50 chemical firms for 2024 
+
+
+C&EN’s Global Top 50 chemical firms for 2022
+
+
+What’s in sunscreen, and how does it protect your skin from the sun’s rays?
+
+
+What are glow sticks, and what’s the chemical reaction that makes them light up?
+
+
+Is ammonia the fuel of the future?
+
+
+   ▸ Sales: $242 billion, nearly two-thirds of which are international ▸ Exports: $127 billion, approximately 10% of Germany’s total exports ▸ Number of companies: 2,230, over 90% of which are small or midsize enterprises ▸ Number of employees: 473,000, 40% of whom work for small or midsize enterprises ▸ Ranking: Fourth in world, after the US, China, and Japan ▸ R&D spending: $4.7 billion, half of chemical industry R&D in the EU Sources: German Office for Foreign Trade, The European Chemical Industry Council.
+Note: Financial figures are for 2021.  BASF’s gargantuan site in Ludwigshafen symbolizes the German chemical industry’s stature. The site, which started commercial operations in 1873, is the world’s largest integrated chemical complex. It spreads across 10 km2 and houses 39,000 employees and 200 production plants. It consumes as much natural gas as the country of Switzerland. Germany is by far the largest chemical producer in Europe. In 2021, the country’s chemical industry generated sales of $242 billion, or 27% of the sector’s total revenue in the European Union. But the natural gas crisis that has bruised European competitiveness in chemical manufacturing hit Germany disproportionately hard. With a sharp decline in production, disrupted supply chains, and enormous energy costs, firms are considering the possibility that Germany’s days as a chemical industry stronghold are over. “Natural gas defines Germany’s energy system. We’ve done nothing for years but switch our entire energy supply from oil and coal to gas, for reasons such as climate protection,” says Jörg Rothermel, an energy expert at VCI, Germany’s main chemical industry trade group. “I don’t like to make sweeping statements, but it’s never looked as bleak as it does today.” Because of its dependence on Russian gas, Germany felt the impact of the energy crisis more than European countries such as Italy, Belgium, and the Netherlands. As sanctions took hold after Russia invaded Ukraine, Russia cut supplies. Many European countries were able to source natural gas from Norway and Algeria or to fall back on imported liquefied natural gas (LNG) shipped into their own ports. Germany, however, had no LNG terminals of its own and obtained much of its natural gas supplies via the Nord Stream 1 pipeline, which runs under the Baltic Sea from Russia to Germany. The pipeline was bombed in September and left inoperative. Fears of a natural gas shortage helped drive electricity prices from about $21 per MW h in early 2021 to over $375 per MW h in the summer of 2022. 
+
+										Related: Europe faces new painful normal of higher natural gas prices
+									
+ Things look a little brighter now. A mild winter and government measures kept the dreaded shortage at bay. As Germany moves into the summer, power prices are hovering around $53 per MW h, and the country’s gas reservoirs are at almost 70%. In December, the German government inaugurated its first floating LNG terminal, docked in the northern industrial port of Brunsbüttel. But the chemical industry remains tense. The 2022 price hike decimated chemical production, and it hasn’t rebounded, Rothermel says. The VCI calculated overall drops in production of 6.0% in 2022 from 2021 and of 0.9% in the first quarter of 2023 from the previous quarter. When the pharmaceutical business is excluded, the year-on-year decline was 10%. The petrochemical business was hit particularly hard, recording a 16% drop in production. Output of inorganic base materials, polymers, and specialty chemicals fell by almost 10%. In turn, these declines are creating supply issues, and half the VCI’s members have reported a lack of base materials such as pigments, carbon and glass fibers, hydrochloric acid, caustic soda, technical carbon dioxide, organic silicone compounds, and iron chloride. Profits are falling at 80% of businesses, and every fourth company is posting losses, the trade group says. The crisis has been a death sentence for some energy-intensive production lines in Germany. Trinseo closed its styrene facility in Böhlen, and Olin announced that it intends to shut down methylene chloride and chloroform production in Stade by the third quarter. In Ludwigshafen, BASF permanently closed two of its ammonia plants “because they are no longer competitive,” a spokesperson says. The industry giant is also idling other units there, including downstream nitrogen fertilizer facilities, a caprolactam plant, and capacity for soda ash. BASF had $3.4 billion in additional costs in 2022 as a result of the energy price hike. “In April 2022, if gas supplies had fallen to less than 50% of 2021 levels, we would have been forced to idle the entire [Ludwigshafen] site,” CEO Martin Brudermüller said in his speech at BASF’s annual press conference in April. The firm coped by curbing energy-intensive production and cutting thousands of jobs, as well as switching some of its power plants to oil. “Today, we would be able to operate our largest site even if we received only around 30% of the natural gas volumes,” Brudermüller said. “And as of this fall, in extreme cases, we could make do with only around 10%.” But Brudermüller admitted that he is increasingly concerned about BASF’s home market. “Profitability is no longer anywhere near where it should be. Last year, we booked negative earnings of around €130 million [about $139 million] in Germany,” he said. Going forward, BASF will focus on investment in Asia, he added. “We need a more balanced regional structure. For Europe, in particular, this is a painful reality.” Not every company is ready to turn its back on Germany. At Wacker Chemie, a “substantial share” of the investment budget remains dedicated to projects in the country, CEO Christian Hartel says. Wacker is expanding its facilities for specialty silicones and electronic-grade polysilicon at its site in Burghausen. The firm is also building a plant for hybrid polymers, silanes, and liquid resins in Nünchritz; a competence center for active ingredients for messenger RNA drugs in Halle; and a biotechnology research center in Munich. Wacker temporarily shut down its combined heat and power plant in Burghausen in the summer of 2022, but Hartel says this was part of a regular maintenance measure. “All of our facilities in Germany were fully operational at all times,” he says. Although Wacker counted $1.4 billion in additional energy costs in 2022, it also reported record sales and earnings. The firm balanced higher energy prices with higher selling prices and several energy-saving programs, according to Hartel. “We have certain opportunities to compensate for the consequences of lower gas supplies, such as partially replacing gas with heating oil if necessary,” he says.But Hartel says a new approach to the energy problem is needed. “In the long run, our procurement strategy will not be able to offset the high energy costs we are facing in Germany,” he says. A transition to renewables is the only way out of the energy squeeze, he adds, and Wacker is lobbying the German government to bridge the transition with a discounted industrial electricity price. The energy crisis is compounded by a lack of orders. According to a VCI report for the first quarter of 2023, weak demand from industrial customers shrunk sales by 6.7% from the previous quarter and, for the first time in 2 years, pulled them below the level of the year-earlier quarter. At Covestro, another major German firm, 2022 earnings before taxes and other items fell by almost half, to $1.7 billion, although the firm recorded sales growth of 13%. “In the first half of last year, the demand and supply situation was still in our favor, so most of the energy price increase could be passed on to our customers,” says Covestro chief technology officer Klaus Schäfer. In the second half of 2022, demand weakened, and the firm’s energy costs rose to $1.9 billion from $640 million in the first half of 2021. “To cope with that situation, we did what you usually do in companies like ours: focus on business-critical spending only and go on a kind of contingency mode in all the other areas,” Schäfer says. Covestro also switched from gas- to oil-fired steam generation where it could, and it got creative in saving on energy costs by using only 1 of the 10 office buildings at its Leverkusen site over the winter. Covestro’s production has bounced back, but we are not on the level we were precrisis,” Schäfer says. “The demand situation is still weak.” Schäfer considers high energy prices a problem that affects not only Germany but all of northwestern Europe. Covestro has steadily expanded its presence in North America and Asia, and only 40% of its operations are in Europe. Schäfer does not rule out that the company will stop investing in Europe completely. “Our focus was always to invest in the region for the region, and we will follow the market as long as the arbitrage between the different regions does not force us to do something different,” Schäfer says. “If the landed cost for a product out of Saudi Arabia, out of the US, or China in Europe is significantly lower than the cost of producing products here, then of course investing in production in Europe is not possible anymore.” The European Chemical Industry Council (Cefic) says better energy prices in North America, in particular, are wrecking the competitiveness of the European chemical sector. “Prices paid in Europe in Q1 2023 are still, on average, about five times the ones paid in the USA,” the trade group says in an email. Cefic says there “may be some hope for the remainder of the year” for the EU if the downturn in the Germany industry slows and energy prices become more competitive. Klaus-Peter Jung, a partner at the supply chain analysis firm Miebach Consulting, says Germany is unlikely to see a mass exodus of chemical producers anytime soon. “Investment decisions in the chemical industry are neither made in 1 day nor based on a single event,” he says, but factors such as the Inflation Reduction Act are drawing new investment to the US. “Some of our European clients that were planning to build a facility in Germany are now building them in the US because that’s where investment subsidies are.” While larger firms are contemplating where to build their next facilities to sidestep energy costs in Germany, small and midsize enterprises, known as SMEs, don’t usually have the luxury of choice. Such firms suffered acutely from high energy prices and problems with raw material supplies—and did not have the ability to buy in bulk or negotiate favorable long-term energy contracts, Jung says. They now lack the capital or production volumes to expand globally. Jung is advising small firms to reduce costs where they can but avoid job cuts. “We’re struggling with a massive skills shortage in Germany, and the people they would let go now are the same people they won’t be able to find again if things are looking up in a few years,” he says. But small producers have also been the most dramatically impacted by the decline in demand, which Jung says is causing some of his clients to reduce output by 15–20%. “And at that stage, we’re no longer talking about short-term cost savings programs. That means structural changes,” he says. 
+
+										Related: Another bad quarter for Germany’s chemical sector
+									
+ Worlée, which supplies binders, resins, and acrylates for the construction industry, is typical of smaller German chemical firms. The 650-employee SME has been producing chemicals and natural raw materials since 1851 and has been run by the same family for five generations. The company is affected by a lack of demand that stems from financially struggling consumers who are no longer renovating or buying houses. Worlée reduced output as its energy costs doubled, but it was able to keep production running at its north German production sites in Lauenburg and Lübeck, says managing director Reinhold von Eben-Worlée. The SME switched part of its energy consumption from natural gas to oil and ramped up investment in energy-efficient alternatives such as heat pumps. Future investments will be geared toward renewable energy, including a photovoltaic system, to secure greater independence from the natural gas market. “It is important to us that we continue production and do not fall out of the energy supply,” von Eben-Worlée says. “We were quite worried about that a year ago.” Investments in renewable energy are a common trend among chemical industry SMEs, says von Eben-Worlée, who was formerly president of the German association of family businesses. Larger SMEs are taking production outside Europe, he says, but various small firms with energy-intensive facilities have had to shut down. Rothermel says the VCI had “many signals” last year that small companies would be forced to close facilities, but the drop in natural gas prices allowed most to avert disaster. At this stage, he says, companies are steering clear of making rash decisions. “Many are now in a phase of figuring out how to move forward. There is a certain hope that we reached the low point last winter, and things are looking up for the second half of this year.” But it is uncertain whether Germany will make it through the next winter as well as it did the last one. The stalemate between Russia and Ukraine means Europe’s energy crisis could endure for some time, and natural gas storage operators caution that a cold winter could deplete Germany’s supplies. Even in the best-case scenario, German chemical producers must get used to permanently higher energy prices, industry experts say. If Germany is to remain an industry stronghold, Rothermel says, firms will have to adapt “by switching to productions that are better suited to an environment with high energy prices. There will certainly be structural changes, too. Other than that, it’s difficult to see how firms can become more resilient, especially smaller ones that can’t just move production to other locations during dry spells in Germany.” Meanwhile, the industry is lobbying strongly for government support. Germany’s economic minister, Robert Habeck, announced plans in May to earmark more than $4 billion annually to subsidize electricity prices for energy-intensive industries, with the aim of discouraging firms from moving offshore. The government is discussing the details of the subsidy, but Habeck says it could cap prices at about $65 per MW h and cover 80% of industrial firms’ consumption. VCI welcomed the plan as a potential game changer. Rothermel says government measures would lower the risk of firms abandoning Germany. “The longer the current status of uncertainty and noncompetitive parameters persists, the greater the danger that companies will lose interest in keeping production in Germany,” he says. Covestro’s Schäfer rates the situation as stable, after a “roller coaster” of a year, although he notes that the geopolitical situation and its impact on energy supplies remains unpredictable. 
+
+										Related: Third-quarter 2022 was difficult for chemical makers
+									
+ “If you would have asked me in November, in view of the bleak outlook given by energy experts, I probably would have said the end is near,” Schäfer says. “With the gas prices we have currently, with the appropriate support from the government, I am optimistic that the industry will, and can, and must continue in Germany and Europe.” Vanessa Zainzinger is a freelancer writer who covers the chemical industry. Sign up for C&EN's must-read weekly newsletter 
+
+
+
+Contact us to opt out anytime
+
+
+
+ Article: 
+
+ This article has been sent to the following recipient:  
+
+ Contact the reporter 
+ 
+
+ Submit a Letter to the Editor for publication 
+ 
+
+ Engage with us on Twitter 
+ Already have an ACS ID? 
+                                    Log in
+ Sign up for C&EN's must-read weekly newsletter  Copyright © 2024 American Chemical Society. All Rights Reserved.

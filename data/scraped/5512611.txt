@@ -1,0 +1,29 @@
+
+                    KanawatTH/Getty Images
+                   Sign up for our newsletter  Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Chris Riotta
+ The federal government wants public input on how to better secure open source software — an increasingly critical component of the digital landscape.  The White House-based Office of the National Cyber Director issued a request for information with the Cybersecurity and Infrastructure Security Agency and other federal entities on Thursday soliciting feedback on ways the federal government can support secure open source software development while strengthening software supply chains and reducing a broad range of security vulnerabilities.  The open source development model has historically been resistant to traditional regulatory approaches, because it is fragmented and decentralized. The RFI requests insights on what areas of focus should be developed and prioritized, and what technical, policy and economic challenges should be considered as the government attempts to bolster security across the open source landscape. Eric Goldstein, CISA's executive assistant director of cybersecurity, and Camille Stewart Gloster, ONCD's deputy national cyber director for technology and ecosystem security, said in a blog post that both agencies "envision an ecosystem in which creating secure open source code and regularly assessing the security of existing open source code is the norm rather than an added burden." "Software manufacturers that consume open source software should contribute back to the security of the open source software they depend upon," the post read. The RFI also seeks input on the adoption of memory safe programming languages, which mitigate memory-related vulnerabilities and reduce the likelihood of recurring coding issues.  CISA said it will publish on an open source security strategy in the coming months while continuing to work on open source software security with ONCD, which has established an interagency working group to explore open source software security measures. Responses to the RFI are due Oct. 9.
+
+ 
+NEXT STORY:
+
+              CACI's CEO views artificial intelligence as an 'enabling tech'
+            
+
+
+
+ 
+                  Insider Customer Service 
+                  800-353-9118 or 
+                  email washingtontechnology@omeda.com
+ Help us tailor content specifically for you:

@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/thenewswire-2023-2-17-adalta-welcomes-long-term-support-from-yuuwa-capital-investors (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e2459f93e50>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

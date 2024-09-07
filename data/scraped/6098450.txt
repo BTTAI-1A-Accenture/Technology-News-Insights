@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://tulsaworld.com/news/local/14-charts-that-show-how-the-economy-is-performing-in-tulsa-and-oklahoma/article_73709fb9-c409-5d57-93cb-0ae44b646d28.html

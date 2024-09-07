@@ -1,0 +1,103 @@
+
+ 
+								By 
+
+	Karen Idelson
+ 
+	While debates about the use of A.I. take center stage across the entertainment industry, the technology has been quietly assisting animation and visual effects crews for years. It had made some of the most astonishing visual images possible when artisans have been asked to do what was previously thought impossible. 
+	When helmer Peter Sohn wanted characters based on the elements of fire, water, air and earth for his new film “Elemental,” VFX supervisor Sanjay Bakshi and his team at Pixar looked to A.I. to make the process smoother. The look of the characters depended on adjustments that would align them with Sohn’s vision. 
+	“We used A.I. for a very specific kind of problem, and we used a machine learning algorithm called neural style transfer,” says Bakshi. “Our animation is so highly scrutinized. We go through so many review cycles for every shot and the animators are really handcrafting it and there’s not a lot of places where machine learning is applicable in the current form.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Related Stories		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	VIP+
+	
+
+
+
+	
+		
+					Olympics Screenings in Movie Theaters Highlight Exhibitors’ Need for Alternative Content		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+					Disney Hiking Prices Across All Disney+, Hulu and ESPN+ Stand-Alone Plans and Most Bundles		
+			
+
+
+
+
+
+
+ 
+	“But on ‘Elemental’ we have this one problem where we run these fire simulations on top of the characters to make them feel fiery. Then the flames themselves are going through a pyro simulation that is very realistic. It’s a fluid simulation, a real temperature simulation. So, the flames that it produces are very realistic. We needed a way to stylize those flames themselves. As you can imagine, stylizing a simulation isn’t an easy problem. It’s just so temporal. It’s changing constantly. And that’s the beauty of fire. It’s always so different, which is why it’s mesmerizing to look at. So there are not a lot of techniques out there to stylize flames, but we found one, which is called neural style transfer, and that’s the technique we used. It was really the only tractable solution.”
+
+
+
+
+			Popular on Variety		
+
+
+
+
+ 
+	Gavin Kelly, a founding partner at the Dublin-based Piranha Bar, an animation and VFX house, also sees A.I. as a technology that will come to have more uses as animators and content creators look to push the limits of their visuals. 
+	“At the far end, and we’re not quite there yet, you just film something and then just tell A.I. what you want to change it into in terms of performance capture,” says Kelly. “So, with performance capture, it’s very complex. You’re putting the animation thing together, getting face headset in place, talking to the software that will talk to the hands, the body and everything. Those are all different bits, getting everything to talk together. In order to create this pipeline, it’s very, very complicated. And there’s a lot of trouble-shooting along the way. So, currently, there’s no doubt that there are A.I. movement capture solutions in the past. We’ve looked at them before they’ve been awful and not production-ready. We are now very close to production-ready with being able to roll the camera and A.I. will work it out and it will be robust. And it won’t shake and it will look very convincing.”
+
+	
+
+
+
+
+
+
+
+
+ 
+	For Bakshi and his team, A.I. still requires careful adjustments from artists and VFX crews to get the visuals where they want them to go. Nothing can be taken for granted. 
+	“The person who worked with on us on A.I. was Jonathan Hoffman and he described it like throwing fish into a tornado, and hoping to get sushi out of these machine-learning algorithms,” laughs Bakshi. “So you can input what you want and you may get something really beautiful, but it still might not be what you wanted to get from the animation that comes back to you.” 
+			A Variety and iHeartRadio Podcast		 The Business of Entertainment

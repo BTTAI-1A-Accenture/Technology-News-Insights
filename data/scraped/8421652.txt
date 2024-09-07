@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.smetimes.in', port=443): Max retries exceeded with url: /smetimes/news/top-stories/2023/Jan/30/startup-budget80751.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))

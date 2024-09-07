@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://billingsgazette.com/news/nation-world/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223-000/article_deb61c50-7cb1-50d3-aca1-e634c0c5f045.html

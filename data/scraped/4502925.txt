@@ -1,0 +1,34 @@
+SAN FRANCISCO, CA – November 15, 2022 – Bugcrowd, the leader in crowdsourced cybersecurity, today announced that CREST, the gold standard for quality assurance accreditation in the cybersecurity industry, has named the company as a CREST Accredited provider for penetration testing. The certification acknowledges that Bugcrowd meets the CREST standards for:
+
+●	Company operating procedures and standards
+●	Testing by trusted, reliable, qualified 
+pentesters
+●	Ethical and effective testing procedures
+●	Protecting customer data
+
+"CREST accreditation is widely considered a proof point for thorough, effective, reliable penetration testing, especially in regulated industries like Financial Services and Public Sector,” said Casey Ellis, Founder, Chairperson and CTO, Bugcrowd. “We're proud to have earned this distinction for Bugcrowd Penetration Testing."
+
+“We are pleased to welcome Bugcrowd as a CREST member company,” said Rowland Johnson, president of CREST. “Bugcrowd’s accreditation for providing penetration testing in the UK gives its customers added reassurance that its services meet the very highest standards because CREST accreditation requires rigorous assessment of business processes, data security and testing methodologies. This puts Bugcrowd in a strong position, along with other CREST members, to take advantage of the growing demand for high quality penetration testing services.”
+
+About CREST
+
+CREST is an international not-for-profit accreditation and certification body that represents and supports the technical information security market. CREST provides internationally recognised accreditations for organisations and professional level certifications for individuals providing vulnerability assessment, penetration testing, cyber incident response, threat intelligence services and Security Operations Centre (SOC) services. All CREST member companies undergo regular and stringent assessment; while CREST-qualified individuals have to pass rigorous examinations to demonstrate knowledge, skill and competence. CREST is governed by elected Councils of experienced security professionals who also promote, develop and support awareness, ethics and standards within the cyber security marketplace.[TDS4] 
+
+About Bugcrowd
+
+Today’s organisations demand a proactive approach to cybersecurity that uncovers hidden vulnerabilities in the attack surface, before malicious hackers find them. Bugcrowd offers the only multi-solution platform for crowdsourced security that orchestrates data, technology, and human intelligence to find risks that other approaches commonly miss. With that unique approach, the Bugcrowd Security Knowledge Platform™ enables businesses to do everything proactively possible to protect their organisation, reputation, and customers from being blind-sided by cyber attacks through Bug Bounty, Vulnerability Disclosure Programs, Penetration Testing, and Attack Surface Management. Based in San Francisco, Bugcrowd is backed by Blackbird Ventures, Costanoa Ventures, Industry Ventures, Paladin Capital Group, Rally Ventures, Salesforce Ventures and Triangle Peak Partners. Learn more at www.bugcrowd.com.
+
+“Bugcrowd” and “Bugcrowd Security Knowledge Platform” are trademarks of Bugcrowd Inc. and its subsidiaries. All other trademarks, trade names, service marks and logos referenced herein belong to their respective companies.
+
+Contacts
+
+Rose Ross for Bugcrowd EMEA
+Omarketing
+rose@omarketing.com
++44 (0)7976 154 597
+________________________________________
+ [TDS1]Lifted from Penetration Testing as a Service|Bugcrowd
+ [TDS2]Placeholder: we understand that CREST will provide a quote for us.
+ [TDS3]This is from CREST's website (edited for length, but all their own words).
+ [TDS4]From CREST brand guidelines. This press release was distributed by ResponseSource Press Release Wire on behalf of Bugcrowd in the following categories:
+			                Business & Finance, 			                Public Sector, Third Sector & Legal, 			                Computing & Telecoms, 			 for more information visit https://pressreleasewire.responsesource.com/about. Useful links Social ResponseSource

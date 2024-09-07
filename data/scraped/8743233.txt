@@ -1,0 +1,49 @@
+
+Survey Shows Trends in Developer Mental Health, Mobile Gaming and Ineffective Feedback Loops
+ SAN FRANCISCO--(BUSINESS WIRE)--Sauce Labs Inc, the leading provider of continuous testing and scalable test automation solutions, today released new survey data on game developers and ineffective feedback cycles. Sauce Labs surveyed 150 full- and part-time game developers in the U.S. and 500 U.S.-based gamers to gauge how game developers feel about new releases, how feedback impacts them and the effectiveness of existing feedback loops.
+
+  
+Game releases like Battlefield 2042 proved even AAA games can launch with Grade-A glitches — which damage brand reputation. At the same time, launches such as Fallout76 and Cyberpunk 2077 show sub-optimal releases are not always game over — but the effort to save them can feel like it. This survey digs into how developers can break this negative cycle and meet gamer and corporate expectations.
+
+ 
+“We’re in the golden era of video and mobile games, yet the gamer experience doesn’t always reflect the time and effort developers pour into these releases,” said Jason Baum, Director of Community at Sauce Labs. “To improve gaming experiences, developers require actionable, consistent and accurate feedback. Studios need to make an investment in feedback frameworks and testing tools to avoid a negative impact to their reputations and improve the overall well being of developers.”
+
+ 
+Impact on Mental Health
+ 
+While the pressure for developers is getting higher, gamers are getting louder about their negative experiences with unfinished or buggy games, often taking to social media. According to the data, game developers are feeling the wrath, and it’s affecting their mental wellbeing:
+
+ 
+“The findings of this study indicate a need for a transformative shift in how players engage with game developers, as developers' mental and physical health are often on the line," said Dr. Jakin Vela, executive director of International Game Developers Association (IGDA). “For developers to achieve and maintain a fulfilling and sustainable career in the games industry, we must foster a culture of respectful dialogue where players express their concerns constructively, and studios establish more robust channels for feedback. Only then can we protect game developers' mental health and collaboratively craft a future where gaming thrives and respect prevails.”
+
+ 
+The Stakes Are Getting Higher for Developers
+ 
+The gaming industry is continuing to grow and with it so does the pressure to deliver game releases within unrealistic timelines that don’t account for proper feedback cycles, risking future profits:
+
+ 
+Furthermore, the growing shift to mobile gaming has added even more stress, with nearly 4 in 5 developers (79%) saying the pressure to release unfinished or buggy games has increased over the last five years.
+
+ 
+Feedback Loop is Broken But Can Be Repaired
+ 
+The only way to create harmony between gamers and developers is to create a more open channel of communication. 71% of developers say they need feedback about performance, such as the smoothness of the game mechanics and playability, the most.
+
+ 
+However, the existing feedback loop doesn’t lend itself to steady, ongoing improvements. Per the survey:
+
+ 
+Once the feedback loop is repaired, there’s a chance to win back gamers. In fact, 67% of gamers jump back into a buggy game after a period of time, with 51% citing a big update or downloadable content (DLC) worth checking out.
+
+ 
+To review the full survey results, please visit: https://saucelabs.com/resources/report/2023-gaming-experience-survey. To learn more about Sauce Labs and its suite of testing and error-reporting solutions, visit https://saucelabs.com/.
+
+ 
+About Sauce Labs
+ 
+Sauce Labs is a leader in providing cutting-edge continuous testing and error-reporting solutions that streamline the creation, delivery, and enhancement of high-quality code. With over five billion tests performed on its cloud test infrastructure that includes a unified data intelligence layer, Sauce Labs provides a complete solution to optimize testing speed, efficiency, and scalability.
+
+ 
+press@saucelabs.com
+ 
+press@saucelabs.com

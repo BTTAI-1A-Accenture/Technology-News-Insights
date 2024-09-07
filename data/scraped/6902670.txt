@@ -1,0 +1,10 @@
+Cite this articleHide citations CLOSE MLA , . "Can ActivityPub save the internet?." Nieman Journalism Lab. Nieman Foundation for Journalism at Harvard, 24 Apr. 2023. Web. 20 Aug. 2024.  APA , . (2023, Apr. 24). Can ActivityPub save the internet?. Nieman Journalism Lab. Retrieved August 20, 2024, from https://www.niemanlab.org/reading/can-activitypub-save-the-internet/ Chicago , . "Can ActivityPub save the internet?." Nieman Journalism Lab. Last modified April 24, 2023.  Accessed August 20, 2024. https://www.niemanlab.org/reading/can-activitypub-save-the-internet/. Wikipedia {{cite web
+    | url = https://www.niemanlab.org/reading/can-activitypub-save-the-internet/
+    | title = Can ActivityPub save the internet?
+    | last = 
+    | first =  
+    | work = [[Nieman Journalism Lab]]
+    | date = 24 April 2023
+    | accessdate = 20 August 2024
+    | ref = {{harvid||2023}}
+}} To promote and elevate the standards of journalism Covering thought leadership in journalism Pushing to the future of journalism Exploring the art and craft of story The Nieman Journalism Lab is a collaborative attempt to figure out how quality journalism can survive and thrive in the Internet age. It’s a project of the Nieman Foundation for Journalism at Harvard University.

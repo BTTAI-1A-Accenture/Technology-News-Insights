@@ -1,0 +1,41 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+Snyk Announces General Availability of Snyk Cloud and Enhancements to its Platform
+ Dec 30, 2022
+								
+								
+								
+									
+									2
+									min read
+								
+							 by 
+
+
+Aditya Kulkarni
+
+ Snyk, a developer security platform, recently announced the general availability of their cloud security tool, Snyk Cloud, and improvements to their platform. Extending support for software bill of materials (SBOM), the improvements include new reporting capabilities and self-service resources. Snyk Cloud was first announced in July 2022 with limited availability. Using Snyk Cloud, developers can identify cloud security issues early when designing cloud configurations. With a Unified Policy Engine, developers can apply the same security rules to infrastructure as code (IaC) files and runtime cloud resources. Snyk Cloud can scan the code, containers, and third-party dependencies as well. There are live insights from the organization’s cloud in a centralized UI.  Source: SnykLaunch recap: Snyk Cloud, SBOM & reporting capabilities, and customer solutions resources | Snyk Manoj Nair, chief product officer at Snyk said, We built the industry’s leading developer security platform to help companies embrace the business critical transformation of DevSecOps and reap its many benefits. We’re committed to continually improving and evolving the platform to ensure that developers, security engineering and cloud operation teams are able to effectively collaborate to both increase their security posture and speed of innovation. Building on the idea that today’s applications get "assembled" rather than built from scratch, software bill of materials (SBOM) becomes very important. The recent enhancements to the Snyk Developer Security Platform include documenting direct and transitive dependencies using SBOM API and CLI. There is also a free SBOM Checker tool, that needs no Snyk account. Also, Snyk now uses Bomber to scan SBOMs for vulnerabilities. Bomber, an open-source project, pulls vulnerability information directly from the Snyk Vulnerability database. Earlier this year, Snyk acquired TopCoat, a data analytics platform. Leveraging its capabilities, the Snyk Developer Platform offers added granularity to the vulnerability data. Users can create reports to fetch issue details, issue summaries, and risk breakdowns.  Source: SnykLaunch recap: Snyk Cloud, SBOM & reporting capabilities, and customer solutions resources | Snyk As a side, earlier this month, New Relic announced an expansion to its partner ecosystem, Snyk being one of them. Now, users can integrate Snyk with New Relic’s native vulnerability detection. There is a quickstart from Snyk available in the New Relic catalog, sending application security vulnerabilities of users’ services into New Relic. From the aspect of implementing Snyk products and configuring them, Snyk has announced new self-service resources. These resources include self-paced courses and a central hub for knowledge resources. For those who prefer live expertise, kickoff sessions and office hours are available for all new and existing users. Snyk also offers two professional service offerings: Snyk Accelerate and Snyk Premium. These announcements were done at SnykLaunch 2022. For more details on Snyk’s development, readers can follow their GitHub and npm page. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

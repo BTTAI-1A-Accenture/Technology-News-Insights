@@ -1,0 +1,98 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Aug 9, 2024, 9:39pm Marketing customer relationship management (CRM) platforms help businesses manage their pipelines, capture a complete view of their leads and automate personalized marketing campaigns. Forbes Advisor evaluated dozens of popular platforms based on price, ease of use, features and customer support to help you find the best marketing CRM for your needs and budget. Featured Partners 1 monday sales CRM Free; $9 per user per month for basic features 14 days Yes 1 monday sales CRM On monday.com's Website 2 Salesforce $25 per month per user for basic features 30 days Yes 2 Salesforce On Salesforce's Website 3 HubSpot Free; $15 per user per month (billed annually) 14 days Yes 3 HubSpot On HubSpot's Website 4 Pipedrive $14 per user per month (billed annually) 14 days Yes 4 Pipedrive On Pipedrive's Website 5 Creatio $25 per user per month 14 days Yes 5 Creatio On Creatio's Website Pricing  $14 to $52 per month (billed annually) Free Plan  Yes 
+ Key Features  Lead engagement, automated marketing, pipeline management 
+ 
+
+$14 to $52 per month
+(billed annually)
+
+ $14 to $52 per month (billed annually) 
+
+Yes
+
+
+ Yes 
+ 
+
+Lead engagement, automated marketing, pipeline management
+
+
+ Lead engagement, automated marketing, pipeline management 
+ Zoho offers small businesses the tools to manage lead pipelines by attracting new leads, nurturing them through the customer journey and closing sales. Using Zoho’s marketing CRM, you can capture contact and demographic information via web forms and across digital channels. In addition, Zoho’s reports gather and show data surrounding your employees’ interactions with your leads and vice versa. From there, you can seamlessly respond to leads or customers by launching real-time or automated personalized campaigns across the web and via email. Zoho’s complete view of leads and customers offers the insights you need to create custom journeys that nurture purchases. Further, Zoho’s brand-interaction history offers tools to expertly upsell and retain customers by first segmenting them based on their past actions, then automating follow-up. Zoho’s free plan allows a single user to manage one pipeline, 500 records and create campaigns on any device. Its Express version allows users to capture and store 50,000 lead records and manage three pipelines across email, websites and social media. Finally, its Premier plan allows for the management of 100,000 records, ten pipelines and advanced workflows and automations. Learn more about what it has to offer with our Zoho CRM review. Who should use it:  Zoho is most useful for any business wanting to easily tap into personalization for more effective lead generation. Pricing  $19 to $115 per user per month (billed annually) Free Plan  No, but free trial available 
+ Key Features  Automated marketing, email marketing, pipeline management 
+ 
+
+$19 to $115 per user per month
+(billed annually)
+
+ $19 to $115 per user per month (billed annually) 
+
+No, but free trial available
+
+
+ No, but free trial available 
+ 
+
+Automated marketing, email marketing, pipeline management
+
+
+ Automated marketing, email marketing, pipeline management 
+ Zendesk Sell offers one centralized place to manage all your business’s contacts and leads, creating a holistic view of each. Using this data, you can personalize every interaction you have with leads. For example, by understanding the stage in which your lead is in the customer journey, you can easily create a filtered list of other leads at that stage, then send a targeted bulk email to help all of them move to the next stage of the buying journey. To make the process even easier, Zendesk Sell’s email sequences allow you to automate your emails throughout the customer journey. At first contact with a lead, you can create an introductory welcome email, then add future emails to the sequence to move leads from one stage to another until they reach the conversion (or purchase) stage, at which point a sales representative can reach out to them. Zendesk Sell’s reporting features help you to improve your current conversion rates while forecasting successes and potential failures in the future. You can, for example, view your likely revenue during a specific time period. If that forecast is low, you know to pivot your marketing strategy to boost that revenue. One way to solve problems is by accessing Zendesk Sell’s pipeline analysis reports. Here, you can detect any bottlenecks that stand in the way of leads’ progression to the conversion stage. Use this information to test how you might break through those bottlenecks to boost future revenue. Analytics reports that show all channels with which leads interact with your brand give you granular insights into where problems may lie. Learn more about what it has to offer with our Zendesk Sell review. Who should use it:  Zendesk Sell is best for companies that are struggling to understand why their lead conversion rates are low or that want to boost lead conversion rates to meet new goals. Pricing  $12 to $28 per seat per month (billed annually) Free Plan  Yes 
+ Key Features  Lead capture, lead management, marketing automation 
+ 
+
+$12 to $28 per seat per month
+(billed annually)
+
+ $12 to $28 per seat per month (billed annually) 
+
+Yes
+
+
+ Yes 
+ 
+
+Lead capture, lead management, marketing automation
+
+
+ Lead capture, lead management, marketing automation 
+ The marketing CRM features of monday.com allow you to gather data that creates a holistic view of all your leads. From there, you can monitor interactions with your company to deliver a personalized experience that keeps leads moving toward a purchase. Its robust CRM marketing automation tools make monday.com’s CRM stand out from the rest, allowing you to automate marketing tasks for a perfectly targeted, efficient and engaging lead-nurturing marketing strategy. Use monday.com’s website forms to ask leads key questions about their interests. The captured data automatically imports into monday.com’s CRM. Then, using data on leads’ interests and buying stages, tap into email templates to create and send personalized emails, then track their performance and responses. Finally, automate email sequences to continue nurturing a purchase. Email templates even autofill using data from your CRM on each lead. Finally, use more automations coupled with integrations to enact your marketing strategy with ease. Available monday.com marketing integrations include Mailchimp, Facebook Ads, HubSpot, Hootsuite and many more. Integration automations allow you to use automation recipes, for example, to share content marketing posts on preset publishing dates. Then, use integrations to manage your pipeline when marketing campaigns bring in leads. For example, when a lead opens an email, use automation recipes to notify sales reps when it is time to reach out to close the deal. Or, when a lead has been deemed a qualified one, move their record to the “qualified lead” stage so you can appropriately manage the lead via further marketing outreach. Learn more about what it has to offer with our monday.com review. Who should use it:  Businesses that are looking for ways to automate marketing outreach to manage their lead pipelines more efficiently should consider monday.com for their marketing CRM. Pricing  $1,250 to $12,500 per user per month (billed annually) Free Plan  No 
+ Key Features  Fully customizable, email marketing, automation, pipeline management 
+ 
+
+$1,250 to $12,500 per user per month
+(billed annually)
+
+ $1,250 to $12,500 per user per month (billed annually) 
+
+No
+
+
+ No 
+ 
+
+Fully customizable, email marketing, automation, pipeline management
+
+
+ Fully customizable, email marketing, automation, pipeline management 
+ Salesforce’s plan prices start at $25 per month for small businesses and rise to enterprise-level plans. This means that, no matter how large you grow your brand, Salesforce can help you every step of the way. In its small business marketing CRM plans, you can tap into lead capture and management tools, email marketing tools (such as templates, integrations and mass email capabilities), tools to capture customers’ web data and a complete view of leads. With website forms, capture leads’ personal data, such as their interests and email addresses. Then, use email templates to create targeted campaigns based on leads’ website behavior. Finally, monitor your leads’ every interaction with your brand to learn what they want. An intuitive, customizable dashboard gives you information on your leads’ or customers’ interaction history and even any complaints they’ve had. Use this data to set automation rules and to follow up. Salesforce’s AppExchange offers more access to telling analytics via apps such as Mailchimp and dashboards that give you an organization-wide overview of your company pipeline, including how many leads you have, their general statuses, your company’s conversion history and how many leads you’ve won and lost. Use this data to inform future web and email campaigns, boost conversions and upsell customers with stage-specific content. Learn more about what it has to offer with our Salesforce review. Who should use it:  Companies that want to increase the effectiveness of their email marketing should use Salesforce’s marketing CRM. Pricing  $15 to $150 per month (billed annually) Free Plan  Yes 
+ Key Features  Pipeline Management, marketing automation, robust sales and marketing tools 
+ 
+
+$15 to $150 per month
+(billed annually)
+
+ $15 to $150 per month (billed annually) 
+
+Yes
+
+
+ Yes 
+ 
+
+Pipeline Management, marketing automation, robust sales and marketing tools
+
+
+ Pipeline Management, marketing automation, robust sales and marketing tools 
+ HubSpot’s CRM Suite offers a comprehensive relationship management solution through a selection of specialized “Hubs” you can add to customize your CRM, including its Sales, Marketing, Customer Service and Operations Hubs. By adding HubSpot’s Sales Hub and Marketing Hub to your HubSpot CRM, you can seamlessly manage all your marketing campaigns. Just tap into your CRM’s lead and customer data for a personalized approach. The HubSpot Marketing Hub offers a wide breadth of marketing tools to create personalized content. Publish landing pages with forms to capture leads’ data. Then, while relying on captured data insights, create ads and publish them across Facebook, Instagram, Google and LinkedIn. SEO and blog publishing tools help you build brand awareness and organic website traffic. Even create and embed videos across your website, social media and the web. Easily integrate HubSpot’s Sales Hub into your CRM for even more marketing tools, including pipeline management and email templates and sequencing. Use data captured via website forms to create personalized automated email sequences that turn leads into customers. Use Sales Hub reporting to learn how effective your customer journey is in converting leads to customers, then forecast future successes or areas of improvement. Learn more about what it has to offer with our HubSpot CRM reviewand our list of alternatives. Who should use it: Companies seeking to meet customers in the right way, at the right time and in the right place across the web should use HubSpot’s CRM, including its Sales and Marketing Hubs. 
+ This best-of list is a result of careful evaluation of over 45 popular marketing CRMs among small businesses. To choose the top five small business marketing CRMs, we looked at the following factors: There are five basic steps to choosing the right marketing CRM for your company. They include figuring out your budget, listing what features you need, getting input on most-needed features from your team, researching your options and testing out your top CRM options as a team to land on the best one to meet your company’s needs. As a small business, your starting point to choosing a marketing CRM is figuring out how much you can spend per month or per year on the software. Many CRM companies charge per user, so break down your monthly budget on a per-user basis. Then, decide if you can pay annually. This is important because most leading CRMs offer as much as a 20% discount if you can pay annually for your software subscription. To gather a list of your required features, make a list of what you want your company to be able to do or accomplish with your marketing CRM. Some examples could be to learn more about leads or customers, attract new leads, send out segmented email sequences, automate tasks to save time, streamline communications with leads or customers, solve customer problems more efficiently or forecast revenue. From your perspective, your list of required features may be comprehensive. But your team members may feel differently. It is important to get your teams’ eyes on your list so they can add features they know to be important to meeting their company-benefiting goals. In this, be thorough. Allow team members from different parts and levels of your organization to add their own required features. Now that you have a thorough idea of the feature list you know will make your CRM most useful to meeting company goals, conduct a simple Google search on “best marketing CRMs.” Look through the resulting lists of marketing CRMs and their described features to determine two to three options that will most closely align with your budget and feature requirements. Most small business marketing CRMs have either a free starter version or a free trial. Use one of these options to test your short list of CRMs for free, then allow a sampling of your team to try out each software and give you feedback. Choose the CRM you and your team agree best meets your company’s needs. Featured Partners 1 monday sales CRM Free; $9 per user per month for basic features 14 days Yes 1 monday sales CRM On monday.com's Website 2 Salesforce $25 per month per user for basic features 30 days Yes 2 Salesforce On Salesforce's Website 3 HubSpot Free; $15 per user per month (billed annually) 14 days Yes 3 HubSpot On HubSpot's Website 4 Pipedrive $14 per user per month (billed annually) 14 days Yes 4 Pipedrive On Pipedrive's Website 5 Creatio $25 per user per month 14 days Yes 5 Creatio On Creatio's Website A marketing CRM helps businesses collect and store information about customers and leads in one place. Collected data may include people’s demographics, purchase history and interactions across digital channels, among other data points. In turn, companies gain a holistic view of each lead or customer. Businesses can then use the insights derived from this holistic view to create personalized campaigns that are more likely to lead to purchases. As a baseline capability for most marketing CRMs, using data surrounding leads’ interactions on the company website, companies can use marketing CRMs to set up automated email marketing. By basing each email sequence on leads’ likely interests, budget and where they are in the buyer’s journey, companies can nurture leads from their current point in the customer journey all the way to a purchase decision. A business could, for example, pinpoint a lead as being in the decision phase of the buyer’s journey, then create an email sequence that not only prompts them to decide to buy, but then later upsells them at appropriate times and with appropriate product pitches so customers view the upsell as a welcomed solution rather than spam. In the end, the benefits of marketing CRM capabilities are numerous. They include advanced segmentation, marketing efficiency, seamless communication, in-depth analytics and, ultimately, higher conversions, customer retention and lifetime customer values. Companies can even use collected data to forecast revenue. Likewise, if forecasts show subpar sales performance, companies can test ways proactively to solve problems before they arise. Staff Reviewer Kelly Main contributed to this article. A marketing CRM software gathers and stores data about your leads, then uses marketing tools and that data to nurture them through to a purchase. Included tools, such as email templates, automated email sequences, analytic reports showing how leads interact with your company across channels and automated campaign personalization make marketing easier, more efficient and more effective. There are numerous marketing CRMs on the market and they vary in pricing and feature set. Depending on what you’re looking for, there are marketing CRMs that are very inexpensive to use per month. On the other end of the spectrum, enterprise-level systems can cost thousands of dollars per month. Ultimately, there is a marketing CRM to fit just about any business size and budget. The best CRM for your small business depends on many factors, including your goals, industry, budget and required unique features. However, overall, Zoho CRM offers the best mix of price and features for many small businesses. Useful features include cross-channel analytics reports, forecasting capabilities, pipeline management, email marketing, automation tools and a complete view of your leads’ interests and interactions with your company. The marketing tools within many CRMs offer the ability to gather data on qualified leads, analyze that data and put that data to use to create personalized campaigns that nurture leads to a purchase. As such, a CRM can help you learn about your target markets, reach marketing goals, such as effectively targeting your audience and, in turn, boost engagement metrics and conversion rates. There are many types of CRM for different teams or needs, even though it’s traditionally used by sales teams. Look for the best marketing CRM software, which should include tools to automate marketing campaigns, or real estate CRM, which focuses on communication tools, such as click-to-call and text messaging within the app. 
+                With over a decade of experience as a small business technology consultant, Alana breaks down technical concepts to help small businesses take advantage of the tools available to them to create internal efficiencies and compete in their markets. Her work has been featured by business brands such as Adobe, WorkFusion, AT&T, SEMRush, Fit Small Business, USA Today Blueprint, Content Marketing Institute, Towards Data Science and Business2Community.            

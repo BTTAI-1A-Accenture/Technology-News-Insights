@@ -1,0 +1,41 @@
+
+Axis Security acquisition strengthens Aruba’s SASE solutions with integrated cloud security and SD-WAN in a single offering
+ HOUSTON--(BUSINESS WIRE)--Hewlett Packard Enterprise (NYSE: HPE) today announced that it entered into a definitive agreement to acquire Axis Security, a cloud security provider. This acquisition will allow HPE to expand its edge-to-cloud security capabilities by offering a unified Secure Access Services Edge (SASE) solution to meet the increasing demand for integrated networking and security solutions delivered as-a-service. Axis Security’s Security Services Edge (SSE) platform addresses the need for improved application performance and increased network security as the number of remote users increases and as enterprises continue to migrate applications to the cloud.
+  
+Axis Security’s SSE offerings enable access to corporate and public-cloud resources, and the company’s cloud-based platform will build on Aruba’s existing Software-defined Wide Area Network (SD-WAN) and network firewall offering. This combination will provide a complete edge-to-cloud SASE solution, ensuring that Zero Trust security controls can be applied to people and devices, no matter where they connect – on campus, branch, home, or on the road.
+ 
+“As we transition from a post-pandemic world, and a hybrid work environment has become the new normal, a new approach is needed for network edge security to protect critical SaaS applications,” said Phil Mottram, executive vice president and general manager, HPE Aruba Networking. “The convergence of Aruba and Axis Security solutions will transform edge-to-cloud connectivity with a comprehensive SASE solution that provides enterprises with the highest levels of security for both IoT devices and all users’ access across geographically distributed locations. Today, we also accelerate our vision to help our customers expand their secure connectivity needs with SASE and private 5G solutions, building on our recently announced agreement to acquire private cellular technology provider, Athonet.”
+ 
+Based in Tel Aviv, Israel, Axis Security provides a cloud-native SSE platform, Atmos, which delivers authenticated user access to private applications at the network edge, a secure web gateway (SWG) to safeguard user access to the Internet, and a cloud access security broker (CASB) that provides secure in-line access to SaaS apps, and Digital Experience Monitoring (DEM) to provide insights into user experience.
+ 
+“We developed Axis Security to enable a world where connectivity to every business resource, from anywhere, could always be simple, safe and reliable,” said Dor Knafo, CEO of Axis Security. “Our SSE platform is a natural complement to Aruba’s SD-WAN, network firewall, and dynamic segmentation offerings. Together, we create a unified SASE platform, designed to extend connectivity to edge, and do so through a combination of modern access services – all working together in harmony.”
+ 
+HPE enhances SASE offering with cloud security through integrated Axis Security platform
+ 
+HPE will integrate Axis Security technology with its existing Aruba secure networking offerings to complete its SASE offering, which delivers WAN and cloud security controls directly to the application at the network edge, rather than routing data through the data center. This helps customers by flexibly delivering all of a provider’s networking components as a service with one point of control – instead of acquiring, maintaining, and licensing separate components individually.
+ 
+In addition, the HPE GreenLake edge-to-cloud platform will integrate Axis Security’s cloud-native SSE platform, offering customers one single monthly subscription with no capital expenditure. Customers can deploy these flexible as-a-service solutions with reduced risk and little upfront investment – and scale them according to demand.
+ 
+HPE portfolio integration and availability
+ 
+The transaction is expected to close by the end of the second quarter of the HPE 2023 fiscal year subject to customary closing conditions. HPE will integrate Axis Security’s solutions with its edge-to-cloud security solutions and plans to make them available to customers in the third quarter of the HPE 2023 fiscal year.
+ 
+About Hewlett Packard Enterprise
+ 
+Hewlett Packard Enterprise (NYSE: HPE) is the global edge-to-cloud company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way people live and work, HPE delivers unique, open and intelligent technology solutions as a service. With offerings spanning Cloud Services, Compute, High Performance Computing & AI, Intelligent Edge, Software, and Storage, HPE provides a consistent experience across all clouds and edges, helping customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: www.hpe.com
+ 
+Media Contact
+Ben Stricker
+Ben.Stricker@hpe.com
+ 
+Forward-looking statements
+ 
+This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties, and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HPE and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including, but not limited to, any statements regarding the expected benefits and costs of the transaction contemplated by this document, including enhanced opportunities for growth, the delivery and timing of customer benefits and additional offerings, the timing of closing the transaction, and the realization and timing of synergies and other economic benefits; projections of operational or financial performance; any statements concerning the expected development, performance, market share, or competitive performance relating to products or services; any statements regarding current or future macroeconomic or industry trends or events and the impact of those trends and events on HPE and its financial performance; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties, and assumptions include the possibility that expected benefits may not materialize as expected; that the parties are unable to successfully implement integration strategies; and other risks that are described in HPE’s reports with the Securities and Exchange Commission, including but not limited to the risks described in HPE’s Annual Report on Form 10-K for its fiscal year ended October 31, 2022, and that are otherwise described or updated from time to time in Hewlett Packard Enterprise’s Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and in other filings made with the Securities and Exchange Commission. HPE assumes no obligation and does not intend to update these forward-looking statements.
+ 
+Media Contact 
+Ben Stricker
+Ben.Stricker@hpe.com
+ 
+Media Contact 
+Ben Stricker
+Ben.Stricker@hpe.com

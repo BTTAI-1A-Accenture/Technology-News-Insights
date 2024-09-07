@@ -1,0 +1,77 @@
+
+21 July 2023
+Be the first to comment
+ This content is contributed or sourced from third parties but has been subject to Finextra editorial review. Waves of hype swell up regularly in the tech world. The latest obsession is with AI. With the potential for AI tools to be used across most industries, and new roles being created as a result, it’s no surprise that AI is capturing attention. However, not too long ago, the obsession was with Web3. Web3 and AI are not so different; essentially, they are part of a new vision of the internet, which has gone through many evolutions since the first phase of the web. It’s moved from the early days of forums and chat rooms through to the emergence of the second wave of social media and companies like Facebook and Twitter. Its next phase? Web3. This version of the internet moves us away from a social web with a monopolistic focus and towards a decentralised internet. Things have been moving relatively fast for Web3: Blockchain first emerged in 2009 with the introduction of Bitcoin, and by 2015 the decentralised software platform Ethereum had emerged, allowing smart contracts and the development of decentralised apps
+ (dApps). Decentralised finance (DeFi) was now challenging the idea of traditional financial systems. By 2020, non-fungible tokens (NFTs) were allowing digital art, music and even real estate to be tokenised. Thanks to blockchain, people were also able to turn to decentralised autonomous organisations (DAOs) to set up communities online. Though the hype has died down, there is still massive interest in jobs in the Web3 space. The decentralised app dappGambl found that searches for ‘careers in Web3’ increased by a whopping
+ 1957% in a month. That could be in part due to a wider knowledge of what Web3 means. For example, as Twitter continues to face issues, and Facebook has less relevance, more people are moving towards social media sites like Mastodon and Bluesky Social, which are run on decentralised
+ servers - a key part of Web3. Earlier this year, Mastodon was 
+able to hire for the first time into product designer, DevOps engineer and software engineer roles, thanks to interest in it. Growth and skills  To grow, Web3 requires new skilled workers. In its 
+Time for Trust report, PwC found that blockchain could be used across many different sectors, including health, education, finance, and customer loyalty programmes. Though it’s an area that has seen challenges, cryptocurrency is still seen by some to be the future of finance. In 2021, cryptocurrency-related job postings
+jumped 395% from the year before. Blockchain is the backbone of Web3. Within this sphere we have the creation of jobs like blockchain architect and blockchain consultant. The first helps to develop the architecture of blockchain systems, while a blockchain consultant can advise businesses
+ on implementing Web3 technologies in their workplace. There are also blockchain developers, who build decentralised applications using blockchain technologies, like Ethereum, and dApp developers. While the natural first use cases for blockchain and Web3 have been within the financial and banking spaces, other sectors have been getting on board. Both the music and entertainment sectors have been focused on hiring into the Web3 space. For example,
+ Spotify 
+hired Web3 developers, which led to a collaboration with Roblox to create the virtual reality experience ‘Spotify Island’. Disney has also been looking into exploring the metaverse,
+
+hiring an SVP of Next Generation Storytelling and Consumer Experience, Mike White. You will also find blockchain being used by companies like Microsoft, JP Morgan (which has a platform called Onyx), and Amazon. The hype might be dying down, but companies are still interested in exploring the world of Web3. One big area for Web3 growth is fintech. Here are some roles hiring in the fintech space,
+all available on the Finextra jobs board. Senior Model Risk Data Scientist, Revolut, UK  Banking app Revolut, which allows customers to buy, sell, and exchange cryptocurrency, is looking for a
+
+Senior Model Risk Data Scientist to join its team in the UK. The new hire can work remotely and will be working on the risk team which sits at the core of Revolut. This team is among the first in the company to get involved in new business initiatives.
+
+Find out more about this role here. Senior Data Scientist - NLP, Zopa Limited, London  Zopa, a peer-to-peer lending company, is behind Zopa Bank. It is looking for a
+
+Senior Data Scientist with strong natural language processing experience to join its data science team. In this role you will work on its Current Account Tribe to build new money management products for customers.
+
+Find all of the job details here. Senior Machine Learning Scientist, Monzo, London  British banking app Monzo is looking for a 
+Senior Machine Learning Scientist. This hire will become a member of the machine learning discipline, working within a product squad in financial crime to help to design, build, analyse, and experiment with machine learning systems that make use of the
+ data Monzo collects. 
+Discover more about this job here. For more roles hiring in the fintech space on the Finextra jobs board. Long read 
+28 June
+
+/security
+
+ Long read 
+05 March
+
+/sustainable
+
+ Long read 
+16 February
+
+/people
+
+ Long read 
+25 January
+
+/retail
+
+ Long read 
+18 January
+
+/markets
+
+ Amanda Kavanagh Contributor at Jobbio 
+16 August 2024
+
+/people
+
+ Aoibhinn Mc Bride Content Editor at Jobbio 
+12 July 2024
+
+/people
+
+ Amanda Kavanagh Contributor at Jobbio 
+14 June 2024
+
+/people
+
+ Amanda Kavanagh Contributor at Jobbio 
+31 May 2024
+
+/people
+
+ Kirstie McDermott Senior Content Editor at Amply 
+17 May 2024
+
+/people
+
+ This content is contributed or sourced from third parties but has been subject to Finextra editorial review. Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

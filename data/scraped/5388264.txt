@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/360-digitech-announces-pricing-of-global-offering/article_97ece3fd-1f27-553d-92a0-9d5db5800a5d.html

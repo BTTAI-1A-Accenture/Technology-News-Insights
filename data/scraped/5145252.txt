@@ -1,0 +1,53 @@
+Planning and governance play an important role in the ever-evolving needs of businesses. Identifying new threats quickly and prioritising their remedy will reduce the risks of vulnerability from more unique and more dangerous cyber threats 
+Supply chain attacks target complex organisations' networks through suppliers, vendors, and third-party providers.
+Image: Shutterstock The advances in technology and telecommunication have led many companies to push toward technology infrastructure to keep up with an expanding digital ecosystem. The rapid increase in modernised technology comes with risks of vulnerability from newer and more dangerous cyber threats. With organisations and enterprises stepping up their security measures, cybercriminals have shifted their focus towards compromising organisation systems through clients and vendors.  
+Related stories
+
+
+
+
+
+
+Cyberattacks: You could be the next target
+
+
+
+
+
+
+
+
+
+Why ransomware groups are targeting pharma companies and the healthcare sector
+
+
+
+
+
+
+
+
+
+Why cyber-security needs to be a strategy in the infinite corporate game
+
+
+
+
+
+
+Supply chain attacks target complex organisations' networks through suppliers, vendors, and third-party providers. These attacks exploit vulnerabilities that emerge due to the interconnected nature of the digital supply chain, which often spans multiple organisation units, systems, and geographies. Supply chain attacks often target open-source code or third-party APIs used by developers. Developers use these off-the-shelf components to decrease development times and enable organisations to be more agile. A recent study conducted by Veracode found that 90 percent of third-party code does not comply with enterprise security standards such as OWASP Top 10. According to Gartner, 60 percent of organisations work with over 1,000 third parties. The expansion of third-party software in businesses is growing exponentially as organisations look for more specialised services and find it difficult to maintain software in-house that can meet the demand of the rapidly changing environment. Since CRM and accounting software are the heart of an organisation's operations are often salient targets for cyber-attacks. By compromising trusted components or software, cybercriminals can secure initial access to a vendor's code management or control systems and disseminate the malicious code while masquerading as a legitimate application. Supply chain attacks are often associated with nation-state-sponsored groups aiming to conduct cyber espionage or disrupt critical infrastructure, but recent supply chain attacks have financial implications. Financially motivated cybercriminals and hacktivist groups have also adopted this attack vector to achieve their objectives. These malicious actors exploit vulnerabilities in supply chain vendors to infiltrate targeted organisations, propagate malware and gain unauthorised access to sensitive information. For example, simple malicious software could halt the entire nation's production process by targeting vulnerable software of ships. The supply chain attack on ports can devastate the companies and economy as a whole, as supply chain blockage will have a domino effect on multiple industries, from raw material transportation to product delivery. On the other hand, companies will face extensive fiscal backlash after supply chain cyber-attacks hinder supply/demand—from paying ransoms to consumer litigation costs and the overall loss of production. Third-party attacks can take different forms, such as: 
+													[This article has been reproduced with permission from the Indian School of Business, India]												 An eye above the spectacle: Photography at the Olympics 2024
+ Photo of the day: Raksha Bandhan 2024
+ Argentine lithium a boon for some, doom for others
+ Greeks try tropical crops in climate change experiment
+ Bajaj Electricals: Sailing the winds of change
+ The CMO Survey: Marketers spend on new technologies as they battle usage and impact challenges
+ Photo of the day: Calm before the storm
+ Photo of the day: Consequences
+ Climate change fuelled deadly Kerala landslides, say scientists
+ From Parth Jindal's Olympics efforts to a new chapter of IndiGo vs Air India, our top stories of the week
+ Students want more environmental health taught in medical schools
+ DBS Bank India launches 'India-Singapore Connect' In 30th year in India,in association With CNBC-TV18
+ L&T Semiconductor has a pipeline of 20 automotive clients so far: CEO Sandeep Kumar
+ AI may reproduce gender, ethnicity biases in mental health tools
+ Photo of the day: Speak now

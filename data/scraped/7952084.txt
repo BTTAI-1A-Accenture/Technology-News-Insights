@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kentuckytoday.com/news/business/owlt-alert-levi-korsinsky-llp-announces-an-investigation-into-the-fairness-of/article_2230dffd-3105-5de6-8be8-47a6b43fd0ed.html

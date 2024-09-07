@@ -1,0 +1,158 @@
+ Capital stock is the amount of common and preferred shares that a company is authorized to issue, according to its corporate charter. Capital stock can only be issued by the company and is the maximum number of shares that can ever be outstanding. The amount is listed on the balance sheet in the company's shareholders' equity section.
+ Investopedia / Dennis Madamba  Capital stock can be issued by a company to raise capital to grow its business. Issued shares can be bought by investors—who seek price appreciation and dividends—or exchanged for assets, such as equipment needed for operations.
+  The number of outstanding shares, which are shares issued to investors, is not necessarily equal to the number of available or authorized shares. Authorized shares are those that a company is legally able to issue—the capital stock, while outstanding shares are those that have actually been issued and remain outstanding to shareholders.
+  Issuing capital stock can allow a company to raise money without incurring a debt burden and the associated interest charges. The drawbacks are that the company would be relinquishing more of its equity and diluting the value of each outstanding share.
+  The amount that a company receives from issuing capital stock is considered to be capital contributions from investors and is reported as paid-in capital and additional paid-in capital in the stockholder's equity section of the balance sheet.
+  The common stock balance is calculated as the nominal or par value of the common stock multiplied by the number of common stock shares outstanding. The nominal value of a company's stock is an arbitrary value assigned for balance sheet purposes when the company is issuing shares—and is generally $1 or less. It has no relation to the market price.
+  If a company obtains authorization to raise $5 million and its stock has a par value of $1, it may issue and sell up to 5 million shares of stock. The difference between the par value and the sale price of the stock is logged under shareholders' equity as additional paid-in capital.
+  If the stock sells for $10, $5 million will be recorded as paid-in capital, while $45 million will be treated as additional paid-in capital.
+  Consider, Apple (AAPL), which has authorized 12.6 million shares with a $0.00001 par value. The 12.6 million is its capital stock. Meanwhile, as of June 27, 2020, Apple had issued 4,283,939 shares and had 4,443,236 outstanding.
+  Firms can issue some of the capital stock over time or buy back shares that are currently owned by shareholders. Previously outstanding shares that are bought back by the company are known as Treasury shares.
+  Authorized stock refers to the maximum number of shares a firm is allowed to issue based on the board of directors' approval. Those shares can be either common or preferred stock shares. A business can issue shares over time, so long as the total number of shares does not exceed the authorized amount. Authorizing a number of shares is an exercise that incurs legal costs, and authorizing a large number of shares that can be issued over time is a way to optimize this cost.
+  Preferred stock is listed first in the shareholders' equity section of the balance sheet, because its owners receive dividends before the owners of common stock, and have preference during liquidation. Its par value is different from the common stock, and sometimes represents the initial selling price per share, which is used to calculate its dividend payments.
+  Total par value equals the number of preferred stock shares outstanding times the par value per share. For example, if a company has 1 million shares of preferred stock at $25 par value per share, it reports a par value of $25 million.
+  Public companies must report the value of their capital stock on the shareholder's equity section of their quarterly balance sheet. The formula for valuing capital stock is: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CS
+
+
+=
+
+
+(
+
+
+NSI
+
+
+)
+
+
+×
+
+
+(
+
+
+PVPS
+
+
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+where:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CS
+
+
+=
+
+
+Capital stock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NSI
+
+
+=
+
+
+Number of shares issued
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PVPS
+
+
+=
+
+
+Par value per share
+
+
+
+
+
+
+
+\begin{aligned}&\text{CS}=(\text{NSI})\times(\text{PVPS})\\&\textbf{where:}\\&\text{CS}=\text{Capital stock}\\&\text{NSI}=\text{Number of shares issued}\\&\text{PVPS}=\text{Par value per share}\end{aligned}
+
+
+​CS=(NSI)×(PVPS)where:CS=Capital stockNSI=Number of shares issuedPVPS=Par value per share​ Note that different classes of stock may have different par values.
+  In addition to the classes of shares listed above, there are additional categories to describe shares according to their place in the market.
+  Capital stock is typically valued based on its par value, as well as the value of additional paid-in capital. This represents the excess over the par value that investors pay the company for their shares.
+  When a company sells shares in an initial public offering, the IPO price is normally well above the par value. This difference will be listed as additional paid-in capital. In addition, any secondary offerings or share buybacks will also affect the value of the capital stock.
+  Equity stock sales represent one of the most common ways for a company to raise capital. However, there are some disadvantages.
+  Unlike taking loans or issuing bonds, a company is not required to repay capital investors at a set schedule. In addition, it is inexpensive for a company to issue new shares, which can be sold at a much higher price than the cost of issuing the securities.
+  Capital stock represents ownership of the company's equity. If a company's founders sell the majority of its voting shares to outside investors, they risk losing the ability to control the company's future. Moreover, even if it only sells a small number of shares, securities laws will require the company to publish details of its financial health.
+  When a company issues shares, it dilutes the value of existing shares in the market, potentially devaluing the equity held by older investors. In order to raise the value of outstanding shares, the company must either increase its market capitalization or issue a buyback.
+ Allow companies to raise cheaply and easily. Unlike loans or bonds, equity capital is interest-free and does not have a set repayment schedule. Stock issuances can dilute the value of existing shares. Company founders may lose control over the direction of their company. Strict securities laws and transparency requirements make it If you hold stock or other assets for more than one year, it is taxed at the long-term capital gains rate, which is generally lower for all but the wealthiest investors. For short-term trades, you are taxed at your ordinary income level. The capital gains tax is a tax on the profits from selling securities or other investments. Most investors can reduce their capital gains taxes by holding their investments for over one year. If you sell before one year, the gains are taxed at your ordinary income level, which is generally higher than the long-term capital gains tax rate. If you suffer a capital loss, you can use those losses to offset other gains. In accounting and finance, capital stock represents the value of a company's shares that are held by outside investors. It is calculated by multiplying the par value of those shares by the number of shares outstanding.  Capital stock is another term for the ownership shares of a company's equity, represented as either preferred or common stock. Corporations typically sell their shares to investors in order to raise capital to fund their business operations. In exchange, investors receive partial ownership of the company, including dividends or voting power.

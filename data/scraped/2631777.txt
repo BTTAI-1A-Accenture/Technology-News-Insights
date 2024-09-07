@@ -1,0 +1,18 @@
+Samsung employees are in hot water after they reportedly leaked sensitive confidential company information to OpenAI’s ChatGPT on at least three separate occasions. The leaks highlight both the widespread popularity of the popular new AI chatbot for professionals and the often-overlooked ability of OpenAI to suck up sensitive data from its millions of willing users. Local Korean media reports say a Samsung employee copied the source code from a faulty semiconductor database into ChatGPT and asked it to help them find a fix. In a separate case, an employee shared confidential code to try and find a fix for defective equipment. Another employee reportedly submitted an entire meeting to the chatbot and asked it to create meeting minutes. After learning about the leaks Samsung tried to control the damage by putting in place an “emergency measure” limiting each employee’s prompt to ChatGPT to 1024 bytes. Making matters worse, all of those leaks come just three weeks after Samsung lifted a previous ban on employees using ChatGPT over fears this very issue could happen. Now, the company is developing its own in-house AI. Samsung did not immediately respond to Gizmodo’s request for comment. The problem with sharing company secrets with ChatGPT is that those written queries don’t necessarily disappear when an employee shuts off their computer. OpenAI says it may use data submitted to ChatGPT or other consumer services toimprove its AI models. In other words, OpenAI holds onto that data unless users explicitly choose to opt-out. OpenAI specifically warns users against sharing sensitive information because it is “not able to delete specific prompts.” Samsung employees aren’t the only ones oversharing with ChatGPT though. Recent research conducted by cybersecurity company Cyberhaven found that 3.1% of its customers who used the AI had at one point submitted confidential company data into the system. Cyberhaven estimates a company with around 100,000 employees could be sharing confidential data with OpenAI hundreds of times per week. Other large firms have already begun to take notice. In recent weeks both Amazon and Walmart have reportedly issued notices to employees warning them about sharing sensitive information with the AI mode. Others, like Verizon and J.P. Morgan Chase, have blocked the tool for employees altogether. Want to know more about AI, chatbots, and the future of machine learning? Check out our full coverage of artificial intelligence, or browse our guides to The Best Free AI Art Generators and Everything We Know About OpenAI’s ChatGPT. 
+          An attempt to influence the U.S. presidential election harnessed ChatGPT to generate stories and social media comments, per OpenAI.
+         
+          The drones will do inventory while using artificial intelligence to avoid collisions.
+         
+          The Emmy nominee spoke about how he got into character to play a Hollywood cowboy turned apocalypse survivor in Prime Video's hit video game adaptation.
+         
+Love, Death + Robots' Tim Miller and Blur Studios are working with the streamer for a new anthology show that could bring a host of games to animated life.
+         
+          Buying followers or bots to artificially inflate social media stats is also prohibited.
+         
+          Silly, edgelord AI-generated images flood X.
+         We may earn a commission when you buy through links on our sites.
+©2024 GIZMODO USA LLC. All rights reserved. Mode 
+                Follow us
+               Mode 
+                Follow us
+              

@@ -1,0 +1,43 @@
+
+By Andrew Paul
+ Posted on Feb 28, 2023 12:00 PM EST 3 minute read Artificial intelligence is the tech catchphrase of the moment, but it may soon share headline space alongside another wild new computing field: organoid intelligence (OI), aka biocomputers. Computers, simply put, are running out of space—at least, computers as most people know them. Silicon-based chips have long been the standard for everyday usage, but most experts agree that electronics makers are quickly approaching the physical limit in both the size of transistors, as well as how many can fit on a surface. Merging organic matter with electronics is a promising new avenue for advancing beyond these constraints, including organoid intelligence. [Related: Microsoft changes Bing chatbot restrictions after much AI-generated weirdness.] Scientists across a variety of disciplines and institutions recently published an early roadmap towards realizing this technology utilizing “brain organoids” in the research journal, Frontiers in Science. The phrase “brain organoids” may conjure images of noggins floating inside glass jars, but the reality is (for now) a lot less eerie. Organoids aren’t whole brains, but instead small, lab-grown stem cell cultures possessing several similarities to brain structures, including neurons and other cells enabling rudimentary cognitive functions such as memory and learning. Brain organoids’ three-dimensional design boosts their cell density over 1,000-times larger than their flat cell culture counterpoints, thus allowing for exponentially more neuron connections and learning capabilities—an important distinction given the trajectory for existing computers. “While silicon-based computers are certainly better with numbers, brains are better at learning,” said Thomas Hartung, one of the paper’s co-authors and a professor of microbiology at John Hopkins University, in a statement. Hartung offers AlphaGo, the AI that bested the world’s top Go player in 2017, as an example of a computationally superior program. “[It] was trained on data from 160,000 games. A person would have to play five hours a day for more than 175 years to experience these many games.” But AlphaGo’s impressive statistical capabilities come with a hefty cost—the amount of energy required to train it equaled about as much as it takes to keep an active adult human alive for about 10 years. A human brain, by comparison, is far more efficient, with around 100 billion neurons across 1015 connection points—“an enormous power difference compared to our current technology,” argues Hartung. Factor in the brain’s ability to store the equivalent of around 2,500TB of information, and it’s easy to see how biocomputers usher in a new era of technological innovation. [Related: Just because an AI can hold a conversation does not make it smart.] There are serious ethical hurdles ahead of researchers, however. Today’s earliest brain organoids are small and simple cell cultures of just 50,000 or so neurons. To scale them up to computer-strength levels, scientists need to grow them to house 10 million neurons, according to Hartung. More neurons means more complex brain functions, edging researchers further into the murky realm of what is and isn’t “consciousness.” As Live Science explains, brain organoids have been around since 2013, primarily as a way to help study diseases like Parkinson’s and Alzheimer’s. Since then, these cell clumps have even been taught to play Pong, but they remain far from “self-aware.” The new paper’s authors, however, concede that as they develop more complex organoids, questions will arise as to what constitutes awareness, feeling, and thought—considerations that even the most advanced computers can’t answer. At least, not at the moment. Andrew Paul is Popular Science‘s staff writer covering tech news. Previously, he was a regular contributor to The A.V. Club and Input, and has had recent work featured by Rolling Stone, Fangoria, GQ, Slate, NBC, as well as McSweeney’s Internet Tendency. He lives outside Indianapolis. 
+By Andrew Paul
+ 
+By Mack DeGeurin
+ 
+By Charlotte Hu
+ 
+By Ambuj Tewari / The Conversation
+ 
+By Maggie Galloway
+ 
+By Hannah Seo
+ 
+By Mara Hvistendahl
+ 
+By Eleanor Cummins
+ 
+By Janelle Shane
+ 
+By John Wenz
+ 
+By Yongsoo Kim/The Conversation
+ 
+By Stan Horaczek
+ 
+By Stan Horaczek
+ 
+By Popular Science Team
+ 
+By Corinne Iozzio
+ 
+By Bryan Gardiner
+ 
+By Adam Piore
+ 
+By Dave Gershgorn
+ Sign up to receive Popular Science’s emails and get the highlights. Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+Registration on or use of this site constitutes acceptance of our Terms of Service.
+
+© 2024 Recurrent. All rights reserved. 

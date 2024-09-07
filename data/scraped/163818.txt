@@ -1,0 +1,175 @@
+
+
+
+March 27 (UPI) -- Twitter is investigating after portions of the company's proprietary computer codes were apparently leaked and discovered last week posted to a public online platform used by software developers.
+On Friday, the social media giant run by billionaire CEO Elon Musk sent a copyright infringement notice to GitHub to immediately take down the source code, which serves as the operating core of the company's major digital functions, according to a federal legal filing in the Northern District of California that was first reported by The New York Times.
+Advertisement
+The source code was removed from GitHub the same day but might have been on the site for at least several months after a user with the handle "FreeSpeechEnthusiast" shared excerpts from the protocol.
+For now, the person responsible has not been identified.
+Related
+Elon Musk values Twitter at $20 billion after purchasing for $44 billion
+Elon Musk announces change in Twitter policy for responding to journalists
+Elon Musk looking to find a replacement Twitter CEO by end of the year
+Twitter has asked the court to order GitHub to reveal the identity of the person who shared the source code and anyone else who might have downloaded it, but there was no immediate indication of whether the company planned to pursue criminal charges.
+Prior to the debacle, Musk announced on March 17 that Twitter would open source the code related to its recommended tweets algorithm at the end of the month.
+Advertisement
+"Our 'algorithm' is overly complex & not fully understood internally," Musk wrote on Twitter. "People will discover many silly things, but we'll patch issues as soon as they're found! We're developing a simplified approach to serve more compelling tweets, but it's still a work in progress."
+Meanwhile, Musk sent an internal memo to employees over the weekend that said Twitter had lost about half its value since he purchased the company in October for $44 billion, meaning Musk can now offer employee stock grants based on a $20 billion valuation.
+According to the memo, Musk said he sees a "clear but difficult path" to increase the value of the company, although he did not elaborate.
+Previously, Musk said he was "obviously overpaying" for Twitter when he reluctantly inked the deal to purchase the San Francisco-based company six months ago.
+Since taking over the platform, Musk has faced multiple public controversies while the company has lost about 75% of its workforce due to resignations and mass layoffs while hundreds of big-name advertisers have also severed ties.
+The Twitter boss has previously indicated that his tenure at the company is only temporary, and that he would appoint someone else to serve as the company's CEO before the end of the year.
+Advertisement
+
+
+
+Topics
+Law and CrimeBusinessTechnologyElon Musk
+
+
+
+
+
+
+Latest Headlines
+
+
+
+
+
+
+
+U.S. News // 21 minutes ago
+D.C. council member Trayon White Sr. arrested on $150,000 bribery charge
+ Aug. 19 (UPI) -- District of Columbia council member Trayon White Sr. has been charged with bribery of $150,000 in contracts kickback case, the Justice Department said Monday.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 56 minutes ago
+On first night of Democratic convention, party faithful await appearance by Bidens
+ Aug. 19 (UPI) -- As the Democratic National Convention kicks off in Chicago, the man who previously had hoped to top the Democratic ticket instead will take the stage Monday night and make the case for Vice President Kamala Harris.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 2 hours ago
+Harvey Weinstein to stay in N.Y. prison pending retrial on sex charges
+ Aug. 19 (UPI) -- Disgraced Hollywood producer Harvey Weinstein will remain incarcerated in New York as he awaits a new sex crimes trial set for November before being returned to California to serve out his sentence there.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 2 hours ago
+As Democratic convention gears up, Chicago police already making arrests
+ Aug. 19 (UPI) -- As the Democratic National Convention opened in Chicago on Monday, police already have arrested several demonstrators while even more protests are planned for this week.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 3 hours ago
+Deal reached to keep road open when Donald Trump not at Mar-a-Lago home
+ Aug. 19 (UPI) -- A busy road in front of Donald Trump's Mar-a-Lago Club in the town of Palm Beach, Fla., will be open when the former president is not at the residence, according to an agreement.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 4 hours ago
+GM announces it will lay off more than 1,000 salaried employees
+ Aug. 19 (UPI) -- General Motors announced on Monday that it will lay off more than 1,000 salaried workers around the world in its software and global division.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 5 hours ago
+More rain forecast as more than 100 evacuated in 'historic' Conn., N.Y, N.J flooding
+ Aug. 19 (UPI) -- Severe and "historic" flooding across parts of the northeast U.S. left many stranded or evacuated by Sunday into Monday in Connecticut, New York and New Jersey as weather forecasts say more rain is on the way.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 5 hours ago
+Carl Icahn to pay $2M to settle SEC charges he faild to disclose stock pledges
+ Aug. 19 (UPI) -- Prominent activist investor Carl Icahn and his publicly traded company will pay $2 million in civil penalties to settle charges from the SEC announced Monday for violating the SEC Act of 1934.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 8 hours ago
+House GOP accuses Joe Biden of impeachable offenses in report
+ Aug. 19 (UPI) -- House Republicans from three committees argued that President Joe Biden committed impeachable offenses while in office during its 291-page report released on Monday.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 12 hours ago
+1 dead, 7 wounded in Baltimore mass shooting
+ Aug. 19 (UPI) -- Multiple gunmen opened fire during a gathering on a East Baltimore street Sunday night, killing one person and injuring seven others, authorities said.
+
+
+
+
+
+
+ March 27 (UPI) -- Twitter is investigating after portions of the company's proprietary computer codes were apparently leaked and discovered last week posted to a public online platform used by software developers. On Friday, the social media giant run by billionaire CEO Elon Musk sent a copyright infringement notice to GitHub to immediately take down the source code, which serves as the operating core of the company's major digital functions, according to a federal legal filing in the Northern District of California that was first reported by The New York Times.
+Advertisement The source code was removed from GitHub the same day but might have been on the site for at least several months after a user with the handle "FreeSpeechEnthusiast" shared excerpts from the protocol. For now, the person responsible has not been identified.
+Related
+Elon Musk values Twitter at $20 billion after purchasing for $44 billion
+Elon Musk announces change in Twitter policy for responding to journalists
+Elon Musk looking to find a replacement Twitter CEO by end of the year Twitter has asked the court to order GitHub to reveal the identity of the person who shared the source code and anyone else who might have downloaded it, but there was no immediate indication of whether the company planned to pursue criminal charges. Prior to the debacle, Musk announced on March 17 that Twitter would open source the code related to its recommended tweets algorithm at the end of the month.
+Advertisement "Our 'algorithm' is overly complex & not fully understood internally," Musk wrote on Twitter. "People will discover many silly things, but we'll patch issues as soon as they're found! We're developing a simplified approach to serve more compelling tweets, but it's still a work in progress." Meanwhile, Musk sent an internal memo to employees over the weekend that said Twitter had lost about half its value since he purchased the company in October for $44 billion, meaning Musk can now offer employee stock grants based on a $20 billion valuation. According to the memo, Musk said he sees a "clear but difficult path" to increase the value of the company, although he did not elaborate. Previously, Musk said he was "obviously overpaying" for Twitter when he reluctantly inked the deal to purchase the San Francisco-based company six months ago. Since taking over the platform, Musk has faced multiple public controversies while the company has lost about 75% of its workforce due to resignations and mass layoffs while hundreds of big-name advertisers have also severed ties. The Twitter boss has previously indicated that his tenure at the company is only temporary, and that he would appoint someone else to serve as the company's CEO before the end of the year.
+Advertisement

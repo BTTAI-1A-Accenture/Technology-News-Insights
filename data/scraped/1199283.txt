@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://tulsaworld.com/news/national/trumps-tax-returns-to-be-released-friday-after-long-fight/article_cea79ffb-d1d7-5a1a-9033-69005ee558a4.html

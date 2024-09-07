@@ -1,0 +1,47 @@
+A diagram shows a ReBAC graph of user permissions to a folder and document. The picture also shows the simplicity of configuring this permission model in Permit.io UI. (Photo: Permit.io) A diagram shows a ReBAC graph of user permissions to a folder and document. The picture also shows the simplicity of configuring this permission model in Permit.io UI. (Photo: Permit.io) A screenshot of the Permit.io resources screen and an open configuration panel for a specific resource and its relationships with other roles and resources. (Photo: Permit.io) TEL AVIV, Israel--(BUSINESS WIRE)--Permit.io, the full-stack authorization as a service provider, today announced its latest feature: Relationship-based Access Control (ReBAC).
+
+  
+Starting today, development teams can easily add relationship-based access control to their app, without complex dev or ops work, while enjoying the benefits of both policy-as-code and policy-as-graph.
+
+ 
+Permit empowers both devs and non-technical teams like product and sales to manage enterprise-grade permissions and access controls directly with just a few clicks. Permit.io launched out of stealth last year with $ 6 million in seed funding and is co-founded by Or Weis, former CEO and Co-Founder of Rookout; and Asaf Cohen, former software engineer at Facebook and Microsoft.
+
+ 
+Access control interfaces are a must-have in modern applications, which is the reason many developers are spending time and resources trying to build them from scratch - often without prior DevSec experience. Permit.io provides all of the required infrastructure and interfaces to build and implement end-to-end permissions out of the box so that organizations can bake in fine-grained controls throughout their organization. This includes all of the elements required for enforcement, gating, auditing, approval-flows, impersonation, automating API keys, and more empowered by low-code interfaces.
+
+ 
+Permit.io’s support of ReBAC solidifies Permit.io’s position as the only service provider offering a no-code user interface to seamlessly manage all three dominant authorization models: Role-Based, Attribute-Based, and now Relationship-Based Access Control.
+
+ 
+The significance of ReBAC in the modern digital landscape cannot be overstated, with graph-based authorization systems made popular by Google Zanzibar, renowned for its distributed, scalable, and consistent architecture.
+
+ 
+Drawing inspiration from Google Zanzibar, Permit.io offers support for creating policies based on the relationship dynamics between users and resources, providing an intricate, nuanced, and granular approach to permission management.
+
+ 
+"Being the first in the industry to introduce a user-friendly, no-code platform for Relationship-Based Access Control is a testament to our commitment to save developers from the Sisyphean labor of rebuilding application-level permissions" says Or Weis, Co-Founder of Permit.io.
+ 
+"We've always believed in simplifying the complex, and with ReBAC support, organizations can now implement granular permissions within minutes - never having to build permission again."
+ 
+According to the latest research from the Open Web Application Security Project (OWASP), broken access control remains the most serious web application security risk. Failures typically lead to unauthorized information disclosure, modification, destruction of data, or performing a business function outside the user's limits. The report states that “94% of applications were tested for some form of broken access control.”
+
+ 
+As businesses and developers globally continue to grapple with building authorization for their applications, Permit.io offers a scalable, precise, and easily manageable authorization solution unlike any other.
+
+ 
+“At Schneider we have to cater to hundreds of thousands of users and companies across multiple regions and sites, requiring complex hierarchies with fine-grained access-control. We are grateful for Permit.io’s user-friendly ReBAC capability for nested resources, which has significantly improved and simplified our workflow, making access management of complex resource structures a breeze.” Commented Francois Delpech, Architect at SE.com
+
+ 
+About Permit.io
+Permit.io enables developers to bake in permissions and access control into any product in minutes. Open source at its core, the platform builds on top of OPA+OPAL as a service, providing the API and UI access-control interfaces that make it simple to shift security left. Permit.io was founded by former engineers from Facebook, Microsoft, and Rookout and is already used by industry leaders like Accenture, Cisco, Tesla, and others.
+
+ 
+Gabriel L. Manor
+gabriel@permit.io 
++972545590047
+
+ 
+Gabriel L. Manor
+gabriel@permit.io 
++972545590047
+

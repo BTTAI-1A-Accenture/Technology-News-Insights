@@ -1,0 +1,42 @@
+Community Once deployed, a lot of smart contracts cannot be easily changed. So, it would be wise to take a close look at potential weaknesses, exploits, and built-in mitigations when it’s not too late for changes. But look beyond the code. Smart contracts are immutable pieces of code that perform certain operations in blockchain networks or link different blockchains together. The smart contracts ecosystem is on the rise. Sometimes, when new possibilities for rapid development flash before
+ the blockchain & cryptocurrency people's eyes, security is factored out. That can be a huge mistake.  I’d like to give rise to your interest in smart contract security and tell a few words about security audit so you know what to ask for. In this context, an audit means much more than just checking the code itself but studying interaction between contracts,
+ key management issues, operational security of developers who support the contracts, etc. Get the whole security picture with the audit. If properly executed it helps cut costs, risks of financial losses, and lots of other troubles.  Here’s what the process of a smart contract audit looks like executed in a team with security engineers: Speaking from my experience, many incidents result from several minor security weaknesses rather than one fatal flaw. So, in the beginning, it’s worth looking at smart contracts together with a larger system they belong to. Understanding and formulating
+ risks and unique threat vectors that affect the contract's consistency are also a must part of this stage. The next step is a real feast for those who like to keep up with recent developments. As the blockchain industry rapidly changes, to be in the picture security-aware teams must know recent real-world vulnerabilities, mitigations, and tools. Dig and explore. Armoured with the findings, we can move to studying design flaws and use cases. Learn what can go wrong. For example, our engineers at this stage check how the contract behaves, its entrypoints, offchain views, and the interactions between contracts. There
+ should not be painful surprises. Then it's time for more sophisticated work: reviewing of cryptographic design and implementation, security controls behaviour, infrastructure, and operations. This tedious work has to result in absence of security surprises in these areas. In the end, a
+ combination of cryptographic primitives and their implementation chosen by the developers must correspond to the desired security properties. Security controls must effectively work against reentrancy, replay attacks, denial of service, and leave no blind
+ spots and unhandled edge cases. Security and reliability of the surrounding infrastructure and operations should be verified and trustful. When all's done, developers get a long list of issues to work on. But what I like even more, they can get correction advice (ask for it if your audit team did not mean it) related to found issues and targeted at improving general code quality, maintenance,
+ and user experience. So, in the long haul, developers not only learn about weaknesses but understand how to eliminate them.  I hope you learn more about smart contracts security audits and how it helps to ensure transaction consistency in DeFI.     This content has been created by the Finextra editorial team with inputs from subject matter experts at the funding sponsor. Decentralized Finance on public blockchains. This group is for discussing the ideas, services, news around automated finance using smart-contracts using protocols like ERC-20, TRC-20 and other similar public blockchain systems. For resources on what DeFi is please read about tokenonmics https://blog.bitholla.com/tokenomics/ and https://newsletter.banklesshq.com/p/the-defi-mullet-market-monday-lite 
+10 opinions
+3 members
+07 August 2023
+ Ketharaman Swaminathan Founder and CEO at GTM360 Marketing Solutions 
+14 December 2022
+ Audit of code in a smart contract obviously presupposes existence of code.  Take a typical traditional contract for, say, flight delay insurance.  It has WILL DO clauses e.g. insurer will pay if flight is delayed.   It also tends to have WON'T DO clauses e.g. Limited Liability; insurer won't pay if passenger misses the flight, baggage is lost, etc. I wrote about a smart contract for this in AXA Fizzy - The New Kid On The Blockchain. I get how WILL DO clauses can be codified in a smart contract.  But I don't get how WON'T DO clauses are codified? If they can't be codified and must be handled outside the purview of the smart contract, then how comprehensive will the audit of smart contract be in the overall business context? 
+14 September
+ 
+31 July
+ 
+28 March
+ 
+07 June
+ 
+04 May
+ Peter Pizzutelli  Sr. Manager, Advisory Services at Diebold Nixdorf 
+14 hours
+ Francesco Fulcoli  Chief Compliance and Risk Officer at Flagstone 
+15 hours
+ Tom Rowe-Jones  M&A Director at LAVA Advisory Partners 
+15 hours
+1
+ Gustav Korobov  Senior Sales Executive - Core Banking platform at Advapay 
+16 hours
+114
+ This content is provided by an external author without editing by Finextra. It expresses the views and opinions of the author. Sergio Barbosa CIO of Global Kinetic, and CEO of FutureBank. at Global Kinetic and FutureBank 
+16 August
+ Sergiy Fitsak Managing Director, Fintech Expert at Softjourn 
+14 August
+ Mete Feridun Chair at EMU Centre for Financial Regulation and Risk 
+14 August
+ Konstantin Rabin Head of Marketing at Kontomatik 
+14 August
+ Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

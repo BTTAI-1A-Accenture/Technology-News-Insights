@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.indexjournal.com/opinion/editorials/our-view-tire-d-criminal-should-pay-not-do-jail-time/article_4821a02f-7036-51e0-b08f-5a54349d5573.html

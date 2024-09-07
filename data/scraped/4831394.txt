@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.santafenewmexican.com/news/local_news/new-mexico-public-school-insurance-authority-sues-pharmaceutical-broker/article_cb53cc9c-71c5-11ee-ab70-1744b47d4f1d.html

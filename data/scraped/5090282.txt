@@ -1,0 +1,83 @@
+
+First monthly Index report shows small businesses in Canada employed 8,700 fewer people compared to previous month
+ (Photo: Business Wire) TORONTO--(BUSINESS WIRE)--Intuit Inc. (NASDAQ: INTU), the global financial technology platform that makes TurboTax, Credit Karma, QuickBooks, and Mailchimp, has launched the Intuit QuickBooks Small Business Index, a powerful new monthly indicator of employment and hiring among small businesses in Canada, the US, and the UK developed in collaboration with leading global economist Professor Ufuk Akcigit.
+ 
+The Intuit QuickBooks Small Business Index uses purpose-built economic models to normalize anonymized QuickBooks customer data against official government statistics to reflect the general population of small businesses in each country; it is not a reflection of Intuit’s business. This robust methodology expands Intuit’s ability to more clearly delineate between Intuit’s small business customers and the small business community at large, while also providing a powerful new tool that can inform government policies that impact small businesses around the globe, as well as to help small businesses make key decisions.
+ 
+The Index’s primary benefit is its unparalleled focus on small businesses, which are vital to the current and future health of the economy but often underrepresented in economic data. By shining a brighter light on small businesses with timely insights, Intuit hopes to increase small business growth and success rates throughout Canada, the US, and the UK.
+ 
+Sasan Goodarzi, Intuit’s Chief Executive Officer, said: “Up-to-date insights like those now available through our index will be invaluable to anyone focused on the success of small businesses, especially in the face of increasingly challenging economic conditions. We’re excited for this unique index to become a key tool economists, policymakers, and small businesses themselves can use in making decisions that will help power small business prosperity around the world.”
+ 
+FRESH INSIGHTS ON CANADIAN SMALL BUSINESS EMPLOYMENT
+ 
+Employment and hiring data is the bellwether for the overall economic health of Canada and the first monthly Index reveals:
+ 
+Renowned global economist, and Arnold C. Harberger Professor of Economics at the University of Chicago Ufuk Akcigit said: “In Canada, our Intuit QuickBooks Small Business Index is a measurement of small businesses with 1-19 employees. The Index reveals a drop of -0.17 per cent in small business employment in February compared to January 2023. When looking back year-over-year, we see that the decline in employment has slowed in comparison to February 2022, where employment declined by -0.4 per cent. Small businesses experienced a record monthly employment drop by -21 per cent in April 2020 due to COVID-19. This monumental decline was met with a rapid recovery one year later that reached pre-COVID average employment levels in April 2021, which continued until September 2021.
+ 
+“It’s encouraging to see that the Intuit QuickBooks Small Business Index indicates that employment levels have remained relatively stable over the past six quarters. As small businesses continue to play a vital role in the Canadian labour market, it makes it even more important we now have a tool like the Intuit QuickBooks Small Business Index that will focus on unearthing timely insights into their overall employment health and within specific sectors and regions.”
+ 
+David Marquis, Vice President and Canada Country Manager, at Intuit, added: “Our new Intuit QuickBooks Small Business Index draws on a sizable sample, providing a prompt and precise representation of the economic health of small businesses in Canada. These critical insights can serve as a single source of truth to help facilitate a productive dialogue among small business owners and policy makers to ensure the backbone of our economy continues to thrive. The number of small businesses, the jobs they create, and the innovations they bring make them vitally important to the economy. By keeping a monthly pulse on the health of small businesses, we are able to provide rich insights to power their survival, growth and prosperity.”
+ 
+NEW INSIGHTS PUBLISHED MONTHLY
+ 
+New data insights will be added to the Intuit QuickBooks Small Business Index dashboard and published in regular blog posts at the earliest opportunity every month. To subscribe, and get a full list of publication dates for 2023, visit the Intuit QuickBooks Small Business Index interactive hub.
+ 
+In Canada, the Intuit QuickBooks Small Business Index shows the number of people employed by small businesses with 1-19 employees in the previous month and how that number has changed since the month before. These data insights are available at the national, regional, and sector levels; based on a total sample of almost 66,000 businesses. Typically, the Index will be published several days before Statistics Canada's Labour Force Survey is released.
+ 
+In the US, the Index shows the number of people employed by small businesses with 1-9 employees in the previous month and how that number has changed since the month before. These data insights are available at the national, regional, state (when sample sizes are sufficient), and sector levels; based on a total sample of almost 333,000 businesses. Because the Index is powered by anonymized data from QuickBooks Online Payroll, its data insights are available up to nine months earlier than equivalent official statistics, giving a more up-to-date picture of small business employment.
+ 
+In the UK, the Intuit QuickBooks Small Business Index shows the number of job vacancies at small businesses with 1-9 employees in the previous month and how that number has changed since the month before. These data insights are available at the national (UK), country (England, Wales, Scotland, Northern Ireland), and sector levels; based on a total sample of almost 25,000 businesses. Typically, the Index will be published around two weeks before the Office for National Statistics’ monthly Vacancy Survey is released.
+ 
+ROBUST METHODOLOGY
+ 
+The Index methodology is robust and stands out from other reports in the market by being calibrated against official statistics and focusing exclusively on small businesses while also eliminating publication delays. Unlike other small business indexes, it does not rely exclusively on survey data. Instead, a sample of anonymized QuickBooks Online Payroll records are aggregated and normalized against official government statistics before publication using purpose-built economic models created by Professor Akcigit and his international team of independent economists. This means the Index can provide a near real-time reflection of hiring and employment in the broader small business economy — rather than the QuickBooks customer base — just a few days after small businesses run payroll.
+ 
+Visit the Intuit QuickBooks Small Business Index interactive hub for further insights and to stay up to date on the latest Index releases.
+ 
+Notes to Editors
+ 
+METHODOLOGY
+ 
+The Intuit QuickBooks Small Business Index creates aggregated data outputs from anonymized QuickBooks Online Payroll customer records which are calibrated using statistical methods to better reflect the general population of small businesses in each country, as represented by published official statistics. Statistical adjustment ensures the Index truly reflects employment and job vacancy changes rather than changes in the QuickBooks customer base. Get the full methodology on the Intuit QuickBooks Small Business Index interactive hub.
+ 
+Rounded values
+ 
+Total and monthly changes in employment and job vacancies have been rounded to the nearest hundred. Monthly changes and growth rates are calculated before total employment or job vacancy values are rounded. Rates have been rounded to the nearest hundredth.
+ 
+Seasonal adjustments
+ 
+The Index’s data insights are seasonally adjusted to limit the effect of seasonal patterns in employment and hiring throughout the year, which lead to regular fluctuations in workforce growth and contraction.
+ 
+Time series
+ 
+The Index uses data going back to January 2015 in the US and Canada and January 2018 in the UK. Published at the earliest opportunity every month, it shows the number of people employed by small businesses (US and Canada) or the number of job vacancies at small businesses (UK) in the previous month and how that number has changed since the month before. So, in March, the Index shows total employment or job vacancies in February and the monthly growth rate — up or down — compared to January. It helps to eliminate almost all of the time lags in official statistics — of 7-9 months in the US, of several days in Canada, and up to 2 weeks in the UK — by providing estimated projections of what those statistics will ultimately show when they are published.
+ 
+Sample sizes and target populations
+ 
+The total sample across all three countries is around 424,000 small businesses. The US sample is almost 333,000 small businesses. The Canadian sample is almost 66,000 small businesses. The UK sample is almost 25,000 small businesses. In the US and UK, the Index reflects the population of small businesses with one to nine employees, while in Canada it reflects small businesses with one to 19 employees. The differences in target populations ensure the data insights are consistent with official statistics available for benchmarking during the calibration process. Data insights for these target populations are particularly valuable since most datasets fail to cover this portion of the economy well. Please note: Unlike the US and Canada Indexes, the UK Index uses job vacancy data for calibration rather than employment data because official employment statistics are not currently available on a monthly basis for small businesses.
+ 
+External data sources
+ 
+External data sources used alongside anonymized QuickBooks data include:
+ 
+ABOUT PROFESSOR UFUK AKCIGIT
+ 
+Ufuk Akcigit is the Arnold C. Harberger Professor of Economics at the University of Chicago. He is an elected Research Associate at the National Bureau of Economic Research, Center for Economic Policy Research, and the Center for Economic Studies, and a Distinguished Research Fellow at Koc University. He has received a BA in economics at Koc University, 2003, and Ph.D. in economics at Massachusetts Institute of Technology in 2009.
+ 
+As a macroeconomist, Akcigit’s research centers on economic growth, technological creativity, innovation, entrepreneurship, productivity, and firm dynamics. His research has been repeatedly published in the top economics journals, cited by numerous policy reports, and the popular media.
+ 
+The contributions of Akcigit’s research has been recognised by the National Science Foundation with the CAREER Grant (NSF's most prestigious awards in support of early-career faculty), Kaufmann Foundation's Junior Faculty Grant, and Kiel Institute Excellence Award, among many other institutions. In 2019, Akcigit was named the winner of the Max Plank-Humboldt Research Award (endowed with 1.5 million euros and aimed at scientists with outstanding future potential). In 2021, Akcigit was awarded the prestigious Guggenheim Fellowship and was named a Fellow of the Econometric Society. In 2022, he received the Sakip Sabanci International Research Award and Kiel Institute’s Global Economy Prize.
+ 
+ABOUT INTUIT
+ 
+Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With more than 100 million customers worldwide using TurboTax, Credit Karma, QuickBooks, and Mailchimp, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible. Please visit us for the latest information about Intuit, our products and services, and find us on social.
+ 
+Intuit Canada:
+ 
+Nora Hickey, Edelman Canada
+Nora.Hickey@edelman.com
+ 
+Intuit Canada:
+ 
+Nora Hickey, Edelman Canada
+Nora.Hickey@edelman.com

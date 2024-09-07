@@ -1,0 +1,1 @@
+500 Server Error: Internal Server Error for url: https://www.digitaljournal.com/pr/parkopedia-publishes-the-2022-global-parking-index

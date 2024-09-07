@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.claytoncountyregister.com', port=443): Max retries exceeded with url: /news2/bitsnbytes-know-about-startup-business-news-in-pune-6/578138/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da939ecee0>: Failed to resolve 'www.claytoncountyregister.com' ([Errno -2] Name or service not known)"))

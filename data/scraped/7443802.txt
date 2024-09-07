@@ -1,0 +1,40 @@
+AUSTIN, Texas--(BUSINESS WIRE)--CrowdStrike (Nasdaq: CRWD) today announced that the company took home two key wins in the 2023 SC Awards as the CrowdStrike Falcon® platform won Best Enterprise Security Solution and CrowdStrike Falcon® Complete won for best Managed Detection and Response Service. These twin wins come on the heels of CrowdStrike’s second consecutive win in the Best Endpoint Security category of the SC Awards Europe. The Awards recognize products and services that stand out by exceeding customer expectations to help defeat imminent threats and sophisticated cybersecurity attacks.
+
+  
+The AI-powered CrowdStrike Falcon platform is the platform of choice for tens of thousands of companies globally – including over half of the Fortune 500, more than 25% of the Global 2000. The Falcon platform combines a single, lightweight agent, cloud-native architecture – integrated with threat intelligence and elite human expertise. This powerful combination delivers the speed, scale and efficacy required to stop modern attacks with comprehensive visibility and protection across the most critical areas of enterprise risk: endpoints, cloud workloads, data and identity. As an extension of the industry-leading CrowdStrike Falcon platform, CrowdStrike’s industry-leading MDR, CrowdStrike Falcon Complete, is a managed detection and response offering that delivers 24/7 proactive threat hunting, expert investigation, integrated threat intelligence and hands-on surgical remediation to help organizations of all sizes stop breaches.
+
+ 
+“Today’s fragmented security landscape is a playground for adversaries, but the powerful combination of the CrowdStrike Falcon platform and Falcon Complete MDR offering cater to organizations’ most pressing needs – reducing cost, reducing the number of point products and agents, reducing complexity and simplifying operations. As a pioneer in EDR, MDR and threat intelligence, CrowdStrike combines the power of automation with human expertise to stop breaches for our customers,” said Raj Rajamani, chief product officer, CrowdStrike. “Our long list of third-party validation, including the SC Awards, recognizes CrowdStrike’s ongoing commitment to innovation within the industry.”
+
+ 
+CrowdStrike continues to be globally recognized for its world-class technology and services. Previous SC Awards recognition includes:
+
+ 
+About CrowdStrike
+ 
+CrowdStrike (Nasdaq: CRWD), a global cybersecurity leader, has redefined modern security with one of the world’s most advanced cloud-native platforms for protecting critical areas of enterprise risk – endpoints and cloud workloads, identity and data.
+
+ 
+Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections, automated protection and remediation, elite threat hunting and prioritized observability of vulnerabilities.
+
+ 
+Purpose-built in the cloud with a single lightweight-agent architecture, the Falcon platform delivers rapid and scalable deployment, superior protection and performance, reduced complexity and immediate time-to-value.
+
+ 
+CrowdStrike: We stop breaches.
+
+ 
+Learn more: https://www.crowdstrike.com/ 
+Follow us: Blog | Twitter | LinkedIn | Facebook | Instagram 
+Start a free trial today: https://www.crowdstrike.com/free-trial-guide/
+ 
+© 2023 CrowdStrike, Inc. All rights reserved. CrowdStrike, the falcon logo, CrowdStrike Falcon and CrowdStrike Threat Graph are marks owned by CrowdStrike, Inc. and registered with the United States Patent and Trademark Office, and in other countries. CrowdStrike owns other trademarks and service marks, and may use the brands of third parties to identify their products and services.
+
+ 
+Kevin Benacci
+CrowdStrike Corporate Communications
+press@crowdstrike.com
+ 
+Kevin Benacci
+CrowdStrike Corporate Communications
+press@crowdstrike.com

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/news/local_news/birthday-presentation-celebrates-treasure-created-for-joplin-50-years-ago/article_4fcee7a4-c9d8-11ed-abe8-5b24d50bb7ff.html

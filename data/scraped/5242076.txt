@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://bismarcktribune.com/lifestyles/health-med-fit/how-to-find-a-therapist-who-fits-your-needs/article_3de42b99-6581-5e2c-bc2d-3ac7847163dc.html

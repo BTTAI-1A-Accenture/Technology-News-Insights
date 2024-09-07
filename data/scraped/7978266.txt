@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/data-news/palantir-technologies-inc-stock-rises-thursday-still-underperforms-market-169685a2-7794521c7626

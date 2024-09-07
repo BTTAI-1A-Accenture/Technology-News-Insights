@@ -1,0 +1,33 @@
+Sign Up! 
+
+envelope_alt
+
+
+ Get the latest Android News in your inbox every day 
+
+arrow_right
+
+
+ 
+Sign up to receive the latest Android News every weekday:
+ 
+
+ Only send updates once a week
+
+ 
+Android Headlines / Android News / Google expands client-side encryption with Gmail On Friday, December 18th, Google announced that its client-side encryption (CSE) feature is now available for Gmail. However, this new feature is initially only available to Google Workspace Enterprise Plus, Education Plus, and Education Standard customers. The rollout of CSE for Gmail is great news for businesses and organizations that rely on Google’s productivity tools, as it will provide an extra layer of security for their email communications. Client-side encryption involves encrypting data on the client side (i.e., on the user’s device) before it is sent to the server. Therefore, by encrypting the data on the user’s device before it leaves, CSE makes it much harder for anyone to intercept and read the contents of the email. Google allows users to keep control over their encryption keys and the identity service to access those keys. However, CSE has some limitations. It does not encrypt the email header, including the subject, timestamps, and recipient list. Additionally, CSE does not support certain features, such as Smart Compose, confidential mode, multi-send, and emojis. Currently, CSE is only available on the mobile app for iOS and Android devices. Google has already implemented CSE for several of its other services, including Google Drive, Google Docs, Sheets, Slides, Google Meet, and Google Calendar (in beta). Therefore, the expansion to Gmail was the logical next step, as emails are a critical communication tool for many businesses and organizations. Google is inviting businesses to apply for the CSE beta program in the coming weeks. To be eligible, Google Workspace customers must apply by January 20, 2022. If accepted, Admins will need to enable the feature at the domain, OU, or Group level in the Admin console under Security > Access and data control > Client-side encryption.  To use CSE, end-users can click the new padlock icon next to the Cc and Bcc tags in any message sent through Gmail, both internally and externally. This will bring up a new window with a “Turn on” button, which will allow users to enable the feature and send sensitive data in the body and attachments with additional protection. Copyright ©2022 Android Headlines. All Rights Reserved. Hisan is a recent high school graduate with a passion for technology. His quest for tech began in 2018 when he was searching for a new phone to buy. He is now pursuing a degree in computer science with a focus on artificial intelligence in university. In addition to his interest in technology, Hisan also enjoys sports such as table tennis and cricket. He recently discovered a love for writing and is excited to share his insights and knowledge on the latest tech trends. Main Deals & More Android News Sign Up! 
+
+envelope_alt
+
+
+ Get the latest Android News in your inbox every day 
+
+arrow_right
+
+
+ 
+Sign up to receive the latest Android News every weekday:
+ 
+
+ Only send updates once a week
+

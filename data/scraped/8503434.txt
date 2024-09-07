@@ -1,0 +1,29 @@
+
+																Forgot  Username or Password
+   Date (MENAFN- GlobeNewsWire - Nasdaq)    TEL AVIV, Israel, June 13, 2023 (GLOBE NEWSWIRE) -- Continuous website security monitoring platform Reflectiz has released a new case study detailing its successful response to the latest evolution in the long-running saga of Magecart web-skimming and keylogging attacks . It presents a detailed but easily digestible analysis of  how cybercriminals launched attacks on global brands using the Shopify platform during Spring 2023, and how Reflectiz discovered them.   Large-scale Magento attacks have been reported since 2015 and the fact that they're still happening is due in part to the popularity of the platform. Some of its attraction lies in its versatility. Developers can easily enhance its functionality with third-party apps , but they also present opportunities to attackers because they can be invisible to traditional embedded security solutions. There are 270,000 Magento-powered sites on the web and between them, they process $155 billion worth of transactions a year, so when the third-parties in question handle credit card payments on such shopping sites, it comes as no surprise that the attackers are so keen to bypass the latest security updates with sophisticated new methods . Reflectiz discovered a novel approach to skimming online shoppers' credit card details earlier in the year when its continuous security monitoring platform detected potentially problematic activity on Shopify websites. The case study walks readers through an attack that used a compromised favicon and fake Shopify stores on its Cloudflare-hosted CDN to trick shoppers into handing over their credit card details. Skimmed information like this frequently ends up for sale on the Dark Web where other criminals use it to defraud the victims. Thousands of them may pursue a compromised retailer through the courts for damages, and the business may also be penalized by the payment card industry for breaching its rules. Reflectiz's detailed analysis of its successful response makes for intriguing and reassuring reading. A photo accompanying this announcement is available at    Tags cyber cybersecurity reflectiz magecart cyber attack shopify shopify cdn ecommerce web security website security Related Links   keylogging attacks   third-party apps    sophisticated new methods    case study   payment card industry   MENAFN13062023004107003653ID1106432314   TEL AVIV, Israel, June 13, 2023 (GLOBE NEWSWIRE) -- Continuous website security monitoring platform Reflectiz has released a new case study detailing its successful response to the latest evolution in the long-running saga of Magecart web-skimming and keylogging attacks . It presents a detailed but easily digestible analysis of  how cybercriminals launched attacks on global brands using the Shopify platform during Spring 2023, and how Reflectiz discovered them.   Large-scale Magento attacks have been reported since 2015 and the fact that they're still happening is due in part to the popularity of the platform. Some of its attraction lies in its versatility. Developers can easily enhance its functionality with third-party apps , but they also present opportunities to attackers because they can be invisible to traditional embedded security solutions. There are 270,000 Magento-powered sites on the web and between them, they process $155 billion worth of transactions a year, so when the third-parties in question handle credit card payments on such shopping sites, it comes as no surprise that the attackers are so keen to bypass the latest security updates with sophisticated new methods . Reflectiz discovered a novel approach to skimming online shoppers' credit card details earlier in the year when its continuous security monitoring platform detected potentially problematic activity on Shopify websites. The case study walks readers through an attack that used a compromised favicon and fake Shopify stores on its Cloudflare-hosted CDN to trick shoppers into handing over their credit card details. Skimmed information like this frequently ends up for sale on the Dark Web where other criminals use it to defraud the victims. Thousands of them may pursue a compromised retailer through the courts for damages, and the business may also be penalized by the payment card industry for breaching its rules. Reflectiz's detailed analysis of its successful response makes for intriguing and reassuring reading. A photo accompanying this announcement is available at   MENAFN13062023004107003653ID1106432314 MENAFN13062023004107003653ID1106432314 
+Legal Disclaimer: MENAFN provides the information “as is” without warranty of any kind.  We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article.   If you have any complaints or copyright issues related to this article, kindly contact the provider above. 
+                         Tags Comments Category Date 
+
+
+
+                                                        Daily(English)
+                                                
+
+
+
+
+                                                        Daily(Arabic)
+                                                
+
+
+
+
+                                                        All()
+                                                
+
+  World and Middle East business and financial news, Stocks, Currencies, Market Data, Research, Weather and other data. 
+								 Contact Us
+									 Click here 
+ 
+                        Copyright © 2000 MENAFN. All rights reserved. 
+                        Design & Devleopment by MENAFN

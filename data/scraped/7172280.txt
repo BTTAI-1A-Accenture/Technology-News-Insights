@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='hightimes.com', port=443): Max retries exceeded with url: /sponsored/these-5-gram-disposables-are-taking-weed-by-storm/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da93d041c0>, 'Connection to hightimes.com timed out. (connect timeout=5)'))

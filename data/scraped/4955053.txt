@@ -1,0 +1,47 @@
+
+Alex Hernandez | July 19, 2023July 19, 2023 Tech, Audio, Editorial
+ Back in April, we reported on xMEMS and its all-silicon, solid-state fidelity micro speakers. The technology is interesting, and audio tech is constantly evolving. xMEMS reached out to us and asked if we would give them an opportunity to elaborate on its technology so that our audience could be better informed.  Estimated reading time: 6 minutes The following was provided to us by xMEMS and is not an endorsement or advertisement on the part of Techaeris. This is a guest editorial provided to us by xMEMS. By Mike Housholder, Vice President of Marketing and Business Development at xMEMS Maybe you’re like me. Over time, I’ve come to own both Apple AirPods and AirPods Pros. And I regularly switch between them, depending on the situation. When I’m exercising, for example, I wear the AirPods. When I’m sitting and focusing, I wear the AirPods Pros. Why? The occlusion effect. Both sound great, with the AirPods Pros providing the isolation for the best listening experience.  However, they employ fitted, silicone tips that go in my ears to occlude my ear canals — the sound of every step I take is amplified and resonates in my head. This annoying occlusion effect also occurs with my voice when I’m speaking on a Zoom call. The AirPods because they don’t completely occlude my ears, don’t have the same effect when I run or speak. Air gets in and out, and this “venting” of the amplified, resonant sounds from my body allows me to better enjoy my music or focus in a meeting without the occlusion effect. Granted, there are situations in which open-fit or closed-fit earbud experiences are preferable. For example, noise-cancelling earbuds work best closed-fit, as long as the discomfort from the occlusion effect is tolerable. But it shouldn’t take two sets of earbuds to switch between open and closed-fit listening. Especially, for instance, when it comes to some modern hearing aids, which can suffer the same effects. The solution is a solid-state, silicon-based method of switching between open and closed-fit modes in the same earbuds which leverages the same, innovative piezoMEMS semiconductor technology used to create a new generation of solid-state speakers.   Traditionally, speakers — whether in media rooms or earbuds — create sound the same way, using a combination of coils, magnets, and diaphragms. Multiple parts, multiple points of failure, and a high degree of variability in loudness and phase speaker-to-speaker. Still, such a legacy speaker architecture has served the market well for a century. But with personal audio so prevalent — earbuds, headphones, and a new category of over-the-counter hearing aids for the more than one-in-ten American adults the CDC says is suffering hearing loss — an alternate speaker architecture is needed for quality, reliability, and performance.  This architecture leverages the semiconductor industry and is micro-electro-mechanical systems (MEMS), solid-state technology, in which a speaker and all its required elements are fabricated on silicon in one monolithic device. It’s a speaker on a chip. All that’s left is to add a DSP-controllable vent to the earbud, together with this solid-state speaker and you can now have one pair of earbuds — open-fit or closed-fit — for all listening situations. Plus, a solid-state speaker sounds better. Solid-state technology is nothing new. Computer hard drives went from spinning disks to solid-state drives starting in the 1990s. In the audio space, according to MEMS industry analyst Yole Group, solid-state MEMS microphones commanded just 5 percent of the market in 2007, but by 2022, that share was 72 percent. As solid-state speakers move into production, they could follow a similar trajectory. The advantages of a solid-state architecture are many. With no moving parts, the devices are more reliable. They’re smaller and lighter. When integrated into earbuds, solid-state speakers are less susceptible to dust and sweat if the wearer goes for a trail ride, for instance. If they forget them in their pocket before doing laundry, solid-state-based earbuds can survive the wash. And they can be manufactured quickly at large-scale thanks to established, high-capacity silicon fabrication plants. Rather than assemble speakers from disparate parts, we can now “etch” them in silicon using standard semiconductor processes and packaging. The results remain uniform and ultimately, this solid-state fidelity, as it’s called, creates a clearer, more accurate sound. Instead of a coil and magnet, solid-state speakers use thin-film piezo technology as their sound actuator, the component that turns electric signals into sound waves. Such piezo technology has been key to miniaturizing many different types of electronics. The piezo actuator film is applied in a layer as part of the semiconductor fab process to silicon which serves as the speaker diaphragm to move air and produce sound. It’s the stiffness of silicon that helps deliver higher quality sound in an earbud form factor. High-end loudspeakers sometimes use exotic, stiff materials like titanium or even diamond for mid-to-high-range drivers so that the diaphragms vibrate uniformly and create clearer sound. However, most earbuds today use plastic diaphragms, which are about 1/100th the stiffness of silicon. The uniformity and consistency of semiconductor manufacturing results in fast, precise micro speakers. With no coil to spring into action, and with actuation and diaphragm components created in silicon, solid-state speakers respond instantly to voltage, meaning there’s no muddying or discoloration of the sound caused by resonating parts. This is critical for today’s consumer audio experiences, which increasingly include higher quality (Hi-Res) audio content – digitized lossless audio, spatial audio, and more. Which brings us back to the occlusion effect. High-quality personal audio experiences have outstripped consumers’ tolerance for the hollow, boomy sounds caused by some earbuds, in-ear monitors (IEMs), hearing aids, or other devices. Simply put, a solid-state micro speaker integrated in conjunction with a solid-state MEMS venting system delivers the best of all worlds. Either because the wearer taps the earbud or sensors perceive certain listening conditions, a DSP controller can open or close a dynamic vent in the earbuds to optimize the listening experience. The open setting reduces annoying occlusion effects and increases the wearer’s spatial awareness; closed delivers the best music experience and sound isolation. The earbuds (or IEMs or hearing aids) are the same either way. In both cases, the underlying silicon-based design ensures higher fidelity sound reproduction than existing speaker technology can generate, while giving the wearer greater control over the experience. Solid-state MEMS has already revolutionized other electronics. Now it’s time that solid state speakers replace the antiquated coil and magnet technology to enable the best listening experience. What do you think of xMEMS tech? Please share your thoughts on any of the social media pages listed below. You can also comment on our MeWe page by joining the MeWe social network. And subscribe to our RUMBLE channel for more trailers and tech videos. In some of our articles and especially in our reviews, you will find Amazon or other affiliate links. As Amazon Associates, we earn from qualifying purchases. Any other purchases you make through these links often result in a small amount being earned for the site and/or our writers. Techaeris often covers brand press releases. Doing this does not constitute an endorsement of any product or service by Techaeris. We provide the press release information for our audience to be informed and make their own decision on a purchase or not. Only our reviews are an endorsement or lack thereof. For more information, you can read our full disclaimer. Techaeris was founded in 2013 by Alex Hernandez who is the Editor-In-Chief and Owner. Techaeris is fast becoming your source for technology news, reviews and all things geek/nerd entertainment related. We cover movies, comics, books, gaming, tech, and industry news all in one clean place. Amazon
+Android
+Apple
+App Store
+ASUS
+AT&T
+Audio
+Augmented reality
+Automotive Technology
+battery
+Best Buy
+BlackBerry
+Black Friday
+Bluetooth
+Business
+Camera
+Canada
+Cars
+CES
+Chicago
+China
+Christmas
+Chrome
+Chromebook
+Chromecast
+Crowdfunding
+Deals
+Dell
+EarBuds
+Education
+Elon Musk
+Facebook
+Fitness
+Forza Motorsport
+Game controller
+Games
+gaming
+giveaway
+Google
+Google Play
+Guitar
+Hardware
+HBO
+Headphones
+Health

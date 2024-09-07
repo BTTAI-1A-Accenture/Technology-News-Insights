@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://omaha.com/opinion/columnists/midlands-voices-psychological-treatment-takes-time-experience-and-up-to-date-expertise/article_e08db14a-baa5-11ed-b0e0-0f8c6241dff0.html

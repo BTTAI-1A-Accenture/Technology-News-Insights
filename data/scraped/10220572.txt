@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='olisa.tv', port=443): Max retries exceeded with url: /video-sound-sultan-x-and-bella-shmurdas-reality-chq-cheque-is-here/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e245626d390>: Failed to resolve 'olisa.tv' ([Errno -5] No address associated with hostname)"))

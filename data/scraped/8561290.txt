@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.claytoncountyregister.com', port=443): Max retries exceeded with url: /news2/republic-services-nysersg-is-increasing-its-dividend-to-0-535-2/502750/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e2456e41ed0>: Failed to resolve 'www.claytoncountyregister.com' ([Errno -2] Name or service not known)"))

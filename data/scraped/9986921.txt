@@ -1,0 +1,126 @@
+Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics.                     Okidogi of the Loyal Three is a dual Poison/Fighting-type Legendary that plays a major role in Pokemon Scarlet & Violet's The Teal Mask. Like most Legendary, trainers will have a chance to catch Okidogi later in their playthrough. While Legendary Pokemon are powerful, those that want to use Okidogi in battle or competitively will want to construct a solid moveset for him.
+                         In Scarlet/Violet, trainers can construct TMs using Pokemon Materials. Okidogi has a decent learnset, but players may want to consider teaching it stronger and better moves through the use of TMs. Although his typing is Poison/Fighting, it's never a bad idea to teach Okidogi a move that will give it coverage against one of its weaknesses.
+     Here's what Pokemon Scarlet & Violet trainers will want to know about the Poison/Fairy-type Fezandipiti in The Teal Mask.                     Unlike the Legendary Ogerpon, Okidogi and the other "Loyal" Three aren't automatic captures. Scarlet/Violet trainers will only be able to catch them once they've completed The Teal Mask DLC's story. Then, they can find Okidogi in the Paradise Barrens, at the same spot where they fought him with Carmine. Okidogi's level is always set to 70, so it's better to challenge him after having all eight gym badges, as more badges make it easier to catch Pokemon.
+                         Okidogi's extremely weak to Psychic attacks, so if trainers intend to whittle down his HP, then they should refrain from using this Typing. Bring Ultra Balls and Timer Balls; Legendary Pokemon are not easy to catch. It's also recommended to save the game before challenging Okidogi to battle.
+     Jangmo-o evolves into a pretty powerful Pokemon in Pokemon Scarlet and Violet. Here is how to get it.                     Okidogi's Poison/Fighting-typing means it has type advantages over most Pokemon, but also more weaknesses. Psychic-type moves are something that Okidogi will want to avoid, as he has a 4x weakness to them and can easily be 1HKO.
+                         Okidogi's Ability is Toxic Chain, which has a 30% chance of badly poisoning the opponent when it's hit by a move. Its Hidden Ability, Guard Dog, will boost Okidogi's Attack stat in battle when Intimidated. It also can't be forcibly swapped out in battle by an opponent's attack, such as Dragon Tail or Roar.
+                         HP:
+                         88
+                         Attack:
+                         128
+                         Special Attack:
+                         58
+                         Defense:
+                         115
+                         Special Defense:
+                         86
+                         Speed:
+                         80
+                         Total:
+                         555
+                         Super-effective against:
+                         Normal, Dark, Rock, Steel, Ice, Grass, Fairy
+                         Not very effective against:
+                         Flying, Psychic, Poison, * Steel
+                         Weak against:
+                         Psychic (x4), Ground, Flying
+                         Resistant to:
+                         Dark, Grass, Bug, Fighting, Rock, Poison
+                         Immune to:
+                         N/A
+                         * Okidogi's Poison-type moves are ineffective against Steel-type Pokemon.
+                         Toxic Chain
+                         When Okidogi's attacks hit the opposing Pokemon, that attack has a 30% chance of badly poisoning it.
+                         Guard Dog
+                         If the opposing Pokemon has the Intimidate Ability, Okidogi's Attack stat will instead be increased. He also can't be forcibly removed from battle if hit by moves such as Dragon Tail or Circle Throw.
+     Seedot is a Generation Three Pokemon that players can now catch in Pokemon Scarlet and Violet.                      Since Okidogi's Attack is better than his Special Attack, trainers will want to run an Adamant (+Attk, -Sp.Attk) Nature for him. Those that prefer to play into Okidogi's high Defense will instead want an Impish (+Def, -Sp.Attk) Nature. Finally, trainers can also have Okidogi with a Jolly (+Spd, -Sp.Attk) Nature to give it better speed growth.
+                         Natures to avoid are those that will decrease Okidogi's Attack, Defense, or Speed. These include:
+                         While a boon in Attack, Defense, or Speed is recommended for Okidogi, trainers will want to avoid having a bane in any of its best stats (i.e, Attack/Defense/Speed). For example, a Bold Nature sounds good because it increases Okidogi's Defense growth, but it comes at the cost of his Attack stat. Likewise, Lonely has a nice Attack growth, but Defense suffers instead.
+                         If trainers catch Okidogi, and it has a Nature they don't want, they can change it by using a Nature Mint. These can be found around Paldea as glowing sparkles on the ground. Once trainers get 7 Gym Badges, they'll be able to buy every type of Mint at the Chansey Supply Stores in Mesagoza, Levincia, Cascarrafa, and Montenevera. 
+                         Except for Howl and Bulk Up, all of Okidogi's moves in its learnset are physical moves. Despite being a dual Poison-Fighting-type, Okidogi primarily has Fighting-type moves. However, the Poison-type moves it does learn upon leveling up are some of the better Poison-type physical moves in Scarlet/Violet. Meaning trainers may not have to rely on TMs when constructing Okidogi's moveset.
+                         Here are some suggested movesets for Okidogi (nature: adamant, impish, or jolly):
+                         Moveset #1
+                         Move
+                         Typing
+                         Power
+                         Accuracy
+                         PP
+                         Crunch
+                         Dark-type
+                         80
+                         100%
+                         15
+                         Bulk Up
+                         Normal-type
+                         N/A
+                         N/A
+                         20
+                         Poison Jab (or Poison Fang)
+                         Poison-type
+                         80
+                         100%
+                         20
+                         Drain Punch (or Brick Break)
+                         Fighting-type
+                         75
+                         100%
+                         10
+                         Moveset #2
+                         Move
+                         Typing
+                         Power
+                         Accuracy
+                         PP
+                         Crunch
+                         Dark-type
+                         80
+                         100%
+                         15
+                         Ice Punch
+                         Ice-type
+                         75
+                         100%
+                         15
+                         Poison Jab
+                         Poison-type
+                         80
+                         100%
+                         20
+                         Drain Punch (or Brick Break)
+                         Fighting-type
+                         75
+                         100%
+                         10
+                         Moveset #3
+                         Move
+                         Typing
+                         Power
+                         Accuracy
+                         PP
+                         Bulk Up
+                         Normal-type
+                         N/A
+                         N/A
+                         20
+                         Taunt
+                         Dark-type
+                         N/A
+                         100%
+                         20
+                         Poison Fang
+                         Poison-type
+                         50
+                         100%
+                         15
+                         Drain Punch
+                         Fighting-type
+                         75
+                         100%
+                         10
+      Poison Jab is preferred over Poison Fang because it has higher Power and PP. However, Poison Fang will sometimes badly poison the target, whereas Poison Jab inflicts the regular Poison status ailment. For those that don't know, badly poison status ailment gets stronger with each turn, whereas poison's damage is stagnant.
+      Drain Punch is preferred over Brick Break because it will restore Okidogi's health if it manages to hit the opponent. Unfortunately, Okidogi does not learn Drain Punch naturally, so trainers are going to need to craft TM073. On the other hand, Brick Break deals the same amount of damage as Drain Punch, only it removes the effects of the opponent's Reflect and/or Light Screen. Brick Break can be taught to Okidogi using TM058.
+      Crunch will give Okidogi coverage against Psychic-type moves. While it can also get coverage from moves like Thunder Punch or Ice Punch, the main weakness that trainers are going to want to look out for is Psychic-types. Trainers can even have both Thunder/Ice Punch and Crunch in the same moveset if they prefer. Another advantage of Crunch is that it will sometimes cause the opponent to flinch, but only if Okidogi attacks first.
+                         Finally, Taunt and Bulk Up are status moves. The former will prevent opposing Pokemon from using status moves, which is a good way to stop it from setting up Reflect or trying to inflict confusion via Confuse Ray. The latter will raise Okidogi's Attack and Defense by one stage. Since Okidogi can't learn Swords Dance, Bulk Up is the best option to raise his attack stat in battle.
+      Pokemon Scarlet & Violet are available for Nintendo Switch.
+      MORE: With Pokemon Bank Gone, Game Freak's Next Pokemon Game is Clear
+ Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics. Pokemon Scarlet and Violet has rolled out its newest Mystery Gift code, coinciding with the games' ongoing World Championship tournament. Fans who want to explore a new chapter in The Elder Scrolls after the release of Gold Road may have to wait a while for a new storyline. Fortnite Absolute Doom increases the levels players need to acquire all V-Bucks in the Battle Pass. Some Fallout 76 players are calling on Bethesda for a cosmetic change they believe will significantly improve the way certain characters look. Corsair announces that it will be laying off a number of its staff, continuing an unfortunate trend that has been plaguing the gaming industry. A fresh melee weapon has joined the action. Find out how to unlock the Spear in Modern Warfare 3 and Warzone using this guide. Shanks is a major player in the final saga. One Piece 1124 sets up the begining of Elbaf.

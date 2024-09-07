@@ -1,0 +1,98 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Mar 21, 2024, 8:23pm Email has been a crucial form of electronic communication for decades, and it will likely remain so for many years to come. While there are plenty of free email services available, many of them lack specialized features, such as central management, that make them well-suited for office use. Forbes Advisor evaluated the best email hosting services on the market and compared them based on price, features, security and more. Read on to find the right solution for your team. 
+                        Why You Can Trust Forbes Advisor Small Business
+                     The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, strategic methodologies and expert insights to inform all of our content and guide you in making the best decisions for your business journey.  Featured Partners 1 Bluehost $1.99 per month Unmetered bandwidth, SSD storage starts at 10GB Free domain name & SSL for a year 1 Bluehost On Bluehost.com’s Website 2 HostGator $2.75 per month (for first 36 months) 30 days Free SSL certificate, free website transfer 2 HostGator On HostGator’s Website 3 Web.com $2.75 per month Yes Customizable templates, Easy drag-and-drop technology, SSL certificate 3 Web.com On Web.com’s Website  Price  $1.67 to $1.99 per mailbox per month (depending on payment terms) Storage  25 GB 
+ Attachment size limit  Not applicable 
+ 
+
+$1.67 to $1.99
+per mailbox per month (depending on payment terms)
+
+ $1.67 to $1.99 per mailbox per month (depending on payment terms) 
+
+25 GB
+
+
+ 25 GB 
+ 
+
+Not applicable
+
+
+ Not applicable 
+ DreamHost delivers a rich feature set with a consistent and easy user experience across multiple platforms at an affordable price. DreamHost comes with webmail built-in, and syncs messages across mobile and desktop devices to ensure users don’t miss a single message. DreamHost is constantly updating its anti-spam features so that customers are a step ahead of the spammers. The company also has strong virus and anti-phishing tools to protect your inbox from cybercriminals. Learn more: Read our full DreamHost review. Who should use it. DreamHost is great for SMBs. You don’t have to be a tech expert to get up and running or to protect yourself from phishing attacks and spam. Price  $9.99 per month Storage  Unlimited 
+ Attachment size limit  Not applicable 
+ 
+
+$9.99
+per month
+
+ $9.99 per month 
+
+Unlimited
+
+
+ Unlimited 
+ 
+
+Not applicable
+
+
+ Not applicable 
+ SiteGround provides a full complement of hosting services, including email, website and WordPress site hosting. The solution supports an unlimited number of users per domain as well as unlimited inbox sizes. This should be particularly handy for businesses with high volumes of emails and/or a large user base. Administrators can manage email through a central panel and configure automated forwarding and responders. The solution also supports SMTP, IMAP and POP3, which makes it a great fit in any environment. Who should use it. SiteGround is ideal for businesses that host WordPress sites or use WooCommerce (managed WordPress e-commerce hosting solution). SiteGround is an ideal platform for resellers and service providers to host their customers’ solutions. Read more: Read our full SiteGround review. Price  $1.59 to $2.59 per month (depending on package and payment terms) Storage  100GB to unlimited (depending on package) Attachment size limit  Not applicable 
+ 
+
+$1.59 to $2.59 per month
+(depending on package and payment terms)
+
+ $1.59 to $2.59 per month (depending on package and payment terms) 
+
+100GB to unlimited
+(depending on package)
+
+ 100GB to unlimited (depending on package) 
+
+Not applicable
+
+
+ Not applicable 
+ A2 Hosting is feature-rich, providing unlimited email addresses, spam protection, preinstalled webmail software and automated email forwarding and responding. A2 Hosting works with POP3, IMAP and SMTP, and comes with popular email clients preinstalled, which makes it a great fit for any SMB. Support for Contact Form 7 and integration with phpList, Dada Mail and poMMo make it easy for businesses to automate and enhance customer communications processes. Who should use it. A2 Hosting’s security features make it a solid fit for any business that prioritizes keeping data safe. Read more: Read our full A2 Hosting review. Price  $1 to $4 per user per month Storage  5 GB to unlimited 
+ Attachment size limit  250 MB to 1 GB 
+ 
+
+$1 to $4
+per user per month
+
+ $1 to $4 per user per month 
+
+5 GB to unlimited
+
+
+ 5 GB to unlimited 
+ 
+
+250 MB to 1 GB
+
+
+ 250 MB to 1 GB 
+ Zoho Mail offers a well-rounded feature set, including hosting for multiple domains, domain aliases, email recall and more. The solution supports “events,” “tasks,” and “notes.” The former makes it easy for users to schedule events, while the latter two can be used to plan, track and collaborate on processes. When events, tasks and notes are created within emails, there’s a neat feature that allows users to @mention others to make sure messages don’t slip through the cracks.  Zoho’s commitment to security played a big role in making Forbes Advisor’s Best Email Hosting Services list. All data is encrypted during transfer and at rest, and security policies can be created to quarantine or reject unauthorized emails. The solution also comes with malware detection capabilities and enables administrators to set email policies to prevent data leaks. Email retention, audits and eDiscovery functionality are also useful for investigating breaches.  Who should use it. Zoho Mail has email hosting packages for everyone. The Mail Lite version is great for front desk staff, contract employees and frequent travelers, while the premium version is better for power users, senior technical professionals and IT professionals.  Price  $6 to $18 per user per month, depending on package Storage  30 GB to 5 TB 
+ Attachment size limit  25 MB 
+ 
+
+$6 to $18
+per user per month, depending on package
+
+ $6 to $18 per user per month, depending on package 
+
+30 GB to 5 TB
+
+
+ 30 GB to 5 TB 
+ 
+
+25 MB
+
+
+ 25 MB 
+ Gmail is one of the most commonly used email solutions, with 1.8 billion users across the globe. Given its massive user base, most will be familiar with the look and feel and functionality of Gmail, so you can spend less time training employees. Gmail also offers tight integration with the rest of the Google Workspace suite. All of Gmail’s plans come with security features like 2FA, group-based policy controls (to ensure users only see the data that they are authorized to see) and end point management tools. Gmail also leverages AI to block spam, phishing emails and malware. Who should use it. Google Workspace is a good choice for SMBs. Google Workspace provides businesses with an email hosting platform plus an entire suite of office productivity applications like Google Drive, Calendar, Meet and more. 
+ Email hosting refers to the technology that stores your email messages, files and other information on a remote server. Email hosting services also make it easy to set up and deploy individual email accounts for your employees. Whether it’s your personal email address, such as a Gmail account, or a work account, all email activity is hosted in some way.  Before you start looking for the best email hosting service, you need to assess what you absolutely need from your email hosting service and how it fits in with the rest of the technology that drives your business, and balance it against your budget and IT resources. What kind of features are must-haves? If you were to deploy a given email hosting service, then would your IT team be able to deploy and manage it? Would employees resist adoption or take a long time to get up to speed? Do you even need to pay for email? These are the kinds of things that you need to take into consideration before you can There is no universal checklist of essential email hosting services features. What’s best for one business might be a detriment to another. But with that said, there are some basic factors that everyone should take into consideration. Comparing features and pricing is easy. Determining if an email hosting service provider supports a feature or not, or if it’s more or less expensive than a competitor, is clear cut. The hard part about finding the best email hosting provider is finding the system that feels right to employees and isn’t too complex for your IT team. If the system is difficult for employees to adopt and master or too difficult for your IT team to deploy and manage, then it will lead to inefficiencies that can cut into or completely wipe out any expected ROI. Before you buy the platform that can fulfill your needs, you’ll need to explore how it looks and feels in your environment. Read reviews from reputable technology experts and watch demos online to see the platform in action, and take advantage of free trials so you can drive it before you buy it. Once you’ve defined your needs and start exploring options, you might come to think that you can get by using a free email hosting service. And sure, that might be true. You might be able to get by on the limited features, inbox storage and attachment size that comes with free email hosting services, and save a few bucks every year. And if your business is small, you can always upgrade to a paid plan as your needs and requirements change. But skimping on email might be like reaching over a dollar to pick up a dime. Email is a relatively inexpensive IT service, and paid packages unlock a bounty of productivity-enhancing features and seamless integrations that might pay for itself. And if you’re already paying for web hosting, you might be able to add email to your package for a small upcharge. Relying on the free version can leave your business vulnerable to serious cybersecurity threats. After all, many cybersecurity events start when someone opens an email. Free email hosting services won’t come with additional protections offered in paid packages that can prevent your business from becoming the next victim of a cyberattack. Featured Partners 1 Bluehost $1.99 per month Unmetered bandwidth, SSD storage starts at 10GB Free domain name & SSL for a year 1 Bluehost On Bluehost.com's Website 2 HostGator $2.75 per month (for first 36 months) 30 days Free SSL certificate, free website transfer 2 HostGator On HostGator's Website 3 Web.com $2.75 per month Yes Customizable templates, Easy drag-and-drop technology, SSL certificate 3 Web.com On Web.com's Website The cost of your email hosting service is going to depend on several factors, including the size of your business, the tier of the service you are purchasing, the term and payment frequency of your plan, upcharges for add-on features and increased storage capacity, and the hosting environment (multi-tenant versus dedicated hosting). To give you an idea of how much an email hosting service typically costs, let’s use three hypothetical businesses as an example. Each business has different email hosting requirements and preferences, and we will compare how much it will cost them to use some of the most popular email hosting services in 2024. Let’s start by looking at how much email hosting services can cost a small business. Imagine a small massage parlor in a big city with 25 employees. Most employees don’t spend a lot of time in email, so the parlor doesn’t need a lot of bells and whistles—they just need an email hosting service that provides them with a secure and reliable communications channel. The parlor settles on Zoho Mail Workplace plan. It comes with 30GB of mail storage and 5GB of inbox storage per user. At $3 per user, they only have to spend $75 a month to ensure everyone is connected. Our hypothetical medium-sized company uses its 100 employees to deliver marketing services for real estate agents across the state where it operates. It needs a fast and reliable email hosting service that offers enough web space and bandwidth for its multiple websites, and that includes some advanced features such as caching, backups and priority support. It also needs some custom email domain and branding options to enhance its professional image. The folks at the medium-sized business subscribe to SiteGround’s GoGeek plan because they like the fixed amount for each website they host, and that each domain comes with support for unlimited email accounts. The cost for this plan would be $7.99 per month for the first year and $44.99 per month afterward. For 10 websites, assuming each website has 10 email accounts on average, the total cost would be $149.90 per month for the first year and $399.90 per month afterward. Our theoretical large business is a financial services provider with 500 employees and multiple offices across the Southeast. They lean on Google Workspace for their email hosting needs because of its scalable architecture that offers as much storage as needed, advanced security features and compliance controls. It also fills their need for productivity and collaboration tools to enhance its workflow and communication. For this large business, the Enterprise plan would be the best option, as it includes custom and secure business email, 1,000 participant video meetings with recording, attendance tracking, noise cancellation, in-domain live streaming, as much storage as needed, S/MIME encryption for emails, advanced security, management and compliance controls, and premium support. The cost for this plan has custom pricing depending on the number of users and features required. For 500 users, assuming they need an average of 10GB of storage per user, the estimated cost would be around $30 per user per month with a yearly plan or $36 per user per month with a monthly plan. For 500 users, the total cost would be around $15,000 per month with a yearly plan or $18,000 per month with a monthly plan. To choose the email hosting providers for this ranking, Forbes Advisor compared each company based on important factors that include features and pricing. We ranked each company on these factors based on a five-star rating system, with the highest score being five out of five stars. Our criteria were similar to that we applied to our guide to the best web hosting services but with some changes to account for email-specific needs. Email hosting pricing models and total costs were evaluated based on per-user pricing and volume discounting. Those providers whose pricing was considered to be cheap or midrange fared the best. Pricing accounted for 30% of our weighted scoring. We compared email hosting providers based on their functions and features, giving preference to providers with the most useful features and tools. Among these included whether a provider offered security tools and calendar functionality, made a mobile app available, offered inbox sizes of at least 20 GB and allowed for attachment sizes of at least 10 MB. We weighted features at 40% of our total score. Vendors should make it easy for customers to get in touch with support staff in case they need help. That was one of the many factors that real users mentioned in third-party reviews, and our experts scoured these reviews to gauge opinions of these email hosting services. Additionally, we researched reviews to get users’ opinions related to ease of use, stand-out features, popularity and value for the money. Our experts’ analysis made up 30% of the total score. You don’t have to pay someone to host your email for you. You can host email on your own servers. However, that means you have to purchase, configure and maintain an email server and register your domain on your own. Using an email hosting provider will save companies a lot of time, money and frustration. Similar to web hosting sites, email hosting services use several layers of security to protect the integrity of your email communications. These include end-to-end encryption, which obscures your data when its sent or received; two-factor authentication (2FA) or multifactor authentication (MFA), which means whoever accesses your email account must know certain information or have access to certain things, such as a mobile device or email address, to get into the account; and Pretty Good Privacy (PGP) encryption, which makes it so that email communications remain secure even when the network, such as a public network used in a library or cafe, is not. There is nothing preventing a business from hosting their website with one provider, and their email on another. Keep in mind that many web hosting companies typically include a free email domain for customers. Some essential features you will want to have include spam protection for your emails, such as spam filters; the ability to create and have an unlimited amount of email addresses for yourself and your employees; email forwarders for those times when you are away from the office; autoresponders, which can also be used when you are unable to answer your emails and can also be used to answer supply informational responses to any general email addresses that you set up; and webmail software, which allows you to send emails via a web browser. You also want to have large mailbox sizes―preferably unlimited. There are a few web hosting services available that allow you to send and receive emails at no charge, usually through webmail or POP clients and email or IMAP clients. Some examples of these include Hotmail, Yahoo Mail and Gmail. While these sites are free and generally offer a decent amount of storage space for individuals or small businesses, they offer limited cloud storage space that might be needed by medium or large businesses. They usually also have limited security measures in place, limited customer support options and no way to personalize your email address to represent yourself or your business. You can host your email server. But in many cases, it’s not worth the hassle, especially with so many low-cost hosted email hosting services available. You have to purchase, deploy and look after your own server on top of managing your email platform, and you’re subject to outages if the server goes off-line. Changing your email hosting provider can be a bit of a pain. You’ll need to sign up with the new provider and configure your domain name with them. Next, you’ll have to set up the new email addresses in your new platform, forward emails from the old addresses to the new ones, and configure the email tool to behave as required. 
+                Lee Davis is a tech analyst who has been covering the document imaging industry for over five years. Currently, Lee is the Associate Director of Software and Scanners at Keypoint Intelligence, where he is responsible for maintaining coverage of document imaging software and office scanning technology. Lee also contributes editorial content centered on news and trends in the document imaging industry.            

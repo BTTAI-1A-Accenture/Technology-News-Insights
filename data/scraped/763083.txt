@@ -1,0 +1,59 @@
+
+By Kristin Shaw
+ Posted on Apr 3, 2023 4:30 PM EDT 5 minute read The sleek new all-electric Ioniq 6 looks very different from the original Ioniq EV. It doesn’t even look like the Ioniq 5, for that matter. It’s based on Hyundai’s Prophecy concept, which was unveiled in 2020. But the Ioniq 6 is measurably more aerodynamic than that concept or the Ioniq 5, with design inspiration from the fantastical, Art Deco 1930s-era Stout Scarab. Looks are only sheet-metal deep, however, and the technological underpinnings are what makes Hyundai’s newest EV so interesting. The inner workings of the Ioniq 6 include an updated battery module with improved cooling functions and so-called “hairpin wiring” that packs more energy into a smaller space. Here’s how all those things work together to create more range and power for this EV. When Hyundai launched the Ioniq 5 nearly two years ago, it was a big improvement over the original Ioniq EV from 2016, which topped out at 100 miles per hour and offered only 124 miles of range. The Ioniq 6 has taken things up another notch, maxing out at an impressive 361 miles of range with the rear-wheel-drive Long Range version of the EV. That’s 58 miles better than the best of the Ioniq 5 options and nearly triple the range of the original. How did Hyundai make that kind of progress over a quick couple of years? One key factor is the aerodynamic improvements, on display with a swoopy ducktail in the back, active air flaps, and a low-to-the-ground nose. The coefficient of drag, which quantifies the aerodynamics, is 0.21 for the Ioniq 6, compared with 0.29 for the boxier Ioniq 5. (For efficiency, you want that number to be as low as possible.) At its starting price of $42,715, the Ioniq 6 has no business showing off a drag coefficient that is better than cars that cost three times as much, but it does. Another important element is the battery design, which in the case of the Ioniq 6 is built into Hyundai’s Electric-Global Modular Platform (E-GMP). Also used as the underpinning platform for the Ioniq 5, this versatile platform acts as the ground floor for a row of battery modules. “Each battery module is made up of individual cells that are stacked neatly, like a stack of Pop-Tarts,” Dean Schlingmann, Hyundai manager of electrified management systems explains. “We can vary the number of modules and configurations depending on the segment and what the goals are for that vehicle.” With the packaging improvements Hyundai has made to the battery module, the automaker has been able to reduce the part count significantly, which lightens the vehicle overall. Energy density increased by 7 percent.  “We can cram more electrons in [the battery], which means more EV range or [heating and air conditioning] usage, wherever you want to use it,” Schlingmann says.  For all intents and purposes, Schlingmann says, the Ioniq 6 motor is identical to the Ioniq 5’s, but with improvements to the motor winding design. Hyundai uses hairpin winding technology, named for the metal pins used in a salon for elaborate hairstyles, and this technology is widely known to be more efficient, with a higher power density and performance under a variety of hot and cold settings. “Instead of using a perfectly round wire that goes through some of the winding gaps in the motor housing, we have more of a flat, rectangular wire. The [hairpin wiring] fills the gaps in the spaces around the motor itself more efficiently,” Schlingmann explains. “The more dense you can get the wire (or the more fill you can achieve in those gaps) the more power or performance—or whatever characteristic you’re looking to push with the motor—you can do so more effectively.” The effectiveness lends itself to other applications, as well. Schlingmann helped develop the vehicle-to-load (V-to-L) capability for the Ioniq 6. This function takes advantage of Hyundai’s bidirectional power capability and allows access for customers to 110-volt power. There is an interior outlet available in Limited trim, and users can also export power with a V-to-L connector accessory.  Schlingmann personally tested several plug-in devices with the Ioniq 6: air compressors and even a welder, which like an air compressor is not recommended but shows that pickup trucks aren’t the only electric vehicles that can power up a house. If you want to plug in a blender and whip up a smoothie on the road, you can do that. It might not be the ideal camping vehicle because of its ground clearance, but it could be useful for camping at less-remote sites.  At $42,715, Hyundai’s Ioniq 6 is priced to compete with the Tesla Model 3, which starts at $44,380. The EPA says the Model 3 will get 272 miles of EPA-estimated driving range with the base rear-wheel-drive model, and up to 358 miles with the Long Range model (compared to the Ioniq 6’s max range at 361 miles).  Both of these EVs can charge up quickly. In 15 minutes, Tesla’s SuperCharger network can pump 200 miles of range back into a Model 3. The Ioniq 6 can go from 10 percent to 80 percent charged in 18 minutes. Automakers are eager to kick the ball down the road and get customers to start buying EVs, and that charge-up time makes a difference. Most trims of the new Ioniq 6 are on sale now at dealerships. Read our full review, here. Kristin Shaw is a freelance writer specializing in anything with wheels, and calls on her technology background to explain complex concepts. Currently living in her sixth state (New Jersey, Indiana, Ohio, Kentucky, Georgia, and now Texas), she does most of her work in coffee shops around Austin. 
+By Kristin Shaw
+ 
+By Kristin Shaw
+ 
+By Rob Stumpf
+ 
+By Rob Stumpf
+ 
+By Bradley Brownell
+ 
+By Rob Stumpf
+ 
+By Rob Stumpf
+ 
+By Stan Horaczek
+ 
+By Rob Stumpf
+ 
+By Stan Horaczek
+ 
+By Rob Stumpf, Stan Horaczek
+ 
+By Dan Carney
+ 
+By Rob Stumpf/The Drive
+ 
+By Andrew Paul
+ 
+By Charlotte Hu
+ 
+By Kristin Shaw
+ 
+By Kristin Shaw
+ 
+By Kristin Shaw
+ 
+By Jeffrey Lin and P.W. Singer
+ 
+By John Crimaldi / The Conversation
+ 
+By Harry Guinness
+ 
+By Andrew Paul
+ 
+By Andrew Paul
+ 
+By Kelsey D. Atherton
+ 
+By Rahul Rao
+ 
+By Harry Guinness
+ Sign up to receive Popular Science’s emails and get the highlights. Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+Registration on or use of this site constitutes acceptance of our Terms of Service.
+
+© 2024 Recurrent. All rights reserved. 

@@ -1,0 +1,41 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+Sustainability for Software Companies: Reducing Impact by Deciding What Not to Do
+ Jan 05, 2023
+								
+								
+								
+									
+									3
+									min read
+								
+							 by 
+
+
+Ben Linders
+
+ Small and medium-sized companies can contribute to sustainability with emissions reduction, mental health offerings and inclusion. To support sustainability, software engineers can think about "what not to do" to reduce complexity and make solutions smaller, resulting in a smaller carbon footprint. Alex Schladebeck spoke about their journey to sustainability at Agile Testing Days 2022. Schladebeck mentioned why sustainability matters to her: On a personal level, I realise that the world as we know it might not even continue within my own lifetime! In my role as a manager, because it is a factor that leads to employees choosing us as a company, because it will become a factor for companies to choose us as a partner, and because we also see that there is a market for services in digitalisation to support sustainability. At first glance, the United Nations sustainable development goals might look way too ambitious for a company. But there are aspects of fairness, equality, innovation, usage of resources, health and economics that even small companies can contribute to, as Schladebeck explained: One of the goals is to reduce premature mortality from non-communicable diseases - mental health offerings within companies definitely belong to that. Another goal is to promote and increase inclusion regardless of age, sex, disability, race, ethnicity, origin, religion, economic or other status. Companies can do concrete work in this area as well. Companies can contribute to efficiency goals by using natural resources and changing their energy provider, reducing waste, and moving towards electro mobility, Schladebeck said. Sustainability impacts the work of developers and testers: One of the main things we can look out for is "what work do we not have to do". I am really focusing on the minimalist mindset at the moment. Any feature that isn’t needed, or any complexity we can reduce, helps our solutions be smaller. We can also weigh up how often we want feedback through e.g. pipelines, versus what it costs to run those pipelines. Schladebeck suggested treating sustainability as a quality attribute and having conversations about it: What energy costs does our software cause? What hardware does it require and does the hardware need to be always running? How could the architecture be designed so that not everything needs to always run? These conversations are starting in our teams and meetings. So far the questions we asked ourselves are quite high-level: "Is this way of doing it sustainably?" or "Where does sustainability play into this?" But it’s a start! Schladebeck mentioned that they measured their carbon footprint this year via Climate Partner. They were not completely climate-neutral, so they compensated with a donation to a forestry project in Colombia. InfoQ interviewed Alex Schladebeck about their journey to sustainability. InfoQ: How did you start your journey in sustainability? Alex Schladebeck: For us as a company, it’s been a topic for a good few years. For me personally, I had an "aha moment" at Jutta Eckstein’s keynote at Agile Testing Days in 2021. I realised that I as a person could be doing more, and that I was interested in helping us as a company to improve and increase our sustainability. InfoQ: How does your company support good health and well-being? Schladebeck: We have offers for physical health such as sport and also fruit deliveries. We’ve greatly increased our mental health offerings too, including making sure we have regular 1:1 meetings between employees and their managers. We have seminars and workshops on mental health, stress and resilience, and we have partnerships with mental health providers if people need more help. To make sure that the work itself doesn’t become a stress factor, we have support for parents and families, flexible work time, and do a yearly employee questionnaire. InfoQ: How do your employees feel about the offerings? Schladebeck: Who uses and needs each particular offering is obviously very individual. Our colleagues appreciate that we have a wide offering, and that we consider what new things can be added as they are required. Things like flexible working time and home office options are always very highly rated in surveys! InfoQ: What will be the next steps on your journey to sustainability? Schladebeck: We’re getting solar panels for the company building, and we have a community of practice for green coding which started this year. We are also looking at our own portfolio and how we can help other companies to become more sustainable with our digital solutions. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

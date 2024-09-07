@@ -1,0 +1,52 @@
+
+            Around 38% of the world’s total landmass is used for agriculture – yet hunger is worsening, and food security is in crisis, threatened by pressures including climate change, conflict and global recessions. 
+     
+            While there’s no one-stop solution, technology can help to fill some of the gaps. Mechanical engineer Josie Hughes is on a mission to show how robotics can play a role in our everyday lives, particularly when it comes to food. Starting with LEGO robots as a child, the Cambridge graduate now leads the Computational Robot Design & Fabrication Lab (CREATE) at the Swiss Federal Institute of Technology Lausanne (EPFL), where she’s one of the youngest researchers to join as a tenure-track assistant professor. 
+     
+            One of her innovations, a raspberry-picking robot powered by artificial intelligence, could help make farming more efficient and cost-effective, and solve labor shortages – which in the UK alone left £60 million ($74 million) worth of fruit and vegetables rotting in fields this summer. CNN spoke with Hughes about her research, and when robots might be harvesting your next meal.
+     
+This interview has been edited for length and clarity.
+ 
+CNN: How can robots help with tasks like harvesting in agriculture?
+ 
+Josie Hughes: Robots can play a vital role in harvesting, as they can work 24 hours a day. We could have more precision harvesting – picking crops only when they are ready – which could reduce waste and improve quality. Robots can also gather data alongside harvesting: for example, information for the farmers about the amount of fruit or its quality.
+     
+CNN: How does the robotic harvester impact the nutrition and quality of the fruit?
+ 
+Hughes: Robot harvesting gives us an opportunity to harvest at night and early in the morning – the best time for the fruit in terms of ripeness and water content, which varies throughout the day. 
+     
+CNN: How does the robot work? 
+ 
+Hughes: The robot has a four-wheeled base with a six-joint robotic arm mounted on it. At the end of the arm, the robot has a “gripper” for harvesting, with a silicone coating to make it softer on the fruit. The gripper has a camera that gives us information about the robot’s distance from the fruit and uses color vision to detect the raspberries. Additional sensors in the fingers measure the holding and pulling forces we apply to the raspberry. We used artificial intelligence to help identify the location of raspberries within the cameras view, and also to optimize the control of the gripping fingers. The harvesting is fully autonomous – however, we manually move the robot to the raspberry plants. 
+     
+CNN: Why did you choose raspberries to harvest?
+ 
+Hughes: Raspberries are very fragile and easily damaged. If we apply too much force, they become squished – however we need enough force to remove them from the plants. Additionally, the force needs to be adjusted throughout the harvesting motion, as the fruit becomes less stiff once it is off the plant. 
+     
+Related article
+More than 50 robots are working at Singapore's high-tech hospital
+ 
+CNN: What is the “physical twin” raspberry you created, and how does it help train the robot? 
+ 
+Hughes: The physical twin is a device which simulates the raspberry on the plant, and how it behaves when pulled from the plant. It has a silicone outer layer, which can be pulled off the plant by detaching two magnets. However, our “fake” raspberry has something special: it uses what we call soft sensors, which provide information about the force applied.  These sensors allow us to record how a person harvests a raspberry, which provides us with a reference or benchmark which we can use to train the robot.
+     
+CNN: How do the raspberry-picking robots compare to human fruit pickers?
+ 
+Hughes: Right now, our robot is optimized for precision and not speed, whereas humans are good at precision and speed. We are working on accelerating the robot’s work process, to be half the speed of a person – such that if the robot operated for twice as long as a person, it would be comparable. 
+     
+CNN: People are often worried about losing jobs to robots. What jobs will the robots replace? 
+ 
+Hughes: Harvesting robots are still a new technology, and it’s not necessarily clear how this will affect jobs. However, many farmers and agricultural organizations are saying that they can’t recruit the necessary workers for harvesting, particularly in countries that were previously reliant on migrant workers on very low salaries. This presents an opportunity to positively introduce robots.
+     
+CNN: How will the robot impact or change conditions for farm workers?
+ 
+Hughes: Harvesting is a physically challenging job. It has long hours, exposure to the elements – sun, rain, storms, and even snow – with agricultural workers having an abnormally high injury and illness rate. Instead, if robots can do the hard labor, supported by farm workers, we can hopefully assist with the recruitment challenges while improving the quality of work.
+     
+CNN: How can robots and AI like this help agriculture in the face of climate change pressures? 
+ 
+Hughes: Robots allow us to rethink what agriculture could look like in the future and robots could help us harvest a range of different crops together in one field that assist their own growth and soil conditions, rather than the current single-crop fields we have. We can move to precision agriculture, where harvesting, pesticide application or any other task is tailored to the individual plant. This has a significant impact on the whole field or farm, as pesticides and resources are only used where they are truly required – which, in addition to significant environmental benefits, can also be cheaper for the farmer.
+     
+CNN: When can we expect to see these robots in use at farms, and what areas are you currently working on?
+ 
+Hughes: There is further work to automate the driving and navigation of the harvesting vehicle – but we believe such robots could be operating, safely and usefully, on farms in the next two to three years. We are also investigating how we can use a similar approach to harvest other delicate berries, such as blackberries or red berries.
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

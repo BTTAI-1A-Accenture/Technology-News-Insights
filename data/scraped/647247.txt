@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/justice-department-probing-how-372-million-disappeared-from-ftx-wallets-bloomberg-11672172341

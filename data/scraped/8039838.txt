@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.uwyo.edu', port=443): Max retries exceeded with url: /uw/news/2023/01/peabody-gift-to-uw-school-of-energy-resources-supports-long-term-energy-innovation.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7e2456f26500>, 'Connection to www.uwyo.edu timed out. (connect timeout=5)'))

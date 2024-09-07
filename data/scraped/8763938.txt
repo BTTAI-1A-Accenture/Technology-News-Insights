@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://buffalonews.com/opinion/pfizer-biontech-merck-johnson--johnson-bristol-myers-squibb/article_7f6fb5a8-4cbc-11ee-bca9-5fb54f6f68ff.html

@@ -1,0 +1,16 @@
+
+Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, received Bio-IT World Conference & Expo's Best in Show award for the Cerebras CS-2 system, the world's fastest AI solution. At the conference Cerebras also announced biopharmaceutical leader AbbVie as a customer, achieving 128 times the performance of graphics processing unit (GPU) on a single CS-2.
+ 
+From the pharmaceutical industry, to the energy space, to U.S. national laboratories, Cerebras customers have published CS-2 performance results in excess of 100s GPUs. But the CS-2 is set up and programmed in minutes, while clusters of GPUs take weeks or months. This means less time is spent in set up and configuration, less time is spent training models and more ideas are explored.
+ 
+"At Cerebras Systems, our goal is to enable AI that accelerates our customers' missions," said Andrew Feldman, CEO and co-founder of Cerebras Systems. "We're proud that the judges at the Bio-IT conference recognized the CS-2 as Best in Show. And we are even more proud that customers on three continents, including AbbVie, GlaxoSmithKline, AstraZeneca, TotalEnergies and many more, are accelerating their AI-driven work. When Cerebras helps scientists find cures for disease more quickly, or scientists identify more efficient energy sources, our goals as a company are realized."
+ 
+The industry leading CS-2 is powered by the largest processor ever built ? the Cerebras Wafer-Scale Engine 2 (WSE-2). The WSE-2 is 56 times larger than the nearest competitor, contains more than 100 times the number of compute cores, more than 1000 times the amount of high-speed on chip memory, and more than 10,000 times more memory bandwidth than the graphics processing unit. As a result, the CS-2 delivers more AI performance than any chip on the market. Purpose built to accelerate deep learning workloads and reduce the time to answer by orders of magnitude, the CS-2 is the preferred choice among pioneering researchers the world over.
+ 
+With customers and partners in North America, Asia, Europe and the Middle East, Cerebras is delivering industry leading AI solutions to a growing roster of customers in the enterprise, government, and high performance computing segments including AbbVie, GlaxoSmithKline, AstraZeneca, TotalEnergies, nference, Argonne National Laboratory, Lawrence Livermore National Laboratory, Pittsburgh Supercomputing Center, Edinburgh Parallel Computing Centre (EPCC), the National Energy Technology Laboratory, and Tokyo Electron Devices.
+ 
+For more information about the Cerebras CS-2 system and its application in health and pharma, please visit https://cerebras.net/industries/health-and-pharma/.
+ 
+About Cerebras Systems
+ 
+Cerebras Systems is a team of pioneering computer architects, computer scientists, deep learning researchers, and engineers of all types. We have come together to build a new class of computer system, designed for the singular purpose of accelerating AI and changing the future of AI work forever. Our flagship product, the CS-2 system is powered by the world's largest processor ? the 850,000 core Cerebras WSE-2, enables customers to accelerate their deep learning work by orders of magnitude over graphics processing units.

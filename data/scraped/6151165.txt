@@ -1,0 +1,167 @@
+
+Email *
+
+ 
+First Name *
+
+ 
+Last Name
+
+ Please complete the Captcha above 
+
+    Share this page    Follow Ballotpedia    Share this page    Follow Ballotpedia   Gonzalez v. Google LLC is a case that was decided by the Supreme Court of the United States on May 18, 2023, during the court's October 2022-2023 term. The case was argued before the court on February 21, 2023. The court vacated and remanded the decision of the United States Court of Appeals for the Ninth Circuit in a per curiam ruling, sending the case back to the lower court for reconsideration in light of the outcome in Twitter, Inc. v. Taamneh.[1] Click here for more information about the ruling.
+ 
+The case came on a writ of certiorari to the United States Court of Appeals for the Ninth Circuit. To review the lower court's opinion, click here.
+
+ The following timeline details key events in this case:
+ In 1996, U.S. Congress passed the Communications Decency Act. The law provides general immunity to internet platforms from liability for content published by users of their services.[2]
+ In November 2015, U.S. citizen Nohemi Gonzalez was killed at La Belle Equipe bistro in Paris in a terrorist attack committed by the Islamic State (IS). Gonzalez's family filed a lawsuit under the Antiterrorism Act in the United States District Court for the Northern District of California against Google, alleging that videos on its YouTube platform aided the Islamic State's recruitment efforts and specifically recommended the videos through its user-targeting algorithms. In the petition to the U.S. Supreme Court, Reynaldo Gonzalez et al. asked the court to consider whether providers are still protected from liability when their algorithms target users and recommend others users' content to them.[2][3]
+ In the petition for a writ of certiorari, Gonzalez asked the court to review Section 230(c)(1) of the Communications Decency Act, which states:[2]Cite error: Invalid <ref> tag; name cannot be a simple integer. Use a descriptive title
+ (1) Treatment of publisher or speaker
+ No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.[4]
+ On appeal from the Northern District of California, the United States Court of Appeals for the Ninth Circuit affirmed the district court's ruling, holding that Section 230 protects the algorithmic recommendations. Writing for the majority, Judge Morgan Christen wrote:[5]
+ 
+We have jurisdiction pursuant to 28 U.S.C. § 1291. We conclude the district court in Gonzalez properly ruled that § 230 bars most of the Gonzalez Plaintiffs’ claims, and that the Gonzalez Plaintiffs failed to state an actionable claim as to their remaining theories of liability asserted pursuant to the ATA. In Taamneh, we conclude the district court erred by ruling the Plaintiffs failed to state a claim for aiding-and-abetting liability under the ATA. The district court did not reach § 230 immunity in Taamneh. In Clayborn, we conclude the district court correctly held that Plaintiffs failed to plausibly plead their claim for aiding-and-abetting liability. We therefore affirm the judgments in Gonzalez and Clayborn, and reverse and remand for further proceedings in Taamneh.[4]
+ The petitioner presented the following questions to the court:[2]
+ Audio of oral argument:[6]
+ Your browser doesn't support the audio tag.
+
+ 
+ Transcript of oral argument:[7]
+ 
+ In a per curiam opinion, the court vacated and remanded the judgment of the U.S. Court of Appeals for the Ninth Circuit, in light of the Twitter, Inc. v. Taamneh decision, because the secondary liability claims in this case are materially similar. 
+ A per curiam decision is issued collectively by the court. The authorship is not indicated. Click here for more information.[1]
+ In its opinion, the court wrote:[1]
+ Plaintiffs did not seek review of the Ninth Circuit’s holdings regarding their revenue-sharing claims. In light of those unchallenged holdings and our disposition of Twitter, on which we also granted certiorari and in which we today reverse the Ninth Circuit’s judgment, it has become clear that plaintiffs’ complaint—independent of §230—states little if any claim for relief. As plaintiffs concede, the allegations underlying their secondary-liability claims are materially identical to those at issue in Twitter. See Tr. of Oral Arg. 58. Since we hold that the complaint in that case fails to state a claim for aiding and abetting under §2333(d)(2), it appears to follow
+[4]
+ Read the full opinion here.
+ 
+ The Supreme Court began hearing cases for the term on October 3, 2022. The court's yearly term begins on the first Monday in October and lasts until the first Monday in October the following year. The court generally releases the majority of its decisions in mid-June.[8]
+ 
+ Supreme Court cases, October term 2022-2023
+ Supreme Court of the United States
+ History of the Supreme Court
+ 
+
+ Chief justice: Roberts 
+Associate justices: Alito • 
+Barrett •
+Gorsuch • 
+Jackson •
+Kagan • 
+Kavanaugh •
+Sotomayor • 
+Thomas
+ Breyer • 
+Kennedy • 
+O'Connor • 
+Souter
+ Burger • 
+Chase • 
+Ellsworth • 
+Fuller • 
+Hughes • 
+Jay • 
+Marshall • 
+Rehnquist • 
+Rutledge • 
+Stone • 
+Taft • 
+Taney • 
+Vinson • 
+Waite • 
+Warren • 
+ Baldwin • 
+Barbour • 
+Black • 
+Blackmun • 
+Blair • 
+Blatchford • 
+Bradley • 
+Brandeis • 
+Brennan • 
+Brewer • 
+Brown • 
+Burton • 
+Butler • 
+Byrnes • 
+Campbell • 
+Cardozo • 
+Catron • 
+Chase • 
+Clark • 
+Clarke • 
+Clifford • 
+Curtis • 
+Cushing • 
+Daniel • 
+Davis • 
+Day • 
+Douglas • 
+Duvall • 
+Field • 
+Fortas • 
+Frankfurter • 
+Ginsburg •
+Goldberg • 
+Gray • 
+Grier • 
+Harlan I • 
+Harlan II • 
+Holmes • 
+Hunt • 
+Iredell • 
+H. Jackson • 
+R. Jackson • 
+T. Johnson • 
+W. Johnson, Jr. • 
+J. Lamar • 
+L. Lamar • 
+Livingston • 
+Lurton • 
+Marshall • 
+Matthews • 
+McKenna • 
+McKinley • 
+McLean • 
+McReynolds • 
+Miller • 
+Minton • 
+Moody • 
+Moore • 
+Murphy • 
+Nelson • 
+Paterson • 
+Peckham • 
+Pitney • 
+Powell • 
+Reed • 
+Roberts • 
+W. Rutledge • 
+Sanford • 
+Scalia • 
+Shiras • 
+Stevens • 
+Stewart • 
+Story • 
+Strong • 
+Sutherland • 
+Swayne • 
+Thompson • 
+Todd • 
+Trimble • 
+Van Devanter • 
+Washington • 
+Wayne • 
+B. White • 
+Whittaker • 
+Wilson • 
+Woodbury • 
+Woods
+ Communications: Alison Graves • Carley Allensworth • Abigail Campbell • Sarah Groat • Dillon Redmond • Erica Shumaker
+External Relations: Andrew Heath • Hannah Nelson
+Operations: Meghann Olshefski • Amanda Herbert • Mandy Morris • Caroline Presnell • Kelly Rindfleisch
+Policy: Molly Byrne • Jon Dunn • Jacob Hupp • Jimmy McAllister • Annelise Reinwald
+Content Strategy: Josh Altic 
+Tech: Matt Latourelle • Ryan Burch • Kirsten Corrao • Beth Dellea • Travis Eden • Tate Kamish • Margaret Kearney • Eric Lotto • Trevor Pollo • Joseph Sanchez
+ Ballotpedia features 514,484 encyclopedic articles written and curated by our professional staff of editors, writers, and researchers. Click here to contact our editorial staff or report an error. For media inquiries, contact us here. Please donate here to support our continued expansion.

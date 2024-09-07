@@ -1,0 +1,15 @@
+T-Mobile US promised a host of customer and operational benefits after Cisco completed deployment of a cloud-native 5G core gateway, the operator’s latest bid to best its rivals in terms of progress with the next-generation technology. The operator used a joint press release to reveal all of its 4G and 5G traffic is now running on the cloud-based gateway, a shift it noted had boosted data rates and lowered latency on each technology. T-Mobile SVP of core network and services engineering Delan Beah was quick to play up the benefits for its nationwide 5G network in terms of user experience and as a foundation for future applications.
+
+
+
+ The companies explained the core architecture is fully automated, employing Cisco’s cloud-native control plane and “Kubernetes orchestrated containers on bare metal” to release more than 20 per cent of the capacity of CPUs. Cisco routers, packet core gateways, computing system, switches and network service orchestration products are all used in the T-Mobile set-up. Along with the data rate and latency benefits, T-Mobile cited operational gains covering the time taken to test and deploy new services including Voice over 5G, home internet deployments and IoT applications. 
+You'll gain exclusive access to breaking news, expert analysis,
+and in-depth features delivered right to your inbox.
+ 
+By subscribing to our newsletter, you'll gain exclusive
+access to breaking news, expert analysis, and in-depth
+features delivered right to your inbox.
+ 
+© 2024 GSM Association. The GSMA, Mobile World Live,
+MWC Barcelona, MWC Las Vegas, MWC Kigali & MWC Shanghai terms and logos
+are trademarks of the GSM Association.

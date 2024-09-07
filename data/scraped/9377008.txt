@@ -1,0 +1,33 @@
+
+                    KIST (CollaBot) received the ICSR 2022 best award in the "hardware, design, and interface" category, A robotic library system that understands context and situations is proposed to provide comprehensive services
+                 National Research Council of Science & Technology image: CollaBot: robotic library
+view more  Credit: Korea Institute of Science and Technology After competing in the finals with the University College London, which presented Bubble Worlds, the research team led by Dr. Sona Kwak from the Korea Institute of Science and Technology (KIST; President Seok Jin Yoon) presented "CollaBot" and received the best award in the "hardware, design, and interface" category at the Robot Design Competition hosted by the International Conference on Social Robotics (ICSR) 2022, which was held at the Chamber of Commerce in Florence, Italy (December 13-16, 2022). Previous studies on social robots were primarily based on humanoid robots that understand the context of situations and provide a range of situation-specific services. However, the commercialization of humanoid robots that were expected to perform tasks similar to, if not above, the capabilities of an actual human, was inhibited because the humanoid robot did not function as well as expected. In addition, because robotic products focus solely on a specific function, they are limited in terms of providing a wide range of assistance adapted to a consumer's environment and situation. To address these limitations, the research team led by Dr. Kwak (KIST) developed a robotic library system (CollaBot) that understands situational context by integrating data collected by various robotic products, and offers context-customized assistance. This system comprising tables, chairs, bookshelves, and lights, provides a human-robot interaction based on the collaborations between different robotic products. The system environment is detailed as follows: the user's smartphone, door, robotic bookshelf, and robotic chair are all connected; hence, the user can search for and select a book of interest on their smartphone, and the selected book will automatically be brought out from the bookshelf. The chair functions as a ladder by moving near to the user and letting the user step on it or a cart by transporting several books. In other words, in addition to executing its original function, each system component also adapts its function depending on the environment to offer user-friendly assistance. Dr. Dahyun Kang of KIST, who designed the interaction of CollaBot said that "the proposed robotic system based on the collaboration between various robotic products provides physical assistance by applying robotics technology to the existing Internet of things to create a hyper-connected society. We expect that this type of system that offers practical assistance in our daily lives can pioneer a novel robotics market." This year's Robot Design Competition at the 13th ICSR was led by the award chair, Amit Kumar Pandey, who participated in the development of key social robots such as Sophia, Nao, and Pepper.   ### This research was conducted via the KIST Institutional Program and KIST Technology Support Center Program. KIST was established in 1966 as the first government-funded research institute in Korea. KIST now strives to solve national and social challenges and secure growth engines through leading and innovative research. For more information, please visit KIST’s website at https://eng.kist.re.kr/ Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system. Media Contact 
+                                    Eunhye Bae
+                    
+					National Research Council of Science & Technology
+
+                eunae@nst.re.kr
+            
+ Expert Contacts 
+                                    Dr. Kwak, Sona
+                    
+					Korea Institute of Science and Technology
+
+                sonakwak@kist.re.kr
+            
+        
+                    Office: +82-2-958-6814
+ 
+                                    Lee, Yeeun(PR Department)
+                    
+					Korea Institute of Science and Technology
+
+                yeeun.lee@kist.re.kr
+            
+        
+                    Office: +82-2-958-6929
+ National Research Council of Science & Technology 
+
+ 
+
+ Copyright © 2024 by the American Association for the Advancement of Science (AAAS) Copyright © 2024 by the American Association for the Advancement of Science (AAAS) 

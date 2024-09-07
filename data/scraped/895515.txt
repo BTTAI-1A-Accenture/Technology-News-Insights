@@ -1,0 +1,48 @@
+
+ When deploying models for on-device machine learning (ODML) applications, it is
+important to be aware of the limited memory that is available on mobile devices.
+Model binary sizes are closely correlated to the number of ops used in the
+model. TensorFlow Lite enables you to reduce model binary sizes by using
+selective builds. Selective builds skip unused operations in your model set and
+produce a compact library with just the runtime and the op kernels required for
+the model to run on your mobile device. Selective build applies on the following three operations libraries. The table below demonstrates the impact of selective builds for some common use
+cases: This section assumes that you have downloaded TensorFlow source codes and
+set up the local development environment
+to Bazel. You can build the custom TensorFlow Lite AARs by providing your model file paths
+as follows. The above command will generate the AAR file bazel-bin/tmp/tensorflow-lite.aar
+for TensorFlow Lite built-in and custom ops; and optionally, generates the aar
+file bazel-bin/tmp/tensorflow-lite-select-tf-ops.aar if your models contain
+Select TensorFlow ops. Note that this builds a "fat" AAR with several different
+architectures; if you don't need all of them, use the subset appropriate for
+your deployment environment. If you have developed Tensorflow Lite models with custom ops, you can build them
+by adding the following flags to the build command: The tflite_custom_ops_srcs flag contains source files of your custom ops and
+the tflite_custom_ops_deps flag contains dependencies to build those source
+files. Note that these dependencies must exist in the TensorFlow repo. If your project is using Bazel and you would like to define custom TFLite
+dependencies for a given set of models, you can define following rule(s) in your
+project repository: For the models with the builtin ops only: For the models with the Select TF ops: If you would like to build your own custom TFLite C/C++ shared objects towards
+the given models, you can follow the below steps: Create a temporary BUILD file by running the following command at the root
+directory of the TensorFlow source code: If you would like to build a custom TFLite C shared object, add the following to
+tmp/BUILD file: The newly added target can be built as follows: and for Android (replace android_arm with android_arm64 for 64-bit): If you would like to build a custom TFLite C++ shared object, add the following
+to tmp/BUILD file: The newly added target can be built as follows: and for Android (replace android_arm with android_arm64 for 64-bit): For the models with the Select TF ops, you also need to build the following
+shared library as well: The newly added target can be built as follows: and for Android (replace android_arm with android_arm64 for 64-bit): This section assumes that you have installed
+Docker on your local machine and
+downloaded the TensorFlow Lite Dockerfile
+here. After downloading the above Dockerfile, you can build the docker image by
+running: Download the script for building with Docker by running: Then, you can build the custom TensorFlow Lite AAR by providing your model file
+paths as follows. The checkpoint flag is a commit, a branch or a tag of the TensorFlow repo that
+you want to checkout before building the libraries; by default it is the latest
+release branch. The above command will generate the AAR file
+tensorflow-lite.aar for TensorFlow Lite built-in and custom ops and optionally
+the AAR file tensorflow-lite-select-tf-ops.aar for Select TensorFlow ops in
+your current directory. The --cache_dir specify the cache directory. If not provided, the script will
+create a directory named bazel-build-cache under current working directory for
+caching. Add AAR files by directly
+importing the AAR into your project,
+or by
+publishing the custom AAR to your local Maven repository.
+Note that you have to add the AAR files for tensorflow-lite-select-tf-ops.aar
+as well if you generate it. Please see the
+Building locally section to set up the
+build environment and configure TensorFlow workspace and then follow the
+guide to use the
+selective build script for iOS. Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates. Last updated 2023-08-30 UTC.

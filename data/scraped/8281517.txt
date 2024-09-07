@@ -1,0 +1,33 @@
+Sign Up! 
+
+envelope_alt
+
+
+ Get the latest Android News in your inbox every day 
+
+arrow_right
+
+
+ 
+Sign up to receive the latest Android News every weekday:
+ 
+
+ Only send updates once a week
+
+ 
+Android Headlines / Android News / WhatsApp is looking to deliver cross-platform messaging Some beta testers are already noticing a new WhatsApp cross-platform messaging feature on the app. This new feature became available on WhatsApp for Android via a beta update. Since the update bringing this feature and the EU outlining Meta as a “gatekeeper” are days away from each other, some experts are already connecting the dots. A few days before this feature became available via update, the EU pointed out that the Digital Markets Act (DMA) outlined Meta as a “gatekeeper.” This means that Meta’s services need to support chat interoperability with other services to improve user access. Now with the emergence of this feature, it seems like Meta is already working to make this interoperability available. WABetaInfo points out that while the presence of this feature can be seen via the update, its function isn’t clear. However, the title of the section for this feature reads Third-party chats, which hints at interoperability. This article will explore how this feature might work to keep up with the EU’s Digital Markets Act (DMA) requirements for a gatekeeper. WhatsApp is currently in use by over 2.7 billion people worldwide, making it the most used messaging platform. For this reason, the EU considers it a gatekeeper service and requires it to be interoperable. This is to let other users access its services from other third-party messaging platforms without having to access WhatsApp services. This will permit a user of another third-party messaging service to chat with a WhatsApp user. Currently, that is not possible, but that is the future that the EU’s Digital Markets Act (DMA) is fighting for. To this end, they are giving WhatsApp till March 2024 to comply with its requirements. WhatsApp already seems to be working to meet this requirement and they must start early. By doing this, they’ll be able to fish out possible flaws in cross-platform messaging and fix them. Some of these flaws might have to do with end-to-end encryption for cross-platform messages. Because this feature will allow messaging between two platforms, security will be a major concern. While the EU aims to improve communication between citizens of their region, they need to consider security. WhatsApp will be able to address this issue effectively since they have already begun working on the new feature. This feature might be only available to the EU region once it rolls out soon. Also, users of WhatsApp might be allowed to opt out of cross-platform messaging. More details on the coming WhatsApp cross-platform messaging in compliance with the EU’s Digital Markets Act (DMA) will be available in the coming weeks. Copyright ©2023 Android Headlines. All Rights Reserved. A keen Android user who dabbles in using various products from the ecosystem and has a peculiar love for Chrome OS. You can always find him with his Android devices, learning more about the ever-growing ecosystem and getting familiar with new products. Writing has always been his passion, and Androidheadlines is the perfect platform to match his passion with his love for Android. Main Deals & More Android News Sign Up! 
+
+envelope_alt
+
+
+ Get the latest Android News in your inbox every day 
+
+arrow_right
+
+
+ 
+Sign up to receive the latest Android News every weekday:
+ 
+
+ Only send updates once a week
+

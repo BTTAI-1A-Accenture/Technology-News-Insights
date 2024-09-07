@@ -1,0 +1,269 @@
+Kenya this week suffered a cyber-attack affecting major government and private business systems, slowing down key services. Individuals who tried to access the e-Citizen platform complained of serious delays as they tried to access services in the system. The matter then escalated on Thursday, July 27 as users of the platform could no longer log in to the system, leave alone access any of its services.
+
+
+
+
+
+
+A few hours later, other government and private parastatals expressed similar challenges that pushed Kenyans to assume that the country is under a cyber-attack threat. These assumptions were later confirmed by Information, Communication, and Digital Economy (ICT) Cabinet Secretary Eluid Owalo that indeed the systems were hacked. According to Owalo, the hackers were trying to break into the system and access government data but were unable to. "Yes, the e-Citizen platform was hacked and we are addressing it. They tried jamming the system by making more than ordinary requests to the system. However, no data has been accessed or lost," stated Owalo. Infected Documents
+
+
+
+
+
+
+However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ Individuals who tried to access the e-Citizen platform complained of serious delays as they tried to access services in the system. The matter then escalated on Thursday, July 27 as users of the platform could no longer log in to the system, leave alone access any of its services.
+
+
+
+
+
+
+A few hours later, other government and private parastatals expressed similar challenges that pushed Kenyans to assume that the country is under a cyber-attack threat. These assumptions were later confirmed by Information, Communication, and Digital Economy (ICT) Cabinet Secretary Eluid Owalo that indeed the systems were hacked. According to Owalo, the hackers were trying to break into the system and access government data but were unable to. "Yes, the e-Citizen platform was hacked and we are addressing it. They tried jamming the system by making more than ordinary requests to the system. However, no data has been accessed or lost," stated Owalo. Infected Documents
+
+
+
+
+
+
+However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ The matter then escalated on Thursday, July 27 as users of the platform could no longer log in to the system, leave alone access any of its services.
+
+
+
+
+
+
+A few hours later, other government and private parastatals expressed similar challenges that pushed Kenyans to assume that the country is under a cyber-attack threat. These assumptions were later confirmed by Information, Communication, and Digital Economy (ICT) Cabinet Secretary Eluid Owalo that indeed the systems were hacked. According to Owalo, the hackers were trying to break into the system and access government data but were unable to. "Yes, the e-Citizen platform was hacked and we are addressing it. They tried jamming the system by making more than ordinary requests to the system. However, no data has been accessed or lost," stated Owalo. Infected Documents
+
+
+
+
+
+
+However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ A few hours later, other government and private parastatals expressed similar challenges that pushed Kenyans to assume that the country is under a cyber-attack threat. These assumptions were later confirmed by Information, Communication, and Digital Economy (ICT) Cabinet Secretary Eluid Owalo that indeed the systems were hacked. According to Owalo, the hackers were trying to break into the system and access government data but were unable to. "Yes, the e-Citizen platform was hacked and we are addressing it. They tried jamming the system by making more than ordinary requests to the system. However, no data has been accessed or lost," stated Owalo. Infected Documents
+
+
+
+
+
+
+However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ These assumptions were later confirmed by Information, Communication, and Digital Economy (ICT) Cabinet Secretary Eluid Owalo that indeed the systems were hacked. According to Owalo, the hackers were trying to break into the system and access government data but were unable to. "Yes, the e-Citizen platform was hacked and we are addressing it. They tried jamming the system by making more than ordinary requests to the system. However, no data has been accessed or lost," stated Owalo. Infected Documents
+
+
+
+
+
+
+However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ According to Owalo, the hackers were trying to break into the system and access government data but were unable to. "Yes, the e-Citizen platform was hacked and we are addressing it. They tried jamming the system by making more than ordinary requests to the system. However, no data has been accessed or lost," stated Owalo. Infected Documents
+
+
+
+
+
+
+However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ "Yes, the e-Citizen platform was hacked and we are addressing it. They tried jamming the system by making more than ordinary requests to the system. However, no data has been accessed or lost," stated Owalo. Infected Documents
+
+
+
+
+
+
+However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ Infected Documents
+
+
+
+
+
+
+However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ However, it is still not clear what the extent of the attack was nor is it clear how it all happened. According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ According to UNEP Data Scientist Kennedy Wangari, a user might have downloaded an infected document online that the hackers used to access the systems. After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ After gaining access, they may have gone ahead and made multiple requests to the server which disoriented the functionality of the platform. "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ "In the case of e-Citizen, it might be unlimited to us but there is a specific bandwidth of traffic that can be accessed at a specific time. This particular hacker after accessing the platform, served multiple requests to the file server that supports these applications by sending an application code or program to the platform. These requests were rendered ineffective therefore one could not access any services," averred Wangari. Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ Another cybercrime expert who spoke to The Standard reiterated Wangari's sentiments adding: "For this case, it was a denial of services that came with a lot of requests which the site could not have handled."
+
+
+
+  
+This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ This is the first time the country has experienced multiple attacks all in the same period of time. It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ It is yet to be confirmed who the hackers are as the Government insists its priority is to restore the services lost.  Stay informed. Subscribe to our newsletter 
+By clicking on the SIGN UP button, you agree to our Terms & Conditions and the Privacy Policy
+
+
+
+SIGN UP
+ At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ Stay informed. Subscribe to our newsletter At the time of publishing, the majority of the services on the e-Citizen platform were back.Stay Informed, Stay Empowered: Download the Standard ePaper App!
+"Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ "Majority of the services are back online as the issue was service access. They did not interfere with the integrity of the system and if there are one or two services that are inaccessible, something is being done. We are back fully online," said ICT Principal Secretary John Tanui. To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ To mitigate future incidents, the Government on Saturday, July 29 announced it has created a cybersecurity roundtable aimed at addressing cybersecurity challenges in the country. The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ The team, in collaboration with public and private sectors, will share information on emerging cyber threats and come up with swift cyber incident response and mitigation strategies.
+ Subscribe to our newsletter and stay updated on the latest developments and special
+offers! Pick your favourite topics below for a tailor made homepage just for you

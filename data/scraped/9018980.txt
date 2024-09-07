@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/snyk-named-leader-2023-gartner-153000741.html

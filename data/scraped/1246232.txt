@@ -1,0 +1,36 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Clear communication is key in any business endeavor, especially when it comes to manufacturing projects. Before starting the Request for Quote (RFQ) process for electronic manufacturing services, ensure you have a well-defined objective.  Provide details on the target market geography and preferred manufacturing region to ensure an accurate quote. Be bold and consider alternative suggestions from your partner, as they may bring valuable insights and solutions based on their experience. To maximize the effectiveness of your RFQ package, include all necessary information for the service provider to generate a complete quote. Invest in clear communication from the start to ensure a successful project outcome. 1. Detailed product specifications, including electrical and mechanical specifications, materials, and dimensions. 2. Drawings, 3D models and schematics, if available, to provide a clear understanding of the product design. 3. Bill of Materials (BOM), including part numbers, Vendor (AVL), and quantities. 4. Description and reference designators, location of component on PCB 5. Volume and production requirements, including any specific requirements for testing, programming, inspection, and certification. 6. Any specific requirements for packaging and labeling. 7. Any relevant regulatory or industry-specific certifications required for the product. 8. Any special IT requirements, Interfaces, protocols, traceability 9. Details on the anticipated product life cycle and any future product updates or changes that may be required. 10. Target price and expected delivery time. 11. Payment terms and conditions.   Providing as much detail as possible in the RFQ package will help the service provider assess the project's scope and provide a more accurate quote. It is important to consider the lead time of components and any long-term commitments in terms of pricing or delivery times. A clear understanding of the project objectives will help streamline the RFQ process and ensure a successful outcome.  Finally, if you have certain preferences regarding your partner's certifications or quality standards, ensure they are stated in the RFQ package. That way, you can ensure a partner meets your requirements from the outset. With these steps, you can ensure clear communication and streamline the RFQ process for electronic manufacturing services. Investing time upfront to communicate clearly will help reduce delays and save money in the long run.  By following these tips, you can be sure to have an accurate quote and a successful project outcome! And if you need any additional support, I'm here to help. Let's make the RFQ process a success for your project! ------------------------------ If you found this post valuable, please like, comment, and repost to help others discover it as well. I support OEMs with Development, Manufacturing, and Supply Chain Solutions.  Liked this post? 🔔 Ring Bell on my Profil Want to see more? Follow #ralfklaassen 🔝 Connect with me  Subscribe on LinkedIn  Executive Director, AVL - opinions are mine / I try to stick to facts 📈📉📊 at #ww520 The quality of the RFQ process shows in the following areas 
+
+1 understand your own product needs properly (requirements)
+2 understand what you need from the outside 
+3 be able to source properly 
+4 be able to deploy properly 
+5 the time the steps above take
+6 the variations you introduce across the whole process above 
+
+There are many ways to manage the process above - the quality criteria remain the same
+
+cc John Proctor, PhD 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

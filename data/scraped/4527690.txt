@@ -1,0 +1,148 @@
+Part 1 of CRN’s Big Data 100 takes a look at the vendors solution providers should know in the data analytics and business intelligence space. 
+
+
+
+
+
+
+ Analytical Approach It’s no surprise that in diagrams and visual representations of big data IT systems, data analytics and visualization software are usually at the top of the big data “technology stack.” They are the software tools that business analysts and information workers use to gain understanding and insight from the exponentially growing volumes of data businesses are generating today and to share that knowledge throughout an organization. Worldwide sales of business intelligence software are expected to reach $25.73 billion this year, up 8.6 percent from $23.70 billion in 2022, and reach $34.16 billion by 2028, according to market research firm Statista. “Companies’ needs for data insights, customer analyses, and all kinds of business processes have strongly increased due to digitization and data that is collected online. This development drives the demand for enterprise software, especially business intelligence software,” said a Statista report. As part of the CRN 2023 Big Data 100, we’ve put together the following list of business analytics software companies—from well-established vendors to those in startup mode—that solution providers should be familiar with. These vendors offer everything from self-service reporting and data visualization tools for nontechnical managers and business users to high-performance business analysis software needed by data analysts to tackle the most complex business intelligence tasks. This week CRN is running the Big Data 100 list in a series of slide shows, organized by technology category, spotlighting vendors of business analytics software, database systems, data warehouse and data lake systems, data management and integration software, data observability tools, and big data systems and cloud platforms. Some vendors market big data products that span multiple technology categories. They appear in the slideshow for the technology segment in which they are most prominent. 
+
+
+
+
+
+
+ Ahana Co-Founder and CEO: Steven Mih Ahana develops Ahana Cloud for Presto, a software-as-a-service data analytics service based on Presto, the open-source SQL query engine used to query data in a range of data sources including database and data lakehouse systems. Venture-backed Ahana, founded in 2020 and based in San Mateo, Calif., was acquired by IBM earlier this month. With the acquisition IBM joined the Presto Foundation, part of the Linux Foundation. 
+
+
+
+
+
+
+ Alteryx CEO: Mark Anderson Alteryx offers its flagship Alteryx Analytics Automation Platform, a unified data analytics and data science automation system, and the Alteryx Analytics Cloud Platform, along with a number of additional business intelligence, machine learning and developer tools. In February the company unveiled new self-service and enterprise-grade capabilities to the enterprise edition. Alteryx executives say the Irvine, Calif.-based company has recorded significant momentum in the channel after undertaking a major expansion of its partner program in 2022 as part of a shift to a more partner-centric sales strategy. 
+
+
+
+
+
+
+ AtScale CEO: Chris Lynch AtScale develops semantic layer technology for business intelligence that the company says insulates data consumers from the complexity of working with raw data. The AtScale software creates a business-oriented data model and virtualizes queries for cloud data platforms such as Amazon Redshift, Snowflake, Google Big Query and Databricks without the need for ETL (extract, transform, load) tools or data movement. This year AtScale, headquartered in Boston, has expanded its connections to the Databricks platform, including the Databricks Lakehouse for Manufacturing, and achieved the Snowflake Ready Technology Valuation for business intelligence solutions. In April the company introduced code-first data modeling capabilities for its semantic layer platform. 
+
+
+
+
+
+
+ CelerData CEO: James Li Startup CelerData markets a high-performance unified analytics platform based on the StarRocks massively parallel processing SQL database for real-time analytics. CelerData’s founders developed StarRocks in 2020 and earlier this year contributed it to the Linux Foundation. In March CelerData, headquartered in Menlo Park, Calif., took aim at the fast-growing data lakehouse space with a new release of its software with a cloud-native architecture, real-time streaming analytics, and support for open data table formats Hudi, Iceberg and Delta Lake. 
+
+
+
+
+
+
+ Domo CEO: Josh James Domo develops its namesake “data experience” platform, a cloud-based, mobile data analytics and visualization system that provides decision makers with real-time business data from a wide range of operational applications and data sources. In March the American Fork, Utah-based company debuted Domo Cloud Amplifier, which the company says helps users unlock data across multiple cloud platforms using a single virtual layer. On March 6, Domo said that John Mellor, who served as Domo’s chief strategy officer for three years and then CEO for more than a year, was stepping down and that Josh James, the company’s founder and original CEO, was again assuming the CEO post. 
+
+
+
+
+
+
+ Hitachi Vantara CEO: Gajen Kandiah Hitachi Vantara, a wholly-owned subsidiary of Hitachi Ltd., offers a portfolio of data analytics, data storage and data operations products, the latter including data integration, catalog and optimization tools and content intelligence software. The product suite includes the company’s Pentaho data integration and analytics platform. 
+
+
+
+
+
+
+ Incorta CEO: Osama Elkady Incorta develops the Open Data Delivery Platform, a system for acquiring, processing and analyzing raw, operational data from business applications in real time. The platform, with Incorta’s Direct Data Mapping technology, connects to more than 240 data sources. In March, Incorta, based in San Mateo, Calif., joined Google Cloud’s Ready BigQuery and AlloyDB in initiatives, validating its technology for those Google Cloud systems and making it easier for businesses and organizations to move business application and ERP (enterprise resource planning) data into the cloud. 
+
+
+
+
+
+
+ Kyligence CEO: Luke Han Kyligence Enterprise, the company’s flagship multi-dimensional analytics platform, is designed to analyze massive datasets with its data modeling, query and processing capabilities. The platform is based on the open-source Apache Kylin distributed OLAP engine that was developed by Kyligence’s founders. Earlier this month San Jose, Calif.-based Kyligence announced the general availability of Kyligence Zen, an intelligent metrics platform for developing and centralizing all types of data metrics into a unified catalog system. 
+
+
+
+
+
+
+ Kyvos Insights CEO: Praveen Kankariya Kyvos Insights offers a data analytics acceleration platform, based on the company’s Smart OLAP technology, that the company says improves the performance of business intelligence tools like Tableau, Google Cloud Looker and Microsoft Power BI. 
+
+
+
+
+
+
+ MicroStrategy President and CEO: Phong Lee MicroStrategy is one of the long-time players in the data analytics arena and bills itself as the largest independent, publicly traded business intelligence company. Headquartered in Tysons Corner, Va., MicroStrategy offers its enterprise analytics and embedded analytics platforms as part of the company’s “intelligence everywhere” vision. In February the company reported that revenue in 2022 was $499.3 million, down more than 2 percent from $510.8 million in 2021. In addition to its analytics software business, MicroStrategy also acquires and holds Bitcoin and as of the end of 2022 owned 132,500 Bitcoin. 
+
+
+
+
+
+
+ Promethium CEO: Kaycee Lai Startup Promethium says that its collaborative data virtualization platform accelerates data analytics projects by eliminating data management and analytics complexity. Promethium touts its software as a key element for data fabric initiatives that connect an organization’s data for analytics, machine learning and other tasks without the need for traditional ETL tools and approaches. 
+
+
+
+
+
+
+ Pyramid Analytics CEO: Omri Kohl Pyramid Analytics describes the company’s Pyramid Decision Intelligence Platform as a fully integrated, no-code, AI-driven system that combines data preparation, data science, and self-service and augmented business analytics capabilities. The company has been accelerating the expansion of its channel alliances over the last year including establishing partnerships with technology companies, ISVs, VARs, consulting firms and systems integrators. In November the company hired former IBM and Oracle executive Bill Clayton as vice president of global partner sales. Earlier this month Amsterdam-based Pyramid Analytics said it is expanding into Mexico and Latin America via a series of partner agreements with top regional technology consultants including Analytics Mate, AS Analytics, BACIT, EMC Software C.A. and Hopewell Systems C.A. 
+
+
+
+
+
+
+ Qlik CEO: Mike Capone Qlik is one of the leading business analytics providers with its flagship Qlik Sense data analytics, discovery and visualization software. The company has expanded beyond its core analytics offerings in recent years with a number of savvy acquisitions including data integration tech developer Attunity in 2019 and automated machine learning software developer Big Squid in 2021. Qlik is now in the process of acquiring Talend, a leading provider of data management and integration tools. In March Qlik launched its Connector Factory initiative to broaden the range of SaaS applications, legacy software and data sources that can link to its data analytics and integration products. 
+
+
+
+
+
+
+ Rockset CEO: Venkat Venkataramani Rockset offers a cloud-based search and analytics database service for developing real-time analytical applications that require low-latency, high-concurrency analytical queries and data aggregations. The service is built on the RocksDB real-time indexing database. In January Rockset said the San Mateo, Calif.- based company recorded exponential growth in 2022, including annual recurring revenue that grew 3.6x during the year and a customer based that more than doubled in size. 
+
+
+
+
+
+
+ Salesforce/Tableau CEO: Marc Benioff Tableau Software was one of the industry’s most popular data analytics and visualization tools when cloud application giant Salesforce acquired the company in August 2019 for $15.7 billion. Since then, Salesforce has been integrating Tableau with its other products, including its Einstein Discovery for predictive analytics and its Slack messaging application. Earlier this year Tableau was updated with new data mapping capabilities and a new “Data Stories” capability for Tableau Server that uses natural language to automatically create a fully customizable story in narrative form to help business users understand analytical results. 
+
+
+
+
+
+
+ SAS CEO: Jim Goodnight SAS is one of the largest and most established companies in the big data space and offers one of the industry’s broadest business analytics product portfolios led by its flagship SAS Viya data analytics, AI and data management platform. In addition to Viya SAS develops a number of business analytics applications for specific tasks, such as marketing fraud detection and risk management, and for specific industries including banking, insurance, life sciences and retail. In June 2022, SAS expanded its expertise and technology offerings in financial risk management with its acquisition of Hawaii-based Kamakura and its portfolio of applications for the financial services industry. Privately held SAS, headquartered in Cary, N.C., is looking to go public over the next year or so and is taking financial and operational steps in preparation for an initial public offering. 
+
+
+
+
+
+
+ Sisense CEO: Amir Orad The Sisense business analytics portfolio includes the Sisense Fusion Analytics platform, Sisense Fusion Embed for building analytical capabilities into applications and workflows, and Sisense Infusion Applications that provide data to users of everyday business applications including Microsoft Office 365 and Teams, Google Sheets and Slack. 
+
+
+
+
+
+
+ Starburst CEO: Justin Borgman Starburst develops a data analytics platform, Starburst Enterprise, that can analyze huge volumes of data distributed across multiple locations – an alternative to the traditional approach of collecting and consolidating data in a central data warehouse. The company also offers Starburst Galaxy, a fully managed data lake analytics platform for handling petabyte-scale datasets. The company’s software is built on the open-source Trino distributed SQL query engine. In June 2022 Starburst acquired Varada, an Israeli developer of data lakes acceleration technology. In April the company announced new integration with dbt Cloud, allowing data teams to more easily build data pipelines spanning multiple data sources on one central plane. In early 2022 Starburst raised $250 million in a Series D funding round that at the time put the startup’s valuation at $3.35 billion. 
+
+
+
+
+
+
+ ThoughtSpot CEO: Sudheesh Nair ThoughtSpot is one of the leading vendors in the data analytics space with its search-driven ThoughtSpot Analytics and ThoughtSpot Everywhere software. Earlier this year the company debuted ThoughtSpot Sage, which provides natural language analytics through GPT-3 integration. Through 2020 and 2021 the company made a major pivot to cloud computing with its Modern Analytics Cloud offering. In March ThoughtSpot, headquartered in Mountain View, Calif., announced an expanded strategic partnership with Google Cloud under which ThoughtSpot runs natively on the Google Cloud Platform and is integrated with a number of Google Cloud services. 
+
+
+
+
+
+
+ Tibco/Cloud Software Group CEO: Tom Krause Tibco offers a portfolio of data management, integration and analytics products assembled through a series of acquisitions and organized as “Connect,” “Unify” and “Predict” products. Tibco Spotfire, for example, is the company’s flagship data analysis software while Tibco Statistica has been renamed Tibco Data Science. In 2022 Tibco, owned by Vista Equity Partners, was merged with cloud and virtualization tech vendor Citrix Systems (acquired by Vista and Elliott Management affiliate Evergreen Coast Capital) in a $16.5 billion deal to create the Cloud Software Group.

@@ -1,0 +1,25 @@
+
+                    hh5800/Getty Images
+                    Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Kirsten Errick
+ The IRS’s Enterprise Case Management System did not always meet established cloud security requirements, the Treasury's Inspector General for Tax Administration found. In a new report, the IG found the IRS did not meet every agency guideline for cloud operations, despite running a hybrid cloud system aimed at modernizing and consolidating the IRS’s legacy case management system—under the agency’s cloud authorization. The system “processes and stores sensitive information within the IRS, providing restricted access to IRS employees via the Internet,” the report noted. According to the IG, “control weaknesses within the ECM system can pose a substantial risk to taxpayer records currently residing in the system. The potential harm includes breach, unauthorized access and disclosure of taxpayer information.” The IRS did not meet requirements for the timely creation and documentation of plans of action and milestones to resolve nine security risks previously identified in 2021, as the agency only prepared three such documents in a timely manner, and only two met documentation requirements. But the IG noted the IRS took steps to address this problem while the watchdog was conducting this audit. Furthermore, the IRS did not have the necessary malicious code protections for the ECM system servers. According to the IG, the agency did not address this for more than a year because it was not using the proper security policy. But, during the course of the IG’s audit, the IRS started a pilot program to test a malicious code protection application for the servers.  The report noted that the IRS also did not remediate 24 high-risk and two medium-risk vulnerabilities for the system in a timely manner. And the IG also discovered that the ECM system’s user account controls are ineffective, with 79% of accounts not deactivated or disabled in a timely manner as required. The agency took corrective actions, but the IG found that privileged user accounts are still not being properly monitored.  The IRS did meet some requirements, such as configuring servers properly. The agency also tested 42 controls in June 2022 and found five previously reported risks, which the IG reviewed and determined the IRS took steps to address or track. The report provided four recommendations to the IRS chief information officer:  The IRS concurred with the recommendations.
+
+ 
+NEXT STORY:
+
+              Top Republican Moves to Block VA’s EHR Deployment Until Improvements Are Made 
+            
+
+
+
+ Help us tailor content specifically for you:

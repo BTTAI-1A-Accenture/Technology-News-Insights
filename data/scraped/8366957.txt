@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thestar.com/business/technology/2023/04/09/its-unsettling-ai-modelling-agencies-threaten-to-make-fashion-models-obsolete.html

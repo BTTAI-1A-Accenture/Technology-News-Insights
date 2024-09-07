@@ -1,0 +1,67 @@
+
+Editor’s Note: A version of this story appears in CNN’s Meanwhile in the Middle East newsletter, a three-times-a-week look inside the region’s biggest stories. Sign up here.
+ 
+            When authoritarian Middle Eastern regimes feel threatened by their public, they often shut down the internet. 
+     
+            This was perhaps best demonstrated during the Arab Spring revolts in 2011, the most significant challenge to the region’s rulers in recent history. At the time, the governments of Libya, Egypt, Syria and Bahrain severely restricted internet access. 
+     
+            And the practice continues. Since then, Iraq and Algeria have restricted internet access to prevent cheating during exams and more recently, Iran shut down the internet upon facing mass protests last year. 
+     
+            But such disruptions are not without costs. And one advocacy group has devised a way of calculating that cost. 
+     
+            Internet Society, a US-based non-profit organization that advocates for global internet access,  last week released a new tool called NetLoss, which calculates the economic damage of government-imposed internet blackouts.  
+     
+            After tracking global internet shutdowns in 2022, the organization found that countries in the Middle East and North Africa tightened restrictions on internet access over time. 
+     
+            The region saw 37 shutdowns across 11 countries in 2022, according to Internet Society, a 62% rise from 2021. Of the regional shutdowns, 24.3% targeted messaging and social media platforms, it said. 
+     
+
+Low internet access is driving inequality
+ 
+            In Sudan, where a violent conflict between the Sudanese army and the paramilitary Rapid Support Forces (RSF) broke out on April 15, an internet shutdown that took place from April 19 to April 24 is estimated to have cost the country more than $3 million, according to Internet Society.   
+     
+            Sudan’s GDP is just under $52 billion, according to World Bank data. The week-long shutdown is also estimated to have cost the country 560 jobs, Internet Society said.   
+     
+            “Internet shutdowns have a detrimental impact on the economy,” said Marc Owen Jones, an associate professor at Qatar’s Hamad Bin Khalifa University who specializes in digital disinformation, adding that the Middle East and North Africa region does not fare well on that front.  
+     
+            Internet shutdowns are estimated to have cost the world billions of dollars last year, according to Top10VPN, a digital privacy research group.  
+     
+            In 2022 alone, the world witnessed 114 internet shutdowns by governments in 23 countries, according to Top10VPN, costing more than $24.7 billion in losses. This year, there have been at least 81 shutdowns in 14 countries, costing nearly $2 billion, according to the group. 
+     
+            In the Middle East, internet shutdowns are correlated with authoritarian regimes, particularly during social unrest or conflict, Jones said.  
+     
+            “It is certainly one of the worst regions with internet shutdowns,” he told CNN.  
+     
+            Iran’s record-long internet shutdown between November 16 and 23, 2019 is estimated to have cost the country more than $33 million in economic loss, according to the Internet Society calculator.  
+     
+            To calculate the cost, the group considers variables such as the size of the economy and the extent to which the country is reliant on technology, said Hanna Kreitem, a senior adviser at Internet Society.  
+     
+            Each country would see different degrees of loss, he said.  
+     
+            The internet has become vital for the economy, from ride-hailing and food delivery services to bank transactions and trade, Kreitem said. 
+     
+            While the values are only estimates and don’t necessarily reflect real-time data, they aim to show that internet shutdowns are not a cost-free approach at governments’ disposal, he said.  
+     
+            The tool is meant to “allow policy makers to assess some of the impacts of their decisions in relation to Internet access,” Kreitem said.  
+     
+            For example, should Saudi Arabia, the Arab world’s largest economy, impose an internet blackout for 24 hours, it would cost it almost $12 million, according to the NetLoss calculator. The kingdom would also lose $1.83 million in foreign investment and 38 jobs. 
+     
+            In the UAE, the region’s finance, trade and tourism hub, a total internet shutdown would cost $4.77 million in economic loss per day and about $2 million in foreign investment. 
+     
+            Neither country has ever imposed a complete internet shutdown, according to Internet Society, and both have a shutdown risk of under 10%.  
+     
+
+We have to close the digital divide. That means internet access for everyone
+ 
+            India was the country with the highest number of government-imposed shutdowns in 2022, with 84 shutdowns last year, followed by Ukraine and Iran, according to a report by Access Now, a non-governmental organization that advocates for digital civil rights. Internet shutdowns in Ukraine were caused by Russian military forces, the report said. 
+     
+            Kreitem says that while there is a push by governments, including in the Middle East, toward digital transformation as a means for economic growth, there is still some perception that the internet is a privilege and not a right.  
+     
+            “Governments need to decide,” Kreitem said. “Do they want to establish trust in their Internet infrastructure? Or they want to use this tool (shutting down the internet), which times and times proves that it’s not as effective as they think, in quelling a protest or addressing cheating on an exam.” 
+     
+            Jones says Middle Eastern states generally view social services as being “provided by often what is perceived as benevolent authoritarianism.” 
+     
+            “But at the same time, they are aware of the economic costs of shutting down the internet,” he said, adding that while they would rather not shut it down, security is paramount for these regimes and shutdowns are believed to be helpful.  
+     
+            “I do think the economic cost is a deterrent, but I don’t think that deterrent trumps the perception that shutting the internet is vital for security,” Jones said. 
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

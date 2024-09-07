@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.komu.com/news/nationworld/meta-s-threads-is-finally-available-on-desktop/article_3b4947c9-6b7b-5140-bdf7-8199f9d31215.html

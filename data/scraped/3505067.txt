@@ -1,0 +1,47 @@
+
+Satellite analyses could play a key role in mitigating food insecurity
+ Crop type classification map, Ukraine, 2022 || This 2022 crop type classification map of Ukraine was produced in season with 94% accuracy at 3m resolution, validated with ~4700 ground data samples. Red boundary lines denote Russian-controlled Ukrainian territory, and the various coloration across the country denotes sunflower (light blue), winter wheat (yellow), rapeseed (orange), other summer crops (dark blue), and areas not planted (brown) as of October 2022. (Map generated courtesy of: NASA Harvest; Data courtesy of: Planet, Kyiv Polytechnic, NASA, and Institute for the Study of War) Crop type classification map, Ukraine, 2022 || This 2022 crop type classification map of Ukraine was produced in season with 94% accuracy at 3m resolution, validated with ~4700 ground data samples. Red boundary lines denote Russian-controlled Ukrainian territory, and the various coloration across the country denotes sunflower (light blue), winter wheat (yellow), rapeseed (orange), other summer crops (dark blue), and areas not planted (brown) as of October 2022. (Map generated courtesy of: NASA Harvest; Data courtesy of: Planet, Kyiv Polytechnic, NASA, and Institute for the Study of War)  SAN FRANCISCO--(BUSINESS WIRE)--Planet Labs PBC (NYSE: PL), a leading provider of daily data and insights about Earth, and NASA Harvest, the federal space agency’s Global Food Security and Agriculture Program, today announced a partnership to further support the joint Food Security and Agricultural Monitoring Solution. The offering aims to deliver policy-grade agricultural monitoring and assessments of potential threats to global food security.
+  
+The offering will combine Planet’s satellite data and other publicly-available datasets with the analytics expertise of the combined NASA Harvest team, facilitated by the University of Maryland and University of Strasbourg – creating an assessment tool that could play a key role in anticipating and averting food shortages and famines.
+ 
+This work was first piloted to monitor fields in Ukraine in 2022 to track frontline agricultural activity and assess the impact of war on crop production. Replicating that process, and building on existing NASA Harvest expertise in the public sector and Planet’s commercial offerings, the work is now being scaled to conduct regional and global assessments. The solution will be offered to national governments, multilateral institutions, NGOs and other interested parties around the world.
+ 
+“The world’s food security is at a moment of enormous uncertainty – triggered not only by the war in Ukraine, but by many other serious challenges, especially those linked to climate,” said Andrew Zolli, Planet’s Chief Impact Officer. “From drought in Somalia to flooding in Pakistan, the combination of real-time satellite imagery and sophisticated analytics can illuminate many types of risks to our global food systems, helping us adapt agricultural practices, adjust global supply chains, and mitigate risks to poor and vulnerable communities.”
+ 
+For decades, the NASA Harvest team has been developing innovative satellite-based techniques to monitor commodity crops such as wheat, maize, soybeans and rice. The team also collects and analyzes environmental, economic and social science data to create a full picture of the pending food landscape.
+ 
+“Planet’s data was able to help us create a field-by-field analysis of what was planted, what was harvested and what was disrupted, which has been critical to understanding what is happening in Europe’s breadbasket,” said Inbal Becker-Reshef, Program Director for NASA Harvest, referring to the pilot project, further adding that “this effort plays a key role in NASA Harvest’s broader initiative to provide rapid agricultural assessments for policy support in the face of food security and market threats.”
+ 
+“This level of understanding can greatly benefit other organizations to monitor and predict potential issues in their own regions, moving us from research to impact,” Becker-Reshef continued. “It was important to both of our organizations that we make these analyses more broadly accessible in order to improve agriculture-related decision-making around the world, leveraging the unmatched high spatial and temporal resolution that Planet data offers.”
+ 
+While this marks the first commercial relationship between Planet and NASA Harvest, the pair has a well-established history of impact- and science-related initiatives. The collaborations grew out of NASA’s Commercial SmallSat Data Acquisition (CSDA) Program, under which Planet has been providing data to NASA scientists and federally-funded researchers since 2018. For example, Planet and NASA Harvest supported the Government of Togo in its COVID-19-related food security relief efforts by creating a cropland map of the entire country, delivered within 10 days of receiving the request, allowing the government to mobilize quickly to ensure food security during the global pandemic.
+ 
+For more information about accessing the Food Security and Agricultural Monitoring Solution, please email food-security@planet.com.
+ 
+About Planet Labs PBC
+ 
+Planet is a leading provider of global, daily satellite imagery and geospatial solutions. Planet is driven by a mission to image the world every day, and make change visible, accessible and actionable. Founded in 2010 by three NASA scientists, Planet designs, builds, and operates the largest Earth observation fleet of imaging satellites, capturing over 30 TB of data per day. Planet provides mission-critical data, advanced insights, and software solutions to over 800 customers, comprising the world’s leading agriculture, forestry, intelligence, education and finance companies and government agencies, enabling users to simply and effectively derive unique value from satellite imagery. Planet is a public benefit corporation trading on the New York Stock Exchange as PL. To learn more visit www.planet.com and follow us on Twitter.
+ 
+Forward-looking Statements
+ 
+Except for the historical information contained herein, the matters set forth in this press release are forward-looking statements within the meaning of the "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995, including, but not limited to, the ability of Planet Labs PBC (the “Company”) to capture market opportunity and realize any of the potential benefits from current or future product enhancements, new products, or strategic partnerships and customer collaborations. Forward-looking statements are based on the Company’s management’s beliefs, as well as assumptions made by, and information currently available to them. Because such statements are based on expectations as to future events and results and are not statements of fact, actual results may differ materially from those projected. Factors which may cause actual results to differ materially from current expectations include, but are not limited to the risk factors and other disclosures about the Company and its business included in the Company's periodic reports, proxy statements, and other disclosure materials filed from time to time with the Securities and Exchange Commission (SEC) which are available online at www.sec.gov, and on the Company's website at www.planet.com. All forward-looking statements reflect the Company’s beliefs and assumptions only as of the date such statements are made. The Company undertakes no obligation to update forward-looking statements to reflect future events or circumstances.
+ 
+About NASA Harvest
+ 
+About NASA Harvest: NASA Harvest is NASA’s Global Food Security and Agriculture Consortium. Our mission is to enable and advance adoption of satellite Earth observations by public and private organizations to benefit food security, agriculture, and environmental resiliency in the US and worldwide. Established by NASA in 2017, we operate as a multidisciplinary and multisectoral Consortium of leading scientists and agricultural stakeholders, led by researchers at the University of Maryland and implemented together with our partners across the globe.
+ 
+Planet
+Megan Zaroda
+comms@planet.com
+ 
+NASA Harvest
+Mary Mitkish
+info@nasaharvest.org
+ 
+Planet
+Megan Zaroda
+comms@planet.com
+ 
+NASA Harvest
+Mary Mitkish
+info@nasaharvest.org

@@ -1,0 +1,18 @@
+VIP Subscriber 
+								By 
+
+	Andrew Antar
+ 
+	The music industry has a notorious history of being complex and challenging for artists to navigate, often leaving them with limited control over their work and struggling to receive fair compensation. The emergence of Web3 could offer a path toward shifting how artists and fans approach music streaming.  
+Web3 has been described as the successor state of the internet after our present one, Web2. While Web2 enabled dynamic applications and user-generated content, Web3 eliminates a central authority and fosters transparent interactions.   
+	Decentralized platforms, underpinned by blockchain technology, make up the foundation of Web3 — meaning they operate without the oversight or control of a central entity, thus empowering users with greater autonomy. With its decentralized ledgers, blockchain enables transparent recording and verification of transactions across user networks.  
+
+ 
+	A second critical component is the use of smart contracts — self-executing agreements coded on blockchains that assert predefined actions between the parties involved. As a result, smart contracts on the blockchain facilitate seamless contractual interactions between parties.   
+	Using Web3 to power music streaming could embolden artists by allowing them to retain ownership control over their creative works. Rather than relinquishing control to labels or publishers, Web3 platforms allow artists to decide how to distribute, license and monetize their music.   
+	Web3 platforms also prioritize fair compensation for artists. By enabling transparent, automated royalty payments through smart contracts on the blockchain, artists receive real-time compensation for their work.  
+	Web3 platforms can also encourage creative collaboration. Through decentralized networks and peer-to-peer interactions, artists can connect with music producers and creators worldwide, and collectively share in the outcomes of their contributions, unlocking new opportunities for collaboration and expanding the boundaries of artistic expression.   
+SEE ALSO: Web3 Demystified — a 2022 VIP+ Special Report 
+	Web3 platforms also enhance the music streaming experience for users in various ways. For one, users can directly interact with artists, providing feedback and engaging in exclusive experiences, fostering a deeper connection between artists and their fans. Because Web3 platforms use decentralized algorithms to deliver personalized music recommendations, they enable users to discover new artists and genres while prioritizing user control over their personal information.   
+	Ultimately, Web3 platforms hold the promise of a more equitable and artist-centric music industry wherein artists can reclaim control over their work, find new revenue streams, collaborate with creative peers and connect directly with their fans.    
+Andrew Antar is the founder of Tune.FM, a Web3 decentralized music streaming platform and music NFT marketplace.  The Business of Entertainment

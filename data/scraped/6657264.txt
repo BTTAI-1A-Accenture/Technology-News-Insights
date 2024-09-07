@@ -1,0 +1,44 @@
+Markets 
+
+
+ Hot Stocks 
+
+
+ Fear & Greed Index 
+
+
+ 
+            Latest Market News 
+
+
+ 
+            Hot Stocks 
+
+
+ 
+            Regulators in Italy issued a temporary ban on ChatGPT Friday, effective immediately, due to privacy concerns and said they had opened an investigation into how OpenAI, the US company behind the popular chatbot, uses data.
+     
+            Italy’s data protection agency said users lacked information about the collection of their data and that a breach at ChatGPT had been reported on March 20.
+     
+            “There appears to be no legal basis underpinning the massive collection and processing of personal data in order to ‘train’ the algorithms on which the platform relies,” the agency said.
+     
+            The Italian regulator also expressed concerns over the lack of age verification for ChatGPT users. It argued that this “exposes children to receiving responses that are absolutely inappropriate to their age and awareness.” The platform is supposed to be for users older than 13, it noted.
+     
+            The data protection agency said OpenAI would be barred from processing the data of Italian users until it “respects the privacy regulation.” 
+     
+            OpenAI has been given 20 days to communicate the measures it will take to comply with Italy’s data rules. Otherwise, it could face a penalty of up to €20 million ($21.8 million), or up to 4% of its annual global turnover. 
+     
+            Since its public release four months ago, ChatGPT has become a global phenomenon, amassing millions of users impressed with its ability to craft convincing written content, including academic essays, business plans and short stories.
+     
+            But concerns have also emerged about its rapid spread and what large-scale uptake of such tools could mean for society, putting pressure on regulators around the world to act.
+     
+            The European Union is finalizing rules on the use of artificial intelligence in the bloc. In the meantime, EU companies must comply with the General Data Protection Regulation, or GDPR, as well as the Digital Services Act and Digital Markets Act, which apply to tech platforms.
+     
+            Meanwhile, so-called “generative AI” tools available to the public are proliferating.
+     
+            Earlier this month, OpenAI released GPT-4, a new version of the technology underpinning ChatGPT that is even more powerful. The company said the updated technology passed a simulated law school bar exam with a score around the top 10% of test takers; by contrast, the prior version, GPT-3.5, scored around the bottom 10%.
+     
+            This week, some of the biggest names in tech, including Elon Musk, called for AI labs to stop the training of the most powerful AI systems for at least six months, citing “profound risks to society and humanity.”
+     
+— Julia Horowitz contributed reporting.
+ Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

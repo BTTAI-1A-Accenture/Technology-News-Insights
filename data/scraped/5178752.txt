@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/abnewswire-2023-4-1-easter-fun-around-the-corner-in-the-nemesis-metaverse-with-dappradar (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e2456acf040>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

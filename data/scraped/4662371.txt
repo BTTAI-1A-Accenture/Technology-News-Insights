@@ -1,0 +1,60 @@
+Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics.                     Out of the three classic caster-type classes in Baldur's Gate 3, Warlocks are by far the most versatile. They can specialize in melee combat to great effect, but the best way to build a Warlock is actually by focusing more on their powerful magic abilities.
+      RELATED: Baldur's Gate 3: All Charisma Scaling Classes, Ranked
+  Warlock spell slots are limited in number, but they're always at the max possible level and also fully recharge upon Short Rests. So you'll naturally be casting your most powerful spells all the time. But it certainly takes some work to reach that level of magical mastery, and this guide will help you get there.
+                         Creating your character can be a daunting prospect with all the choices available in Baldur's Gate 3. Every race has unique advantages which can be useful for any class. But some have proficiencies or abilities that are particularly useful for Warlocks.
+                         High Elves and their offspring have several natural benefits that suit Warlocks very well. Use your racial cantrip to unlock Mage Hand. Being able to see in the dark, resistance to being Charmed, and immunity to magical Sleep effects are all super helpful as well.
+                         These Tieflings are best suited to arcane classes, getting access to the Mage Hand cantrip at level 1. Burning Hands can be cast once per long rest at level 3, and at level 5 they can use the Flame Blade spell to summon a powerful fiery sword.
+      RELATED: Split-Screen In Baldur's Gate 3 Needs Some Serious Spit-And-Polish
+                     Choosing a Background in Baldur's Gate 3 depends mainly on what kind of choices your Warlock is going to make during quests or dungeons. In addition to providing Skill Proficiencies, Backgrounds also determine how your character gains Inspiration. The best Backgrounds for Warlocks generally rely on Charisma.
+                         This can be a difficult Background to gain Inspiration with early in the game. But it more than makes up for that with its bonuses to both Insight and Persuasion. Since Warlocks are a fantastic class for dialogue, these Skills are essential.
+                         Playing a Charlatan is a natural choice for Warlocks, as their talents of Deception become very impressive later on. And while morally ambiguous, this Background does not firmly lock you into playing as an evil villain.
+      RELATED: Baldur's Gate 3: Should You Save Sazza The Goblin?
+                     When building a caster Warlock, it's important to remember that physical Abilities are only really useful for defenses. Charisma is fundamental for spells and speech and therefore needs to be maxed out. Intelligence is great for other skills and saving throws as well.
+                         Ability
+                         Score
+                         Strength
+                         8
+                         Dexterity
+                         12
+                         Constitution
+                         14
+                         Intelligence
+                         14
+                         Wisdom
+                         10
+                         Charisma
+                         17
+                         Most Skill Proficiencies for this build revolve around speechcraft, but Arcana is actually the best of all. Many Warlock-specific options for dialogue or events also use your Arcana modifier. And then Insight, Intimidation, and Persuasion are excellent for navigating conversations.
+      RELATED: What's With The Lack Of Love For Lae'zel In Baldur's Gate 3?
+                     The best Subclass for those Warlocks seeking to unleash their magical powers is the Archfey. From level 1 you can use Fey Presence to Charm or Frighten a nearby enemy, immediately giving them Disadvantage when trying to attack you.
+      Misty Escape becomes available at level 6. When an enemy damages you, automatically become Invisible right on the spot. On your next turn, you can cast the Misty Step spell without using a spell slot.
+                         Reaching level 10 will grant you the ultimate Beguiling Defenses passive. With this, you'll simply be immune to being Charmed from any and all sources. This is a huge improvement on the Elves' simple resistance if you chose that race.
+      RELATED: Baldur's Gate 3: Best Paladin & Warlock Multiclass Build
+                     Warlocks gain access to a wide array of powerful spells. Most of these focus on controlling or destroying enemies, while a few are more situational. But the best Warlock spell of all is actually the Eldritch Blast cantrip.
+                         Eldritch Blast starts out as a simple beam that deals 1d10 Force damage. At level 5, it fires an additional beam that has its own trajectory. You get a third and final beam at level 10. These can all be fired at the same enemy, or up to 3 targets.
+                         The second essential Warlock spell is Hex. This can be recast for free after each Hexed target falls, saving your precious spell slots. Hex imposes Disadvantage on a creature's Ability of your choice, and also causes every attack you land against it to deal an additional 1d6 Necrotic damage at spell slot level 1.
+      RELATED: Baldur's Gate 3: Best Warlock Spells
+                     As a spell caster, bringing your primary spellcasting modifier up to its maximum is the top priority when it comes to Feats. But because you can only start with 17 Charisma, it's wise to get the Actor Feat first for its Expertise in Deception and Performance.
+      RELATED: Gale Is The Secret Star Of Baldur's Gate 3
+                     Eldritch Invocations provide a variety of unique bonuses for Warlocks. Most Invocations add spells or abilities for the Warlock to use, while a few give passive upgrades. Warlocks choose 2 Eldritch Invocations at level 2, and one more every few levels after. Here's the ideal combination of Invocations, and what levels you should get them at:
+                         Level
+                         Eldritch Invocation
+                         2
+                         Agonizing Blast: adds your Charisma modifier to Eldritch Blast's damage, unless the modifier is negative
+                         2
+                         Repelling Blast: toggleable passive that causes each Eldritch Blast beam to also deal Knockback equal to 4.5 meters
+                         5
+                         Beast Speech: can cast Speak with Animals on yourself, at will without using a spell slot
+                         7
+                         Book of Ancient Secrets: can cast Ray of Sickness, Chromatic Orb, and Silence once per Long Rest, without using a spell slot
+                         9
+                         Dreadful Word: can cast Confusion using a spell slot
+                         12
+                         Minions of Chaos: can cast Conjure Elemental using a spell slot
+                         Warlocks get to choose their Pact Boon at level 3, and this one really depends on what kind of combat style you prefer. The Pact of the Blade is ideal for melee Warlocks. But the Pact of the Chain is by far the best for casters, and is heavily recommended by this guide.
+                         The Pact of the Chain will allow you to summon an additional Familiar, Imp, or Quasit pet while out of combat. The Imp and Quasit are particularly powerful, with their natural invisibility and moderate DPS output.
+      RELATED: This Mod Fixes My Biggest Bugbear With Baldur's Gate 3
+                     Once the Warlock's spells and abilities start to come together, fighting with one is extremely fun. Be sure to summon your Pact minion whenever you're not in combat, and then summon any additional minions when combat begins. Then cast Hex using a Bonus Action. Or if you're facing a particularly large or dangerous fight, consider using some multi-target control spells such as Sleep or Confusion.
+                         After setting the stage with Hex or control spells you should be ready to start blasting. Eldritch Blast benefits from High Ground rules, and you can easily use it to toss enemies into chasms or other deadly environmental areas. But it's also affected by Low Ground negativity. Keep some mobility spells slotted, such as Misty Step or Dimensional Door. Your party may need a tough foot soldier to handle aggro until you can start fielding multiple pets. Having a Fighter or Barbarian back you up is usually best, although Clerics and Paladins could get the job done too. The Warlock's spells and abilities also pair very well with Rogues and other Dexterity-based classes.
+      NEXT: Baldur's Gate 3: Every Companion, Ranked
+ Your changes have been saved  Email is sent Email has already been sent Please verify your email address. You’ve reached your account maximum for followed topics. Fans divided regarding Dr.Disrespect's imminent return to streaming.  Against all odds, these games managed to become huge success stories.  Despite no official announcement, this recent tweet by Geoff Keighley might hint at new Dying Light content. Sorry, we're closed.  We talked to Mary Kenney, associate narrative director at Insomniac Games about the lack of LGBTQ representation in gaming. Having lots of screentime is great, but what really matters is how you use it!

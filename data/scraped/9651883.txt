@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thetimes-tribune.com/opinion/columnists/shake-victimhoods-curse/article_d652403d-82e1-5584-8d5b-24cf6f330b9e.html

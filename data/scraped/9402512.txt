@@ -1,0 +1,55 @@
+
+Raiffeisen Bank deploys biometrics to enable remote enrolment and account reactivation
+
+ LONDON--(BUSINESS WIRE)--iProov, the global leader in biometric authentication, today announced a partnership with Wultra, the leading digital banking security provider in the Czech Republic. The partnership enables Wultra to provide iProov’s biometric solutions suite as part of its portfolio of digital banking solutions.
+
+  
+Consumers are increasingly calling on their financial services providers to offer online access to high-risk services including new account enrolment and account reactivation. To meet this demand, banks work with companies like Wultra to evaluate best practices in balancing security and convenience at critical points of their end-user lifecycle. One of the most significant challenges banks encounter is being able to remotely verify the identity of consumers in a way that is easy to use and prevents mid-process dropout.
+
+ 
+Raiffeisenbank is the Czech member of Raiffeisen Bank International (RBI), a leading banking group operating across 14 countries in Central and Eastern Europe. Raiffeisenbank has implemented iProov’s biometric solution from Wultra to provide its customers with the ability to securely reactivate their bank accounts online at their own convenience, without visiting a physical branch or using additional hardware.
+
+ 
+“Several factors were instrumental in our decision to implement iProov technology: iProov has been successfully deployed by leading global banks and has achieved the industry’s highest completion rates. This provides us with clear evidence of both its user-friendly qualities and ability to meet high customer demand,” said Tomáš Rosa, Ph.D. Cryptology and Biometrics Competence Centre Lead, Mathematical Security Architect at Raiffeiesen Bank.
+
+ 
+“During the process, iProov swiftly addressed our questions around biometric authentication performance by completing an in-house statistical review and allayed any concerns we had regarding GDPR and deployment in the cloud. Finally, as a security expert with a strong mathematical background equally important to me was the fact iProov’s facial authentication technology was backed by hard data ensuring the solution could be reviewed and, even more critically, trusted,” he added.
+
+ 
+“Banks are hyper-aware of the evolving threat landscape, and mobile banking apps are becoming a top target for cybercriminals. Points like account creation and rebinding are especially vulnerable to fraud, so increasing the security levels of our product set to help our customers tackle this was a priority for us,” comments Zdeněk Černý, CTO at Wultra. “iProov’s technology delivers on all fronts and stood out from the RFP process as ‘the real deal’. It has been a great addition to our portfolio and is already loved by one of our biggest customers, Raiffeisenbank, who actively encouraged us to add iProov technology to our stack.”
+
+ 
+“Financial services providers are a prime target for cybercriminals' most sophisticated attacks. Our recent Threat Report found that AI-based attacks, such as deepfakes, are gaining momentum and basic-level biometric technology is struggling to keep pace,” comments Andrew Bud, founder and CEO of iProov. “iProov’s biometric solutions suite is uniquely able to assure liveness, a key determinant in mitigating AI-based attacks. We are excited to partner with Wultra in their mission to secure and protect leading banks and fintech companies with meaningful security solutions for their internet and mobile apps.”
+
+ 
+iProov’s proprietary facial biometric solution uniquely enables organizations to verify that end users are the right person, a real person, and are verifying in real-time. It does this with its proprietary science-based liveness technology and Security Operations Centre (iSOC), which provides 24/7 active threat mitigation. iProov is already used by security-conscious organizations like the Department of Homeland Security, Eurostar, ING Bank, and UBS.
+
+ 
+ENDS
+
+ 
+About Wultra
+Wultra serves as a guardian of digital finance by delivering modern, easy-to-deploy authentication to help banks and fintech companies easily secure their digital applications. The open-source, developer-friendly solutions take weeks to deploy rather than months. Wultra’s passwordless authentication was designed with clients in mind. It’s intuitive, easy to use, and genuinely improves their experience. All solutions guarantee financial institutions to achieve 100% compliance with PSD2 legislation and meet both Strong Customer Authentication (SCA) and dynamic linking requirements.
+
+ 
+Wultra’s solution features straightforward and user-friendly digital onboarding, customer authentication with the use of biometrics or PIN code, comprehensive mobile security, persistent malware protection, and threat intelligence with a visual analytics dashboard.
+
+ 
+For more information, please see www.wultra.com or follow us on LinkedIn or Twitter.
+
+ 
+About iProov
+iProov is the world leader in online facial biometric authentication, working with governments, banks and other enterprises to securely verify customer identity. Used for effortless onboarding and authentication by the U.S. Department of Homeland Security, the UK Home Office, the UK National Health Service (NHS), the Australian Taxation Office, GovTech Singapore, Rabobank, ING, and others. iProov’s technologies include Liveness Assurance™ and Genuine Presence Assurance®, which ensures that an online customer is the right person, a real person, and is authenticating right now. This protects against spoof attacks from photos, videos, masks and digital injection attacks and the emerging threat of deepfakes. iProov was recognized as a Gartner Cool Vendor 2020 in Identity Access Management & Fraud Detection. For more information, please see www.iproov.com or follow us on LinkedIn or Twitter.
+
+ 
+Louise Burke
+Global PR Manager
+louise.burke@iproov.com 
++44 (0)7917 176095
+
+ 
+Louise Burke
+Global PR Manager
+louise.burke@iproov.com 
++44 (0)7917 176095
+

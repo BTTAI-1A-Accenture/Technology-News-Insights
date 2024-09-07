@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/marqeta-introduces-new-credit-card-platform-helping-brands-redefine-customer-loyalty-with-dynamic-and-embedded/article_41f5d74e-1483-52bf-9df6-35c2ebe9455f.html

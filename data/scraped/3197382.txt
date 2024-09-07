@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.victoriaadvocate.com/gmx-votes-to-integrate-chainlinks-new-low-latency-oracles-as-launch-partner-in-major-leap/article_7c11d23b-76e8-5ac0-9345-0d41edddae82.html

@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ A computer network is any group of interconnected computing devices capable of sending or receiving data. A computing device isn't just a computer—it's any device that can run a program, such as a tablet, phone, or smart sensor. Building a network The simplest computer network is two devices: A diagram of the simplest computer network. Two computers are shown with a line connecting them. A network like that only has to worry about a few things, like how to physically connect the two devices and how to send data over the physical connection in a format they both understand. Let's add one more device: A diagram of a simple computer network. Three computers are shown with a line from one computer to the next. Now there's additional complexity. How can each device know whether incoming data is meant for them or for their neighbor? This simple network will need an addressing scheme. Let's jump to six devices. There are actually many ways we can connect six devices together in a computer network: A diagram of 5 different network topologies for networks that each have 6 computing devices.  The top row shows the ring, mesh, and star topologies. The bottom row shows the bus and tree topologies. Each of those arrangements is a different network topology, and each topology has its advantages and disadvantages. Imagine the journey of a piece of data through one of those larger networks. What path will it take? When there are multiple paths, how does it know which path is best? Once networks become larger, routing strategies become more important. There isn't a big difference between two stops and three stops in a path, but there is a big difference between 20 stops and 300 stops. Types of networks We use different terms to refer to networks based on their size and characteristics. Let's touch on a few of them here. The most common type of network is the Local area network (LAN), a network that covers a limited area like a house or school. A diagram of a LAN. Five different computers are connected in a bus topology. A LAN connected using a bus topology. The devices are connected with an Ethernet cable. The largest type of network is a Wide Area Network (WAN), a network that extends over a large geographic area and is composed of many, many LANs. Oftentimes, the networks in a WAN can only be connected by leasing telecommunications lines from different companies, since no single company owns all the infrastructure across the wide geographic area. A diagram of a WAN. Three LANs in different parts of Australia are connected in a ring topology. A WAN covering the country of Australia and connecting three LANs with long-distance connections. Another type of network is the Data Center Network (DCN), a network used in data centers where data must be exchanged with very little delay.  
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

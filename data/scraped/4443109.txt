@@ -1,0 +1,17 @@
+Home » Press Release 
+Botpress, the leading enterprise platform for building AI-powered chatbots, has launched the industry’s first visual builder tool for creating chatbots that can execute sophisticated workflows on top of ChatGPT in a matter of minutes.
+ 
+Botpress users can now quickly create their own GPT-powered copilot that can take action in concert with a variety of other systems such as GitHub, Salesforce, Slack, Zendesk and Zoom. In the past two months, the new platform has been successfully beta tested by approximately 20,000 users. They can create tailor-made personal assistants, teaching bots, coding copilots, social good hotlines, mental health advisors, intelligent email responders and life coaching guides.
+ 
+Fortune 500s, including large banks and auto manufacturers, and companies such as Siemens, Asus, and EA, rely on Botpress to create powerful business use cases with AI-powered chatbots that range from IT provisioning and ticketing, to HR onboarding, to security and product development. More than 300,000 users have collectively built 1.5 million bots that have exchanged nearly a billion messages on Botpress.
+ 
+With the launch of its new studio, Botpress aims to help individuals and teams build workflows for its chatbots, on top of ChatGPT, that can supercharge productivity and unlock the full power of generative AI in minutes to get more work done faster:
+ 
+“With every advancement of ChatGPT, generative AI becomes more powerful, but there’s still a wide gap between having access to GPT and actually making it work for you and your context, personality, and body of knowledge,” said Sylvain Perron, Botpress co-founder and CEO. “With our new platform, it’s incredibly simple for anyone to create their own custom chatbot based on ChatGPT immediately, one that becomes a powerful copilot and automates their workflows. We’re excited to see what people dream up with these tools.”
+ 
+The new Botpress is available today. Sign up for free at botpress.com.
+ 
+About Botpress
+ 
+Botpress is the leading enterprise platform for building AI-powered chatbots, with customers that include the Fortune 500 and companies such as Siemens, Asus, Kia, and EA. Since 2015, Botpress has been at the forefront of the chatbot industry, pioneering the use of large language models (LLM) and generative AI for business use cases. Botpress gives any organization the tools to build and deploy advanced, personalized chatbots that deliver enhanced productivity and performance for business-critical functions. Funded by Decibel and Real Ventures, the company is privately held and headquartered in Quebec. Learn more at botpress.com.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005883/en/

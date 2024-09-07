@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/sports/mls-glance/article_866f421a-a0fd-53dd-80fc-f3ab0ba3ad2e.html

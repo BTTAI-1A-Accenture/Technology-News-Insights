@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/contentful-launches-new-capabilities-to-simplify-and-accelerate-delivery-of-digital-experiences-at-scale/article_9701edf2-11d3-5a66-a606-9ecd8c526700.html

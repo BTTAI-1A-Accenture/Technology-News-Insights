@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://cointelegraph.com/news/tether-supply-hits-80b-for-the-first-time-since-may-2022-stablecoin-rivals-stumble

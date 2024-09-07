@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/reliq-health-technologies-inc-signs-new-contract-with-respiratory-therapy-clinic-in-texas-to/article_4f3c4e57-5afb-5616-8b9e-d1ab169a2a08.html

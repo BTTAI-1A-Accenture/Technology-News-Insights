@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/week-coins-bitcoin-ethereum-dip-090109876.html

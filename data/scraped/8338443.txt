@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/california-water-service-group-announces-second-quarter-2023-results/article_d369682d-d456-5bf6-9e85-1f1711da1ff9.html

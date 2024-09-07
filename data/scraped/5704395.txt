@@ -1,0 +1,17 @@
+ “Engineering modern business to intuitively improve everyday lives.” That is the mission of technology services provider Cognizant. Earlier this week, the company announced that it had entered into an agreement to acquire Mobica, an IoT software engineering services provider headquartered in the U.K. This hot-off-the-IoT-presses news follows Cognizant’s acquisitions of OneSource Virtual, AustinCSI, and Utegration in 2022. And while those were crucial for projects in the fields of SAP capabilities for energy and utilities, plus professional services and application management practices, acquiring Mobica is about digital transformations in IoT. A bit of the long-story-short background: Mobica provides Tech Talent-as-a-Service (TaaS), helping organizations build empowering tech-oriented experiences for their customers. From finance to automotive, and from semiconductors to aerospace, its goal is to provide access to superb software engineering expertise across the entire tech stack; from basic concepts and development, through testing and integration, then from chip to cloud. And Mobica’s services not only span this full development cycle; their engineers’ core competencies also lie in the implementation, testing and deployment of embedded software for clients’ needs. So, Cognizant and Mobica. Together, they aim to expand Cognizant’s IoT embedded software engineering resources in order to provide stronger end-to-end support. (And notably, embedded software engineering is growing fast in both engineering and IoT markets, with forecasts predicting global spending increases to hit approximately $164 billion by 2026.) Job creation-wise, this acquisition also hails the addition of nearly 900 team members across North America and Europe (on top of Mobica’s existing 700 or so). Annadurai Elango, Executive Vice President of Cognizant’s Core Technologies and Insights, detailed more about Mobica and the weight to this news. “With expertise in connected devices, silicon platforms and intelligent mobility, Mobica has a strong track record of delivering strategic embedded software engineering services and is well-aligned to Cognizant's Global 2000 client base and key industries,” Elango said. “"We believe combining their expertise with Cognizant's strong IoT and product engineering capabilities will result in enhanced digital transformation outcomes for global clients in the technology and automotive industries and beyond." At the time of this article’s publication, Cognizant’s acquisition of Mobica is expected to close in February of 2023. 
+Editor
+
+
+Click here to read full bio
+
+ According to intelligence firm ABI Research, the satellite IoT interconnectivity market is project to surpass 26 million connections by 2030, represen… Announced earlier this morning, Genians is reinforcing its commitment to securing the digital future by extending its global reach into IoT and critic… This article takes a quick dive into Ceva, Inc.; its market-ready solutions, recent achievements and more. On Monday, Wialon announced some remarkable growth numbers, spanning the last nine years or so. It has reached a record number of connected vehicles (… Yesterday, Oracle announced that it is incorporating AT&T's IoT connectivity capabilities and network APIs into its own Enterprise Communication Platf… Sing up to receive our updates and other IoT Evolution news! 
+
+ 
+
+
+ 
+  
+  
+  
+
+ © 2024 All Rights Reserved 

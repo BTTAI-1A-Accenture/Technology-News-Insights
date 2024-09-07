@@ -1,0 +1,59 @@
+
+By Kelsey D. Atherton
+ Posted on Dec 2, 2022 9:00 AM EST 6 minute read The past year has been marked by serious challenges, from the ongoing climate emergency, a subsequent increase in extreme forest fire frequency, and the devastating war in Ukraine following Russia’s invasion. But we’ve also seen true innovation in the field of crisis response. More exact location systems will help emergency services find people in trouble quicker. Better respirator technology is rolling out, designed to help wildland firefighters breathe a little easier. And fire trucks are finally starting to go electric. This year’s best emergency services and defense innovations offer paths out of tight spots, aiming to create a safer future—or at least a better way to handle its myriad disasters. Looking for the complete list of 100 winners? Find it here. Forest fire fighters need a lightweight wearable respirator to protect them from inhaling smoke. The Wildland Firefighter Respirator, by TDA Research, uses a hip-mounted pump to pull air through a HEPA filter, channeling it to a secure but loose-fitting half-mask (a helpful feature for people who haven’t had the chance to shave while in the field). A sensor in the system detects air flow direction, letting the pump only blow at full strength when the user inhales. Importantly, the device weighs just 2.3 pounds, which is only about 10 percent the weight of a typical urban firefighting Self Contained Breathing Apparatus. About the size of a 1-liter water bottle, the respirator is powered by a lithium-ion battery pack. To recharge in the field or away from a generator, that pack can also draw power from 6 AA batteries. Bonus: Even though it was designed for safety professionals, the device could also become civilian protective gear in fire season. Avive’s Connect AED (Automated External Defibrillator) is designed to be a life-saving device that’s also smart. The devices can automatically do daily maintenance checks to ensure they can perform as needed, thanks to WiFi, cellular, bluetooth, and GPS. Plus, with that connectivity, 911 operators could alert nearby Connect AED holders to respond to a called-in cardiac arrest, saving time and possibly someone’s life. Once a person has been defibrillated, Connect’s connectivity also lets emergency room doctors see data the device collected, such as the patient’s heart rhythm, as well as the device’s shock history, complete with timestamps. The Connect AED also has a backpack-like form factor and touch screen for intuitive use. The sky above a forest fire can be a dangerous, crowded place, and that was before forest fire fighters added drones joined the mix. Developed by NASA, the Scalable Traffic Management for Emergency Response Operations project (STEReO) is developing tools for managing the complicated airspace above an emergency. In the spring of 2022, a NASA team field-tested a STEReO’s suitcase-sized prototype device, called the UASP-Kit, to monitor drones safely in the open airspace around prescribed burns. By tracking transponders on crewed aircraft, the UASP-Kit can play a sound through tablet speakers, alerting drone operators when helicopters and planes fly close to where they are operating. That hopefully lets drone pilots get their equipment to safety without risking aerial collision. When a person in an emergency calls 911 for help, that call is routed, based on its location, to the closest 911 operator. For cell phones, that meant matching the call to the nearest tower and hoping it sent the call to dispatch in the right county. But in May 2022, AT&T announced the nationwide rollout of a better system. Leaning on the improved location services on iOS and Android phones, AT&T’s Locate Before Route feature can pinpoint the location of the emergency call within 50 meters, sometimes even as precisely as 15 meters. This better location information should allow the call to be routed to the best dispatch center, ideally helping responders arrive faster. That data can only be used for 911 purposes, and helps first responders get where they’re needed quickly, nationwide. The US military is a massive consumer of fossil fuels, but if it wants to use more renewable energy, it needs a way to store that electricity to power vital functions. GridStar Flow, developed by Lockheed Martin for the US Army, is a massive battery complex that takes advantage of the space of Colorado’s Fort Carson to go big. It will store up to 10 megawatt-hours of juice, thanks to tanks of charged electrolytes and other equipment. Construction at Fort Carson broke ground on November 3, but the company has already tested out a smaller flow battery in Andover, Massachusetts. Using electrolytes that can be derived from commodity chemicals, GridStar Flow offers a power storage and release system that can help smooth the energy flow from renewable sources. Fire trucks are big, powerful vehicles, but they run on diesel, a polluting fossil fuel. The Pierce Volterra truck can deliver all that power on an electric charge, and it can also run on diesel fuel if need be. Already in use with the Madison, Wisconsin fire department, but with contracts to expand to Portland, Oregon and Gilbert, Arizona underway this year, the Volterra has enough battery power for a full day as an electric vehicle. The electric power helps complement a transition to renewable energy, but it also comes with immediate benefit to the firefighters: the vehicle doesn’t spew exhaust into the station. The quiet of the electric engine also lets firefighters coordinate better on the drive, and can help cries for help be heard when the responders arrive on site. Drones are increasingly a part of modern battles, seen in wars across the globe but especially with Russia’s invasion of Ukraine, with both countries using a range of uncrewed aircraft to scout and fight. In August 2022, the Department of Defense announced it would send a new tool to aid Ukrainian forces as a way to counter Russian drones. Made by L3Harris, the Vehicle-Agnostic Modular Palletized ISR Rocket Equipment (VAMPIRE) system is a rocket launcher and sensor kit that can be mounted to a range of vehicles, providing a means to damage and destroy drones at a range of at least three miles. The laser-guided rockets, directed by a human operator, explode with a proximity fuse, making near misses into effective takedowns.  For hikers lost in remote parts of the United States and Canada, calling for help means hoping for cell phone coverage, or waiting for a serendipitous rescue. But Apple’s Emergency SOS via Satellite, announced September 2022, will let people with an iPhone 14 transmit emergency messages via satellite, provided they can’t first establish a cellular connection. Texters will have a tap-through menu to create an information-dense but data-light report, and provided trees or mountains don’t block the signal, they can transmit crucial information, like what kind of injuries someone has sustained. With a clear view of the sky and fifteen seconds, a cry for help can reach space and then, even better, rescuers on Earth. Kelsey D. Atherton is a military technology journalist who has contributed to Popular Science since 2013. He covers uncrewed robotics and other drones, communications systems, the nuclear enterprise, and the technologies that go into planning, waging, and mitigating war. Kelsey lives in Albuquerque, New Mexico, with his spouse, beloved pets, and ample sunshine.   
+By Kristin Shaw
+ 
+By Kristin Shaw
+ 
+By Rob Verger
+ 
+By Kelsey D. Atherton
+ 
+By Kevin Williams / The Drive
+ 
+By Colleen Hagerty
+ 
+By Colleen Hagerty
+ 
+By Sara Kiley Watson
+ 
+By Elana Spivack
+ 
+By Hazel Southwell/The Drive
+ 
+By Shi En Kim
+ 
+By Tom McParland / Car Bibles
+ 
+By Rob Stumpf
+ 
+By Natalie Wallington
+ 
+By Rob Verger
+ 
+By Rob Stumpf
+ 
+By Rob Verger
+ 
+By Rob Stumpf
+ 
+By Rahul Rao
+ 
+By Charlotte Hu
+ 
+By John Kennedy
+ 
+By Charlotte Hu
+ 
+By Colleen Hagerty
+ 
+By Rob Verger
+ 
+By Bob McNally/Outdoor Life
+ 
+By Colleen Hagerty
+ Sign up to receive Popular Science’s emails and get the highlights. Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+Registration on or use of this site constitutes acceptance of our Terms of Service.
+
+© 2024 Recurrent. All rights reserved. 

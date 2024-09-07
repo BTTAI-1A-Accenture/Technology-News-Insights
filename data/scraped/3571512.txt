@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kentuckytoday.com/news/business/accenture-reports-strong-revenues-and-record-new-bookings-for-second-quarter-fiscal-2023/article_dd525fe7-0934-51f3-894e-90df23afebbd.html

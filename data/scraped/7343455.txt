@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://thefacts.com/ap/business/kindred-announces-acquihire-of-mango-appoints-founder-as-cto/article_f5b89596-a1b8-5334-b405-3a8a5b1b7293.html

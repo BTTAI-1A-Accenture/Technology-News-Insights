@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://gazette.com/high-school-sports/cheyenne-mountain-s-ava-schroeder-earns-solo-title-at-cougar-invitational-as-dcc-wins-team/article_0e90c254-dd78-11ed-b3d7-3bdbc40a5571.html

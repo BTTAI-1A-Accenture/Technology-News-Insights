@@ -1,0 +1,88 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Be the first to add your personal experience 
+If you want to build a modern web application, chances are you will need to create an API that can communicate with your front-end and other services. APIs, or application programming interfaces, are protocols that define how different components of a software system can interact and exchange data. There are two popular approaches to designing APIs: RESTful and GraphQL. In this article, we will compare these two approaches and explore some of the best web frameworks for creating RESTful or GraphQL APIs.
+ 
+RESTful API stands for Representational State Transfer, and it is a style of web architecture that follows a set of principles and constraints. The main idea of RESTful API is to use HTTP methods (GET, POST, PUT, DELETE, etc.) to perform operations on resources that are identified by URIs (Uniform Resource Identifiers). For example, you can use a GET request to /users/1 to retrieve the user with the ID of 1, or use a POST request to /users to create a new user. RESTful APIs are stateless, meaning that each request is independent and does not depend on any previous or future requests.
+ 
+            Sr. Full-stack Developer @ Coinmotion.com | PHP |  Python | Ruby on Rails | WordPress | Shopify | NodeJS | ReactJS | VueJS
+            RESTful API stands for Representational State Transfer Application Programming Interface. It is a software architectural style that defines a set of constraints to be used for creating web services. 
+
+Key principles of a RESTful API include:
+
+1. Stateless
+2. Client-Server
+3. Cacheable
+4. Uniform Interface
+
+In a RESTful API, basic HTTP methods such as GET, POST, PUT, DELETE can be used to perform CRUD operations (Create, Read, Update, Delete) on the data. These APIs are typically used to interact with web services in a way that can be easily understood by humans. 
+GraphQL API is a query language and a runtime system for building and executing queries on a data source. Unlike RESTful API, which uses multiple endpoints and HTTP methods, GraphQL API uses a single endpoint and a POST method to send queries and mutations. Queries are requests that fetch data from the data source, while mutations are requests that modify data. GraphQL API allows clients to specify exactly what data they want and how they want it, and the server returns only the relevant data in a JSON format. GraphQL API also supports features like subscriptions, which enable real-time updates, and introspection, which enable clients to discover the schema of the data source.
+ 
+            Sr. Full-stack Developer @ Coinmotion.com | PHP |  Python | Ruby on Rails | WordPress | Shopify | NodeJS | ReactJS | VueJS
+            The main features of GraphQL are:
+
+1. Ability to ask for exactly what you need: GraphQL queries access not just the properties of one resource but also smoothly follow references between them.
+
+2. Fetching many resources in a single request: GraphQL queries support efficient and powerful collections, which allow a client to get all the data it needs in a single request.
+
+3. Strong type system:  GraphQL APIs are organized in terms of types and fields. A GraphQL server is powered by a type system which is used to determine what to do next.
+
+4. Real-time Subscriptions: GraphQL supports real-time updates with subscriptions, pushing updates to any number of clients who have expressed interest in that data. 
+            Sr. Full-stack Developer @ Coinmotion.com | PHP |  Python | Ruby on Rails | WordPress | Shopify | NodeJS | ReactJS | VueJS
+            In comparison to RESTful APIs, GraphQL APIs can be more efficient because they allow for data aggregation in a single request as opposed to making multiple roundtrips to fetch data from multiple endpoints. However, they can also be more complex to design and require a different mindset compared to traditional REST APIs. 
+There is no definitive answer to which approach is better, as both have their advantages and disadvantages. Thus, when considering which to use, there are several factors to take into account, such as the complexity and diversity of your data, the performance and bandwidth of your network, and the development and maintenance of your code. If your data is simple and consistent, you may prefer RESTful API for its simplicity and standardization. On the other hand, if your data is complex and heterogeneous, you may prefer GraphQL API for its flexibility and efficiency. Additionally, if your network is slow and unreliable, you may want to minimize the number and size of requests by using GraphQL API. Moreover, if you have a stable and well-defined schema, you may find RESTful API easier to document and test. Conversely, if you have a dynamic and evolving schema, you may find GraphQL API easier to adapt and iterate.
+ 
+            Software Architect, Senior Full Stack Engineer, Database Architect.
+            Honestly, in several cases I can see using both.  While GraphQL can certainly take the place of RESTful APIs, there is also a use case to have GraphQL as the main layer that the UI communicates with and then the GraphQL can communicate between the UI and several RESTful APIs thereby simplifying the interaction of the UI against the APIs.
+
+Ultimately it depends on the project, in many projects that I have personally worked on GraphQL made no sense because it felt like an unnecessary layer between the UI and the RESTful API, but again, for more complex projects involving multiple languages and APIs, GraphQL makes more sense because it can simplify the interaction between the UI and the APIs. 
+There are many web frameworks that support RESTful API development, but some of the most popular and widely used ones are Express, Django, and Flask. Express is a minimalist and flexible web framework for Node.js, which is a JavaScript runtime environment. It is fast, lightweight, and easy to use, with a large and active community of developers and modules. Django is a high-level and full-featured web framework for Python, which follows the MVC (Model-View-Controller) pattern and provides a built-in ORM (Object-Relational Mapping) system. It is powerful, secure, and scalable with a rich and mature ecosystem of libraries and tools. Flask is a micro and modular web framework for Python that gives you more control and flexibility over your web application. It supports RESTful API development using decorators and blueprints, while being simple, elegant, and expressive. All three frameworks have friendly and supportive communities of developers and resources.
+ 
+            Software Architect, Senior Full Stack Engineer, Database Architect.
+            There are many different frameworks that can be done RESTful and a few that are built that way.  In PHP, I have used Laravel, CodeIgniter, Phalcon, Symfony, CakePHP and a few others, in each case they can be used in a RESTful manner with a few of the stronger frameworks like Laravel that are true RESTful APIs.
+
+In Python you obviously have Django and Flask.  In C# you have a few different options to implement RESTful APIs.  RESTful APIs aren't so much tied to a specific framework so much as it is an ideaology or a way of building the API.  The idea behind RESTful is simply that the UI should send all information in a request to the API that will allow the API to complete the request without additional calls being needed. 
+There are many web frameworks that support GraphQL API development, such as Apollo, Prisma, and Hasura. Apollo is a comprehensive and open-source platform with components like Apollo Server and Apollo Client. Prisma is a modern and declarative ORM system for building and querying databases using GraphQL. Hasura is a cloud-native and serverless platform for creating and deploying GraphQL APIs on top of existing databases. Each of these frameworks has its own advantages; Apollo is powerful, flexible, and easy to integrate; Prisma is fast, type-safe, and developer-friendly; Hasura is scalable, secure, and easy to use. Furthermore, each has a vibrant community of developers and partners.
+ 
+This is a space to share examples, stories, or insights that don’t fit into any of the previous sections. What else would you like to add?
+ 
+            Software Architect, Senior Full Stack Engineer, Database Architect.
+            Use the RESTful frameworks that make sense, but if you decide on a framework and it has a built in ORM (object resource model), USE THE ORM!!  Take Laravel for instance, Laravel has a very robust ORM called Eloquent that in and of itself I believe is used in a couple other frameworks, it is very powerful and while it takes a minute to learn - and it can be tempting to just write the SQL by hand - use the ORM!
+
+One of the biggest things that an ORM does for you is prevent SQL injection attacks where a hacker figures out that a certain call uses SQL and then injects custom SQL into said call to gain access to your data or to export data directly using SQL calls.  ORMs will prevent this by sanitizing information coming into the query. 
+                Struggling to align software developers and marketing pros in a Computer Science project?
+               
+                You're concerned about your remote work security. How do you spot potential cybersecurity vulnerabilities?
+               
+                Feeling burnt out from coding all day?
+               
+                2 contributions
+               
+                Here's how you can navigate the future career paths for Computer Science professionals.
+               
+                7 contributions
+               
+                Here's how you can manage stress and pressure in computer science with emotional intelligence.
+               
+                You're striving for code review success. How can you ensure feedback hits the mark?
+               
+                You're drowning in tasks and deadlines in Computer Science. How can you effectively navigate your priorities?
+               
+                Here's how you can future-proof your career in Computer Science.
+               

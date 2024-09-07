@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.columbusjewishnews.com/features/nosh/giant-eagle-partners-with-instacart-for-same-day-delivery-service/article_31116ac7-12b2-54aa-9698-1c666a00e17a.html

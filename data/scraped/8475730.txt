@@ -1,0 +1,42 @@
+●	Digital Maintenance Gateway improves the security and efficiency of maintenance practices.
+●	Protects global rail network by reducing the risk and cost of cyber-attacks.
+●	Technology can be deployed on new build and legacy rolling stock.
+
+21st MARCH 2023: Rail cybersecurity specialist, RazorSecure, today launches its Digital Maintenance Gateway (DMG) to improve the security and efficiency of rail maintenance practices and enable a significant reduction in the exposure of on-board management systems to cyber risk.
+
+Overall losses from rail cybersecurity incidents are estimated to cost billions of dollars every year globally. Increasingly complex software compatibility issues and deficiencies in current digital maintenance practices have also led to a growth in urgent rail safety alerts being issued in the UK.
+
+Cybersecurity attacks lead to a range of serious issues for the networks including service disruption and downtime, increased operational and compliance costs, reputational damage, data loss, and safety hazards.  More than half of all cybersecurity incidents are caused by internal threats – whether from inadvertent poor practices (such as password sharing and human error) or malicious internal activity by      employees. 
+
+DMG is an integrated solution, created to make it easy for rail maintainers to carry out maintenance tasks in a secure and efficient manner. The gateway empowers asset owners to automate repeated maintenance tasks and roll out over-the-air (OTA) updates across multiple trains at one time, reducing the need for engineers to manually access devices and therefore protecting onboard systems from risk. 
+
+DMG enables train operators to reduce the risk of cyber-attacks, identify and eradicate human error, develop an effective audit tail of rail maintenance, and minimise risk and cost. Key features and benefits include:
+
+●	Secure remote access: only authorised engineers can connect to specific assets in an agreed timeframe. 
+●	Automation of repetitive or manually intensive maintenance processes performed on several train units simultaneously.
+●	Active monitoring of rail maintenance activities to improve compliance, capture learning outcomes, and quickly diagnose issues.
+●	Issuing of individual and personalised passwords to reduce sharing and ensure an accurate audit trail of who performed maintenance activity and when.
+●	Anomaly detection and cybersecurity event recording to ensure immediate flagging of potential attacks.
+
+Alex Cowan, CEO at RazorSecure, comments: “Rail maintenance is no longer just about trains and tracks, but increasingly focused on sustaining the complex combination of digital systems that keep networks moving. Railways are an integral part of a nation’s critical infrastructure and are therefore prime targets for cyber-attacks. We have spent years analysing and researching the industry to understand where gaps in cyber-defences exist. Our state-of-the-art Digital Maintenance Gateway has the capabilities to protect passengers, operators, and help ensure the effective performance of rail networks around the world.”
+
+Cyber vulnerabilities can be caused by poor password management, lack of network access control and authentication, and poor management of service laptops, which often run out-of-date security software.  RazorSecure’s Digital Maintenance Gateway provides effective mitigations for these risks to ensure future maintenance can be completed in a secure manner while taking advantage of advances in digital innovation and new technologies to offer greater protection for the future.
+
+Read more about RazorSecure’s Digital Maintenance Gateway: razorsecure.com/digital-maintenance-gateway
+
+-ENDS-
+
+Notes to editors:
+
+About RazorSecure:
+
+Founded in 2015 by CEO Alex Cowan, with headquarters in Basingstoke, RazorSecure provides leading companies across the rail industry with tailored cyber security solutions. As specialists in rail, RazorSecure technology is powered by machine learning and designed to protect rolling stock, signalling and infrastructure systems. RazorSecure software has been deployed in more than 3200 rail vehicles and protected more than 50 million rail passenger journeys. 
+
+More information available at www.razorsecure.com.
+
+Media contact:
+Daniel Portman
+Senior PR Consultant at XL Communications
+Tel: (+44) 7841 630 404
+Email: dan.portman@xl-comms.com This press release was distributed by ResponseSource Press Release Wire on behalf of XL Communications in the following categories:
+			                Travel, 			                Computing & Telecoms, 			                Transport & Logistics, 			 for more information visit https://pressreleasewire.responsesource.com/about. Useful links Social ResponseSource

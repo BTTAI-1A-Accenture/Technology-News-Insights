@@ -1,0 +1,187 @@
+
+7 minutes ago
+ 
+27 minutes ago
+ 
+1 hour ago
+ 
+1 hour ago
+ 
+27 minutes ago
+ 
+1 hour ago
+ 
+7 hours ago
+ 
+7 hours ago
+ 
+11 hours ago
+ 
+13 hours ago
+ 
+14 hours ago
+ 
+Aug 18, 2024
+ 
+27 minutes ago
+ 
+1 hour ago
+ 
+10 hours ago
+ 
+14 hours ago
+ 
+1 hour ago
+ 
+2 hours ago
+ 
+3 hours ago
+ 
+4 hours ago
+ 
+Aug 11, 2024
+ 
+Aug 3, 2024
+ 
+Jul 29, 2024
+ 
+Jul 28, 2024
+ 
+Dec 31, 2023
+ 
+Oct 14, 2023
+ 
+Aug 11, 2024
+ 
+Jul 22, 2024
+ 
+Jul 7, 2024
+ 
+Jul 7, 2024
+ 
+May 23, 2024
+ 
+May 21, 2024
+ 
+May 7, 2024
+ 
+Mar 24, 2024
+ 
+Aug 19, 2024
+ 
+Aug 18, 2024
+ 
+Jun 28, 2024
+ 
+Jun 14, 2003
+ 
+Jul 14, 2024
+ 
+May 19, 2024
+ 
+Apr 20, 2024
+ 
+Mar 23, 2024
+ 
+12 hours ago
+ 
+13 hours ago
+ 
+18 hours ago
+ 
+21 hours ago
+ 
+
+Usama Jawad
+
+Neowin
+@UsamaJawad96        ·
+    
+
+    Oct 13, 2021 00:48 EDT
+    
+         · Hot!
+
+with 5 comments
+
+ Microsoft announced Visual Studio 2022 back in April, and since then, the company has released multiple previews of the software for both Windows and Mac. Now, it has revealed that it will be officially launching Visual Studio 2022 on November 8, 2021.  While Visual Studio 2022 hits general availability (GA) on November 8, Microsoft is also releasing a Release Candidate (RC) build today. The RC version comes with a go-live license for production use which entails that it's a stable build that will be converted to the GA version after November 8, so you can use it to build production-ready apps right now. You can download it from here. Additionally, Microsoft is also releasing Visual Studio 2022 Preview 5, which is what you want to use if you want to stay on the bleeding edge. On November 8, this build will upgrade to Visual Studio 2022 17.1 Preview 1. You can download Preview 5 from here and utilize your Enterprise or Professional license, the Community Edition, or enroll in free trials. Visual Studio 2022's launch event will take place virtually on November 8, 2021 at 8:30 AM PT. As we already know, the IDE comes in a 64-bit flavor, supports .NET 6 and C++ 20, offers better performance for the core debugger, and supports text chat during Live Share sessions. It offers more capabilities for the IntelliCode engine, improvements to code search, and better asynchronous collaboration, with new logic related to making commits and reviewing pull requests from platforms like GitHub. On Mac, it also features a refreshed UI that takes advantage of the native macOS UI elements. 
+
+Omer Dursun
+                                                ·
+                    
+Jan 3, 2024
+
+with
+0
+                            comment
+                                s
+                                                            
+
+
+ 
+
+Usama Jawad
+                                                ·
+                    
+Jan 18, 2023
+
+with
+8
+                            comment
+                                s
+                                                            
+
+
+ 
+
+Usama Jawad
+                                                ·
+                    
+Nov 21, 2022
+
+with
+8
+                            comment
+                                s
+                                                            
+
+
+ 
+
+Paul Hill
+                                                ·
+                    
+Nov 10, 2022
+
+with
+1
+                            comment
+                                                            
+
+
+ Login or Sign Up to read and post a comment. Please enter your reason for reporting this comment. 
+                                ducky zero 6108
+                                 
+                                windows server insider preview
+                                 
+                                gamesir
+                                 
+                                windows 11 insider preview promo
+                                 
+                                7800 xt
+                                 
+                                made68
+                                 
+                                windows 11 insider preview promo
+                                 
+                        server
+                         
+                        motion sickness
+                         
+                        t-force z540 and dark airflow
+                         
+                        geekom gt13 pro
+                         
+© Since 2000 Neowin®
+                                    All trademarks mentioned are the property of their respective owners.
+                                

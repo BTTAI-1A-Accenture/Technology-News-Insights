@@ -1,0 +1,40 @@
+
+New Technology Offering Simplifies Data Management and Accelerates Scaling for Data-Intensive Applications
+
+ 
+VAST Data, the data platform company for the AI era, today announced that Hewlett Packard Enterprise (HPE) has incorporated VAST Data's leading file software platform into the new HPE GreenLake for File Storage service. By leveraging VAST's unique and innovative scale-out software architecture for the new HPE GreenLake for File Storage, enterprise customers can manage unstructured data with high performance at scale to deliver superior time to data insight.
+
+ 
+"Media creation is on the rise, across enterprise, commercial and consumer use cases. As a result, unstructured data storage is becoming increasingly necessary and increasingly complex for organizations ranging from life sciences to media/entertainment and financial services," said Tom Black, executive vice president and general manager, HPE Storage. "By using VAST Data software within HPE GreenLake for File Storage, we are able to deliver a scale-out file service, designed to accelerate data-intensive workloads, which can be managed via the HPE GreenLake platform."
+
+ 
+The new HPE GreenLake for File Storage uses VAST's Disaggregated, Shared-Everything (DASE) architecture, which IDC describes as "the storage architecture of the future." Built on HPE Alletra Storage MP and delivered as part of the HPE GreenLake cloud operational model, the new HPE data service enables enterprises to run their unstructured data workloads efficiently from one control plane. From enterprise to AI applications, the VAST software allows customers to quickly analyze all data in context and in the moment by consolidating infrastructure to accelerate training and inference time.
+
+ 
+"By combining VAST Data's next-generation architecture with trusted hybrid cloud infrastructure and data services from HPE, customers now get the best of all worlds combined into a single, simple to consume solution from HPE," said Renen Hallak, Co-Founder and CEO of VAST Data. "VAST is laying the foundation for the future of data management and AI workloads, and together with HPE, we're continuing to innovate for the enterprise, where data is at the center of every application strategy and business decision."
+
+ 
+HPE GreenLake for File Storage is available to order today. For more information, click here.
+
+ 
+Industry Quotes
+ 
+"As a VAST and HPE customer, we see the HPE GreenLake edge-to-cloud platform as an innovative entrant in the cloud arena, which recognizes the challenge many businesses have in balancing on-prem versus cloud," said Chris Goddard, CTO and Partner at G-Research. "The combination of HPE GreenLake with VAST's proven file system has huge potential to reduce data complexity and further scale the performance of large machine learning workloads, both in the cloud and in on-prem native environments. HPE and VAST have been true partners in helping our business achieve the high-performance operations we have today, and we continue to explore potential new innovations with them that could further accelerate our future growth."
+
+ 
+"In the last few years, VAST Data has proven itself in the most demanding data-rich environments," said Steve McDowell, Principal Analyst and Founding Partner at NAND Research. "This partnership with HPE opens up VAST's performant, AI-ready technology to a broad swath of HPE GreenLake customers looking for scale-out file service capabilities."
+
+ 
+"Softcat is invested in accelerating customer outcomes with comprehensive solutions, from edge to cloud," said David Francis, Head of Vendor Alliances at Softcat. "With over 15 years of successful partnership with HPE, we're excited about today's announcement of HPE GreenLake for File Storage in partnership with VAST Data, which opens up new markets and use cases for our business, and ensures our joint customers have access to the industry's most innovative, performant technologies and flexible consumption models to meet the needs of their organization."
+
+ 
+About Hewlett Packard Enterprise
+ 
+Hewlett Packard Enterprise HPE is the global edge-to-cloud company that helps organizations accelerate outcomes by unlocking value from all their data, everywhere. Built on decades of reimagining the future and innovating to advance the way people live and work, HPE delivers unique, open and intelligent technology solutions as a service. With offerings spanning Cloud Services, Compute, High Performance Computing & AI, Intelligent Edge, Software, and Storage, HPE provides a consistent experience across all clouds and edges, helping customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: www.hpe.com.
+
+ 
+About VAST Data
+ 
+VAST Data is the data platform software company leading business into the AI era. Accelerating time-to-insight for workload-intensive applications, the VAST data platform delivers scalable performance, radically simple data management and enhanced productivity. Launched in 2019, VAST is the fastest-growing data infrastructure startup in history. For more information, please visit https://vastdata.com and follow VAST Data on Twitter and LinkedIn.
+
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230404005358/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

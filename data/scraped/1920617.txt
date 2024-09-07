@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.wdrb.com/news/national/overstock-announces-partnership-with-citi-retail-services-to-launch-co-branded-mastercard/article_27b96cc6-4cb9-5cbb-a748-8e4da566a464.html

@@ -1,0 +1,27 @@
+
+                    Mathew Blum, associate administrator for the Office of Federal Procurement Policy, said Tuesday that contracting officials may need more training on how to buy emerging technologies like AI.
+                  
+                    Andy / Getty Images
+                    Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Chris Riotta
+ A White House official said Tuesday that as more federal agencies seek artificial intelligence research, software and services, federal contracting professionals will increasingly need to undergo digital information technology training to gain the technical skills and competencies required for the acquisitions needed to fill the demand.  “We need to have practices that encourage and enable us to take advantage of those technologies, but we have to do it in a responsible manner, so that we’re not exposing ourselves to unnecessary national security risks or human rights challenges,” said Mathew Blum, associate administrator for the Office of Federal Procurement Policy, at a Brookings Institute event on federal acquisitions.  More than 95% of over $1 billion in recent federal expenditures associated with AI went to professional, scientific and technical services, according to a report the Brookings Institute published last year.  The findings suggest that the state of federal AI procurements exist in an "immature market which is focused on the development of research rather than a more mature market which would be focused more on hardware and software devices,” the report said.  Digital IT training is designed to provide in-depth knowledge about various fields involving digital technology, and to help trainees develop skills related to the use and implementation of software and other tools used in digital processes. Blum said efforts like the Digital IT Acquisition Professional Training Program can help those employees better understand "what questions we should be asking, and what expectations we should be putting on contractors" for AI procurements. OFPP and the U.S. Digital Service launched DITAP in 2016 to train contracting professionals on executing digital service procurements. Last year, the Office of Management and Budget began requiring all contracting professionals assigned to digital services acquisitions above $7 million to have the certification associated with DITAP from the Federal Acquisition Institute.  The program has provided training to more than 1,000 employees across the federal government, according to Blum, with trainees becoming "leaders in the use of many innovative modern design practices," like agile acquisitions and methodologies, as well user-centered and data-driven design processes. According to USDS, the program runs for approximately six months and is designed to counter traditional federal government procurement training and practices, which often lag behind emerging technology and markets, with immersive, specialized training and development courses.  Any federal government contracting professional with at least two years of experience can apply to enroll in DITAP, while agencies with larger acquisition shops can negotiate contracts for an agency-only cohort of their employees. Programs like DITAP can provide an alternative entryway into digital technology fields for members of the workforce that lack an education or background in computer science or IT by teaching technical skills and delivering hands-on training for acquiring digital service solutions and other capabilities.  As the need to incorporate AI into federal contracting grows, Blum said that leveraging programs like DITAP will help achieve an “effective balance of promoting innovation, but also doing it in a responsible manner.”
+
+ 
+NEXT STORY:
+
+              MITRE Recommends Comprehensive Approach to Modernize Legacy Systems
+            
+
+
+
+ Help us tailor content specifically for you:

@@ -1,0 +1,28 @@
+Get alerted any time new stories match your search criteria. Create an alert to follow a developing story, keep current on a competitor, or monitor industry news. 
+Overwrite Existing Alert:
+
+ 
+Sign In
+ Thank You! Don’t forget you can visit MyAlerts to manage your alerts at any time. Schwab, TD Ameritrade Hit With Class-Action Suit Over MOVEit Hack Regulation and Compliance > Litigation 
+
+By Melanie Waddell
+ 
+
+
+News
+
+
+
+August 24, 2023 at 10:14 AM
+
+
+
+Share & Print
+ Charles Schwab and TD Ameritrade are the latest firms to be sued for a data breach related to the ongoing cyberattack exploiting the MOVEit file-transfer software. The suit, filed Wednesday by David Schultz in the U.S. District Court for the District of Nebraska, states that Schwab and TD waited nine weeks before telling Schultz, along with approximately 61,000 Schwab customers, that the hack had occurred. The attack this year on the MOVEit file transfer system was orchestrated by the Cl0P ransomware gang. At least 734 organizations have reported MOVEit-related breaches, according to KonBriefing Research. Those reports have affected at least about 43 million people. The class-action suit against Schwab and TD comes as there’s less than two weeks to go before TD Ameritrade advisors and their clients’ accounts are scheduled to move to the Charles Schwab platform. Schwab said in a statement shared with ThinkAdvisor that “Generic and conclusory allegations are often devoid of accuracy and context. Our focus is protecting our clients. We do that by not only standing by them in such matters but by thoroughly investigating any incident that may affect them. Our notification practices are consistent with our mission to see the world through our clients’ eyes and are in keeping with our regulatory obligations.” According to the complaint against Schwab and TD Ameritrade, Schultz received a Notice of Data Breach letter dated Aug. 3, on or about Aug. 22 from TD Ameritrade Client Services. The letter notified Schultz that on May 30, 2023, Schwab and TD “became aware of an alert issued by Progress Software — the company responsible for the MOVEit file transfer program.” The letter, according to the complaint, notified Schultz that after an investigation, Schwab and TD ”discovered unauthorized access to their customers’ personal information which includes, but is not limited to Plaintiff’s name, Social Security Number, financial account information, date of birth, government identification numbers, and other personal identifiers.” Schultz was further advised that “he should spend time mitigating his losses by taking steps to help safeguard his information, including following recommendations by the Federal Trade Commission regarding identity theft protection and placing a fraud alert or security freeze on his credit file,” the complaint states. Up Next Listen to free podcasts to get the info you need to solve business challenges! Foundation Planning Guide for Advisors The 4-Step Guide to Creating Holistic Risk Profiles Schultz was also encouraged to sign up for two years of credit and identity monitoring through IdentityForce. After becoming aware of the alert, the defendants said they “promptly halted any use of MOVEit Transfer” and “thoroughly investigated the incident in close consultation with independent experts,” according to the suit. “With no explanation for their nine-week delay,” on Aug. 3, Schwab and TD Ameritrade “started notifying the approximately 61,000 unfortunate customers whose PII was stolen over two months ago.” To date, according to the suit, Schwab and TD Ameritrade “have not revealed most of the findings of the investigation it commissioned,” and “have not revealed when the unauthorized actor first gained access to their systems, nor has it revealed the mechanism by which the unauthorized actor first gained access to their systems.” Schwab and TD Ameritrade have also not revealed “whether the unauthorized actor was able to access Defendants’ broader computer systems and network,” according to the suit. As a “direct and proximate result of Defendants’ data security failures and the Data Breach, the PII of Plaintiff and Class Members was compromised through disclosure to an unknown and unauthorized third party, and Plaintiff and Class Members have suffered actual, present, concrete injuries,” the suit states. The injuries include: “the current and imminent risk of fraud and identity theft; lost or diminished value of PII; out-of-pocket expenses associated with the prevention, detection, and recovery from identity theft, tax fraud, and/or unauthorized use of their PII.” Image: Adobe Stock NOT FOR REPRINT © 2024 ALM Global, LLC, All Rights Reserved.
+Request academic re-use from
+www.copyright.com.
+All other uses, submit a request to
+ [email protected].
+For more information visit
+Asset & Logo Licensing.
+ Up Next

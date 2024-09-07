@@ -1,0 +1,13 @@
+Geeky Gadgets The Latest Technology News 11:47 am November 23, 2022 By Julian Horsey   Developers waiting for the relaunched Jetson Nano Developer Kit to be made available by NVIDIA, Will be pleased to know that it will be available to purchase from worldwide partners in a few days time starting on November 25, 2022 throughout the United States and worldwide during December. The software stack supports all NVIDIA Jetson modules and provides Jetson Linux, developer tools, CUDA-X accelerated libraries, and other NVIDIA technologies. The Jetson Nano 4GB Developer Kit is available for $149. – A 128-core NVIDIA Maxwell GPU
+– A quad-core Arm A57 processing system
+– A video encoder and decoder
+– 4-GB LPDDR4 and 16-GB eMMC memory
+– A host of interfaces and I/Os:
+– High-speed I/O for CSI, PCIe, Gigabit Ethernet, and USB3
+– Video interfaces such as HDMI and DisplayPort
+– Standard I/O for I2C, I2S, SPI, and GPIO “Introduced 3 years ago, the NVIDIA Jetson Nano is a low-cost, entry-level AI computer for the embedded and edge AI market. With a familiar Linux environment, easy-to-follow tutorials, and ready-to-build open-source projects created by an active developer community, it’s the perfect tool for learning by doing. This small, powerful computer lets you run multiple neural networks in parallel for applications like image classification, object detection, segmentation, and speech processing. All this is packed into an easy-to-use platform that runs in as little as five watts.”  Watch this video on YouTube. “Using the Developer Kit, AI has become accessible to everyone. From projects predicting bus arrival times to real-time chess game analytics and from AI-based music synthesizers to automated vision-based warning systems for lab equipment, Jetson developers are discovering the diverse capabilities of AI using the Jetson Nano Developer Kit.” Source : NVIDIA : NVIDIA  
+
+Latest Geeky Gadgets Deals
+
+
+Disclosure: Some of our articles include affiliate links. If you buy something through one of these links, Geeky Gadgets may earn an affiliate commission. Learn about our  Disclosure Policy. 

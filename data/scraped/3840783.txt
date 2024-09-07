@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/how-pay-transparency-laws-affect-small-businesses-cec6880a?mod=dist_amp_social

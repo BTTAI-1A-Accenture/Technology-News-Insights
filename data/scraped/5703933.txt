@@ -1,0 +1,67 @@
+News 
+  Careers firm Hired's latest report on the state of software engineering shows TypeScript as one of the top skills to learn or know.
+
+ 
+  TypeScript ranked fourth on the survey-based report when respondents were asked "What are the top 3 skills software engineers should learn/know right now in your opinion?"
+
+ 
+  Named by 36 percent of respondents, that put it behind Python (64 percent), JavaScript (49 percent) and SQL (44 percent).
+
+ 
+  Meanwhile, Microsoft's flagship programming language, C#, also made the top 10, barely, listed by only 12 percent of respondents.
+
+ 
+  In fact, TypeScript beat out C# on several other questions. When asked about language preferences, respondents scored TypeScript with a 7.1 ranking, placing it in fifth place, just above C#, with Python again leading the way with a 9.8 score.
+
+ 
+  Those standings were similar to last year's report, except for SQL coming out of nowhere to place ahead of TypeScript and C#.
+
+ 
+  Otherwise, there was no mention of C# at all except for a list of most common engineering skills by subrole, where it last on a 10-skill list (again topped by Python).
+
+ 
+  TypeScript, meanwhile, again cracked the top 10 on list of demand for coding skill vs. Hired marketplace average demand.
+
+ 
+  And there wasn't much more of special interest to Microsoft-centric software engineers in the firm's latest annual report, titled, "Big Transitions in the Tech Industry: Hired's 2023 State of Software Engineers." In fact, there was only one mention of .NET, which was way down the list of "hottest engineering manager skills vs. Hired marketplace average," just behind TypeScript.
+
+ 
+  TypeScript has been surging in such reports over the past couple years, as evidenced by articles such as:
+
+ 
+  Going beyond the special interest purview of Visual Studio Magazine, other highlights of the report as presented by Hired include:
+
+ 
+  As for methodology, the report analyzed trends in demand for skills, salaries and work preferences from over 68,500 candidates and 494,000 interactions between employers and software engineering candidates between January 2021 through December 2022, while also surveying more than 1,300 software engineers and 120 talent professionals and hiring managers on Hired's marketplace.
+
+ About the Author 
+
+                    David Ramel is an editor and writer for Converge360.
+                    
+
+ Printable Format 
+                        The ability for admins to configure Copilot to ignore specific files in repositories or organizations joins a raft of other enhancements that affect everything from commit histories to pull requests to targeted slash commands and more.
+                        
+                        
+                        
+                     
+                         With Visual Studio 2022 v17.11 shipping this week, the first preview of the next edition sees Microsoft emphasizing support for the coming .NET 9 and cloud development with Aspire.
+                        
+                        
+                        
+                     
+                        Dr. James McCaffrey from Microsoft Research presents a demonstration program that models biological immune systems to identify network intrusion threats. The demo illustrates challenges with artificial immune systems as well as promising new approaches.
+                        
+                        
+                        
+                     
+                        Microsoft's Mads Kristensen heavily emphasized the community contributions that helped the dev team ship the brand-new Visual Studio 2022 version 17.11, which includes new features, improvements and fixes across the board spawned from the ideas of users. 
+                        
+                        
+                        
+                     
+                        .NET 9 is coming in November, so here is help in how to build and deploy a modern .NET 9 app using cloud and DevOps tools.
+                        
+                        
+                        
+                     Subscribe on YouTube > More Webcasts Problems? Questions? Feedback? E-mail us.

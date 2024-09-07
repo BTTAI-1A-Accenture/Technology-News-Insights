@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ We decided to publish our internal onboarding and processes to allow tools that can parse it and learn from it to work as an internal support for questions our core team and external vendors asking on Slack. Disclaimer: I was not try to ask those tools things intentionally to make them fail, I'm big pro-AI and I really need smth that would work for our team and make everyone more effective in responding repeatable questions. So I was communicating with those tools on my usual stupidity and communication awkwardness levels. While search is in the ongoing mode here is the shortlist of identified solutions we looking to explore: How we going to implement it:  Following this tutorial (hopefully) https://www.patterns.app/blog/2023/02/27/building-an-algolia-powered-gpt3-slackbot The concept would look like this: What is good about it: it's sort of readymade and similar to Pipedream you can deploy workflow in 1-click https://studio.patterns.app/app/sx5yykfi7u34ut7pvae4/algolia-gpt3-slackbot/graph Cool fancy tool specifically for docs and API docs, tweaked into publishing tech documentation and it does allow integration of 3rd party analytics and AI too So I went to a pricing page (this is the place I'm always starting my SaaS tool evaluation) It says in the free plan that in-app search and user logs so I went to the Mintify own docs section and tried an AI driven/boosted option Ask Mintify and just put there user logs here is the outcome Algolia vs Mintify I guess 1:0... simple request and it's about smth that they mention in their pricing plans Not tried yet, hunting for some sort of offer for bootstrapped startups ;P  But already managed to get some experience with it as a customer, I guess quality of it is not about AI as much as it is about properly developed content injected into it, so I went to 11Labs to digg some knowledge on what is the best way to get Voice Cloning with a solid results. the chatbot on the page was not helpful and gave up redirecting me to the form where immediately after I place what I was wanted it outputted a lot of relevant things still can't understand why it was not possible on the chatbot level? Here it is: It's a YC backed tool that pulls your publicly available URL and creates a bot out of it, so you need to have thing published, I posted our Onboarding - https://b2storefront.com/speed/blog/onboarding-communication-and-context-of-what-we-doing that we always ask new teammates to go through and then asked Fini to pull it and be able to answer the request This post is a part of my "Anton struggle to understand" type of contagiousness dump, no GPT was used to generate this migraine-triggering stream of hot mess. Entrepreneur; Co-Founder, CSO at MentalHealth.com 🚀 Interesting. Thanks for sharing Anthony! Get Sections for Shopify -> Improve Conversion -> Iterate faster! While on the look out also found this - https://www.anthropic.com 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.crowdfundinsider.com/2023/08/211577-zetachain-secures-27m-for-interoperable-l1-blockchain-connecting-all-chains-including-bitcoin-cosmos-ethereum/

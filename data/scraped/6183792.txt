@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.tulsaworld.com/sports/high-school/high-school-swimming-notebook-bartlesville-boys-look-to-overcome-depth-disadvantage/article_d0983d98-91cc-11ed-a388-c357f605e66d.html

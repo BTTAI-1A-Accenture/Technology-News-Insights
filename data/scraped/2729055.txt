@@ -1,0 +1,382 @@
+Having a WiFi network at home makes it easier to sync laptops, mobile phones with other smart home gadgets like Amazon Alexa. However, with a rapid rise in wireless connected devices, the home network security becomes extremely significant.The good news? You don’t need to be a tech geek or security expert to keep your WiFi network secure. Here are top 10 ways to protect your network and keep the data of your loved ones safe. 1. Never use the default name & password of your home network This is the easiest way to keep your network protected.You can alter the name of your network by following the given steps: - Open Windows Command Prompt - Type in “ipconfig" - Locate your IP Address - Type your IP Address into your browser's address box - Enter your router’s login credentials - Open WiFi settings - Change SSID and password 2. Limit access to your WiFiSharing, surely is caring. But not when it comes to giving access to your home network to people you don’t know (personally). For example, avoid sharing WiFi with a contractor in your home to perform repairs. 3. Create a guest WiFi networkAn exception to the rule above, in case you can not avoid giving access to your home WiFi, create a guest WiFi network. This way you will share the internet with them but can hide any shared folders, printers, storage devices, and network devices connected to your primary wireless network. 4. Enable WiFi encryptionAlmost every WPA2 and WPA3 router offers encryption. Turning it on will encrypt the data shared between wireless channel and device, thus preventing others from secretly accessing WiFi network without logging in. 5. Enable FirewallTurn on the router firewall to prevent unwanted traffic from entering or leaving your wireless network. In order to do so, log into your router settings using your IP address, look under your router’s advanced settings to find the firewall toggle. 6. Switch off WiFi when you are not at homeDisabling your router when you leave home ensures that your WiFi network is safe in your absence, thus giving you a peace of mind. 7. Regularly update the router’s firmwareTo do so, visit the manufacturer's website and download the firmware update file. Next step will be to install the update directly to your wireless router.  8. Disable remote accessWhile remote access is a convenient way to manage your wireless network from different locations, it also increases the security risk. If not required, disable the ability to avoid potential hackers from accessing your home network.     
+Milestone Alert!
+Livemint tops charts as the fastest growing news website in the world 🌏 Click here  to know more.
+
+ 3.6 Crore Indians visited in a single day choosing us as India's undisputed platform for General Election Results. Explore the latest updates  here!
+
+
+
+
+    		Catch all theBusiness News, Technology News,Breaking NewsEvents andLatest News Updates on Live Mint. Download TheMint News App to get Daily Market Updates
+    
+More
+Less
+ 
+		Published: 11 Jun 2023, 07:02 PM IST
+	
+Topics You May Be Interested In 
+
+
+
+ wifi
+
+
+ wifi security
+
+
+ tips to keep wifi secure
+
+
+ how to keep wifi secure
+
+
+ how to keep home wifi secure
+
+
+ wpa2
+
+
+ wpa3
+
+
+ wifi router
+
+
+
+
+
+
+
+
+
+
+
+
+ Sharing, surely is caring. But not when it comes to giving access to your home network to people you don’t know (personally). For example, avoid sharing WiFi with a contractor in your home to perform repairs. 3. Create a guest WiFi networkAn exception to the rule above, in case you can not avoid giving access to your home WiFi, create a guest WiFi network. This way you will share the internet with them but can hide any shared folders, printers, storage devices, and network devices connected to your primary wireless network. 4. Enable WiFi encryptionAlmost every WPA2 and WPA3 router offers encryption. Turning it on will encrypt the data shared between wireless channel and device, thus preventing others from secretly accessing WiFi network without logging in. 5. Enable FirewallTurn on the router firewall to prevent unwanted traffic from entering or leaving your wireless network. In order to do so, log into your router settings using your IP address, look under your router’s advanced settings to find the firewall toggle. 6. Switch off WiFi when you are not at homeDisabling your router when you leave home ensures that your WiFi network is safe in your absence, thus giving you a peace of mind. 7. Regularly update the router’s firmwareTo do so, visit the manufacturer's website and download the firmware update file. Next step will be to install the update directly to your wireless router.  8. Disable remote accessWhile remote access is a convenient way to manage your wireless network from different locations, it also increases the security risk. If not required, disable the ability to avoid potential hackers from accessing your home network.     
+Milestone Alert!
+Livemint tops charts as the fastest growing news website in the world 🌏 Click here  to know more.
+
+ 3.6 Crore Indians visited in a single day choosing us as India's undisputed platform for General Election Results. Explore the latest updates  here!
+
+
+
+
+    		Catch all theBusiness News, Technology News,Breaking NewsEvents andLatest News Updates on Live Mint. Download TheMint News App to get Daily Market Updates
+    
+More
+Less
+ 
+		Published: 11 Jun 2023, 07:02 PM IST
+	
+Topics You May Be Interested In 
+
+
+
+ wifi
+
+
+ wifi security
+
+
+ tips to keep wifi secure
+
+
+ how to keep wifi secure
+
+
+ how to keep home wifi secure
+
+
+ wpa2
+
+
+ wpa3
+
+
+ wifi router
+
+
+
+
+
+
+
+
+
+
+
+
+ An exception to the rule above, in case you can not avoid giving access to your home WiFi, create a guest WiFi network. This way you will share the internet with them but can hide any shared folders, printers, storage devices, and network devices connected to your primary wireless network. 4. Enable WiFi encryptionAlmost every WPA2 and WPA3 router offers encryption. Turning it on will encrypt the data shared between wireless channel and device, thus preventing others from secretly accessing WiFi network without logging in. 5. Enable FirewallTurn on the router firewall to prevent unwanted traffic from entering or leaving your wireless network. In order to do so, log into your router settings using your IP address, look under your router’s advanced settings to find the firewall toggle. 6. Switch off WiFi when you are not at homeDisabling your router when you leave home ensures that your WiFi network is safe in your absence, thus giving you a peace of mind. 7. Regularly update the router’s firmwareTo do so, visit the manufacturer's website and download the firmware update file. Next step will be to install the update directly to your wireless router.  8. Disable remote accessWhile remote access is a convenient way to manage your wireless network from different locations, it also increases the security risk. If not required, disable the ability to avoid potential hackers from accessing your home network.     
+Milestone Alert!
+Livemint tops charts as the fastest growing news website in the world 🌏 Click here  to know more.
+
+ 3.6 Crore Indians visited in a single day choosing us as India's undisputed platform for General Election Results. Explore the latest updates  here!
+
+
+
+
+    		Catch all theBusiness News, Technology News,Breaking NewsEvents andLatest News Updates on Live Mint. Download TheMint News App to get Daily Market Updates
+    
+More
+Less
+ 
+		Published: 11 Jun 2023, 07:02 PM IST
+	
+Topics You May Be Interested In 
+
+
+
+ wifi
+
+
+ wifi security
+
+
+ tips to keep wifi secure
+
+
+ how to keep wifi secure
+
+
+ how to keep home wifi secure
+
+
+ wpa2
+
+
+ wpa3
+
+
+ wifi router
+
+
+
+
+
+
+
+
+
+
+
+
+ Almost every WPA2 and WPA3 router offers encryption. Turning it on will encrypt the data shared between wireless channel and device, thus preventing others from secretly accessing WiFi network without logging in. 5. Enable FirewallTurn on the router firewall to prevent unwanted traffic from entering or leaving your wireless network. In order to do so, log into your router settings using your IP address, look under your router’s advanced settings to find the firewall toggle. 6. Switch off WiFi when you are not at homeDisabling your router when you leave home ensures that your WiFi network is safe in your absence, thus giving you a peace of mind. 7. Regularly update the router’s firmwareTo do so, visit the manufacturer's website and download the firmware update file. Next step will be to install the update directly to your wireless router.  8. Disable remote accessWhile remote access is a convenient way to manage your wireless network from different locations, it also increases the security risk. If not required, disable the ability to avoid potential hackers from accessing your home network.     
+Milestone Alert!
+Livemint tops charts as the fastest growing news website in the world 🌏 Click here  to know more.
+
+ 3.6 Crore Indians visited in a single day choosing us as India's undisputed platform for General Election Results. Explore the latest updates  here!
+
+
+
+
+    		Catch all theBusiness News, Technology News,Breaking NewsEvents andLatest News Updates on Live Mint. Download TheMint News App to get Daily Market Updates
+    
+More
+Less
+ 
+		Published: 11 Jun 2023, 07:02 PM IST
+	
+Topics You May Be Interested In 
+
+
+
+ wifi
+
+
+ wifi security
+
+
+ tips to keep wifi secure
+
+
+ how to keep wifi secure
+
+
+ how to keep home wifi secure
+
+
+ wpa2
+
+
+ wpa3
+
+
+ wifi router
+
+
+
+
+
+
+
+
+
+
+
+
+ Turn on the router firewall to prevent unwanted traffic from entering or leaving your wireless network. In order to do so, log into your router settings using your IP address, look under your router’s advanced settings to find the firewall toggle. 6. Switch off WiFi when you are not at homeDisabling your router when you leave home ensures that your WiFi network is safe in your absence, thus giving you a peace of mind. 7. Regularly update the router’s firmwareTo do so, visit the manufacturer's website and download the firmware update file. Next step will be to install the update directly to your wireless router.  8. Disable remote accessWhile remote access is a convenient way to manage your wireless network from different locations, it also increases the security risk. If not required, disable the ability to avoid potential hackers from accessing your home network.     
+Milestone Alert!
+Livemint tops charts as the fastest growing news website in the world 🌏 Click here  to know more.
+
+ 3.6 Crore Indians visited in a single day choosing us as India's undisputed platform for General Election Results. Explore the latest updates  here!
+
+
+
+
+    		Catch all theBusiness News, Technology News,Breaking NewsEvents andLatest News Updates on Live Mint. Download TheMint News App to get Daily Market Updates
+    
+More
+Less
+ 
+		Published: 11 Jun 2023, 07:02 PM IST
+	
+Topics You May Be Interested In 
+
+
+
+ wifi
+
+
+ wifi security
+
+
+ tips to keep wifi secure
+
+
+ how to keep wifi secure
+
+
+ how to keep home wifi secure
+
+
+ wpa2
+
+
+ wpa3
+
+
+ wifi router
+
+
+
+
+
+
+
+
+
+
+
+
+ Disabling your router when you leave home ensures that your WiFi network is safe in your absence, thus giving you a peace of mind. 7. Regularly update the router’s firmwareTo do so, visit the manufacturer's website and download the firmware update file. Next step will be to install the update directly to your wireless router.  8. Disable remote accessWhile remote access is a convenient way to manage your wireless network from different locations, it also increases the security risk. If not required, disable the ability to avoid potential hackers from accessing your home network.     
+Milestone Alert!
+Livemint tops charts as the fastest growing news website in the world 🌏 Click here  to know more.
+
+ 3.6 Crore Indians visited in a single day choosing us as India's undisputed platform for General Election Results. Explore the latest updates  here!
+
+
+
+
+    		Catch all theBusiness News, Technology News,Breaking NewsEvents andLatest News Updates on Live Mint. Download TheMint News App to get Daily Market Updates
+    
+More
+Less
+ 
+		Published: 11 Jun 2023, 07:02 PM IST
+	
+Topics You May Be Interested In 
+
+
+
+ wifi
+
+
+ wifi security
+
+
+ tips to keep wifi secure
+
+
+ how to keep wifi secure
+
+
+ how to keep home wifi secure
+
+
+ wpa2
+
+
+ wpa3
+
+
+ wifi router
+
+
+
+
+
+
+
+
+
+
+
+
+ To do so, visit the manufacturer's website and download the firmware update file. Next step will be to install the update directly to your wireless router.  8. Disable remote accessWhile remote access is a convenient way to manage your wireless network from different locations, it also increases the security risk. If not required, disable the ability to avoid potential hackers from accessing your home network.     
+Milestone Alert!
+Livemint tops charts as the fastest growing news website in the world 🌏 Click here  to know more.
+
+ 3.6 Crore Indians visited in a single day choosing us as India's undisputed platform for General Election Results. Explore the latest updates  here!
+
+
+
+
+    		Catch all theBusiness News, Technology News,Breaking NewsEvents andLatest News Updates on Live Mint. Download TheMint News App to get Daily Market Updates
+    
+More
+Less
+ 
+		Published: 11 Jun 2023, 07:02 PM IST
+	
+Topics You May Be Interested In 
+
+
+
+ wifi
+
+
+ wifi security
+
+
+ tips to keep wifi secure
+
+
+ how to keep wifi secure
+
+
+ how to keep home wifi secure
+
+
+ wpa2
+
+
+ wpa3
+
+
+ wifi router
+
+
+
+
+
+
+
+
+
+
+
+
+ While remote access is a convenient way to manage your wireless network from different locations, it also increases the security risk. If not required, disable the ability to avoid potential hackers from accessing your home network.     Milestone Alert!
+Livemint tops charts as the fastest growing news website in the world 🌏 Click here  to know more.
+  3.6 Crore Indians visited in a single day choosing us as India's undisputed platform for General Election Results. Explore the latest updates  here!
+ Download the Mint app and read premium stories Log in to our website to save your bookmarks. It'll just take a moment. You are just one step away from creating your watchlist! Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image. Your session has expired, please login again. You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder. This is a subscriber only feature Subscribe Now to get daily updates on WhatsApp

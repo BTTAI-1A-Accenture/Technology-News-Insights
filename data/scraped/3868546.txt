@@ -1,0 +1,272 @@
+Armed with some data from our friends at CrunchBase, I broke down the largest NYC Startup funding rounds in New York for full year 2022. I have included some additional information such as industry, description, round type, and total equity funding raised to further the analysis of the state of venture capital in NYC. The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Chief is a private membership network focused on connecting and supporting women executive leaders. Founded by Carolyn Childers and Lindsay Kaplan in 2019, Chief has now raised a total of $140.0M in total equity funding and is backed by General Catalyst, Accel, BoxGroup, Primary Venture Partners, and GGV Capital.
+Investors in the round: BoxGroup, CapitalG, Flybridge, General Catalyst, GGV Capital, Inspired Capital Partners, Primary Venture Partners
+Month of Funding: March
+Industry: Communities, Professional Networking, Social Network, Women’s
+Founders: Carolyn Childers, Lindsay Kaplan
+Founding year: 2019
+Total equity funding raised: $140.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series C
+Description: Hugging Face allows users to build, train, and deploy art models using the reference open source in machine learning. Founded by Clement Delangue, Julien Chaumond, and Thomas Wolf in 2016, Hugging Face has now raised a total of $160.2M in total equity funding and is backed by Sequoia Capital, Betaworks, Coatue, Lux Capital, and SV Angel.
+Investors in the round: A.Capital Ventures, Addition, AIX Ventures, Betaworks, Coatue, Kevin Durant, Lux Capital, Olivier Pomel, Rich Kleiman, Sequoia Capital, SV Angel, Thirty Five Ventures
+Month of Funding: May
+Industry: Artificial Intelligence, Machine Learning, Natural Language Processing, Open Source, Software
+Founders: Clement Delangue, Julien Chaumond, Thomas Wolf
+Founding year: 2016
+Total equity funding raised: $160.2M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series D
+Description: Overtime is a sports network that produces several sports-focused series and short-form content for the next generation of sports fans. Founded by Dan Porter and Zachary Weiner in 2016, Overtime has now raised a total of $215.0M in total equity funding and is backed by Techstars, Andreessen Horowitz, Gaingels, 645 Ventures, and Edward Lando.
+Investors in the round: Bezos Expeditions, Blackstone Group, Counterpoint Global, Liberty Media, Sapphire Sport, Winslow Capital
+Month of Funding: August
+Industry: Digital Media, Fantasy Sports, Predictive Analytics, Sports
+Founders: Dan Porter, Zachary Weiner
+Founding year: 2016
+Total equity funding raised: $215.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series C
+Description: Unit helps tech companies build financial features into their products. Founded by Doron Somech and Itai Damti in 2019, Unit has now raised a total of $169.6M in total equity funding and is backed by Accel, Insight Partners, Moving Capital, Operator Partners, and Aleph.
+Investors in the round: Accel, Aleph, Better Tomorrow Ventures, Flourish Ventures, Insight Partners, Moving Capital, StepStone Group
+Month of Funding: May
+Industry: Banking, Finance, Financial Services, FinTech
+Founders: Doron Somech, Itai Damti
+Founding year: 2019
+Total equity funding raised: $169.6M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Altana is an AI partnership that uses global economic data to make trade safer, more efficient, and more profitable. Founded by Evan Smith, Peter Swartz, and Raphael Tehranian in 2018, Altana AI has now raised a total of $122.0M in total equity funding and is backed by Floating Point Group, GV, AlleyCorp, OMERS Ventures, and Amadeus Capital Partners.
+Investors in the round: Activate Capital Partners, Amadeus Capital Partners, Floating Point Group, Four More Capital, GV, OMERS Ventures, Page One Ventures, Prologis Ventures, Reefknot Investments, Ridgeline
+Month of Funding: October
+Industry: Artificial Intelligence, Data Integration, Logistics, Machine Learning, Software
+Founders: Evan Smith, Peter Swartz, Raphael Tehranian
+Founding year: 2018
+Total equity funding raised: $122.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series C
+Description: Beyond Identity provides passwordless identity management solutions to help secure digital business. Founded by James Clark and Thomas Jermoluk in 2020, Beyond Identity has now raised a total of $205.0M in total equity funding and is backed by New Enterprise Associates, Koch Disruptive Technologies, Evolution Equity Partners, Potentum partners, and Expanding Capital.
+Investors in the round: Evolution Equity Partners, Expanding Capital, H. Barton Asset Management, James Clark, New Enterprise Associates, Potentum partners
+Month of Funding: February
+Industry: Cyber Security, Identity Management, Network Security, Software
+Founders: James Clark, Thomas Jermoluk
+Founding year: 2020
+Total equity funding raised: $205.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Venture
+Description: Nomad Health is an online staffing marketplace that connects clinicians to healthcare jobs. Founded by Alexi Nazem, Kevin Ryan, Maxwell Laurens, Ryan Grant, and Zander Pease in 2015, Nomad Health has now raised a total of $218.0M in total equity funding and is backed by JP Morgan, Silicon Valley Bank, Trinity Capital, AlleyCorp, and Adams Street Partners.
+Investors in the round: .406 Ventures, Adams Street Partners, AlleyCorp, HealthQuest Capital, Icon Ventures, JP Morgan, Polaris Partners, RRE Ventures, Trinity Capital
+Month of Funding: June
+Industry: Health Care, Human Resources, Marketplace, Recruiting
+Founders: Alexi Nazem, Kevin Ryan, Maxwell Laurens, Ryan Grant, Zander Pease
+Founding year: 2015
+Total equity funding raised: $218.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Talos is an end-to-end crypto trading platform that provides digital asset trading technology for lenders, brokers, and investors. Founded by Anton Katz and Ethan Feldman in 2018, Talos has now raised a total of $145.0M in total equity funding and is backed by Voyager, Citi, Andreessen Horowitz, BNY Mellon, and Galaxy Digital.
+Investors in the round: Andreessen Horowitz, BNY Mellon, Castle Island Ventures, Citi, CVC Capital Partners, DRW, Fidelity, Fin Capital, General Atlantic, Graticule Asset Management Asia, Illuminate Financial, Initialized Capital, LeadBlock Partners, Matrix Capital Management, Notation Capital, PayPal Ventures, SCB 10X, Stripes, Voyager, Wells Fargo Strategic Capital
+Month of Funding: May
+Industry: Cryptocurrency, Financial Services, FinTech, Trading Platform
+Founders: Anton Katz, Ethan Feldman
+Founding year: 2018
+Total equity funding raised: $145.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series C
+Description: Capital Rx is a healthtech platform that provides pharmacy benefit management solutions. Founded by AJ Loiacono, Joseph Alexander, and Ryan Kelly in 2017, Capital Rx has now raised a total of $203.0M in total equity funding and is backed by Alumni Ventures, General Catalyst, Edison Partners, B Capital Group, and Castor Ventures.
+Investors in the round: B Capital Group, Edison Partners, General Catalyst, Transformation Capital
+Month of Funding: June
+Industry: Health Care, Medical, Pharmaceutical
+Founders: AJ Loiacono, Joseph Alexander, Ryan Kelly
+Founding year: 2017
+Total equity funding raised: $203.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Magic Spoon is a food company that provides childlike, low-carbohydrate cereal foods for adult customers. Founded by Gabi Lewis and Greg Sewitz in 2019, Magic Spoon has now raised a total of $120.8M in total equity funding and is backed by Ben Lugavere, Lightspeed Venture Partners, Collaborative Fund, Coefficient Capital, and Siddhi Capital.
+Investors in the round: Amy Schumer, Ashley Frangipane, Capital Constellation, Carter Comstock, Coefficient Capital, HighPost Capital, Nasir Jones, Nick Jonas, Odell Beckham Jr., Russell Westbrook, Shakira Mebarak, Siddhi Capital, The Chainsmokers
+Month of Funding: June
+Industry: Food and Beverage, Food Processing, Sales, Snack Food
+Founders: Gabi Lewis, Greg Sewitz
+Founding year: 2019
+Total equity funding raised: $120.8M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series D
+Description: VidMob is a video content creation network and platform where brands can create digital video ads with expert teams. Founded by Alex Collmer, Craig Coblenz, and Jason Donnell in 2014, VidMob has now raised a total of $231.6M in total equity funding and is backed by BuildGroup, Foundation Capital, Shamrock Capital Advisors, The Spruce House Partnership, and PROOF Fund.
+Investors in the round: Drive by DraftKings, eGateway Capital, ID Fund, PROOF Fund, Shamrock Capital Advisors
+Month of Funding: August
+Industry: Advertising Platforms, Cloud Data Services, SaaS, Social Media Advertising, Video
+Founders: Alex Collmer, Craig Coblenz, Jason Donnell
+Founding year: 2014
+Total equity funding raised: $231.6M
+AlleyWatch’s exclusive coverage of this round: VidMob Raises Another $110M for its Intelligent Creative Management Platform The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series D
+Description: Capitolis is a technology provider addressing capital market constraints in equities and foreign exchange. Founded by Gil Mandelzis, Igor Teleshevsky, and Thomas Glocer in 2017, Capitolis has now raised a total of $281.8M in total equity funding and is backed by Citi, Andreessen Horowitz, Sequoia Capital, JP Morgan, and Index Ventures.
+Investors in the round: 9Yards Capital, Andreessen Horowitz, Canapi Ventures, Citi, Index Ventures, JP Morgan, S Capital, Sequoia Capital, Spark Capital, State Street, SVB Capital
+Month of Funding: March
+Industry: Banking, Collaboration, Finance, Financial Services
+Founders: Gil Mandelzis, Igor Teleshevsky, Thomas Glocer
+Founding year: 2017
+Total equity funding raised: $281.8M
+AlleyWatch’s exclusive coverage of this round: Capitolis Raises $110M for its Capital Markets Marketplace and Optimization Platform The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series C
+Description: TimescaleDB is an open-source time-series database optimized for fast ingest and complex queries. Founded by Ajay Kulkarni and Michael Freedman in 2015, Timescale has now raised a total of $181.1M in total equity funding and is backed by Tiger Global Management, New Enterprise Associates, Two Sigma Ventures, Icon Ventures, and Redpoint.
+Investors in the round: Benchmark, Icon Ventures, New Enterprise Associates, Redpoint, Tiger Global Management, Two Sigma Ventures
+Month of Funding: February
+Industry: Computer, Database, Information Services, Software
+Founders: Ajay Kulkarni, Michael Freedman
+Founding year: 2015
+Total equity funding raised: $181.1M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series E
+Description: Lukka is a software company that delivers middle and back-office solutions for the crypto-asset ecosystem. Founded by Jake Benson in 2014, Lukka has now raised a total of $201.3M in total equity funding and is backed by Boost VC, Marshall Wace, Fenbushi Capital, State Street, and Hard Yaka.
+Investors in the round: CPA.com, Liberty City Ventures, Marshall Wace, Miami International Holdings, S&P Global Inc., SiriusPoint, Soros Fund Management, Summer Capital
+Month of Funding: January
+Industry: Bitcoin, Blockchain, Cryptocurrency, FinTech, Software
+Founders: Jake Benson
+Founding year: 2014
+Total equity funding raised: $201.3M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series E
+Description: Policygenius is an online insurance tech company that specializes in providing life, home, and auto insurance. Founded by Francois de Lame and Jennifer Fitzgerald in 2014, Policygenius has now raised a total of $276.1M in total equity funding and is backed by Norwest Venture Partners, Global Atlantic, Susa Ventures, Kohlberg Kravis Roberts, and MassMutual.
+Investors in the round: AXA Venture Partners, Brighthouse Financial, Global Atlantic, iA Financial Group, Kohlberg Kravis Roberts, Lincoln Financial Group, MassMutual Ventures, Norwest Venture Partners, Pacific Life, Revolution Ventures
+Month of Funding: March
+Industry: Finance, Financial Services, FinTech, Insurance, InsurTech, Marketplace
+Founders: Francois de Lame, Jennifer Fitzgerald
+Founding year: 2014
+Total equity funding raised: $276.1M
+AlleyWatch’s exclusive coverage of this round: Policygenius Raises Another $125M for its End-to-End Online Insurance Marketplace The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series E
+Description: VTS is a real estate CRM software company bringing together landlords, brokers, and tenants to make deals happen. Founded by Brandon Weber, Donald DeSantis, Karl Baum, Niall Smart, Nicholas Romito, and Ryan Masiello in 2012, VTS has now raised a total of $312.4M in total equity funding and is backed by 500 Global, Insight Partners, CBRE Group, Fifth Wall, and Bessemer Venture Partners.
+Investors in the round: AmTrust Financial Services, BentallGreenOak, Brookfield Growth, CBRE Group, Insight Partners
+Month of Funding: September
+Industry: Asset Management, Commercial Real Estate, Enterprise Software, Leasing, Professional Services, Real Estate, SaaS, Software
+Founders: Brandon Weber, Donald DeSantis, Karl Baum, Niall Smart, Nicholas Romito, Ryan Masiello
+Founding year: 2012
+Total equity funding raised: $312.4M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Esusu is a financial technology platform that leverages data solutions to help residents and improve property performance. Founded by Abbey Wemimo, Jeph Acheampong, Robert Henning, and Samir Goel in 2016, Esusu Financial has now raised a total of $145.0M in total equity funding and is backed by Plug and Play, Impact America Fund, Katapult, Serena Ventures, and Acumen.
+Investors in the round: Concrete Rose Capital, Impact America Fund, Jones Feliciano Family Office, Lauder Zinterhofer Family Office, Motley Fool Ventures, Next Play Ventures, Related, SB Opportunity Fund, Schusterman Foundation, Serena Ventures, Sinai Ventures, SoftBank Vision Fund, The Equity Alliance, True Capital Management, Type One Ventures, Wilshire Lane Partners
+Month of Funding: January
+Industry: Credit, Financial Services, FinTech
+Founders: Abbey Wemimo, Jeph Acheampong, Robert Henning, Samir Goel
+Founding year: 2016
+Total equity funding raised: $145.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series D
+Description: Alma is a membership-based network for mental health care providers. Founded by Harry Ritter in 2018, Alma has now raised a total of $220.5M in total equity funding and is backed by Insight Partners, BoxGroup, Primary Venture Partners, Tusk Venture Partners, and Optum Ventures.
+Investors in the round: Cigna Ventures, Insight Partners, Optum Ventures, Primary Venture Partners, Sound Ventures, Thoma Bravo, Tusk Venture Partners
+Month of Funding: August
+Industry: Health Care, Medical, Wellness
+Founders: Harry Ritter
+Founding year: 2018
+Total equity funding raised: $220.5M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series A
+Description: Opto Investments allows independent investment advisors to access private market investments. Founded by Jacob Miller, Joe Lonsdale, Mark Machin, Matt Reed, and Patrick Weiss in 2020, Opto Investments has now raised a total of $145.0M in total equity funding and is backed by Tiger Global Management, Fin Capital, 8VC, HOF Capital, and Clocktower Technology Ventures.
+Investors in the round: 8VC, Clocktower Technology Ventures, CPP Investment Board Europe, Fin Capital, HOF Capital, MSD Capital, Tiger Global Management
+Month of Funding: September
+Industry: Advice, Asset Management, FinTech
+Founders: Jacob Miller, Joe Lonsdale, Mark Machin, Matt Reed, Patrick Weiss
+Founding year: 2020
+Total equity funding raised: $145.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Optimism is an Ethereum-based decentralized infrastructure platform that allows for instant transactions and scalable smart contracts. Founded by Jinglan Wang, Karl Floersch, and Kevin Ho in 2019, Optimism has now raised a total of $178.5M in total equity funding and is backed by Andreessen Horowitz, Alchemy, Wintermute Trading, IDEO CoLab Ventures, and Nascent.
+Investors in the round: Alchemy, Andreessen Horowitz, Nascent, Paradigm, Wintermute Trading
+Month of Funding: March
+Industry: Blockchain, Cryptocurrency, Ethereum, FinTech
+Founders: Jinglan Wang, Karl Floersch, Kevin Ho
+Founding year: 2019
+Total equity funding raised: $178.5M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Venture
+Description: Ro is a telehealth startup that operates digital health clinics for men’s and women’s health, along with smoking cessation. Founded by Rachel Blank, Rob Schutz, Saman Rahmanian, and Zachariah Reitano in 2017, Ro has now raised a total of $1.0B in total equity funding and is backed by General Catalyst, Gaingels, Tusk Venture Partners, BoxGroup, and Synetro Group.
+Investors in the round: Altimeter Capital, BoxGroup, FirstMark, General Catalyst, Initialized Capital, Seven Seven Six, ShawSpring Partners, SignalFire, TCG, The Baupost Group, TQ Ventures
+Month of Funding: February
+Industry: Health Care, Health Diagnostics, Hospital, mHealth, Wellness
+Founders: Rachel Blank, Rob Schutz, Saman Rahmanian, Zachariah Reitano
+Founding year: 2017
+Total equity funding raised: $1.0B The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Bilt Rewards offers a rewards program that allows renters to earn points on rent and create a path towards homeownership. Founded by Ankur Jain in 2021, Bilt Rewards has now raised a total of $213.3M in total equity funding and is backed by GREYSTAR, Fifth Wall, Mastercard, Prosus Ventures, and Wells Fargo & Company.
+Investors in the round: Camber Creek, Fifth Wall, GREYSTAR, Invitation Homes, Kairos HQ, Left Lane Capital, Prosus Ventures, Smash Capital, Wells Fargo & Company
+Month of Funding: October
+Industry: FinTech, Loyalty Programs, Real Estate, Rental Property
+Founders: Ankur Jain
+Founding year: 2021
+Total equity funding raised: $213.3M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Clear Street builds modern infrastructure for capital markets. Founded by Chris Pento, Sachin Kumar, and Uriel Cohen in 2018, Clear Street has now raised a total of $200.0M in total equity funding and is backed by NEAR Foundation, Illia Polosukhin, NextGen Venture Partners, Prysm Capital, and Walleye Capital.
+Investors in the round: Alastair Trueger, Belvedere Capital Partners, Illia Polosukhin, McLaren Strategic Ventures, Moses Lo, NEAR Foundation, NextGen Venture Partners, Prysm Capital, Validus Growth Investors, Walleye Capital
+Month of Funding: May
+Industry: Cloud Infrastructure, Financial Services, FinTech
+Founders: Chris Pento, Sachin Kumar, Uriel Cohen
+Founding year: 2018
+Total equity funding raised: $200.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series B
+Description: Uniswap is a decentralized exchange platform operating on the Ethereum blockchain. Founded by Hayden Adams in 2018, Uniswap has now raised a total of $176.0M in total equity funding and is backed by Andreessen Horowitz, Polychain, SV Angel, Version One Ventures, and Variant.
+Investors in the round: a16z crypto, Paradigm, Polychain, SV Angel, Variant
+Month of Funding: October
+Industry: Blockchain, Cryptocurrency, Ethereum, Financial Services, FinTech
+Founders: Hayden Adams
+Founding year: 2018
+Total equity funding raised: $176.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series F
+Description: OpenWeb partners with publishers and brands to build audience relationships. Founded by Ishay Green, Nadav Shoval, and Roee Goldberg in 2015, OpenWeb has now raised a total of $393.0M in total equity funding and is backed by Insight Partners, The New York Times, Samsung NEXT, Georgian, and Scott Galloway.
+Investors in the round: Georgian
+Month of Funding: October
+Industry: Internet, Machine Learning, Online Forums, Publishing, Social
+Founders: Ishay Green, Nadav Shoval, Roee Goldberg
+Founding year: 2015
+Total equity funding raised: $393.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series F
+Description: Chainalysis provides blockchain data and analysis to governments, banks, and businesses worldwide. Founded by Jan Moller, Jonathan Levin, and Michael Gronager in 2014, Chainalysis has now raised a total of $536.6M in total equity funding and is backed by Techstars, Digital Currency Group, BNY Mellon, Accel, and Coatue.
+Investors in the round: Accel, Blackstone Group, BNY Mellon, Dragoneer Investment Group, Emergence Capital, FundersClub, GIC
+Month of Funding: May
+Industry: Analytics, Blockchain, Cryptocurrency, FinTech, Software
+Founders: Jan Moller, Jonathan Levin, Michael Gronager
+Founding year: 2014
+Total equity funding raised: $536.6M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series C
+Description: Jeeves is a fintech company that focuses on expense management and payments. Founded by Dileep Thazhmon and Sherwin Gandhi in 2019, Jeeves has now raised a total of $268.0M in total equity funding and is backed by Tencent, Andreessen Horowitz, BlockFi, Gaingels, and Alumni Ventures.
+Investors in the round: AltaIR Capital, Alumni Ventures, Andreessen Horowitz, Carlo Enrico, Clocktower Technology Ventures, CRV, Financial Technology Partners, Gaingels, GIC, Haven Ventures, Silicon Valley Bank, Spike Ventures, Stanford University, Tencent, Urban Innovation Fund
+Month of Funding: March
+Industry: Banking, Credit Cards, Financial Services, FinTech, Payments
+Founders: Dileep Thazhmon, Sherwin Gandhi
+Founding year: 2019
+Total equity funding raised: $268.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series E
+Description: Axonius is an asset inventory management platform that focuses on cybersecurity solutions and policies. Founded by Avidor Bartov, Dean Sysman, and Ofri Shur in 2017, Axonius has now raised a total of $395.0M in total equity funding and is backed by Accel, Lightspeed Venture Partners, Bessemer Venture Partners, Vertex Ventures, and Western Technology Investment.
+Investors in the round: Accel, Alkeon Capital, Alta Park Capital, Bessemer Venture Partners, DTCP, ICONIQ Growth, Lightspeed Venture Partners, Owl Rock Capital, Silver Lake Waterman, Stripes
+Month of Funding: March
+Industry: Asset Management, Cloud Security, Cyber Security, Information Technology, Network Security
+Founders: Avidor Bartov, Dean Sysman, Ofri Shur
+Founding year: 2017
+Total equity funding raised: $395.0M
+AlleyWatch’s exclusive coverage of this round: Axonius Nabs Another $200M at a $2.6B Valuation The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series F
+Description: Dataiku operates as an enterprise artificial intelligence and machine-learning platform. Founded by Clement Stenac, Florian Douetteau, Marc Batty, and Thomas Cabrol in 2013, Dataiku has now raised a total of $846.8M in total equity funding and is backed by Eurazeo, Insight Partners, Tiger Global Management, Wellington Management, and Alven.
+Investors in the round: Eurazeo, Insight Partners, Olivier Pomel, Wellington Management
+Month of Funding: December
+Industry: Analytics, Artificial Intelligence, Big Data, Data Integration, Enterprise Software
+Founders: Clement Stenac, Florian Douetteau, Marc Batty, Thomas Cabrol
+Founding year: 2013
+Total equity funding raised: $846.8M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series C
+Description: Cleerly is a digital healthcare company that offers heart disease diagnosis solutions. Founded by James K. Min in 2017, Cleerly has now raised a total of $280.5M in total equity funding and is backed by Novartis, Fidelity Management and Research Company, Presight Capital, T. Rowe Price, and Breyer Capital.
+Investors in the round: Breyer Capital, Cigna Ventures, DigiTx Partners, Fidelity Management and Research Company, LRVHealth, Mirae Asset Capital, New Leaf Ventures, Novartis, Peter Thiel, Piper Heartland Healthcare Capital, Presight Capital, Sands Capital Ventures, T. Rowe Price, Vensana Capital
+Month of Funding: July
+Industry: Apps, Artificial Intelligence, Health Care, Medical, Wellness
+Founders: James K. Min
+Founding year: 2017
+Total equity funding raised: $280.5M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series D
+Description: AlphaSense is a market intelligence platform that uses artificial intelligence allowing professionals to make critical decisions. Founded by Jack Kokko and Raj Neervannan in 2011, AlphaSense has now raised a total of $490.0M in total equity funding and is backed by Citi, Bank of America, BlackRock, Cowen Group, and Viking Global Investors.
+Investors in the round: Goldman Sachs Asset Management, Viking Global Investors
+Month of Funding: June
+Industry: Analytics, Artificial Intelligence, Machine Learning, SaaS, Search Engine
+Founders: Jack Kokko, Raj Neervannan
+Founding year: 2011
+Total equity funding raised: $490.0M
+AlleyWatch’s exclusive coverage of this round:  The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series D
+Description: Kallyope is a biotechnology company dedicated to unlocking the therapeutic potential of the gut-brain axis. Founded by Charles Zuker, Richard Axel, and Tom Maniatis in 2015, Kallyope has now raised a total of $479.0M in total equity funding and is backed by Mubadala, Alexandria Venture Investments, Lux Capital, The Column Group, and Two Sigma Ventures.
+Investors in the round: Alexandria Venture Investments, Bill Gates, Casdin Capital, DNS Capital, Euclidean Capital, Hartford HealthCare Endowment, Illumina Ventures, Lux Capital, Mubadala, Parkwood, Polaris Partners, StepStone Group, Tao Capital Partners, The Column Group, Two Sigma Ventures
+Month of Funding: February
+Industry: Biotechnology, Health Care, Medical, Pharmaceutical
+Founders: Charles Zuker, Richard Axel, Tom Maniatis
+Founding year: 2015
+Total equity funding raised: $479.0M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series E
+Description: SeatGeek operates a mobile-focused ticket platform and search engine that lets fans buy and sell tickets for events. Founded by Eric Waller, Jack Groetzinger, and Russell D’Souza in 2009, SeatGeek has now raised a total of $400.1M in total equity funding and is backed by Accel, Wellington Management, FJ Labs, Stanford University, and TCV.
+Investors in the round: Accel, Arctos Sports Partners, Ryan Smith, Wellington Management
+Month of Funding: August
+Industry: Ediscovery, Events, Search Engine, Sports, Ticketing
+Founders: Eric Waller, Jack Groetzinger, Russell D’Souza
+Founding year: 2009
+Total equity funding raised: $400.1M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series D
+Description: Grafana Labs is an open source software platform built to support monitoring, visualization, and metric analytics. Founded by Anthony Woods, Raj Dutt, and Torkel Odegaard in 2014, Grafana Labs has now raised a total of $535.2M in total equity funding and is backed by Sequoia Capital, Lightspeed Venture Partners, JP Morgan, Crew Capital, and Coatue.
+Investors in the round: Coatue, GIC, JP Morgan, Lead Edge Capital, Lightspeed Venture Partners, Sequoia Capital
+Month of Funding: April
+Industry: Analytics, Cloud Data Services, Data Visualization, Open Source, Software
+Founders: Anthony Woods, Raj Dutt, Torkel Odegaard
+Founding year: 2014
+Total equity funding raised: $535.2M
+AlleyWatch’s exclusive coverage of this round: Grafana Labs Raises Another $240M for its Modern Observability and Monitoring Platform The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series D
+Description: BlueVoyant is a cybersecurity company that offers an end-to-end internal and external cyber defense platform for enterprises. Founded by Jim Rosenthal and Thomas Glocer in 2017, BlueVoyant has now raised a total of $525.5M in total equity funding and is backed by Temasek Holdings, 8VC, Fiserv, J.A.S Ventures, and Eden Global Partners.
+Investors in the round: 8VC, Eden Global Partners, ISTARI, J.A.S Ventures, Liberty Strategic Capital
+Month of Funding: February
+Industry: Cyber Security, Network Security, Security, Software
+Founders: Jim Rosenthal, Thomas Glocer
+Founding year: 2017
+Total equity funding raised: $525.5M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale.  Round: Series C
+Description: OpenSea is an NFT marketplace that enables users to discover, collect, and sell blockchain-based digital assets. Founded by Alex Atallah and Catherine Sison-Parino in 2017, OpenSea has now raised a total of $427.2M in total equity funding and is backed by Animoca Brands, Blockchain Capital, Andreessen Horowitz, Republic, and Y Combinator.
+Investors in the round: Bossanova Investimentos, Coatue, Kathryn Haun, Paradigm, Seth Weinstein
+Month of Funding: January
+Industry: Bitcoin, Blockchain, Cryptocurrency, E-Commerce, Marketplace
+Founders: Alex Atallah, Catherine Sison-Parino
+Founding year: 2017
+Total equity funding raised: $427.2M The AlleyWatch audience is driving progress and innovation on a global scale. With its regional media properties, AlleyWatch serves as the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including developing prominent brand placement, driving demand generation, and building thought leadership among the vast majority of key decision-makers in the New York business community and beyond. Learn more about advertising to NYC Tech at scale. ABOUT US
+ADVERTISE
+EDITORIAL GUIDELINES
+LEGAL
+PRIVACY
+TERMS OF USE CONTACT US
+ADVERTISE
+TIPS
+WRITE FOR US NYC VC
+NYC TECH EVENTS
+NYC TECH NEWS
+NYC STARTUPS
+NYC COWORKING
+TECH DIRECTORY  © 2023 AlleyWatch | All Rights Reserved | Proudly Made for NYC  © 2023 AlleyWatch | All Rights Reserved | Proudly Made for NYC Join the millions and keep up with the stories shaping entrepreneurship. Sign up today. 

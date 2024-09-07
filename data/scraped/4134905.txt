@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.northwestgeorgianews.com/catoosa_walker_news/news/education/gntc-propels-student-toward-career-in-aviation/article_10799562-1f2e-11ee-9f10-53acb43d819f.html

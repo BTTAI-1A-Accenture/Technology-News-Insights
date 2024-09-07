@@ -1,0 +1,101 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Why Trust Tech Report 
+
+
+
+ Tech Report is one of the oldest hardware, news, and tech review sites on the internet. We write helpful technology guides, unbiased product reviews, and report on the latest tech and crypto news. We maintain editorial independence and consider content quality and factual accuracy to be non-negotiable.
+  The global crypto market has consolidated its gains in the last few days. At 8:42 am EST on September 15, the market cap is $1.09 trillion. Also, the Fear and Greed Index is 45, showing fear in the crypto market. But the sentiment might shift in the coming days due to improvements in the market.  One of the factors driving the gains in the crypto market is BTC’s recovery. Bitcoin trades above $26,000 today after struggling to stay above $25,000 last week. The positive market outlook has led to a rally among altcoins, with impressive gains placing them on the list of top gainers today.  Furthermore, today’s leading assets show signs of continuing the trend driven by increased trading activity and positive investor sentiments.  Find them below.  
+
+
+
+
+
+
+
+ AXS is among the top gainers on September 15, and its price at 8:52 am EST is $4.73. Although it is down now after recording impressive price movements earlier today, its price gain in seven days is still positive at 5.0%.   One of the factors pushing Axie Infinity’s ecosystem to thrive is its Web3 gaming activities. In a recent development, one game developer, Nixtape, with over 54,000 followers, discussed effective methods for getting people to play Web3 games.  Yes there’s FB ads, SEO, TikTok, spaces, PR, and a lot more marketing tactics that are effective for getting people to play your web3 game. One thing that’s magical tho, is manually onboarding players to your game. A lot less sexier, but gets the job done. 🤝 Go on the ground… pic.twitter.com/5NJLxKDW4d — nix.ron 🈺 (@nixeniego) September 14, 2023  According to Nixtape, while there are Facebook ads, TikTok, and SEO to attract gamers to Web3 gaming, manual onboarding is still crucial. The developer advised others to visit physical locations and get gamers to test their games.  Once they try it, proper onboarding follows, and developers can build their community from the first gamers. The games hosted in the Axie Infinity ecosystem will likely drive more users to explore the platform and positively influence AXS’s price.  Also, Axie sent out an invite for the upcoming Axie Game Jam 2023 for all Indie game developers. Five winners will share the prize pool of $20,500, and the event will run for two weeks. The Axie Game Jam will start on October 15 and is the first edition of the event and likely to attract multiple users to the gaming ecosystem.  On October 15th, we’re launching the first-ever Axie Game Jam. This will be an Axie game-making marathon for solo indie developers and teams – beginners and experienced builders alike. Compete for a whopping total of $20,500 in prizes and earn recognition for your work! — Sky Mavis (@SkyMavisHQ) September 15, 2023  According to the developers, the event will proceed in four phases: registration, submission, voting, and results announcement. The registration will commence today, September 15, to October 14, and updates will be sent to all participants. The submission phase will run between October 15 – 29, and the developers will announce the Axie Game Jam theme; and this theme must inspire games for a chance to win. The voting phase will occur between October 29 – November 5, when players will test and vote for their favorite games.  Final Winner Announcement – about one week after the Voting period ends Sky Mavis will announce the winners of the Axie Game Jam, and the winners will have an opportunity to discuss future partnerships with Sky Mavis beyond the competition. — Sky Mavis (@SkyMavisHQ) September 15, 2023  The final winner will be announced one week after voting concludes, and the winners will have the opportunity to discuss future partnerships. These exciting developments likely resulted in the price surge for AXS on the daily chart, although it faces resistance from bears.  
+
+
+
+
+
+
+
+ AXS buyers rallied between September 12 and 14, forming three consecutive green candles, but face resistance at the $4.78 price level. Even though the upper wick of today’s candle has crossed the resistance level, the sellers continue to force a price decline.  Notably, AXS trades below its 50-day and 200-day Simple Moving Average (SMA), hinting at a possible decline ahead for the asset. Also, it found support at $4.59 but could drop below it if traders open more short positions.  Furthermore, the Relative Strength Index (RSI) is in the neutral zone with a value of 50.11 and moving sideways. It implies that the price trend is uncertain. As such, traders must watch out for the close of today’s candle to make their next decisions.  But despite the bearish sentiments today, the Moving Average Convergence/Divergence (MACD) indicator is above its signal line. Also, the green Histogram bars suggest that the buyers are still active for the asset.  AXS will likely retrace in the next few hours before resuming its uptrend in the coming days if the buyers continue to accumulate the tokens.  
+
+
+
+
+
+
+
+At 9:00 am EST on September 15, BCH trades at $212.9, representing a 5.6% increase in the last 24 hours. Also, the asset has shown impressive price gains of 12.2% in the last seven days, confirming the presence of buyers. Bitcoin Cash developers released a weekly news update for their ecosystem on September 11. This latest development might have attracted more interest and participation in the blockchain.  #BitcoinCash Weekly News September 11 2023 by the Bitcoin Cash Foundation #BCHhttps://t.co/gbLahsrXEQ — Bitcoin Cash Foundation (@BCHF_ORG) September 11, 2023  One of the updates was the video tutorials made available by Paytaca Wallet for Bitcoin Cash users to know how to send and receive their BCH tokens.  Also, General Protocol, the team behind projects like BCHBULL and AnyHedge, expressed public support for an Adaptive block size limit algorithm for Bitcoin Cash.  This proposed upgrade will enable future block sizes to be decided through the algorithm, which will significantly upgrade the network.  Furthermore, a development team, CashScript, that intends to work with BCH CashTokens, sought funding to create reusable libraries. These libraries will allow fast, safe, and more advanced development to begin on CashScript.  These developments are likely driving BCH’s price gains.  
+
+
+
+
+
+
+
+ BCH flipped the $197 resistance, turning it to support, leading to a rally for the token for four consecutive days. Also, the upper wick of BCH’s candle today tests the $226 resistance level and will likely break above it if the buyers continue to open long positions.  Furthermore, the Parabolic SAR indicator has moved below the candles, signaling a continuation of the positive trend for the asset. The RSI hasn’t deviated from the bullish sentiment, as it is rising out of the neutral zone with a value of 58.97 to show increased buying pressure.  Notably, the MACD displays a strong buy signal rising above its signal line, and the green Histogram bars confirm a long-term positive outlook for BCH. BCH will likely continue on its uptrend, driven by an increase in buying pressure and the positive outlook of BTC today.  
+
+
+
+
+
+
+
+ INJ’s price on September 15 is $7.2, at 9:02 am EST, indicating a 4.0% increase in the past 24 hours. Also, it is up by 5.1% in the last seven days, reflecting the positive outlook of the crypto market in the last few days.  Notably, one of the factors driving these gains is that Injective developers announced the launch of their first-ever native .inj domains with SPACE ID today, September 15.  Native .inj domain names are launching shortly 🫧 Here is a handy guide on the .inj pre-registration whitelist, process and rules.https://t.co/2kiPrhjuaN — Injective 🥷 (@injective) September 15, 2023  These domain names will help users establish personalized Web3 identities and short domain names for transactions rather than complex wallet addresses.  Users can easily transact crypto, NFTs, and digital assets with the custom INJ domain. According to the INJ developers, users who competed in their quest have priority to register one. In domain name during the pre-registration.  These users hold OAT badges for completing INJ quests, and the more OATs they own, the more domain names they can secure. However, the maximum bid quota is five domain names for a user. Pre-registered users will receive discounts on these domain names on a first-come-first-serve basis.  This domain name innovation is likely driving more investors to the INJ ecosystem, leading to impressive gains in the past few days. As such, INJ has recorded consecutive gains on the daily price chart as it approaches the $7.3 resistance level.  
+
+
+
+
+
+
+
+ INJ is in an uptrend after four consecutive green days on the daily chart. It found critical support at the $6.8 resistance level, a price pivot for further gains. Also, INJ is rapidly approaching the $7.3 resistance level, and a break above this level will push the asset to record more price gains.  Next, INJ is approaching the upper band of the Donchian Channel (DC) after crossing the Median Band. Also, the RSI is rising out of the neutral zone with a value of 54.59 to approach the overbought zone of 70.  If INJ breaks above the $7.31 resistance, it will act as a buy signal for late buyers to enter long positions ahead of a potential surge to the overbought zone. Additionally, the MACD displays a strong buy signal with the green Histogram bars confirming that the buyers are in control.  INJ will likely build on its price gains if the buyers continue to accumulate the tokens. While AXS, BCH, and INJ record price gains today. Investors can also take advantage of BTCBSC and WSM tokens on presale. These presale tokens will likely increase in value after listing, leading to a price surge.   >>>Visit Bitcoin BSC Presale<<< Bitcoin BSC is a crypto project built on the BNB Smart Chain framework that relies on staking as an eco-friendly alternative to reward its users.  It mirrors the early days of Bitcoin launch, offering investors BTCBSC tokens at $0.99, similar to the price of BTC in April 2011.  https://twitter.com/Bitcoinbsctoken/status/1702668698958397621 BTCBSC is a BEP-20 token gaining momentum in crypto as more investors sign up for its presales.  
+
+
+
+
+
+
+
+ >>>Visit Bitcoin BSC Presale<<< BTCBSC presales are ongoing, with over $2 million raised from the goal of $2.08 million in the first stage. Users can connect their preferred crypto wallets like TrustWallet or MetaMask to the presale page and purchase the tokens at $0.99 each with BNB, USDT, or ETH.  According to the Whitepaper, the initial presale phase will target a soft cap of 4 million BTCBSC tokens. In comparison, the secondary phase will cover an additional 2.125 million tokens to achieve the hard cap.  Also, all unsold tokens after listing will contribute to the Bitcoin BSC staking contract to maintain the fixed supply of 21 million BTCBSC tokens.  BTCBSC relies on staking to reward its users, with 69% of the total supply dedicated to staking. This staking mechanism prevents inflation in the ecosystem and encourages users to hold their tokens.  On September 15, at 11:34 am EST, over 1 million BTCBSC tokens have been staked, showing massive interest from investors. The APY at this timeframe is 258%, which is massive compared to the 5-10% average rate.  Also, BTCBSC has a referral program where users earn 5% from the total purchase made by invitees who join with their referral link.   >>>Visit Wall Street Memes Presale <<< Wall Street Memes is built on equality, with the developers holding no reserved tokens and all community members accessing equal opportunities through staking. WSM’s biggest presale in 2023 ends in just ten days, as the final stage was extended to accommodate several users.  The price for 1 WSM token is $0.0337, and investors can buy it using USDT, ETH, BNB, or make a direct bank card purchase. WSM is ERC-20 compliant, and users can complete their purchase by connecting a secure crypto Wallet to the presale page.  After the presale and WSM’s eventual listing, the race to a $100 billion market cap begins. Based on its acceptance in the crypto community in such a short timeframe, it will likely achieve a market cap of $100 million, quickly rewarding early investors.  
+
+
+
+
+
+
+
+ >>>Visit Wall Street Memes Presale <<< WSM users can use its buy and stake feature to stake their tokens for additional rewards. Thus, the anti-inflation mechanism prevents users from shorting all their tokens immediately after listing, thereby preserving the token’s value.  Over 329 million WSM tokens have been staked today, September 15, at an APY of 61%. Users earn rewards based on the percentage of tokens they commit to the staking pool.  Apart from staking, users can also earn from the Wall St Bulls NFT collection, which houses over 10,000 unique NFTs on the Ethereum blockchain. Wall St Bulls are trading on OpenSea, one of the largest NFT markets in the world, which will likely lead to a surge in their price. Also, users who hold these NFTs can access other free NFT collections in the ecosystem and enjoy additional benefits.  Today’s crypto market is dominated by buyers forcing a rally in Bitcoin’s price, leading to a ripple effect on other altcoins. Also, exciting developments within individual crypto ecosystems help to drive price gains for these tokens.  Presales are gaining more popularity and relevance as they offer investors who missed out on projects like Bitcoin and Ethereum a second chance. However, all traders should note that the crypto market is highly volatile and could deviate from its historical or predicted price.  Therefore, proper research and risk management techniques are vital to avoid rug pulls, low liquidity projects, and survive market volatility.  Nick Dunn holds a Bachelor's in Business Administration, complementing his expertise in the cryptocurrency space with strong writing, communication, leadership, and management skills. As a passionate crypto news writer, he contributes to TechReport and DailyHODL, providing valuable insights to readers and staying ahead in the ever-changing world of cryptocurrencies. 
+
+
+
+
+
+
+
+
+
+
+
+
+  Why Trust Tech Report 
+
+
+
+ Tech Report is one of the oldest hardware, news, and tech review sites on the internet. We write helpful technology guides, unbiased product reviews, and report on the latest tech and crypto news. We maintain editorial independence and consider content quality and factual accuracy to be non-negotiable.
+  After better-than-expected CPI data last week, good news about retail sales and jobs data prompted Goldman Sachs to revise their predicted chances for a US recession in the next 12... Circle CEO Jeremy Allaire hinted at a potential partnership with Apple to enable tap-to-pay functionality with the $USDC stablecoin. This announcement follows Apple’s recent decision to allow third-party developers to... REGULATION & HIGH RISK INVESTMENT WARNING: Trading Forex, CFDs and Cryptocurrencies is highly speculative, carries a level of risk and may not be suitable for all investors. You may lose some or all of your invested capital, therefore you should not speculate with capital that you cannot afford to lose. The content on this site should not be considered investment advice. Investing is speculative. When investing your capital is at risk. Please note that we do receive advertising fees for directing users to open an account with the brokers/advertisers and/or for driving traffic to the advertiser website. Crypto promotions on this site do not comply with the UK Financial Promotions Regime and is not intended for UK consumers. © Copyright 2024 The Tech Report Inc. All Rights Reserved.

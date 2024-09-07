@@ -1,0 +1,35 @@
+ASIC programs can take multiple IC functions and design, manufacture and program a single IC that can do it all. From processing to sensing to memory and power management, a single multi-function ASIC can reduce the demands and lead times in a supply chain. Spirit Electronics’ foundry services now manage the manufacturing, packaging and assembly all under one American supplier. (Graphic: Business Wire) ASIC programs can take multiple IC functions and design, manufacture and program a single IC that can do it all. From processing to sensing to memory and power management, a single multi-function ASIC can reduce the demands and lead times in a supply chain. Spirit Electronics’ foundry services now manage the manufacturing, packaging and assembly all under one American supplier. (Graphic: Business Wire)  PHOENIX--(BUSINESS WIRE)--Spirit Electronics now offers foundry services supporting U.S.-based manufacturing for analog and mixed-signal integrated circuits. Spirit’s foundry access includes 45- to 130-nm technology nodes in 300 mm wafer fabs. With corporate consolidation and long-lead-time pressures demanding greater capacity from existing fabs, Spirit’s foundry services open an accessible supply chain channel for ASIC manufacturing.
+
+  
+“Supply chain demands have remained high despite limited manufacturing capacity at the major American fabs,” explains Spirit CEO Marti McCurdy. “Our foundry services are an opportunity to manufacture ASICs using advanced processes in quality fabs to add agility to the supply chain and improve time-to-market.”
+
+ 
+Spirit’s application-specific integrated circuit (ASIC) manufacturing is part of an end-to-end supply chain service that includes IC design and engineering, wafer manufacturing, wafer binning and processing, packaging and substrate assembly, and screening and qualification.
+
+ 
+“Where most ASIC companies complete the design and outsource the rest, Spirit’s foundry services manage the manufacturing, packaging and assembly all under one American supplier,” McCurdy says.
+
+ 
+Spirit’s foundry services specialize in technology nodes around 65-nm and higher range for analog and mixed-signal devices that are a cornerstone of aerospace and defense electronics. Authorized distribution relationships with multiple OEMs allow Spirit to offer collaborative engineering and supplier support for critical circuit design.
+
+ 
+After substrate design, packaging and assembly, Spirit’s MIL-STD-883 testing services cover device analysis, screening and qualification in-house to meet military and aerospace standards. Device analysis services include destructive physical analysis (DPA) that offers verification of the manufacturing process. Spirit’s test services also include radiation capabilities to provide space-grade and harsh-environment ASIC qualification. With engineering involvement from the design stage, Spirit can easily customize testing programs for efficiency and mission-specific data.
+
+ 
+“Adding foundry services allows us to vertically integrate all steps of the ASIC production process under one U.S.-based supplier,” McCurdy concludes. “This is a true end-to-end manufacturing service that delivers application-ready ASICs.”
+
+ 
+About Spirit Electronics:
+ 
+Spirit Electronics is an end-to-end supply chain services company offering authorized distribution of electronic components, MIL-STD-883 testing, circuit card assembly and ASIC services. Spirit’s supply chain solutions are changing the definition of distribution by providing full-turnkey semiconductor services to deliver products to aerospace and defense customers fully qualified and ready for use. Spirit is a veteran-owned, woman-owned small business (VOWOSB) with HUBZone certification headquartered in Phoenix, AZ since 1979. For more information, visit https://www.spiritelectronics.com.
+
+ 
+Marti McCurdy
+Marti@spiritelectronics.com 
+(480) 998-1533
+
+ 
+Marti McCurdy
+Marti@spiritelectronics.com 
+(480) 998-1533
+

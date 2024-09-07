@@ -1,0 +1,27 @@
+VIENNA–(BUSINESS WIRE)–USound, a leading provider of advanced audio solutions, announced today its collaboration with partners to develop and deliver a reference design for a cutting-edge over-the-counter (OTC) hearing aid. The reference design will integrate USound’s newest Kore 4.0 audio module, ASE’s Micro SiP (System-in-Package), and OBO Pro2’s innovative hearing aid design, delivering the most advanced hearing aid in the market.
+  
+The partnership combines the strengths of all three companies. USound’s expertise in advanced audio technology and its newest Kore 4.0 module will ensure superior sound quality and performance. ASE Chung-Li provides the most compact Bluetooth Micro SiP, designed specifically for the hearable devices; OBO Pro2, an experienced hearing aid manufacturer, delivers the OTC hearing aid and integrates all components into a sleek and user-friendly device.
+ 
+“We are thrilled to partner with OBO Pro2 and ASE Chung-Li to create a state-of-the-art over-the-counter hearing aid that meets the needs of millions of people suffering from hearing loss worldwide,” said Ferruccio Bottoni, CEO of USound. “Our Kore 4.0 module combined with ASE’s latest Bluetooth Micro SiP provides a superior audio experience, while OBO Pro2’s expertise in hearing aid design ensures that the device is easy to use and comfortable to wear.”
+ 
+The reference design enables hearing aid manufacturers to rapidly develop and produce OTC hearing aids that meet the highest standards of performance and reliability. With an estimated 500 million people worldwide suffering from hearing loss, the market for OTC hearing will grow significantly in the coming years.
+ 
+“Collaborating with Usound that embedded ASE’s Micro SiP to provide a high-quality and reliable hearing aid solution to our customers,” said the CEO of OBO Pro2. “We believe that our expertise in hearing aid design combined with USound’s advanced audio technology will enable us to deliver a superior product that will make a positive impact on people’s lives.”
+ 
+The reference design will be available to hearing aid manufacturers in the second half of 2023.
+ 
+About USound
+ 
+USound is a fast-growing MEMS loudspeaker company enabling customers to bring new revolutionary audio products to the market. USound’s unique selling proposition is based on radical miniaturization, power reduction, and increased production efficiency. USound products are safeguarded by over 350 patents. Learn more at www.usound.com.
+ 
+About OBO Pro2
+ 
+OBO Pro2 is an experienced manufacturer of hearing aids based in China. The company is dedicated to providing the highest quality hearing aids to its customers, focusing on design, performance, and user experience. OBO Pro2 offers a wide range of hearing aids, from entry-level devices to high-end solutions. For more information, visit www.obopro2.com.
+ 
+About ASE
+ 
+ASE, Inc. is the leading global provider of semiconductor manufacturing services in assembly and test. Alongside a broad portfolio of established assembly and test technologies, ASE is also delivering innovative advanced packaging and system-in-package solutions to meet growth momentum across a broad range of end markets, including 5G, AI, Automotive, High-Performance Computing. and more. To learn about our advances in SiP, Fan-out, MEMS & Sensor, Flip Chip, and 2.5D, 3D & TSV technologies, all ultimately geared towards applications to improve lifestyle and efficiency, please visit: aseglobal.com or follow us on Twitter: @aseglobal.
+  Contacts  
+Marialena Perpiraki
+Marketing at USound
+press@usound.com

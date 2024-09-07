@@ -1,0 +1,43 @@
+Login 
+Yordan 
+13 April 2023
+ 
+Intel Arm
+ Intel announced a key partnership today, allowing chip makers to build low-power SoC on its 18A process. The collaboration will focus on design for mobile chipsets with Arm-based CPU cores and then will eventually move on to automotive, IoT, data center and aerospace and government applications. Arm customers, designing their chipsets around Cortex CPU cores, will be able to use Intel’s “breakthrough transistor technologies for improved power and performance”, said a press release issued by both parties. Pat Gelsinger, CEO of Intel Corporation, said this “multigeneration agreement” will open up new options and approaches for companies looking to use next-gen process technology. Intel will provide the foundry for chip designers to actually manufacture said chips, while Arm is providing a design technology co-optimization (DTCO) to allow easier flow of process and improvement of power, performance, area and cost for Arm cores. The announcement is part of the IDM 2.0 strategy, in which Intel invests heavily in manufacturing capacity worldwide, including expansions in the United States and the European Union. Such a move would balance the supply chain and ease the bottleneck currently created by the massive demand from a handful of chip makers. The Intel 18A process is basically a 1.8 nm technology. A stands for Angstrom, a metric unit of length a step smaller from the nanometre, or a one-ten billionth of a meter, also a hundred-millionth of a centimeter. Moving forward to such technology is a declaration that future SoCs will become even smaller with an even bigger density of transistors. Source but core i3 with chrome os is like overkill. I disagree tho there's some cheap Loptop with Core-i3 for 350$ cheap as the same price of a Midranger Phone but they come only with Intel integrated GPUs which is in the these recent gens do good enough to play most of games in low to med graphi... yeah like intel core i3 at low price.. 
+most core i3 or i5 powered chromebooks are expensive, celery chromebooks are everywhere. i really hope intel discontinued their celeron lineup for good, so there are no future budget laptops that are powered w... 
+
+
+Phone finder
+ 
+
+
+All brands
+
+
+
+Rumor mill
+
+ 
+Home
+News
+Reviews
+Compare
+Coverage
+Glossary
+FAQ
+RSS feed
+Youtube
+Facebook
+Twitter
+Instagram
+ 
+© 2000-2024 GSMArena.com
+Mobile version
+Android app
+Tools
+Contact us
+Merch store
+Privacy
+Terms of use
+Change Ad Consent
+Do not sell my data

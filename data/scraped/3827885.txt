@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/the-amerisourcebergen-foundation-good-neighbor-pharmacy-launch-scholarship-program-to-support-aspiring-black-and-african/article_47d7b42d-3456-5505-8b51-c8439a0761cc.html

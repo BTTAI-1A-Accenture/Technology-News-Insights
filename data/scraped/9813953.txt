@@ -1,0 +1,72 @@
+Someone with a lot of money to spend has taken a bearish stance on Ulta Beauty ULTA. And retail traders should know. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know. But when something this big happens with ULTA, it often means somebody knows something is about to happen. So how do we know what this whale just did?  Today, Benzinga's options scanner spotted 10 uncommon options trades for Ulta Beauty. This isn't normal. The overall sentiment of these big-money traders is split between 40% bullish and 60%, bearish. Out of all of the special options we uncovered, 6 are puts, for a total amount of $383,765, and 4 are calls, for a total amount of $154,000. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $320.0 to $500.0 for Ulta Beauty over the last 3 months.  Looking at the volume and open interest is a powerful move while trading options. This data can help you track the liquidity and interest for Ulta Beauty's options for a given strike price. Below, we can observe the evolution of the volume and open interest of calls and puts, respectively, for all of Ulta Beauty's whale trades within a strike price range from $320.0 to $500.0 in the last 30 days.   
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+ULTA
+PUT
+SWEEP
+BEARISH
+11/17/23
+$435.00
+$147.1K
+0
+6
+
+
+ULTA
+PUT
+TRADE
+BULLISH
+03/15/24
+$460.00
+$70.4K
+27
+0
+
+
+ULTA
+PUT
+TRADE
+NEUTRAL
+01/17/25
+$500.00
+$65.3K
+197
+0
+
+
+ULTA
+CALL
+TRADE
+BEARISH
+12/15/23
+$320.00
+$58.2K
+2
+10
+
+
+ULTA
+PUT
+SWEEP
+BEARISH
+10/20/23
+$370.00
+$40.8K
+956
+187
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for Ulta Beauty, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

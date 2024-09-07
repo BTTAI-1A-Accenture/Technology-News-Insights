@@ -1,0 +1,25 @@
+
+                    witsanu singkaew/Getty Images
+                    Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Alexandra Kelley
+ Updates to federal guidelines for protecting sensitive, unclassified information were unveiled yesterday, emphasizing clarifications in security requirements to better safeguard critical data.  Published by the National Institute of Standards and Technology, the revised draft changes impacted NIST SP 800-171 Rev.3, which is intended to help federal contractors understand how to protect Controlled Unclassified Information that they may handle when working with government entities.  Changes in the draft guidance for CUI include removing ambiguity and defining parameters in implementing cybersecurity protocols; increasing flexibility in selected security requirements; and assisting organizations to mitigate risk. “Many of the newly added requirements specifically address threats to CUI, which recently has been a target of state-level espionage,” said Ron Ross, one of the publication’s authors and a NIST fellow. “We want to implement and maintain state-of-the-practice defenses because the threat space is changing constantly. We tried to express those requirements in a way that shows contractors what we do and why in federal cybersecurity. There’s more useful detail now with less ambiguity.” Some of the digital assets NIST’s document covers include personal health information, critical energy infrastructure data and intellectual property. Safeguarding data that contributes to the U.S.’s critical infrastructures has been a chief priority for federal, state and local governments amid growing digital threats, with NIST a key player in helping fortify the nation’s digital security.  “Protecting CUI, including intellectual property, is critical to the nation’s ability to innovate—with far-reaching implications for our national and economic security,” Ross said. “We need to have safeguards that are sufficiently strong to do the job.” NIST is accepting public feedback on the draft guidance until July 14. NIST stated that it anticipated introducing one more draft version of the SP 800-171 Rev. 3 before publishing a final version in 2024. 
+
+ 
+NEXT STORY:
+
+              Federal Operation Takes Down Sophisticated Russian Malware
+            
+
+
+
+ Help us tailor content specifically for you:

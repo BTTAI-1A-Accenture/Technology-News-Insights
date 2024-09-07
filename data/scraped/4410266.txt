@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.abqjournal.com/news/national/why-hotel-booking-sites-show-the-same-price-how-to-find-a-better-deal/video_b145aaae-e8e3-53ce-b39d-14b1a312449b.html

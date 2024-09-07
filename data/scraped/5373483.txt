@@ -1,0 +1,47 @@
+
+NEW DELHI
+    : 
+     
+      Online gaming companies must act as digital intermediaries, verify games and customers in real-money games, weed out fake information, and follow the rules set by self-regulatory bodies, the Union government said on Thursday. 
+     
+      The final amendments to Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules also prohibit offshore betting ads and keep gambling out of bounds for gaming companies. 
+     
+      The Union ministry of electronics and information technology (Meity) issued the first draft of the rules in January and has held consultations with the industry since then. 
+     
+      “Online gaming is certainly a huge opportunity for India and young Indians. We see the Indian online gaming ecosystem to expand and grow into a multi-billion dollar industry and be an important catalyst to India’s one trillion-dollar digital economy goal by 2025-26, with very clear restrictions on online wagering and betting," said Rajeev Chandrasekhar, Union minister of state for electronics and IT said while releasing the rules. 
+     
+      The government will appoint three self-regulatory bodies to set rules for the online gaming industry. Trusts and for-profit organizations won’t be eligible to apply. The rules also specify the nature of members who can join these bodies. 
+     
+      Existing industry bodies will not qualify as self-regulatory bodies under the new rules, and the process of forming them could take six to eight months, an industry expert said on condition of anonymity. “I don’t expect it to happen tomorrow. I’m sure many of the current industry bodies will apply, but we have to wait and watch in what way, shape or form that will be," he added. 
+     
+      The rules require intermediaries to ensure their platforms are not used to display or share misleading or fake information, but this requires further clarification, an expert said. 
+     
+      “The fact-check addition through Rule 3 is not a robust form of regulation. Clarity on the process of classifying fake, false, or misleading news and safeguards or due process protections against arbitrary actions that may stifle free speech ought to have been built into the regulation," said N.S. Nappinai, a Supreme Court lawyer and founder of Cyber Saathi.In the January draft, MeitY had proposed empowering Press Information Bureau (PIB) and other government-authorized agencies to instruct intermediaries, including online gaming companies, to take down content they deem inaccurate. “The first draft of the rules gave expansive powers to multiple central government agencies to flag fake news. This has now been curtailed to only those fact-checking units of the central government that MeitY specifically notifies," said Rahil Chatterjee, an associate at Ikigai Law. 
+     
+      Chatterjee added that the scope of the content had been restricted as well. “Earlier, any content flagged by PIB fact-checking would be deemed to be fake or false; now, the scope is restricted to news pertaining to the business of the central government." 
+     
+      The online gaming industry, which was worried over several aspects in the January draft, sounded satisfied with the final rules.“It is heartening to note that the public consultation and submissions on online gaming have been given due weightage as the much tighter draft of the notified version indicates," said Nappinai. 
+     
+      Sai Srinivas, CEO and co-founder of gaming unicorn Mobile Premier League (MPL), called the notification of the new rules a “watershed moment" for the industry, adding it recognizes online gaming intermediaries and distinguishes them from gambling. 
+     
+      The All India Gaming Federation (AIGF) and Federation of Indian Fantasy Sports (FIFS) too welcomed the new rules. 
+     
+      Joy Bhattacharjya, director-general of FIFS, a body that counts startups like Dream Sports among its members, expects the rules to end the ambiguities that the industry was grappling with and pave the way for sustainable and responsible growth of the gaming industry. 
+     
+      Gaming firms get intermediary protections under Section 79 of the IT Act; however, they do not make online gambling legal. Gambling remains a state subject, and states retain the power to regulate the same within their borders. 
+     
+      “These rules will go a long way in promoting consumer interest while helping the industry grow responsibly and transparently and will also help in curbing the menace of anti-national and illegal offshore gambling sites, which have been proliferating in the last few years," said Roland Landers, CEO, AIGF. 
+     
+      The new rules nudge gaming companies to be more accountable and ensure responsible gaming behaviour. They are required to display a mark of verification from an online gaming self-regulatory body to indicate that the game has been verified. Intermediaries are also required to inform users of rules and regulations, privacy policy, terms of service, and user agreements. This should also include the policy for withdrawal or refund of deposits, the know-your-customer (KYC) procedure for verifying user identity, measures taken to protect user deposits, and the framework in Rule 4A, which outlines the process for verification of online real-money games. For this purpose, MeitY will designate SROs to verify these games as permissible. 
+     
+      Bodies that are registered under the Companies Act, have members representing the gaming industry and have a board of directors with individuals of repute and no conflict of interest can apply to be designated as SROs. They will be required to publish and maintain a list of all members and publish frameworks for verifying online real money games and a framework for redressal of grievances along with the contact details of the grievance officer. These bodies will also have to publish an updated list of all permissible online real money games and details of the applicant, which includes the period of validity of the verification, along with the reasons for granting the verification or suspending it. Unverified games will not be allowed to advertise.  
+     
+      Jay Sayta, a gaming lawyer, said the rules on who can broadcast advertisements had been simplified. “These rules clearly ban offshore betting ads or any questionable entities that may have sought to advertise themselves," he added. 
+     
+      Gaming companies must also verify user identity before taking deposits from them, using a procedure in line with the Reserve Bank of India’s KYC norms. 
+     
+      Trivikraman Thampy, co-founder and co-CEO of Games24x7, said that creating multiple SROs would ensure all industry stakeholders with different operational models are “adequately represented". The rules will help clear state-level ambiguity and promote uniformity and standardization across the country, he added. Real-money gaming platforms have faced bans in several states, many of which were later reversed by courts. 
+     
+      Sayta said the rules would pave the way for future standalone central government legislation on gaming. “This can create the base for a central government-appointed board and bodies to regulate the space," he added. 
+     
+      Despite the overall positive sentiment, the industry has flagged some parts of the new rules. “A significant one of which is what in a game can be approved or not. The latter remains clearly in the hands of a self-regulatory body. There is also ambiguity in terms of what ‘wagering’ could imply," added Sayta. Some experts also said further clarity is required on KYC rules. “Earlier, KYC had to be done at the time of registration. Now, this needs to be done at the time of depositing money. It does ask to follow RBI guidelines, but RBI itself has various KYC regulations for different products. So, this does not entirely clarify the matter," a tech policy lawyer working with the industry said. Download the Mint app and read premium stories Log in to our website to save your bookmarks. It'll just take a moment. You are just one step away from creating your watchlist! Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image. Your session has expired, please login again. You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder. This is a subscriber only feature Subscribe Now to get daily updates on WhatsApp

@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Boulevard (Original) » Orgs Must Prepare for SEC Cybersecurity Requirements Aimed at Boards Enterprises might want to spend the next few months checking and bolstering their boards’ cybersecurity chops—because by the end of 2023, the Security and Exchange Commission (SEC) is expected to finalize its proposal requiring them to attest to their boards’ cybersecurity acumen—as well as disclose their cybersecurity oversight efforts and information on attacks. All this is an effort to shift some cybersecurity accountability to boards, a move that is not wholly unexpected. Organizations have been urged to add cybersecurity expertise to those governing bodies to bolster their cybersecurity postures, get strategies approved and funded more easily and apply much-needed accountability. “Our 2022 U.S. Cybersecurity Census indicates that the average cybersecurity leader is faced with 42 attacks each year—three of them successful—and the majority of those surveyed anticipate that number will only increase in the coming year. However, the research also shows widespread demand for cybersecurity talent as the international IT workforce shortage endures,” said Darren Guccione, CEO and co-founder at Keeper Security. “The board of directors and fellow business leaders must support their CISO’s priorities and needs, particularly when they’re faced with a cyberattack or data breach.” Oversight by boards “has increased dramatically in recent years and can be expected to continue in terms of the members’ situational awareness of potential challenges and the current state of the organization’s cybersecurity posture,” said Tim Morris, chief security advisor, AMER, Tanium. That trend heated up as COVID-19 sent employees home to work. “The pandemic changed the paradigm for cybersecurity with remote work dramatically expanding attack and threat vectors. And wars placed even greater onus upon boards for heightened scrutiny and oversight in the midst of turmoil,” said Morris. Cybersecurity touches nearly every aspect of a business and vigilance can be the difference between staying up-and-running during an event or shuttering operations. “Cybersecurity must also be a tightly integrated component of disaster recovery (DR) and business continuity plans (BCP). For instance, what happens if/when disruptions to supply chains occur? Or internal communications are no longer operable or reliable due to a suspected compromise?” said Morris. “Boards need to be equipped to ask the right questions and invest in contingency plans that will maintain continuity and minimize disruptions.” Morris noted that “the threat and existence of wars raise the stakes when trying to run an organization,” and explained that “boards, in the past, have been limited to managing these threats by firing and/or hiring CEOs and CISOs.” He believes that “regulatory actions, such as the steps being taken by the SEC, help create a heightened sense of awareness by removing ‘plausible deniability’ and placing accountability when failures occur.” But Joseph Carson, chief security scientist and advisory CISO at Delinea, noted that “the security gap is not only increasing between the business and attackers, but also the security gap between the IT Leaders, business executives, and the board of directors. While in some industries this is improving, the issue still exists.” Until organizations “solve the challenge of communicating the importance of cybersecurity to the executive board and business,” Carson said, “IT leaders will continue to struggle to get the needed resources and budget to close the security gap.” Mika Aalto, co-founder and CEO at Hoxhunt, believes that “in 2023, communication skills will become more relevant as human risk is mitigated with security behavior change programs, whose results must be analyzed and their value communicated effectively to the board.” This is critical, Aalto said, “for getting investment into security programs that lower risk at its greatest source, the human element.” But the woes are likely to continue until business and IT align. “What’s important for company boards and leadership to understand is that data security requires the business (the lines of business that rely on the business applications which store sensitive data) and IT (responsible for protecting and securing broader systems) to work together to create effective policies for securing sensitive data,” said Mike Puterbaugh, CMO at Pathlock. From the time she was 10 years old and her father gave her an electric typewriter for Christmas, Teri Robinson knew she wanted to be a writer. What she didn’t know is how the path from graduate school at LSU, where she earned a Masters degree in Journalism, would lead her on a decades-long journey from her native Louisiana to Washington, D.C. and eventually to New York City where she established a thriving practice as a writer, editor, content specialist and consultant, covering cybersecurity, business and technology, finance, regulatory, policy and customer service, among other topics; contributed to a book on the first year of motherhood; penned award-winning screenplays; and filmed a series of short movies. Most recently, as the executive editor of SC Media, Teri helped transform a 30-year-old, well-respected brand into a digital powerhouse that delivers thought leadership, high-impact journalism and the most relevant, actionable information to an audience of cybersecurity professionals, policymakers and practitioners. teri-robinson has 196 posts and counting.See all posts by teri-robinson   Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

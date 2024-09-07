@@ -1,0 +1,47 @@
+Login 
+Peter 
+18 October 2023
+ 
+Qualcomm Google Smart wearables Mobile hardware
+ Android used to support various architectures – ARM, x86, MIPS. While x86 is still technically supported, the choice for smartphones, tablets and smartwatches is down to only ARM. This means that whoever owns ARM has an outsized influence over the whole ecosystem. Now Qualcomm and Google have announced that they are working on an alternative architecture. You may or may not have heard of RISC-V (pronounced “risk five”). It’s an open-source instruction set for CPUs that has been gaining traction recently. Its open-source nature means that chipset designers don’t need to pay royalties like they do with ARM. ARM also limits who can create custom CPU cores (that costs extra). Google and Qualcomm are starting small – literally, the two companies are working on RISC-V based Snapdragon Wear chipsets “that will power next-generation Wear OS solutions”. Android doesn’t yet have official support for RISC-V, the instruction set is so new that some parts of it are still in development and Google hasn’t decided on the baseline features that will be required. But since Wear OS is based on Android, this should be a stepping stone for more powerful chipsets that will be used in phones and tablets in the future. Here’s why RISC-V is a big deal. ARM charges companies like Qualcomm, Samsung, MediaTek and others for use of their Cortex CPU designs. Some companies like Apple, Samsung and Qualcomm (sometimes) use CPUs they designed in-house, but that requires an expensive “architectural license”. Now RISC-V being open source doesn’t mean that all CPUs based on it are open source too. There are some, but Qualcomm will be designing its own, putting its expertise in developing efficient and performant chips. This will give Google (and the Android ecosystem as a whole) an alternative platform – both as fallback and to use as leverage when negotiating prices with ARM. Qualcomm tends to launch new Wear generations every couple of years – Wear 2100 in 2016, Wear 3100 in 2018, Wear 4100 in 2020 and most recently W5 in 2022. So, W6 next year? It’s possible, but the company’s press release ends with the vague  “Commercial product launch of the RISC-V wearable based solution timing will be disclosed at a later date.” PS. RISC-V has been around for a few years now and has attracted a lot of attention from other companies too – big names like Bosch, Infineon, Nordic Semiconductor, NXP and Qualcomm joined forces to speed up the development of RISC-V hardware. Others too, e.g. Western Digital designed RISC-V cores to use in its flash controllers where previously it used licensed designs from ARM, Intel and others, which added cost to the millions of SSDs that it ships. Source Custom core license is many times more expensive, so you have to stick with Arm cores. They are trying their best to stop custom core designs. 
+It is monopoly. Think deeper. Well, if we take phones as an example we saw a couple major standards: 
+- Inception: 2008 Android 1.5, 65nm, ARM 11 
+- Adoption: 2011 Android 4.0, 32nm, Cortex-A9 
+- Maturation: 2016 Android 5.1, 16nm, Cortex-A73 
+- Evolution: 2022 Android 13.0*,... Sure, there isn't all that much in the high performance space yet, that takes time, especially since the competition is always working themselves. But in that space we'll have to wait and see how good the HiFive pro p550 is for a good bench... 
+
+
+Phone finder
+ 
+
+
+All brands
+
+
+
+Rumor mill
+
+ 
+Home
+News
+Reviews
+Compare
+Coverage
+Glossary
+FAQ
+RSS feed
+Youtube
+Facebook
+Twitter
+Instagram
+ 
+© 2000-2024 GSMArena.com
+Mobile version
+Android app
+Tools
+Contact us
+Merch store
+Privacy
+Terms of use
+Change Ad Consent
+Do not sell my data

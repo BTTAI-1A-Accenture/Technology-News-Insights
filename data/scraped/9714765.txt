@@ -1,0 +1,42 @@
+Community What a start to spring it’s been. We’ve had a hugely successful UK FinTech Week, as well as the Innovate Finance Global Summit 2023 at the stunning Guildhall in the City of London. One hot talking point has been the much-awaited update from the Joint Regulatory Oversight Committee (JROC). It has now laid out its thinking on the next phase for Open Banking, and the pathway to Open Finance, in a 50 page report, containing a two year
+ roadmap, with 29 individual actions.  Big numbers for a big moment, and a boost to momentum in our sector as we now have a much clearer vision for a sustainable future for Open Banking. In recent weeks, I’ve spoken with professionals from around 30 countries. One of the big questions I’ve been asked is what the UK is doing around Variable Recurring Payments (VRPs).  I was therefore delighted to see the JROC say it expects the future entity, which will replace the OBIE, to support the creation of multilateral agreements around VRPs. This has been a significant stumbling block for participants as the industry works towards
+ creating a viable commercial model.  The changing face of payments So what are VRPs? In one word: consent. A VRP enables a customer to give permission to a TPP to make a series of payments from their bank account at variable amounts and intervals, with one Strong Customer Authentication (SCA) step when setting things up. Until now, the CMA has only required banks to provide VRPs for ‘sweeping’ use cases, which enables the transferring of money between two accounts belonging to the same person. So called ‘me-to-me’ payments.  Excitingly, the JROC report bets big on ‘non-sweeping’ VRPs, which weren’t part of the original CMA order, and now promise to unlock new use cases that heighten Open Banking’s potential.  Non-sweeping VRPs, pioneered by NatWest, are poised to become a new and convenient payment option for businesses and consumers – complementing, and perhaps ultimately replacing, existing options such as Direct Debits.  NatWest continues to shine a light on the path ahead. “VRPs are a strategic part of our payments proposition,” explained Raffaele Brusco, Senior API Growth Manager, NatWest Group. “Use cases are quite broad. There is definitely a lot in terms of charity
+ donations, but anything where VRPs can be an alternative to card-on-file is becoming increasingly relevant.” VRPs are a game-changing innovation: one that can help drive the mass adoption of Open Banking, and one we expect to be a standout success story of 2023.  But barriers remain. And collaboration is crucial. To discuss challenges and the industry’s next steps, we lit the virtual OBE Campfire and gathered together major players from all four corners of the ecosystem: banks, fintechs, supervisory bodies, and regulators.
+ I would urge anyone interested in the future of Open Banking to check it out. “Collaboration is the key word for me,” stated Brusco. “And it means a coalition of the willing to not just write big and lengthy reports, but to come together and start to agree what liability and customer protection looks like.” Consumer protection must be front and centre “The JROC report is amazing,” said Alan Ainsworth, Head of Policy, OBIE. “But there’s also a bit of trepidation. There’s a great deal to do in a small amount of time. But it’s not all left to the VRP Working Group, which is good news!” “A lot of the themes [in the report] overlap with the essentials of VRPs. One element is mitigating the risk of financial crime. Within the VRPs construct, we need to make sure fraud is not a problem and doesn’t create additional friction for users. The
+ whole point of VRPs is that they are a low friction way to pay.” There is indeed a lot to do. The JROC report states the aim is to draft a delivery plan and framework to enable a phased roll out of non-sweeping VRPs by Q3 2023, and then consult on requirements to adopt a wider multilateral agreement for premium APIs. “We want to move Open Banking into a next phase that focuses much more on putting it on an economically sustainable footing,” said Jeroen De Marteau, Policy Manager, Payment Systems Regulator (PSR).  “So you will need clear principles around what happens when something goes wrong with that payment, who is liable? And you will need clear principles around how you can price for the products that people are using. What we want to do with VRPs is really
+ test that idea of encapsulating pricing liability protection and functionality principles into a singular agreement – and we want to do it quickly.”  The good news is that players from all across the ecosystem appear ready and willing to help drive things forward. And keep the end user safe.  “Truelayer has already published one version of how the liability and dispute framework could look,” said Jana Reid, Global Head of Commercial Bank API Partnerships, Truelayer. “When I attend conferences, I hear a lot of people saying Open Banking, and in
+ particular VRPs, have no liabilities and dispute framework. The customers are not protected. And I think it’s important to say they absolutely are, because in our framework with NatWest, the framework is very much included. In fact, it takes about 70% of my
+ time to think about what it can look like.” “I agree with Jana, there are protections already in place,” said Tom Burton, Director, GoCardless. “There are rules around who is responsible for payments failing, and also who is responsible for issues with the goods or services. It’s detailed in the Payment
+ Services Regulations, or in the Consumer Rights Act. So I do think there's a number of different protections already in place, but there does need to be greater clarity and discussion about these issues, so that people become comfortable with them.” Forward thinking will be crucial to help the UK keep its lauded position in Open Banking. What I’m keen to see is industry players working in tandem with the VRP Working Group to help move things along at a real pace.  “The JROC report clearly sets out the stepping stones that we need to work through in the next two years,” added Dawn Beeby, Sales Director and Open Banking Specialist, Nuapay.  “But that’s not going to help businesses today collect money, and it’s not going to help the consumer who is crying out for choice, and visibility, regarding those recurring commitments, and the ability to take control of them.” The JROC has set out its “necessarily ambitious” roadmap – now it’s up to us to lace up our trainers, get going, and deliver on the vast potential of VRPs.     This content has been created by the Finextra editorial team with inputs from subject matter experts at the funding sponsor. Open Banking regulation, innovation and technology and it's potential to revolutionise the Financial Services Industry. 
+236 opinions
+63 members
+23 July 2024
+ 
+21 February
+ 
+29 January
+ 
+08 December
+ 
+24 November
+ 
+04 October
+ Peter Pizzutelli  Sr. Manager, Advisory Services at Diebold Nixdorf 
+9 hours
+ Francesco Fulcoli  Chief Compliance and Risk Officer at Flagstone 
+10 hours
+ Tom Rowe-Jones  M&A Director at LAVA Advisory Partners 
+10 hours
+1
+ Gustav Korobov  Senior Sales Executive - Core Banking platform at Advapay 
+11 hours
+114
+ This content is provided by an external author without editing by Finextra. It expresses the views and opinions of the author. Sergio Barbosa CIO of Global Kinetic, and CEO of FutureBank. at Global Kinetic and FutureBank 
+16 August
+ Sergiy Fitsak Managing Director, Fintech Expert at Softjourn 
+14 August
+ Mete Feridun Chair at EMU Centre for Financial Regulation and Risk 
+14 August
+ Konstantin Rabin Head of Marketing at Kontomatik 
+14 August
+ Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

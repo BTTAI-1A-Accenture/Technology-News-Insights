@@ -1,0 +1,41 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+AWS Lambda Introduces Recursive Loop Detection for SQS, SNS, and Invoke API
+ Jul 18, 2023
+								
+								
+								
+									
+									2
+									min read
+								
+							 by 
+
+
+Steef-Jan Wiggers
+
+ AWS recently announced a recursion control feature in AWS Lambda that detects and stops Lambda functions running in a recursive or infinite loop. This feature is available for Lambda integrations with Amazon Simple Queue Service (Amazon SQS), Amazon Simple Notification Service (Amazon SNS), or when invoking functions directly through the Lambda invoke API. Within Lambda, a detection mechanism is implemented to identify functions that seem caught in a recursive loop. When a function is triggered by the same event more than 16 times, Lambda will halt the subsequent invocation and route the event to either a Dead-Letter Queue (DLQ) or an on-failure destination. Furthermore, if configured, users will receive an AWS Health Dashboard notification with troubleshooting steps, email, or Amazon CloudWatch Alarms.  Diagram showing some examples of loops that Lambda can detect (Source: AWS Lambda Developer Guide) The authors of an AWS Compute blog post on the feature explain that the feature only works when functions use one of the supported AWS SDK versions or higher: Lambda uses an AWS X-Ray trace header primitive called "Lineage" to track the number of times a function has been invoked with an event. When your function code sends an event using a supported AWS SDK version, Lambda increments the counter in the lineage header. If your function is then invoked with the same triggering event more than 16 times, Lambda stops the next invocation for that event. You do not need to configure active X-Ray tracing for this feature to work. In the same blog post, the authors provide an example, available on GitHub, where they explain that after the 16th invocation, Lambda will throw a RecursiveInvocationException to the ECMAScript (ES) modules (ESM), which stops invoking the Lambda function since the maxReceiveCount is exceeded. SQS moves the message to the source queues configured DLQ. Suppose the recursive detection occurs and the Lambda function stops. In that case, the company advises fixing the underlying issue and setting the concurrency to 0 by choosing the "Throttle" button in the Lambda console or using the PutFunctionConcurrency API. In addition, users can disable or delete the event source mapping or trigger for the Lambda function. AJ Stuyvenberg, a staff engineer at Datadog and AWS Serverless Hero, tweeted: New: Lambda has recursive loop detection! Now your functions won't runaway to the maximum concurrency limit if you accidentally cause an infinite loop.  Marek Kuczyński, a solution architect at Wiz, responded with: Wow - this is big! Seen too many refund cases because people created an invoke loop. Cost can run high earlier in Lambda functions when a recursive loop occurs due to misconfiguration or mistakes when writing lambda code. This is now prevented since the recursive loop detection is enabled by default on Lambda functions, and Michael Brewer, a VP architect fellow platform engineering at Fiserv, added in a tweet: Now please add a hard spending cap limit. At least for developer accounts. Once the spending limit, the account should be frozen. Either that or sandbox accounts. And finally, Jatin Mehrotra, a cloud engineer at Classmethod, stated at the end of a blog post: Right now, this feature is not supported for other services like Dynamodb and S3 events. In the case of Dynamodb and S3, the only way to detect a recursive loop is by using Cloudwatch alarms. Please make a note of this. Lastly, to turn off the feature, users must contact AWS Support. In addition, for using recursive invocation patterns, details are available in the Recursive patterns that cause run-away Lambda functions in the AWS Lambda Operator Guide. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

@@ -1,0 +1,56 @@
+While artificial intelligence (AI) in medical devices has regulatory boundaries, its use in a medicine’s life cycle is less clear.  Amid rising levels of artificial intelligence (AI) use and application, the European Medicines Agency (EMA) has issued a draft paper outlining its view on the use of AI and machine learning (ML) in various stages of a medicine’s life cycle. The paper, a part of a joint Human Medicines Agency (HMA)-EMA initiative to develop data-driven regulation, highlights the promise that AI/ML capabilities can bring to all steps of a medicine’s life cycle but warns of measures that should be taken by companies to ensure its legal and ethical use. 
+                        The gold standard of business intelligence.
+                     
+                            Find out more
+                            
+
+
+
+ The European Union (EU) has already drafted an AI law, in what will be the world’s first comprehensive law for the technology. And while regulations certainly exist for AI use in medical devices, the pharmaceutical industry lies in more of a grey zone. AI and ML tools can be extremely useful in the medicinal product life cycle. AI platforms can be used in the drug discovery process, and modelling approaches can be employed, which would change the use of animal models in preclinical development. The harnessing of data by AI/ML in clinical trials is already in use, and AI/ML can even be used at the market-authorisation and post-authorisation stages to help with product information compilation and pharmacovigilance activities. The paper outlines that companies using AI/ML at any stage of a medicine’s life cycle should be wary of existing legal frameworks and consider limitations or challenges that using the technology might have. These include issues around bias, overfitting, and data protection. An overarching theme of the paper is that companies using AI should always interact with regulators and operate within a “risk-based approach”. The EMA was keen to state that it is not within its remit to regulate AI/ML software used in medical devices. However, it did add that when using CE-marked devices in a clinical trial, additional requirements might need to be checked off to ensure the integrity of data and results, along with the safety of subjects. Access the most comprehensive Company Profiles
+            on the market, powered by GlobalData. Save hours of research. Gain competitive edge. Your download email will arrive shortly We are confident about the
+                        unique
+                        quality of our Company Profiles. However, we want you to make the most
+                        beneficial
+                        decision for your business, so we offer a free sample that you can download by
+                        submitting the below form
+                     Jesper Kjær, director of the Data Analytics Centre at the Danish Medicines Agency and co-chair of the Big Data Steering Group (BDSG) said: “The use of artificial intelligence is rapidly developing in society and, as regulators, we see more and more applications in the field of medicines. AI brings exciting opportunities to generate new insights and improve processes. To embrace them fully, we will need to be prepared for the regulatory challenges presented by this quickly evolving ecosystem.” EMA’s Head of Data Analytics and Methods and BDSG co-chair Peter Arlett said: “With this paper, we are opening a dialogue with developers, academics, and other regulators, to discuss ways forward, ensuring that the full potential of these innovations can be realised for the benefit of patients’ and animal health.” Give your business an edge with our leading industry insights. 
+                The gold standard of business intelligence.
+             
+
+                    Find out more
+                    
+
+
+
+ Give your business an edge with our leading industry insights. Give your business an edge with our leading industry insights.  
+
+
+
+
+
+ 
+
+
+
+
+                                                                                                                        Pharma Technology Focus : Pharmaceutical Technology Focus (monthly)                                                                                                                        
+
+
+ 
+
+
+
+
+                                                                                                                                Thematic Take (monthly)                                                                                                                        
+
+
+ 
+
+
+                                                    I consent to Verdict Media Limited collecting my details provided via this form in accordance with  Privacy Policy
+
+ View all newsletters from across the GlobalData Media network. 
+		The leading site for news and procurement in the pharmaceutical industry 
+				Powered by
+				
+ © Verdict Media Limited 2024

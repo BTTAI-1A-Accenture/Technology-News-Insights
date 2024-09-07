@@ -1,0 +1,38 @@
+
+by Leigh Mc Gowran
+ 
+15 Feb 2023  Image: © Vector Tradition/Stock.adobe.com HP’s Tom Sadler and Neil Dover said computer vision will lead to new advances in robotics, healthcare and more, but ethical issues exist surrounding systems such as facial recognition.  Computer vision is a controversial and exciting field, opening the door to various innovations, from self-driving cars to facial recognition systems. The technology allows computer systems to analyse and interpret visual information, which has applications across multiple industries. One market research report estimates the global computer vision market will exceed $41bn by 2030. Typically, computer vision requires large amounts of data and computer power to effectively train a machine learning system. Tom Sadler is HP’s data science and AI solution lead in the UK and Ireland. He helps support HP clients in the Irish market about “all things data science”. In an interview with SiliconRepublic.com, Sadler explained that AI algorithms automatically analyse images to extract important information, which can then be used to control robots and “manipulate objects in the real world”. “AI provides the means for computers to learn and make decisions based on data, which is critical for computer vision tasks such as object recognition and tracking,” he said. Neil Dover, the country manager for HP Ireland, said computer vision will play an “increasingly important role” for a growing number of applications. Both Dover and Sadler said they believe this field will drive advancements in a number of sectors, but noted a number of challenges that have to be overcome. Sadler said computer vision systems usually require “significant processing power” for image analysis and feature extraction, with high-end GPUs needed for more advanced tasks such as object detection and segmentation. This can restrict the use of certain computer vision systems to clusters of computers in order to have them performed in real time. Dover said this can prevent some of these algorithms from being performed on “resource-constrained devices such as smartphones and drones”. As this is a developing field, Dover said there are currently issues with the robustness of computer vision systems, as there are examples of them being tricked by variations in lighting, background and occlusion. “There is the story doing the rounds where an AI bot for the army was fooled by two soldiers in a cardboard box in a training exercise,” Dover said. Outside of software limitations, some of the challenges facing computer vision technology are ethical. For example, the use of facial recognition technology has raised various privacy concerns. The ability for these systems to store images and videos of individuals or identify them through surveillance has raised questions among lawmakers and companies. Last November, a group MEPs and NGOs spoke about the threat biometric surveillance technology poses to democracy and the risks of discrimination toward certain groups. The UK’s data privacy watchdog also warned organisations to consider the public risks of “immature” emotion analysis technologies before implementing them. Sadler said there will always be “implications to ethical uses” when data is involved. He said this is an issue organisations have to consider for the future. “It is important for developers and organisations to consider these ethical issues and ensure that computer vision systems are designed, developed and used in a responsible and ethical manner that protects the rights and interests of individuals and society,” Sadler said. The upcoming AI act in the EU is expected to take a stance on certain systems such as facial recognition software, which could lead to a full ban. Despite the challenges, Dover said there are various areas where computer vision will advance, such as self-driving vehicles, robotics and security. “Computer vision will be used to enable more immersive and interactive AR and VR experiences by tracking user movements and improving the understanding of real-world environments,” he said. “Computer vision will be used to improve the efficiency and accuracy of medical imaging and diagnosis, as well as enabling new applications such as the development of wearable devices that can monitor and diagnose medical conditions.” Dover also highlighted how computer vision has caused “massive advances” in cinema, particularly in recent films such as Avatar: The Way of Water. This technology also has the potential to advance deepfakes, allowing actors to look younger or like somebody else entirely. “[Computer vision] is being used to make movies so much more captivating,” Dover said. “We will start to see dead actors coming back to the screen with shocking accuracy.” 10 things you need to know direct to your inbox every weekday. Sign up for the Daily Brief, Silicon Republic’s digest of essential sci-tech news. In-Depth:
+                            AI & Analytics Week,                 More on HP  Related:
+                    surveillance,             AI,             autotech,             Brand Insights,             HP,             computers  
+                                                Leigh Mc Gowran is a journalist with Silicon Republic                                             editorial@siliconrepublic.com 
+31 Jul 2024  
+22 May 2024  
+23 Nov 2023  
+16 Feb 2024  
+16 Feb 2024  
+6 days ago  
+9 hours ago  
+10 hours ago  
+11 hours ago  
+12 hours ago  
+12 hours ago  
+14 hours ago  
+14 hours ago  
+16 hours ago  
+17 hours ago  
+17 hours ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+3 days ago  
+4 days ago  
+4 days ago  
+4 days ago  All content copyright 2002-2024 Silicon Republic Knowledge & Events Management Ltd. Reproduction without explicit permission is prohibited. All rights reserved.
+            Website by Square1.io 

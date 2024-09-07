@@ -1,0 +1,45 @@
+Community Fintech is an incredibly complex sector. And with complexity comes challenges. One of the core challenges is that fintech companies have to deal with – and integrate – a variety of different systems. This makes the development of applications harder than in other sectors. However, the need is still there with new research demonstrating that 
+Fintech continues to grow rapidly, as the worldwide adoption rate is now 64%. But what are the other challenges within Fintech? And how is the industry solving them? Here are three key challenges: Open Banking The new open banking regulation is a game changer for fintech companies. It allows third-party providers, such as fintechs, to access bank data. This changes the way people interact with their banks and creates opportunities for innovation in areas such
+ as payments and lending.  And it’s now everywhere, everyday. You can pay for your products online through digital banking technology, for instance, or manage all of your investments and savings in one app and use accounting software to collate all of your bank accounts into one system.
+ This is all possible through open banking.   When creating open access to banking and data, security and compliance are areas that, of course, place themselves high up the agenda. The protection of sensitive customer data is aligned to stringent security measures in open banking. The open banking system
+ is facilitated by the use of application programming interfaces (APIs), which allows the sharing of data and information between the relevant parties.  Leading developers and fintech companies are working to ensure that these APIs are secure and comply with data privacy regulations, such as the General Data Protection Regulation and the Payment Services Directive 2. In this system of open exchange, interoperability is everything. Implementing interoperable APIs ensures that third-party providers, from large financial institutions to digital banking apps, can easily access data through the same connection - and that
+ means all consumers can reap the products’ full benefits. If developers produce APIs that can work seamlessly with different systems, including legacy systems, they can ensure compatibility. Lastly, open banking, by its very nature, requires large bundles of data and transactions. So the reason open banking has been able to succeed where it has is through the development of scalable architecture that allows the system to handle any spikes in
+ traffic, adapt to user demand and support future growth.  Digital Transformation Digital transformation is a wide-scale change in the way business is done, with the purpose of improving performance and efficiency. It's about adapting to the new digital world, where customers are empowered and have more choices. Digital transformation is often confused with digitalisation; however, they are not identical concepts. Digitisation refers to the use of technology in an organisation, while digital transformation involves rethinking an entire business model from startup
+ to established companies. When it comes to digital transformation, leaders are consistently investing in data management processes. Digital transformation is dependent on and generates a massive amount of data. Working with experts in data management, security and privacy are crucial
+ to scaling and keeping things quick, accurate and impactful.  The transformation process is also reliant on leveraging software expertise that is able to manage outdated legacy systems that are no longer supported. Using this support is vital to understanding if systems will be compatible with new digital technologies
+ and taking the necessary steps to progress forward. Fintech's acceptance of open-source software Open-source software is a way for developers to share their work and collaborate with others on projects. This type of software allows for rapid development, as well as greater security and reliability because there are many eyes looking at the code. The
+ community behind open-source projects is also able to keep up with new technologies, allowing them to be scalable when needed. With many cooks in the process, developers need to create effective means of coordination: open-source software development is often a collaborative effort involving many developers who may be located in different parts of the world. In order to deal with
+ factors such as time zones and cultural differences, many companies are adopting a blended strategy that makes use of onshoring, nearshoring and offshoring to suit their needs as and when they are required. This creates more cost efficiency and effective collaboration.  Building this vibrant and engaged community is crucial for your open source projects to thrive. The sharing of software and engagement with various contributors can drive innovation and progress projects forward. This is epitomised by fintechs such as Stripe,
+ a leading financial infrastructure platform for businesses that provides an industry-leading solution for embedded payments and financial services. Its open-source software Stripe React Native SDK is accessible online and allows users and developers to integrate
+ payment options like Apple and Google Pay into their React Native app.  You also need to consider quality control. The quality of open source software can vary significantly, and maintaining the quality of the codebase can be challenging. Developers must ensure that the code is reviewed and tested thoroughly to avoid introducing
+ bugs or vulnerabilities. The bottom line Despite the need to embrace fintech, it is an incredibly intricate and complex sector, so it’s no surprise that this brings a wealth of challenges - but, as evidenced, a wealth of solutions as well. Fintech shows no sign of slowing down, and industry leaders
+ and developers are confronting these challenges facing software development to successfully progress in the industry. Open banking, digital transformation and open source software all come with their own difficulties. As long as these issues are acknowledged
+ and addressed, fintech software development will continue to prosper. This content has been created by the Finextra editorial team with inputs from subject matter experts at the funding sponsor. Fintech discussions and conversations around the development of fintech.  
+853 opinions
+168 members
+3 hours
+ 
+09 July
+ 
+20 May
+ 
+13 July
+ Francesco Fulcoli  Chief Compliance and Risk Officer at Flagstone 
+3 hours
+ Tom Rowe-Jones  M&A Director at LAVA Advisory Partners 
+3 hours
+1
+ Gustav Korobov  Senior Sales Executive - Core Banking platform at Advapay 
+4 hours
+114
+ Alex Kreger  Founder & CEO at UXDA 
+5 hours
+ This content is provided by an external author without editing by Finextra. It expresses the views and opinions of the author. Sergio Barbosa CIO of Global Kinetic, and CEO of FutureBank. at Global Kinetic and FutureBank 
+16 August
+ Sergiy Fitsak Managing Director, Fintech Expert at Softjourn 
+14 August
+ Mete Feridun Chair at EMU Centre for Financial Regulation and Risk 
+14 August
+ Konstantin Rabin Head of Marketing at Kontomatik 
+14 August
+ Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

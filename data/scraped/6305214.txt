@@ -1,0 +1,387 @@
+Global 
+English
+		    
+ Austria 
+German
+		    
+ Belgium 
+Dutch
+		    
+ 
+French
+		    
+ Bulgaria 
+Bulgarian
+		    
+ Croatia 
+Croatian
+		    
+ Czech Republic 
+Czech
+		    
+ Denmark 
+Danish
+		    
+ Estonia 
+Estonian
+		    
+ Finland 
+Finnish
+		    
+ France 
+French
+		    
+ Germany 
+German
+		    
+ Greece 
+Greek
+		    
+ Hungary 
+Hungarian
+		    
+ Ireland 
+English
+		    
+ Italy 
+Italian
+		    
+ Latvia 
+Latvian
+		    
+ Lithuania 
+Lithuanian
+		    
+ Luxembourg 
+French
+		    
+ Netherlands 
+Dutch
+		    
+ Norway 
+Norwegian
+		    
+ Poland 
+Polish
+		    
+ Portugal 
+Portuguese
+		    
+ Romania 
+Romanian
+		    
+ Russia 
+Russian
+		    
+ Serbia 
+Serbian
+		    
+ Slovakia 
+Slovakian
+		    
+ Slovenia 
+Slovenian
+		    
+ Spain 
+Spanish
+		    
+ Sweden 
+Swedish
+		    
+ Switzerland 
+French
+		    
+ 
+German
+		    
+ 
+Italian
+		    
+ Turkiye 
+Turkish
+		    
+ United Kingdom 
+English
+		    
+ Global 
+English
+		    
+ Argentina 
+Spanish
+		    
+ Aruba 
+Spanish
+		    
+ Bolivia 
+Spanish
+		    
+ Brazil 
+Portuguese
+		    
+ Canada 
+English
+		    
+ 
+French
+		    
+ Chile 
+Spanish
+		    
+ Colombia 
+Spanish
+		    
+ Costa Rica 
+Spanish
+		    
+ Dominican Republic 
+Spanish
+		    
+ Ecuador 
+Spanish
+		    
+ El Salvador 
+Spanish
+		    
+ Guatemala 
+Spanish
+		    
+ Honduras 
+Spanish
+		    
+ Mexico 
+Spanish
+		    
+ Panama 
+Spanish
+		    
+ Peru 
+Spanish
+		    
+ Puerto Rico 
+Spanish
+		    
+ United States of America 
+English
+		    
+ Uruguay 
+Spanish
+		    
+ Global 
+English
+		    
+ Algeria 
+English
+		    
+ 
+French
+		    
+ Angola 
+English
+		    
+ 
+French
+		    
+ Bahrain 
+English
+		    
+ Botswana 
+English
+		    
+ 
+French
+		    
+ Cameroon 
+English
+		    
+ 
+French
+		    
+ Côte d'Ivoire 
+English
+		    
+ 
+French
+		    
+ Egypt 
+English
+		    
+ 
+French
+		    
+ Ghana 
+English
+		    
+ 
+French
+		    
+ Israel 
+Hebrew
+		    
+ Jordan 
+English
+		    
+ Kenya 
+English
+		    
+ 
+French
+		    
+ Kuwait 
+English
+		    
+ Lebanon 
+English
+		    
+ Madagascar 
+English
+		    
+ 
+French
+		    
+ Mali 
+English
+		    
+ 
+French
+		    
+ Mauritius 
+English
+		    
+ 
+French
+		    
+ Morocco 
+English
+		    
+ 
+French
+		    
+ Namibia 
+English
+		    
+ 
+French
+		    
+ Nigeria 
+English
+		    
+ 
+French
+		    
+ Oman 
+English
+		    
+ Pakistan 
+English
+		    
+ Palestine 
+English
+		    
+ Qatar 
+English
+		    
+ Saudi Arabia 
+English
+		    
+ Senegal 
+English
+		    
+ 
+French
+		    
+ South Africa 
+English
+		    
+ Tanzania 
+English
+		    
+ 
+French
+		    
+ Tunisia 
+English
+		    
+ 
+French
+		    
+ Uganda 
+English
+		    
+ 
+French
+		    
+ United Arab Emirates 
+English
+		    
+ Zambia 
+English
+		    
+ 
+French
+		    
+ Zimbabwe 
+English
+		    
+ 
+French
+		    
+ Global 
+English
+		    
+ Australia 
+English
+		    
+ Bangladesh 
+English
+		    
+ China 
+Chinese
+		    
+ 
+English
+		    
+ India 
+English
+		    
+ Indonesia 
+English
+		    
+ Japan 
+Japanese
+		    
+ Kazakhstan 
+Russian
+		    
+ Malaysia 
+English
+		    
+ Mongolia 
+Mongolian
+		    
+ 
+English
+		    
+ New Zealand 
+English
+		    
+ Philippines 
+English
+		    
+ Singapore 
+English
+		    
+ South Korea 
+Korean
+		    
+ Sri Lanka 
+English
+		    
+ Taiwan (Chinese Taipei) 
+Chinese - Traditional
+		    
+ Thailand 
+English
+		    
+ Vietnam 
+English
+		    

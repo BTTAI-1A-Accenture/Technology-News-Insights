@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.nbcrightnow.com/news/marcus-whitman-hotel-in-walla-walla-evacuated-after-chemical-odor-detected/article_4ae54dc0-5360-11ee-88a5-3b47b7e966ff.html

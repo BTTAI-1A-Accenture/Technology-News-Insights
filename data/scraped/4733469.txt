@@ -1,0 +1,29 @@
+
+  In August 2019, Cerebras Systems - a California-based company-  unveiled the world's largest computer chip. Named the Wafer Scale Engine (WSE), the chip measures 8.46 inches across (being roughly the size of an iPad) and contains 1.2 trillion transistors, making it the largest and most powerful computer chip ever created. The WSE was specifically designed for use in artificial intelligence (AI) and scientific research applications. 
+ 
+  Cerebras is a relatively new company that was founded in 2016 by Andrew Feldman, a Silicon Valley entrepreneur and computer chip designer who had previously founded SeaMicro, a company that specialized in developing energy-efficient servers for data centers, later sold to AMD for $334 million. With Cerebras, Feldman aimed to push the boundaries of chip design and create a new generation of processors that could power AI and scientific research.
+ 
+  Rather than building multiple chips and connecting them together, Cerebras decided to create a single chip that covers an entire wafer. The result is a chip that is over 56 times larger than the largest GPU, containing 3,000 times more cores than a typical CPU.
+ 
+  It is well-suited for applications where large amounts of data need to be processed quickly and accurately. The chip's size and power allows it to perform complex calculations and analyze vast amounts of data at a speed that was previously unimaginable.
+ 
+  Creating a chip of this complexity required Cerebras to overcome numerous obstacles, such as finding ways to power and cool the chip, and designing software to support it.  Cerebras developed a unique water-cooling system that circulates through the chip to keep it from overheating.  Despite these challenges, the WSE has already generated significant interest within the tech and science communities. In 2020, the US Department of Energy's Argonne National Laboratory announced that it would be using the WSE for research into energy storage and climate change.
+ 
+  During a trip to Silicon Valley, Townley Grammar School were fortunate enough to be able to visit Cerebras as part of their industry visit, where they got the chance to get a tour of the building and hold the world’s largest chip as well as meeting Andrew Feldman and his colleagues to learn more about what the company does, what makes them unique and had the opportunity to ask them questions. Magda Rusu, a student from Townley Grammar School who went on the trip, gave her opinion on it: “I found our visit to Cerebras really insightful. I had never really considered a career in a startup company, having only heard of big tech ones like Google and Microsoft, but Cerebras opened up my mind to its capabilities, which grew from a handful to 300 people”. As the field of AI and scientific research continues to grow and evolve, it is likely that the WSE will play an important role in shaping its future.
+ 
+
+   
+ 
+                    We want our comments to be a lively and valuable part of our community - a place where readers can debate and engage with the most important local issues. The ability to comment on our stories is a privilege, not a right, however, and that privilege may be withdrawn if it is abused or misused.
+                 
+                    Please report any comments that break our rules.
+                 
+                This website and associated newspapers adhere to the Independent Press Standards Organisation's
+    Editors' Code of Practice. If you have a complaint about the editorial content which relates to
+    inaccuracy or intrusion, then please 
+    contact the editor here.
+    If you are dissatisfied with the response provided you can
+    contact IPSO here
+ 
+© 2001-2024.  Newsquest Media Group Ltd, 1st Floor, Chartist Tower, Upper Dock Street, Newport, Wales, NP20 1DW  | 01676637 |
+             Data returned from the Piano 'meterActive/meterExpired' callback event. As a subscriber, you are shown 80% less display advertising when reading our articles. Those ads you do see are predominantly from local businesses promoting local services.  These adverts enable local businesses to get in front of their target audience – the local community. It is important that we continue to promote these adverts as our local businesses need as much support as possible during these challenging times.

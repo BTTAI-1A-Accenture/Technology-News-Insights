@@ -1,0 +1,19 @@
+Is it really worth building a device with a screen if it canât play Doom? Of course not, which is why Sean Hodgins recently shared a video justifying the existence of their custom built persistence-of-vision spinning LED Christmas tree by playing the iconic 30-year-old first-person shooter on it. If your brain completely checked out sometime near the beginning of December last yearâa totally understandable and reasonable thing for it to doâyou may have missed the debut of Hodgins latest holiday hack. In years past, Hodgins has created everything from a 3D printer ornament that 3D prints smaller  ornaments, to a snow globe that actually makes its own snow using a stack of thermoelectric coolers to chill the inside of the globe to freezing temperatures. For 2022, Hodgins created their own five-foot tall electronic Christmas tree that looked more like a plain triangular frame built from welded metal tubing. But thanks to a strip of color-changing LEDsÂ and a half-horsepower electric AC motor, that triangular frame can be spun at terrifying speeds to create a persistence-of-vision effect revealing a glowing, decorated tree. It was both a fun and equally terrifying piece of holiday decor, but what good is an electronic Christmas tree when Christmas is over? The answer to that is simple. The tree is actually nothing more than a cone-shaped LED screen that can be used to display really anything fed to it through a Raspberry Pi and a laptop. So instead of lights, pine needles, and ornaments, Hodgins upgraded the holographic treeâs capabilities to play video, which in this case happens to be a live stream of someone playing Doom. Is it the most effective way to play the game? Not in the slightest, as youâre really only seeing the action happening in the middle of the screen. The left and right sides are displayed on the back half of the spinning tree, making it harder to see baddies coming at you from the sides. But the creation passes the âwill it run Doomâ test, which is all that really matters. 
+ChristmasChristmas treeDoomHolidaysVideo gamesVideo gaming  
+          SAG-AFTRA has announced a strike for performers under its Interactive Media Agreement, which covers around 2,600 video game voice actors and motion capture performers working with Activision, Electronic Arts, WB Games, and more.
+         
+          The Terrifier franchise returns with its latest ultra-violent installment this October 11. 
+         
+          The device's satisfyingly clicky buttons appear to work well with the classic FPS.
+         
+          By July 29, there will be dozens of Xbox 360 games that will simply disappear. You can download them before itâs too late. 
+         
+          Dwayne Johnson and Chris Evans star in the Santa Claus gets  Taken   film out November 15.
+         
+          MachineGames' take on the famous explorer is to play the hits, one busted Nazi face at a time.
+         We may earn a commission when you buy through links on our sites.
+Â©2024 GIZMODO USA LLC. All rights reserved. Mode 
+                Follow us
+               Mode 
+                Follow us
+              

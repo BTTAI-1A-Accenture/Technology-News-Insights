@@ -1,0 +1,54 @@
+Navigation  
+
+
+
+
+ 
+                            Search 
+                            
+ 
+
+
+
+
+ 
+                            Change language and content customisation 
+                            
+ 
+
+
+
+
+ 
+                            Find an advisor 
+                            
+ 
+
+
+
+
+ 
+                            Get in touch 
+                            
+ 
+
+
+
+
+ 
+                            Find an office 
+                            
+ Search for: Jump straight to: Please enter a search term We can use your selection to show you more of the content that you’re interested in. Sign-up to follow topics, sectors, people  and also have the option to receive a  weekly update of lastest news across your  areas of interest. Got an account already? 
+
+        Sign in
+    
+
+ Search for: Please enter a search term 
+Out-Law Analysis
+
+5 min. read
+
+ 08 Aug 2023, 9:44 am   The post-Covid business world is no stranger to the increased integration of technological advancements into business practices and the execution of contracts through electronic means, which has become more and more common. A recent Canadian ruling on the validity of a ‘thumbs-up’ emoji as a legally recognised signature raises significant legal questions regarding the definition of a valid signature and brings into focus the common law principles of contract in South Africa. South West Terminal Ltd (SWT) regularly purchased grain from Achter Land & Cattle Ltd (Achter Land), through various deferred grain contracts dating back to around 2012. In 2021, following a phone conversation with Chris Achter of Achter Land, a contract for 86 metric tonnes of flax was drafted, and a representative from SWT signed it using a ‘wet ink’ signature. SWT captured pictures of the contract and transmitted it via text message to Achter along with a text message: “Please confirm flax contract”. Achter responded to the text messages with a thumbs-up emoji. The court, in its ruling, held that the thumbs-up emoji as a valid indication of agreement to the contract's terms within the specific context of this case. The judge acknowledged that this method may not conform to traditional practices but emphasised the importance of recognising and considering the influence of the evolving technological landscape. Historically, Canadian law has found some application in several South African cases. In this context, it is worth considering whether this decision from the Canadian courts could potentially apply to South African law. Two significant English law principles may offer some insight. In 1903, the court applied the ‘caveat subscriptor’ principle and held that when an individual affixes their signature to a document, they are presumed to have knowledge and understanding of its contents, thereby establishing their binding commitment to the document. There is therefore a rebuttable presumption that a person who signs a document is aware of its contents. However, while this perspective is appropriate when determining whether the signatory had knowledge of a document's contents, it is not suitable when assessing their intention to be bound. The correct principle for such cases lies in the doctrine of ‘quasi-mutual assent’, which focuses on whether the other party can reasonably assume that the signatory intended to be bound by the document. For example, in the 1963 case of Van Wyk v Otten, the buyer of a second-hand car was not held bound by a document he had not read, as the seller was aware of the buyer's lack of knowledge and was solely responsible for the buyer's ignorance of the contents. The answer as to whether a thumbs-up emoji can be considered both a valid signature and an indication that the signatory is aware and has consented to be bound to the contract can potentially be found by determining whether a valid electronic signature has been affixed and whether, by the doctrine of quasi-mutual assent, the signor intended to be bound by their signature. In South Africa, the common law and the Electronic Communications and Transaction Act 25 of 2002 (“ETCA”) regulate the requirements for a valid signature. Under the common law, these are: ECTA defines an electronic signature as “data attached to, incorporated in, or logically associated with other data and which is intended by the user to serve as a signature”.  A data message is defined as “data generated, sent, received or stored by electronic means and includes (a) voice, where the voice is used in an automated transaction; and (b) a stored record”. ECTA further distinguishes between an ‘advanced’ electronic signature and a standard electronic signature. An advanced electronic signature means an “electronic signature which results from a process which has been accredited by the Authority.” This distinction is made under section 13(1) of the ECTA which provides that where a person is legally obligated to provide a signature, and the law does not specify the type of signature to be used, the requirement can only be met for a data message if an advanced electronic signature is used. Section 13(3) provides that where an electronic signature is requested by the parties and they have not agreed to the type of electronic signature to be used, the requirement in relation to an electronic signature is met if: ECTA further provides that an advanced electronic signature will only be accredited by an accreditation body if it is: Applying these criteria, it stands to reason that a thumbs-up emoji falls short of meeting the requirements for an advanced electronic signature as it fails to uniquely identify the user or establish a direct link to their identity. Moreover, it does not meet the criteria of being created through means that can be maintained solely under the user's control, and the use of this method lacks the capability to detect any subsequent changes to the related data or data message. Additionally, an advanced electronic signature should be based on face-to-face identification of the user, which is not fulfilled by a simple thumbs-up emoji.   Not necessarily. The question may prove more challenging where the parties to the contract require an electronic signature but do not specify what type of signature is to be used. In the Canadian case, the court referred to the fact that SWT and Achter Land had concluded several contracts via the WhatsApp platform in their previous engagements and that this was standard practice in the industry; that the contract which identified the parties and was signed by SWT in wet ink was drafted after phone conversation between the parties, captured via pictures and transmitted to Achter; the conventional definition and use of the emoji, that is, to display acceptance and or approval; and the fact that SWT had requested confirmation from Achter to confirm acceptance of the contract. In these circumstances, the court found that the use the emoji sufficed as a valid signature. In South Africa, a simple tick on a contract may be considered a valid signature and acceptance of the contract. Section 13(2) of ECTA specifically prescribes that the legal validity and effectiveness of an electronic signature are not negated solely based on its existing in electronic form. Courts have previously established that a legally binding contract can be formed through WhatsApp platform, for example in the 2019 Kgopana v Matlala case. In 2014, the courts determined that simply signing your name at the end of the email is sufficient to conclude a valid contract. The validity of using an emoji as a signature hinges on whether the emoji use is capable of identifying the person and demonstrates their intention to be bound to the communicated information and, if this method is deemed adequately reliable for the intended purposes, considering all relevant circumstances. It stands to reason that, in the right circumstances, just as in the Canadian case, an emoji may constitute a valid signature in South Africa. Co-written by Mahlatse Mokgotlha of Pinsent Masons. Written by Nayna Cara Legal Director Out-Law Guide 08 Jun 2023 Sign-up to receive the latest news, analysis and events direct to your e-mail inbox Out-Law News The European Commission has set out plans to improve telecommunications and digital infrastructure across the bloc in the coming years, starting with the next legislative term. Out-Law News Announcements from the UK government and National Institute of Standards and Technology (NIST) show aims of enhancing governance in cyber security control management systems with hopes of more appropriate protection for firms, an expert has said.   Out-Law News Singapore has announced plans to introduce new reporting requirements which will make climate-related disclosures mandatory for Singapore Exchange (SGX) listed and some non-listed companies. Out-Law News  'Steps of court' settlement was not negligent, court rules Out-Law Analysis  A global view of the law applicable to an arbitration agreement Out-Law News  Abu Dhabi Global Market opens consultation to update English law regulations  Legal Director Out-Law News  Advocate general: German credit agency scoring breaches GDPR Out-Law News  Advocates question plans over industrial disease costs in Scotland  Partner Senior Associate  2024 Copyright Pinsent Masons LLP 
+                        We use cookies that are essential for our site to work. To improve our site, we would like to use additional cookies to help us understand how visitors use it, measure traffic to our site from social media platforms and to personalise your experience. Some of the cookies that we use are provided by third parties. To accept all cookies click ‘accept all’. To reject  all optional cookies click ‘reject all’. To choose which optional cookies to allow click ‘cookie settings’. This tool uses a cookie to remember your choices.
+                        
+Please visit our cookie policy for more information. 

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/national/tmc-emerging-technology-fund-lp-invests-in-trained/article_02931821-af3c-588b-a132-ea923f0c4f3a.html

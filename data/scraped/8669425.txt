@@ -1,0 +1,73 @@
+
+– Phase 1 data show encouraging clinical benefit for IO-108 as a monotherapy and when combined with pembrolizumab, suggesting potential to overcome resistance to T-cell checkpoint inhibitors –
+
+ 
+– Preclinical data for IO-312, a novel bispecific antibody targeting LILRB4 (ILT3) and CD3 (LILRB4 x CD3) will be presented as a late-breaking poster at AACR 2023 –
+ PALO ALTO, Calif.--(BUSINESS WIRE)--Immune-Onc Therapeutics, Inc. (“Immune-Onc”), a private, clinical-stage cancer immunotherapy company developing novel biotherapeutics targeting myeloid checkpoints, today announced encouraging Phase 1 dose escalation data for IO-108, a novel myeloid checkpoint inhibitor targeting Leukocyte Immunoglobulin-Like Receptor B2 (LILRB2, also known as ILT4). The data will be presented in an oral session at the American Association for Cancer Research (AACR) Annual Meeting in Orlando, Florida, April 18. Preclinical data for IO-312, a novel bispecific antibody targeting LILRB4 (ILT3) and CD3 (LILRB4 x CD3) will also be presented on April 18 as a late-breaking poster at AACR 2023.
+
+  
+“We are very encouraged to see promising signs of clinical activity across multiple solid tumor types and a favorable safety profile with our first-in-class myeloid checkpoint inhibitor, IO-108,” said Charlene Liao, Ph.D., chief executive officer and board chair of Immune-Onc. “Our data demonstrates the utility of IO-108 as a new therapeutic modality to address key unmet needs for patients with solid tumors that do not respond to, develop resistance to, or relapse following, treatment with T cell checkpoint inhibitors.”
+
+ 
+The Phase 1 dose escalation study of IO-108 is intended to evaluate primary objectives of safety and tolerability, and secondary and exploratory objectives of pharmacokinetics, immunogenicity, pharmacodynamic (PD) biomarker effects, and antitumor activity of IO-108 as a monotherapy and in combination with pembrolizumab in patients with advanced solid tumors. The trial enrolled 25 advanced cancer patients with relapsed/refractory solid tumors. Patients received escalating doses of IO-108 (60 mg -1800 mg) intravenously once every three weeks (Q3W). Treatment with IO-108 was well-tolerated to the maximum administered dose (1800 mg Q3W); the maximum tolerated dose was not reached. Among 23 evaluable patients (11 monotherapy, 12 combination therapy plus 1 crossover), results showed 1 complete response and 4 stable disease patients in the monotherapy cohorts and 3 partial responses and 4 stable disease patients in the combination cohorts.
+
+ 
+The 4 responding patients remain on study with an ongoing treatment duration of 8 to 12+ months as of abstract submission. Clinical benefit correlated with baseline characteristics and post-treatment changes in PD biomarkers including reprogramming of myeloid cells and activation of T cells.
+
+ 
+“Treating patients who are refractory to treatment with T-cell immune checkpoint inhibitors remains an ongoing challenge across many tumor types,” said IO-108 Phase 1 investigator, Matthew H. Taylor, M.D., Earle A. Chiles Research Institute, Providence Cancer Institute, Portland, Oregon. “I am very encouraged by these results, particularly the complete response to IO-108 monotherapy treatment in the Merkel cell carcinoma patient who had progressed on prior anti-PD-1 treatments. These findings suggest that LILRB2 is a critically important immunotherapy target.”
+
+ 
+The initial data from dose escalation supports further development of IO-108. The preliminary recommended Phase 2 dose (RP2D) is 1200 mg Q3W which is projected to achieve full receptor occupancy in at least 90% of patients. The ongoing IO-108 Phase 1 study is actively enrolling several biomarker-driven dose expansion cohorts, using IO-108 at RP2D as a monotherapy and in combination with anti-PD-1 antibodies (pembrolizumab, cemiplimab or tislelizumab), both in the U.S. and China.
+
+ 
+Immune-Onc oral and poster presentation details are as follows:
+ 
+Abstract Number: 9498
+Title: A first-in-human phase 1 trial of IO-108, an antagonist antibody targeting LILRB2 (ILT4), as monotherapy and in combination with pembrolizumab in adult patients with advanced relapsed or refractory solid tumors: Dose escalation study
+Presenter: Matthew H. Taylor, M.D., Earle A. Chiles Research Institute, Providence Cancer Institute, Portland, Oregon
+Session Title: Novel Immunotherapy Combination Clinical Trials
+Session Date and Time: Tuesday, April 18, 2:30 p.m. - 4:30 p.m. ET
+Presentation Number: CT040
+
+ 
+Abstract Number: LB217
+Title: A novel bispecific LILRB4/CD3 antibody with potent killing of monocytic acute myeloid leukemia cells
+Presenter: Charlene Liao, Ph.D., chief executive officer of Immune-Onc Therapeutics, Inc.
+Session Title: Late-Breaking Research: Immunology 2
+Session Date and Time: Tuesday, April 18, 9:00 a.m. - 12:30 p.m. ET
+Location: Poster Section 36, Poster Board #10
+
+ 
+Abstracts and full session details can be accessed through the AACR Online Program Planner
+ 
+ABOUT IO-108
+ 
+IO-108 is a fully human IgG4 monoclonal antibody with high affinity and specificity towards LILRB2 (also known as ILT4). It blocks the interaction of LILRB2 with multiple ligands that are involved in cancer-associated immune suppression, including HLA-G, ANGPTLs, SEMA4A and CD1d. Preclinical data presented at the 2020 Society for Immunotherapy of Cancer annual meeting and the 2022 American Association for Cancer Research annual meeting demonstrate that IO-108 functions as a myeloid checkpoint inhibitor and promotes innate and adaptive anti-cancer immunity.
+
+ 
+The ongoing Phase 1 study of IO-108 in adult cancer patients has completed dose escalation in the U.S. (NCT05054348) and is actively enrolling several expansion cohorts, as a monotherapy and in combination with anti-PD-1 antibodies (pembrolizumab, cemiplimab or tislelizumab), both in the U.S. and China. To date, IO-108 has been well tolerated with demonstrated clinical activity in multiple tumor types, both as a monotherapy and in combination with pembrolizumab.
+
+ 
+ABOUT IMMUNE-ONC THERAPEUTICS, INC.
+ 
+Immune-Onc Therapeutics Inc. (“Immune-Onc”) is a private, clinical-stage cancer immunotherapy company dedicated to the discovery and development of novel myeloid checkpoint inhibitors for cancer patients. The company aims to translate unique scientific insights in myeloid cell biology and immune inhibitory receptors to discover and develop first-in-class biotherapeutics that reverse immune suppression in the tumor microenvironment.
+
+ 
+Immune-Onc has a differentiated pipeline with a current focus on targeting the Leukocyte Immunoglobulin-Like Receptor subfamily B (LILRB) of myeloid checkpoints. Immune-Onc’s focused platform approach has led to the development of several promising therapeutics across various stages of development. Those include IO-108, a first-in-class antagonist antibody targeting LILRB2 (also known as ILT4), in Phase 1 clinical development for solid tumors and IO-202, a first-in-class antagonist antibody targeting LILRB4 (also known as ILT3), in Phase 1 clinical development for the treatment of acute myeloid leukemia (AML), chronic myelomonocytic leukemia (CMML), and solid tumors. Additional assets in Immune-Onc’s pipeline include IO-106, a first-in-class antagonist antibody targeting LAIR1, IO-312, a novel bispecific antibody targeting LILRB4 and CD3 (LILRB4 x CD3), and multiple undisclosed programs.
+
+ 
+Immune-Onc has established agreements with leading biopharmaceutical companies, including BeiGene and Regeneron, to support its global product development plans for IO-108 and IO-202. It has received research grants from the National Cancer Institute (NCI) of the National Institutes of Health (NIH) and the California Institute for Regenerative Medicine (CIRM) and investment from The Leukemia & Lymphoma Society Therapy Acceleration Program® (LLS TAP®). Headquartered in Palo Alto, California, Immune-Onc has assembled a diverse team with deep expertise in drug development and proven track records of success at leading biopharmaceutical companies. For more information, please visit www.immune-onc.com and follow us on Twitter and LinkedIn.
+
+ 
+MEDIA CONTACT 
+Tara Cooper
+The Grace Communication Group
+tara@gracegroup.us media@immuneonc.com 650-303-7306
+
+ 
+MEDIA CONTACT 
+Tara Cooper
+The Grace Communication Group
+tara@gracegroup.us media@immuneonc.com 650-303-7306
+

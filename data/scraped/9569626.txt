@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.chroniclejournal.com/news/national/canada-to-join-u-s-trade-fight-with-mexico-over-genetically-modified-corn-products/article_69fbbcd9-e6aa-5475-adae-e7ebe94919b9.html

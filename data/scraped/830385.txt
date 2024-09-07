@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/cummins-closes-on-acquisition-of-siemens-commercial-vehicles-business/article_f578959f-709c-548a-9d2e-cd1191a6a001.html

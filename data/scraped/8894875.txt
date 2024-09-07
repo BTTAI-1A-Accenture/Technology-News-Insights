@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.galvnews.com/news_ap/business/identiv-announces-scale-computing-partnership-to-streamline-video-and-access-control-deployments/article_c6167f15-cf2e-53af-8c1c-20651e246b81.html

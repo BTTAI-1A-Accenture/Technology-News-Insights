@@ -1,0 +1,99 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Aug 17, 2024, 12:57pm Video conferencing software has become a lifeline to millions and a standard part of our daily lives. Today’s best video conferencing software and apps allow colleagues to see and hear each other with high-definition (HD) quality. With a wealth of video conferencing options available—all offering unique features at different prices, selecting one can be difficult. Forbes Advisor breaks down the best video conferencing apps to help you choose the right fit for your team and budget.  Featured Partners 1 Zoho Meeting Yes Features 3 1 Zoho Meeting On Zoho’s Website 2 Slack Free; $7.25 per user per month Both Built-in chat, calls and video, automated workflows and user customization 2 Slack On Slack’s Website  The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, strategic methodologies and expert insights to inform all of our content and guide you in making the best decisions for your business journey. We reviewed multiple video conferencing providers using a complex methodology to determine the five best video conferencing software options for small businesses. Our ratings considered numerous factors around pricing, number of features available, reviews of the software by real users and a final analysis by our panel of experts. All ratings are determined solely by our editorial team. Free version  Yes 
+ Security features  End-to-end encryption (E2EE), user authentication, region blocking and passcode functionality 
+ Meeting capacity in free version  100 people 
+
+Yes
+
+
+ Yes 
+ 
+
+End-to-end encryption (E2EE), user authentication, region blocking and passcode functionality
+
+
+ End-to-end encryption (E2EE), user authentication, region blocking and passcode functionality 
+ 
+
+100
+people
+
+ 100 people Zoom is one of the most popular video conferencing software systems on the market because of its affordable pricing, impressive feature set and exceptional usability. Additionally, Zoom offers an impressive number of integration capabilities with third-party applications. Whether you use the service on your desktop or mobile device, Zoom has a lot to offer just about any small business. Zoom’s free plan is a perfect way to try out the software for yourself. With that in mind, group calls on the free plan are limited to 40 minutes in length and only support up to 100 people at once. At some point, you will probably want to upgrade to one of the company’s paid plans: All plans come standard with access to the company’s mobile apps and call controls for screen sharing and muting participants. For an additional $50 per month, Zoom also offers a “Large Meetings” upgrade that increases your meeting capacity to 500 people at once. This is especially useful if your company hosts frequent webinars for audiences. As great as Zoom is, there have been unfortunate controversies surrounding its security flaws. The company has been very public about improving its security since the “Zoom-bombing” scandals, but teams that plan on sharing sensitive information over video calls might want to keep this in mind when researching services. Zoom offers end-to-end encryption or E2EE. One downside to E2EE (which you can choose to enable and disable) is that it blocks features such as cloud recording when in use. Additional security measures include passcodes, the ability to lock meetings, screen share watermarks, audio signatures and the ability to directly control who can join and which attendees are allowed to record the session. Zoom is one of the biggest players in the video conferencing space given its reliability and powerful feature set. Any business in the market for a new service should consider Zoom, especially since it offers a completely free version. Learn more: Read our full Zoom review. Who Should Use It:  Zoom is one of the best all-around solutions on the market today. As such, we find that it’s a good choice for just about any kind of company. Free version  Yes 
+ Security features  Automatic encryption of all data 
+ Meeting capacity in free version  100 people 
+
+Yes
+
+
+ Yes 
+ 
+
+Automatic encryption of all data
+
+
+ Automatic encryption of all data 
+ 
+
+100
+people
+
+ 100 people Google Meet is the company’s latest replacement for Hangouts and can be used by anyone with a free Google account. The software comes standard with calls for up to 100 people, mobile functionality and a screen sharing module. While a free version is available, you will need a paid Google Workspace plan for access to whiteboard tools and social media integrations. While the interface isn’t as smooth as competing systems, the service also comes bundled with many of Google’s other useful apps free of charge, which is ideal for solopreneurs and startups that need to stretch every dollar of their tech budget. Google Meet is completely free for personal Google accounts. If you upgrade to the company’s Workspace suite, you can unlock additional features: It’s worth noting that your Google account comes with a suite of other productivity services. Whether you have a personal or paid Workspace account, the service comes with access to a word processor, spreadsheet software, a calendar scheduling app and more. This could make Google Meet an attractive one-stop shop for new startups looking for a solid value. As for security, Google states that data shared through Meet gets encrypted during transit by default. The service also adheres to the Internet Engineering Task Force’s (IETF) security standards for Datagram Transport Layer Security (DTLS) and Secure Real-time Transport Protocol (SRTP). While some might pass on Google Meet in search of a more specific video conferencing service, we think the solid free version and affordable service plans make Meet a worthwhile investment for most businesses. Who Should Use It:  Google’s vast bundle of services makes Meet an attractive option for a do-it-all business suite that won’t break your budget. Learn more: Read our full Google Meet review. Free version  Yes 
+ Security features  RSA public/private key exchange and advanced encryption standard (AES) (256-bit) session encryption. 
+ Meeting capacity in free version  5 people 
+
+Yes
+
+
+ Yes 
+ 
+
+RSA public/private key exchange and advanced encryption standard (AES) (256-bit) session encryption.
+
+
+ RSA public/private key exchange and advanced encryption standard (AES) (256-bit) session encryption. 
+ 
+
+5
+people
+
+ 5 people TeamViewer Meeting makes our list due to its impressive collaboration functionality. TeamViewer, formerly known as Blizz, comes standard with 4K screen sharing functionality. The software also has a variety of on-screen drawing and in-meeting file-sharing capabilities that make it easier to deliver informative presentations and distribute documents. If your team’s calls tend to be focused on sharing ideas and content, then TeamViewer might be a perfect fit for you. TeamViewer’s free version only lets you hold meetings for up to five people at once. Therefore, most customers will want to look at the paid plans: All plans come with on-screen drawing tools and in-meeting file sharing. TeamViewer also offers integrations with various networking and business platforms, such as Microsoft Teams, Salesforce, Atlassian, Zendesk, Microsoft Dynamics 365, Amazon WorkSpaces and more. TeamViewer Meeting provides industry-standard security through RSA public/private key exchange and the use of AES (256-bit) session encryption. It’s a solid and secure video conferencing service that provides a truly global networking experience. Who Should Use It:  TeamViewer’s sharing and drawing tools lend themselves well to brainstorming, educational and other collaborative meeting environments. Free version  Yes 
+ Security features  DTLS-SRTP encryption for audio and video, two-factor authentication 
+ Meeting capacity in free version  100 people 
+
+Yes
+
+
+ Yes 
+ 
+
+DTLS-SRTP encryption for audio and video, two-factor authentication
+
+
+ DTLS-SRTP encryption for audio and video, two-factor authentication 
+ 
+
+100
+people
+
+ 100 people Zoho Meeting is just one part of the company’s extensive roster of business applications. The platform offers video conferencing for up to 3,000 people at once depending on what package you go with. The company offers ten distinct pricing tiers, which make it easy to choose a plan that offers only as many participants per meeting as you need. Zoho’s customer service is also exceptionally easy to work with and can upgrade your package in minutes if necessary. Therefore, we recommend Zoho Meeting to fast-growing teams that want a service that’s easy to scale. Zoho’s most basic version is free to use, with limitations on the available features. These 60-minute meetings can include 100 people including the host. In the paid plans, pricing is determined by the number of participants you want to be able to host and the functionality is expanded. Prices for the Meeting service are as follows: Meeting for 10 participants: $1 per host, per month, paid annuallyMeeting for 25 participants: $4 per host, per month, paid annuallyMeeting for 50 participants:  $5 per host, per month, paid annuallyMeeting for 100 participants: $6 per host, per month, paid annually One thing we particularly like about Zoho Meeting is that it does not lock any features behind premium packages. Every paid version of the service comes with email scheduling, meeting recordings, dial-in numbers and more. Who Should Use It:  Zoho Meeting doesn’t allow too many people to join in on a call at one time unless you want to pay for its most expensive plans. But if you only have small meetings, the software is easy to scale and has affordable plans for fast-growing companies. Learn more: Read our full Zoho Meeting review. Free version  Yes 
+ Security features  E2EE encryption, AES-256 bit, password availability 
+ Meeting capacity in free version  25 people 
+
+Yes
+
+
+ Yes 
+ 
+
+E2EE encryption, AES-256 bit, password availability
+
+
+ E2EE encryption, AES-256 bit, password availability 
+ 
+
+25
+people
+
+ 25 people At first glance, CyberLink U Meeting looks like a boring video calling solution. It offers competitive pricing and many of the standard features found in competing systems, but not much else. However, what sets U Meeting apart is that each paid version of service comes with the company’s PerfectCam, a “virtual makeup” add-on that uses artificial intelligence (AI) to improve your appearance. It can even apply eyeshadow, blush, lipstick and more to your face. It’s a unique and impressive feature that could be a good fit for those who want to look their best during meetings. Through the basic free plan, you can only hold a meeting for up to 30 minutes and with a maximum of 25 participants. Paid plans offer higher capacities as well as access to the PerfectCam plugin: U Meeting:  In addition to some novel image-enhancement tech, U Meeting offers a solid video calling platform. You get HD video calling and screen sharing on both desktop and mobile. It comes with all of the call controls and standard encryption of your meetings, too. Its UI is a bit plain-looking compared to other services we looked at, but it’s still very clean and functional. Who Should Use It:  Businesses looking for a decent all-around video conferencing service with an impressive AI-based virtual makeup module will find a solid fit with CyberLink U Meeting. 
+ Video conferencing is a type of virtual, online meeting where two or more people talk through a video and audio call in real time. Video conferencing has been around for years, but it skyrocketed in popularity as school and work shifted into the home during the 2020 pandemic. A video conference can be: Determining the best video conferencing software for your business will ultimately come down to your company’s size, desired features and budget: To join or host any basic video conference, you need: To join or host video conferences with multiple participants in a single room, your business could purchase a conference room set up to capture the best video and audio from all participants in the room. A conference room setup might include: Featured Partners 1 Zoho Meeting Yes Features 3 1 Zoho Meeting On Zoho's Website 2 Slack Free; $7.25 per user per month Both Built-in chat, calls and video, automated workflows and user customization 2 Slack On Slack's Website When determining the best video conferencing software apps, we looked at several components we felt made for the best product. We then scored these contenders across four categories of features with 14 different metrics that were weighted to favor features that small business owners find valuable in video conferencing software. For pricing, we considered whether a software provider offers a free version. A free basic version of the service is useful as a trial run for a service, but today’s leading providers offer such powerful free versions that they may offer enough to smaller workgroups and solo workers. As such, we evaluated which services have the best free version. We also looked at the affordability of its lowest and highest price tiers and the number of features that were available with each higher-priced plan. Companies that offer upfront pricing for all of their pricing tiers received higher ratings here than those that require potential users to contact the provider for a custom quote. Pricing accounted for 30% of our weighted scoring. For video conferencing, we considered certain features to be essential for users of the software. The most important features we looked for included offering recordings and transcriptions of meetings. Other essential features we wanted to see offered by a provider were screen sharing, whiteboard tools, third-party software integrations and a maximum participant limit of at least 200 attendees. We weighted features at 30% of our total score. We sought out reviews from real users to gauge their opinion of each software. This entailed ranking both the overall score from customers and the number of reviews for these scores to give the fullest picture of reality and reduce bias in sites that included G2 and Trustpilot. These accounted for 10% of the total score. Based on our market research and customer reviews, we also ranked additional criteria, such as popularity, stand-out features and ease of use. For ease of use, videoconferencing services should be easy enough to set up and use for workers of all skill levels, even if they aren’t tech experts. Another key metric is value for the money. Sometimes, an expensive service is worth it if it has a wealth of features, top-tier security measures and helpful customer support. We evaluated the value proposition on all of these systems. Altogether, these criteria make up 30% of the total score. Video conferencing software captures participants’ video and audio instantly, compresses the data, sends it across the internet connection and decompresses it to present video and audio to the recipient. Zoom is the best option for hosting large video conferences. This is because its pricing is on a per-license basis and includes meetings of up to 500 participants with its Enterprise plan. Alternatively, Google Meet offers a free plan for up to 100 participants for up to 60 minutes, making it a good value for small businesses on a budget. Zoom was formerly the best one-on-one video conferencing software. However, it recently added a 40-minute time limit to one-on-one calls. If you need more time, Google Meet offers a bit more time with a limit of 60 minutes. Video conferencing allows for face-to-face communication, and often includes options like screen sharing, document markup, breakout rooms, chat, reactions and quizzes that give participants more ways to interact, compared with audio-only calls. Connecting people through video conferencing expands an organization’s options by not requiring participants to be in a single location. 
+                For nearly a decade, Toni Matthews-El has published business topics ranging from cloud communication software to best steps for establishing your own LLC. In addition to Forbes Advisor, she's published articles for Medical News Today, US News and World Report.             
+                Cassie is a deputy editor collaborating with teams around the world while living in the beautiful hills of Kentucky. Focusing on bringing growth to small businesses, she is passionate about economic development and has held positions on the boards of directors of two non-profit organizations seeking to revitalize her former railroad town. Prior to joining the team at Forbes Advisor, Cassie was a content operations manager and copywriting manager.            

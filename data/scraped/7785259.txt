@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='aldianews.com', port=443): Max retries exceeded with url: /en/leadership/advocacy/expanding-digital-literacy (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ab723d8ef50>: Failed to establish a new connection: [Errno 113] No route to host'))

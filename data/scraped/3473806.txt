@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kentuckytoday.com/news/business/viq-solutions-announces-us-15-million-credit-facility/article_10ace84c-3b72-53d5-8834-be126b996454.html

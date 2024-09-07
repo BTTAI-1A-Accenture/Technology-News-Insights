@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.medgadget.com', port=443): Max retries exceeded with url: /2023/01/live-attenuated-vaccines-market-competitive-insights-and-latest-trends-2023.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da93e4db40>, 'Connection to www.medgadget.com timed out. (connect timeout=5)'))

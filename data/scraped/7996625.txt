@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='theusareport.net', port=443): Max retries exceeded with url: /2023/contractor-payroll-services/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ab723d56200>: Failed to resolve 'theusareport.net' ([Errno -5] No address associated with hostname)"))

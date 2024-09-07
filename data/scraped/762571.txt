@@ -1,0 +1,101 @@
+Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter The Society of Motion Picture and Television Engineers examined the future of motion picture exhibition as NAB opened in Las Vegas. 
+							By 
+
+	Carolyn Giardina
+ Tech Editor 
+	Industry-wide collaboration is key to a successful rollout of high dynamic range imagery on all types of cinema display technologies, asserted Universal’s vp of creative technologies Annie Chang during a Future of Cinema Summit, held Saturday during the opening day of the 100th NAB Show in Las Vegas. 
+	Presented by the Society of Motion Picture and Television Engineers, the program featured an update on work that’s being done behind the scenes by individual companies and Hollywood-backed organizations,  not just to roll out HDR in theaters, but to maximize its creative potential with features such as higher brightness, deeper blacks and a wider range of colors.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Related Stories		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Movies
+			
+
+
+
+	
+		
+					Generative AI Is "Not To Replace The Human Aspect of Getting a Performance," Asserts Digital Domain CTO		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Movies
+			
+
+
+
+	
+		
+					'The Matrix' "Bullet Time" VFX Innovators to Receive Engineering Society's Progress Medal		
+			
+
+
+
+
+
+
+ 
+	HDR isn’t a new concept, but for cinemas, today it’s accomplished with laser projectors. Barco exec Tom Bert estimated that of the roughly 200,000 cinema screens worldwide, roughly 50,000-60,000 auditoriums now offer laser projectors, rather than earlier lamp-based systems. Barco’s head of HDR content workflow Joachim “JZ” Zell asserted that “the train has left the station” and forecast that HDR “will simply become a standard part of cinema.”
+
+ 
+	Chang outlined the most recent work of Digital Cinema Initiatives (a consortium formed by the Hollywood studios in 2002 to create and maintain a technical blueprint for a consistent and high-quality digital cinema experience), including the introduction of an addendum to its spec to support HDR. 
+	These latest additions to the DCI spec came together through plenty of testing, which involved participants from the Academy of Motion Picture Arts and Sciences, American Society of Cinematographers and National Association of Theater Owners. 
+	“Filmmakers should think of it as a canvas,” Chang emphasized. “They don’t have to use the full range of HDR, but this creates a consistent canvas so that they know that their vision will be presented accurately.” Speakers including Pixar senior scientist Dominic Glynn and director/producer Jay Holben contend that more education is needed to show filmmakers the potential of HDR. 
+	There’s also a new DCI addendum specific to the category known as “direct view” displays, which is the category for LED walls that have been proposed as an alternative to theatrical projection. For these displays, the DCI spec includes requirements for interoperability and consistent image quality. Samsung and LG are among the manufacturers that already offer such DCI-compliant displays.
+
+	
+
+
+
+
+
+
+
+
+ 
+	Samsung’s Bill Mandel urged the industry to begin a discussion about content security for these direct-view systems. 
+	The Summit program also included a nod to large-scale experiences that go beyond the cinema, highlighted by Las Vegas’ MSG Sphere, which is scheduled to open this fall. When completed, the entertainment venue is expected to become the largest spherical structure in the world, housing a 160,000-square-foot wraparound LED display on the interior, while the exterior will be coated with a 580,000-square-foot exterior LED display, both of which could accommodate 16K-by-16K picture resolution. 
+	“The sphere is a unique use case because it’s enormous,” said Roman Sick, CEO of Holoplot, the Berlin-based company that developed the custom spacial audio system that will be used in the Sphere. 
+	“The  technology that worked for the old world doesn’t work for the new world,” he warned, reporting that Holoplot’s software-driven tech is aimed at controlling sound with algorithms “to make the experience the same in each seat” inside the Sphere. He related that down the road, the company may look to employ this technology in cinemas. 
+	The NAB Show runs through Wednesday. Sign up for THR news straight to your inbox every day Secrets to the magic behind what’s seen on the big and small screen, straight from the crafts and tech maestros Subscribe for full access to The Hollywood Reporter Send us a tip using our anonymous form.

@@ -1,0 +1,22 @@
+
+Thoughtworks (NASDAQ: TWKS), a global technology consultancy that integrates strategy, design and engineering, and First Student, Inc., the leading provider of school transportation in North America, announced today the beginning of the deployment of a digital platform to power their new alternative transportation division, FirstAlt. The launch of this division will enable First Student to address nationwide bus driver shortage and provide reliable, cost-effective transportation service to students with special needs and those who are experiencing homelessness or are displaced. FirstAlt will also provide a more efficient option for some trips that are hard-to-service with a school bus.
+ 
+First Student partnered with Thoughtworks to create a digital platform on AWS that allows third-party transportation providers with available assets and specially trained drivers with leverageable unused early and late hours of drive time. Taking a product thinking and lean product development approach, the First Student and Thoughtworks development teams ideated, designed and delivered a mobile-first application for drivers. The app uses data analytics to match, for example, specialized vehicles with wheelchair lifts and ramps to student transportation requirements to provide timelier and route-efficient transportation for students with less wait times.
+ 
+"A step change in the way we bring drivers, school districts and parents together to provide all of our students with even more timely, reliable and of course, safe transportation is on the horizon," said John Kenning, President and CEO of First Student. "We are delighted with the outcome of the initial phase of deployment. The business value that Thoughtworks has helped us to realize with platform expertise and digital execution is having an extraordinary impact on our driver, student and parent experiences that are different by design."
+ 
+In its early deployments of the app with drivers, First Student has shown how the entire process, from the moment drivers accept a student pick-up to their drop-off at school, can be simplified, automated and transparent, with considerable cost and time savings. In future phases, the digital platform will include an app view for school districts to track the onboarding and trip progress. There will also be an app for parents to track the status and progress of their child's trip and to make additions, cancellations and changes to the trip.
+ 
+"With a mission to provide unmatched care and the safest ride to school, First Student is connecting an ecosystem of organizations to harness the power of technology, data, automation and the cloud to usher in a new era of transportation for students with disabilities and special needs," said Chris Murphy, CEO of Thoughtworks North America. "At Thoughtworks, we're excited to apply our customer-centric, lean and agile product and engineering approaches to create for First Student a modern digitized platform that will provide powerful digital tools to drivers, school districts and parents that will ultimately help all students succeed."
+ 
+Supporting resources:
+ 
+- ### - <TWKS915>
+ 
+About First Student
+ 
+As the leading school transportation solutions provider in North America, First Student strives to provide the best start and finish to every school day. First Student completes five million student journeys each day, moving more passengers than all U.S. airlines combined. With a team of highly trained drivers and the industry's strongest safety record, First Student delivers reliable, quality services including full-service transportation and management, special needs transportation, route optimization and scheduling, maintenance and charter services with a fleet of about 46,000 buses. For more information, please visit firststudentinc.com.
+ 
+About Thoughtworks
+ 
+Thoughtworks is a global technology consultancy that integrates strategy, design and engineering to drive digital innovation. We are over 12,500 people strong across 50 offices in 18 countries. Over the last 25+ years, we've delivered extraordinary impact together with our clients by helping them solve complex business problems with technology as the differentiator.

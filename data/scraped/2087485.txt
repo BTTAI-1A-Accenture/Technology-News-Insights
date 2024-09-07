@@ -1,0 +1,80 @@
+Sign up for our daily newsletter If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. I’ve long said that reactions to Netflix’s password-sharing crackdown are blown out of proportion. Netflix never really offered us the ability to share passwords with anyone outside the household. It just ignored it when we did it because it was still turning a profit. Unlike others, I won’t ditch Netflix because sharing passwords is harder, and I will pay for extra users if I have to. But not before doing the dance. Netflix has started implementing anti-password-sharing measures, and you might have seen it. You or your friends have probably received at least one of those prompts where you have to verify your device using a one-time code sent to the Netflix account owner’s email. The code is good for only 15 minutes, which can be an unexpected annoyance. The account holder won’t always send you the code within those 15 minutes.
+
+ Rather than canceling the Netflix account or paying immediately for extra access, there’s a temporary solution you might want to try. You can share another password with the people who use your Netflix account: Your email password. Yes, it sounds like a nightmare, but there’s a way to make it easy, and I’ll explain everything you need to know.
+
+
+
+
+
+
+
+
+
+
+
+
+ The purpose of sharing your Netflix email with everyone having access to the Netflix account is simple. They will be able to verify their devices immediately without worrying about missing that 15-minute window. Sign up for the most interesting tech & entertainment news out there. By signing up, I agree to the Terms of Use and have reviewed the Privacy Notice. But I’ll tell you from the start never to share your main email address password with anyone. And I’ve just contradicted myself. What we are going to do is create a brand new email address for the Netflix account, which will be used for that sole purpose. And then, we’ll share that email address. This is still a privacy and security issue. Anyone accessing your Netflix email could then hijack the entire Netflix account. Also, this email password-sharing trick won’t work if you have dozens of people on your account. If you have 27 people on your Netflix account, then you need to cut access significantly.
+
+
+
+
+
+
+
+
+
+
+ The method below works for sharing Netflix access inside the extended family, which might contain multiple households. Therefore, Netflix would see multiple IP addresses accessing the same account. You could also do it with a small group of friends sharing Netflix access.
+
+ I’ll also mention another security issue that might not be immediately clear. When multiple people access the same email account, the email provider’s security features might trigger, prompting verifications. But you’ll deal with that headache when and if it happens. Also, the more people share the email password, the higher the chance that one of them will be hacked. And hackers could steal access to that Gmail and the entire Netflix account.
+
+
+
+
+
+
+
+
+
+
+ Finally, I’ll also suggest that you use a virtual credit card for Netflix subscription payments now that anyone in your group of people will have admin access to the account. As a Netflix account holder, you first need to set up a new email address. This is the email whose password you’ll share with your family or group of close friends. You can choose any email provider, but I’d go for Gmail, which is the most popular email product in the world. It has great privacy and security features, and it’s easy to manage. I’ll refer to the Netflix email as Netflix Gmail going forward. You’ll want to set a strong password for the new Gmail address when you set it up before sharing it with other people. You shouldn’t recycle a password, as hackers are always on the prowl for digital properties, including Netflix access.
+
+
+
+
+
+
+
+
+
+
+ Once your new Netflix Gmail is set up, share it with your family and friends. You might need to set Gmail up on iPhones and Android devices in the family yourself. Just to ensure everything works on those phones and that you bypass Google’s security checks if any appear after the multiple logins.
+
+ Once you have the new Netflix Gmail identity, you’ll want the new email to replace the current one. Thankfully, Netflix lets you change your email address with ease. Here’s how to do it: That’s it, you’ve now set up a new email address on your Netflix account. You’re now sharing the passwords of your Netflix account and your Netflix Gmail account with the same group of people.
+
+
+
+
+
+
+
+
+
+
+ Again, the method works only in a trusted group of people. This trick removes the pressure on the Netflix account holder to send those verification codes within 15 minutes to family members and friends. But I’m not saying anyone should go down this route. It’s up to you to decide how to handle the password-sharing crackdown. Also, I’ll point out the obvious. Netflix won’t stop coming for you. The company won’t take any action against your password-sharing habit, but it might increase the device checks.  It’s unclear how often it’ll ask to verify those separate households. Even if multiple people now have access to a Gmail address that’ll give them the codes instantly, it’s still a hassle.
+
+
+
+
+
+
+
+
+
+
+ At some point, you might want to rethink your Netflix password-sharing policy. You might want to pay for extra users having access to your account. Or you might just boot some of your family members and friends from your account. You can always set up new Netflix accounts for those family members.
+
+ Furthermore, you don’t want any other users to share the Netflix password with someone else. That will only complicate things further. Chris Smith has been covering consumer electronics ever since the iPhone revolutionized the industry in 2008. When he’s not writing about the most recent tech news for BGR, he brings his entertainment expertise to Marvel’s Cinematic Universe and other blockbuster franchises. Outside of work, you’ll catch him streaming almost every new movie and TV show release as soon as it's available. Sign up for the most interesting tech & entertainment news out there. By signing up, I agree to the Terms of Use and have reviewed the Privacy Notice. BGR’s audience craves our industry-leading insights on the latest in tech and entertainment, as well as our authoritative and expansive reviews. We guide our loyal readers to some of the best products, latest trends, and most engaging stories with non-stop coverage, available across all major news platforms. Founded in 2006 Over 2 billion visitors 100K+ articles published Millions of readers helped 
+						Honest news coverage, reviews, and opinions since 2006. -
+						Jonathan S. Geller, Founder BGR is a part of Penske Media Corporation.
+© 2024 BGR Media, LLC. All Rights Reserved.

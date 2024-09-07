@@ -1,0 +1,47 @@
+NEW DELHI: Billionaire Elon Musk’s aerospace company, SpaceX, plans to start offering a direct-to-cell service globally via Starlink satellites starting in 2024.“Starlink satellites with Direct to Cell capabilities enable ubiquitous access to texting, calling, and browsing wherever you may be on land, lakes, or coastal waters,” according to the information on Starlink’s new website. Starlink said its direct-to-cell service will also connect Internet of Things (IoT) devices with “common LTE standards”. SpaceX aims to bring text services in 2024, followed by voice and data as well as IoT services in 2025. It, however, did not disclose further details, including pricing and availability. 
+
+Advt
+
+
+
+
+
+The website further mentions that no changes to the hardware, firmware, or special applications are required, providing “seamless access to text, voice, and data”. Dallas Deza, Sales Manager at SpaceX in a LinkedIn post listed T-Mobile, Rogers Communications, KDDI Corporation, Optus, One New Zealand, and Salt Mobile as telecom operator partners for the direct-to-handset service. Starlink explained that its satellites with direct-to-cell capability have an “advanced eNodeB modem” onboard that acts like a mobile tower in space, allowing network integration similar to a standard roaming partner.Direct-to-cell satellites will initially be launched on SpaceX’s Falcon 9 rocket and then Starship. “On the orbit, the satellites will immediately connect over laser backhaul to the Starlink constellation to provide global connectivity,” said the satellite communications (satcom) company on the website. In addition to SpaceX, AST SpaceMobile and Lynk Global, among others are the companies hoping to switch on their direct-to-handset service by using terrestrial telcos’ existing spectrum holdings. By contrast, Apple teamed up with Globalstar for emergency messaging services using the latter’s satellite spectrum holdings. Qualcomm, Iridium, Dish Network, Omnispace, and Ligado, are the other companies that are pursuing a strategy similar to that of iPhone maker. 
+
+Advt
+
+
+
+
+
+Telecom industry trade organisation 5G Americas had earlier noted that direct-to-cellular (D2C) device services are emerging, offering emergency and messaging services with the promise to evolve to higher speeds over LEO networks. Some of the partnerships for IoT/D2C, as cited by 5G Americas, include T-Mobile and SpaceX, AT&T and AST SpaceMobile, Verizon and Kuiper, Apple and Globalstar, Qualcomm and Iridium, MediaTek’s partnership with Skylo and Bullitt, and Skylo’s association with Ligado and Viasat.The most common services that these IoT/D2C partnerships seek to deliver range from emergency messaging and NB-IoT, to backhaul for LTE and 5G, as well as, data and voice by leveraging S-band, L-band, Ka-band, or mobile network operator (MNO) spectrum, 5G Americas had said.  By commenting, you agree to the Prohibited Content Policy By commenting, you agree to the Prohibited Content Policy 
+
+News 
+
+ See whats happening in Telecom sector right now 
+
+Exclusive 
+
+ Read and get insights from specially curated unique stories from editorial 
+
+Leaders Speak
+
+ Business leaders sharing their insights 
+
+Events
+
+ Explore and discuss challenges & trends in India's leading B2B events 
+
+Awards 
+
+ Recognise work that not only stood out but was also purposeful 
+
+Webinars 
+
+ Join leaders & experts for roundtables, conferences, panels and discussions Subscribe to our Daily Newsletter  By continuing you agree to our Privacy Policy & Terms & Conditions 
+Advertise With Us
+ We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc. 
+Download ETTelecom App 
+ Save your favourite articles with seamless reading experience 
+Get updates on your preferred social platform
+ Follow us for the latest news, insider access to events and more. About Us Contact Us Newsletters

@@ -1,0 +1,32 @@
+
+
+
+July 25 (UPI) -- A research team led by engineers with the University of California San Diego has shown off a robotic hand that can rotate an object in its palm using touch-based sensors rather than by sight.
+"The work could aid in the development of robots that can manipulate objects in the dark," the researchers said in a news release. It was not immediately clear why in the world the researchers would want to create robots that could work in the dark.
+Advertisement
+The researchers presented their study at a conference in South Korea.
+"Using their technique, the researchers built a robotic hand that can smoothly rotate a wide array of objects, from small toys, cans and even fruits and vegetables, without bruising or squishing them," the news release reads.
+Related
+Report: Robots with artificial intelligence might offer real human companionship
+Android robot to conduct Korean national orchestra
+Joe Biden says tech giants' AI pact promotes 'safety, security, and trust'
+In total, the functionality of the robotic hand is dependent on just $192 worth of sensors. Each sensor, at a cost of $12, simply relays whether the object is being touched or not -- which is enough information for software to rotate the hand.
+The software was trained using Reinforcement Learning, a paradigm of machine learning in the artificial intelligence field.
+Advertisement
+"What makes this approach unique is that it relies on many low-cost, low-resolution touch sensors that use simple, binary signals -- touch or no touch -- to perform robotic in-hand rotation," the news release reads.
+The researchers said that using the low-cost sensors provides benefits over much pricier, high-resolution touch sensors, beyond the cost.
+"We show that we don't need details about an object's texture to do this task," said Xiaolong Wang, a professor of electrical and computer engineering at UC San Diego.
+"We just need simple binary signals of whether the sensors have touched the object or not, and these are much easier to simulate and transfer to the real world."
+Wang said in-hand manipulation of objects is very difficult for machines.
+The researchers began the paper with a simple analogy that shows just how difficult the task of rotating an object is for machines and why research into it is so important.
+"Imagine we are washing the used pan in the kitchen after dinner. Suddenly, the power is cut off unexpectedly, and all the lights go out. What would we do? Most of us may stop the work, put down the pan in the sink, and then probably find our phone in the pocket to light up the way," the study reads.
+Advertisement
+"Simple as it may seem, this sequence of actions actually requires precise execution of in-hand dexterous manipulation in the dark, where we receive no vision input for guidance. Even in normal situations with lights on, the manipulation of objects in hand often comes with heavy occlusions."
+ July 25 (UPI) -- A research team led by engineers with the University of California San Diego has shown off a robotic hand that can rotate an object in its palm using touch-based sensors rather than by sight. "The work could aid in the development of robots that can manipulate objects in the dark," the researchers said in a news release. It was not immediately clear why in the world the researchers would want to create robots that could work in the dark.
+Advertisement The researchers presented their study at a conference in South Korea. "Using their technique, the researchers built a robotic hand that can smoothly rotate a wide array of objects, from small toys, cans and even fruits and vegetables, without bruising or squishing them," the news release reads.
+Related
+Report: Robots with artificial intelligence might offer real human companionship
+Android robot to conduct Korean national orchestra
+Joe Biden says tech giants' AI pact promotes 'safety, security, and trust' In total, the functionality of the robotic hand is dependent on just $192 worth of sensors. Each sensor, at a cost of $12, simply relays whether the object is being touched or not -- which is enough information for software to rotate the hand. The software was trained using Reinforcement Learning, a paradigm of machine learning in the artificial intelligence field.
+Advertisement "What makes this approach unique is that it relies on many low-cost, low-resolution touch sensors that use simple, binary signals -- touch or no touch -- to perform robotic in-hand rotation," the news release reads. The researchers said that using the low-cost sensors provides benefits over much pricier, high-resolution touch sensors, beyond the cost. "We show that we don't need details about an object's texture to do this task," said Xiaolong Wang, a professor of electrical and computer engineering at UC San Diego. "We just need simple binary signals of whether the sensors have touched the object or not, and these are much easier to simulate and transfer to the real world." Wang said in-hand manipulation of objects is very difficult for machines. The researchers began the paper with a simple analogy that shows just how difficult the task of rotating an object is for machines and why research into it is so important. "Imagine we are washing the used pan in the kitchen after dinner. Suddenly, the power is cut off unexpectedly, and all the lights go out. What would we do? Most of us may stop the work, put down the pan in the sink, and then probably find our phone in the pocket to light up the way," the study reads.
+Advertisement "Simple as it may seem, this sequence of actions actually requires precise execution of in-hand dexterous manipulation in the dark, where we receive no vision input for guidance. Even in normal situations with lights on, the manipulation of objects in hand often comes with heavy occlusions."

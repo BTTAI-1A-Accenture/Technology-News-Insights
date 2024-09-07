@@ -1,0 +1,88 @@
+
+            As they pumped their fists in the air and held signs declaring “Peace 4 All” and “Stop the Violence,” a small group of Americans that gathered in downtown Washington last summer was nearly indistinguishable from the thousands of others who gather in the nation’s capital every year to protest. 
+     
+            But there was a striking difference: The protest was likely funded by pro-Beijing operatives as part of a plan that is aimed at undermining American democracy and promoting China’s economic interests, researchers from Mandiant, a cybersecurity firm owned by Google reported this week. 
+     
+            Mandiant’s report suggests the pro-Beijing group paid an American to arrange the protest – a 24-year-old musician and entrepreneur from Baltimore – who told CNN in an exclusive interview that he didn’t know the organization could be a Shanghai-based public relations firm promoting the Chinese government’s interests. 
+     
+            Although the protest, and a subsequent event linked to the same group, was only attended by a dozen or so people, cyber and national security experts told CNN that the efforts signal a shift by groups aligned with Beijing to meddle in American life. 
+     
+            The tactics resemble those used by Russia, where spies from Kremlin-linked groups have sought to influence American activist groups in a bid to exacerbate existing divisions in the US, according to the Department of Justice. 
+     
+            The alleged pro-Beijing campaign comes to light as the United States presidential election season gets underway.   
+     
+            The origins of the protest in Washington, DC, last summer can be traced back to a message about a job opportunity that Baltimore-based musician and entrepreneur Imani Wj Wright received on Upwork, a CNN investigation found. Upwork is an online marketplace that allows freelancers to sell services like copy writing, graphic design, and video production. 
+     
+            The job post sought a “United States journalist” to report on the International Religious Freedom Summit, and conduct interviews with “novel and sharp questions.” The pay was listed at $1500 but caveated that the “cost needs to be discussed in detail.” After Wright agreed, the client asked him to also stage a protest, Wright told CNN in an exclusive interview Monday. 
+     
+            “They said, hey, what kind of demonstrations could you possibly put on,” Wright recalled.  
+     
+            He said he wrote back that he cared about racial inequality and abortion access. He fashioned the protest, focused on those issues, as a flash mob. “I got my choreographer, the dance team, my production team. And then we did what we did.” 
+     
+            Wright said he never spoke on the phone to whoever hired him – something that is not uncommon for freelancers hired through websites like Upwork. 
+     
+            Although Wright’s friends and colleagues were Americans who seemingly believed in the causes they were advocating, they didn’t know they had gathered at the behest of Shanghai Haixun Technology, a public relations firm that claims Chinese state media among its “content partners,” according to Mandiant.  
+     
+
+Pro-Chinese online influence campaign promoted protests in Washington, researchers say
+ 
+            Wright and his team produced a video of the flash mob protest, which the pro-Beijing group seemingly paid other Americans to promote on social media. 
+     
+            The PR firm that commissioned the protest also placed pro-Beijing stories on dozens of American news websites in an apparent effort to spread Chinese state messaging, according to Mandiant.  
+     
+            A schoolteacher in the northeastern United States told CNN he was paid $10 to share the video on one of his social media profiles. He was unaware that the request was allegedly linked to pro-Beijing operatives. 
+     
+            The teacher was hired through Fiverr, another freelancing platform, that the teacher told CNN he used to supplement his income. He was surprised when a CNN reporter contacted him Monday after the release of the Mandiant report. He had assumed the video was made and distributed by an American activist group.  
+     
+            “It’s ultimately my fault for not being more careful, and I’m really embarrassed about that,” he said. 
+     
+            Three months after the racial inequality protest, the same group contacted Wright to stage a protest against an American ban on goods produced in China’s Xinjiang region. The Chinese Communist Party has been accused of crimes against humanity in Xinjiang for imprisoning up to two million Uyghurs, a Muslim minority group. 
+     
+            Wright said he told the person who messaged him that he wasn’t comfortable organizing that protest. However, he said he could produce a documentary featuring interviews of people with differing views on the ban. As part of that, he said he could stage a mock protest that would be used in the documentary as reenactment footage. 
+     
+            Although Wright said he had filmed an interview with a US lawmaker for the production, the proposed documentary never came to fruition. But the alleged pro-Beijing group still distributed the mock protest footage on social media, portraying the demonstration as real.  
+     
+            The group went even further, using a news wire service to publish a story about the fake protest on the Arizona Republic’s website. The Arizona Republic said it had removed the article and informed the news wire service of the misinformation. 
+     
+            This was not the only article the group placed on an American news website, Mandiant reported the organization used the news wire service to plant its messaging on dozens of US news sites.  
+     
+            Wright denied knowing that the person he was messaging had any ties to China, saying no alarm bells went off during his exchange with the person who hired him. 
+     
+            “Nothing felt anti-American,” Wright said. “If this is an organization that is anti-American, that is going to impede or disrupt or cause harm to the American people, then I one-hundred-percent care.” 
+     
+            Haixun touts its connections to the Chinese state media on its website and advertises its ability to distribute news globally, including across the United States and Europe. Last year, Mandiant reported the company was responsible for dozens of phony news sites that published anti-Western, pro-Beijing narratives as China faced mounting criticism over its treatment of the Uyghur population and its dismantling of democracy in Hong Kong. 
+     
+            Mandiant described the PR firm’s efforts as a campaign to “amplify content strategically aligned with the political interests with the People’s Republic of China.” 
+     
+            Liu Pengyu, a spokesperson for the Chinese Embassy in Washington, said he was unaware of the details of Mandiant’s research. “China has always adhered to non-interference in other countries’ internal affairs,” Liu said in an email to CNN. “Speculating or accusing China of trying to provoke confrontation and organize protests in the United States is completely groundless and malicious speculation.” 
+     
+            Haixun did not respond to requests for comment. 
+     
+            Foreign influence operations use the power of online freelance platforms to hire unsuspecting Americans, Mandiant’s chief analyst John Hultquist told CNN Tuesday. 
+     
+            Gig workers can get paid through these sites – like Upwork and Fiverr – by writing copy, producing videos or sharing posts on social media. The companies or individuals doing the hiring may remain anonymous.   
+     
+            Responding to the Mandiant report and CNN’s reporting, a spokesperson for Upwork said, “Any such use of our platform would be a clear violation of our Terms of Service.” 
+     
+            A spokesperson for Fiverr said “it is against our community standards to allow anyone to use services offered through Fiverr to promote fake news agendas, propaganda, and intentionally misleading information. If it is reported or flagged that Fiverr is being used to create or promote the spread of propaganda, we promptly investigate and take action accordingly.” 
+     
+            Both companies say they invest in tools to root out people who misuse their platforms. 
+     
+            While China has long been accused of directing online influence operations against the United States and other countries, the campaigns, although covert, typically target Chinese Communist Party critics or promote the party’s successes, experts told CNN. 
+     
+            The June protest that Wright participated in was focused on racial inequality and abortion access in the United States. Experts say this tactic, encouraging demonstrations with no overt connection to China, is a new strategy, but out of the same playbook used by Russia.  
+     
+            “If true, this is consistent with China’s efforts to undermine our democracy,” the Republican House Intelligence Committee Chairman Mike Turner told CNN.   
+     
+            The Republican-led House, long critical of the People’s Republic of China, has been especially vocal following the Chinese spy balloon incident and an FBI arrest of alleged Chinese agents working in New York City earlier this year. 
+     
+            CNN reported in 2017 and 2018 on how a Russian troll group with links to the Kremlin organized and paid for demonstrations to be held across the United States. At one point the group even organized two opposing protests to take place at the same time in Houston, Texas. 
+     
+            As recently as last year, a Russian man was charged by the US Justice Department of co-opting US activist groups. He denied the charges in an interview with CNN. 
+     
+            Jim Lewis, a director at the Center for Strategic and International Studies, said the pro-China group was likely influenced by Russia’s attempts to stoke divisions and tried to replicate those efforts.  
+     
+            “I’m concerned,” said Lewis. “This is part of a larger effort to damage the United States.” 
+     
+  CNN’s Sean Lyngaas contributed to this report.
+ © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

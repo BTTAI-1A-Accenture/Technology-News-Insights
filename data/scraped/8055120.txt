@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.bleepingcomputer.com/news/security/twitter-takes-down-source-code-leaked-online-hunts-for-downloaders/

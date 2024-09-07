@@ -1,0 +1,43 @@
+
+By Rahul Rao
+ Posted on Jun 12, 2023 6:00 AM EDT 5 minute read In 1993, computer scientist and sci-fi author Vernor Vinge predicted that within three decades, we would have the technology to create a form of intelligence that surpasses our own. “Shortly after, the human era will be ended,” Vinge said. As it happens, 30 years later, the idea of an artificially created entity that can surpass—or at least match—human capabilities is no longer the domain of speculators and authors. Ranks of AI researchers and tech investors are seeking what they call artificial general intelligence (AGI): an entity capable of human-level performance at all kinds of intellectual tasks. If humans produce a successful AGI, some researchers now believe, “the end of the human era” will no longer be a vague, distant possibility.   [Related: No, the AI chatbots still aren’t sentient] Futurists often credit Vinge with popularizing what many commentators have called “the Singularity.” He believed that technological progress could eventually spawn an entity with capabilities surpassing the human brain. Its introduction to society would warp the world beyond recognition—a “change comparable to the rise of human life on Earth,” in Vinge’s own words. Perhaps it’s easiest to imagine Singularity as a powerful AI, but Vinge envisioned it in other ways. Biotech or electronic enhancements might tweak the human brain to be faster and smarter, combining, say, the human mind’s intuition and creativity with a computer’s processor and information access to perform superhuman feats. Or as a more mundane example, consider how the average smartphone user has powers that would awe a time traveler from 1993. “The whole point is that, once machines take over the process of doing science and engineering, the progress is so quick, you can’t keep up,” says Roman Yampolskiy, a computer scientist at the University of Louisville. Already, Yampolskiy sees a microcosm of that future in his own field, where AI researchers are publishing an incredible amount of work at a rapid rate. “As an expert, you no longer know what the state of the art is,” he says. “It’s just evolving too quickly.” While Vinge didn’t lay out any one path to the Singularity, some experts think AGI is the key to getting there through computer science. Others contest that the term is a meaningless buzzword. In general, it describes a system that matches human performance in any intellectual task. If we develop AGI, it might open the door to a future of creating a superhuman intelligence. When applied to research, that intelligence could then produce its own new discoveries and new technologies at a breakneck pace. For instance, imagine a hypothetical AI system better than any real-world computer scientist. Now, imagine that system in turn tasked with designing better AI systems. The result, some researchers believe, could be an exponential acceleration of AI’s capabilities. [Related: Engineers finally peeked inside a deep neural network] That may pose a problem, because we don’t fully understand why many AI systems behave in the ways they do—a problem that may never disappear. Yampolskiy’s work suggests that we will never be able to reliably predict what an AGI will be able to do. Without that ability, in Yampolskiy’s mind, we will be unable to reliably control it. The consequences of that could be catastrophic, he says. But predicting the future is hard, and AI researchers around the world are far from unified on the issue. In mid-2022, the think tank AI Impact surveyed 738 researchers’ opinions on the likelihood of a Singularity-esque scenario. They found a split: 33 percent replied that such a fate was “likely” or “quite likely,” while 47 percent replied it was “unlikely” or “quite unlikely.” “I feel like it’s taking away from the problems that actually matter.” Sameer Singh, a computer scientist at the University of California, Irvine, says that the lack of a consistent definition for AGI—and Singularity, for that matter—makes the concepts difficult to empirically examine. “Those are interesting academic things to be thinking about,” he explains. “But, from an impact point of view, I think there is a lot more that could happen in society that’s not just based on this threshold-crossing.” Indeed, Singh worries that focusing on possible futures obscures the very real impacts that AI’s failures or follies are already having. “When I hear of resources going to AGI and these long-term effects, I feel like it’s taking away from the problems that actually matter,” he says. It’s already well established that the models can create racist, sexist, and factually incorrect output. From a legal point of view, AI-generated content often clashes with copyright and data privacy laws. Some analysts have begun blaming AI for inciting layoffs and displacing jobs. “It’s much more exciting to talk about, ‘we’ve reached this science-fiction goal,’ rather than talk about the actual realities of things,” says Singh. “That’s kind of where I am, and I feel like that’s kind of where a lot of the community that I work with is.”  Reactions to an AI-powered future reflect one of many broader splits in the community building, fine-tuning, expanding, and monitoring models. Computer science pioneers Geoffrey Hinton and Yoshua Bengio both recently expressed regrets and a loss of direction over a field they see as spiraling out of control. Some researchers have called for a six-month moratorium on developing AI systems more powerful than GPT-4.  Yampolskiy backs the call for a pause, but he doesn’t believe half a year—or one year, or two, or any timespan—is enough. He is unequivocal in his judgment: “The only way to win is not to do it.” Rahul Rao is a former intern and contributing science writer for Popular Science since early 2021. He covers physics, space, technology, and their intersections with each other and everything else. He lives in London, and is a massive fan of snakes, old genre fiction, trains, and classic Doctor Who, in no particular order. 
+By Mack DeGeurin
+ 
+By Andrew Paul
+ 
+By Jocelyn Solis-Moreira
+ 
+By Tatyana Woodall
+ 
+By Sameem Siddiqui
+ 
+By Bonnie Jo Stufflebeam
+ 
+By Malka Older
+ 
+By Purbita Saha
+ 
+By Farnsworth et al./The Conversation
+ 
+By Eric Alt
+ 
+By Laura Baisas
+ 
+By Jocelyn Solis-Moreira
+ 
+By Laura Baisas
+ 
+By Rachel Feltman
+ 
+By Jocelyn Solis-Moreira
+ 
+By Popular Science Team
+ 
+By Laura Baisas
+ 
+By Laura Baisas
+ Sign up to receive Popular Science’s emails and get the highlights. Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+Registration on or use of this site constitutes acceptance of our Terms of Service.
+
+© 2024 Recurrent. All rights reserved. 

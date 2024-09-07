@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.cnnphilippines.com', port=443): Max retries exceeded with url: /business/2023/9/7/lazada-investments-ph.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cnnphilippines.com'. (_ssl.c:1007)")))

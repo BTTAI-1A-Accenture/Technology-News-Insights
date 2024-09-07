@@ -1,0 +1,44 @@
+Home » Funding By Editorial team By Editorial team | February 16, 2023 | Last update: March 25, 2024 Ghent, Belgium-based Sealution, a developer of an onboard connectivity system for predictive maintenance and locating crewmembers below deck, announced on Wednesday, February 15, that it has raised €1.3M in a fresh round of funding.  Out of the total amount, €800K came from an equity round with Venture Studio Miles Ahead and investment fund Angelwise. Another €200K came as a convertible loan from investment platform Techstars, and various business angels.  The Belgian company also raised €315K in subsidies through Flanders Innovation & Entrepreneurship (VLAIO) in September 2022.  Sealution says it will use the capital to switch from development to production (lines). The marine vessel’s devices and systems exchange valuable data 24/7, thanks to their Internet of Things (IoT) solution. “So feel free to compare our internal network of receivers to the Apple Home of a ship at sea,” says Sealution CEO Sebastian Hamers.  He adds, “By the way, we use Bluetooth to connect those new sensors. Bluetooth uses less energy than Wi-Fi, for example. Moreover, classical wireless networks don’t get through the steel walls of ocean-going vessels anyway, especially below deck.”  Founded by former maritime officer Sebastian Hamers (CEO), Ruben Verplancke (CFO), and Romeo Martens (CTO), Sealution has developed an IoT solution that connects all devices and systems on seagoing vessels.  Sealution says its solution makes ships more sustainable and their maintenance budget-friendly. Sealution works with a network of receivers or ‘gateways,’ one in each room, allowing data signals to pass through the vessels above and below the deck.  The gateways receive and send the retrieved data via existing cabling to a central module.  This module analyses, filters, and ranks the data and transmits it to a server that can display it visually on the bridge or in the control room.  The collected data is used for fuel savings, preventive maintenance, and reselling to relevant data aggregators such as insurance companies.  Sealution says its solution can also make internal communication for the crew members, the shipping company, and the cargo efficient.  Since all the information is transmitted automatically with Sealution’s system, the shipping company gets more insights for the shipper, such as the condition and position of the cargo.  In January 2023, Sebastian Hamers and Romeo Martens tested the full installation for the first time on the high seas with the Dutch shipping company Seatrade.  “The connectivity system was fully on point, to the far end of the ship, with no loss of speed or data,” says the company. “We strongly feel that we can revolutionise data sharing and innovation on ocean-going vessels with Sealution,” adds CFO Ruben Verplancke.  “Why? Our technology is extremely reliable, applicable to large ocean-going vessels, and can be adapted by software engineers according to the specific needs of a fleet. The sea is the limit,” he concludes. Topics:  Follow us:  The editorial team of Silicon Canals brings you technology news from the European startup ecosystem.  Current MonthSeptember
+
+06sep(sep 6)10:00 am08(sep 8)3:00 pmEvent of the Month: TechVillageMATCHING FOUNDERS AND INVESTORS IN THE MOST BEAUTIFUL MOLDOVAN VILLAGE
+Event DetailsTechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a
+
+
+Event Details
+
+TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a new setting.
+If you are an investor or startup founder and you like the rural scenery, you like to get your hands dirty (literally), and explore new cultures, cuisines and wines, while interacting with other investors and founders, you’ll love it at TechVillage.
+
+
+
+
+
+
+Learn More
+
+
+
+
+CalendarGoogleCal
+
+
+
+
+TimeSeptember 6, 2024 10:00 am - September 8, 2024 3:00 pm(GMT+03:00)
+
+
+
+LocationButuceni, Orheiul VechiOther Events
+
+
+
+OrganizerXY PartnersLearn More  
+
+
+
+
+
+
+
+ September 06sep(sep 6)10:00 am08(sep 8)3:00 pmEvent of the Month: TechVillageMATCHING FOUNDERS AND INVESTORS IN THE MOST BEAUTIFUL MOLDOVAN VILLAGE TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a new setting.
+If you are an investor or startup founder and you like the rural scenery, you like to get your hands dirty (literally), and explore new cultures, cuisines and wines, while interacting with other investors and founders, you’ll love it at TechVillage. CalendarGoogleCal September 6, 2024 10:00 am - September 8, 2024 3:00 pm(GMT+03:00) Butuceni, Orheiul Vechi Learn More 01 02 03 04 05 About Silicon Canals Partner with Silicon Canals Impressum Contact Silicon Canals Disclaimer Terms & Conditions Privacy Policy Editorial Policy Silicon Canals 2014 - 2024 | Website: Bright Idiots | Images: Depositphotos [wp_dark_mode style="2"]

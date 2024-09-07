@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.kentuckytoday.com/news/business/axuall-secures-20-million-series-b-capital-raise-after-accelerated-market-growth-and/article_1f15cf51-e173-5848-aab3-39f257665221.html

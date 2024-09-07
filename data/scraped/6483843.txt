@@ -1,0 +1,228 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » Why DNS Security Can Be Your Most Problematic Blind Spot     The domain name system (DNS) is like electricity: Not everyone knows how it works — or perhaps they have forgotten what they learned in science class at school — but they know that it works. That’s not a problem, if it continues to work. Right?  Wrong: Cyber threat actors take advantage of organizational ignorance about DNS to infiltrate organizations with malware, ransomware, and via phishing campaigns. In fact, it is their primary mode of communication and a fundamental part of cyber attacks.  Most of the time, this complacency isn’t intentional: Sometimes, staffing issues and capital allocation trade-offs create risks that can feel unavoidable. Nonetheless, large corporations, critical infrastructure, and even the federal government have all been victims of cyber attacks utilizing DNS as a vehicle. And because cyber criminals tend to have unlimited capital and cooperation, these attacks won’t be stopping anytime soon.  Gone are the days when companies could rely on antivirus software and a firewall to adequately protect themselves. Threat actors have never stopped weaponizing reconnaissance and changing techniques based on how defenders respond; they’ve simply jacked up their efforts. We need a bold, pioneering approach to cybersecurity — relying on deceptively simple, tried-and-true foundational knowledge about how systems and networks operate.  Armed with knowledge of DNS, businesses should have the impetus to implement modern, effective cybersecurity solutions to stop bad actors in their tracks —preventing breaches before they can have any significant ramifications on the company. Organizational inertia is nothing new for big companies, but the stakes have never been higher than they are today. With each major cybersecurity incident, there is a flurry of activity and talk about change before momentum is lost and every cybersecurity team goes back to what they were doing. This isn’t good enough. For all the talk about proactivity, cybersecurity is fundamentally still reactive. Complacency and inertia increasingly plague enterprises the larger they get, almost all currently deployed security suites, products, and services are missing foundational protection. There are various reasons for this, of course. For one, it’s difficult to turn a large ship quickly, with security stacks averaging dozens of tools at a time, lack of resources, time, budget – you name it. 
+HYAS Protective DNS enforces security and blocks command and control (C2) communication used by malware, ransomware, phishing, and supply chain attacks. Learn more with our comprehensive eBook
+Protective DNS: The Cybersecurity Essential You Didn’t Know You Needed
+ It doesn’t have to be like this. A more proactive approach to cybersecurity is actually very simple: It’s about having more visibility into what the systems that “just work” are really doing. This visibility is the foundation that most security solutions currently lack. The questions that probe visibility are even simpler: What are your systems talking to, and should they be talking to it? Not only is this visibility important for protecting the employees and the enterprise, it’s also critical to observe your revenue generating infrastructure. Web servers, file storage, databases, and data pipelines all have specific roles and functions in a production network. Systems administrators will want to know that the databases talked to a set of expected resources. If they talk to an unexpected resource, this doesn’t necessarily signal malicious activity, but it’s still important to understand why this communication was happening. Even if new software was installed or a new library came from GitHub, the key is that operators know what’s going on and why. Effective security is a side-effect of complete visibility — or as near to it as possible. Even the most vigilant operators may be able to see around the corner, but what about a never-ending string of next corners? For cybersecurity professionals, network segmentation and security product silos are a bugbear of any large-scale enterprise. While some of these products and neworks only work within corporate environments, others only work in production environments and none work together well or at all. A symptom of this is that disuniformity spreads across security stacks when the very thing that’s needed is more uniformity. EDR, NDR and log analysis all lack a painless coalescing element that would drive them to work better together. This is where DNS comes in. Every system on the internet relies on DNS, even for single transactions. Closing this gap is HYAS’ mission. Some may think that the security environment is too complex to obtain full visibility. But DNS relies on the same principles and technology as when it first came into existence: It tells you exactly what your system (or machine) is trying to talk to and where it’s located — without challenges like pcap or large syslog collection. You get visibility into what systems are doing — and why — without an accompanying big data problem from expensive toolsets. Burnout is just as real a problem for cybersecurity professionals as the threats they’re paid to protect against. It’s all too easy to throw your hands up in defeat after months or even years of nonstop firefighting –if everything is an emergency, there’s no progress. But if you can stave off fatigue and reduce the volume of alerts by preventing the problem in the first place, you can target threats far more effectively. Security vendors have tried to reduce the noise and provide actionable steps for operators to take since the dawn of cybersecurity. The missing piece of the puzzle is understanding DNS and what systems should (and should not) be doing. Nearly every single system relies on DNS to function and the right DNS protection provides real-time insight and protection from threats. The question businesses need to ask is how to tie investments together by building the right foundation for proper security, how to better understand DNS, and how to leverage that knowledge to their advantage. This blog post is based on an Techstrong interview with HYAS CTO, Dave Mitchell.. Learn more about DNSDemystifying the confusion around DNS security Which Protective DNS provider keeps you safest from malware and other cyberthreats Book a demo today to find out what Protective DNS can do for your organization.   *** This is a Security Bloggers Network syndicated blog from HYAS Blog authored by Dave Mitchell. Read the original post at: https://www.hyas.com/blog/why-dns-security-can-be-your-most-problematic-blind-spot    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

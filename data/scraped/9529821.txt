@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/bizwire-2023-3-14-fics-named-to-housingwires-hw-tech100-list-for-tenth-consecutive-year (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da936c4b50>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

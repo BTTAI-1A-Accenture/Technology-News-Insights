@@ -1,0 +1,41 @@
+
+Function Rich, Regulatory Compliant, and Agile Solutions Lead to Many Recent Wins for Softeon in the Sector
+   Learn more: https://www.softeon.com/pharmaceutical-life-sciences-solutions RESTON, Va.--(BUSINESS WIRE)--Softeon, a global supply chain software provider with the industry's best record of customer success, continues to add new capabilities to its market-leading supply chain execution software solutions for the healthcare and pharma sectors.
+  
+Those growing Softeon functional and regulatory compliance capabilities have led to a number of recent wins and deployments across pharmaceutical companies, e-pharmacies, medical device manufacturers, 3PLs serving the healthcare/pharma sectors, and more.
+ 
+In addition to these functional and regulatory capabilities, Softeon provides an agile logistics software platform that allows its customers to move rapidly to meet new requirements and opportunities, an increasingly important consideration in the many healthcare-related markets that are seeing dynamic change.
+ 
+Core solution components in Softeon’s Cloud-based logistic platform for healthcare and pharma include:
+ 
+Warehouse Management System (WMS): Softeon WMS is a tier 1 solution built on a robust data model with all the inventory control and pick, pack, ship functionality the healthcare and pharma sectors require. That includes full support for lot/batch tracking, expiration date management, serial number tracking, recall management, and more. The WMS is fully FDA compliant and has completed computer system validation of its WMS platform for GxP environments.
+ 
+Healthcare and pharma organizations can quickly onboard or migrate to this platform, giving them a competitive edge.
+ 
+Warehouse Execution System (WES): This is an add-on to the WMS that enables orchestration and optimization of order fulfillment within a distribution center based on multiple criteria, including order priority, customer service commitments, pick optimization opportunities, carrier cut-off times, and other fulfillment rules.
+ 
+Softeon WES also provides the integration with various forms of distribution automation, including TCA (tablet & capsule) and UUA (unit of use) automation, dispensing robots and other material handling equipment, Autonomous Mobile Robots (AMRs), and pick-to-light technology.
+ 
+Distributed Order Management (DOM): Softeon DOM orchestrates fulfillment at the network level across multiple pharma order types – home delivery, specialty drugs, fulfillment of refrigerated, hazardous materials, controlled substances, etc. It also supports powerful sourcing functions based on configurable rules (e.g., order splits at an Rx line level), state-specific rules, carrier optimization, and more.
+ 
+Beyond these core solutions, Softeon continues to add additional capabilities for these sectors, with new recent capabilities that include Cold Chain/TOR (time out of refrigeration) management; full support for the 2023 DSCSA serialization, and support for moving customers from prior phases of DSCSA to full serialization; controlled substance handling; and clinical trial logistics
+ 
+“Softeon has architected a solution for Healthcare, Medical devices, biologics and pharma logistics that is functionally rich, regulatory compliant, and extremely agile in delivery,” says Shyam Krishna, VP of Healthcare Solutions at Softeon.
+ 
+You can learn more at https: www.softeon.com/pharmaceutical-life-sciences-solutions
+ 
+About Softeon
+ 
+Softeon is a global provider of supply chain solutions from planning through execution, anchored by our Warehouse Management System (WMS), Warehouse Execution, and Distributed Order Management (DOM) solutions. Our advanced services-based platform is engineered to reduce complex problems into simple solutions for a faster time to market and lower cost of ownership. Users can implement solutions incrementally to solve a specific challenge or deploy an integrated system. Configurable modules and rules-based solutions give market leaders the business agility they need to get ahead and stay ahead. Companies choose the flexibility and ease of use of the Softeon platform to drive higher business value and accelerate ROI. Deployment options include on-premise or in the cloud-delivered, with a 100% track record of system success. For more information, please visit www.softeon.com.
+ 
+Dan Gilmore
+dgilmore@softeon.com
+ 
+Aishwarya Srivastava
+contact@softeon.com
+ Softeon continues to add new capabilities to its market-leading supply chain execution software solutions for the healthcare and pharma sectors. 
+Dan Gilmore
+dgilmore@softeon.com
+ 
+Aishwarya Srivastava
+contact@softeon.com

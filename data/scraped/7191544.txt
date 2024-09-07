@@ -1,0 +1,1 @@
+502 Server Error: Next Hop Connection Failed for url: https://finance.yahoo.com/video/gig-economy-stocks-maturing-beyond-204523084.html

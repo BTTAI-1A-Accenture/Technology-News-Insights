@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/shareholder-investigation-halper-sadeh-llc-investigates-mpb-osh-angn-nuva/article_90e0d58a-322c-5a84-a67b-4000bb92ea4d.html

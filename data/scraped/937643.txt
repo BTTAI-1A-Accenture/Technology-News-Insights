@@ -1,0 +1,72 @@
+A whale with a lot of money to spend has taken a noticeably bearish stance on Amazon.com. Looking at options history for Amazon.com AMZN we detected 14 strange trades. If we consider the specifics of each trade, it is accurate to state that 35% of the investors opened trades with bullish expectations and 64% with bearish. From the overall spotted trades, 3 are puts, for a total amount of $147,930 and 11, calls, for a total amount of $522,657. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $115.0 to $133.0 for Amazon.com over the last 3 months.  In terms of liquidity and interest, the mean open interest for Amazon.com options trades today is 19968.33 with a total volume of 23,032.00. In the following chart, we are able to follow the development of volume and open interest of call and put options for Amazon.com's big money trades within a strike price range of $115.0 to $133.0 over the last 30 days.  
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+AMZN
+CALL
+SWEEP
+NEUTRAL
+10/20/23
+$133.00
+$108.4K
+14.4K
+3.8K
+
+
+AMZN
+CALL
+SWEEP
+BULLISH
+10/20/23
+$130.00
+$87.8K
+44.5K
+4.1K
+
+
+AMZN
+CALL
+SWEEP
+BEARISH
+11/17/23
+$130.00
+$69.3K
+41.9K
+943
+
+
+AMZN
+PUT
+SWEEP
+BEARISH
+02/16/24
+$115.00
+$67.0K
+4.6K
+400
+
+
+AMZN
+PUT
+SWEEP
+BULLISH
+02/16/24
+$115.00
+$51.6K
+4.6K
+715
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for Amazon.com, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

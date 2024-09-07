@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/codex-labs-launches-two-more-shaant-otc-offerings-three-breakthrough-acne-products/article_4c2afa36-b6b6-5c90-9976-55520b90d799.html

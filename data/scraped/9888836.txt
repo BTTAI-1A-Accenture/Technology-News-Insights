@@ -1,0 +1,44 @@
+Home » Blockchain By Editorial team By Editorial team | February 21, 2023 | Last update: March 25, 2024 Stavanger, Norway-based Gateway.fm, a decentralised blockchain node infrastructure provider, announced on Monday, February 20, that it has raised $4.6M (approximately €4.3M) in a Seed round of funding led by Lemniscap. CMT Digital Ventures, the LAO DAO, Folius Ventures, TRGC, Metaweb Ventures, Very Early Ventures, Factor Ventures, Fantom Foundation, and Unstoppable Domains Ventures also participated in the round. Gateway.fm says it will use the funds to accelerate product development and to provision advanced staking services.  Additionally, the Norwegian company plans to use the funds to drive user acquisition and scale the company’s engineering department. Cuautemoc Weber, co-founder and CEO of Gateway.fm, says, “Today’s announcement represents a firm stamp of approval for our product suite from a collection of top global investment visionaries.”  “We want to provide reliable node infrastructure, best-in-class validators, and robust dev tooling to help Web3 projects scale at pace, while enticing financial institutions and enterprises to explore blockchain technology with confidence,” he adds.   Founded by Igor Mandrigin and Cuautemoc Weber, Gateway.fm is a decentralised high-performance blockchain infra/node provider that is building distributed, multi-chain infrastructure designed to help Web3 projects scale without allocating resources to configuring or maintaining servers. The Web3 company focuses on building decentralised RPC solutions that don’t rely on centralised services such as Amazon Web Services (AWS).  To date, the company claims to have received strong market validation for its ‘Grow’, ‘Access’ and ‘Jumpstart’ solutions from a range of notable industry heavyweights, including 1inch, Gnosis, Ethereum Foundation, NEAR, and Polygon Labs. The company’s product suite includes:  Gateway Grow: It is for institutional staking validators across several Proof-of-Stake (POS) chains like Ethereum, Gnosis, and IXO.  Gateway Access: It is a dedicated, cost-effective RPC node service built for scale, which currently supports ETH, Fantom, NEAR, and Gnosis.  Gateway Jumpstart: It enables new blockchains, appchains, and protocols to accelerate mainnet launch and drive user adoption. Lemniscap is an investment firm that specialises in investments in emerging crypto assets and blockchain startups. Since its founding in 2017, Lemniscap has funded multiple investments in the crypto blockchain space on the core belief that blockchain technology will upend traditional business models, resulting in profound changes in the world economy. Roderik van der Graaf, Founder of Lemniscap, says, “With a set of elite-grade, next-gen tools, Gateway is broadening the inclusivity, availability, and reliability of blockchain networks and protocols.”  “The team is composed of distinguished leaders across the fields of blockchain, distributed software, 2 fintech, information security, and telecommunications – providing excellent infrastructure solutions tailored to projects’ networking needs while facilitating a new wave of Web3 innovation,” adds Graaf. Topics:  Follow us:  The editorial team of Silicon Canals brings you technology news from the European startup ecosystem.  Current MonthSeptember
+
+06sep(sep 6)10:00 am08(sep 8)3:00 pmEvent of the Month: TechVillageMATCHING FOUNDERS AND INVESTORS IN THE MOST BEAUTIFUL MOLDOVAN VILLAGE
+Event DetailsTechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a
+
+
+Event Details
+
+TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a new setting.
+If you are an investor or startup founder and you like the rural scenery, you like to get your hands dirty (literally), and explore new cultures, cuisines and wines, while interacting with other investors and founders, you’ll love it at TechVillage.
+
+
+
+
+
+
+Learn More
+
+
+
+
+CalendarGoogleCal
+
+
+
+
+TimeSeptember 6, 2024 10:00 am - September 8, 2024 3:00 pm(GMT+03:00)
+
+
+
+LocationButuceni, Orheiul VechiOther Events
+
+
+
+OrganizerXY PartnersLearn More  
+
+
+
+
+
+
+
+ September 06sep(sep 6)10:00 am08(sep 8)3:00 pmEvent of the Month: TechVillageMATCHING FOUNDERS AND INVESTORS IN THE MOST BEAUTIFUL MOLDOVAN VILLAGE TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a new setting.
+If you are an investor or startup founder and you like the rural scenery, you like to get your hands dirty (literally), and explore new cultures, cuisines and wines, while interacting with other investors and founders, you’ll love it at TechVillage. CalendarGoogleCal September 6, 2024 10:00 am - September 8, 2024 3:00 pm(GMT+03:00) Butuceni, Orheiul Vechi Learn More 01 02 03 04 05 About Silicon Canals Partner with Silicon Canals Impressum Contact Silicon Canals Disclaimer Terms & Conditions Privacy Policy Editorial Policy Silicon Canals 2014 - 2024 | Website: Bright Idiots | Images: Depositphotos [wp_dark_mode style="2"]

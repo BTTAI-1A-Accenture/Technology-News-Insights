@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='apenewsnet.com', port=443): Max retries exceeded with url: /business-kraft-heinz-announces-selection-of-new-chief-executive-officer20230814 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'apenewsnet.com'. (_ssl.c:1007)")))

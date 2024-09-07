@@ -1,0 +1,20 @@
+
+1Kosmos, the only company that unifies identity proofing and passwordless authentication, today announced that it will present a session on eliminating passwords and deploying passwordless multi-factor authentication (MFA) at the Gartner Identity & Access Management Summit, March 22 at the Gaylord Texan Hotel & Convention Center in Grapevine, Texas.
+ 
+WHO: Javed Shah, Senior Vice President of Product Management for 1Kosmos is a 22 year veteran in the identity management industry. Prior to 1Kosmos, Javed worked at ForgeRock, where he held several leadership roles in the pre-Sales and product management organizations. He has also served in senior technical and architecture roles with Hewlett Packard Enterprise, Kaiser Permanente, Prolifics and Persistent Systems.
+ 
+Robert MacDonald, Vice President of Product Marketing for 1Kosmos has more than 15 years of global marketing experience in identity software. Rob managed product strategy and vision for the Identity and Access Management portfolio at Micro Focus, was responsible for content planning, sales enablement and GTM activities for ForgeRock, and has held senior marketing positions at Entrust, Dell, Quest and Corel Corporation.
+ 
+WHAT: Traditional identity and access management frameworks are failing miserably, with passwords remaining the weakest link in the security chain. According to one recent survey, 84% of firms have suffered an identity-related breach in the past 12 months. It's no surprise that deploying passwordless MFA is gaining mindshare among IT and security leaders as a way out of the whac-a-mole approach to security. But where should they begin? This session will explain the benefits, challenges and pitfalls to avoid for eliminating passwords and implementing a controlled deployment of passwordless MFA, including:
+ 
+WHERE: Gartner Identity & Access Management Summit,
+Gaylord Texan Hotel and Convention Center, Grapevine, Texas
+ 
+WHEN: Secure Passwordless ? Yes You Can!
+Wednesday, March 22nd at 9:45 AM local time
+ 
+HOW: To schedule a conversation with 1Kosmos, contact Marc Gendron at [email protected] or +1 617.877.7480.
+ 
+About 1Kosmos
+ 
+1Kosmos enables passwordless access for workers, customers and citizens to securely transact with digital services. By unifying identity proofing and strong authentication, the BlockID platform creates a distributed digital identity that prevents identity impersonation, account takeover and fraud while delivering frictionless user experiences. BlockID is the only NIST, FIDO2, and iBeta biometrics certified platform that performs millions of authentications daily for some of the largest banks, telecommunications and healthcare organizations in the world. The company is funded by Forgepoint Capital and Gula Tech Adventures with headquarters in Somerset, New Jersey. For more information, visit www.1kosmos.com and follow us on Twitter and LinkedIn.

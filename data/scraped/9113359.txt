@@ -1,0 +1,39 @@
+New to Shacknews? Signup for a Free Account Already have an account? Login Now As seen in a recently leaked video, Microsoft appears to be working on the creation of an optimized Windows 11 UI for handheld devices like Steam Deck. Microsoft appears to be working on (or at least interested in exploring further) a handheld mode for devices like Steam Deck featuring optimized Windows 11 UI. While not something that’s been explicitly revealed by Microsoft itself, an early prototype of this “handheld mode” concept was recently leaked on Twitter by h0x0d and reported only by outlets like The Verge. According to The Verge, the video dates back to last September and comes as part of a hackathon at Microsoft where employees had the opportunity to present some of their ideas for a chance at receiving support from Microsoft executives. In the video, a Windows handheld mode prototype from Microsoft senior UX designer, Dorothy Feng, is what’s referenced. Seen with the prototype are features like a launcher able to open games from Steam, Epic Games Store, PC Game Pass, and more. The prototype also offers keyboard optimization for Steam Deck that can be navigated with a controller, along with highly requested features like a floating taskbar. pic.twitter.com/9C61zrSQ3v 
+
+ Speaking of Steam Deck, the team working on the hackathon prototype dipped into development work focused on creating a way to use Steam Deck controls across Windows as well. As of right now, optimization of Windows 11 on handheld devices like Steam Deck remains a prototype. However, as pointed out by The Verge, it’s something that’s clearly supported by a number of employees at Microsoft. With enough support, and development work by Microsoft employees like what was seen in the leaked video, it could very well become something rolled out by the company in the future. With that, we’re curious to hear your thoughts on the subject. Do you think Microsoft would do well to explore the idea of a handheld mode for devices like Steam Deck featuring optimized Windows 11 UI more in the future? Let us know in Chatty! For more on Microsoft, catch up with some of our previous coverage as well, including Joseph Staten leaving Xbox Publishing, and how Microsoft is building its own mobile app store to compete with Apple and Google. Morgan is a writer from the frozen wastelands of Maine who enjoys metal music, kpop, horror, and indie games. They're also a Tetris fanatic who's fiercely competitive in games like Tetris 99... and all games in general. But mostly Tetris. You can follow Morgan on Twitter @Author_MShaver. 
+					Morgan Shaver posted a new article, Microsoft reportedly working on Windows handheld mode for devices like Steam Deck  
+					Microsoft appears to be working on a thin version of Windows to be able to run on the Steam Deck and other handhold portable PCs and provide essentials for running Windows games https://www.theverge.com/2023/4/13/23681492/microsoft-windows-handheld-mode-gaming-xbox-steam-deck  
+					Isn't that like..what the xbox os is				 
+					You’d think.				 
+					Yeah and it wouldn't surprise me if the codebase has a bunch of overlap 				 
+					[deleted]				 
+					Dreamcast OS!				 
+					Seaman should be built into every new build.  In fact where is the next Seaman game powered by ChatGPT?				 
+					omg Windows Thin PC returns! https://microsoft.fandom.com/wiki/Windows_Thin_PC  
+https://imgur.com/a/LFStJrX Bring it on.				 
+					The year of Windows CE.				 
+					Surface Phone CONFIRMED!!!				 
+					How do they plan to charge for it? 				 
+					$5/mo service 				 
+					Gamepass				 
+					How would it make sense to run any flavor of Windows on a Steam Deck, instead of Linux?				 
+					2023 is the year of the Windows Desktop.				 
+					Because Windows on Steam Deck doesn't run into the issues where games like Destiny 2 consider using Proton as cheating (there's something about VMs that cheaters use and Proton appears that way) Some people already run full fat Windows 11 on their Deck. Some folks even dual boot.  Considering SteamOS' original function was both to avoid having to pay to put Windows on a Steam Machine and also as a contingency plan in case Microsoft ever decided the Windows App Store (think: Windows 8 era) would be the only way to get apps on the device, that they're doing anything to try and run on Steam Deck is pretty interesting. Like how they recently made Halo: MCE verified for it. 				 
+					Ok, that makes more sense -- thank you!				 
+					Linux had it's run now it's Windows time to shine!				 
+					Windows' has been "strippable" from services, forever.  You can go either with stripping before installation to disk, or after.  The issue is supporting/marketing the whole thing.				 
+					It's not just that. Moving to Windows you lose a bunch of the extra work Valve has put into SteamOS.  Things like Suspending games. Yeah, it's not perfect, but it's completely nonexistant on Windows.				 
+					Game Pass support.				 
+					Why wouldn't it make sense.  windows is a fine platform for gaming, if it had deck-like features that's good for everyone.				 
+					Games Pass, unsupported games (Genshin, Fortnite(?))				 
+					Launchbox/Big box, not a fan of Emudeck.				 
+					Can MSFT just buy Steam I mean Valve already				 
+					Michael_Scott_No.gif				 
+					I'm not sure I can't think of a company I'd be ok with buying Valve				 
+					Fuck no				 
+					Other companies already put an overlay to manage power profiles and such over Windows on their handheld PCs. MS just doing it themselves and optimizing things more for the form factor could be better, hope they make progress there				 
+					i'd like to see them excel in that space, but 20 years of experience with mobile windows will keep me skeptical. 				 
+					This again?  Maybe it'll be different this time!  It won't   
+					Worth noting, this is a leaked video from a hackathon. So super cool, but not guaranteed to be a real feature at any point.  Windows doesn't exactly roll out experimental features quickly. 				 
+					How have they not already done this? Oh wait they have and they are always bad. 				 
+					A little late now.				

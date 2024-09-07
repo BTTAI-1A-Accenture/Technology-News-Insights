@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thestar.com/business/opinion/2023/04/30/why-canadians-dont-trust-social-media-companies-to-self-regulate-and-now-want-the-government-to-step-in.html

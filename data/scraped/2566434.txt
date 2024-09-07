@@ -1,0 +1,13 @@
+This palm reader will not be able to tell your fortune, but it will figure out if you are part of Panera's loyalty program.
+ Over the next few months, the bakery-café chain will roll out scanners that can access customers' credit card and loyalty account using their palm. The biometric-gathering technology, developed by Amazon and called Amazon One, is already popular in airports, stadiums and Whole Foods Market grocery stores. Panera is expected to become the first national restaurant company to use it.
+ Panera Bread CEO Niren Chaudhary said in a press release last week that the contactless payment method is meant to serve as a convenience. But there has been growing concern about palm-recognition technology.
+ In 2021, a group of U.S. senators questioned Amazon's data collection practices and specifically whether biometric data is being used for advertising and tracking purposes.
+ "In contrast with biometric systems like Apple's Face ID and Touch ID or Samsung Pass, which store biometric information on a user's device, Amazon One reportedly uploads biometric information to the cloud, raising unique security risks," the senators' letter to Amazon CEO Andy Jassy said.
+ Earlier this month, a shopper based in New York City filed a lawsuit against Amazon claiming that the company did not properly notify customers in Amazon Go stores that their biometric information was being collected.
+ Panera said that the palm scanner is optional for customers, and the company itself does not store personal palm data. The food chain also stressed that any private and personal data shared with Amazon One is never stored on the device.
+ 
+ Here's how it will work: After a brief palm scan, Panera customers can expect to be greeted by name and receive tailored meal recommendations based on their preferences and previous orders. They will also be able to pay by simply rescanning their palm. According to the company, guests can link their credit card to an Amazon One ID in "a minute."
+ "Our philosophy has been centered around leveraging best-in-class technology to create a better Panera experience," Panera's CEO, Chaudhary, said.
+ Panera has not specified which locations will include the gadgets, but they have already been piloted at some restaurants in St. Louis, Mo., where the chain is headquartered. Panera's loyalty program includes about 52 million members. 
+  Copyright 2023 NPR. To see more, visit https://www.npr.org.  
+ Florida Voter Guide Comprehensive Information on U.S. and State Candidates

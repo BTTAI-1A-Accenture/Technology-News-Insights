@@ -1,0 +1,47 @@
+   COMPANY NEWS: Boomi, the intelligent connectivity and automation leader, today announced Event Streams, a multi-tenant enterprise message queuing and streaming service fully hosted and managed within the Boomi platform. Now available through Boomi and in AWS Marketplace, the new service allows organisations to create integrations that are more resilient, scalable, and real-time than traditional point-to-point integration processes. The need for exchanging data in a scalable and timely manner has grown as companies increasingly require more resources to make accurate decisions that drive business goals. However, IT teams within organisations often find themselves spending too much time on ad hoc tasks rather than focusing on more complex projects that better contribute to the overall health of the business. With Boomi Event Streams, customers can accelerate and simplify the delivery of dynamic business outcomes by easily creating high-performance, scalable, event-driven connections for demanding integration use cases. Management and monitoring of event-driven streams is simplified with a single user interface, enabling centralised integration development, management, and monitoring of all integration use cases. This in turn automates day-to-day processes that can address more tactical issues, while freeing up IT resources for more value-add work. According to 451 Research (part of S&P Global Market Intelligence) senior research analyst Carl Lehmann, “an event-driven enterprise maintains a constant state of awareness, and can quickly sense and effectively respond to any sudden changes in execution, performance, market dynamics, business risks and customer opportunities. Virtually all key performance indicators can be improved and enhanced business outcomes can be achieved – such as maintaining inventory at optimal levels, executing financial transactions without delay, operating production lines unimpeded, and reducing errors – by investing in technologies that enable the event-driven enterprise.”  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Businesses of all industries that need real-time information and data — from retail to manufacturing — can depend on Boomi Event Streams to build resilient integrations and establish reliable processes. “We rely on the Boomi platform to speed and simplify the integration of our applications and back-end systems, and break down data silos,” said Nutanix integration manager Prexa Dave. “As a pioneer in hyperconverged infrastructure, we’re always focused on increasing automation and building efficiencies. That’s why we’re excited to see Boomi introduce an Event Streams service. With event streaming capabilities built into the Boomi platform, we’ll be able to make more informed decisions, adapt quickly, and establish reliable, automated processes – all based on the constant flow of real-time data throughout our business environment.” “Event Streams will help customers streamline their efforts through a single product – driving projects forward to address rapidly evolving business needs,” said Boomi chief product officer Ed Macosky. “Speed, productivity, flexibility, and connectivity are key values here at Boomi, and Event Streams enables us to extend our mission to connect everyone to everything, anywhere.” Trusted by its approximately 20,000 global customers across all industries for its speed, ease-of-use, and lower total cost of ownership, the cloud-native Boomi platform provides end-to-end capabilities to easily accelerate business outcomes. These include application integration, master data management, API management, workflow automation, data quality governance, and B2B/EDI network management. As a category-leading, global software as a service (SaaS) company, Boomi touts a growing community of more than 100,000 members and one of the largest arrays of global systems integrators (GSIs) in the iPaaS space. The company boasts a worldwide network of approximately 800 partners, including Accenture, Deloitte, SAP, and Snowflake, and works with the largest hyperscaler cloud service providers. Recently included on the Deloitte Technology Fast 500 and Inc. 5000 lists as one of America’s fastest growing and most innovative technology companies, Boomi has also won three International Stevie Awards, for Company of the Year (two years in a row) and Product Innovation; the Gold Globee Award in the Platform as a Service (PaaS) category; the Merit Award for Technology in the Cloud Services category; the Stratus Award as a Global Leader in Cloud Computing 2022, and received the prestigious 5-star rating for two consecutive years in the CRN Partner Program Guide, a definitive list of the most notable programs from industry-leading technology vendors that provide innovative products and flexible services through the IT channel. About BoomiBoomi aims to make the world a better place by connecting everyone to everything, anywhere. The pioneer of cloud-based integration platform as a service (iPaaS), and now a category-leading, global software as a service (SaaS) company, Boomi touts the largest customer base among integration platform vendors and a worldwide network of approximately 800 partners – including Accenture, Capgemini, Deloitte, SAP, and Snowflake. Global organizations turn to Boomi’s award-winning platform to discover, manage, and orchestrate data, while connecting applications, processes, and people for better, faster outcomes.   
+DOWNLOAD WHITE PAPER! 
+
+PROMOTE YOUR WEBINAR ON ITWIRE
+It's all about Webinars.
+Marketing budgets are now focused on Webinars combined with Lead Generation.
+If you wish to promote a Webinar we recommend at least a 3 to 4 week campaign prior to your event.
+The iTWire campaign will include extensive adverts on our News Site itwire.com and prominent Newsletter promotion https://itwire.com/itwire-update.html and Promotional News & Editorial. Plus a video interview of the key speaker on iTWire TV https://www.youtube.com/c/iTWireTV/videos which will be used in Promotional Posts on the iTWire Home Page.
+Now we are coming out of Lockdown iTWire will be focussed to assisting with your webinars and campaigns and assistance via part payments and extended terms, a Webinar Business Booster Pack and other supportive programs. We can also create your adverts and written content plus coordinate your video interview.
+We look forward to discussing your campaign goals with you. Please click the button below.
+MORE INFO HERE!
+ 
+
+ 
+MORE INFO HERE! 
+
+ 
+
+ 
+                
+                                Everyone got a bit of what they wanted. No one got everything, that sounds like the basis for a good[…]                             
+                
+                                Is this article ironic?                             
+                
+                                The safest way not to get snared is to avoid anything financial on your devices plus do not participate in[…]                             
+                
+                                Who do we trust here? A professional cloud provider with many customers or a monopolistic ticketing agency that can never[…]                             
+                
+                                I knew this scam was full of shit because it didn't present any actual evidence of the supposed hacker having[…]                              
+

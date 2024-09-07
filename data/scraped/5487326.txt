@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Why Trust Tech Report 
+
+
+
+ Tech Report is one of the oldest hardware, news, and tech review sites on the internet. We write helpful technology guides, unbiased product reviews, and report on the latest tech and crypto news. We maintain editorial independence and consider content quality and factual accuracy to be non-negotiable.
+  
+
+
+
+
+
+
+
+ Developers and organizations using Microsoft’s Bing Search API are in for bad news, with the tech giant announcing massive price hikes. Scheduled to be in effect from May 1, 2023, the price hike will see Bing Search API prices rising nine times across all markets. Much like Twitter, Microsoft will be hiking the prices at significantly varying rates across different pricing tiers, ranging from 257% to 900%. The free instance, however, will continue to offer 1,000 free transactions a month as it currently does. Microsoft has cited its technological investments to improve Bing Search as the reason behind the steep price hike. The tech giant recently invested $10 million in OpenAI and has been integrating the latter’s products into its own. These include ChatGPT – OpenAI’s advanced language model that has entered the limelight in recent weeks. Bing Search is one of the first Microsoft products to integrate the new AI products, and Microsoft Office and Edge are to follow the suite. Though far behind Google Search in popularity, Microsoft Bing recently made the headlines for testing AI additions to their products across 160 countries. Microsoft charges for the Bing Search APIs based on the number of API calls, known as transactions. The plans work on a pay-as-you-go basis. Once the specified limit is reached, Bing automatically throttles the usage to keep it within the limit. Of course, users can get their plans upgraded to a higher tier whenever they need. Instance S1 is currently priced at $7 per 1000 transactions and will rise to $25 for the same number of transactions after the hike. The Bing Statistics Add-in transactions will grow 10 times as expensive, from $1 to $10 per thousand transactions. The API pricing with large language models (like ChatGPT) currently starts at $28 per thousand transactions for less than a million daily requests. With the price hike, this will be skyrocketing to $200 per 1000 transactions for more than a million requests a day. The sudden and steep price hike puts developers and organizations using the Bing Search API in a tough spot. Third-party search engines like DuckDuckGo that don’t have their own crawlers and rely on the Bing Search API to pull data may be impacted heavily. However, there’s a chance that such large companies may work out custom agreements with Microsoft. Those unable to support the new costs may be forced to switch to a different search API, which is a bit inconvenient considering it’ll cause the search results to change. Microsoft’s announcement comes not too long after Twitter announced it’ll start charging for the platform’s API, which has been free to use so far. Krishi is an eager Tech Journalist and content writer for both B2B and B2C, with a focus on making the process of purchasing software easier for businesses and enhancing their online presence and SEO. Krishi has a special skill set in writing about technology news, creating educational content on customer relationship management (CRM) software, and recommending project management tools that can help small businesses increase their revenue. Alongside his writing and blogging work, Krishi's other hobbies include studying the financial markets and cricket. 
+
+
+
+
+
+
+
+
+
+
+
+
+  Why Trust Tech Report 
+
+
+
+ Tech Report is one of the oldest hardware, news, and tech review sites on the internet. We write helpful technology guides, unbiased product reviews, and report on the latest tech and crypto news. We maintain editorial independence and consider content quality and factual accuracy to be non-negotiable.
+  Malaysian authorities have apprehended seven individuals linked to a power theft operation associated with illegal Bitcoin mining activities. Local news reports reveal that three Malaysian citizens and four foreign nationals... Bitcoin has recorded significant price fluctuations over the past week. After consolidating over the weekend, BTC opened a London session at just under $58,000 today, August 19.  Moreover, Bitcoin faces... REGULATION & HIGH RISK INVESTMENT WARNING: Trading Forex, CFDs and Cryptocurrencies is highly speculative, carries a level of risk and may not be suitable for all investors. You may lose some or all of your invested capital, therefore you should not speculate with capital that you cannot afford to lose. The content on this site should not be considered investment advice. Investing is speculative. When investing your capital is at risk. Please note that we do receive advertising fees for directing users to open an account with the brokers/advertisers and/or for driving traffic to the advertiser website. Crypto promotions on this site do not comply with the UK Financial Promotions Regime and is not intended for UK consumers. © Copyright 2024 The Tech Report Inc. All Rights Reserved.

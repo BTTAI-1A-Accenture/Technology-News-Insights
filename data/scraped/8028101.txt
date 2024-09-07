@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bendbulletin.com/business/finance/how-online-payments-services-like-paypal-and-venmo-are-gentrifying-the-internet/article_8f6744f8-d93b-5342-96d0-b6c8174e78ee.html

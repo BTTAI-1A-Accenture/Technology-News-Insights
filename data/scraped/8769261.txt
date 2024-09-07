@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://techbullion.com/scrape-data-from-a-website-with-pagination-using-javascript-playwright/

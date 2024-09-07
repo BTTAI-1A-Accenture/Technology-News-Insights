@@ -1,0 +1,48 @@
+
+Medindia »
+News »
+Child Health News »
+Fatty Acid in Breast Milk Linked to Improved Heart Function             
+Maternal milk provides the signal that enhances the maturation of heart metabolism after birth, permitting the neonatal heart to function correctly and ensuring postnatal survival (1✔ ✔Trusted Sourceγ-Linolenic acid in maternal milk drives cardiac metabolic maturationGo to source).   
+
+The study shows that the fatty acid gamma-linolenic acid (GLA), present in breast milk, binds to the retinoid X receptor (RXR) protein found in heart cells. RXR acts as a nutritional sensor of lipids and vitamin A derivatives, altering gene expression and influencing biological functions such as immunity, cell differentiation, and metabolism. Once activated by maternal GLA, RXR initiates genetic programs that equip mitochondria, the energy centers of the cell, with the enzymes and other proteins they need to to start consuming lipids, the primary source of energy in the mature heart.
+ Fatty Acid Enhances Heart Function 
+
+The results, published today in Nature, could have significant therapeutic implications for cardiovascular disorders involving mitochondrial and metabolic dysfunction, as well as diseases related to alterations in postnatal developmental processes, explained study leader Dr. Mercedes Ricote, who heads the Nuclear Receptor Signaling group at the CNIC. 
+
+Importance of Breast Feeding-Stages-Advantages-Benefits-Storage-FAQsFrom antibodies, to the exclusive nutrients, the benefits of breastfeeding are incalculable.
+‘The fatty acid GLA, present in breast milk, was found to be the key signal that ensures correct cardiac function after birth.
+’        
+
+In a mouse model, the research team found that the absence of RXR in the heart or the lack of GLA in maternal milk prevented mitochondria in the hearts of newborn mice from producing energy correctly, leading to severe heart failure and death 24-48 hours after birth. 
+
+The heart of a newborn mammal must quickly produce energy to sustain cardiac contraction outside of the womb. To achieve this, cardiomyocytes, the contracting cells of the myocardium (the cardiac muscle), need to activate their mitochondria to use lipids as the energy source for the generation of ATP (adenosine triphosphate—the essential energy currency of the cell). Although this process is crucial for the survival of the organism, until now, little was known about the signals that trigger the physiological adaptation of the heart after birth. 
+
+“The need to maintain a constant and uninterrupted beat places an immense energy demand on the heart”, explained Dr. Ricote. "To meet their energy needs, cardiomyocytes maintain a tight control over the cellular pathways that produce energy. Any imbalance in these bioenergetic mechanisms can lead to the development of serious cardiovascular pathologies." 
+
+Congenital Heart Disease – Septal DefectsHeart diseases that are present at birth are called “ Congenital heart diseases”.
+
+For Dr. Ricote, part of the study’s novelty "lies in demonstrating that RXR plays a critical role in cardiac muscle, contrary to what was previously thought. This is an important conceptual advance in the field of nuclear receptors." 
+
+According to first author Dr. Ana Paredes, the study presents a new framework for understanding the postnatal adaptations that occur in newborn mammals to meet the requirements of the extrauterine environment. "Birth is a physiological challenge for the newborn," Dr. Paredes explained. "With this study, we show that maternal milk, besides its nutritional function, plays a signaling role by instructing cardiomyocytes that they need to activate their metabolism because they are no longer supported by maternal physiology." Advertisement     
+
+An Active HeartThe heart pumps blood constantly providing the power to sustain life.
+
+The research involved multidisciplinary approaches and advanced sequencing techniques, including key contributions from the CNIC teams led by Dr. José Antonio Enríquez, Dr. Fátima Sánchez-Cabo, and Dr. Jesús Vázquez. 
+
+Contributions from outside the CNIC included several Spanish centers: Centro Nacional de Biotecnología y el Centro de Investigaciones Biológicas Margarita Salas, both belonging to the Consejo Superior de Investigaciones Científicas (CNB-CSIC, CIB-CSIC); Universidad Complutense de Madrid (UCM); Universidad de Barcelona (UB); Instituto de Biología Funcional y Genómica/ Universidad de Salamanca (IBFG/USAL); CiberCV, and CEMBIO/CEU San Pablo. International collaboration came from the Karolinska Institute (Sweden).  Advertisement     
+
+Foods that Can Save Your Heart Do you enjoy a glass of wine with your meal? If so it's good news for your heart!
+
+GLA activates the cell protein RXR, which then directs coordinated gene expression changes to ensure that cardiomyocyte mitochondria mature so that they can produce energy in the extrauterine environment. 
+
+The results open the way to treatments to modulate RXR activity in cardiomyocytes with specific drugs, including some that already have approval from the US Federal Drug Administration for cancer treatments. “Our study proposes RXR as a possible therapeutic target for neonatal heart disorders and systemic diseases triggered by metabolic errors,” concluded Dr. Ricote. 
+
+The study was supported by funding from the Spanish Ministry of Science and Innovation, Fundación La Marató de TV3, and the Community of Madrid regional government.
+Reference:
+γ-Linolenic acid in maternal milk drives cardiac metabolic maturation - (https://www.nature.com/articles/s41586-023-06068-7)
+
+
+
+Source-Eurekalert
+             Disclaimer - All information and content on this site are for information and educational purposes only. The information should not be used for either diagnosis or treatment or both for any health related problem or disease. Always seek the advice of a qualified physician for medical diagnosis and treatment. Full Disclaimer Advertise with us | Medindia Copyright | Privacy Policy | Terms of Use © All Rights Reserved 1997 - 2024

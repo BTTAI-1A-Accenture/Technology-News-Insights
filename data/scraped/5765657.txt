@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.freightwaves.com/news/freighttech-industry-isnt-what-it-was-a-year-ago

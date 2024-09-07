@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/powering-the-future-of-trust-management-introducing-vanta-ai/article_179cdadf-7565-5034-9013-32a18e6e6dc2.html

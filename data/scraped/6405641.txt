@@ -1,0 +1,141 @@
+Here’s a look at the tech industry companies that saw the biggest share price gains and losses in the first six months of 2023 including Nvidia, AMD, MongoDB, IBM, Zoom Video and Rackspace. 
+
+
+
+
+
+
+ Stock Price Recovery Year Tech companies have had a challenging 2023 so far with the uncertain economy and with many of the biggest players in the IT industry laying off thousands of workers. But when it comes to their stock prices, it’s been a good year so far for most IT companies. Of the 58 IT vendors on the CRN watch list, only nine recorded stock price declines in the period between Jan. 3 and June 30. And only a couple of those were significant drops – many were single-digit percentage declines. Among the 49 companies that saw their stock price rise during the quarter, most recorded double-digit price gains and three had gains of more than 100 percent. This year is a significant change from all of 2022 when only seven IT vendors on the CRN watch list recorded share price gains. (And several of those, including VMware, Mandiant and Citrix Systems, were due to acquisitions that locked in price premiums offered by the acquiring companies.) The rest recorded share price declines for the year – with many companies’ shares losing more than half their value. For the first half of 2023 the Dow Jones index was up 3.80 percent to 34,407.60 while the tech-heavy NASDAQ was up 30.54 percent to 13,787.92 (both the June 30 close) . Here’s a look at the biggest stock price gainers and losers in the first six months of 2023. We start with the 10 biggest gainers, counting down to the IT vendor with the biggest stock price gain as of June 30. Then we list the nine companies whose stock price declined during the period, concluding with the IT vendor with the biggest loss. The rankings are based on the opening share prices on Jan. 3, 2023, and the closing share prices on June 30, 2023. The market capitalization figures are as of June 30, 2023. 
+
+
+
+
+
+
+ Gainers No. 10: Broadcom (AVGO) CEO: Hock Tan Jan. 3, 2023, Opening: $565.00 June 30, 2023, Close: $867.43 Change: +53.53% Market Capitalization: $357.98 billion Broadcom is in the process of acquiring virtualization tech giant VMware in a $61 billion deal announced in May 2022. Winning regulatory approvals, especially from the European Union, has taken longer than anticipated, although Broadcom CEO Hock Tan and Dell Technologies CEO Michael Dell have expressed confidence the deal will go through. Broadcom’s stock got a boost on June 12 when Reuters reported that the European Union was set to provide conditional antitrust approval for the acquisition. (The European Union granted approval for the deal this month.) For the first six months (ended April 30) of its fiscal 2023 Broadcom reported revenue of $17.65 billion, up nearly 12 percent from $15.81 billion in the first half of fiscal 2022. Net income for the first half of fiscal 2023 was $7.26 billion, up more than 43 percent from $5.06 billion one year earlier. 
+
+
+
+
+
+
+ Gainers No. 9: Confluent (CFLT) CEO: Jay Kreps Jan. 3, 2023, Opening: $22.83 June 30, 2023, Close: $35.31 Change: +54.66% Market Capitalization: $64.14 billion Confluent struck a deal in January to acquire Immerok, a leading contributor to Apache Flink, the open-source technology for building stream processing applications. Confluent is using the Immerok technology to accelerate its plans to launch a fully managed Flink service that is compatible with its Confluent Cloud data streaming platform. For the first quarter of 2023 (ended March 31) Confluent reported revenue of $174.3 million, up more than 38 percent from $126.1 million in the first quarter of 2022. The company reported a net loss of $152.6 million for the quarter compared to a $113.0 loss one year before. 
+
+
+
+
+
+
+ Gainers No. 8: Salesforce (CRM) CEO: Marc Benioff Jan. 3, 2023, Opening: $135.19 June 30, 2023, Close: $211.26 Change: +56.27% Market Capitalization: $205.77 billion Salesforce co-CEO Bret Taylor left the company as of Jan. 31, leaving co-founder Marc Benioff as the cloud application giant’s sole CEO. Taylor had announced his plans in November. Chief Strategy Officer Gavin Patterson also left the company effective Jan. 31. Multiple activist investors have acquired stakes in Salesforce including Third Point, Starboard Value, ValueAct Capital Partners, Elliott Investment Management and Inclusive Capital. On March 27 Salesforce and Elliott issued a joint statement saying Elliott had decided against nominating new directors for Salesforce. For its fiscal 2023 (ended Jan. 31) Salesforce reported revenue of $31.35 billion, up 18 percent from $26.49 billion in fiscal 2022. For its fiscal 2024 first quarter (ended April 30) Salesforce reported revenue of $8.25 billion, up 11 percent from $7.41 billion in the first quarter of fiscal 2023. Net income for the quarter was $199 million compared to net income of $28 million. 
+
+
+
+
+
+
+ Gainers No. 7: BlackBerry (BB) CEO: John Chen Jan. 3, 2023, Opening: $3.35 June 30, 2023, Close: $5.53 Change: +65.07% Market Capitalization: $3.21 billion In May BlackBerry said that the company’s board of directors would initiate a review of the company’s portfolio of businesses, an assessment that the company said would “assist the board as it considers various strategic alternatives to drive enhanced shareholder value.” The company said those alternatives included “the possible separation of one or more of BlackBerry’s businesses. On May 11 BlackBerry said it had completed the sale of “substantially all of its non-core patents and patent applications” to Malikie Innovations Limited, a subsidiary of Key Patent Innovations, an intellectual monetization company. BlackBerry said it received $170 million in cash for the sale, under the deal the company initially announced on March 21.)BlackBerry reported that revenue for all of fiscal 2023 (ended Feb. 28) was $656 million, down nearly 9 percent from $718 million in fiscal 2022. The company reported a net loss of $734 million for the year (due largely to charges for impairment of goodwill and long-lived assets) compared to net income of $12 million in fiscal 2022. For its fiscal 2024 first quarter (ended May 31, 2023) BlackBerry reported revenue of $373 million, including the proceeds from the patent sale. That compared to revenue of $168 million in the first quarter of fiscal 2023. 
+
+
+
+
+
+
+ Gainers No. 6: Advanced Micro Devices (AMD) CEO: Lisa Su Jan. 3, 2023, Opening: $66.00 June 30, 2023, Close: $113.91 Change: +72.59% Market Capitalization: $183.44 billion In May AMD reported that revenue in its first quarter declined year over year for the first time in nearly four years due to a steep decline in sales for client CPUs and slowing demand for data center and gaming chips. That followed record revenue in 2022, largely due to surging sales of the company’s EPYC processors for data center systems. For its fiscal 2023 first quarter (ended April 1) AMD reported revenue of $5.35 billion, down 9 percent from $5.89 billion in the first quarter of 2022. The company reported a net loss of $139 million for the quarter compared to a $786 million net profit one year earlier. In April AMD said that Alan Lee, the head of the chipmaker’s influential research group, was leaving the company after 15 years. The research organization made crucial contributions in such areas as AI, high-performance computing and advanced memory. 
+
+
+
+
+
+
+ Gainers No. 5: Vertiv (VRT) CEO: Giordano Albertazzi Jan. 3, 2023, Opening: $13.86 June 30, 2023, Close: $24.77 Change: +78.72% Market Capitalization: $9.41 billion Giordano Albertazzi took over as Vertiv CEO in January following a succession plan announced the previous October. Until July 1 he also retained the President – Americas post he had held since March 2022. Altogether Albertazzi worked at the company for more than two decades, including holding several top executive positions overseeing the EMEA operations for Vertiv and before that Emerson Network Power (which rebranded as Vertiv in December 2016). In May Vertiv named Anand Sanghi as the new president of the company’s Americas operations, effective July 1. Sanghi had been serving as president of the company’s Australia, New Zealand, Southeast Asia and India (ASI) operations. He has worked at Vertiv and Emerson for 29 years. In its 2023 first quarter (ended March 31) Vertiv reported sales of $1.52 billion, up 31.5 percent from $1.16 billion in the first quarter of 2022. Net income for the quarter was $50.3 million compared to $8.5 million one year before. The company will report its second quarter financial results on Aug. 2. 
+
+
+
+
+
+
+ Gainers No. 4: Palo Alto Networks (PANW) CEO: Nikesh Arora Jan. 3, 2023, Opening: $141.32 June 30, 2023, Close: $255.51 Change: +80.80% Market Capitalization: $78.15 billion Palo Alto Networks develops a leading enterprise cybersecurity platform that provides cloud and network security and endpoint protection – including key growth areas such as AI-based SASE, zero trust and XDR (extended detection and response) tools. The company also offers AI-powered Security Operations Center automation capabilities. In December, just before the close of 2022, Palo Alto Networks completed its acquisition of Cider Security, a developer of application and software supply chain security, for approximately $195 million. For the first nine months (ended April 30, 2023) of its fiscal 2023 Palo Alto Networks reported revenue of $4.94 billion, up 25 percent from $3.95 billion in the first nine months of fiscal 2022. The company reported net income of $212.0 million for the nine-month period compared to a $270.3 million net loss one year before. 
+
+
+
+
+
+
+ Gainers No. 3: MongoDB (MDB) CEO: Dev Ittycheria Jan. 3, 2023, Opening: $199.45 June 30, 2023, Close: $410.99 Change: +106.06% Market Capitalization: $29.01 billion Next-generation database developer MongoDB has been aggressively establishing strategic alliances with major cloud platform companies, including Amazon Web Services, Google Cloud, Microsoft and Alibaba, over the last couple of years. In June the company launched an AI initiative with Google Cloud. For its fiscal 2024 first quarter (ended April 30) MongoDB reported revenue of $368.3 million, up 29 percent from $285.4 million in the first quarter of fiscal 2023. The company reported a $54.2 million net loss for the quarter compared to a $77.3 million net loss one year earlier. 
+
+
+
+
+
+
+ Gainers No. 2: MicroStrategy (MSTR) CEO: Phong Le Jan. 3, 2023, Opening: $145.67 June 30, 2023, Close: $342.42 Change: +135.07% Market Capitalization: $4.44 billion MicroStrategy is a leading company in the data analytics space, offering products for both enterprise and embedded analytics. The company is also a major investor in Bitcoin and much of the rise in the company’s stock in the first half of 2023 can be attributed to the increase in Bitcoin’s value since the start of the year. MicroStrategy began investing in Bitcoin in the second quarter of 2020 and has since acquired 140,000 Bitcoin worth about $4 billion. The price of Bitcoin surged earlier this year from around $16,600 on Jan. 1 to more than $31,000. For the first quarter (ended March 31) of 2023 MicroStrategy reported revenue of $121.9 million, up 2.2 percent from $119.3 million in the first quarter of 2022. The company reported net income of $461.2 million (including a $453.2 million income tax benefit) for the quarter compared to a $130.8 million loss one year before. MicroStrategy is scheduled to release its second quarter financial results on Aug. 1 
+
+
+
+
+
+
+ Gainers No. 1: Nvidia (NVDA) CEO: Jensen Huang Jan. 3, 2023, Opening: $148.51 June 30, 2023, Close: $423.02 Change: +184.84% Market Capitalization: $1.05 trillion Nvidia’s stock recorded the most growth in the first six months of 2023 among all the IT vendors on the CRN watch list. Nvidia’s stock has skyrocketed this year with the wave of generative AI applications like ChatGPT that are seen as driving huge demand for the company’s data center GPUs. The sharp increase in its stock price has pushed Nvidia’s market capitalization over the $1 trillion mark, putting the chip designer in the same exclusive club as Apple, Google and Microsoft. For its fiscal 2024 first quarter (ended April 30 2023) Nvidia reported revenue of $7.19 billion, down 13 percent from $8.29 billion in the first quarter of fiscal 2023. Revenue declines in the company’s gaming and professional visualization businesses led to the overall drop in revenue. Net income for the most recent quarter was $2.04 billion, up 26 percent from $1.62 billion one year earlier. 
+
+
+
+
+
+
+ Losers No. 1: Check Point Software Technologies (CHKP) CEO: Gil Shwed Jan. 3, 2023, Opening: $126.70 June 30, 2023, Close: $125.62 Change: -0.85% Market Capitalization: $15.17 billion In February Check Point’s board of directors authorized a $2 billion expansion of the company’s on-going share repurchase program, up to $325 million each quarter. In May the company appointed Roei Golan as chief financial officer. He had been serving as acting CFO since November 2022, replacing Tal Payne who had been on sabbatical and decided not to return to work. Golan joined Check Point’s finance department in 2021 after working at Ernst & Young for 11 years. For its 2023 first quarter (ended March 31) Check Point reported revenue of $566.2 million, up 13 percent from $542.7 million in the first quarter of 2022. Net income for the quarter was $184.1 million, up 8.7 percent from $169.4 million one year before. Check Point will report its second quarter financial results on July 26. 
+
+
+
+
+
+
+ Losers No. 2: Zoom Video Communications (ZM) CEO: Eric Yuan Jan. 3, 2023, Opening: $69.01 June 30, 2023, Close: $67.88 Change: -1.64% Market Capitalization: $20.20 billion In February video conferencing service giant Zoom disclosed that it had dismissed President Greg Tomb “without cause” after less than a year on the job. Tomb, a former Google and SAP executive, had been hired in June 2022 to oversee the company’s go-to-market strategy, revenue efforts and the global CIO office. The news of Tomb’s dismissal came just weeks after the company said it would reduce its staff by 1,300 employees or about 15 percent. For its fiscal 2024 first quarter (ended April 30, 2023) Zoom reported revenue of $1.11 billion, up 3 percent year over year from $1.07 billion in the first quarter of fiscal 2023. The company reported net income of $15.4 million for the most recent quarter compared to $113.7 million one year before. 
+
+
+
+
+
+
+ Losers No. 3: Juniper Networks (JNPR) CEO: Rami Rahim Jan. 3, 2023, Opening: $32.24 June 30, 2023, Close: $31.33 Change: -2.82% Market Capitalization: $10.08 billion For its 2023 first quarter (ended March 31) Juniper Networks reported revenue of $1.37 billion, up 17 percent from $1.17 billion in the first quarter of 2022. Net income for the quarter was $85.4 million, up more than 53 percent from $55.7 million one year earlier. Juniper will release its second quarter financial results on July 27. 
+
+
+
+
+
+
+ Losers No. 4: IBM (IBM) CEO: Arvind Krishna Jan. 3, 2023, Opening: $141.1 June 30, 2023, Close: $133.81 Change: -5.17% Market Capitalization (March 31, 2023): $121.51 billion IBM has made a number of acquisitions in 2023. Topping the list is the June 26 announced deal to acquire Apptio, a developer of financial and operational IT management and optimization software, for $4.6 billion. IBM said the acquisition will expand its IT automation product portfolio. In February IBM said it had struck a deal to buy NS1, a provider of network automation SaaS technology. And in May IBM disclosed that it had acquired Polar Security, a developer of data security posture management technology. For its 2023 first quarter (ended March 31) IBM reported revenue of $14.25 billion, essentially flat with the $14.20 billion reported in the first quarter of 2022. Net income for the quarter was up more than 26 percent to $927 million from $733 million one year earlier. IBM is scheduled to release its second quarter financial results on July 19. 
+
+
+
+
+
+
+ Losers No. 5: Verizon Communications (VZ) CEO: Hans Vestberg Jan. 3, 2023, Opening: $39.77 June 30, 2023, Close: $37.19 Change: -6.49% Market Capitalization (March 31, 2023): $156.35 billion Verizon is leaning on its strength in its core networking capabilities and its rising business and SMB segments as it focuses on its wireless strategy and growing number of subscribers. Verizon’s executive suite has undergone changes in 2023 including the departure of CFO Matt Ellis as of May 1. Verizon is reportedly looking to recruit a new finance leader who could one day move into the CEO job at the telecommunications giant, taking over for Hans Vestberg who has been CEO since 2018. The company also named new CEOs of the Verizon Consumer Group and Verizon Business Group. In February Verizon’s Board of Directors authorized the company to repurchase up to 100 million shares of its common stock. For its first quarter ended March 31 Verizon reported operating revenue of $32.91 billion, down nearly 2 percent from $33.55 billion in the first quarter of 2022. Net income for the quarter was $5.02 billion, up 6.5 percent from $4.71 one year before. Verizon will report its second quarter financial results on July 25. 
+
+
+
+
+
+
+ Losers No. 6: Rackspace Technology (RXT) CEO: Amar Maletira Jan. 3, 2023, Opening: $3.02 June 30, 2023, Close: $2.72 Change: -9.93% Market Capitalization (March 31, 2023): $585.02 million Rackspace entered 2023 trying to recover from an extensive ransomware attack in December that caused widespread service outages for thousands of customers. In January the company confirmed that hackers had obtained customer data in the attack. For its 2023 first quarter (ended March 31) Rackspace reported revenue of $758.7 million, down 2.2 percent from $775.5 million in the first quarter of 2022. The company reported a $612.0 million loss compared to a $38.5 million loss one year before. In announcing the first-quarter results CEO Amar Maletire called 2023 “a transformation year” for the business and said that the second quarter would be “the trough in profitability for the company.” 
+
+
+
+
+
+
+ Losers No. 7: AT&T (T) CEO: John Stankey Jan. 3, 2023, Opening: $18.51 June 30, 2023, Close: $15.94 Change: -13.88% Market Capitalization (March 31, 2023): $113.96 billion In January AT&T said it would invest heavily in the buildout of its 5G infrastructure and fiber network through a joint venture with private equity partner BlackRock. For the first quarter ended March 31, AT&T reported operating revenue of $30.14 billion, up 1.4 percent from $29.71 billion in the first quarter of 2022. Net income for the quarter was $4.23 billion, down more than 12 percent from $4.81 billion one year earlier. AT&T is scheduled to announce its second quarter financial results on July 26. 
+
+
+
+
+
+
+ Losers No. 8: Netgear (NTGR) CEO: Patrick Lo Jan. 3, 2023, Opening: $18.27 June 30, 2023, Close: $14.16 Change: -22.50% Market Capitalization (March 31, 2023): $411.43 million For its 2023 first quarter (ended April 2) Netgear reported revenue of $180.9 million, down 14 percent from $210.6 million in the first quarter of 2022. The company reported a net loss of $9.7 million for the quarter compared to a $57.2 million loss one year ago. Netgear will report its second quarter financial results on July 26. 
+
+
+
+
+
+
+ Losers No. 9: Lumen Technologies (LUMN) CEO: Kate Johnson Jan. 3, 2023, Opening: $5.30 June 30, 2023, Close: $2.26 Change: -57.36% Market Capitalization: $2.27 billion Telecommunications company Lumen Technologies, formerly CenturyLink, has struggled against financial headwinds in recent years and had the biggest stock price decline during the first half of 2023 – more than 57 percent – among all companies on the CRN watch list. Kate Johnson, who was appointed Lumen president and CEO in September 2023, has declared 2023 to be a “reset year” as the company looks to return to growth while continuing to divest itself of non-core businesses. In February the company announced a number of changes to its executive ranks, including bringing on tech veterans Sham Chotai as executive vice president of product and technology and Jay Barrows as executive vice president of enterprise sales and public sector. In May the company hired Kye Prigg as executive vice president of enterprise operations. The company said the moves would better position it for growth and to place more of an emphasis on customer experience. On May 2, in reporting results for its fiscal 2023 first quarter, said the company had started to see results in growth areas such as fiber, SASE and unified communications. For the quarter ended March 31 Lumen reported operating revenue of $3.74 billion, down 20 percent from $4.68 billion in the first quarter of 2022. Net income was down 15 percent year over year to $511 million from $599 million one year earlier. Lumen will report its second quarter financial results on Aug. 1.

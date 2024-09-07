@@ -1,0 +1,513 @@
+
+
+InMyArea.com earns commissions from some of the providers we list on our site.
+
+Learn more
+
+ 
+
+
+
+
+
+
+ Compare plans, prices, and check for internet providers by ZIP code, address, or location. All internet service providers, including AT&T, Xfinity, Spectrum, CenturyLink, Cox, and Frontier, offer internet service in select areas. Unlike cell phone service, which is available nationwide through carriers such as AT&T, T-Mobile, Verizon, and Sprint — internet connections such as DSL (Digital Subscriber Line), cable, and fiber are not as comprehensive in coverage. Many wired and wireless internet providers may be available near you, but the fastest speeds cannot always reach every home. Internet speeds depend on your chosen plan, your internet connection type, how far away from the network you live, and the performance of your Wi-Fi router.
+ Every internet provider varies in footprint and subscriber coverage. Even if an ISP can offer service in your area, it may be unable to connect your home to its wired network due to technical limitations on cabling distance. Although wired internet connections through fiber, DSL, and cable are best, internet service from a fixed wireless or satellite provider is also an option. Broadband internet connections degrade the farther away you live from the provider’s network.
+If your home is outside of the city limits or in a rural area, you might not have access to a wired internet connection. Wireless connections may be your only option. However, wireless internet service needs unobstructed views of nearby towers and satellites in space. Otherwise, performance can slow down when line-of-sight obstructions such as trees and mountains exist. The best internet provider in each area depends on your individual needs. “Best” could mean different things depending on your priorities. You may want the cheapest, contract-free internet, or more likely, internet with the fastest download and upload speeds. Your final choice will vary based on your goal. Let's assume by “best” you mean the fastest internet provider with service to your home. Here are some tips to remember for choosing the best type of internet connection for your needs:
+ Internet service networks connect to homes by phone lines, coaxial cable, optical fiber, the 5G and 4G LTE cellular networks, wireless antennas, and satellite dishes. The InMyArea team analyzed data for every city in the U.S. and found that each of these cities has an average of three wired internet providers, but most homes can only get service from one or two providers. Perhaps you recently moved and need your utilities connected for the first time. Maybe you’re buying a home and want to verify your family can have a fast internet connection. Or you've had a bad experience with your current provider and are looking to change. InMyArea.com can help you find all the internet providers in your area.
+InMyArea.com searches through hundreds of millions of data points to show you which providers are available in your area by coverage percentage (how much they cover your surrounding area). The provider with the highest coverage percent is the most likely to be available at your address, though it may not be the fastest internet option in your neighborhood.
+ InMyArea.com is a home services comparison website built by a team of designers, programmers, developers, and data scientists who are passionate about connecting people everywhere to the best services. Our team has decades of experience with internet service providers and a desire to provide users with the best possible online research experience.
+In 2014, we reorganized our efforts, analyzed over 10 million broadband records, and greatly improved the accuracy of our results. Since then, our data has grown to over 100 million records, and we continue to make advancements in data analysis by enhancing our system's performance. We built InMyArea.com to help our family, friends, and neighbors find the providers in their area when they move, need to save money, or want to change providers.
+ We analyze hundreds of millions of rows of data in real time, examine every street, city, and ZIP code in the United States, calculate how likely you are to be connected by each provider, check the speeds available, and display the results. We will show you a list of providers, plans, speeds, and prices, including fiber, cable, DSL, satellite, wireless, and cellular providers. We'll even throw in the nearby public places with free Wi-Fi for you to access the internet while you wait for the installation of your service.
+ You can find your internet providers by searching InMyArea.com. Enter your ZIP code, address, or share your device's location to find wired connections from fiber-optic, DSL, and cable providers. You can also check the availability of wireless providers from satellite and fixed wireless connections available in your area.  
+Most Popular Cities For Internet Providers In My Area
+These are the top cities in the United States where people are shopping for the best internet providers
+
+
+1. 
+
+New York, New York 
+
+
+16 Providers Available 
+
+
+2. 
+
+Los Angeles, California 
+
+
+27 Providers Available 
+
+
+3. 
+
+Houston, Texas 
+
+
+25 Providers Available 
+
+
+4. 
+
+Chicago, Illinois 
+
+
+15 Providers Available 
+
+
+5. 
+
+Miami, Florida 
+
+
+11 Providers Available 
+
+
+6. 
+
+San Antonio, Texas 
+
+
+24 Providers Available 
+
+
+7. 
+
+Philadelphia, Pennsylvania 
+
+
+7 Providers Available 
+
+
+8. 
+
+Phoenix, Arizona 
+
+
+13 Providers Available 
+
+
+9. 
+
+Las Vegas, Nevada 
+
+
+14 Providers Available 
+
+
+10. 
+
+San Diego, California 
+
+
+12 Providers Available 
+
+
+11. 
+
+Dallas, Texas 
+
+
+19 Providers Available 
+
+
+12. 
+
+Denver, Colorado 
+
+
+36 Providers Available 
+
+
+13. 
+
+Cleveland, Ohio 
+
+
+15 Providers Available 
+
+
+14. 
+
+Baltimore, Maryland 
+
+
+10 Providers Available 
+
+
+15. 
+
+Fort Worth, Texas 
+
+
+20 Providers Available 
+
+
+16. 
+
+Minneapolis, Minnesota 
+
+
+16 Providers Available 
+
+
+17. 
+
+Austin, Texas 
+
+
+23 Providers Available 
+
+
+18. 
+
+San Jose, California 
+
+
+14 Providers Available 
+
+
+19. 
+
+Columbus, Ohio 
+
+
+20 Providers Available 
+
+
+20. 
+
+Atlanta, Georgia 
+
+
+10 Providers Available 
+
+
+21. 
+
+Detroit, Michigan 
+
+
+10 Providers Available 
+
+
+22. 
+
+Indianapolis, Indiana 
+
+
+20 Providers Available 
+
+
+23. 
+
+Jacksonville, Florida 
+
+
+11 Providers Available 
+
+
+24. 
+
+Orlando, Florida 
+
+
+11 Providers Available 
+
+
+25. 
+
+Tucson, Arizona 
+
+
+15 Providers Available 
+
+
+26. 
+
+Portland, Oregon 
+
+
+10 Providers Available 
+
+
+27. 
+
+Seattle, Washington 
+
+
+10 Providers Available 
+
+
+28. 
+
+Sacramento, California 
+
+
+16 Providers Available 
+
+
+29. 
+
+Milwaukee, Wisconsin 
+
+
+10 Providers Available 
+
+
+30. 
+
+Charlotte, North Carolina 
+
+
+10 Providers Available 
+
+
+
+ These are the top cities in the United States where people are shopping for the best internet providers The FCC defines broadband as a minimum download speed of 25 Mbps and 3 Mbps upload speed. That speed is the bare minimum you’ll need for modern internet use. For example, Netflix recommends a 25 Mbps (megabits per second) download speed for playing movies and TV shows at Ultra HD quality. If you have four simultaneous users sharing the connection, you need at least 100 Mbps to give each user 25 Mbps to stream, play online games, or download files. That said, we at InMyArea.com believe that 100 Mbps or higher is a better definition of broadband internet.
+ The fastest internet speeds are available from fiber-optic and cable connections, up to around 1 Gbps (1,000 Mbps) for cable and 10 Gbps for fiber. Ultra-fast internet speeds are rarer in less populated areas of the country, such as rural areas and small towns. Residents in these areas should expect max speeds closer to 150 Mbps.
+ Fiber-optic internet service is the fastest type of connection, with max speeds ranging from 1 Gbps to 5 Gbps. However, fiber is expensive for ISPs to install and deploy, and as a result, fiber has been slow to grow in remote areas. Consider yourself lucky if you live in an area with a fiber connection. That said, providers continuously deploy and expand their fiber infrastructures each day to connect with more consumers. Here are some of the fiber internet providers with the most coverage throughout the United States.   
+
+
+1. AT&T has Fiber coverage in 21 states, available to an estimated homes, 16.81% of the US population.
+
+
+2. Frontier has Fiber coverage in 21 states, available to an estimated homes, 5.00% of the US population.
+
+
+3. Optimum has Fiber coverage in 5 states, available to an estimated homes, 2.03% of the US population.
+
+
+4. CenturyLink has Fiber coverage in 20 states, available to an estimated homes, 3.76% of the US population.
+
+
+5. Google Fiber has Fiber coverage in 10 states, available to an estimated homes, 1.26% of the US population.
+
+
+6. Metronet has Fiber coverage in 10 states, available to an estimated homes, 0.96% of the US population.
+
+
+7. Windstream has Fiber coverage in 17 states, available to an estimated homes, 1.01% of the US population.
+
+
+8. Consolidated Communications has Fiber coverage in 19 states, available to an estimated homes, 0.71% of the US population.
+
+
+9. Quantum Fiber has Fiber coverage in state, available to an estimated homes, % of the US population.
+
+
+10. Ziply has Fiber coverage in 4 states, available to an estimated homes, 0.69% of the US population.
+
+
+11. Cincinnati Bell has Fiber coverage in 3 states, available to an estimated homes, 0.57% of the US population.
+
+
+12. Cox Cable has Fiber coverage in 16 states, available to an estimated homes, 0.55% of the US population.
+
+
+13. BendBroadband has Fiber coverage in 28 states, available to an estimated homes, 0.43% of the US population.
+
+
+14. Claro Internet has Fiber coverage in 1 state, available to an estimated homes, 0.34% of the US population.
+
+
+
+ Cable internet connects to more homes than fiber. Even though download and upload speeds aren't as fast as fiber, cable can still reach speeds of around 1 Gbps. Cable internet speeds are much faster than DSL, have lower latency, and have higher data allowances included in plans. The largest cable companies in terms of coverage in the United States are:  
+
+
+1. Xfinity has Cable coverage in 41 states, available to an estimated homes, 37.79% of the US population.
+
+
+2. Spectrum has Cable coverage in 42 states, available to an estimated homes, 34.14% of the US population.
+
+
+3. Cox Cable has Cable coverage in 19 states, available to an estimated homes, 7.19% of the US population.
+
+
+4. Optimum has Cable coverage in 21 states, available to an estimated homes, 6.36% of the US population.
+
+
+5. Mediacom has Cable coverage in 22 states, available to an estimated homes, 2.31% of the US population.
+
+
+6. Cable ONE has Cable coverage in 23 states, available to an estimated homes, 1.69% of the US population.
+
+
+7. RCN has Cable coverage in 9 states, available to an estimated homes, 2.91% of the US population.
+
+
+8. WOW! has Cable coverage in 6 states, available to an estimated homes, 1.44% of the US population.
+
+
+9. Breezeline has Cable coverage in 12 states, available to an estimated homes, 1.15% of the US population.
+
+
+10. Liberty Cablevision has Cable coverage in 1 state, available to an estimated homes, 0.63% of the US population.
+
+
+11. Wave Broadband has Cable coverage in 3 states, available to an estimated homes, 1.55% of the US population.
+
+
+12. Vyve Broadband has Cable coverage in 17 states, available to an estimated homes, 0.38% of the US population.
+
+
+
+ DSL has been around since the late 1980s when researchers found that copper phone lines could transmit both broadband signals and voice. DSL speeds can now reach up to 100 Mbps, and HDTV, internet, and voice connections can share the same lines. Since DSL can run on existing phone lines, it’s the most commonly available type of internet connection. The most available DSL providers in the United States include:  
+
+
+1. AT&T has DSL coverage in 21 states, available to an estimated homes, 37.16% of the US population.
+
+
+2. CenturyLink has DSL coverage in 20 states, available to an estimated homes, 10.79% of the US population.
+
+
+3. Frontier has DSL coverage in 25 states, available to an estimated homes, 9.90% of the US population.
+
+
+4. Windstream has DSL coverage in 18 states, available to an estimated homes, 2.78% of the US population.
+
+
+5. Verizon has DSL coverage in 13 states, available to an estimated homes, 13.95% of the US population.
+
+
+6. Brightspeed has DSL coverage in state, available to an estimated homes, % of the US population.
+
+
+7. Claro Internet has DSL coverage in 1 state, available to an estimated homes, 1.00% of the US population.
+
+
+8. Ziply has DSL coverage in 4 states, available to an estimated homes, 1.04% of the US population.
+
+
+
+ 
+Each internet connection type comes with its advantages and drawbacks. Where fiber excels in speed, it lacks in widespread availability. DSL is convenient and available, but inefficient for demanding users. Cable is versatile and fast, but can get pricey quickly. Here are some details to help you differentiate between the connection types:  The internet requirements for streaming content will depend on what type of resolution you use. We recommend the following minimum download speeds for streaming on one device at a time. Depending on the type of connection available to you, you may have data caps restricting how much you can stream. Here are the download speed requirements for streaming services.
+ The amount of data you need depends on your internet usage. Simple browsing and email take minimal data while streaming content uses the most data. Here’s a breakdown of some of the most common internet tasks and the amount of data they require. Based on the data we have collected, the monthly cost of internet service generally ranges from $40 to $90. It costs about $46 per month for 25 Mbps downloads and 3 Mbps uploads, about $65 for 500 Mbps downloads and 30 Mbps uploads, and roughly $70 for 1 Gbps downloads and 1 Gbps Mbps uploads. For broadband (speeds of at least 25 Mbps), the cost per month can range from $0.10 to $2.75 per megabit per second, depending on the connection type.
+ Mbps is the abbreviation for megabits per second and is the same as Mbits/sec. Megabits (Mb) are what internet service providers use for measuring speeds. Megabytes (MB) are used for measuring file sizes and data usage. MBps or MB/ps is megabytes per second (note the uppercase MB). To convert bits to bytes, divide the bits by 8. To convert bytes to bits, multiply the bytes by 8. Furthermore, gigabit internet achieves speeds of 1 Gbps or 1,000 Mbps. Below are those internet speed and size conversions: Choosing the right provider for your needs depends on your normal internet usage and what is available in your area. Your home's location plays a huge role in choosing the right provider since most internet providers differ in availability. While wireless and satellite internet providers have the most coverage, they come with data caps on usage and limits on streaming.
+ We recommend starting with the most available providers in your area and comparing their speed and price. You may have specific speed requirements, and one provider will stand out to you, or if you are on a fixed income, you may want to choose the cheaper option. Here are some steps to take when choosing your internet provider: Your home may have already been connected to one or more ISPs by a previous owner or tenant. To find your existing ISP, look for equipment with recognizable logos or company names inside your home in closets, laundry rooms, exterior walls of your home near electrical panels, and the front yards of your neighborhood on telecommunication boxes. The telecommunication and broadband equipment can vary in design. Look for equipment similar to these examples: This smart panel is located in an interior space such as a laundry or utility room. You’ll find coaxial (cable) and telephone wires inside, but company names in these locations are rare. These service panels tend to exist in the home's exterior adjacent to the main electrical panel. Exterior panels typically feature the ISP name on the outside.  These boxes are typically located in neighborhoods with underground wiring. Stickers clearly show which provider uses this box for service. 
+Search For Internet Providers by Zip Code
+
+Search by Zip Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+The "Most Accurate" List of Internet Providers
+Click a Logo to Learn More
+Largest Internet Providers:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Most Accurate" according to Nerd Wallet
+
+
+
+ 
+"Most Accurate" according to Nerd Wallet
+ 
+Last Updated: Thu, 22 Jun 2023
+by 
+Andrew Cole 
+ InMyArea.com Company Internet Providers by City Internet Providers © 2024 InMyArea.com - All
+Rights Reserved. A Division of Centerfield
+Media Holdings, LLC Disclaimer: InMyArea.com is intended for consumer comparison research and falls
+under Fair Use of the Digital Millennium Copyright Act (DMCA). We are not a provider of home
+services, insurance, or financial services.
+We provide this data without representations or warranties of any kind, either expressed or
+implied. We assume no responsibility for errors or omissions and are not responsible for the
+provider's actions or charges.
+Actual download and upload Internet speeds may vary and are not guaranteed. Offers may be
+available to new residential customers only. A credit check or deposit may be required. Services
+subject to availability and specific features may change.
+After the promotional period, service price will revert to the regular retail rate.
+Contact your chosen provider for full details including limitations, fees, and promo pricing.
+Prices, terms, and conditions of plans are updated regularly and may change without notice;
+please call to confirm current data.
+Equipment, installation, taxes and other fees not included. Use our contact form to alert us to
+changes in plans and pricing. Advertising Disclosure: Our goal is to help consumers make better buying decisions.
+We may have advertising relationships with some of the services on this page which allows us to
+continue building InMyArea.com. Data provided by NTIA, U.S. Department of Commerce, U.S. Department of Energy, U.S.
+Census Bureau, FBI, FCC, III. All other marks and names mentioned herein may be the trademark of
+their respective owner.

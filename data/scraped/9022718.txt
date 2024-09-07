@@ -1,0 +1,96 @@
+The inflation crisis is over,
+and you can thank the poorest among us for delivering what (so far at least) is
+a soft landing. That isn’t the mainstream view yet, but eventually I think it
+will be. The latest consumer price index report
+released Wednesday showed that inflation fell to 5 percent in March 2023
+compared to March 2022. That’s the smallest increase in nearly two years.
+Inflation has been falling steadily since June, and “core” inflation (i.e.,
+inflation minus volatile food and energy prices) has mostly fallen too. So has
+the Personal Consumption Expenditures, or PCE, index, the Fed’s favorite inflation metric. In February it
+was 5 percent, down 0.3 percentage points from the January figure; we’ll get the March
+number on April 28. When a trend sustains itself
+over a period of 10 months, I’m inclined to judge it significant. When it’s a
+bad trend, everybody feels comfortable saying we’re in a crisis. When it’s a
+good trend, nobody wants to acknowledge it. Why is this so? Partly
+because economic news has a natural bias toward the negative. Economic contraction
+is bad for obvious reasons, but economic growth is bad too, because it stokes
+fears of inflation, which in turn stoke fears of higher interest rates to
+combat inflation. Economic forecasters are a bit like my late grandmother, who
+possessed many fine qualities but never beheld a half-full cup in her life.
+When the Berlin Wall fell, she told me, “Sooner or later, somebody’s going to
+get knocked off.” A more charitable explanation
+is that at any moment there are about a gazillion things that can go wrong in
+the economy, and it’s the experts’ job to keep track of what these are. Thus while
+the trend in “core” inflation is favorable, the trend in “supercore” inflation
+has been rising since January, according to
+Harvard’s Jason Furman, after falling sharply in the fall. Supercore inflation
+is inflation minus food, energy, used cars (which, like food and energy, is a
+volatile indicator), and shelter (removed because rent and home prices are
+lagging indicators). I’ve sometimes wondered whether there ought to be an
+indicator called “existential” inflation, which is inflation minus price
+changes in all goods and services. Existential inflation is unchanged since May
+2020, and I’m sure there’s some expert somewhere willing to call that cause for
+concern. We’ve not yet reached the
+Fed’s target inflation rate of 2 percent, which at any rate is probably too low. As a consequence, even the end of the inflation crisis won’t bring
+about an end to the Fed increasing interest rates. But it’s already brought an
+end to the Fed accelerating the pace of its interest rate hikes, which is also
+a hopeful sign.  What does this have to do
+with low-income people? Well, it was low-income people who took it on the chin during
+the Covid recession (February–April 2020). Between January 2020 and March 2021, employment fell 13.1
+percent for people earning more than $60,000, 23.3 percent for people earning
+$27,000 to $60,000, and 37.5 percent for people earning less than $27,000. Eleven
+months later employment was fully recovered for the first group and almost
+fully recovered for the second but still down by nearly a third for the third.
+This last group consisted disproportionately of fast-food, hotel, and
+health care employees working at a time when people were still reluctant to travel
+or eat out and all nonemergency medical procedures were being canceled. Because it suffered the most,
+this group benefited the most from the various emergency spending programs
+enacted at the start of the pandemic: rental assistance, an expanded child tax credit,
+expanded Medicaid eligibility, enhanced unemployment benefits, expanded food
+stamp benefits, and, of course, those stimulus checks, which alone dropped the
+supplemental poverty rate (which, unlike the official poverty rate, includes
+government benefits) from 11.8 percent to 9.1 percent in 2020. It’s axiomatic, according to
+conservative doctrine, that when the government gives low-income people money,
+they’ll stop working. But that didn’t happen. When the restaurants and hotels
+opened back up and nonemergency medical treatment resumed, low-income people
+went back to work.  But to lure them back
+employers had to increase wages, even after Covid benefits had expired. Why was
+this so? Writing in The American Prospect in January,
+Josh Bivens of the nonprofit Economic Policy Institute suggested that a major
+driver was something he called “severed monopsony.” Monopsony is the tendency
+of monopoly (in practice, oligopolies) to drive down prices by reducing
+competition for workers. Severed monopsony is a temporary circumstance
+in which workers suddenly have time they don’t usually enjoy to cast their net
+wider for employment opportunities, thereby enhancing their leverage. By this
+analysis, which I find persuasive, the worker shortage so decried by employers,
+which is mostly over, should be blamed not on socialism (enhanced government
+benefits) but on capitalism (enhanced market power for workers). As a result of their enhanced
+leverage, low-wage workers (defined as the bottom 10 percent) saw the fastest
+wage growth during the Covid recovery of any group all the way up to the ninetieth percentile. Real wages for these workers grew 9 percent on average between 2019
+and 2022, according to
+EPI, more than twice the growth for middle-class workers (i.e., the twentieth to eightieth percentiles), with increases tapering off as you rose from
+lower to higher percentiles. That tapering reversed itself at the ninetieth percentile, where the wage increase on average was 4.9 percent. But that was
+still well below the 9 percent increase at the bottom. It was almost as if we’d
+entered an alternative universe in which income inequality had been reversed. I
+say “almost” because income growth was still fastest for the fabled one percent
+(at 16 percent) and 0.1 percent (29.2 percent). The rich got richer, but the poor
+didn’t get poorer. Another economic axiom is
+that rising wages at lower incomes is more inflationary than rising wages at
+higher incomes, because the rich spend a smaller proportion of their income on
+goods and services and anyway there are fewer of them. So, yes, the
+low-wage-driven recovery from the Covid recession was inflationary. But it
+wasn’t very inflationary, because the wage growth was concentrated at
+the very bottom, and even when poor folks have more to spend, it still isn’t a hell
+of a lot. The workers’ paradise of
+severed monopsony isn’t going to last. Like a lot of economic phenomena during
+the past three years, it was the freak result of the Covid epidemic. Hourly
+wage growth is already falling
+in the leisure and hospitality sector, where a lot of these low-wage jobs
+reside, and union membership continues to fall. What the
+economic recovery has taught us is that even a rapid rise in income for
+America’s poorest citizens is pretty much all upside for the broader economy. That’s
+a good argument for raising the hourly minimum wage at the national level (it’s
+still a paltry $7.25) and making it easier for all workers, but especially
+low-wage workers, to join unions by passing the Protecting the Right to Organize
+Act. It’s also an argument for the Fed not to get too overzealous next month
+when it decides what the next interest-rate hike should be.  Timothy Noah is a New Republic staff writer and author of The Great Divergence: America’s Growing Inequality Crisis and What We Can Do About It.

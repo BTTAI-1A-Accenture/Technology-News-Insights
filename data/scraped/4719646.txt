@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='hightimes.com', port=443): Max retries exceeded with url: /culture/people/higher-profile-anthony-winston-iii-engineer/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da93e87430>, 'Connection to hightimes.com timed out. (connect timeout=5)'))

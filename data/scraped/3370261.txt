@@ -1,0 +1,20 @@
+Synced AI Technology & Industry Review Synced 
+56 Temperance St, #700
+Toronto, ON M5H 3V5 In the new paper DensePose From WiFi, a Carnegie Mellon University research team proposes  WiFi-based DensePose, a neural network architecture capable of estimating human dense pose using only WiFi signals in scenarios with occlusion and multiple people. The recent and rapid development of powerful machine learning models for computer vision has boosted 2D and 3D human pose estimation performance from RGB cameras, LiDAR, and radar inputs. These approaches however can require expensive and power-hungry hardware and have raised privacy concerns regarding their deployment in non-public areas. A Carnegie Mellon University research team addresses these issues in the new paper DensePose From WiFi, proposing WiFi-based DensePose, a neural network architecture that uses only WiFi signals for human dense pose estimation in scenarios with occlusion and multiple people. The researchers believe their work could have practical applications in monitoring the well-being of elderly people or identifying suspicious behaviours in the home. DensePose was introduced in 2018 and aims to map human pixels in an RGB image to the 3D surface of the human body. Synced has previously covered additional research on the use of WiFi signals for human pose and action recognition through walls and the associated risks of such technologies. This new paper focuses on a particular task: given three WiFi transmitters and three aligned receivers, how can the model most effectively detect and recover dense human pose correspondence in cluttered scenarios with multiple people? The team’s proposed WiFi-based DensePose generates UV coordinates of the human body surface using raw CSI signals, which are cleaned by amplitude and phase sanitization; a two-branch encoder-decoder network that translates the sanitized CSI samples to 2D feature maps that resemble images; and a modified DensePose-RCNN architecture that uses 2D features from the previous step to estimate a UV map representing the dense correspondence between 2D and 3D humans. The team also employed transfer learning from an image-based DensePose network to the WiFi-based network to minimize discrepancies between the multi-level feature maps created from images and those derived from WiFi signal inputs. In their empirical study, the team evaluated the proposed WIFI-based DensePose’s human detection ability and dense pose estimation accuracy. The results show that the model can estimate the dense pose of multiple subjects using only WIFI inputs with performance comparable to image-based approaches. The proposed WIFI-based DensePose takes a step toward a low-cost, broadly accessible and privacy-preserving model for human sensing. Although their model remains restricted by limited public training data, the team plans to collect multi-layout data and extend their work to 3D human body shape prediction via WiFi signals. The paper DensePose From WiFi is on arXiv. Author: Hecate He | Editor: Michael Sarazen We know you don’t want to miss any news or research breakthroughs. Subscribe to our popular newsletter Synced Global AI Weekly to get weekly AI updates. Machine Intelligence | Technology & Industry | Information & Analysis Pingback: Les ondes du futur : Comment la détection par signaux Wi-Fi va transformer notre quotidien - Clement Donzel  Why couldn’t I have been born in a time that isn’t reminiscent of some house of hazards dystopian Sci Fi movie? Your email address will not be published. Required fields are marked * Comment *  Name  Email  Website   Notify me of follow-up comments by email.  Notify me of new posts by email.  
+
+  Δ 
+
+							Email Address						
+
+ 
+
+
+
+
+ 
+							Subscribe						
+ Synced 
+56 Temperance St, #700
+Toronto, ON M5H 3V5 
+One Broadway, 14th Floor, Cambridge, MA 02142 
+75 E Santa Clara St, 6th Floor, San Jose, CA 95113 Contact Us @ global.general@jiqizhixin.com Visit Us @ Synced China Contribute to Synced Review  

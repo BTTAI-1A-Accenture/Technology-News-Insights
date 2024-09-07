@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://journalstar.com/news/local/charts-that-track-covid-19-variants-vaccination-rates-and-hospitalizations-in-nebraska/article_685e0d15-f1c2-54c8-9b3c-f9c03bd3784c.html

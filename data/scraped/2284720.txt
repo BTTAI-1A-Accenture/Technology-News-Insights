@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thestar.com/business/investors-drawn-to-oil-and-gas-energy-transition-tsx-top-30-list-shows/article_5d4460a5-be2c-52bc-9672-3058c5caef09.html

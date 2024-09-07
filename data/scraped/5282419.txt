@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://cointelegraph.com/news/audits-and-rug-pulled-projects-a-650b-token-burn-and-major-defi-protocol-quits-uk-finance-redefined

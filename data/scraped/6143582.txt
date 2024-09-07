@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.santafenewmexican.com/news/local_news/santa-fe-hospitals-say-they-do-comply-with-federal-pricing-rule/article_0cb2ba7a-3073-11ee-82b6-479d367e3b91.html

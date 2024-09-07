@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.galvnews.com/news_ap/business/indian-schools-are-saving-up-to-20-on-computer-purchases-using-aster-software/article_54ab2c2c-07be-5098-8afe-f4bf1b07fde7.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/swift-and-wise-join-forces-to-expand-cross-border-payment-options-globally/article_eaed3fda-130a-5817-9578-2f39f9ff1a60.html

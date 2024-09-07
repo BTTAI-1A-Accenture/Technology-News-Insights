@@ -1,0 +1,43 @@
+‘We are the only platform that (offers) a single agent, single console and single data backend,’ CrowdStrike’s Raj Rajamani said. 
+
+
+
+
+
+
+ A Slack-like collaborative environment for security analysts. Expansion of CrowdStrike artificial intelligence and generative AI capabilities. And a new offering aimed at non-security IT teams. These are some of the biggest product announcements to come out of CrowdStrike Fal.Con 2023, which runs through Thursday in Las Vegas. Even as a company that’s now generating in the vicinity of $3 billion in annual recurring revenue, the Austin, Texas-based cybersecurity giant is accelerating the pace of its product innovation, according to top CrowdStrike executives. In fact, Fal.Con 2023 is seeing the largest number of product releases of any Fal.Con yet, CrowdStrike Co-Founder and CEO George Kurtz said Monday during the company’s Partner Summit at the conference. [Related: CrowdStrike CEO George Kurtz: Microsoft’s ‘Failures’ Put Everyone At Risk] The announcements also demonstrate how CrowdStrike continues to provide partners and customers with a single agent, a single console and a single data backend for its lightweight security service, according to Raj Rajamani (pictured), chief product officer for data, identity, cloud and endpoint at CrowdStrike, during a briefing with media Monday. Other companies can only claim to have a platform that unites as many security services as CrowdStrike’s, Rajamani said. “We are the only platform that (offers) a single agent, single console and single data backend,” he said. “Our greatest strength is the fact that you have a single agent that can be deployed on-prem or in the cloud. A single console for managing all the configurations and settings as well as alert detections. And a single data lake, which means that if we have information from a few modules – first-party or even third-party products – we are able to see a holistic picture of the attack surface as well as what your adversaries are up to. No other platform offers it.” Meanwhile, earlier Tuesday, CrowdStrike announced an agreement to acquire Bionic, a startup offering technology in the emerging category of application security posture management. CrowdStrike said it will incorporate the startup’s capabilities into its fast-growing cloud-native application protection platform (CNAPP). What follows are the key details on five cool new CrowdStrike products unveiled by at Fal.Con 2023. Kyle Alspach contributed to this report. 
+
+
+
+
+
+
+ CrowdStrike Raptor Starting at the end of September, CrowdStrike will start releasing in waves Raptor, described as the next iteration of its Falcon platform. Raptor will bring together AI and extended detection and response (XDR) capabilities to improve an organization’s security, including leveraging Charlotte AI Investigator for automated incident creation and analysis. Charlotte will leverage customer security data lake information – which is usually more than 60 percent Falcon-generated data, Rajamani said – to stitch together related events and signals The offering includes a Collaborative Incident Command Center, which Rajamani described as a collaborative environment akin to Google Docs or Slack for security analysts in any location to work incidents in real time with a unified source of truth. The offering includes unified alerts and incident workbench capabilities to improve investigations and speed up remediation, according to CrowdStrike. And Raptor provides petabyte-scale fast data collection, search and storage for GenAI-powered security. 
+
+
+
+
+
+
+ Falcon Foundry A beta is now open for CrowdStrike’s Falcon Foundry no-code application development platform, with general availability expected in the fourth quarter. Foundry is meant for partners and customers, even those with no coding experience, to create and share custom apps that leverage Falcon’s data, orchestration, automation, response and AI capabilities, according to CrowdStrike. Rajamani used the example of a threat hunter telling the CrowdStrike console to proactively look for traces of a particular threat actor every two hours without writing code. 
+
+
+
+
+
+
+ Falcon Data Protection Like Falcon Foundry, Falcon Data Protection is now in beta with general availability expected in the fourth quarter, according to CrowdStrike. Data Protection is built on top of Falcon, saving users from deploying more agents and custom rule editing, Rajamani (pictured) said. This offering also brings in location and label data to follow content instead of files across the enterprise, protecting data as it’s copied and shared. He used the example of a spreadsheet containing sensitive information but still maintaining the sensitivity classification, preventing unauthorized egress from the organization. 
+
+
+
+
+
+
+ Falcon For IT Early next year, CrowdStrike will launch a Falcon for IT offering aimed at non-security IT teams that manage large fleets of endpoints, Rajamani said. Falcon for IT promises visibility into cloud and asset endpoints for pushing out patches and information tracing, Rajamani said. The offering will leverage CrowdStrike’s lightweight platform and ability to run scripts at scale in parallel on tens of thousands of systems, he said. 
+
+
+
+
+
+
+ Falcon Exposure Management CrowdStrike’s Falcon Exposure Management offering, which is already available, will add support for Qualys vulnerability data “soon,” Rajamani said. Exposure Management, which promises complete asset and external attack surface visibility, already supports Tenable inputs, he said. The addition of Qualys support will further improve the offering’s risk scoring capability, he said.

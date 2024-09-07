@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » Best of 2022: 25+ Vulnerable websites to practice your ethical hacking skills As we close out 2022, we at Security Boulevard wanted to highlight the most popular articles of the year. Following is the latest in our series of the Best of 2022. In recent times as the field of information is on the rise a new term ‘Ethical Hacking’ has emerged and opened many different avenues for IT and cyber security professionals. Now more and more people are getting familiar with the field of information security and are getting interested in learning about hacking skills. For budding hackers, these are often the best way to hit the ground running in case of career choices towards penetration testing or also known as vulnerability assessment and pen testing (VAPT). Ethical hacking is the process of identifying vulnerabilities in computer systems and networks and using that information to help improve security. Ethical hackers use their skills to find and fix security problems before they can be exploited by malicious actors. Hacking in the IT world means gaining unauthorised access to a computer system and making any software or hardware technology perform tasks that are not the intended purpose. Ethical hacking is the same concept of gaining unauthorised access to systems but with the explicit permission of the system owner. An ethical hacker finds security vulnerabilities and flaws in a company’s IT infrastructure and reports them back to the stakeholders or relevant personnel for remediation. This proactive practice helps organisations to identify vulnerabilities in their environment and patch them before a malicious attacker finds the opportunity to exploit them. There are many hacking skills and techniques and methodologies that are followed. Generally when hacking any system, it comes down to following 5 phases of hacking and then expanding upon them. The phases of hacking are: In this phase, the ethical hacker tries to gather all the possible information about the target assets. This includes finding out what type of technologies are being used, what type of network architecture is implemented, IP addresses, DNS records, MX records, subdomains etc. are all noted down in the information-gathering phase. Next, the ethical hacker should then perform scans on the information gathered and locate vulnerabilities. Scanning includes doing port scans for available services, website scanning, server scanning etc. This phase yields any potential vulnerabilities that can be exploited. Now that the ethical hacker has a list of possible vulnerabilities, the actual exploitation or hacking happens in this phase. The ethical hacker launches a full-fledged attack on the assets using the information gained in the previous two phases. In the case of ethical hacking, this step is optional. If the ethical hacker has enough information to display the impact of the vulnerability then he does not need to create persistent access in the target company. However, if the ethical hacker needs to come back and continue his tasks on the compromised system whenever needed then he can deploy software programs to create backdoors and continue the security assessment. Clearing tracks basically means that in this step the hacker removes all traces of this attack from the organisation’s systems such as removing any logs, deleting any files he created, uninstalling any applications etc. There are many types of technologies out in the world right now, from basic web applications and web servers to Internet of things devices like smart TVs, Cars etc. Each one of these technologies can be hacked under ethical hacking. A few of the areas in which an ethical hacker can build their hacking skills are: Application hacking mainly focuses on vulnerable web apps, mobile apps and APIs. An ethical hacker tried to find vulnerabilities with these technologies. Vulnerabilities like SQL injection, Cross-site request forgery (CSRF), Cross-site Scripting XSS etc. are common bugs to be found. OWASP is a very good resource that launches the top 10 vulnerabilities that can be found in each domain. Web servers host the application we see every day, these servers are a prime target for malicious hackers and need to be tested to ensure there is no existing vulnerability. In professional life, these are often validated via build and configuration reviews or hacking is simulated via web application security testing. Wireless network hacking skills consists of testing wireless access points and networks for security weaknesses. See our wireless penetration testing to read more on how businesses can benefit from validation of wireless network security controls. Ethical hackers can try to compromise the entire network of a company and gain unauthorised access to the company’s network. Network or infrastructure hacking is a wide area and comprises of various sub-domains such as internal infrastructure covering active directory security checks, external infrastructure, remote connectivity, individual security devices such as routers, SSLs VPNs, firewalls and WLAN controllers. If the network configurations are secure then the systems on the network should also be secure. System hacking skills consists of an ethical hacker targeting all systems like desktops, servers, laptops, mobile devices etc. inside an organisation to gain access. Social engineering techniques are used to hack humans. What this means is that hackers exploit the trust of humans and trick them into believing and handing over sensitive information and credentials. Phishing is an example of social engineering. IoT hacking is the next big thing in IT, this includes hacking devices that are connected to the internet that are not primarily computer systems. Even though looking at the definition of ethical hacking one could see that gaining unauthorised access may be wrong, ethical hacking is a completely legal job. There is some overlap in the methodology of a black hat hacker and an ethical hacker but there is a fundamental difference that all activities carried out during ethical hacking are approved and trusted by the organisation. Not to mention that criminal hackers work with the intent to harm the target organisation whereas the ethical hacker works closely with the team to protect the organisation. Ethical hacking is a good career choice because it offers a lot of job security and pays decent. The demand for ethical hackers is increasing as companies become more aware of the importance of cybersecurity. There are many different types of ethical hacking jobs, so you can find a position that suits your skills and interests. If you’re interested in a career in ethical hacking, there are a few things you should know. First, you need to have strong technical skills. You’ll need to be able to find and exploit vulnerabilities in systems. You’ll also need to be able to write code and reverse engineer software. Second, you need to be good at problem-solving. Ethical hackers need to be able to think creatively to solve challenges. Finally, you need to be detail-oriented. What is a vulnerable site? As we covered in the section above, it is important for an ethical hacker to acquire permission from the owner before performing any tests or launching any attack, otherwise, the activity will be considered illegal. For this reason, it can become difficult for beginners to practice and build their hacking skills since they can not just pick any target at random and launch attacks. This is where intentionally vulnerable applications come into play. Organisations like OWASP, Hack the Box, Over the Wire etc. create vulnerable web applications for beginners to practice their hacking skills legally within a safe environment. There are many online platforms available that give users access to vulnerable websites for practising their hacking skills. Some of them are listed below: Hack The Box (HTB) has taken the cyber security community by storm and is one of the most widely used platforms by students, new hackers and security professionals. HTB provides vulnerable machines named “boxes” with multiple severity levels. The hacker has to exploit the machines and gain root access or admin access in order to retrieve flags and complete the machine. The machines are hosted by HTB and the users have to access them by connecting to the HTB network via VPN. These machines along with individual challenges provide a real-world scenario for performing penetration tests. HTB also has an active community, where members help and exchange ideas without giving any spoilers. The concept of VulnHub is somewhat similar to that of HTB. Vulnhub provides new hackers with 100s of vulnerable virtual machines with practical and hands-on experience for learning to hack. Unlike HTB where users are required to connect to the HTB network via VPN, Vulnhub provides machines that can be downloaded as virtual machine files and the users can deploy them in their local systems to carry out the hacking activities. EchoCTF provides a Capture with the Flag environment for the users where they can practice their hacking skills in a controlled environment. The attack simulations are based on real-life scenarios, systems and services. By solving the CTFs users gain points and can showcase their progress. TryHackMe is another great resource for up and coming hackers. They provide a learning platform in the form of “Rooms”. Each room has certain vulnerabilities for users to exploit. Another unique feature of TryHackMe is that they provide learning scenarios for both the offensive and defensive sides of security. So users can learn to attack and defend systems simultaneously. Other than this TryHackMe provides beginner to advanced learning paths, in which they have clubbed the relevant rooms into a short training course. TryHackMe also has a competition where you can compete with other players to see who can hack the machine the fastest and then try to stop other hackers from penetrating in, this is called the King of the Hill. OverTheWire offers wargames and war zones of different skill levels to its users. Apart from getting directly into hacking skills, OverTheWire offers beginner level training such as in their Bandit wargame about how basic Linux commands work. In the wargames, users will cover the basic concepts and skills first and then can practice different scenarios and stories to improve their hacking skills. Other than this OverTheWire also has competitions called warzones, where players can compete with other hackers in compromising a machine. Security Shepherd is a vulnerable project from OWASP which targets web app vulnerabilities and mobile app vulnerabilities. The project can be downloaded from GitHub and can be set up locally on your machine. The hackers can then solve multiple challenges and improve their skills. Hints are also available for users if they get stuck. The challenges focus on learning the OWASP top 10 along with other common vulnerabilities. Port Swigger is the developer of the most widely used application security tool i.e. Burp Suite. Recently they have launched their Web Security Academy which contains detailed descriptions for many web application vulnerabilities along with online labs that help you practice the learnt flaws. They also provide solutions for the labs so users can get help if they are stuck in the lab. Another great resource for practising application hacking is PentesterLab, here you can find online labs focusing on various vulnerabilities along with getting started content as well. There is a free and pro version so users can decide which subscription to choose. Along with the labs, they provide reading materials and video tutorials to help beginners. PentesterLab offers its training in bundled labs called badges, for e.g. the Unix badge covers in-depth how to use Unix commands while hacking, the Android badge covers various android vulnerabilities and so on. Unlike other traditional vulnerable websites that either offer individual labs or challenges, the Game of Hacks provides its users with fun interactive games to hack the website. It shows users bits of code to analyse and then find vulnerabilities, doing so a person can test their application hacking knowledge. There are three levels, beginner, intermediate and advanced and players can choose the difficulty level accounting to their current skill set. Players can opt for solving the games solo or challenge another player and have fun while learning at the same time. CTFlearn is offered as “the most beginner-friendly way to get into hacking”. As the name suggests CTFlearn hosts challenges and competitions in the form of Capture the Flag, where a user has to hack the system in a certain way and retrieve a flag value to show they have completed the task CTFlearn provides multiple labs on various cyber security topics including; web application, reverse engineering, forensics, programming, binary exploitation, cryptographic flaws etc. DVIA is part of the Damn Vulnerable series that focuses on iOS mobile application penetration testing. The project is freely available on GitHub and can be used by new hackers, professionals or mobile developers to practice mobile hacking. DVIA compromises common iOS vulnerabilities and uses the OWASP top 10 as a baseline. The application is written in Swift and all the vulnerabilities can be tested up to iOS 11 as of now, additionally, XCode needs to be installed. Some of the vulnerabilities that you can practice are: From the Damn Vulnerable websites series, we have another vulnerable environment designed for web application testing called DVWA. This is MySQL and PHP based application that focuses on web application security flaws. Users can switch the difficulty from low, medium, high and impossible for all the challenges. When a user changes the level, the underlying code also changes and the users can see why the vulnerability existed in the first place and how their payloads exploited the flaws. This tool needs to be downloaded and locally set up in a virtual machine before you can use it. Not to be confused with DVIA, the DIVA application is created for practising android hacking skills. As with the other Damn Vulnerable websites, DIVA focuses on helping developers, penetration testers and novice hackers about android security flaws and their exploitation. Users can download the web applications from GitHub and set them up by compiling the application in their local network and start hacking from there. Root me is a Multilanguage training platform with over 300 challenges that are fairly updated regularly, along with 50 virtual environments for hackers to practice on. With a community of over 200,000 members Root me covers different areas in cyber security like digital investigation, automation, breaking encryption, cracking, network challenges, SQL injection etc. WebGoat is another project from OWASP which is widely used and endorsed by many security professionals. It contains lessons on common server-side application flaws along with hints to help beginners in the process. Vulnerabilities like cache poisoning, SQL injection, Trojan horse attacks, spyware, Unicode encoding etc. are covered in the application. WebGoat needs to be downloaded and set up locally by deploying it on a virtual machine. These vulnerable websites are created by Simon Bennetts and are full of OWASP Top 10 vulnerabilities. The store consists of various challenges and can be used to practice penetration testing, hacking, code rewriting and can help develop the methodology on how to look for flaws. The BodgeIt store needs to be set up locally on a virtual machine. Vicnum developed by OWASP is a vulnerable application based on a gaming format. Users can have fun while solving the challenges and learning about web applications and API flaws. The application can be downloaded from GitHub and set up locally. Other vulnerable websites and web apps from OWASP include OWASP bricks, OWASP Mutillidae, OWASP Hackademic Challenges (PHP), OWASP Vulnerable Web App Project (Java), OWASP .NET Goat (C#), OWASP ZAP WAVE – Web Application Vulnerability Examples (Java), OWASP BWA etc. Hellbound Hackers is a comprehensive cyber security platform as it consists of hands-on challenges along with forums, articles, tutorials and has one of the most engaging communities. The unique thing about Hellbound hackers is that users can try a timed challenge to find a vulnerability then figure out how to patch it as well. For developers, this helps them to understand how a malicious hacker would break-in.  The challenges consist of application hacking, JavaScript hacking, rooting challenges etc. bWAPP or “Buggy Web Application” is a free and open-source vulnerable app that hackers can set up in their local environments. It is one of the most practised web applications for beginners. The application offers more than 100 web application vulnerabilities to practice and improve your skills one and most of the bugs are based on the OWASP top 10 Cross-site scripting (XSS), cross-site tracing (XST) and cross-site request forgery (CSRF), Man-in-the-middle attacks (MITM), Server-side request forgery (SSRF), Injection attacks including SQL, HTML, iFrame, SSI, OS Command, PHP, XML, XPath, LDAP, Host Header and SMTP injections are few of the areas covered. Defend the Web is one of the online vulnerable websites that offers over 60 hacking challenges and articles to help beginners start their hacking careers. There are various categories users can choose from, these also include challenges that simulate real-world cyber attacks. Try2Hack is one of the oldest vulnerable websites on the internet, with numerous challenges for beginners. The website offers hacking challenges in a game-based approach with multiple difficulty levels. Walkthroughs for the challenges can also be found on GitHub. OWASP Juice shop simulates an e-commerce website containing multiple security flaws. Users can practice their hacking skills by exploiting vulnerabilities in a close to real-world website. Because Juice Shop does not show challenges sequentially in a heading wise manner, but rather simulates them in an e-commerce website users also get a chance to practice their bug hunting skills. HTS is a great resource to practice hacking vulnerable websites, it was founded by Jeremy Hammond and is maintained by the community. The website offers many challenges replicating real-world scenarios, each challenge has its own forum to discuss and engage with the community if any help is needed. Some of the challenges include realistic missions, application missions, forensics missions, programming missions. Apart from this HTS also has their own CTF. This web hacking game is created by albinowax who is one of the great security researchers of this time. There is an online version (with two levels) and a downloadable version of this game with more advanced levels. The application focuses on realistic and a bit difficult vulnerabilities include XSS, CSRF, SQLi etc. Badstore is a dedicated virtual machine that can be downloaded and deployed on your local environment. It is a beginner-friendly application that teaches beginners how to exploit security flaws. Badstore replicated an online store website and focuses on easy and common hacking techniques. This vulnerable web app is designed by Google and themed on cheese. As cheese has many holes, this web app is also filled with many security holes that beginners can exploit. Gruyere focuses on beginner-friendly and basic bugs such as XSS, SRF, RCE, DoS, sensitive information disclosure etc. If someone would want to focus especially on finding XSS then this website is for you. Here users will find many variants and scenarios to practice and exploit cross-site scripting XSS vulnerabilities as well as teach you preventive controls. The McAfee HacMe is a group of sites launched by McAfee. Each site has its own set of vulnerabilities that users can exploit and increase their skills. These sites are based on real-world vulnerabilities and simulate web apps such as baking, e-commerce etc. The McAfee Sites include: The post 25+ Vulnerable websites to practice your ethical hacking skills appeared first on Cyphere | Securing Your Cyber Sphere. *** This is a Security Bloggers Network syndicated blog from Cyphere | Securing Your Cyber Sphere authored by Editor. Read the original post at: https://thecyphere.com/blog/vulnerable-websites/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

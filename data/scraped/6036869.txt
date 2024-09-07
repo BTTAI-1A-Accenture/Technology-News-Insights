@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://cointelegraph.com/news/galaxy-digital-soaring-bitcoin-price-increase-after-etf-launch

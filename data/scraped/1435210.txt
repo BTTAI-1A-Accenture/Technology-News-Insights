@@ -1,0 +1,27 @@
+
+Technology partnership supports Hasura GraphQL Data API integrations with AlloyDB for PostgreSQL-compatible databases.
+ SAN FRANCISCO--(BUSINESS WIRE)--GraphQL innovation leader Hasura today announced that it has successfully achieved Google Cloud Ready - AlloyDB designation for AlloyDB for PostgreSQL, Google Cloud’s newest fully managed PostgreSQL-compatible database service for the most demanding enterprise database workloads.
+  
+Google Cloud Ready - AlloyDB is a new designation for the solutions of Google Cloud’s technology partners that integrate with AlloyDB. This designation recognizes the partner solutions that have met a core set of functional requirements and validated them in collaboration with Google Cloud engineering teams. Hasura has closely collaborated with Google Cloud to include support for AlloyDB into its GraphQL API solutions and tune existing functionality for optimal outcomes.
+ 
+“Hasura’s platform provides helpful capabilities for developers working with data, and we’re delighted to recognize Hasura’s platform with a Google Cloud Ready - AlloyDB designation,” said Ritika Suri, Director, Partnerships at Google Cloud. “This designation indicates that customers can seamlessly and effectively integrate Hasura with AlloyDB and begin connecting their data sources using GraphQL data APIs.”
+ 
+By receiving this designation, Hasura has proven that its products have met a core set of functional and interoperability requirements when integrating with AlloyDB and refined documentation for ease of onboarding by our mutual customers. This designation enables customers to discover and have confidence that the Hasura products they use today work well with AlloyDB or save time evaluating them if not already used. Being part of the program, Hasura gets more opportunities to collaborate closely with Google Cloud’s partner engineering and AlloyDB teams to develop joint roadmaps.
+ 
+“Hasura customers are doing amazing things with Google Cloud, with which they are accelerating delivery and increasing the performance of both their internal and customer-facing applications,” said Tanmai Gopal, co-founder and CEO of Hasura. “This designation from Google Cloud clearly demonstrates the synergies that we have found in the market with Google Cloud and the value that we bring to global enterprises by working closely together.”
+ 
+To learn more about Hasura’s expertise with Google Cloud, visit. To learn more about Google Cloud Ready - AlloyDB and its benefits visit.
+ 
+About Hasura
+ 
+Hasura is helping to build the modern world of globally relevant, data-driven applications and APIs. Hasura’s range of data access solutions helps organizations accelerate product delivery by instantly connecting data and services to applications with GraphQL APIs. Hasura was open-sourced in July 2018, and is used by tens of thousands of developers as the data access layer for modern applications. Hasura has also seen adoption across Fortune 500 corporations, fast growing startups & product development agencies. We are a globally distributed team, with offices in San Francisco & Bangalore. For more information, go to: https://hasura.io or follow @HasuraHQ on Twitter.
+ 
+Wilson Craig
+Mindshare PR for Hasura
+wilson@mindsharepr.com 
+408-516-6182
+ 
+Wilson Craig
+Mindshare PR for Hasura
+wilson@mindsharepr.com 
+408-516-6182

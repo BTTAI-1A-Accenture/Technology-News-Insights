@@ -1,0 +1,2 @@
+CISA encourages users and administrators to review the following advisories and apply the necessary updates. Mozilla has released security advisories to address vulnerabilities in Thunderbird, Firefox, and Firefox ESR. A cyber threat actor could exploit some of these vulnerabilities to take control of an affected system. CISA encourages users and administrators to review the following advisories and apply the necessary updates: Read more at CISA Log in to leave a comment 
+POWERED BY MHA Visuals

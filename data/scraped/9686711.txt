@@ -1,0 +1,1 @@
+406 Client Error: Not Acceptable for url: https://www.techrepublic.com/article/how-to-use-trello-add-card-macos/

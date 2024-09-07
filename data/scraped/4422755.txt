@@ -1,0 +1,1 @@
+502 Server Error: Next Hop Connection Failed for url: https://finance.yahoo.com/video/kimberly-clark-reveals-products-boost-151310604.html

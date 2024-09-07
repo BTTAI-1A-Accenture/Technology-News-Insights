@@ -1,0 +1,31 @@
+ Published 2023-05-31 08:04 by Hilbert Hagedoorn KIOXIA is taking a step forward in Universal Flash Storage (UFS) technology by announcing the sampling of their new UFS Ver. 4.0 embedded flash memory devices. These devices offer high-performance embedded storage transfer speeds in a compact form factor, catering to various next-generation mobile applications, including cutting-edge smartphones. The improved performance of KIOXIA's UFS products enables these applications to leverage the advantages of 5G connectivity, resulting in faster downloads, reduced latency, and an enhanced user experience. The UFS Ver. 4.0 devices from KIOXIA combine their innovative BiCS FLASH 3D flash memory with a controller, packaged according to JEDEC standards. UFS 4.0 incorporates MIPI M-PHY 5.0 and UniPro 2.0, supporting theoretical interface speeds of up to 23.2 gigabits per second (Gbps) per lane or 46.4 Gbps per device. Importantly, UFS 4.0 maintains backward compatibility with UFS 3.1. Scott Beekman, Vice President of the Memory Business Unit at KIOXIA America, Inc., emphasized the company's commitment to UFS leadership, stating, "With our latest generation of UFS 4.0 devices, KIOXIA continues to push the boundaries of performance from one generation to the next." Key Features include: The introduction of KIOXIA's UFS Ver. 4.0 embedded flash memory devices signifies a significant advancement in mobile storage technology, empowering next-generation mobile devices to deliver exceptional performance and a seamless user experience. 
+ Share this content
+
+
+ Twitter
+                                
+
+
+ Facebook
+                                
+
+
+ Reddit
+                                
+
+
+ WhatsApp
+                                
+
+
+ Email
+                                
+
+
+ Print
+                                
+ 
+
+ NVIDIA Approaches $1 Trillion Valuation as Investors Embrace AI Boom 
+
+Crucial Launches T700 Gen5 SSD and Crucial Pro Series DRAM  Copyright ©1997-2024 guru3dPowered by Contentteller® CMS System

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/lunda-construction-awarded-62-million-i-494-bridge-repair-project/article_70de618f-c460-5436-a843-492b24c25228.html

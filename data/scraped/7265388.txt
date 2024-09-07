@@ -1,0 +1,108 @@
+Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter "I don't think [AI] is going to displace creative professionals. ... but I think you will see disruption between the people who figure out how to adopt it well and those who don't," CTO Ely Greenfield told THR at this week's Adobe Max conference. 
+							By 
+
+	Carolyn Giardina
+ Tech Editor 
+	As Adobe rolled out a string of new generative AI-driven tools, CEO Shantanu Narayan promised “accountability, responsibility and transparency” in his opening keynote at the company’s annual Max confab, which is taking place this week at the Los Angeles Convention Center. He went on to describe AI as a “creative co-pilot” to speed up productivity and noted that “while there is apprehension” about the tech, “I firmly believe it will never replace human ingenuity.” 
+	Following the wide release of its Firefly generative AI tech last month, Adobe used the Max event to introduce new AI-driven features for its creative software, such as Photoshop, Illustrator and Express. It also highlighted in the keynote its text-based editing tool in Premiere Pro.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Related Stories		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Movies
+			
+
+
+
+	
+		
+					AI Thriller 'Electric Child': Simon Jaquemet on Including AI's POV and Those Killer Robots Fears		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Movies
+			
+
+
+
+	
+		
+					John Cho Can't Trust His AI Device in Blumhouse's 'Afraid' Trailer		
+			
+
+
+
+
+
+
+ 
+	During the event, Adobe Digital Media CTO Ely Greenfield elaborated on the company’s promise of “accountability, responsibility and transparency” where generative AI is concerned. “It means that we put a lot of effort into identifying, and making sure that we don’t introduce, unintentional harm and bias into the content creation process,” he told The Hollywood Reporter. “Just as with a human, there’s probably no such thing as a completely unbiased model, but first and foremost, our job is to make sure that we understand where those biases are, and as much as possible, eliminate them from creeping into a workflow in a place where the user didn’t intend them. And the second thing is that we are transparent with the community about how these things are developed, about where the content is coming from and about how we intend it to be used.”
+
+ 
+	The legal landscape for AI, he admits, is “pretty fluid right now” as it’s changing and not consistent in all jurisdictions. “But we do make that part of our terms of use,” he explains of Adobe’s recent work. “You must have the rights. And then we do provide a technology for artists to be able to tag their content with a ‘do not train’ tag. … When you choose an image and you try and upload it, if we detect that tag, we’ll block and we’ll say, ‘sorry, the artist has requested this not be used for inspiration. Please go choose another image.’” That tag is one initiative of the Coalition for Content Provenance and Authenticity that aims to develop AI standards. It was launched in 2019 by companies including Adobe and Microsoft.
+
+	
+
+
+
+
+
+
+
+
+ 
+	While guard rails are in the works, there’s no denying that AI has arrived and is quickly advancing. “I think we can guide and shape the journey that the creative community’s on, about how do we adapt this in and how do we make sure that it lands in the best possible way, but I don’t think we’re going to stop it at this point,” Greenfield says. “And so how do we make creatives successful with it? That’s what we’re focused on.” 
+	Looking at the editing landscape, at this stage there are many film editors and assistant editors who are troubled by how AI might impact their jobs. Asked what he would say to them, Greenfield replies, “Honestly, it’s the same story that I give to every creative professional. … Lean in and figure out how you can take advantage of it. Because, yes, at some point in the not-too-distant future, this will be a part of every creative professional’s workflow. 
+	“I don’t think it’s going to displace creative professionals. I don’t think it’s going to destroy the industry,” he asserts, “but I think you will see disruption between the people who figure out how to adopt it well and those who don’t. …  Don’t be afraid of it, especially for the video editing community. I still think that even if that apocalyptic feature comes to pass, it’s pretty far in the future. And so I’d say lean in now and figure out how you can adopt this into your workflows.” 
+	He admits that the transition will be “a little uncomfortable” for some, “but I think there’s lots of opportunity for people to come out on the other side still doing what they love, still telling great stories, and still using computers to be able to do it effectively and efficiently.”
+
+	
+
+
+
+
+
+
+
+
+ Sign up for THR news straight to your inbox every day Secrets to the magic behind what’s seen on the big and small screen, straight from the crafts and tech maestros Subscribe for full access to The Hollywood Reporter Send us a tip using our anonymous form.

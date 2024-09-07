@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='h2o.law.harvard.edu', port=443): Max retries exceeded with url: /cases/1731 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'h2o.law.harvard.edu'. (_ssl.c:1007)")))

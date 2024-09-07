@@ -1,0 +1,792 @@
+One of the greatest boons of technology is the fact that you can transfer files easily from one device to another. WeTransfer made this process as simple as it can quite possibly get. However, if you are here looking for WeTransfer alternatives or maybe the 2GB file size limit is not working for you. Maybe you are looking for a faster, more secure alternative to transfer files. Whatever the reason, there are several others just like WeTransfer. Most importantly, all these platforms have been included in this list keeping security in mind. Now, without any further ado, let us take a look at the best free WeTransfer alternatives in 2023.
+
+
+						
+
+
+						Table of Contents						
+
+
+
+
+
+
+
+Smash
+Mega
+Google Drive
+OneDrive
+Dropbox
+Send Anywhere
+ToffeeShare
+Wormhole
+SendBig
+PlusTransfer
+
+
+1. Smash
+Smash is another promising alternative to WeTransfer and I think you are going to love its free service. Unlike WeTransfer which has a size limit of 2GB for free users, Smash offers unrestricted file transfer which is just crazy. Smash claims that it has handled files of up to 350GB as well. However, keep in mind, if you send files above 2GB then the processing will go through the non-priority transfer route meaning the transfer speed will be slower. Nevertheless, since you are getting a great file transfer service for free, you can’t complain much. Further, it uses the 256-bit-AES (Advanced Encryption Standard) to encrypt the stored files on its server which is a great bonus!
+
+
+
+
+ProsConsNo file size limitFiles and folders over 2GB take longer to transferSuper easy to useMinimalistic and fast256-bit-AES standard encryption level
+Use Smash (Free, Paid plans start at $5/month)
+2. Mega
+Mega needs no introduction. If you are unaware, it is one of the most trusted and used cloud storage platforms in the world. Mega is preferred due to the off-the-charts upload speeds and simple yet attractive user interface that it offers. However, file sharing is also something that it allows you to carry out. As soon as you upload a file, you can choose to share it with anyone you want easily. Did we mention that Mega uses a state-of-the-art 256-bit-AES standard encryption as well? Of course, you do need to create an account to share files via Mega. But, if security is your concern, this tops it all. The best thing is you get free 20GB of cloud storage to make use of.
+
+
+
+
+ProsCons256-bit-AES standard encryptionWeb version is slower20GB free cloud storageAccount creation neededVery easy to useExcellent user interfaceOffers dedicated app which is more seamlessGreat upload speeds
+Use Mega (Free, Premium starts at $10.70/Month)
+3. Google Drive
+Much like Mega, you can also use Google Drive to take care of your file-sharing needs. The fact that it is so secure makes it worth all the time that it takes to transfer a file. Of course, if security is your topmost priority. While it requires you to sign in with your Google account, I think it’s worth the hassle given that you get lots of security features for free. Additionally, you get 15GB of free storage space which is significantly bigger than what most file sharing platforms offer. In case, you want to share a link, you can also customize who can view, edit, or comment on the files. Basically, you are getting all the premium features of WeTransfer on Google Drive without paying a dime. Most importantly, all your files stored on Google Drive’s servers are protected using 128-bit AES encryption and 256-bit TLS (Transport Layer Security) encryption. There is a teeny weeny bit of a learning curve. But, nothing going through Google Drive tips and tricks can’t fix.
+
+
+
+
+PROSCONS128-bit AES and 256-bit-TLS standard encryptionUploading speeds are not at par with other alternatives15GB free storageRequires creating an accountEasy file sharing
+Use Google Drive (Free, Paid plans start at $1.99/month)
+4. OneDrive
+Similar to Mega and Google Drive, OneDrive is a cloud storage service by Microsoft. In a way, it’s not a direct competitor to WeTransfer, but you can definitely use it to send large files across the web. The free tier of OneDrive allows you to upload files of up to 5GB which is decent enough. The best part about OneDrive is that it offers many file protection features that are only available if you opt for WeTransfer’s premium plans. You can send files to specific people through email, set passwords and set an expiration date which will remove access to the files from the given link. Other than that, files in transit from the browser to Microsoft’s servers are encrypted using Transport Layer Security (TLS) protocol. And each file at rest is encrypted using a unique AES256 key.
+
+
+
+
+ProsCons256-bit-TLS standard encryptionUploading larger files takes a lot of time5GB free storageAccount creation requiredSeamless file sharing
+Use OneDrive (Free, Paid plans start at $1.99/month)
+5. Dropbox
+Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files.
+
+
+ProsCons128-bit-AES and TLS encryptionFile size limit set to only 100MBLightweight and fastAccount creation required to get up to 2GB of storageSuper quick file sharing
+Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Smash is another promising alternative to WeTransfer and I think you are going to love its free service. Unlike WeTransfer which has a size limit of 2GB for free users, Smash offers unrestricted file transfer which is just crazy. Smash claims that it has handled files of up to 350GB as well. However, keep in mind, if you send files above 2GB then the processing will go through the non-priority transfer route meaning the transfer speed will be slower. Nevertheless, since you are getting a great file transfer service for free, you can’t complain much. Further, it uses the 256-bit-AES (Advanced Encryption Standard) to encrypt the stored files on its server which is a great bonus!
+
+
+
+
+ProsConsNo file size limitFiles and folders over 2GB take longer to transferSuper easy to useMinimalistic and fast256-bit-AES standard encryption level
+Use Smash (Free, Paid plans start at $5/month)
+2. Mega
+Mega needs no introduction. If you are unaware, it is one of the most trusted and used cloud storage platforms in the world. Mega is preferred due to the off-the-charts upload speeds and simple yet attractive user interface that it offers. However, file sharing is also something that it allows you to carry out. As soon as you upload a file, you can choose to share it with anyone you want easily. Did we mention that Mega uses a state-of-the-art 256-bit-AES standard encryption as well? Of course, you do need to create an account to share files via Mega. But, if security is your concern, this tops it all. The best thing is you get free 20GB of cloud storage to make use of.
+
+
+
+
+ProsCons256-bit-AES standard encryptionWeb version is slower20GB free cloud storageAccount creation neededVery easy to useExcellent user interfaceOffers dedicated app which is more seamlessGreat upload speeds
+Use Mega (Free, Premium starts at $10.70/Month)
+3. Google Drive
+Much like Mega, you can also use Google Drive to take care of your file-sharing needs. The fact that it is so secure makes it worth all the time that it takes to transfer a file. Of course, if security is your topmost priority. While it requires you to sign in with your Google account, I think it’s worth the hassle given that you get lots of security features for free. Additionally, you get 15GB of free storage space which is significantly bigger than what most file sharing platforms offer. In case, you want to share a link, you can also customize who can view, edit, or comment on the files. Basically, you are getting all the premium features of WeTransfer on Google Drive without paying a dime. Most importantly, all your files stored on Google Drive’s servers are protected using 128-bit AES encryption and 256-bit TLS (Transport Layer Security) encryption. There is a teeny weeny bit of a learning curve. But, nothing going through Google Drive tips and tricks can’t fix.
+
+
+
+
+PROSCONS128-bit AES and 256-bit-TLS standard encryptionUploading speeds are not at par with other alternatives15GB free storageRequires creating an accountEasy file sharing
+Use Google Drive (Free, Paid plans start at $1.99/month)
+4. OneDrive
+Similar to Mega and Google Drive, OneDrive is a cloud storage service by Microsoft. In a way, it’s not a direct competitor to WeTransfer, but you can definitely use it to send large files across the web. The free tier of OneDrive allows you to upload files of up to 5GB which is decent enough. The best part about OneDrive is that it offers many file protection features that are only available if you opt for WeTransfer’s premium plans. You can send files to specific people through email, set passwords and set an expiration date which will remove access to the files from the given link. Other than that, files in transit from the browser to Microsoft’s servers are encrypted using Transport Layer Security (TLS) protocol. And each file at rest is encrypted using a unique AES256 key.
+
+
+
+
+ProsCons256-bit-TLS standard encryptionUploading larger files takes a lot of time5GB free storageAccount creation requiredSeamless file sharing
+Use OneDrive (Free, Paid plans start at $1.99/month)
+5. Dropbox
+Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files.
+
+
+ProsCons128-bit-AES and TLS encryptionFile size limit set to only 100MBLightweight and fastAccount creation required to get up to 2GB of storageSuper quick file sharing
+Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Use Smash (Free, Paid plans start at $5/month)
+2. Mega
+Mega needs no introduction. If you are unaware, it is one of the most trusted and used cloud storage platforms in the world. Mega is preferred due to the off-the-charts upload speeds and simple yet attractive user interface that it offers. However, file sharing is also something that it allows you to carry out. As soon as you upload a file, you can choose to share it with anyone you want easily. Did we mention that Mega uses a state-of-the-art 256-bit-AES standard encryption as well? Of course, you do need to create an account to share files via Mega. But, if security is your concern, this tops it all. The best thing is you get free 20GB of cloud storage to make use of.
+
+
+
+
+ProsCons256-bit-AES standard encryptionWeb version is slower20GB free cloud storageAccount creation neededVery easy to useExcellent user interfaceOffers dedicated app which is more seamlessGreat upload speeds
+Use Mega (Free, Premium starts at $10.70/Month)
+3. Google Drive
+Much like Mega, you can also use Google Drive to take care of your file-sharing needs. The fact that it is so secure makes it worth all the time that it takes to transfer a file. Of course, if security is your topmost priority. While it requires you to sign in with your Google account, I think it’s worth the hassle given that you get lots of security features for free. Additionally, you get 15GB of free storage space which is significantly bigger than what most file sharing platforms offer. In case, you want to share a link, you can also customize who can view, edit, or comment on the files. Basically, you are getting all the premium features of WeTransfer on Google Drive without paying a dime. Most importantly, all your files stored on Google Drive’s servers are protected using 128-bit AES encryption and 256-bit TLS (Transport Layer Security) encryption. There is a teeny weeny bit of a learning curve. But, nothing going through Google Drive tips and tricks can’t fix.
+
+
+
+
+PROSCONS128-bit AES and 256-bit-TLS standard encryptionUploading speeds are not at par with other alternatives15GB free storageRequires creating an accountEasy file sharing
+Use Google Drive (Free, Paid plans start at $1.99/month)
+4. OneDrive
+Similar to Mega and Google Drive, OneDrive is a cloud storage service by Microsoft. In a way, it’s not a direct competitor to WeTransfer, but you can definitely use it to send large files across the web. The free tier of OneDrive allows you to upload files of up to 5GB which is decent enough. The best part about OneDrive is that it offers many file protection features that are only available if you opt for WeTransfer’s premium plans. You can send files to specific people through email, set passwords and set an expiration date which will remove access to the files from the given link. Other than that, files in transit from the browser to Microsoft’s servers are encrypted using Transport Layer Security (TLS) protocol. And each file at rest is encrypted using a unique AES256 key.
+
+
+
+
+ProsCons256-bit-TLS standard encryptionUploading larger files takes a lot of time5GB free storageAccount creation requiredSeamless file sharing
+Use OneDrive (Free, Paid plans start at $1.99/month)
+5. Dropbox
+Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files.
+
+
+ProsCons128-bit-AES and TLS encryptionFile size limit set to only 100MBLightweight and fastAccount creation required to get up to 2GB of storageSuper quick file sharing
+Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Mega needs no introduction. If you are unaware, it is one of the most trusted and used cloud storage platforms in the world. Mega is preferred due to the off-the-charts upload speeds and simple yet attractive user interface that it offers. However, file sharing is also something that it allows you to carry out. As soon as you upload a file, you can choose to share it with anyone you want easily. Did we mention that Mega uses a state-of-the-art 256-bit-AES standard encryption as well? Of course, you do need to create an account to share files via Mega. But, if security is your concern, this tops it all. The best thing is you get free 20GB of cloud storage to make use of.
+
+
+
+
+ProsCons256-bit-AES standard encryptionWeb version is slower20GB free cloud storageAccount creation neededVery easy to useExcellent user interfaceOffers dedicated app which is more seamlessGreat upload speeds
+Use Mega (Free, Premium starts at $10.70/Month)
+3. Google Drive
+Much like Mega, you can also use Google Drive to take care of your file-sharing needs. The fact that it is so secure makes it worth all the time that it takes to transfer a file. Of course, if security is your topmost priority. While it requires you to sign in with your Google account, I think it’s worth the hassle given that you get lots of security features for free. Additionally, you get 15GB of free storage space which is significantly bigger than what most file sharing platforms offer. In case, you want to share a link, you can also customize who can view, edit, or comment on the files. Basically, you are getting all the premium features of WeTransfer on Google Drive without paying a dime. Most importantly, all your files stored on Google Drive’s servers are protected using 128-bit AES encryption and 256-bit TLS (Transport Layer Security) encryption. There is a teeny weeny bit of a learning curve. But, nothing going through Google Drive tips and tricks can’t fix.
+
+
+
+
+PROSCONS128-bit AES and 256-bit-TLS standard encryptionUploading speeds are not at par with other alternatives15GB free storageRequires creating an accountEasy file sharing
+Use Google Drive (Free, Paid plans start at $1.99/month)
+4. OneDrive
+Similar to Mega and Google Drive, OneDrive is a cloud storage service by Microsoft. In a way, it’s not a direct competitor to WeTransfer, but you can definitely use it to send large files across the web. The free tier of OneDrive allows you to upload files of up to 5GB which is decent enough. The best part about OneDrive is that it offers many file protection features that are only available if you opt for WeTransfer’s premium plans. You can send files to specific people through email, set passwords and set an expiration date which will remove access to the files from the given link. Other than that, files in transit from the browser to Microsoft’s servers are encrypted using Transport Layer Security (TLS) protocol. And each file at rest is encrypted using a unique AES256 key.
+
+
+
+
+ProsCons256-bit-TLS standard encryptionUploading larger files takes a lot of time5GB free storageAccount creation requiredSeamless file sharing
+Use OneDrive (Free, Paid plans start at $1.99/month)
+5. Dropbox
+Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files.
+
+
+ProsCons128-bit-AES and TLS encryptionFile size limit set to only 100MBLightweight and fastAccount creation required to get up to 2GB of storageSuper quick file sharing
+Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Use Mega (Free, Premium starts at $10.70/Month) Much like Mega, you can also use Google Drive to take care of your file-sharing needs. The fact that it is so secure makes it worth all the time that it takes to transfer a file. Of course, if security is your topmost priority. While it requires you to sign in with your Google account, I think it’s worth the hassle given that you get lots of security features for free. Additionally, you get 15GB of free storage space which is significantly bigger than what most file sharing platforms offer. In case, you want to share a link, you can also customize who can view, edit, or comment on the files. Basically, you are getting all the premium features of WeTransfer on Google Drive without paying a dime. Most importantly, all your files stored on Google Drive’s servers are protected using 128-bit AES encryption and 256-bit TLS (Transport Layer Security) encryption. There is a teeny weeny bit of a learning curve. But, nothing going through Google Drive tips and tricks can’t fix.
+
+
+
+
+PROSCONS128-bit AES and 256-bit-TLS standard encryptionUploading speeds are not at par with other alternatives15GB free storageRequires creating an accountEasy file sharing
+Use Google Drive (Free, Paid plans start at $1.99/month)
+4. OneDrive
+Similar to Mega and Google Drive, OneDrive is a cloud storage service by Microsoft. In a way, it’s not a direct competitor to WeTransfer, but you can definitely use it to send large files across the web. The free tier of OneDrive allows you to upload files of up to 5GB which is decent enough. The best part about OneDrive is that it offers many file protection features that are only available if you opt for WeTransfer’s premium plans. You can send files to specific people through email, set passwords and set an expiration date which will remove access to the files from the given link. Other than that, files in transit from the browser to Microsoft’s servers are encrypted using Transport Layer Security (TLS) protocol. And each file at rest is encrypted using a unique AES256 key.
+
+
+
+
+ProsCons256-bit-TLS standard encryptionUploading larger files takes a lot of time5GB free storageAccount creation requiredSeamless file sharing
+Use OneDrive (Free, Paid plans start at $1.99/month)
+5. Dropbox
+Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files.
+
+
+ProsCons128-bit-AES and TLS encryptionFile size limit set to only 100MBLightweight and fastAccount creation required to get up to 2GB of storageSuper quick file sharing
+Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Use Google Drive (Free, Paid plans start at $1.99/month)
+4. OneDrive
+Similar to Mega and Google Drive, OneDrive is a cloud storage service by Microsoft. In a way, it’s not a direct competitor to WeTransfer, but you can definitely use it to send large files across the web. The free tier of OneDrive allows you to upload files of up to 5GB which is decent enough. The best part about OneDrive is that it offers many file protection features that are only available if you opt for WeTransfer’s premium plans. You can send files to specific people through email, set passwords and set an expiration date which will remove access to the files from the given link. Other than that, files in transit from the browser to Microsoft’s servers are encrypted using Transport Layer Security (TLS) protocol. And each file at rest is encrypted using a unique AES256 key.
+
+
+
+
+ProsCons256-bit-TLS standard encryptionUploading larger files takes a lot of time5GB free storageAccount creation requiredSeamless file sharing
+Use OneDrive (Free, Paid plans start at $1.99/month)
+5. Dropbox
+Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files.
+
+
+ProsCons128-bit-AES and TLS encryptionFile size limit set to only 100MBLightweight and fastAccount creation required to get up to 2GB of storageSuper quick file sharing
+Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Similar to Mega and Google Drive, OneDrive is a cloud storage service by Microsoft. In a way, it’s not a direct competitor to WeTransfer, but you can definitely use it to send large files across the web. The free tier of OneDrive allows you to upload files of up to 5GB which is decent enough. The best part about OneDrive is that it offers many file protection features that are only available if you opt for WeTransfer’s premium plans. You can send files to specific people through email, set passwords and set an expiration date which will remove access to the files from the given link. Other than that, files in transit from the browser to Microsoft’s servers are encrypted using Transport Layer Security (TLS) protocol. And each file at rest is encrypted using a unique AES256 key.
+
+
+
+
+ProsCons256-bit-TLS standard encryptionUploading larger files takes a lot of time5GB free storageAccount creation requiredSeamless file sharing
+Use OneDrive (Free, Paid plans start at $1.99/month)
+5. Dropbox
+Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files.
+
+
+ProsCons128-bit-AES and TLS encryptionFile size limit set to only 100MBLightweight and fastAccount creation required to get up to 2GB of storageSuper quick file sharing
+Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Use OneDrive (Free, Paid plans start at $1.99/month)
+5. Dropbox
+Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files.
+
+
+ProsCons128-bit-AES and TLS encryptionFile size limit set to only 100MBLightweight and fastAccount creation required to get up to 2GB of storageSuper quick file sharing
+Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Dropbox is a cloud storage service, but recently the company released a dedicated “Transfer” platform to send files quickly to anyone on the web. You can send up to 100MB of files which is sure nowhere near WeTransfer’s size limit, but if you generally send small files then it works pretty well. You can also get a notification when your transfer is downloaded and check the number of times the file has been viewed. Further, you can create a shareable link too which can be viewed and downloaded by anyone. Moving to security, Dropbox utilizes AES 128-bit standard to encrypt stored files on the server and TLS protocol while communicating. Overall, it is easily the best WeTransfer alternative if you want to send over mostly small files. Use Dropbox (Free, Paid plans start at $9.99/month)
+6. Send Anywhere
+Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Send Anywhere is another popular file transfer service like WeTransfer. It’s ranked among the best WeTransfer alternatives because of its vast number of features. Under the free account, you can easily send files using an Input Key. This is called the direct method where you just upload the file and get a 6-digit key. Now, enter the Input Key on the recipient’s end and there you have it. Easy peasy! In case, you want to send files through a link or email then you will have to sign up for their account. As for the size limit, well, you can send files of up to 10GB under the free account so that is awesome. In terms of security, Send Anywhere mentions that files are encrypted during transit and at rest. However, it does not state the protocol or encryption method.
+
+
+
+
+PROSCONSSimple and straightforward to useEncryption levels not stated clearlyFile sharing is quickAccount creation required to get up to 2GB of storageNo registration required
+Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Use Send Anywhere (Free, Paid plans start at $5.99/month)
+7. ToffeeShare
+ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ ToffeeShare is a peer-to-peer file sharing platform like WeTransfer that is also known for its security and ease of usage. The best thing is that there is no file size limit. Yes, you heard that right. This is because ToffeeShare does not store the files being shared anywhere. Besides, it is a completely free-to-use platform that also doesn’t require you to sign up. Just head over to the website and start sharing files with your friends and family. Although it is not nearly as fast or popular as WeTransfer, it sure is an underrated gem of a free WeTransfer alternative.
+
+
+
+
+ProsConsFreeQuite slowNo file size limitNo sign in requiredEnd-to-end encryption (General Data Protection Regulation compliant)Has a dedicated app for Android & Windows
+Use ToffeeShare (Free)
+8. Wormhole
+Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Use ToffeeShare (Free) Wormhole is yet another free WeTransfer alternative that offers an end-to-end encryption-based file sharing service. Wormhole uses 128-bit AES-GCM encryption. This means that you can basically share anything you want using the platform without having to break a sweat about privacy and security. Only those that you share the file links with can view them. What makes this one of the best WeTransfer alternatives is the fact that it offers a significantly larger 10GB file size limit. That automatically allows you to not feel limited, as compared to the 2GB file size limit on WeTransfer. In addition, it is also stupid easy to use. You can use the drag-and-drop feature to send files quickly. Moreover, the file-sharing speeds in themselves are just blazingly fast.
+
+
+
+
+PROSCONSFreeSharing link is a tad too longUses 128-bit AES-GCM encryptionDoes not showcase any details/history about the link being sharedNo sign in requiredFast sharingEasy to use10GB file size limitHas a dedicated app for Windows
+Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Use Wormhole (Free)
+9. SendBig
+SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ SendBig is easily one of the most secure WeTransfer alternatives out there. It is ISO 27001 certified, which is regarded as a high level of international certification for information security. Further, it offers a 5GB file size limit which is way better than that of WeTransfer’s 2GB limit. No sign-in is required either. However, if you do want to use more advanced features like an increased file size limit, pause or resume transfers, you need to sign in to SendBig Snap or SendBig Max. Even if you decide not to, the no-sign-in version is also really fast and reliable. Definitely, a great free WeTransfer alternative you should try out.
+
+
+
+
+PROSCONSCompletely freeAccount needs to be created to get more advanced featuresISO 27001 certifiedSuper fast sharing5GB file size limitEasy to use
+Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ Use SendBig (Free)
+10. PlusTransfer
+The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away!
+
+
+PROSCONSSuper lightweight and very fastEncryption level not specified5GB file size limitVery easy to use
+Use PlusTransfer (Free)
+
+
+
+
+ The last entry on this list, PlusTransfer, is a widely used file sharing tool like WeTransfer. However, the only drawback is the fact that I could not specifically find the security or encryption level it uses to protect the files being shared. That is exactly why I have added it at the very end. However, if you only want to send over non-confidential work files or not-so-private personal files, it is one of the best WeTransfer alternatives, no doubt. The cherry on top is the 5GB file size limit. That is more than enough for most of the basic files and folders you will share. You don’t even have to waste time registering or signing in. Just visit the website and get started with sharing files right away! Use PlusTransfer (Free)
+
+
+
+
+ Bringing the latest in technology, gaming, and entertainment is our superhero team of staff writers. They have a keen eye for latest stories, happenings, and even memes for tech enthusiasts. If you are looking for an alternative similar to wetransfer then check out this website metransfer.in lol i can see the spaghetti cables now… All these filetransfers are compared on allfiletransfers.com Jumbomail.me is a best solution Thank you for mentioning Smash, loved the interface, and how each transfer is confirmed by email – with a link for deleting manually if you wish. skynet is as well up and running, free unlimited filesharing Maximum allowed file size is actually just 1GB there. I appreciate that you mentioned Filemail, thank you. I do need to highlight that when the original article was written, we were experimenting with making it paid only, but it was dropped, so the original article is correct. However, by the date of this article being updated (June 2, 2020), free file transfer was restored. Filemail do offer a file transfer service which can be used without even registering. Furthermore, you can send a file of up to 50 GB without registering. Good that you mentioned that.  I was going to disregard Filemail, but it instantly became my favorite on this page. Cheers mate. Max is 5 Gb not 50 Gb for the free Filemail. Accuracy is important. I am missing filetransfer.io in the list. Really simple and reliable service. You missed one of major file transfer tool, and should be included to this list, its ZapyaTransfer (www.zapyatransfer.com) One more to consider is BoomyCloud, a new service to send and store 100 GB of files with no file size limit, for free. Also no signup required, just drag files to the homepage and copy the share link. The service can’t be blocked because it is based on a decentralized backend. Another alternative is Sendgb.com
+Europen company for file transfer. you can use the utopia ecosystem. Fully p2p You forgot Tresorit! End-to-End Encrypted File Sharing service It is still working for me. Add new comment Name  Email ID   
+
+  Δ  
+
+
+  
+
+
+ 

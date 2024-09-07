@@ -1,0 +1,17 @@
+Listen to Story In order to reduce vehicular traffic at the toll plazas, Government of India (GOI) started a digital system of collecting toll termed as FASTag. Operated by National Highways Authority of India, FASTag is an electronic toll collection system which uses Radio Frequency Identification technology for initiating toll payments directly from a user's linked account to the account of the toll owner.  The government has made FASTag mandatory for all private and commercial vehicles. However, to drive through an electronic toll collection (ETC)-enabled lane at a highway toll plaza it is important to keep sufficient balance in your FASTag wallet. So let's take a look at how to check FASTag balance and how to recharge online or through other methods. How to check FASTag balance online  FASTag accounts are always created through your official bank ID. 
+- So in order to check your FASTag balance, Visit the website of your bank through which you have created your FASTag ID.
+- After opening the bank website, search for the FASTag category and log into the portal using your credentials. 
+- Next click on the view FASTag balance option to check your remaining account balance. How to check FASTag balance with NHAI wallet  - Open Google Play Store or App Store on your phone.
+- Search for "My FASTag App" and download the app.
+- Now login to the app.
+- You can check details related to your FASTag account in the app. How to check FASTag balance through SMS If you have registered for FASTag services on SMS, everytime you pay for FASTag, you will get transaction details as SMS. The SMS also includes details of remaining balance in your FASTag account. So to check FASTag balance search for the last FASTag transaction message you received on your mobile phone. How to check FASTag balance through missed call NHAI also offers a  'Missed Call Alert Facility' for users to check their FASTag balance. 
+To check balance through missed call: 
+- Give a missed call at +91-8884333331 from your registered mobile number. 
+- After giving the missed call, you will receive a notification with the current FASTtag balance on your phone. How to recharge FASTag account  You can recharge your FASTag account using various methods. Either you visit the official website of your bank or download the app of your bank to recharge directly. Or you can use a digital payments app like Gpay, PhonePe or Paytm to recharge your FASTag account. 
+Here's how you can recharge your FASTag through Paytm:
+- Open Paytm app
+- Go to FASTag recharge option
+- Select your FASTag issuing Bank
+- Enter your Vehicle Number/Vehicle Registration Number
+- Next click on 'Proceed' and enter to finish your recharge. 
+Published By: Divya BhatiPublished On: Mar 3, 2023--- ENDS ---Also Read |  DigiYatra to be enabled at all gates of Delhi T2 and T3 by March end: how to useAlso Read |  Elon Musk loses the title of world’s richest person again, and it is not because of TwitterAlso Read |  Layoffs in 2023: Google, Microsoft, Salesforce and more fire thousands of employees in last 2 months 

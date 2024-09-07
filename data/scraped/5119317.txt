@@ -1,0 +1,21 @@
+SATA 6G PHY in TSMC (40nm, 28nm, 16nm, 12nm, N7) MACsec Engine 800G Multi-Channel VESA DSC 1.2b Decoder IP Core for Xilinx FPGAs CAT Trip Sensor, TSMC N5 SignatureIP Networks-on-Chips (NoCs) to Accelerate RISC-V Designs SEALSQ Introduces QS7001, a Newly Developed Cutting-Edge RISC-V Secure Hardware Platform, Specifically Designed for IoT security in the Post-Quantum Era Xiphera's xQlave® Product Family Enables Full Compliance with Finalised NIST PQC Standards Ensure Cybersecurity in the Connected Vehicles Era With ISO/SAE 21434 Key considerations and challenges when choosing LDOs BCD Technology: A Unified Approach to Analog, Digital, and Power Design PCIe Over Optical: Transforming High-Speed Data Transmission Pipelined Data Masters in D-Series GPUs RISC-V for the Datacenter: Introducing the P870-D Crypto Quantique signs first customer in Taiwan to deploy QDID-enabled IoT devices. London, UK – May 25, 2023 – Crypto Quantique, a leading provider of quantum-based security solutions for the internet of things (IoT), today announced that it has signed its first customer in Taiwan. The customer, a leading manufacturer of IoT devices, will use Crypto Quantique’s QDID-enabled chips to provide advanced identification, enhanced security, and improved efficiency for its devices. QDID-enabled chips are based on Crypto Quantique’s proprietary quantum-based technology. The technology uses quantum effects to create unique and unclonable identifiers for each device. This makes it virtually impossible for attackers to hack QDID-enabled devices by such techniques as side channel attacks. In addition to providing advanced identification, QDID-enabled chips also offer enhanced security and improved efficiency. The unique combination of these features positions Crypto Quantique’s QuarkLink IoT software platform as the best solution to connecting and managing these devices to cloud providers with a focus on security. “We are delighted to announce our first customer in Taiwan,” said Shahram Mossayebi, CEO of Crypto Quantique. “This is a significant milestone for our company and a testament to the strength of our technology. We are confident that our QDID-enabled chips will provide our customer with the advanced security and identification capabilities they need to protect their IoT devices.” The signing of this first customer is a major step forward for Crypto Quantique. The company is well-positioned to capitalise on the growing demand for security solutions for the IoT market. With its unique quantum-based technology, Crypto Quantique is well-positioned to lead the way in the development of secure IoT solutions.  About Crypto Quantique Crypto Quantique is the first software and IP (Intellectual Property) company to create true end-to-end IoT security products that can be seamlessly integrated throughout the entire supply chain, from the design of the chip, to enabling a secure connection for devices to the cloud. With strong traction in the market, including signed partnerships with large semiconductor companies including STMicroelectronics, Microchip, and Renesas, they have created a strong pipeline and customer interest in both their software and IP products from large OEMs like Wurth Elektronik. Their products have won multiple industry awards for their unique design and so far, have raised £15 million in funding including multiple prestigious European grants. For more information, please visit www.cryptoquantique.com. 
+
+Your Name:
+
+Your E-mail
+			address:
+
+Your Company
+			address:
+
+Your Phone Number:
+
+Write your message:
+
+
+
+
+ © 2024 Design And Reuse All Rights Reserved. No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used without the express written permission of Design And Reuse. 
+
+ Suppliers, list
+	your IPs for free.

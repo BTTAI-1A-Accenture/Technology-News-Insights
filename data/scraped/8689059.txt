@@ -1,0 +1,59 @@
+
+By Kelsey D. Atherton
+ Posted on Jan 12, 2023 4:00 PM EST 4 minute read From January 6 through 9, in the Persian Gulf, the US Navy conducted an exercise in which two Saildrone robotic boats communicated with the USS Delbert D. Black, a destroyer. The exercise used robots, AI, and a crewed ship to scout the environment around them, a practical peacetime use of the robot that could inform how these tools are used in war.  “During the exercise, unmanned and artificial intelligence systems operated in conjunction with Delbert D. Black and CTF [Coalition Task Force] Sentinel’s command center ashore in Bahrain. The systems were able to help locate and identify objects in nearby waters and relay visual depictions to watchstanders,” the US Navy said in a release.  This isn’t the first time the Navy has used Saildrones in these waters. In August 2022, a ship from the US Coast Guard and a ship from the Royal Bahrain Naval Force worked alongside a Saildrone, integrating the robot’s sensors into the mission. And in September 2022, while Navy Saildrones were operating in the Persian Gulf, Iran’s Navy temporarily seized and held the robots before returning them to the US Navy, a return facilitated by the USS Delbert D. Black.  So what kind of information or images might the robots capture that’s so valuable to the Navy? A pair of images released by the service branch offer some detail. In one, Lieutenant Richard Rodriguez, aboard the Delbert D. Black, watches images sent from the sea-going drone to a monitor. The Saildrone’s information is viewed through a Mission Portal dashboard displayed in Chrome. The robot’s camera tracks the horizon at an angle, and against it are three marker rectangles, showing possible ship sightings. As the Navy’s caption describes it, the visuals were transmitted from a Saildrone to a room on the destroyer where a crew member could watch it. In this way, the drones help the crew keep watch. Another image captures the information as displayed inside the group’s Manama, Bahrain headquarters. At the center of this display is a map, where the layout of the observed gulf is plotted and abstracted. Solid shapes indicate vessels, lines track the Saildrones’ path through time, and plotted polygons denote other phenomena, perhaps rules of egress or avoidance. The Malaysian-flagged cargo vessel MSC Makalu III is selected in the shot. The Makalu III was tracked for 23.6 nautical miles over two hours and 38 minutes by two Saildrones. Two images below the name of the Makalu III on the dashboard, presumably from the Saildrone’s cameras, show the distant position of the ship against the watery horizon, and a zoomed-in view that clearly shows the dark mass of a far-away vessel on the surface. Again, the Saildrone was being used as an observer, a robot on watch duty. In some sense, this information isn’t exactly novel. The Makalu III is trackable publicly. What is more remarkable is that the Saildrones are able to not just spot vessels, but follow them. The Persian Gulf is a high-traffic waterway, and while many navigational technologies make it easier to track and follow ships as they transit to and from the gulf, the ability to put new sensors into the water enhances what can be known. The screen displayed in the Manama headquarters shows not just Saildrone activity at the moment, but over time. One of the driving goals behind the Navy’s adoption of uncrewed ships is to enhance how much ocean traffic it can observe over time, and in this case, with two wind-driven robots the ability of a ship to passively observe its surroundings appears greatly enhanced.  Saildrones are small boats, just 23 feet long and rising 16 feet above the surface. With a sail to catch the wind and solar panels to power its electronic systems, and charge its batteries, a Saildrone exists as a tool for passively monitoring the sea.  These vessels have been used by scientific organizations for civilian purposes. NASA and NOAA, respectively, used Saildrones to fix gaps in satellite maps and monitor fish populations. While the Navy’s recent exercise with Saildrones was brief, the solar power and long endurance of the robots makes them ideal for longer term monitoring, as they sip power from the sun. The Pentagon formally divides the places combat can take place into domains, and while “sea” is smaller than the vastness of “space,” it is far more peopled. The Navy is tasked simultaneously with ensuring the free flow of law-abiding traffic across the oceans, and with being ready to fight any force that threatens open navigation of the oceans. Knowing where and when to fight, or at least move ships into a show of force, can be aided by keeping an eye on ocean traffic. Saildrones are a way to make the ocean more known, through the watchful and unblinking eyes of wind-propelled and solar-powered robots. Kelsey D. Atherton is a military technology journalist who has contributed to Popular Science since 2013. He covers uncrewed robotics and other drones, communications systems, the nuclear enterprise, and the technologies that go into planning, waging, and mitigating war. Kelsey lives in Albuquerque, New Mexico, with his spouse, beloved pets, and ample sunshine.   
+By Laura Baisas
+ 
+By Nicholas Slayton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Rob Verger
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Christopher Payne, Rob Verger
+ 
+By Kelsey D. Atherton
+ 
+By Kelsey D. Atherton
+ 
+By Christina Mackenzie
+ 
+By Andrew Paul
+ 
+By Andrew Paul
+ 
+By Andrew Paul
+ 
+By Mark Elias / Popular Photography
+ 
+By Stack Commerce
+ 
+By Harry Guinness
+ 
+By Colleen Hagerty
+ Sign up to receive Popular Science’s emails and get the highlights. Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+
+Registration on or use of this site constitutes acceptance of our Terms of Service.
+
+© 2024 Recurrent. All rights reserved. 

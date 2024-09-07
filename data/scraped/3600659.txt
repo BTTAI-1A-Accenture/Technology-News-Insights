@@ -1,0 +1,63 @@
+Mike Ybarra's comments in an all-hands meeting upset some employees, but to what end? This Week in Business is our weekly recap column, a collection of stats and quotes from recent stories presented with a dash of opinion (sometimes more than a dash) and intended to shed light on various trends. Check back every Friday for a new entry. 
+Morale at Activision Blizzard took a hit this week, which is probably a lead we could have used for any This Week in Business column of the past year and a half.
+ 
+This time the problems stemmed from a Blizzard Entertainment all-hands meeting that was reported on by Game Developer. The intent of the meeting was to discuss the results of an internal employee satisfaction survey, but whatever those results were, Blizzard president Mike Ybarra put on a performance that probably made them worse.
+ 
+In the Q&A section of the meeting, Ybarra addressed the recent decision to cut employees' profit-sharing bonus by almost half, which couldn't have gone over well considering Blizzard had just finished one of its strongest quarters in years, nearly doubling its operating income thanks to the launch of Overwatch 2, the mobile hit Diablo Immortal, and recent World of Warcraft expansions.
+ 
+Now, Activision Blizzard CEO Bobby Kotick has made no secret of his desire to create a company that "really rewards profit and nothing else," so it's probably a little galling to hear that your business division produced the kind of banner results that might give you a profit-sharing windfall (relative to your normal pay, at least), only to find out that the company has mysteriously decided now is the moment to claw back that profit-sharing deal.
+ 
+It's probably extra galling when executives see that anger and re-center the discussion on themselves. 
+ 
+QUOTE | "If you think that executives are making a lot of money and you aren't, you're living in a myth." – Ybarra suggests executive bonuses have been cut as well, which probably doesn't carry a lot of weight with an all-hands meeting full of people who would probably trade compensation packages with Ybarra in a heartbeat.
+ 
+When Kotick can get a $200 million payout and QA workers are making $20 an hour in some of the most expensive cities in the country, the dismissive "living in a myth" comment is unlikely to be warmly received.
+ 
+Ybarra also dismissed QA and customer service as "not long-term disciplines," which I'm sure went over well with anyone working in those jobs who sees them as actually necessary parts of the game development operation worth investing and specializing in. 
+ 
+The capper came in remarks about the company's return-to-office mandate and how Ybarra planned to avoid having key talent that wanted to keep working remotely leave the company. 
+ 
+QUOTE | "At the end of the day we want people to be happy, and if decisions about being happy don't align with where we're going, and you won't be happy, then you'll have to do what will make [you] happy." - Ybarra essentially telling employees, "Take it or leave it."
+ 
+It's a bold strategy for a vehemently anti-union company to antagonize its employees like this, and I honestly don't know what they're thinking. They say you should never ascribe to malice what can attributed to incompetence, so maybe this isn't a strategy at all so much as Ybarra stepping through a field of rakes, Sideshow Bob-style. But if that's the case, Activision Blizzard's response to the report should probably have walked things back a bit.
+ 
+QUOTE | "Blizzard stands by each of these statements and we're proud of Mike's leadership in tough moments." – An Activision Blizzard representative's response to Game Developer probably wasn't intended to echo previous ill-advised comments from Blizzard leadership, unless "tough moment" is the new lingo for "self-inflicted PR debacle."
+ 
+I honestly can't remember the last time an executive said things that would so clearly alienate and demoralize employees only for the on-the-record response to be more or less, "I said what I said."
+ 
+There's a level of defiance to it that suggests alienating and demoralizing employees was deliberate, but I don't know why it would benefit Activision Blizzard to do this. 
+ 
+Perhaps Activision Blizzard is actually looking for a little attrition in the ranks, and having people leave of their own volition is certainly cheaper than paying out severance. Perhaps it figures months of mass layoffs in gaming and tech have workers nervous about the prospect of finding new jobs or being fired for unionization efforts, so now's the time to put the screws to them.
+ 
+Oh, what's that noise? Is it time for my favorite Bobby Kotick quote already?
+ 
+QUOTE | "I think we definitely have been able to instill the culture, the skepticism and pessimism and fear that you should have in an economy like we are in today. And so, while generally people talk about the recession, we are pretty good at keeping people focused on the deep depression." – Bobby Kotick explains his management philosophy.
+ 
+I can't emphasize enough that this damning quote for the ages came in an answer to an analyst's perfectly innocent question about whether he thought retailers would be reducing orders on games to avoid being stuck with a lot of inventory they can't sell.
+ 
+Regardless of what Activision Blizzard is actually thinking here, it's remarkable that this is coming when the company is actually doing fairly well, at least relative to its peers. It just posted record bookings for the holiday quarter, and it's expecting 2023 to see high-teens year-over-year revenue growth, as well as smaller gains in net bookings and operating income. Considering Activision Blizzard is notorious for setting its goals low (making it easier to tout "better-than-expected results"), 2023 is posed to be a healthy year for the company.
+ 
+So it's not as if the profit-sharing cut and return-to-office are being driven by desperation. Instead, the message these changes and Ybarra's antagonistic comments are sending to employees is clear: "We know you don't like these things, and we don't need to do them, but we don't care."
+ 
+[UPDATE]: Blizzard has apparently re-thought its desire to send that message, as a representative reached out to Game Developer to say the "long-term disciplines" remark was about entry-level roles rather than QA or customer service specifically, which is weird because "entry-level" is a description of your experience in a discipline, and not a discipline in and of itself. The rep also added that exceptions would be made to the return-to-office-work mandate for medical or religious reasons, or if people were hired specifically on an all-remote basis.
+ 
+QUOTE | "While many studios did amazing work on the remaster, I'm let down Metroid Prime's Remaster does not include the full original game credits. I worked with so many amazing people on the game and everyone's name should be included in the remaster…" – Metroid Prime senior engineer Zoid Kirsch joins the growing ranks of developers speaking up to get the credit they deserve when companies ignore the people responsible for their success.
+ 
+QUOTE | "Microsoft also submitted that its internal analysis shows a [redacted]% decline in base game sales twelve months following their addition on Game Pass." – A line pulled from deep within the UK's Competition and Markets Authority's provisional ruling on the Microsoft-Activision Blizzard acquisition confirms that despite earlier marketing to the contrary, putting games into the Game Pass subscription cannibalizes their premium sales for the next year. Not surprising, but good to have on the record.
+ 
+QUOTE | "We are committed to boosting our efficiency and execution through a more agile organization adapted to new market conditions, with a strong focus on initiatives to enhance predictability across our productions and through our cost-reduction efforts." - When Ubisoft CEO Yves Guillemot said "predictability" in his quarterly earnings comments, he was talking about more consistently delivering games on time and at a high level of quality, but I can't help but think this ends poorly for a company that already has a reputation for churning out formulaic open-worlds with maps choked with inessential cruft.
+ 
+QUOTE | "If it makes the game more accessible to other people, that's fine. I can put it in, it doesn't cost a lot of time to put it in… It's a tiny amount of extra work that makes it possible for more people to enjoy the game, so I think it's something that's worth doing." – Jeff Minter, noted developer of trippy flashing light show shooters like Tempest 2000 and Space Giraffe, explains why he added an option to disable the more intense visual effects in his latest game, Akka Arrh.
+ 
+QUOTE | "It could get harder and harder for thoughtful content to rise to the top – potentially redistributing the spend from development into marketing." – Proxy Studios owner Rok Breulj warns about the potential for AI to lead to storefronts flooded with generative content.
+ 
+STAT | 5% - The decline in US consumer spending on games in January, according to the NPD Group. However, hardware spending was flat.
+ 
+STAT | 19% - The drop in the number of games sold in Europe in January, according to GSD market data. However, hardware sales were up 15.5% by number of units, thanks to easing PS5 supply constraints.
+ 
+STAT | 7.08% - The amount of Nintendo owned by Saudi Arabia's Public Investment Fund, which has increased its stake since acquiring about 5% of the company last May.
+ 
+STAT | 175 – The number of games China has approved for release in the country through the first two months of the year. It's an encouraging sign for the industry that approvals are increasing. There were only 512 approved titles all last year, so China is on a pace to more than double that amount in 2023.
+ 
+All the biggest stories, expert analysis and data, straight to your inbox.     
+Advertisement     The resource for people who make and sell games. GamesIndustry.biz is owned by Gamer Network Limited. © 2024 Gamer Network Limited, 1-6 Grand Parade, Brighton, BN2 9QB, United Kingdom. Registered under company number 03882481. All rights reserved. No part of this website or its content may be reproduced without the copyright owner's permission.

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://omaha.com/news/state-regional/high-nitrate-levels-on-16-hog-farms-tied-to-gov-jim-pillen/article_3ead82ac-4eb0-11ee-b378-af35bbcd7350.html

@@ -1,0 +1,19 @@
+When Boston Dynamics finally started selling Spot, it’s four-legged robot, it came with one stipulation: users couldn’t use it to harm people. But while the creators of the Thermonator aren’t actively promoting it as a weapon, you don’t want to be within 30 feet of a flamethrower strapped to the back of a robodog. A company called Throwflame, which is currently best known for its compact all-electric flamethrowers that rely on a push button plasma arc igniter instead of an open flame, is also responsible for creating the Thermonator. Because of the strict EULA that Boston Dynamics enforces with Spot, Thermonator instead appears to be built on the Unitree Go1 quadruped robot, which is much smaller and lighter than Spot, but still includes a variety of cameras and sensors onboard allowing it some level of autonomous navigation when it’s not being operated from a wireless controller. Sitting atop the Thermonator is one of the company’s ARC Flamethrowers, which uses a built-in fuel tank filled with gasoline or a gasoline/diesel mixture to blast a 30-foot long stream of burning fuel for up to 45 minutes when using its largest capacity battery. Unitree claims its Go1 robot weighs in at around 26 pounds on its own, but after the flame-throwing upgrades, the Thermonator weighs closer to 60 pounds, which will undoubtedly have a limit on how long the bot can operate before needing a battery swap. You can’t buy the Thermonator just yet, but on Throwflame’s website, interested parties can submit their email addresses to “join the waitlist to be emailed when this product becomes available,” with shipping expected sometime in the third quarter of 2023. As for how much it will cost, that hasn’t been revealed yet either, but the Unitree Go1 sells for between $2,700 and $3,500, depending on how the bot is configured, while the ARC Flamethrower goes for between $699 and $899, which should provide a ballpark idea of what the Thermonator will set you back. But you’ll probably want to factor in added health insurance, property insurance, and home insurance, should you decide that buying one is a good idea. 
+boston dynamicsCompaniesFlamethrowersRobotweapons  
+          The robotic critter uniquely folds up its wings at rest and passively deploys them to fly.
+         
+          At least the robot uprising will have lots of smiles.
+         
+          Musk predicted Tesla would reach a $25 trillion market cap thanks to robotics.
+         
+          The new Unitree G1 has a rather unique way of folding up.
+         
+          Musk's sleight of hand has inspired robot companies to add "no teleoperation" to their videos.
+         
+          It was another week of bad news for some very rich people.
+         We may earn a commission when you buy through links on our sites.
+©2024 GIZMODO USA LLC. All rights reserved. Mode 
+                Follow us
+               Mode 
+                Follow us
+              

@@ -1,0 +1,1 @@
+HTTPConnectionPool(host='markets.buffalonews.com', port=80): Max retries exceeded with url: /buffnews/article/newsfile-2023-6-5-zebec-protocol-introducing-the-boundless-hackathon-at-stanford (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x79da93d64ac0>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

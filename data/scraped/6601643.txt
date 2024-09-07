@@ -1,0 +1,33 @@
+The insulin gene produces the polypeptide hormone insulin, which is required for normal glucose homeostasis and regulation of blood sugar levels. The lack of insulin or insulin insufficiency can lead to diabetes mellitus, which affects up to 5% of the human population. Insulin is formed as a precursor protein pre-proinsulin. This is encoded by a 14kb sequence on the INS gene. In most animals including humans, a single gene for insulin is found. The human gene is located on the short arm of chromosome 11 at position 15.5 (11p15.5). The insulin gene has been recently de-coded in its complete form in genomic studies. Human and rat insulin genes have been cloned and the DNA has been sequenced. It has been shown that mouse and rat insulins are identical and they have similar gene sequences and organization, which are similar in genetic sequences to humans. The insulin gene is expressed almost exclusively in pancreatic β-cells (Islets of Langerhans). Glucose in the blood is the major stimulant that regulates the insulin gene expression and enables the beta cells to produce insulin and maintain an adequate store of intracellular insulin to sustain the metabolic demand. Glucose in blood acts via transcription factors such as pancreatic/duodenal homeobox-1 (PDX-1, mammalian homologue of avian MafA/L-Maf (MafA), Beta2/Neuro D (B2)), and controls the rate of transcription, and the stability of insulin mRNA. This functions at the level of synthesis and secretion of insulin. Low insulin production in diabetes may occur if there are continued high levels of glucose or lipids in the blood. This can lead to glucotoxicity (sugar related toxicity) or lipotoxicity (fat related toxicity) respectively. Consequentially, there is worsening of β-cell function in type 2 diabetes, in part via inhibition of insulin gene expression. This glucotoxicity involves decreased binding activities of PDX-1 and MafA and increased activity of C/EBPβ. High levels of glucose also leads to cellular damage as a result of the generation of reactive oxygen species (ROS) leading to oxidative stress. Lipotoxicity also leads to de novo ceramide synthesis and involves the inhibition of PDX-1 nuclear translocation and MafA gene expression. There are several genetic mutants of the INS gene. There is a read-through gene, INS-IGF2 that can overlap with the INS gene at the 5' region and with the IGF2 gene at the 3' region. For example, key genetic variants within INS such as rs689 and within INSR (rs1799816) have been shown to be correlated with the onset of Type-2 diabetes in 3 distinct ethnic groups. Understanding how different genetic variants and polymorphisms that alter insulin or glucose metabolism is key to preventing and treating diabetes in the future. 
+                        Last Updated: Jun 20, 2023
+                     Written by Dr. Ananya Mandal is a doctor by profession, lecturer by vocation and a medical writer by passion. She specialized in Clinical Pharmacology after her bachelor's (MBBS). For her, health communication is not just writing complicated reviews for professionals but making medical knowledge understandable and available to the general public as well. Please use one of the following formats to cite this article in your essay, paper or report: APA Mandal, Ananya. (2023, June 20). Insulin Gene. News-Medical. Retrieved on August 19, 2024 from https://www.news-medical.net/health/Insulin-Gene.aspx. MLA Mandal, Ananya. "Insulin Gene". News-Medical. 19 August 2024. <https://www.news-medical.net/health/Insulin-Gene.aspx>. Chicago Mandal, Ananya. "Insulin Gene". News-Medical. https://www.news-medical.net/health/Insulin-Gene.aspx. (accessed August 19, 2024). Harvard Mandal, Ananya. 2023. Insulin Gene. News-Medical, viewed 19 August 2024, https://www.news-medical.net/health/Insulin-Gene.aspx. Your chromosome count is wrong, *the 22 pairs of chromosomes barring the one pair of sex chromosomes. Cancel reply to comment John Yates In this interview conducted at Pittcon 2024, we spoke to Professor John Yates about capturing cardiomyocyte cell-to-cell heterogeneity via shotgun top-down proteomics. Tim Simpson Hologic’s Tim Simpson Discusses the Future of Cervical Cancer Screening. Maria Marco In this interview conducted at Pittcon 2024 in San Diego, Maria Marco discusses her research on the health benefits, safety, and waste reduction potential of fermented foods, and the microbial processes involved in their production. 
+
+                                                  
+                                                        News-Medical.Net provides this medical information service in accordance
+                                                        with these terms and conditions.
+                                                        Please note that medical information found
+                                                        on this website is designed to support, not to replace the relationship
+                                                        between patient and physician/doctor and the medical advice they may provide.
+                                                  
+                                                  
+
+                                             Last Updated: Monday 19 Aug 2024  News-Medical.net - An AZoNetwork Site Owned and operated by AZoNetwork, © 2000-2024 
+                Your AI Powered Scientific Assistant
+             Hi, I'm Azthena, you can trust me to find commercial scientific answers from News-Medical.net. A few things you need to know before we start. Please read and accept to continue. Great. Ask your question. 
+                Azthena may occasionally provide inaccurate responses.
+Read the full terms.
+             Terms 
+            While we only use edited and approved content for Azthena
+            answers, it may on occasions provide incorrect responses.
+            Please confirm any data provided with the related suppliers or
+            authors. We do not provide medical advice, if you search for
+            medical information you must always consult a medical
+            professional before acting on any information provided.
+         
+            Your questions, but not your email details will be shared with
+            OpenAI and retained for 30 days in accordance with their
+            privacy principles.
+         
+            Please do not ask questions that use sensitive or confidential
+            information.
+         Read the full Terms & Conditions. Provide Feedback

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/northern-trust-developing-digital-platform-for-institutional-voluntary-carbon-credit-transactions/article_566cef74-3f28-58f7-b97a-277d22db32cf.html

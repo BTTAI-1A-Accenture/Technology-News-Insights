@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.medgadget.com', port=443): Max retries exceeded with url: /2023/09/marine-biotechnology-market-is-expected-to-reach-us-8-75-billion-by-2030-from-us-5-17-billion-in-2023-at-a-cagr-of-7-8.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da96a03eb0>, 'Connection to www.medgadget.com timed out. (connect timeout=5)'))

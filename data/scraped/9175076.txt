@@ -1,0 +1,462 @@
+
+					Covering the business and politics of space				 WASHINGTON — The first set of larger second-generation Starlink satellites is experiencing problems that could require SpaceX to deorbit at least some of them.
+
+
+
+
+
+In a March 22 tweet, SpaceX Chief Executive Elon Musk said there were “some issues” with the set of Starlink satellites launched Feb. 27, confirming industry speculation over the last several days based on the changing orbits of the spacecraft.
+
+
+
+
+
+“Lot of new technology in Starlink V2, so we’re experiencing some issues, as expected,” he wrote. “Some sats will be deorbited, others will be tested thoroughly before raising altitude above Space Station.”
+
+
+
+
+
+The 21 satellites, collectively known as Group 6-1, started raising their orbits a couple days after being deployed into orbits nearly 370 kilometers high. However, the satellites halted their orbit raising a few days later, maintaining orbits at altitudes of about 380 kilometers. The International Space Station is an orbit between 415 and 420 kilometers high.
+
+
+
+
+
+Starting around March 15, their orbital altitude started to decrease at varying rates: most gradually, but at least two more steeply, descending to about 365 kilometers. All 21 remain in orbit, but that unusual behavior prompted speculation of problems with the satellites.
+
+
+
+
+
+The tweet by Musk was the first comment by him or SpaceX confirming problems with the satellites, although neither he nor the company have elaborated on what those problems are.
+
+
+The Group 6-1 satellites are the first of what SpaceX calls “V2 Mini” versions of Starlink satellites. They are significantly larger than the first-generation Starlink satellites that SpaceX has launched more than 4,000 of to date.
+
+
+
+
+
+The spacecraft feature improved phased-array antennas and use of E-band frequencies for backhaul that gives each satellite four times the capacity of earlier spacecraft. They also have new higher-performance electric thrusters that use argon, rather than krypton, propellant to reduce costs.
+
+
+
+
+
+SpaceX hasn’t released specifics about the V2 Mini satellites, but a design called “F9-2” in filings the company made with the Federal Communications Commission as part of its application for the second-generation constellation describes a spacecraft with a mass of 800 kilograms and a pair of solar arrays 12.8 meters long. First-generation satellites weigh about 300 kilograms and have a single array eight meters long.
+
+
+
+
+
+
+This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023
+
+As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  In a March 22 tweet, SpaceX Chief Executive Elon Musk said there were “some issues” with the set of Starlink satellites launched Feb. 27, confirming industry speculation over the last several days based on the changing orbits of the spacecraft.
+
+
+
+
+
+“Lot of new technology in Starlink V2, so we’re experiencing some issues, as expected,” he wrote. “Some sats will be deorbited, others will be tested thoroughly before raising altitude above Space Station.”
+
+
+
+
+
+The 21 satellites, collectively known as Group 6-1, started raising their orbits a couple days after being deployed into orbits nearly 370 kilometers high. However, the satellites halted their orbit raising a few days later, maintaining orbits at altitudes of about 380 kilometers. The International Space Station is an orbit between 415 and 420 kilometers high.
+
+
+
+
+
+Starting around March 15, their orbital altitude started to decrease at varying rates: most gradually, but at least two more steeply, descending to about 365 kilometers. All 21 remain in orbit, but that unusual behavior prompted speculation of problems with the satellites.
+
+
+
+
+
+The tweet by Musk was the first comment by him or SpaceX confirming problems with the satellites, although neither he nor the company have elaborated on what those problems are.
+
+
+The Group 6-1 satellites are the first of what SpaceX calls “V2 Mini” versions of Starlink satellites. They are significantly larger than the first-generation Starlink satellites that SpaceX has launched more than 4,000 of to date.
+
+
+
+
+
+The spacecraft feature improved phased-array antennas and use of E-band frequencies for backhaul that gives each satellite four times the capacity of earlier spacecraft. They also have new higher-performance electric thrusters that use argon, rather than krypton, propellant to reduce costs.
+
+
+
+
+
+SpaceX hasn’t released specifics about the V2 Mini satellites, but a design called “F9-2” in filings the company made with the Federal Communications Commission as part of its application for the second-generation constellation describes a spacecraft with a mass of 800 kilograms and a pair of solar arrays 12.8 meters long. First-generation satellites weigh about 300 kilograms and have a single array eight meters long.
+
+
+
+
+
+
+This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023
+
+As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  “Lot of new technology in Starlink V2, so we’re experiencing some issues, as expected,” he wrote. “Some sats will be deorbited, others will be tested thoroughly before raising altitude above Space Station.”
+
+
+
+
+
+The 21 satellites, collectively known as Group 6-1, started raising their orbits a couple days after being deployed into orbits nearly 370 kilometers high. However, the satellites halted their orbit raising a few days later, maintaining orbits at altitudes of about 380 kilometers. The International Space Station is an orbit between 415 and 420 kilometers high.
+
+
+
+
+
+Starting around March 15, their orbital altitude started to decrease at varying rates: most gradually, but at least two more steeply, descending to about 365 kilometers. All 21 remain in orbit, but that unusual behavior prompted speculation of problems with the satellites.
+
+
+
+
+
+The tweet by Musk was the first comment by him or SpaceX confirming problems with the satellites, although neither he nor the company have elaborated on what those problems are.
+
+
+The Group 6-1 satellites are the first of what SpaceX calls “V2 Mini” versions of Starlink satellites. They are significantly larger than the first-generation Starlink satellites that SpaceX has launched more than 4,000 of to date.
+
+
+
+
+
+The spacecraft feature improved phased-array antennas and use of E-band frequencies for backhaul that gives each satellite four times the capacity of earlier spacecraft. They also have new higher-performance electric thrusters that use argon, rather than krypton, propellant to reduce costs.
+
+
+
+
+
+SpaceX hasn’t released specifics about the V2 Mini satellites, but a design called “F9-2” in filings the company made with the Federal Communications Commission as part of its application for the second-generation constellation describes a spacecraft with a mass of 800 kilograms and a pair of solar arrays 12.8 meters long. First-generation satellites weigh about 300 kilograms and have a single array eight meters long.
+
+
+
+
+
+
+This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023
+
+As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  The 21 satellites, collectively known as Group 6-1, started raising their orbits a couple days after being deployed into orbits nearly 370 kilometers high. However, the satellites halted their orbit raising a few days later, maintaining orbits at altitudes of about 380 kilometers. The International Space Station is an orbit between 415 and 420 kilometers high.
+
+
+
+
+
+Starting around March 15, their orbital altitude started to decrease at varying rates: most gradually, but at least two more steeply, descending to about 365 kilometers. All 21 remain in orbit, but that unusual behavior prompted speculation of problems with the satellites.
+
+
+
+
+
+The tweet by Musk was the first comment by him or SpaceX confirming problems with the satellites, although neither he nor the company have elaborated on what those problems are.
+
+
+The Group 6-1 satellites are the first of what SpaceX calls “V2 Mini” versions of Starlink satellites. They are significantly larger than the first-generation Starlink satellites that SpaceX has launched more than 4,000 of to date.
+
+
+
+
+
+The spacecraft feature improved phased-array antennas and use of E-band frequencies for backhaul that gives each satellite four times the capacity of earlier spacecraft. They also have new higher-performance electric thrusters that use argon, rather than krypton, propellant to reduce costs.
+
+
+
+
+
+SpaceX hasn’t released specifics about the V2 Mini satellites, but a design called “F9-2” in filings the company made with the Federal Communications Commission as part of its application for the second-generation constellation describes a spacecraft with a mass of 800 kilograms and a pair of solar arrays 12.8 meters long. First-generation satellites weigh about 300 kilograms and have a single array eight meters long.
+
+
+
+
+
+
+This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023
+
+As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  Starting around March 15, their orbital altitude started to decrease at varying rates: most gradually, but at least two more steeply, descending to about 365 kilometers. All 21 remain in orbit, but that unusual behavior prompted speculation of problems with the satellites.
+
+
+
+
+
+The tweet by Musk was the first comment by him or SpaceX confirming problems with the satellites, although neither he nor the company have elaborated on what those problems are.
+
+
+The Group 6-1 satellites are the first of what SpaceX calls “V2 Mini” versions of Starlink satellites. They are significantly larger than the first-generation Starlink satellites that SpaceX has launched more than 4,000 of to date.
+
+
+
+
+
+The spacecraft feature improved phased-array antennas and use of E-band frequencies for backhaul that gives each satellite four times the capacity of earlier spacecraft. They also have new higher-performance electric thrusters that use argon, rather than krypton, propellant to reduce costs.
+
+
+
+
+
+SpaceX hasn’t released specifics about the V2 Mini satellites, but a design called “F9-2” in filings the company made with the Federal Communications Commission as part of its application for the second-generation constellation describes a spacecraft with a mass of 800 kilograms and a pair of solar arrays 12.8 meters long. First-generation satellites weigh about 300 kilograms and have a single array eight meters long.
+
+
+
+
+
+
+This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023
+
+As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  The tweet by Musk was the first comment by him or SpaceX confirming problems with the satellites, although neither he nor the company have elaborated on what those problems are.
+
+ The Group 6-1 satellites are the first of what SpaceX calls “V2 Mini” versions of Starlink satellites. They are significantly larger than the first-generation Starlink satellites that SpaceX has launched more than 4,000 of to date.
+
+
+
+
+
+The spacecraft feature improved phased-array antennas and use of E-band frequencies for backhaul that gives each satellite four times the capacity of earlier spacecraft. They also have new higher-performance electric thrusters that use argon, rather than krypton, propellant to reduce costs.
+
+
+
+
+
+SpaceX hasn’t released specifics about the V2 Mini satellites, but a design called “F9-2” in filings the company made with the Federal Communications Commission as part of its application for the second-generation constellation describes a spacecraft with a mass of 800 kilograms and a pair of solar arrays 12.8 meters long. First-generation satellites weigh about 300 kilograms and have a single array eight meters long.
+
+
+
+
+
+
+This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023
+
+As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  The spacecraft feature improved phased-array antennas and use of E-band frequencies for backhaul that gives each satellite four times the capacity of earlier spacecraft. They also have new higher-performance electric thrusters that use argon, rather than krypton, propellant to reduce costs.
+
+
+
+
+
+SpaceX hasn’t released specifics about the V2 Mini satellites, but a design called “F9-2” in filings the company made with the Federal Communications Commission as part of its application for the second-generation constellation describes a spacecraft with a mass of 800 kilograms and a pair of solar arrays 12.8 meters long. First-generation satellites weigh about 300 kilograms and have a single array eight meters long.
+
+
+
+
+
+
+This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023
+
+As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  SpaceX hasn’t released specifics about the V2 Mini satellites, but a design called “F9-2” in filings the company made with the Federal Communications Commission as part of its application for the second-generation constellation describes a spacecraft with a mass of 800 kilograms and a pair of solar arrays 12.8 meters long. First-generation satellites weigh about 300 kilograms and have a single array eight meters long.
+
+
+
+
+
+
+This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023
+
+As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  This is a prime example of a successful solar panel deployment! Congrats on the launch @SpaceX.Our space-based sensors captured a newly launched Starlink V2 Mini satellite 7 days after deployment.Powered by @Satellogic pic.twitter.com/Fj5NwDOC71
+
+— HEO Robotics (@heorobotics) March 7, 2023 As the name suggests, the V2 Mini spacecraft are scaled-down versions of the ultimate V2 Starlink satellites, which will weigh about 2,000 kilograms each with solar arrays 20 meters long. Those spacecraft will launch on SpaceX’s Starship vehicle, while the V2 Mini spacecraft are small enough to be launched on Falcon 9 rockets.
+
+
+
+
+
+The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  The FCC partially authorized SpaceX’s second-generation, or Gen2, Starlink constellation in December, allowing the company to launch 7,500 of its proposed 30,000 satellites into orbits ranging from 525 to 535 kilometers. SpaceX has since launched four sets of “Group 5” satellites into Gen2 orbits authorized by the FCC, but those appear to be effectively identical to earlier Starlink satellites.
+
+
+
+
+
+Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  Another Group 5 launch is scheduled for as soon as March 24 from Cape Canaveral Space Force Station in Florida. A second set of V2 Mini satellites, Group 6-2, is scheduled to launch no earlier than March 30, also from Cape Canaveral, but it is uncertain if the issues with the V2 Mini satellites in orbit will delay that launch.
+
+
+
+
+Related
+  
+							Jeff Foust writes about space policy, commercial space, and related topics for SpaceNews.
+
+He earned a Ph.D. in planetary sciences from the Massachusetts Institute of Technology and a bachelor’s degree with honors in geophysics and planetary science...							
+							More by Jeff Foust							
+ all dispatches >> all events >> Get top stories, military space news and more delivered to your inbox.

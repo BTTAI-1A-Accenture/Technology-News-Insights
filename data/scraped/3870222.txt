@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://cointelegraph.com/news/layerzero-raises-120m-to-expand-cross-chain-messaging-efforts

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.therecord.com/news/waterloo-region/chef-dan-mccowan-shaping-the-next-generation-of-culinary-professionals/article_cf864606-38ba-5b44-8fb0-e4a8096e496b.html

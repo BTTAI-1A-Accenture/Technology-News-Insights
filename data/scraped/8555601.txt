@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.sporttechie.com', port=443): Max retries exceeded with url: /toca-football-acquisition-total-sports (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/alert-the-m-a-class-action-firm-continues-investigating-the-merger-aqua-kbal-rocc-dsey/article_1fd310e7-3073-5b07-a16a-98654d74efaa.html

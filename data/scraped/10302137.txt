@@ -1,0 +1,41 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. James Munro discusses ArcticDB and the practicalities of building a performant time-series datastore and why transactions, particularly the Isolation in ACID is just not worth it. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+Descaling for Delivery and Using AI to Enhance Software Development: Learnings from QCon New York
+ Jul 10, 2023
+								
+								
+								
+									
+									4
+									min read
+								
+							 by 
+
+
+Ben Linders
+
+ The track Optimizing Teams for Fast Flow - Surviving in the Post-agile Aftermath at QCon New York 2023 comprised two talks in the morning that went into replacing an agile process with engineering and conversational software delivery using AI. Bryan Finster gave a talk about Agile Rehab: Engineering for Improved Delivery. The biggest problem in software delivery is applying solutions to problems we don’t understand, Finster said. If you want to use agile practices, first think about why you want to use them and what’s wrong that needs to be solved, he said. The main problem they had was uncertainty, where they needed to engineer solutions to deliver better value. The approach taken was to descale for delivery using domain-driven design. They decomposed their system into subdomains, define interfaces, and looked at the dependencies. Next, they did a reverse Conway maneuver to shape the organization toward the desired architecture. They assigned parts of the system to product teams and created a small platform team. To drive improvements, they defined practices, Finster explained. These practices were that parts of the system should be independently deployable, where coordination is done through API. They also mandated a 90% test coverage level, but that didn’t work out as expected, Finster said. It resulted in many meaningless tests. He stressed to avoid that. To implement continuous delivery (CD), Finster created a dependency map of the practices described in the book. This map showed which practices should be in place to enable other practices. Finster mentioned that CD has some automation, but it is mostly about behavior, he said. The approach taken was called "minimum viable process." They started with no process and only added what added value, Finster mentioned. Some examples were refining work as a team, pairing, and synchronous code reviews. They stopped doing retrospectives. Instead, they had daily inspections and improvements. Don’t mandate code coverage, Finster said. Their testing "sucked" and tests were flaky while having 90% coverage. They had pointless unit tests and testing lagged development. Their main problems with testing were a lack of testing knowledge and vague requirements. They started with BDD, defining requirements as acceptance tests, which turned out to be powerful for the problems they had with requirements. They aimed for thin slices of work, something that could be completed in less than two days. Finster mentioned that they designed their pipeline for operations. CD is there to respond to incidents and safely solve problems in operations, he said. They always use their emergency process. One outcome of the approach that they took was that they became dependable because all of the work was small. Another outcome was that their engineers loved development again. Finster mentioned some of the lessons learned: Lee Rehwinkel and Katharine Chajka delved into how artificial intelligence (AI) can help enhance the software development process by adopting AI as a Value Stream Agent in their talk Leveraging AI to Identify and Address Inefficiencies in Your Delivery. Chajka demonstrated a value stream map, revealing that only a small portion of organizations’ time (8%) is spent on actual code writing. She argued that even if AI were to minimize the code-writing time to zero, it would barely affect the overall timeframe of developing new software features. This is because most time in the software delivery process is consumed by planning, designing, testing, and releasing tasks. Going beyond code-writing, Chajka showed how AI can also play a significant role in managing the value stream. She proposed that AI could aid in identifying bottlenecks where work isn’t progressing smoothly and take measures to streamline the delivery process. Rehwinkel expounded on how AI can eliminate technical jargon from value stream management, making it more accessible across the organization. AI enables team members to communicate in layman’s terms, thereby avoiding technical language that might be only understandable to those with a background in value stream management. Rehwinkel demonstrated a functional example of an AI Value Stream Agent using ChatGPT. The example began with a typical executive query like "what should I be worried about". ChatGPT was able to scrutinize flow metrics, identify trends, and generate an analysis. This analysis, although detailed, was loaded with technical jargon. Rehwinkel then used a second ChatGPT step to create an executive summary that translated the information into more understandable terms. He showed how ChatGPT can also serve as a "Truth Checker", ensuring that the drawn conclusions align with the underlying data. Rehwinkel highlighted some challenges his team faced while developing a production application using this methodology. The issues include time-consuming ChatGPT response chains, which could take up to several minutes and thus lead to a subpar user experience. He also noted that these AI models are susceptible to "jailbreaking", where users can manipulate their queries to alter the designated role of the ChatGPT model. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

@@ -1,0 +1,68 @@
+
+												  																			Computing and Information Sciences
+																		Doctor of Philosophy (Ph.D.) Degree
+ 
+Request Info about graduate study 
+Visit
+Apply
+ The Ph.D. in computing and information sciences is a research degree that produces independent scholars, cutting-edge researchers, and well-prepared educators. You'll study with RIT's world-class computing faculty and take advantage of diverse academic offerings and modern facilities as you identify and research challenges within and beyond computing.  
+                    100%
+ 
+                      Outcomes Rate of RIT Graduates from this degree
+                      
+ In the computing and information sciences Ph.D., you will conduct both foundational and applied research to address diverse and important challenges within and beyond computing and benefit from world-class faculty, diverse academic offerings, and modern facilities. Our graduates are poised to excel in both computing and interdisciplinary environments in academia, government, and industry. The doctoral program highlights two of the most unique characteristics of the Golisano College for Computing and Information Sciences: its breadth of program offerings and its scholarly focus on discovering solutions to real-world problems by balancing theory and practice. The program brings together faculty from disciplines throughout the college’s five departments and schools: Computer Science, Cybersecurity, the School of Information, the School of Interactive Games and Media, and Software Engineering. The Ph.D. in computing and information sciences focuses on the theoretical and practical aspects of cyberinfrastructure as applied to specific problems across multiple domains. It is a blend of intra-disciplinary computing knowledge areas and inter-disciplinary domain areas. Cyberinfrastructure is the comprehensive integration of hardware, data, networks, and digitally-enabled sensors to provide secure, efficient, reliable, accessible, usable, and interoperable suites of software and middleware services and tools. The doctorate program plays a leadership role in cyberinfrastructure research by providing human-centered tools for the science and engineering communities. These tools and services focus on such areas as high-performance computing, data analysis and visualization, cyber-services and virtual environments, and learning and knowledge management. There are three intradisciplinary computing knowledge areas: infrastructure, interaction, and informatics. Infrastructure comprises aspects related to hardware, software (both system software and applications), communications technology, and their integration with computing systems through applications. The focus is on the best organization of these elements to provide optimal architectural solutions. On the hardware side, it includes system-level design (e.g., for system-on-a-chip solutions) and their building block components. On the software side it covers all aspects of systems and applications software development, including specification and design languages and standards; validation and prototyping, and multi-dimensional Quality-of-Service management; software product lines, model-driven architectures, component-based development, and domain-specific languages; and product estimation, tracking, and oversight. The communications subtopic includes sensor networks and protocols; active, wireless, mobile, configurable, and high-speed networks; and network security and privacy, quality of service, reliability, service discovery, and integration and inter-networking across heterogeneous networks. At the system level, there are issues related to conformance and certification; system dependability, fault tolerance, verifiable adaptability, and reconfigurable systems; real-time, self-adaptive, self-organizing, autonomic systems. Some of the specialties available in this area are networks and security, digital systems and VLSI, software design and productivity, and systems software. Interaction refers to topics related to the combined action of two or more entities (human or computational) that affect one another and work together when facilitated by technology. It encompasses several subtopics relating to how people and technology interact and interface. Several common threads weave through all of these areas, many of which rely heavily and build upon foundations in the social and behavioral sciences with an emphasis on understanding human and social/organizational phenomena. To some extent, these fields follow an engineering approach to the design of interactions in which solutions are based on rules and principles derived from research and practice but require analyses that go beyond the analytical approach. From this perspective, solutions can be measured and evaluated against goals and intended outcomes. However, while efficiency and effectiveness are often the watchwords of these fields in practice, this is also where science meets art in computing. Creative design and sensitivity to human needs and aesthetics are critical. Some of the specialties available in this area are human-computer interaction, computer-based instructional systems, and access technologies. Informatics is the study of computational/algorithmic techniques applied to the management and understanding of data-intensive systems. It focuses on the capture, storage, processing, analysis, and interpretation of data. Topics include algorithms, complexity, and discovery informatics. Data storage and processing require investigation into tools and techniques for modeling, storage, and retrieval. Analysis and understanding require the development of tools and techniques for the symbolic modeling, simulation, and visualization of data. The increased complexity of managing vast amounts of data requires a better understanding of the fundamentals of computation. These fundamentals include complexity, theory to determine the inherent limits of computation, communication, cryptography, and the design and analysis of algorithms to obtain optimal solutions within the limits identified. Some of the specialties available in this area are core informatics, discovery informatics, and intelligent systems. The program focuses on domain-specific computing, or the interaction between computing and non-computing disciplines, in the areas of science, engineering, medicine, arts, humanities, and business. By incorporating domain-specific computing, the research conducted in this program applies computing and information science principles to the solution of problems in application domains that lie outside the scope of the traditional computing discipline. The research requirement incorporates fundamental concepts in cyberinfrastructure that are necessary for understanding the problems commonly encountered in advancing scientific discovery and product development in cross-disciplinary domains. The Ph.D. in information science requires a minimum of 60 credit hours beyond the baccalaureate level comprised of graduate-level course work, including seminar attendance and research credits. Students complete required foundation and core elective courses and teaching skills courses. Elective courses provide foundation support for the student's dissertation research area. These courses come from cyberinfrastructure courses, domain courses, and other electives. Students are required to conduct original research that leads to peer-reviewed publications. Each student must pass three assessment examinations in the following order: 1. Research potential assessment: qualifying exam Completed after the first year, this assessment evaluates the research tasks students have worked on in their first year in the program. Passing this assessment will qualify students to continue in the doctoral program. 2. Thesis proposal defense: candidacy exam This is an oral examination completed after the thesis proposal is written. Formal admission to candidacy will be granted after successfully passing the research potential assessment requirement and having a research proposal approved by the dissertation committee. The dissertation committee will have a minimum of four members including the student's adviser. 3. Dissertation defense This is the final examination. The dissertation defense includes the dissertation committee and an optional external reader from outside RIT. The exam consists of a formal, oral presentation of the thesis research by the student, followed by questions from the audience. 
+Request Info about graduate study 
+Visit
+Apply
+ Our faculty and students conduct research to change how we live, work, and interact, focusing on both novel computing technology and how computing can support, facilitate, enable, and inspire progress in other domains. 
+              Haibo
+              Yang
+             
+              Rui
+              Li
+             
+              Linwei
+              Wang
+             Computing Ph.D. Student Leads Groundbreaking Research with KAIST Interaction Lab 
+											Jiangnan Xu									 
+							
+																								Jiangnan Xu travels to Korea with the School of Interactive Games and Media to study the intersection of AI and the Metaverse.
+																					 Blurring the Lines of Artificial Intelligence and Biomedicine Research 
+											Linwei Wang									 
+							
+																																	Linwei Wang, professor of computing and recipient of the Presidential Early Career Award for Scientists and Engineers (PECASE), is using artificial intelligence to advance non-invasive personalized...
+																					 
+			April 25, 2024
+		 
+						 Cybersecurity professor and Ph.D. students to present autonomous driving research at ACM MobiSys ’24 Conference
+					 Fawad Ahmad, assistant professor in the Department of Computer Science and ESL Global Cybersecurity Institute at RIT, along with computing and information sciences Ph.D. candidates Kaleem Nawaz Khan and Ali Khalid, will present new research at the prestigious ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys’24 Conference) in June. 
+			March 21, 2024
+		 
+						RIT game design and development programs ranked among top 10
+					 RIT is one of the top 10 universities for students looking to land their dream job as a game designer, according to new international rankings from The Princeton Review. 
+			February 1, 2024
+		 
+						RIT working on ‘De-Fake’ project to detect what’s real on the internet    WROC-TV talks to John Sohrawardi, a cybersecurity Ph.D. student, about the dangers of deepfake imagery. Current Students: See Curriculum Requirements This program is available on-campus only. 
+															Full-time study is 9+ semester credit hours.
+																													International students requiring a visa to study at the RIT Rochester campus must study full‑time.
+													 To be considered for admission to the Computing and Information Sciences Ph.D. program, candidates must fulfill the following requirements: International applicants whose native language is not English must submit one of the following official English language test scores. Some international applicants may be considered for an
+									English test requirement waiver. International students below the minimum requirement may be considered for conditional admission. Each program requires balanced sub-scores when determining an applicant’s need for additional English language courses. 
+How to Apply Start or Manage Your Application
+ An RIT graduate degree is an investment with lifelong returns. Ph.D. students typically receive full tuition and an RIT Graduate Assistantship that will consist of a research assistantship (stipend) or a teaching assistantship (salary). Here you will find additional resources for the Ph.D. Program in Computing and Information Sciences, such policies, procedures, technical resources, etc.View resources 
+				                	October 19				             
+Brick City Weekend- Golisano College: ESL Cyber Range Demos
+
+ Address and Phone 
+					One Lomb Memorial Drive
+					Rochester, NY 14623
+					585-475-2411
+				 
+				Copyright © Rochester Institute of Technology. All Rights Reserved.
+Land Acknowledgment.
+				Disclaimer.
+				Copyright Infringement.
+				Privacy Statement.
+				Nondiscrimination.
+				Accessibility.
+				Emergency Information.
+			

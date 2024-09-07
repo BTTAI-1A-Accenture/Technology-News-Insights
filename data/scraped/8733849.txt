@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.claytoncountyregister.com', port=443): Max retries exceeded with url: /news2/the-role-of-technology-in-transforming-banking-services-2/364358/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da9707a0e0>: Failed to resolve 'www.claytoncountyregister.com' ([Errno -2] Name or service not known)"))

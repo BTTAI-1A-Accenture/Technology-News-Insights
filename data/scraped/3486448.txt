@@ -1,0 +1,226 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » What Is Account Takeover Prevention? Preventing ATO Fraud Account takeover prevention actively reduces attack surfaces by which hackers can break into and use system accounts for malicious purposes. Account takeover (ATO) refers to identity theft, where an attacker gains access to a user’s account. This can be any account, including those associated with online banking or an enterprise platform. Account takeover is often a lengthy process, following a few common steps: Account takeovers are a severe security issue that can significantly impact the immediate and future sense. Hackers can use several methods to execute account takeover attacks. More importantly, very few attacks utilize a single technique–sometimes single attacks are used to breach an account, but more often than not several forms of attack are strung together to trick users and gain access to their information. Here are some common ones: Not all of these attacks are the user’s fault (especially related to data breaches). Still, it is often the case that user behavior can be one of the most significant contributors to account takeover threats. Detecting account takeover can sometimes be challenging because perpetrators often try to hide their activities (and, in the case of advanced persistent threats, these efforts are very sophisticated). However, there are several tell-tale signals for account takeover.
+Some of these signs include: Preventing account takeover fraud involves passive and proactive measures to secure personal and financial information. Enterprises can take several measures to prevent account takeover attempts. Here are some key strategies: Account takeover is a serious problem for enterprise organizations with extensive IT infrastructure. A compromised account can seriously impact the organization from further phishing attacks, escalated privilege attacks, or lateral movement through the sensitive assets connected to that account. With 1Kosmos BlockID, you can mitigate common threats to accounts that lead to a takeover by removing the weak points common to authentication security–namely, passwords and poor identity management. With BlockID, you can fight account takeover with the following features: Sign up for our newsletter to learn more about how BlockID can support real security and help mitigate account takeover. Also, watch our webinar on Combating Synthetic Identity Fraud and hear from our CMO on how to Modernize Onboarding. The post What Is Account Takeover Prevention? Preventing ATO Fraud appeared first on 1Kosmos. *** This is a Security Bloggers Network syndicated blog from Identity &amp; Authentication Blog authored by Robert MacDonald. Read the original post at: https://www.1kosmos.com/identity-management/account-takeover-protection/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

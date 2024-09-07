@@ -1,0 +1,25 @@
+Home » Press Release 
+Algolia, the world’s only end-to-end AI Search and Discovery platform, today unveiled its new Merchandising Studio, a no-code interface that uses Algolia’s advanced AI technology to give merchandisers a range of powerful tools to enhance their business outcomes in real-time at every stage of the shopper’s journey.
+ 
+The Merchandising Studio provides digital merchandisers with several new capabilities, including no-code automation tools that eliminate repetitive, manual tasks. Category-level analytics and discovery channel data are used to pinpoint optimization opportunities. Equipped with the tool’s powerful insights, merchandisers can deliver highly engaged online experiences, boost customer loyalty, and drive higher conversion rates.
+ 
+Katherine Lee, online trading executive, Fortnum & Mason, noted: “The Algolia Merchandising Studio has helped visualize our data in a more concise and in-depth manner. In just two clicks, it also enables us to interpret our analytics and create rules based on visualizing customer queries. This capability allows my team to adapt to customer behavior trends swiftly and strategically.”
+ 
+The Merchandising Studio can be activated in minutes without disrupting a retailer’s ongoing operations. Algolia’s fast indexing capabilities and data infrastructure on the back-end helps ensure that merchandisers can also scale without constraint.
+ 
+Lee continued, “A stand-out feature for us has been the analytics section, especially the category pages, where we have been able to precisely see at a quick glance how customers shop on our product listing pages and make commercial changes based on this, to optimize our customer experience. We are excited to use The Merchandising Studio further, working with Algolia to help meet our business goals.”
+ 
+In addition, Algolia’s AI-powered dynamic re-ranking functionality continuously makes data-driven decisions while factoring in business rules as overrides. The Merchandising Studio’s ‘knowledge hub’ serves as a central merchandising playbook for best practices, tips, and expertise from the Algolia team.
+ 
+Mike Marcoux, eCommerce manager, Shinesty said: “Algolia’s Merchandising Studio gives merchandisers unparalleled control by surfacing insights and automating their promotions, ensuring the right customers see the right products at the right time. Not only does this tool help my team create superior shopping experiences, but the reimagined view of key metrics provides a meaningful look at how our campaigns are performing and alerts us of optimization opportunities.”
+ 
+Bharat Guruprakash, chief product officer, Algolia, commented: “The Algolia Merchandising Studio provides merchandisers with full control to create the optimal blend of manual and automation for the right strategy to suit their business. The studio solves three of the biggest problems merchandisers face today: the labor-intensive upkeep that comes with manual tools, data and process fragmentation, and suboptimal customer experience. By offering a centralized view of all campaign KPIs and powering real-time, data-driven insights, digital merchandisers have everything they need to identify patterns and optimize their strategies for success quickly.”
+ 
+Algolia will attend Shoptalk in Las Vegas (March 26-29, 2023) and is offering demonstrations of the Merchandising Studio at booth #1515. Sign up for demos here: https://www.algolia.com/lp/event-shoptalk-2023/
+ 
+The Algolia Merchandising Studio is available at no additional cost for customers on the Company’s premium plan and is accessible from the workspace switcher within the Algolia Dashboard. For customers not yet on the premium plan, contact Algolia directly to learn more here.
+ 
+About Algolia
+ 
+Algolia is the world’s only end-to-end AI search and discovery platform. Our engineers invented a breakthrough use of AI to create exponentially better search & discovery. Algolia’s proprietary NeuralSearch tech combines vector-based natural language processing & keyword matching in a single API. Algolia powers 1.75 Trillion search requests a year or more than 30 Billion a week enabling more than 17,000 customers (including Under Armour, Stripe, Petsmart, Walgreens, Proctor & Gamble, Sony, NBC Universal, British Telecom and Citibank) in 150+ countries to build blazing fast and relevant search and discovery experiences for their in-app users and/or online visitors using any web, mobile or voice device – by surfacing the desired content instantly and at scale.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230320005475/en/

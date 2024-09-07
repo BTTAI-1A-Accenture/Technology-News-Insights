@@ -1,0 +1,48 @@
+SANTA ROSA, Calif.--(BUSINESS WIRE)--Keysight Technologies, Inc. (NYSE: KEYS) and Synopsys, Inc. are partnering to provide internet of things (IoT) device makers with a comprehensive cybersecurity assessment solution to ensure consumers are protected when devices are shipped to market. Under the arrangement, the Synopsys Defensics® fuzzing tool will be embedded as an option into the Keysight IoT Security Assessment solution.
+
+ 
+The global IoT device market is experiencing notable growth due to the rise in adoption of IoT devices and is projected to reach a market value of $413.7 billion by 2031. According to Palo Alto Networks IoT Threat Report, the vulnerability of IoT devices makes them easy targets with 57% of IoT devices at risk of medium or high-severity attacks. With the proliferation of devices and of IoT cyberattacks, device makers are increasingly in need of assessment tools to identify and remediate device security vulnerabilities. One component of an effective, comprehensive security assessment is fuzzing, an automated software testing method that injects invalid, malformed, or unexpected inputs into a device to reveal defects and vulnerabilities.
+
+ 
+With the addition of Defensics to the Keysight IoT Security Assessment, users now have a complete, comprehensive solution that combines known vulnerability assessments with a versatile fuzzer that can analyze over 300 different technology protocols used across diverse industries to quickly test for unknown vulnerabilities and weaknesses. In addition to reporting security flaws uncovered through fuzzing, the solution detects potential exploits resulting from weak authentication and encryption, expired certificates, Android vulnerabilities and Android Debug Bridge (ADB) exposures, known Common Vulnerabilities and Exposures (CVEs), and embedded flaws in protocol stacks, such as Bluetooth Low Energy attacks like Sweyntooth and Braktooth.
+
+ 
+In addition, the Keysight IoT Security Assessment solution makes it easy and cost-effective for manufacturers to test IoT devices now and achieve the new White House Cyber Trust Mark certification when it is released. This turnkey cybersecurity certification platform enables automated validation through a point-and-click interface, allowing device makers to quickly bring new IoT products to market without hiring a large team of cybersecurity experts.
+
+ 
+Scott Johnson, Vice President of Product Management, Synopsys Software Integrity Group, said: “With billions of IoT devices in use and more on the way, security testing is more critical than ever to address new threats and evolving regulations. Our collaboration with Keysight will provide a comprehensive solution for customers that combines hardware and Defensics fuzz testing software to conduct automated IoT security testing.”
+
+ 
+Ram Periakaruppan, Vice President and General Manager, Network Test & Security Solutions, Keysight, said: “Securing IoT devices against attacks has become exponentially more difficult for manufacturers with the demand for new devices and increased functionality. By partnering with Synopsys to add their best-of-breed fuzzing tool, Keysight can provide device makers with a comprehensive security testing solution to identify previously unknown protocol stack vulnerabilities in their devices while assessing them for known threats, all from a single, easy-to-use interface.”
+
+ 
+Resources
+ 
+About Keysight Technologies
+ 
+At Keysight (NYSE: KEYS), we inspire and empower innovators to bring world-changing technologies to life. As an S&P 500 company, we’re delivering market-leading design, emulation, and test solutions to help engineers develop and deploy faster, with less risk, throughout the entire product lifecycle. We’re a global innovation partner enabling customers in communications, industrial automation, aerospace and defense, automotive, semiconductor, and general electronics markets to accelerate innovation to connect and secure the world. Learn more at Keysight Newsroom and www.keysight.com.
+
+ 
+Keysight Media Contacts
+ 
+Paul Erwin
+Americas/Europe
++1 248 430 9075
+paul.erwin@keysight.com
+ 
+Fusako Dohi
+Asia
++81 42 660-2162
+fusako_dohi@keysight.com
+ 
+Keysight Media Contacts
+ 
+Paul Erwin
+Americas/Europe
++1 248 430 9075
+paul.erwin@keysight.com
+ 
+Fusako Dohi
+Asia
++81 42 660-2162
+fusako_dohi@keysight.com

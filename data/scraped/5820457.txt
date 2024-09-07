@@ -1,0 +1,7 @@
+Os desenvolvedores do Google melhoraram o sistema de busca no aplicativo móvel Gmail, tornando mais fácil para os usuários do serviço encontrar as mensagens de que precisam. Agora, para analisar as consultas de pesquisa dentro da caixa de correio, será utilizado um algoritmo especial baseado em uma rede neural, que permite produzir resultados relevantes o mais rápido possível.  “Fonte da imagem: Firmbee.com/unsplash.com” O algoritmo AI analisa a consulta de pesquisa, os e-mails armazenados na caixa de entrada e “outros fatores relevantes” para determinar quais e-mails são mais relevantes para a consulta. Esse recurso será implementado gradualmente e será implementado para todos os usuários do Gmail em dispositivos Android e iOS nas próximas semanas. “Melhorar a busca do Gmail com um algoritmo de IA não foi a primeira inovação que apareceu no serviço de e-mail do Google nos últimos tempos. Em fevereiro deste ano, foi lançada a nova interface do Gmail, mais moderna e focada em outras ferramentas da empresa para melhorar a produtividade, foi concluído. O Google também anunciou no mês passado que as contas inativas por dois anos serão excluídas junto com todo o conteúdo, incluindo dados da caixa de correio.”  O seu endereço de e-mail não será publicado. Campos obrigatórios são marcados com * Comentário *  Nome *  E-mail *  Site   Salvar meus dados neste navegador para a próxima vez que eu comentar.  
+
+ 
+
+Proudly powered by WordPress 
+ | 
+Theme: Newsup by Themeansar. 

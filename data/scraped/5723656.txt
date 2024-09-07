@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/eys3d-hits-ces-computer-vision-213100950.html

@@ -1,0 +1,29 @@
+
+                    Gettyimages.com/	Busakorn Pongparnit
+                   Sign up for our newsletter  Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Nick Wakeman
+ The Defense Advanced Research Projects Area is looking for ways to better mine the business systems and processes used by the Pentagon and where vulnerabilities might be. These aren’t necessarily cybersecurity vulnerabilities, but places where the processes breakdown. A new broad agency announcement.describes how DARPA wants to develop tools that can identify logic faults and vulnerabilities in the business systems that control and manage defense workflows involving manufacturing, infrastructure and logistics. Both DOD and companies use those systems. The so-called “business logic” software systems are written by the likes of SAP, Oracle, Workday, IBM and Salesforce. DARPA describes those systems as having control over "most of the world’s enterprises, from administration and operation of seaports worldwide to the assembly of weapons systems." DARPA calls the use of these systems a “necessary operating tool in the way that the telephone shifted from technological innovation to a necessary tool in the 1920s.” Systematically finding the faults in these systems will increase resilience in manufacturing and communications and reduce inefficiencies in the supply chain, DARPA said. As an example of the problems that can occur, DARPA included the story of a production line that was shutdown for two weeks because a data entry error led managers to believe key components were unavailable. The broad agency announcement describes three technical areas DARPA is interested in: Proposals are due June 30. But before that date, DARPA plans to hold a proposers' day for May 9. Abstracts are due May 23. Questions are due June 9. Companies also have until May 4 to request a classified addendum to the BAA. DARPA plans to make awards in each of the technical areas.
+
+ 
+NEXT STORY:
+
+              AFRL wants white papers for $500M quantum information science solicitation
+            
+
+
+
+ 
+                  Insider Customer Service 
+                  800-353-9118 or 
+                  email washingtontechnology@omeda.com
+ Help us tailor content specifically for you:

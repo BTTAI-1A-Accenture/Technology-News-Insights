@@ -1,0 +1,61 @@
+
+After adopting cloud-based platforms in response to COVID-19, enterprises are working with Microsoft partners to unlock new capabilities, ISG Provider Lens™ report says
+ 
+Companies in the U.S. are turning to service providers for help getting more out of Microsoft platforms they quickly adopted during the COVID-19 pandemic, according to a new research report published today by Information Services Group (ISG) III, a leading global technology research and advisory firm.
+
+ 
+The 2023 ISG Provider Lens™ Microsoft Cloud Ecosystem report for the U.S. finds many enterprises invested heavily in platforms such as Microsoft 365, Power Platform and the Azure hyperscale cloud to keep their businesses running during the pandemic, when work and commerce moved largely online. Microsoft platforms garnered especially strong investment in the U.S., the source of half the company's revenue. Now, enterprises are looking to providers to help them use those tools to generate ongoing business value.
+
+ 
+"Microsoft enabled many U.S. companies to meet the pandemic head-on with cloud-based solutions," said Shriram Natarajan, director, Digital Business Transformation, for ISG. "Now it is playing a pivotal role in longer-term digital transformation."
+
+ 
+Fully implementing and integrating the Microsoft suite of platforms into an organization's business processes is often difficult due to high costs, lack of familiarity with the technology and a shortage of skills, ISG says. System integrators, IT providers, software vendors and advisory firms in the Microsoft cloud ecosystem address these challenges by providing strategies and solutions on top of several central Microsoft platforms.
+
+ 
+Microsoft 365, which solved many companies' immediate remote-work issues with a focus on employee communications and messaging, has taken on a larger role around employee experience and learning, the report says. As the evolving hybrid work environment and continuing tight labor market force companies to continuously transform their workplaces, providers are creating value-added solutions to meet these new expectations.
+
+ 
+Likewise, enterprises are engaging with providers to glean maximum value from Azure. Particularly in the U.S., with its strong cloud developer community, companies are moving to modern microservices architectures using containers and Kubernetes orchestration, ISG says. Companies are also migrating to Dynamics 365 from on-premises Microsoft Dynamics installations or other business platforms, such as SAP and Salesforce. Competitive providers address the potential of these migrations for both technology and business purposes.
+
+ 
+Microsoft Power Platform, which empowers employees to develop line-of-business applications with low-code/no-code tools, also benefits from third-party assistance, the report says. Providers address security and policy compliance issues and the need for access to data.
+
+ 
+"Ease of development is only one part of the puzzle," said Jan Erik Aase, partner and global leader, ISG Provider Lens Research. "Powerful analytics capabilities require the right data, which providers can help to make available from anywhere in an organization."
+
+ 
+The report also explores other trends in the U.S. Microsoft cloud ecosystem, including the maturing market for SAP on Azure and the importance of supporting multi-cloud environments.
+
+ 
+For more insights into the challenges faced by enterprises adopting Microsoft platforms, plus advice on the key capabilities to seek in a provider, see the ISG Provider Lens™ Focal Points briefing here.
+
+ 
+The 2023 ISG Provider Lens™ Microsoft Cloud Ecosystem report for the U.S. evaluates the capabilities of 37 providers across five quadrants: Managed Services for Azure, Microsoft 365 Services, SAP on Azure Services, Dynamics 365 Services and Power Platform Services.
+
+ 
+The report names Accenture & Avenade, Cognizant, DXC Technology, HCLTech, TCS and Wipro as Leaders in all five quadrants. It names Hexaware, Infosys and Kyndryl as Leaders in four quadrants each. Capgemini, LTIMindtree and NTT DATA are named as Leaders in three quadrants each.
+
+ 
+In addition, LTIMindtree is named as a Rising Star — a company with a "promising portfolio" and "high future potential" by ISG's definition — in one quadrant.
+
+ 
+A customized version of the report is available from Hexaware.
+
+ 
+The 2023 ISG Provider Lens™ Microsoft Cloud Ecosystem report for the U.S. is available to subscribers or for one-time purchase on this webpage.
+
+ 
+About ISG Provider Lens™ Research
+ 
+The ISG Provider Lens™ Quadrant research series is the only service provider evaluation of its kind to combine empirical, data-driven research and market analysis with the real-world experience and observations of ISG's global advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make recommendations to ISG's enterprise clients. The research currently covers providers offering their services globally, across Europe, as well as in the U.S., Canada, Brazil, the U.K., France, Benelux, Germany, Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For more information about ISG Provider Lens research, please visit this webpage.
+
+ 
+A companion research series, the ISG Provider Lens Archetype reports, offer a first-of-its-kind evaluation of providers from the perspective of specific buyer types.
+
+ 
+About ISG
+ 
+ISG (Information Services Group) III is a leading global technology research and advisory firm. A trusted business partner to more than 900 clients, including more than 75 of the world's top 100 enterprises, ISG is committed to helping corporations, public sector organizations, and service and technology providers achieve operational excellence and faster growth. The firm specializes in digital transformation services, including automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier services; strategy and operations design; change management; market intelligence and technology research and analysis. Founded in 2006, and based in Stamford, Conn., ISG employs more than 1,600 digital-ready professionals operating in more than 20 countries—a global team known for its innovative thinking, market influence, deep industry and technology expertise, and world-class research and analytical capabilities based on the industry's most comprehensive marketplace data. For more information, visit www.isg-one.com.
+
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230427005768/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

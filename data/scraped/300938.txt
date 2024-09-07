@@ -1,0 +1,7 @@
+
+																			Credit union leadership training: Leading different generations																		 
+																			How to create a health care directive and a durable power of attorney																		 
+																			How to streamline internal operations with automated loan payments																		 
+																			Getting B2B (Back2Branding)																		 
+																			How to streamline internal operations with automated loan payments																		 The Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) released a joint Cybersecurity Advisory (CSA) in response to the ongoing ransomware campaign, known as “ESXiArgs.” Malicious actors may be exploiting known vulnerabilities in VMware ESXi servers that are likely running unpatched and out-of-service or out-of-date versions of VMware ESXi software to gain access and deploy ransomware. The ESXiArgs ransomware encrypts configuration files on ESXi servers, potentially rendering virtual machines (VMs) unusable. CISA has released an ESXiArgs recovery script at github.com/cisagov/ESXiArgs-Recover. Organizations that have fallen victim to ESXiArgs ransomware can use this script to attempt to recover their files. This CSA provides guidance on how to use the script.
+ESXiArgs actors have compromised over 3,800 servers globally.   Delivered to the inboxes of thousands of credit union leaders daily.

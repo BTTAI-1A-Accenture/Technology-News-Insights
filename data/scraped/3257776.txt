@@ -1,0 +1,231 @@
+We would like to use cookies to collect information about how you use ons.gov.uk. We use this information to make the website work as well as possible and improve our services. 
+You’ve accepted all cookies. You can change your cookie settings at any time.
+Hide
+ 
+
+Data and analysis from Census 2021
+ 
+A measure of cross-border transactions between the UK and rest of the world. Includes trade, income, capital transfers and foreign assets and liabilities.
+ This is not the latest release.
+View latest release 
+Contact: Email Jamie Pritchard
+ 
+Release date: 22 December 2022
+ 
+Next release: 31 March 2023
+ 
+
+Print this 
+Statistical bulletin
+
+
+
+ 
+
+Download as PDF
+
+
+ The underlying UK current account deficit excluding precious metals reduced to £32.5 billion or 5.2% of gross domestic product (GDP) in Quarter 3 (July to Sept) 2022, a change of £0.9 billion from the previous quarter. The UK current account deficit, when trade in precious metals is included, reduced to £19.4 billion, or 3.1% of GDP in Quarter 3 2022. In Quarter 3 2022, the total trade deficit, excluding precious metals, reduced to £23.9 billion as the goods deficit expanded to £64.4 billion and services surplus expanded to £40.5 billion. The primary income account recorded a deficit position of £3.6 billion, or 0.6% of GDP in Quarter 3 2022. In Quarter 3 2022, the UK was a net lender to the rest of the world recording a net financial outflow of £2.9 billion after an inflow of £21.9 billion in Quarter 2 (Apr to June) 2022. The UK’s net international investment liability position narrowed to £151.4 billion from £419.5 billion in the previous quarter. 
+!
+
+Please note that all current account and trade figures exclude non-monetary gold (NMG) and other precious metals unless otherwise stated. This is because movements in NMG, an important component of precious metals, can be large and highly volatile, distorting underlying trends in goods exports and imports. 
+
+
+ Please note that all current account and trade figures exclude non-monetary gold (NMG) and other precious metals unless otherwise stated. This is because movements in NMG, an important component of precious metals, can be large and highly volatile, distorting underlying trends in goods exports and imports.  The UK’s current account balance is a measure of the country’s balance of payments with the rest of the world in trade, primary income and secondary income. Table 1 summarises the latest current account data for Quarter 3 (July to Sept) 2022. 
+
+
+
+
+
+Table 1: UK current account deficit narrowed in Quarter 3 (July to Sept) 2022Main current account flows and change compared with the previous quarter
+
+CreditsDebitsBalance 
+Total current accountValue (£bn)280.0312.5-32.5
+Change (bn)11.610.70.9
+Total trade in goods and servicesValue (£bn)205.9229.8-23.9
+Change (bn)10.15.44.7
+Total trade in goodsValue (£bn)102.5166.8-64.4
+Change (bn)4.55.3-0.8
+Total trade in servicesValue (£bn)103.563.040.5
+Change (bn)5.60.25.5
+Total primary incomeValue (£bn)66.269.7-3.6
+Change (bn)1.55.6-4.1
+Total secondary incomeValue (£bn)7.913.0-5.1
+Change (bn)0.0-0.40.4
+
+Source: Office for National Statistics - Balance of payments
+
+
+
+
+Download this table Table 1: UK current account deficit narrowed in Quarter 3 (July to Sept) 2022
+.xls
+.csv
+ Source: Office for National Statistics - Balance of payments The underlying current account deficit excluding precious metals narrowed in Quarter 3 2022 to £32.5 billion (5.2% of gross domestic product (GDP)) from a deficit of £33.5 billion (5.4%) in the previous quarter. 
+
+Figure 1: The UK’s current account deficit as a % of GDP narrowed in Quarter 3 2022
+Contributions to the UK’s current account balance as a percentage of gross domestic product (GDP), Quarter 4 (Oct to Dec) 2019 to Quarter 3 (July to Sept) 2022
+
+
+
+
+
+
+
+Source: Office for National Statistics – Balance of payments
+
+Notes:
+
+Sum of components may not sum to total because of rounding.
+Q1 refers to Quarter 1 (Jan to Mar), Q2 refers to Quarter 2 (Apr to June), Q3 refers to Quarter 3 (July to Sept) and Q4 refers to Quarter 4 (Oct to Dec).
+Caution should be taken when interpreting these data as HM Revenue and Customs changed the collection methods for EU trade in January 2021 and January 2022. Our article, Impact of trade in goods data collection changes on UK trade statistics: 2020 to 2022 and further information in our UK Trade bulletin, provide more detail. Adjustments have been made in this set of statistics, for more information please see Changes affecting UK trade statistics in Section 7: Measuring the data.
+
+
+Download this chart Figure 1: The UK’s current account deficit as a % of GDP narrowed in Quarter 3 2022
+Image
+
+.csv
+
+
+.xls
+
+
+ The total trade deficit decreased from £28.6 billion, 4.6% of GDP, in Quarter 2 (Apr to June) 2022 to £23.9 billion (3.8% of GDP) in Quarter 3 2022. The trade in services surplus increased by £5.5 billion in Quarter 3 2022, compared with the previous quarter, to £40.5 billion or 6.5% of GDP. Trade in goods recorded a deficit position of £64.4 billion, or 10.3% of GDP in Quarter 3 2022.  
+
+Figure 2: An increase in services exports narrowed the UK’s trade deficit in Quarter 3 2022
+Contributions to the UK’s trade balance, £ billion, Quarter 4 (Oct to Dec) 2019 to Quarter 3 (July to Sept) 2022
+
+
+
+
+
+
+
+Source: Office for National Statistics – Balance of payments
+
+Notes:
+
+Q1 refers to Quarter 1 (Jan to Mar), Q2 refers to Quarter 2 (Apr to June), Q3 refers to Quarter 3 (July to Sept) and Q4 refers to Quarter 4 (Oct to Dec).
+Caution should be taken when interpreting these data as HM Revenue and Customs changed the collection methods for EU trade in January 2021 and January 2022. Our article, Impact of trade in goods data collection changes on UK trade statistics: 2020 to 2022 and further information in our UK Trade bulletin, provide more detail. Adjustments have been made in this set of statistics, for more information please see Changes affecting UK trade statistics in Section 7: Measuring the data.
+
+
+Download this chart Figure 2: An increase in services exports narrowed the UK’s trade deficit in Quarter 3 2022
+Image
+
+.csv
+
+
+.xls
+
+
+ Trade in services strengthened its surplus position by £5.5 billion, increasing to a record £40.5 billion in Quarter 3 2022, as financial, other business and insurance and pensions service exports increased.  
+
+
+Embed code
+
+Embed this interactive
+
+
+Copy
+
+
+
+
+
+ .xlsx The goods deficit remained at record levels, increasing to £64.4 billion in Quarter 3 2022. Increasing imports in Quarter 3 2022 were driven by a £8.8 billion increase in oil and other fuel imports, which rose to £38.5 billion. The large increase in gas imports reflects rising gas prices; in August 2022 the System Average Price (SAP) of gas reached the highest peak in the series.  Goods export levels have also increased, to £102.5 billion, as finished manufactured goods trade increased by £2.5 billion and other fuels trade increased by £2.3 billion compared with the previous quarter.  
+More about economy, business and jobs   All ONS analysis, summarised in our economy, business and jobs roundup.  Explore the latest trends in employment, prices and trade in our economic dashboard.  View all economic data.  
+
+ More about economy, business and jobs   All ONS analysis, summarised in our economy, business and jobs roundup.  Explore the latest trends in employment, prices and trade in our economic dashboard.  View all economic data.   More about economy, business and jobs The primary income account records income the UK receives and pays on financial and other assets, along with compensation of employees. The primary income account recorded a deficit position of £3.6 billion, or 0.6% of GDP, in Quarter 3 2022. Earnings from direct investment abroad fell by £7.3 in Quarter 3 2022 after the favourable trading conditions reported in the previous quarter temporarily boosted returns on investment. Within other investment, earnings on both credits (£15.3 billion) and debits (£19.6 billion) increased as deposit levels increased over the quarter and rates of return were effected by bank rates increasing. 
+
+Figure 4: The primary income account switched to a deficit position in Quarter 3 2022
+Contributions to the UK’s primary income balance, £ billion, Quarter 4 (Oct to Dec) 2019 to Quarter 3 (July to Sept) 2022
+
+
+
+
+
+
+
+Source: Office for National Statistics – Balance of payments
+
+Notes:
+
+Q1 refers to Quarter 1 (Jan to Mar), Q2 refers to Quarter 2 (Apr to June), Q3 refers to Quarter 3 (July to Sept) and Q4 refers to Quarter 4 (Oct to Dec).
+Total includes reserve assets.
+
+
+Download this chart Figure 4: The primary income account switched to a deficit position in Quarter 3 2022
+Image
+
+.csv
+
+
+.xls
+
+
+ The secondary income account shows current transfers between residents and non-residents. The secondary income deficit decreased to 0.8% of GDP, as the UK continued to make payments to the EU, agreed as part of the financial settlement under the EU withdrawal agreement. A current account deficit places the UK as a net borrower with the rest of the world, indicating that overall expenditure in the UK exceeds national income. The UK must attract net financial inflows to finance its current (and capital) account deficit. This can be achieved through either disposing of overseas assets to overseas investors or accruing liabilities with the rest of the world. The net flows within the financial account are lower than the net borrowing from the rest of the world implied by the current account including precious metals deficit of £19.4 billion. The financial account recorded a net outflow of £2.9 billion in Quarter 3 (July to Sept) 2022, making the UK a lender to the rest of the world. The UK has been in an annual current account deficit since 1984, this deficit needs to be financed by borrowing from the rest of the world, an inflow in the financial account, by incurring additional liabilities or selling external assets. This position between the accounts and the associated reconciliation challenges are presented in our net errors and omissions. This highlights where we have not yet been able to show how all of the UK's net borrowing from the rest of the world has been financed. 
+
+Figure 5: The financial account recorded a net outflow to the rest of the world 
+UK financial account balances, Quarter 4 (Oct to Dec) 2019 to Quarter 3 (July to Sept) 2022
+
+
+
+
+
+
+
+Source: Office for National Statistics – Balance of payments
+
+Notes:
+
+Q1 refers to Quarter 1 (Jan to Mar), Q2 refers to Quarter 2 (Apr to June), Q3 refers to Quarter 3 (July to Sept) and Q4 refers to Quarter 4 (Oct to Dec).
+Total includes reserve assets.
+
+
+Download this chart Figure 5: The financial account recorded a net outflow to the rest of the world 
+Image
+
+.csv
+
+
+.xls
+
+
+ Net acquisition of UK assets increased by £103.3 billion in Quarter 3 2022. Direct investment assets abroad increased by £37.0 billion as £18.6 billion of foreign earnings were reinvested into foreign affiliates, strengthening equity positions. Portfolio investment assets decreased as UK investors continued to sell equity, to the value of £40.5 billion, while other investment assets abroad increased by £105.0 billion in the form of foreign currency loans and deposits. Net investment in the UK (liabilities) increased by £100.4 billion in Quarter 3 2022. The UK increased its liabilities to the rest of the world as non-residents decreased their ownership of UK debt securities by £39.7 billion and equity and investment fund shares by £12.8 billion. Direct investment liabilities increased by £44.6 billion as foreign investors increased positions in the UK and other investment liabilities increased by £108.3 billion. The international investment position (IIP) examines the UK’s balance sheet with the rest of the world, measuring the difference between the net stock of assets and liabilities.  In Quarter 3 (July to Sept) 2022, the IIP recorded a large decrease in the value of its net liability position to £151.4 billion from £419.5 billion in Quarter 2 (Apr to June) 2022.  
+
+Figure 6: The UK international investment net liability position decreased in Quarter 3 2022 as the British pound depreciated against other currencies
+UK net international investment position, Quarter 4 (Oct to Dec) 2019 to Quarter 3 (July to Sept) 2022
+
+
+
+
+
+
+
+Source: Office for National Statistics – Balance of payments
+
+Notes:
+
+Q1 refers to Quarter 1 (Jan to Mar), Q2 refers to Quarter 2 (Apr to June), Q3 refers to Quarter 3 (July to Sept) and Q4 refers to Quarter 4 (Oct to Dec).
+
+
+Download this chart Figure 6: The UK international investment net liability position decreased in Quarter 3 2022 as the British pound depreciated against other currencies
+Image
+
+.csv
+
+
+.xls
+
+
+ The UK asset position increased in Quarter 3 2022 and was valued at £14,988.7 billion at the end of the period. Many external assets denominated in a foreign currency saw a positive revaluation effect from the British pound falling against other currencies alongside acquisition of additional assets over the quarter. Direct investors increased their positions in the UK and deposits of foreign currency in UK banks saw a positive revaluation effect increasing the value of the UK liability position with the rest of the world to £15,140.1 billion. Disinvestment in government securities and a fall in the value of UK equity markets decreased portfolio investment liabilities. 
+Balance of payments Dataset | Released 22 December 2022 Quarterly summary of balance of payments accounts including the current account, capital transfers, transactions, and levels of UK external assets and liabilities.Balance of payments time series Dataset | Released 22 December 2022 Quarterly summary of balance of payments accounts including the current account, capital transfers, transactions and levels of UK external assets and liabilities.Balance of payments – revision triangles Dataset | Released 22 December 2022 Quarterly summary information on the size and direction of the revisions made to the data covering a five-year period, UK.UK Economic Accounts: all data Dataset | Released 22 December 2022 This is released at the same time as the UK balance of payments and provides supplementary tables for the balance of payments. The UK Economic Accounts also provides users with the perspective of the rest of world looking into the UK. 
+
+ Balance of payments Dataset | Released 22 December 2022 Quarterly summary of balance of payments accounts including the current account, capital transfers, transactions, and levels of UK external assets and liabilities. Balance of payments time series Dataset | Released 22 December 2022 Quarterly summary of balance of payments accounts including the current account, capital transfers, transactions and levels of UK external assets and liabilities. Balance of payments – revision triangles Dataset | Released 22 December 2022 Quarterly summary information on the size and direction of the revisions made to the data covering a five-year period, UK. UK Economic Accounts: all data Dataset | Released 22 December 2022 This is released at the same time as the UK balance of payments and provides supplementary tables for the balance of payments. The UK Economic Accounts also provides users with the perspective of the rest of world looking into the UK.  The balance of payments is a statistical statement that summarises transactions between residents and non-residents during a period. It consists of the current account, capital account and financial account. The current account is made up of the trade in goods and services account, the primary income account and the secondary income account. The difference in the monetary value of these accounts is known as the current account balance. A current account balance is in surplus if overall credits exceed debits, and it is in deficit if overall debits exceed credits. The capital account has two components: capital transfers and the acquisition (purchase) or disposal (sale) of non-produced, non-financial assets. Capital transfers are those involving transfers of ownership of fixed assets, transfers of funds associated with the acquisition or disposal of fixed assets, and cancellation of liabilities by creditors without any counterparts being received in return. The sale or purchase of non-produced, non-financial assets covers intangibles such as patents, copyrights, franchises, leases and other transferable contracts, and goodwill. The financial account covers transactions that result in a change of ownership of financial assets and liabilities between UK residents and non-residents. For example, the acquisitions and disposals of foreign shares by UK residents. The accounts are presented by the functional categories of direct investment, portfolio investment, other investment, financial derivatives and reserve assets. The international investment position (IIP) is a statement that shows at the end of the period the value and composition of UK external assets (foreign assets owned by UK residents) and identified UK external liabilities (UK assets owned by foreign residents). The framework of international accounts sets out that the IIP is also presented by functional category, consistent with primary income and the financial account. In line with international standards, the Office for National Statistics' (ONS') headline trade statistics contain the UK's exports and imports of non-monetary gold. This trade can have a large effect on the size of and change in the UK's headline trade figures. This is because a significant amount of the world's trade in non-monetary gold takes place on the London markets. Further information on precious metals and their impact can be found in our UK trade bulletin. Some International Monetary Fund (IMF) member countries have access to international reserve assets called special drawing rights (SDRs). A general allocation of SDRs, equivalent to approximately US$650 billion, became effective on 23 August 2021 and was allocated to participant countries in proportion to their existing quotas. The UK’s SDR allocation was equivalent to $19,318 million and was received in August 2021. Although the balance of payments accounts are, in principle, balanced, in practice imbalances between the current, capital and financial accounts arise from imperfections in source data and compilation. This imbalance, a usual feature of balance of payments data, is labelled net errors and omissions. A more detailed glossary (PDF, 123KB) of terms used in the balance of payments is also available. Balance of payments statistics are compiled from a variety of sources, produced in the national accounts sector and financial accounts (SFA) framework. Some of the main sources used in the compilation include: Trade is measured through both exports and imports of goods and services. Data are supplied by over 30 sources including several administrative sources, HMRC being the largest for trade in goods. ITIS, conducted by the ONS, is the largest single data source for trade in services. The main source of information for UK foreign direct investment (FDI) statistics is the Annual FDI Survey; separate surveys are used to collect data on inward and outward FDI. This is combined with data from the BoE on the banking sector. The statistics in this bulletin are compiled using the asset and liability measurement principle, which uses residency as the main distinction between outward and inward investments. In line with our Developing foreign direct investment statistics: 2021 article, we have reviewed and developed the population and sampling frame of FDI businesses. These changes have been introduced for reference periods from Quarter 1 (Jan to Mar) 2020 onwards. In January 2022, HM Revenue and Customs (HMRC) implemented a data collection change affecting data on imports from the EU to Great Britain (GB). This followed a similar data collection change in January 2021 for data on exports of goods to the EU from GB. Our article, Impact of trade in goods data collection changes on UK trade statistics: 2020 to 2022 provides more detail on the discontinuity between the two compilation methods. We have applied adjustments to our estimates of goods imports from the EU for the period January to December 2021 to reflect the data collection change. These adjustments have been applied in line with the National Accounts Revisions Policy, into this Balance of Payments and GDP quarterly national accounts, UK: July to September 2022 and will be included in UK trade: November 2022 on 13 January 2023. We intend to publish a short article summarising these adjustments to our estimates of goods imports from the EU in 2021. This article will be published alongside our UK trade bulletin on 13 January 2023. Consideration will be given to impact of the data collection changes between 2020 and 2021. We will keep users informed of any updates.  In 2021, the use of Staged Customs Controls (SCC) allowed customs declarations to be reported up to 175 days after the date of import for imports of non-controlled goods from the EU to GB. Full customs controls were introduced in January 2022, as such, July 2022 marked the first full month of data where delayed customs declarations submitted under SCC could not be included. Temporary arrangements still apply for imports of goods from Ireland to GB. It is too early to determine any effect of SCC on import data in 2022. An operational change implemented by HMRC in January 2022 resulted in a break in the data time series for UK exports to the EU. Although this change does not affect data for March and future months, caution should be taken when interpreting Quarter 1 (Jan to Mar) 2022 data or any periods that include January 2022 data. More quality and methodology information on strengths, limitations, appropriate uses, and how the data were created is available in our Balance of payments QMI. We will continue to produce our UK balance of payments statistics in line with the UK Statistics Authority's Code of Practice for Statistics and in accordance with internationally agreed statistical guidance and standards. This is based on the International Monetary Fund's (IMF's) Balance of Payments Manual sixth edition (BPM6) (PDF, 3.0MB), until those standards are updated. The Office for Statistics Regulation has finalised its consultation on release practices. The Office for National Statistics (ONS) has welcomed the findings, as detailed in the ONS response to the Office for Statistics Regulation's proposed change to 9.30am release practice. The ONS specifically noted that the release-time exemptions, which were granted during the coronavirus (COVID-19) pandemic, are now incorporated into the revised Code of Practice. As such, the Balance of Payments will continue to be published at 7am. 
+Developing foreign direct investment statistics: 2021 Article | Released 29 April 2021 An overview of our progress on the development of foreign direct investment (FDI) statistics since 2019, and our plans for the next phase of development.UK Balance of Payments, The Pink Book: 2022 Bulletin | Released 31 October 2022 Balances between inward and outward transactions, providing a net flow of transactions between UK residents and the rest of the world and reports on how that flow is funded.Foreign direct investment involving UK companies: 2020 Bulletin | Released 3 February 2022 Investment of UK companies abroad (outward) and foreign companies into the UK (inward), including investment flows, positions and earnings, by country, component and industry.A brief introduction to the UK balance of payments (PDF, 92KB) Article This provides an overview of the concepts and coverage of the UK balance of payments using the Balance of Payments Manual sixth edition (BPM6) (PDF, 3.0MB).Understanding the UK's net international investment position Article | Released 27 April 2020 Analysis of the impact recent movements in price and exchange rates have had on the valuation of the UK's net international investment position.Movements in foreign exchange rates Bulletin | Released 23 December 2016 Overview of how these can impact the balance of payments and international investment position (IIP). 
+
+ Developing foreign direct investment statistics: 2021 Article | Released 29 April 2021 An overview of our progress on the development of foreign direct investment (FDI) statistics since 2019, and our plans for the next phase of development. UK Balance of Payments, The Pink Book: 2022 Bulletin | Released 31 October 2022 Balances between inward and outward transactions, providing a net flow of transactions between UK residents and the rest of the world and reports on how that flow is funded. Foreign direct investment involving UK companies: 2020 Bulletin | Released 3 February 2022 Investment of UK companies abroad (outward) and foreign companies into the UK (inward), including investment flows, positions and earnings, by country, component and industry. A brief introduction to the UK balance of payments (PDF, 92KB) Article This provides an overview of the concepts and coverage of the UK balance of payments using the Balance of Payments Manual sixth edition (BPM6) (PDF, 3.0MB). Understanding the UK's net international investment position Article | Released 27 April 2020 Analysis of the impact recent movements in price and exchange rates have had on the valuation of the UK's net international investment position. Movements in foreign exchange rates Bulletin | Released 23 December 2016 Overview of how these can impact the balance of payments and international investment position (IIP).  
+Office for National Statistics (ONS), released 22 December 2022, ONS website, statistical bulletin, Balance of payments, UK: July to September 2022 
+
+ Office for National Statistics (ONS), released 22 December 2022, ONS website, statistical bulletin, Balance of payments, UK: July to September 2022  
+All content is available under the Open Government Licence v3.0, except where otherwise stated

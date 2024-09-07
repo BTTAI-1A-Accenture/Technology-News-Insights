@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.www2.ljworld.com', port=443): Max retries exceeded with url: /news/2009/jul/02/new-law-left-lane-only-passing/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e2459c90610>: Failed to resolve 'www.www2.ljworld.com' ([Errno -2] Name or service not known)"))

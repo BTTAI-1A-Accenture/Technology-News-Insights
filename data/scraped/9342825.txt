@@ -1,0 +1,1 @@
+HTTPConnectionPool(host='markets.buffalonews.com', port=80): Max retries exceeded with url: /buffnews/article/marketersmedia-2023-4-27-digging-deeper-in-e-commerce-with-metric (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7e2456fa3670>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

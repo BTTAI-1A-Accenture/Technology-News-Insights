@@ -1,0 +1,46 @@
+Posted May 16, 2023 10:10 am 
+		Yee Chan, left, and Nigel Reuel are developing small, low-cost, contact-free, electromagnetic biosensors to monitor the growth of therapeutic cells. Larger photo. Photos by Christopher Gannon. 
+	AMES, Iowa – The virtual cell culture on Sakib Ferdous’ 34-inch computer monitor started with 50 bright red diamonds spread across the screen, each representing an unprogrammed cell ready to be converted to a disease-fighter. 
+	Over a few days of simulated culturing, transformation inputs such as growth factors and signaling antibodies are periodically added to the mix, represented by white squares on Ferdous’ screen. The red cells near the white inputs turn blue, signaling conversion to therapeutic cells capable of fighting diseases such as cancers, heart disease, lupus and other autoimmune diseases. 
+	After a total of six virtual days, the simulated culture has twice as many blue therapy cells as red unprogrammed cells. But six doses of inputs have overwhelmed a few of the cells. They are now yellow, each representing an exhausted cell that’s no longer suited for therapy. 
+	In real-world laboratories, it’s difficult to make these therapeutic cells from unique immune cells harvested directly from patients or from banked stem cells, due to varying growth and stimulation needs. This complex manufacturing process translates to an expensive product, up to $500,000 per patient. 
+	“The cells are the product,” said Nigel Reuel, an Iowa State University associate professor of chemical and biological engineering. “In most other cases with therapy biomanufacturing, the cells are making the product and we haven’t cared as much about end health of the cells. This is not the case with therapeutic cells where you want a very uniform and healthy set of cells. 
+	“This requires new modalities of manufacturing monitoring and control.” 
+	  
+		Sakib Ferdous, Nigel Reuel and computer simulations 
+	Reuel and two of his doctoral students – Yee Chan and Ferdous – are working to change that by developing techniques and technologies for the active control of therapeutic cell production. They’re also hoping the project could lead to another startup business that can take their ideas to market, after planned customer interviews through Iowa State’s I-Corp program that nurtures entrepreneurship and innovation. 
+	(Reuel already has a startup, Skroot Laboratory Inc., that’s in the business of bioprocess monitoring. The company says it’s, “Helping make medicine.”) 
+	Supporting the current research is a five-year, $554,338 National Science Foundation CAREER grant awarded to Reuel in 2021. The foundation says the grants are its “most prestigious awards in support of early career faculty.” 
+	In this case, the award is all about new tools for therapeutic cell discovery and process design that will reduce time and cost of development prior to initial regulatory filings and clinical trial scale-up. 
+	What will it take? 
+	“First, the quality of therapeutic cells must be improved,” says a project summary. “Second, the manufacture of these cells must be improved so all cells have a necessary level of therapeutic activity.” 
+	  
+	Chan is developing small, low-cost, contact-free, electromagnetic biosensors that can monitor cell growth in real time. They would replace common sampling methods for periodic off-line measurement as well as probe biosensors that provide limited information and aren’t suited to small-scale structures. 
+	“We’re trying to build the type of sensors that actively monitor the status of cell cultures,” Chan said. “These sensors will track the cell expansion process continuously without interfering with the nature of the cells, yet providing information such as the number of cells, the viability of cells, and potentially other critical quality attributes.” 
+	That data could help manufacturers hone the chemical, physical and electric environments of cell cultures. 
+	“With these sensors, we want as many data points as possible to feed into the computer simulations and control algorithms,” Reuel said. 
+	  
+	Traditionally, the researchers would test their ideas by running as many experiments as time and budget allowed. But now, they’re using a machine learning tool called reinforcement learning and some game software to run virtual cell-growth experiments. 
+	Ferdous said the computer can run thousands of virtual experiments, all the while learning what helps to grow more cells that are uniformly active. The computer determines the optimal timing of inputs for cell activation and expansion while minimizing cell exhaustion.   
+	“We want to see if it’s possible for AI (artificial intelligence) algorithms to learn how to control the cell growth environment to optimize the quality and quantity of the cells,” Ferdous said. “The central question is if the algorithm can self-learn an optimal control policy for any cell type we throw at it.” 
+	Ferdous thinks that’s possible. If the project helps demonstrate that, he sees many opportunities ahead. 
+	“The thing I want to do is build virtual environments not only for cell cultures, but many other biological applications,” said Ferdous, who has an undergraduate degree in biochemical engineering, who taught himself computer programming during the pandemic and is also studying for a master’s degree in artificial intelligence. “Companies are interested in this, and we want to be in the forefront of using AI for biological process optimization and control.” 
+	With three years left on the clock for this biomanufacturing project, Reuel said it will be exciting to see what the team will do to improve the cost and availability of therapeutic cells. 
+	  
+	Nigel Reuel, Chemical and Biological Engineering, 515-294-4592, reuel@iastate.edu 
+	Yee Chan, Chemical and Biological Engineering, chanyj@iastate.edu 
+	Sakib Ferdous, Chemical and Biological Engineering, ferdous@iastate.edu 
+	Mike Krapfl, News Service, 515-294-4917, mkrapfl@iastate.edu 
+		Left to right, Yee Chan, Nigel Reuel and Sakib Ferdous. 
+	Nigel Reuel and two of his doctoral students – Yee Chan and Sakib Ferdous – are developing advanced tools for cell manufacturing that could improve the cost and availability of therapeutic cells capable of fighting diseases such as cancers, heart disease, lupus and other autoimmune diseases. 
+	“The cells are the product. In most other cases with therapy biomanufacturing, the cells are making the product and we haven’t cared as much about end health of the cells. This is not the case with therapeutic cells where you want a very uniform and healthy set of cells." 
+	Nigel Reuel, chemical and biological engineering 
+News Service
+2420 Lincoln Way, Suite 201
+Ames, Iowa 50014-8340
+ 
+					Copyright © 1995-
+					Iowa State University
+					of Science and Technology
+					All rights reserved.
+				

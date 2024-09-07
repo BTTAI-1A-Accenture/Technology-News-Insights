@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.laconiadailysun.com/business/local/waldron-joins-local-edward-jones-branch-team/article_b89ada20-91fe-11ed-8f6d-c36a5670e7d1.html

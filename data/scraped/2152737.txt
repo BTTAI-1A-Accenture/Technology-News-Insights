@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.reuters.com/sustainability/climate-energy/malaysia-parliament-approves-energy-efficiency-law-2023-10-11/

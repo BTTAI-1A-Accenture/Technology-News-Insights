@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://richmond.com/news/national/united-airlines-introduces-a-new-family-seating-policy-heres-how-it-works/article_d41e0713-46b3-562d-bfa5-70e27e1188d4.html

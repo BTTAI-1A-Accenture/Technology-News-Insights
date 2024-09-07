@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/press-release/near-field-communications-nfc-market-swot-analysis-by-leading-key-players-broadcom-devicefidelity-gemalto-huawei-technologies-2022-12-28

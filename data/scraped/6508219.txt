@@ -1,0 +1,76 @@
+Armed with some data from our friends at CrunchBase, I broke down the largest global startup funding rounds for August 2023. I have included some additional information such as industry, round type, a brief description of the company, investors in the round, company location, and total equity funding raised for the company to further the analysis. Interested in the top NYC Startup Fundings?  – The Largest NYC Startup Funding Rounds of August 2023
+Interested in the top LA Startup Fundings? – The Largest LA Startup Funding Rounds for August 2023
+Interested in the top US Startup Funding? – The Largest US Startups Funding Rounds of August 2023 Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Series C
+Description: San Jose-based Nile provides secure connectivity and network independence through wired and wireless networking-as-a-service. Founded by John Chambers, Pankaj Patel, Sri Hosakote, and Suresh Katukam in 2018, Nile has now raised a total of $300.0M in total equity funding and is backed by 8VC, Valor Equity Partners, ICONIQ Capital, Prosperity7 Ventures, and Sanabil.
+Investors in the round: 8VC, Aramco Ventures, Geodesic Capital, Liberty Global Ventures, March Capital, Prosperity7 Ventures, Sanabil, STC Ventures, U First Capital, Valor Equity Partners
+Industry: Internet, Network Security, Wireless
+Founders: John Chambers, Pankaj Patel, Sri Hosakote, Suresh Katukam
+Founding year: 2018
+Total equity funding raised: $300.0M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Venture
+Description: Sheffield-based Venterra engineer, build, and support the operations of wind energy developments around the world. Founded by Ayman Asfari in 2021, Venterra has now raised a total of $223.0M in total equity funding and is backed by Beyond Net Zero and First Reserve Corporation.
+Investors in the round: Beyond Net Zero, First Reserve Corporation
+Industry: Energy, Energy Management, Renewable Energy
+Founders: Ayman Asfari
+Founding year: 2021
+Total equity funding raised: $223.0M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Series B
+Description: South San Francisco-based Genesis Therapeutics unifies AI and biotech to accelerate the discovery of new medicines. Founded by Ben Sklaroff and Evan Feinberg in 2019, Genesis Therapeutics has now raised a total of $256.1M in total equity funding and is backed by BlackRock, Andreessen Horowitz, T. Rowe Price, Felicis, and Fidelity Management and Research Company.
+Investors in the round: Andreessen Horowitz, BlackRock, Fidelity Management and Research Company, Menlo Ventures, Radical Ventures, Rock Springs Capital, T. Rowe Price
+Industry: Artificial Intelligence, Biotechnology, Information Technology
+Founders: Ben Sklaroff, Evan Feinberg
+Founding year: 2019
+Total equity funding raised: $256.1M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Series E
+Description: Parel-based Zepto offers a 15-minute grocery delivery service through an e-grocery app that affects the grocery buying experience. Founded by Aadit Palicha and Kaivalya V. in 2020, Zepto has now raised a total of $566.5M in total equity funding and is backed by Goodwater Capital, Y Combinator, Nexus Venture Partners, Kaiser Permanente, and Global Founders Capital.
+Investors in the round: Contrary, Glade Brook Capital Partners, Goodwater Capital, Lachy Groom, Nexus Venture Partners, StepStone Group
+Industry: Apps, Delivery, Delivery Service, E-Commerce, Grocery
+Founders: Aadit Palicha, Kaivalya V.
+Founding year: 2020
+Total equity funding raised: $566.5M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Venture
+Description: Dublin-based TechMet is a critical minerals investment company that builds projects to ensure a stable and sustainable supply of key metals. Founded by Brian Menell in 2017, TechMet has now raised a total of $321.5M in total equity funding and is backed by Mercuria, Ruttenberg Gordon Investments, S2G Ventures, U.S. International Development Finance Corp, and Lansdowne Partners.
+Investors in the round: Lansdowne Partners, Mercuria, S2G Ventures, U.S. International Development Finance Corp
+Industry: Energy, Mineral, Mining, Renewable Energy
+Founders: Brian Menell
+Founding year: 2017
+Total equity funding raised: $321.5M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision. “/> Round: Series D
+Description: Brooklyn-based Hugging Face allows users to build, train, and deploy art models using the reference open source in machine learning. Founded by Clement Delangue, Julien Chaumond, and Thomas Wolf in 2016, Hugging Face has now raised a total of $395.2M in total equity funding and is backed by Google, NVIDIA, Amazon, Intel, and Salesforce Ventures.
+Investors in the round: Amazon, AMD, Google, IBM, Intel, NVIDIA, Qualcomm, Salesforce Ventures, Sound Ventures
+Industry: Artificial Intelligence, Machine Learning, Natural Language Processing, Open Source, Software
+Founders: Clement Delangue, Julien Chaumond, Thomas Wolf
+Founding year: 2016
+Total equity funding raised: $395.2M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Series D
+Description: New York-based Ramp is a finance automation platform that helps businesses spend less time and money. Founded by Eric Glyman, Gene Lee, and Karim Atiyeh in 2019, Ramp has now raised a total of $967.0M in total equity funding and is backed by Citi, Goldman Sachs, Stripe, General Catalyst, and Soma Capital.
+Investors in the round: A* Partners, Altimeter Capital, Coatue, D1 Capital Partners, Definition, Founders Fund, General Catalyst, Honeycomb Portfolio, ICONIQ Capital, Kinetic Partners, Lux Capital, Montauk Ventures, Redpoint Ventures China, Sands Capital Ventures, Spark Capital, Stripe, Thrive Capital
+Industry: Finance, Financial Services, FinTech
+Founders: Eric Glyman, Gene Lee, Karim Atiyeh
+Founding year: 2019
+Total equity funding raised: $967.0M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Series C
+Description: Houston-based Axiom Space is a commercial space station company that connects to the ISS. Founded by Kam Ghaffarian and Michael Suffredini in 2016, Axiom Space has now raised a total of $500.0M in total equity funding and is backed by Alumni Ventures, Bossanova Investimentos, Disruptive Ventures, Invariantes Fund, and Sand Hill Angels.
+Investors in the round: Aljazira Capital, Boryung Pharmaceutical, Chenel Capital
+Industry: Advanced Materials, Aerospace, Industrial Manufacturing, Space Travel
+Founders: Kam Ghaffarian, Michael Suffredini
+Founding year: 2016
+Total equity funding raised: $500.0M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Series C
+Description: Central-based Micro Connect is a financial market platform that provides market infrastructure, fintech, and platform development. Founded by Charles Li in 2021, Micro Connect has now raised a total of $578.0M in total equity funding and is backed by Sequoia Capital China, Baillie Gifford, Horizons Ventures, Lenovo Capital and Incubator Group (LCIG), and Vectr.
+Investors in the round: Baillie Gifford, Dara Holdings, Lenovo Capital and Incubator Group (LCIG), Sequoia Capital China, Vectr
+Industry: Financial Services, FinTech, Market Research
+Founders: Charles Li
+Founding year: 2021
+Total equity funding raised: $578.0M Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision.  Round: Series D
+Description: Carson City-based Redwood Materials is a battery recycling startup that makes electric vehicles and sustainable materials for circular supply chains. Founded by JB Straubel in 2017, Redwood Materials has now raised a total of $1.8B in total equity funding and is backed by Amazon, Goldman Sachs Asset Management, Breakthrough Energy Ventures, US Department of Energy, and T. Rowe Price.
+Investors in the round: Capricorn Investment Group, Caterpillar, Deepwater Asset Management, Goldman Sachs Asset Management, Microsoft Climate Innovation Fund, OMERS Ventures, T. Rowe Price
+Industry: Advanced Materials, Battery, Electric Vehicle, Renewable Energy, Sustainability
+Founders: JB Straubel
+Founding year: 2017
+Total equity funding raised: $1.8B Atomic’s new PayLink suite is a set of financial tools that enable consumers to connect merchant accounts, streaming services, and recurring bills to their financial institution’s app seamlessly updating their payment methods on file and enabling a one-stop hub for reviewing upcoming expenses. By streamlining the account-switching experience, Paylink makes it easier to switch primary relationships, aligning with the CFPB’s open banking vision. ABOUT US
+ADVERTISE
+EDITORIAL GUIDELINES
+LEGAL
+PRIVACY
+TERMS OF USE CONTACT US
+ADVERTISE
+TIPS
+WRITE FOR US NYC VC
+NYC TECH EVENTS
+NYC TECH NEWS
+NYC STARTUPS
+NYC COWORKING
+TECH DIRECTORY  © 2023 AlleyWatch | All Rights Reserved | Proudly Made for NYC  © 2023 AlleyWatch | All Rights Reserved | Proudly Made for NYC Join the millions and keep up with the stories shaping entrepreneurship. Sign up today. 

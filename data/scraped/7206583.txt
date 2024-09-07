@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/oracle-orcl-healths-ehr-joins-143700217.html

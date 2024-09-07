@@ -1,0 +1,54 @@
+Zero Trust is one of the most widely talked about cybersecurity trends
+today. Zero Trust says no part of a computer and networking system
+can be implicitly trusted, including the humans operating it.
+Therefore, we must put measures in place to provide assurance that
+the systems and their components are operating appropriately,
+typically under a “least privilege” model and continuously verified. Creating an industry “north star” for Zero Trust has huge
+implications in raising the cybersecurity baseline across the board
+and eliminating significant systemic risk. CSA's mission is to
+create research, training, professional credentialing and provide
+an online center for additional curated Zero Trust resources. These
+tools will enable enterprises to understand and implement Zero
+Trust principles into business planning, enterprise architectures
+and technology deployments. With the release of the Certificate of Competence in Zero Trust (CCZT), based on CSA’s Zero Trust Training (ZTT), CSA delivers the first authoritative, vendor-neutral Zero
+Trust training and certificate that provides the knowledge needed
+to understand the core concepts of Zero Trust. Using CSA’s agile programs for research, training and
+certification, as well as our global footprint of industry experts,
+chapters, webinars and conferences, we are uniquely positioned to
+build and evangelize authoritative Zero Trust best practices and
+tools. If you're interested in learning more, you can read the press release or contact us at [email protected].  May 6, 2024  April 26, 2024  April 24, 2024  November 14, 2023 View all announcements  If you are looking for a way to participate as an
+individual you can contribute to our working group. We collaborate to
+develop research and guidance to help validate and protect the devices
+and connections on a network. Interested in getting involved? You can sign up for our upcoming
+newsletter and find out more info around participating by emailing [email protected]. When the pandemic happened, you moved a billion people away
+from their physical networks, from their office network and
+you put them at random places at home from a network
+perspective. That broke the inertia of, "Oh, we can really
+ride the wave of all these rules built around the traditional
+network.” Legacy thinking gets thrown out the window. In a
+cloud sense, you need to manage the endpoints and the
+identity, and that's why Zero Trust is so relevant. This network security model has to be turned on its head.
+The architecture needs to change. That's where the zero trust
+is coming in. Trust no one. Based on identity, based on
+device posture, based on other attributes, you connect the
+right user to right application. That's really what has to be
+done. In today’s mobile, work-from-anywhere world,
+identity has become the new security perimeter.
+According to the CrowdStrike 2022 Global Threat
+Report, nearly 80 percent of breaches leverage
+identity to compromise credentials and evade
+detection in organizations’ networks. Organizations show their commitment to
+building awareness and understanding of zero trust principles when they
+become a Zero Trust Champion for CSA's Zero Trust Advancement Center.
+Sponsoring ZTAC is a great opportunity to demonstrate your organization's
+thought leadership in providing relevant security solutions for the
+next generation of IT-cloud computing. Watch presentations by subject matter
+experts as they explain how to implement zero trust. Access the content from CSA's network of
+subject matter experts on zero trust. From papers to videos and
+more. Created by CSA's partners at the Demo Forum, the Zero Trust Market Map
+displays a comprehensive mapping of security technology products
+related to zero trust. With the growth of cybersecurity, it is
+important to see where the technology is today. The market map helps
+provide an understanding of the current zero trust industry standing,
+as vetted by analyst firms. This website uses third-party profiling cookies. By using
+this website, you consent to the use of these cookies. Privacy Policy. © 2009–2024 Cloud Security Alliance.All rights reserved. © 2009–2024 Cloud Security Alliance.All rights reserved.

@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.claytoncountyregister.com', port=443): Max retries exceeded with url: /news2/what-type-of-gold-is-best-to-buy/592161/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ab723c56680>: Failed to resolve 'www.claytoncountyregister.com' ([Errno -2] Name or service not known)"))

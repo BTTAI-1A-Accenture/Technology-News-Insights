@@ -1,0 +1,23 @@
+
+Following significant customer traction Amberflo is now generally available
+ 
+Amberflo.io, built by ex-AWS engineers to help any company get started with Usage-Based Pricing (UBP), today became generally available and announced a $15 million Series A funding round led by Norwest Venture Partners. The company previously raised a $5 million seed round led by Homebrew. Amberflo already powers the metering and billing infrastructure for many high-growth companies including LaunchDarkly, Firebolt.io, and Coherent.global and is processing tens of billions of meter events per day.
+ This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230117005374/en/ Amberflo handles the ingestion, aggregation, visualization, and persistence of all product usage data, which in turn enables companies to construct an ideal pricing strategy. (Graphic: Business Wire) 
+"It's abundantly clear that businesses are beginning to demand more fair and transparent pricing that reflects actual usage of products," said Puneet Gupta, CEO and Founder of Amberflo. "Amberflo is leading this transition to a usage-based future with our cloud-native metering platform and billing application, which provide our customers with scale, flexibility, cost effectiveness, and greater customer satisfaction."
+ 
+Amberflo is the only fully managed, full-featured Metering and Billing Platform being offered on a pay-as-you-go, self-service sign up (with a generous free tier). Amberflo handles the ingestion, aggregation, and measurement of all product usage data, which in turn enables companies to construct an ideal pricing strategy based on customer insights and revenue forecasts.
+ 
+"Usage-Based Pricing will become the dominant business model for SaaS," said Rama Sekhar, Partner at Norwest Venture Partners. "The infrastructure and software needed to offer usage-based pricing is difficult and expensive for companies to build in-house. Amberflo makes it easy for companies to meter and bill customers based on usage, both accurately and at scale."
+ 
+With Amberflo, companies understand their customer behavior in real time and can proactively respond to changes in usage patterns, resulting in greater customer satisfaction, product adoption, and revenue. Amberflo's highly differentiated architecture of decoupling metering from billing – along with its ease of use and high scalability – makes it the de facto choice for modern cloud businesses that wish to delight their customers with superior product experiences.
+ 
+"Amberflo is helping us fast-track our way to market with the usage-based pricing experiences we wanted, while delivering meaningful cost savings and avoiding a lengthy internal development cycle," said Jonathan Nolan, SVP of Product and Engineering at LaunchDarkly. "We surveyed the landscape and selected Amberflo as our metering and billing provider as it could scale to meet our high volume and high reliability needs, processing tens of billions of events per day."
+ 
+Economic uncertainty and tightening budgets are making Usage-Based Pricing a competitive advantage for companies that are able to offer flexible pricing options that adjust to usage. Amberflo's platform enables companies to fully automate their customer onboarding and provisioning processes in a Product-Led Growth (PLG) sales motion. Users can choose from popular pre-built Usage-Based Pricing models, or take complete control and define their own pricing plans.
+ 
+"With Amberflo, we are able to delight our customers with accurate, on-demand real time billing and usage dashboards, which are an integrated part of our overall product experience," said Itay Link, VP of Finance at Firebolt.io. "Amberflo was able to seamlessly and successfully, in record time, deploy its metering and billing platform and integrate with our sales, accounting, and cloud marketplace systems to enable end-to-end customer onboarding and provisioning."
+ 
+About Amberflo
+ 
+Amberflo enables businesses to track and charge on usage and bill customers with on-demand, accurate metered invoicing. Based out of the San Francisco Bay Area, Amberflo is supported by investors including Norwest Venture Partners, Homebrew, and Operator Collective. For more information, please visit https://amberflo.io and get started for free.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230117005374/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

@@ -1,0 +1,29 @@
+
+International Data Corporation (IDC) today published an IDC Innovators report profiling three start-up companies offering enhanced capabilities for open source software supply chain management that extend beyond static software bills of materials (SBOMs). The three companies are: Chainguard, Codenotary, and Endor Labs.
+ 
+Open source software (OSS) has become increasingly popular in the development of new commercial products as well as internally-developed software solutions for enterprises. While OSS may be free to acquire, the costs of long-term maintenance and support are potentially greater than the money saved at the time of acquisition. In addition, there are growing concerns about the security of the software chain associated with OSS.
+ 
+To address these concerns, the companies profiled in this report have developed software supply chain management platforms that utilize DevSecOps capabilities to better manage the security of the open source components used in their software development and deployment operations. These solutions intend to reduce the complexity and time required to properly vet OSS componentry for currency and the active nature of the project itself, identifying known vulnerabilities, as well as potential vulnerabilities not yet exposed, and more routine aspects such as licensing compliance issues.
+ 
+"The challenge of securing the OSS software supply chain is significant and complex for virtually every organization," said Katie Norton, senior research analyst, DevOps & DevSecOps. "The many entry points into the software supply chain constitute a significant risk that has gone unaccounted for in many organizations."
+ 
+"The time has come for organizations to get serious about securing the supply chain of open source software components, tools, or applications they may be using from public repositories," said Al Gillen, group vice president, Software Development and Open Source at IDC. "The vendors and products highlighted in this IDC Innovators document are showing truly interesting and compelling ways to address these security concerns using a modern approach."
+ 
+The report, IDC Innovators: Open Source Software Supply Chain Security, 2023 (Doc #US50138923), profiles three companies that help customers manage the security of the software supply chain of open source components used in their software development and deployment operations. The three companies are:
+ 
+Chainguard provides optimized and minimized container base images that are designed to reduce surface area and lower potential vulnerabilities. The company's products also leverage the Supply Chain Levels for Software Artifacts (SLSA) Framework to enforce policy, generate SBOMs, and verify deployed images to ensure compliance with defined policies and alert on deviations.
+ 
+Codenotary integrates OSS awareness into the SBOMs scanning and monitoring process, ensuring that all artifacts are known from source to product and subsequently logging that knowledge into an immutable database, ensuring the results are trustworthy.
+ 
+Endor Labs helps dev and security teams to maximize software reuse by managing SBOMs to segment potential accessible vulnerabilities and muting non-reachable vulnerabilities, allowing a focus on potential vulnerabilities that could result in a compromise.
+ 
+About IDC Innovators
+ 
+IDC Innovators reports present a set of vendors – under $100 million in revenue at time of selection – chosen by an IDC analyst within a specific market that offer an innovative new technology, a groundbreaking approach to an existing issue, and/or an interesting new business model. It is not an exhaustive evaluation of all companies in a segment or a comparative ranking of the companies. Vendors in the process of being acquired by a larger company may be included in the report provided the acquisition is not finalized at the time of publication of the report. Vendors funded by venture capital firms may also be included in the report even if the venture capital firm has a financial stake in the vendor's company. IDC INNOVATOR and IDC INNOVATORS are trademarks of International Data Group, Inc.
+ 
+For more information about IDC Innovators research, please contact Jen Melker at jmelker@idc.com.
+ 
+About IDC
+ 
+International Data Corporation (IDC) is the premier global provider of market intelligence, advisory services, and events for the information technology, telecommunications, and consumer technology markets. With more than 1,300 analysts worldwide, IDC offers global, regional, and local expertise on technology, IT benchmarking and sourcing, and industry opportunities and trends in over 110 countries. IDC's analysis and insight helps IT professionals, business executives, and the investment community to make fact-based technology decisions and to achieve their key business objectives. Founded in 1964, IDC is a wholly owned subsidiary of International Data Group (IDG), the world's leading tech media, data, and marketing services company. To learn more about IDC, please visit www.idc.com. Follow IDC on Twitter at @IDC and LinkedIn. Subscribe to the IDC Blog for industry news and insights.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230215005702/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

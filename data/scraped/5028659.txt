@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thestar.com/business/constellation-software-buying-black-knight-s-optimal-blue-for-us-700-million/article_9d74ef2a-0bf7-5914-8d0b-adc301e3488c.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/ipsy-announces-vanessa-hudgens-as-latest-icon-box-curator/article_e4e4df7e-f0c5-533e-aa95-bf39470293b5.html

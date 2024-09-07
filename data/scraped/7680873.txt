@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.woodwardnews.net/oklahoma/news/wind-energy-going-strong-in-oklahoma/article_75822938-bdea-5164-9257-d31b4d822c5d.html

@@ -1,0 +1,25 @@
+
+                    NicoElNino/Getty Images
+                    Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Edward Graham
+ Increasing geopolitical tensions, vulnerabilities in critical infrastructure and a patchwork of needed regulations are some of the factors contributing to a host of cybersecurity threats facing the public and private sectors in the new year, a panel of experts said during an event hosted by the Bipartisan Policy Center on Monday. The panel discussion was held to mark the release of a new report from the Washington-based think tank, which examined some of the top cybersecurity risks facing individuals, companies and government in 2023. The report identified eight “macro risks” likely to represent the biggest threats in cyberspace this year, including: an evolving geopolitical environment; a global cyber arms race; vulnerable critical infrastructure; a lack of needed investments in cyber preparedness; regulatory uncertainty; a shortage of cyber talent; insufficient corporate governance; and economic uncertainty.  The report was drafted by a working group of state officials, former federal officials and lawmakers, and representatives from companies and advocacy groups. Credit reporting agency Equifax, which experienced its own high-profile data breach in 2017, partnered with the Bipartisan Policy Center to produce the report.  Jamil Farshchi, executive vice president and chief information security officer at Equifax, said that “roughly 85% of the things that are on [the report] aren’t novel”—such as ongoing risks to critical infrastructure and lagging governance concerns—but added that the inability to rectify these issues remains a constant source of concern for the public and private sectors.  “The most surprising thing to me is that a lot of the risks that we've highlighted here are the same risks that, I think, could have been on this list had we done it five years ago, or maybe even 10 years ago,” Farshchi said. “And so, in some ways, it's predictable, somewhat. But in other ways, it's discouraging because we as a community, we as a country, have not advanced the ball effectively enough to be able to mitigate or even draw down some of the risks that we've highlighted.”  Some of these existing risks have been further exacerbated by increased geopolitical tensions, which have manifested in the form of state-sponsored ransomware and cyber attacks on critical infrastructure services and online mis- and disinformation campaigns.  “While these conflicts may be localized, cyber threats can have far-reaching effects given the global nature of the internet,” the report said. “The internet and other technologies have allowed actors to carry out these activities remotely and nearly instantaneously.” Christopher Painter, who served as the State Department's coordinator for cyber issues in the Obama and Trump administrations, cited heightened U.S. tensions with China and Russia’s invasion of Ukraine as some of the global factors potentially worsening systemic cyber risks. But he added that growing awareness of potential threat actors, coupled with an increase in high-profile cyber incidents, is also helping to highlight the importance of enhanced cybersecurity measures.  “Because of the ransomware sort of pandemic we've seen over the last number of years, there's a much more heightened awareness than there has been before,” Painter said. “And so calling attention to these risks, I think, is really important, and trying to catalog them is really important.”  While the report said that key risk factors—such as vulnerable operating systems, outdated code and a lack of trained cybersecurity professionals—remain viable concerns throughout 2023, it also noted that “overlapping, conflicting and subjective regulations” present their own cyber-related challenges. The report cited the passage of one-size-fits-all cyber regulations and the ”balkanization of data privacy and breach disclosure laws” as some of the issues affecting the public and private sectors.  The panelists said that progress on some related fronts—such as a renewed interest in Congress to pass a federal data privacy framework—would also help to alleviate some concerns regarding the ill-defined cyber policy landscape.  “I think the place where we've seen the most action in the regulatory area is through the privacy lens,” said Noopur Davis, executive vice president and chief information security and product privacy officer at Comcast. “But the privacy lens, then, of course, impacts the security lens. So it’s that focus on privacy that's also shifting into cyber. And that, I think, feels different now than it did five years ago—it feels more immediate in 2023.”
+
+ 
+NEXT STORY:
+
+              CISA, South Korean Agencies Issue Joint Warning on North Korean Ransomware
+            
+
+
+
+ Help us tailor content specifically for you:

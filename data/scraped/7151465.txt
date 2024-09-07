@@ -1,0 +1,78 @@
+Listmakers include Microsoft, Google, Ox and Runway. 
+
+
+
+
+
+
+ This year, tech giants and startups alike have continued to forward our understanding of what artificial intelligence software can do in workplaces and specific industries. Some of the companies are whom you’d expect – Microsoft, Google – but others include a wearable technology upstart using AI software to improve frontline supply chain worker productivity, a conversational AI technology provider for the real estate sector and a computer vision company leveraging generative AI frameworks. Ox, EliseAI and Landing AI are just some of the companies to make CRN’s list of the 10 hottest AI software companies in 2023 – so far. [RELATED: The 10 Hottest Cloud Computing Startups Of 2023 (So Far)] The full potential of AI is still in its early stages, with PwC recently predicting $15.7 trillion in contribution to the global economy by 2030. And solution providers have started cashing in on the AI gold rush. Names appearing on this CRN list include: *IBM *Salesforce *Ox *EliseAI *Landing AI *Runway Here’s more on CRN’s 10 hottest AI software companies in 2023 so far. 
+
+
+
+
+
+
+ If there’s one vendor in 2023 that’s sought to make itself synonymous with AI, that’s Microsoft. From the expansion of its “copilot” generative AI tools across the Microsoft product suite to a multiyear, multibillion dollar investment in OpenAI – the creator of text-generator ChatGPT and image-generator Dall-E – the Redmond, Wash.-based tech giant has dominated the conversation around AI, AI in the workplace and the ethics of AI. Microsoft recently revealed that its Azure OpenAI Service has been used by more than 4,500 companies despite limited access. And CEO Satya Nadella has touted AI as a business opportunity for the vendor – an opportunity some Microsoft partners are also exploring. “Some of the work we’ve done in AI even in the last couple of quarters, we are now seeing conversations we never had,” Nadella said this year. “Whether it’s coming through even just OpenAI’s APIs, right—if you think about the consumer tech companies … they have gone to OpenAI and are using their API. These are not customers of Azure at all.” He continued: “Even Azure OpenAI API customers are all new. And the workload conversations, whether it’s B2C conversations in financial services or drug discovery … these are all new workloads that we really were not in the game in the past, whereas we now are.” Microsoft has more than 400,000 worldwide channel partners, according to CRN’s 2023 Channel Chiefs. 
+
+
+
+
+
+
+ The vendor giving Microsoft a run for its money in AI innovation and in the conversation on AI in the workplace and AI ethics is Google. Google’s Bard text-generator is meant to rival OpenAI’s ChatGPT. Google recently moved Bard to its new Palm 2 large language model (LLM) and promised the ability to include images alongside text in prompts. Among the AI advancements Mountain View, Calif.-based Google has announced this year is Duet AI for Google Cloud, a new AI-powered collaborator to help cloud users of all skill levels solve everyday work challenges. The vendor is also expanding access to generative AI. Google’s AI investments have also reached its partner program. The vendor recently launched Built with Google Cloud AI that helps partners start building applications using Google Cloud’s AI services. The vendor also has several go-to-market (GTM) programs and market development funds (MDF) available to partners to drive generative AI customer wins. 
+
+
+
+
+
+
+ Don’t count Amazon Web Services out of the AI arms race. The Seattle-based, No. 1 cloud computing vendor has positioned itself as a leader in the AI space as well. This year, it launched the Amazon Bedrock service for building and scaling generative AI applications that provides customers with easy access to innovative foundational models. AWS recently made generally available Amazon Elastic Compute Cloud (EC2) Inf2 instances powered by AWS’ own Inferentia2 chips, which aim to lower the cost of running generative AI workloads. The vendor also opened free access to Amazon CodeWhisperer, an AI coding companion that generates whole-line and full-function-code suggestions. AWS has about 100,000 worldwide channel partners, according to CRN’s 2023 Channel Chiefs. 
+
+
+
+
+
+
+ IBM unveiled the Watsonx artificial intelligence and data platform during its annual Think conference this year. The Watsonx platform aims to help enterprises train, tune and deploy foundation models, ML capabilities and AI models across the organization on any cloud environment with trusted data, speed and governance in one place, according to Armonk, N.Y.-based IBM. The Watsonx platform will feature IBM-curated and trained foundation models and open-source models, according to the vendor. Users can access a data store for gathering and cleansing data for training and tuning. Customers can build their own models or fine-tune and adapt available ones using company data and then deploy the model at scale in trustworthy, open environments, according to IBM. 
+
+
+
+
+
+
+ On Monday, Salesforce unveiled AI Cloud, a series of capabilities that seeks to close a “trust gap” co-founder and CEO Marc Benioff said he sees in current generative AI offerings. The news builds on Salesforce’s generative AI announcements earlier this year around the EinsteinGPT generative AI offering, as well as a greater conversation around trust and security in sharing corporate data with generative AI tools for analysis. San Francisco-based Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. 
+
+
+
+
+
+
+ ## Ox Ox combines wearable technology and AI software to guide frontline supply chain workers through tasks, a service that the startup attests has increased customer operational productivity by more than 20 percent. The Bentonville, Ark.-based startup offers real-time visibility to track operators and measure frontline workers, according to Ox. Ox powers more than $500 million in supply chain volume across hundreds of operators, according to Ox. For now, the company specializes in the warehouse and retail industries. In April, Ox closed a $12.6 million Series A round of funding to further develop its platform. BBG Ventures and MaC Venture Capital led the round. Existing investors Cortado Ventures, Revolution’s Rise of the Rest Seed Fund, Florida Funders, KCRise, Tech Square Labs and Vuzix participated, as did new investors Atento Capital and Agya Ventures. CEO Charu Thomas founded Ox in 2019, according to her LinkedIn account. 
+
+
+
+
+
+
+ EliseAI offers conversational AI technology for customer interaction, with industry specialists including health care and real estate. For health care providers, Elise promises AI-powered patient outreach management through email, chat, phone and text, according to the company. Elise virtual assistants can also track patient progress, reduce no-shows and increase collections. For real estate businesses, Elise promises prospect and resident management, with decreased payment delinquencies and automated leasing and service requests, according to the company. EliseAI has grown to serve 1.5 million units across 200 customers. In June, EliseAI raised a $35 million Series C round of funding, according to the company. Point72 Private Investments led the round. Koch Real Estate Investments and existing investors Golden Seeds, Navitas Capital, JLL Spark, and DivcoWest participated. CEO Minna Song co-founded Elise in 2017, according to her LinkedIn account. 
+
+
+
+
+
+
+ Landing AI has been investing in its computer vision cloud software offerings, including launching this year a visual prompting capability and a validation-ready version of its LandingLens platform. The visual prompting capability from Palo Alto, Calif.-based Landing promises the ability to take text prompting framework found in ChatGPT and similar technologies and bring it to computer vision. The new version of LandingLens promises to help life science companies, drugmakers and others in highly regulated industries speed up operations, according to Landing. Landing AI has a partner program for consultancies, system integrators and other partner business types. Partners include Capgemini, Deloitte and Vaital. CEO Andrew Ng founded Landing in 2017, according to his LinkedIn account. He previously founded DeepLearning.AI and co-founded Coursera. 
+
+
+
+
+
+
+ In April, Concentric AI unveiled a new channel partner program with a promise of better enablement for partners selling the startup’s SaaS product, which provides AI-based services for autonomous data security posture management (DSPM). The Saratoga, Calif.-based startup also has optimized large language model support for the DSPM service for greater security and protection, according to Concentric. The startup also offers machine learning-powered data scanning and categorization, data risk identification and centralized remediation among its capabilities. Earlier this year, CRN named Concentric one of the “coolest cybersecurity startup companies at RSAC 2023.” CEO Karthik Krishnan founded Concentric in 2018, according to his LinkedIn account. He previously worked at Niara for about four years, through the company’s acquisition by Hewlett Packard Enterprise in 2017. Krishnan left HPE in 2018 with the title of vice president of product management. 
+
+
+
+
+
+
+ Multiple media outlets reported in May that Runway, the provider of AI software that can generate photos and videos based on text prompts, landed a $100 million Series D round of funding from investors including Google. Users of the New York-based startup’s tools enter text prompts and can edit created content, even adding subtitles, removing backgrounds and exporting transcripts. They can change the style of a video or photo, turn a sequence of images into a video. Runway’s technology has been used by TV’s “The Late Show with Stephen Colbert,” shoemaker New Balance, musician Finneas and the movie “Everything Everywhere All at Once,” according to the startup. CEO Cristóbal Valenzuela co-founded Runway in 2018, according to his LinkedIn account.

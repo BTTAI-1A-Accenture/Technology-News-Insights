@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/wearable-devices-to-showcase-ai-based-wearable-technology-to-control-smart-glasses-at-awe-usa/article_99b7d943-a585-5e1d-9549-935699e4655c.html

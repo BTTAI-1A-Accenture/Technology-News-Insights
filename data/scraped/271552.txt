@@ -1,0 +1,49 @@
+
+Provides double the capacity of 16Gb modules within the same package size, enabling 128GB DRAM module production without the TSV process, and decreasing power consumption by 10%
+ 
+The new product also paves way to DRAM modules of up to 1TB capacity
+ 
+With the expanded lineup of 12nm-class DRAM, Samsung will continue its collaboration with diverse industries and support various applications
+ Samsung Electronics Unveils Industry’s Highest-Capacity 12nm-Class 32Gb DDR5 DRAM, Ideal for the AI Era (Photo: Business Wire) Samsung Electronics Unveils Industry’s Highest-Capacity 12nm-Class 32Gb DDR5 DRAM, Ideal for the AI Era (Photo: Business Wire)  SEOUL, South Korea--(BUSINESS WIRE)--Samsung Electronics Co., Ltd., a world leader in advanced memory technology, today announced that it has developed the industry's first and highest-capacity 32-gigabit (Gb) DDR5 DRAM1 using 12 nanometer (nm)-class process technology. This achievement comes after Samsung began mass production of its 12nm-class 16Gb DDR5 DRAM in May 2023. It solidifies Samsung's leadership in next-generation DRAM technology and signals the next chapter of high-capacity memory.
+
+  
+"With our 12nm-class 32Gb DRAM, we have secured a solution that will enable DRAM modules of up to 1-terabyte (TB), allowing us to be ideally positioned to serve the growing need for high-capacity DRAM in the era of AI (Artificial Intelligence) and big data,” said SangJoon Hwang, Executive Vice President of DRAM Product & Technology at Samsung Electronics. “We will continue to develop DRAM solutions through differentiated process and design technologies to break the boundaries of memory technology."
+
+ 
+A 500,000 Fold Increase in DRAM Capacity Since 1983
+ 
+Having developed its first 64-kilobit (Kb) DRAM in 1983, Samsung has now succeeded in enhancing its DRAM capacity by a factor of 500,000 over the last 40 years.
+
+ 
+Samsung’s newest memory product, developed using cutting-edge processes and technologies to increase integration density and design optimization, boasts the industry’s highest capacity for a single DRAM chip and offers double the capacity of 16Gb DDR5 DRAM in the same package size.
+
+ 
+Previously, DDR5 128GB DRAM modules manufactured using 16Gb DRAM required the Through Silicon Via (TSV) process. However, by using Samsung's 32Gb DRAM, the 128GB module can now be produced without using the TSV process, while reducing power consumption by approximately 10% compared to 128GB modules with 16Gb DRAM. This technological breakthrough makes the product the optimal solution for enterprises that emphasize power efficiency, such as data centers.
+
+ 
+With its 12nm-class 32Gb DDR5 DRAM as a foundation, Samsung plans to continue expanding its lineup of high-capacity DRAM to meet the current and future demands of the computing and IT industry. Samsung will reaffirm its leadership in the next-generation DRAM market by supplying the 12-nm-class 32Gb DRAM to data centers as well as to customers that require applications like AI and next-generation computing. The product will also play an important role in Samsung’s continued collaboration with other key industry players.
+
+ 
+Mass production of the new 12nm-class 32Gb DDR5 DRAM is scheduled to begin by the end of this year.
+
+ 
+To find out more about Samsung’s DRAM products, visit Samsung Semiconductor website.
+
+ 
+About Samsung Electronics Co., Ltd.
+ 
+Samsung inspires the world and shapes the future with transformative ideas and technologies. The company is redefining the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, network systems, and memory, system LSI, foundry and LED solutions. For the latest news, please visit the Samsung Newsroom at news.samsung.com.
+
+ 
+1 DDR5 DRAM: Double-Data Rate 5 Dynamic Random-Access Memory.
+
+ 
+Ujeong Jahnke
+Samsung Semiconductor Europe GmbH
+Tel. +49(0)89-45578-1000
+Email: sseg.comm@samsung.com
+ 
+Ujeong Jahnke
+Samsung Semiconductor Europe GmbH
+Tel. +49(0)89-45578-1000
+Email: sseg.comm@samsung.com

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/l-t-technology-services-and-qualcomm-selected-by-thales-for-enabling-5g-private-networks-in/article_a791d1aa-f05a-52e5-a912-01d31827740b.html

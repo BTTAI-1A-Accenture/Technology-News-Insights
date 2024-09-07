@@ -1,0 +1,18 @@
+
+
+I agree to receive Information Age.
+                    
+ 
+
+I declare that I have read, understood and agree to the 
+                        
+                            ACS Privacy Policy
+                        
+ and consent to my personal information being collected, held and processed for the purposes outlined in that policy.  
+ Thanks for signing up! Sorry there was an error with your request. 
+                By Casey Tonkin on Apr 04 2023 10:39 AM
+             
+
+		Print article
+	
+ An update to the Service NSW website accidentally saw personal information like driver licences, car registrations, and even children’s names leaked to other users in a short-lived incident last month. The state government emailed people affected by the data leak on Monday, notifying them that their personal information may have been exposed during a 90-minute period on 20 March. “I can confirm this was not a cyber attack and Service NSW believes that any risk of harm presented by this incident is very low,” the department's CEO Greg Wells said in the email. “Service NSW takes the privacy of our customers very seriously and I apologise that this incident has occurred.” Information that may have leaked to other users includes data associated with driver licences, vehicle registration, children’s services, seniors cards, and conveyancing licences. Wells said in his email that the issue was triggered by an update to an account dashboard that “resulted in some customers’ information being visible to other customers” who happened to be logged in at the same time. The department worked out which users were logged in during that 90-minute window and told them they “may have seen other people’s personal information” or "had their information seen by other people”. “The personal information was not searchable,” the email read. Service NSW told Information Age it had notified around 3,700 customers along with the Information and Privacy Commissioner. “Our priority is the safety and security of every customer affected by the incident, and we are committed to ensuring customers feel supported,” a spokesperson said. Service NSW said it has “undertaken a detailed investigation to understand the scope of the incident and the risks arising from it” but expects it to be “an isolated incident”. The state government directed affected customers to ID Support NSW which can be reached on 1800 00 10 40 or via an online form. Back in 2020, Service NSW was hit by a cyber attack that saw details of over 100,000 people exposed when bad actors gained access to emails that staff were using to transfer documents. It took nearly a year to notify everyone via registered mail. In 2021, Transport for NSW was caught out using a legacy file transfer system, and ended up having 250GB of data dumped on the dark web.

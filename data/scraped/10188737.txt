@@ -1,0 +1,72 @@
+Someone with a lot of money to spend has taken a bearish stance on Walmart WMT. And retail traders should know. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know. But when something this big happens with WMT, it often means somebody knows something is about to happen. Today, Benzinga's options scanner spotted 13 options trades for Walmart. This isn't normal. The overall sentiment of these big-money traders is split between 46% bullish and 53%, bearish. Out of all of the options we uncovered, there was 1 put, for a total amount of $27,482, and 12, calls, for a total amount of $555,928.. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $130.0 to $160.0 for Walmart over the last 3 months.  Looking at the volume and open interest is an insightful way to conduct due diligence on a stock. This data can help you track the liquidity and interest for Walmart's options for a given strike price. Below, we can observe the evolution of the volume and open interest of calls and puts, respectively, for all of Walmart's whale activity within a strike price range from $130.0 to $160.0 in the last 30 days.   
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+WMT
+CALL
+SWEEP
+BULLISH
+04/21/23
+$140.00
+$117.3K
+9.0K
+141
+
+
+WMT
+CALL
+SWEEP
+BEARISH
+04/21/23
+$130.00
+$115.1K
+353
+65
+
+
+WMT
+CALL
+TRADE
+BULLISH
+04/14/23
+$145.00
+$42.1K
+630
+135
+
+
+WMT
+CALL
+SWEEP
+BULLISH
+04/21/23
+$152.50
+$36.9K
+257
+443
+
+
+WMT
+CALL
+TRADE
+BEARISH
+01/19/24
+$160.00
+$34.0K
+2.7K
+53
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for Walmart, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

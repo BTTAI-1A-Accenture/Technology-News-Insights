@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.medgadget.com', port=443): Max retries exceeded with url: /2023/01/mrna-vaccines-and-rnai-therapeutics-market-to-surge-usd-12-31-billion-with-growing-cagr-of-31-3-by-2031.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da96e0ba60>, 'Connection to www.medgadget.com timed out. (connect timeout=5)'))

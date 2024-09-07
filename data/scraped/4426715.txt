@@ -1,0 +1,45 @@
+
+Booz Allen Will Implement and Operate Thunderdome's Zero Trust Network Access and Application Security Architecture
+ 
+Booz Allen Hamilton BAH today announced it was awarded a follow-on production other transaction authority (OTA) agreement for at-scale deployment of Thunderdome, the Defense Information Systems Agency's (DISA) zero trust network access and application security architecture. The single-award contract has a one-year base period of performance, with four one-year option periods. Under this agreement, Booz Allen will help to move DISA, the Fourth Estate, and its mission partners toward a zero-trust architecture.
+
+ 
+Booz Allen will broadly implement and operate Thunderdome's zero trust network access and application security architecture, which will harden Department of Defense (DoD) networks and help warfighters defend against adversarial activity by employing network and resource access tools along with segmentation technologies. DISA's Thunderdome capabilities align with the Executive Order on Improving the Nation's Cybersecurity and the DoD Zero Trust Strategy and Roadmap.
+
+ 
+"The at-scale production of Thunderdome will be a critical step toward moving DoD forward in its zero trust journey," said Kelly Rozumalski, a senior vice president leading Booz Allen's National Cyber defense business. "Our team successfully demonstrated the use of commercial technologies to help meet many of DoD's zero trust implementation goals, and our internal zero trust investments helped accelerate our ability to bring innovative solutions to complex challenges. This agreement further establishes Booz Allen as the premier zero trust service provider to federal agencies."
+
+ 
+This award follows Booz Allen's successful delivery of the Thunderdome prototype earlier this year. In January 2022, DISA awarded an initial OTA agreement to Booz Allen for the execution of a Thunderdome prototype, a zero-trust security solution to modernize and strengthen DoD's cybersecurity terrain. During the prototype phase, DISA successfully onboarded over 1,800 users to Thunderdome and implemented conditional access for remote and on-premise users. In addition, Booz Allen achieved an Authority to Operate (ATO) for Thunderdome on DISA's unclassified and classified network.
+
+ 
+"At-scale adoption of Thunderdome is a huge step toward zero trust and, ultimately, mitigating malicious activity," said Chris Pymm, DISA's Thunderdome portfolio manager. "The success of the prototype proved that commercial-off-the-shelf technologies can be integrated effectively to accelerate zero trust within DoD. Not only did Thunderdome's prototype improve security in evaluated operational use cases, it also added efficiency to pilot users across the DoD Information Network."
+
+ 
+DISA's Thunderdome prototype proved that commercial technologies, including Secure Access Service Edge (SASE), Software Defined-Wide Area Networks/Customer Edge Security Stack (CESS), and Application Security Stacks, can improve both security and network performance in an existing enterprise environment. Thunderdome is a set of technologies integrated with, but not dependent upon, each other.
+
+ 
+"We are proud of our partnership with DISA to successfully deliver the Thunderdome prototype," said Imran Umar, a vice president spearheading Booz Allen's zero trust practice. "The Thunderdome prototype was composed of innovative technologies to demonstrate, with real users, that they will work together to deliver the tenets of zero trust on both classified and unclassified networks. We look forward to our continued partnership with DISA to take this solution into full production."
+
+ 
+Read more about Booz Allen's National Cyber business and the firm's deep commitment to modernizing defensive operations through zero-trust architecture.
+
+ 
+About Booz Allen Hamilton
+ 
+Trusted to transform missions with the power of tomorrow's technologies, Booz Allen Hamilton advances the nation's most critical civil, defense, and national security priorities. We lead, invest, and invent where it's needed most—at the forefront of complex missions, using innovation to define the future. We combine our in-depth expertise in AI and cybersecurity with leading-edge technology and engineering practices to deliver impactful solutions. Combining more than 100 years of strategic consulting expertise with the perspectives of diverse talent, we ensure results by integrating technology with an enduring focus on our clients. We're first to the future—moving missions forward to realize our purpose: Empower People to Change the World®.
+
+ 
+With global headquarters in McLean, Virginia, our firm employs approximately 32,600 people globally as of June 30, 2023, and had revenue of $9.3 billion for the 12 months ended March 31, 2023. To learn more, visit www.boozallen.com. BAH
+ 
+Forward-Looking Statements
+ 
+Certain statements contained in this press release include "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. Examples of forward-looking statements include prospective performance and opportunities, as well as any other statement that does not directly relate to any historical or current fact. In some cases, you can identify forward-looking statements by terminology such as "may," "will," "could," "should," "forecasts," "expects," "intends," "plans," "anticipates," "projects," "outlook," "believes," "estimates," "predicts," "potential," "continue," "preliminary," or the negative of these terms or other comparable terminology. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we can give you no assurance these expectations will prove to have been correct. These forward-looking statements relate to future events or our future financial performance and involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance, or achievements to differ materially from any future results, levels of activity, performance, or achievements expressed or implied by these forward-looking statements.
+
+ 
+Additional information concerning risks and uncertainties and other factors can be found in our filings with the Securities and Exchange Commission (the SEC), including in our Annual Report on Form 10-K filed with the SEC on May 26, 2023. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the foregoing cautionary statements. All such statements speak only as of the date made and, except as required by law, we undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events, or otherwise.
+
+ 
+BAHPR-CW
+
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230814059517/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

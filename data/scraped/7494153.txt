@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.bidmc.org', port=443): Max retries exceeded with url: /about-bidmc/news/2023/10/agents-of-change-a-bidmc-obgyn-advocates-for-reproductive-justice-for-all (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1007)')))

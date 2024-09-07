@@ -1,0 +1,143 @@
+Armed with some data from our friends at CrunchBase, I broke down the largest global startup funding rounds for November 2022. I have included some additional information such as industry, round type, a brief description of the company, investors in the round, company location, and total equity funding raised for the company to further the analysis. Interested in the top NYC Startup Fundings?  – The Largest NYC Startup Funding Rounds of November 2022
+Interested in the top LA Startup Fundings? – The Largest LA Startup Funding Rounds for November 2022
+Interested in the top London Startup Funding? – The Largest London Startups Funding Rounds of November 2022
+Interested in the top US Startup Funding? – The Largest US Startups Funding Rounds of November 2022  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series B
+Description: New York-based Apiiro enables security and development teams to proactively remediate risk before releasing to the cloud. Founded by Idan Plotnik and Yonatan Eldar in 2018, Apiiro has now raised a total of $135.0M in total equity funding and is backed by General Catalyst, Greylock, Kleiner Perkins, Ted Schlein, and Asheem Chandna.
+Investors in the round: General Catalyst, Greylock, Kleiner Perkins
+Industry: Cloud Security, Network Security, Risk Management, Software
+Founders: Idan Plotnik, Yonatan Eldar
+Founding year: 2018
+Location: New York
+Total equity funding raised: $135.0M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series C
+Description: Toronto-based Xanadu provides hardware, software, applications, and simulators for quantum computing. Founded by Christian Weedbrook in 2016, Xanadu has now raised a total of $231.2M in total equity funding and is backed by Alumni Ventures, Creative Destruction Lab (CDL), Tiger Global Management, Silicon Valley Bank, and BDC Venture Capital.
+Investors in the round: Alumni Ventures, BDC Venture Capital, Bessemer Venture Partners, Capricorn Partners, Forward Ventures, Georgian, Pegasus Tech Ventures, Porsche Automobil Holding, Silicon Valley Bank, Tim Draper
+Industry: Big Data, Hardware, Quantum Computing, Software
+Founders: Christian Weedbrook
+Founding year: 2016
+Location: Toronto
+Total equity funding raised: $231.2M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series B
+Description: Hangzhou-based FreeTech is a provider of intelligent driving solutions and products. Founded by Lin Zhang in 2016, FreeTech has now raised a total of $200.0M in total equity funding and is backed by SAIC, BAIC Capital, Dongfeng Motor Group, Hengxu Capital, and Aspen Capital.
+Investors in the round: BAIC Capital, Chaos Investment, Guopeng Capital, Hengxu Capital, Shaanxi Automobile, Sun Life Everbright Life Insurance, TCL Industry Holding Corp., Tongxiang Chemical Corp.
+Industry: Automotive, Hardware
+Founders: Lin Zhang
+Founding year: 2016
+Location: Hangzhou
+Total equity funding raised: $200.0M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Venture
+Description: Zhuhai-based Trinomab is a Healthcare company. Founded by Zheng Weihong in 2015, Trinomab has now raised a total of ¥1.1B in total equity funding and is backed by Jiaxing Weilong Equity Investment, Qinwan Capital, Shenhong Gejin, Xintaige, and Haichuang Anda.
+Investors in the round: China Medical System Holdings Limited, EFung Capital, Guolian Capital, Haichuang Anda, Jiaxing Weilong Equity Investment, Jinhang Industry Investment, Qinwan Capital, Shenhong Gejin, Shenyin & Wanguo Investment, Xicheng Jinrui, Xintaige, Yifeng Capital, Zhuhai Gree Financial Investment Management
+Industry: Health Care
+Founders: Zheng Weihong
+Founding year: 2015
+Location: Zhuhai
+Total equity funding raised: ¥1.1B  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series B
+Description: Boulder-based Inflection is building an ecosystem of quantum technologies and commercial products for today, driving us, and the entire industry toward tomorrow. Founded by Dana Anderson and Rainer Kunz in 2007, Infleqtion has now raised a total of $161.7M in total equity funding and is backed by In-Q-Tel, Foundry Group, Sumitomo Corporation, Maverick Ventures, and Caruso Ventures.
+Investors in the round: BOKA Group Holdings, Breakthrough Victoria, Christopher Galvin, Foundry Group, Global Frontier Investments, In-Q-Tel, LCP Quantum, Maverick Ventures, Solomon Partners, Sumitomo Corporation
+Industry: Electronics, Mechanical Design, Mechanical Engineering, Quantum Computing, Software
+Founders: Dana Anderson, Rainer Kunz
+Founding year: 2007
+Location: Boulder
+Total equity funding raised: $161.7M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series F
+Description: Wilmington-based Locus Robotics is a warehouse robotics company that manufactures autonomous mobile robots to support e-commerce. Founded by Bruce E. Welty in 2014, Locus Robotics has now raised a total of $416.0M in total equity funding and is backed by Hercules Capital, Tiger Global Management, Silicon Valley Bank, Goldman Sachs Asset Management, and Bond.
+Investors in the round: Bond, G2 Venture Partners, Goldman Sachs Asset Management, Gray‚Äôs Creek Capital Partners, Hercules Capital, HESTA, Newton Investment Management, Next47, Scale Venture Partners, Silicon Valley Bank, Stack Capital, Stafford Capital Partners, SuRo Capital
+Industry: E-Commerce, Industrial Automation, Logistics, Robotics, Warehousing
+Founders: Bruce E. Welty
+Founding year: 2014
+Location: Wilmington
+Total equity funding raised: $416.0M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series B
+Description: Santa Monica-based Swell Energy is a home energy company that provides smart grid and energy management solutions for homeowners and businesses. Founded by Andrew Meyer, Matthew Rising, and Suleman Khan in 2014, Swell Energy has now raised a total of $582.0M in total equity funding and is backed by Ares Management, Third Sphere, SoftBank Vision Fund, Greenbacker Group, and Ontario Power Generation.
+Investors in the round: Ares Management, Greenbacker Group, Ontario Power Generation, SoftBank Vision Fund
+Industry: Energy, Energy Management, Renewable Energy, Semiconductor, Smart Home
+Founders: Andrew Meyer, Matthew Rising, Suleman Khan
+Founding year: 2014
+Location: Santa Monica
+Total equity funding raised: $582.0M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series E
+Description: Redwood City-based Alation offers a machine learning data catalog to help people find, understand, and trust data across their organizations. Founded by Aaron Kalb, Feng Niu, Satyen Sangani, and Venky Ganti in 2012, Alation has now raised a total of $315.0M in total equity funding and is backed by Andreessen Horowitz, General Catalyst, DCVC, Costanoa Ventures, and StartX (Stanford-StartX Fund).
+Investors in the round: Costanoa Ventures, Databricks Ventures, Dell Technologies Capital, Hewlett Packard Enterprise, Icon Ventures, IDC, Queensland Investment Corporation, Riverwood Capital, Salesforce Ventures, Sanabil, Sapphire Ventures, Thoma Bravo, Union Grove Venture Partners
+Industry: Analytics, Artificial Intelligence, Business Intelligence, Data Integration, Machine Learning
+Founders: Aaron Kalb, Feng Niu, Satyen Sangani, Venky Ganti
+Founding year: 2012
+Location: Redwood City
+Total equity funding raised: $315.0M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series D
+Description: Campbell-based WEKA is a global data management provider that delivers a cloud-native, software-based data platform for next-generation workloads. Founded by Liran Zvibel, Maor BenDayan, and Omri Palmon in 2013, WEKA has now raised a total of $293.9M in total equity funding and is backed by NVIDIA, Norwest Venture Partners, Qualcomm Ventures, Generation Investment Management, and Hewlett Packard Enterprise.
+Investors in the round: 10D, Atreides Management, Celesta Capital, Gemini Israel Ventures, Generation Investment Management, Hewlett Packard Enterprise, Hitachi Ventures, Key 1 Capital, Lumir Ventures, Micron Ventures, Mirae Asset Capital, MoreTech Ventures, Norwest Venture Partners, NVIDIA, Qualcomm Ventures, Samsung Catalyst Fund
+Industry: Artificial Intelligence, Cloud Storage, Data Center, Information Technology, Software
+Founders: Liran Zvibel, Maor BenDayan, Omri Palmon
+Founding year: 2013
+Location: Campbell
+Total equity funding raised: $293.9M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series H
+Description: Gurgaon-based HealthKart offers fitness products and services to help consumers achieve their fitness goals. Founded by Sameer Maheshwari in 2011, Healthkart has now raised a total of $196.0M in total equity funding and is backed by Temasek Holdings, Sequoia Capital, IIFL Finance, Kae Capital, and Sofina.
+Investors in the round: A91 Partners, Temasek Holdings
+Industry: Dietary Supplements, E-Commerce, Fitness, Retail, Wellness
+Founders: Sameer Maheshwari
+Founding year: 2011
+Location: Gurgaon
+Total equity funding raised: $196.0M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series B
+Description: Nanjing-based SemiDrive is a Car smart driving chip developer Founded by Qiang Zhang and Yuqing Qiu in 2018, SemiDrive has now raised a total of $366.4M in total equity funding and is backed by Contemporary Amperex Technology, Vertex Ventures, Huatai Insurance Group, Sequoia Capital China, and Matrix Partners China.
+Investors in the round: CITIC Securities, GoldStone Investment, Huatai Insurance Group, Shang Qi Capital, Shanghai STVC Group, Shenzhen Guozhong Venture Capital Management, V Fund Management, Vinno Capital, ZJ Innopark (Zhangjiang Hi-Tech Park)
+Industry: Semiconductor
+Founders: Qiang Zhang, Yuqing Qiu
+Founding year: 2018
+Location: Nanjing
+Total equity funding raised: $366.4M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series D
+Description: Santa Clara-based Astera Labs is a semiconductor company that provides connectivity solutions for intelligent systems. Founded by Casey Morrison, Jitendra Mohan, and Sanjay Gajendra in 2017, Astera Labs has now raised a total of $206.4M in total equity funding and is backed by Fidelity Management and Research Company, Valor Equity Partners, Sutter Hill Ventures, Intel Capital, and Avigdor Willenz.
+Investors in the round: Atreides Management, Fidelity Management and Research Company, Intel Capital, Sutter Hill Ventures
+Industry: Automotive, Electronics, Intelligent Systems, Semiconductor
+Founders: Casey Morrison, Jitendra Mohan, Sanjay Gajendra
+Founding year: 2017
+Location: Santa Clara
+Total equity funding raised: $206.4M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Venture
+Description: Dubai-based Fenix Games is a Web 3.0 games publisher comprised of gaming and Wall Street professionals. Founded by Chris Ko and Rudy Koch in 2022, Fenix Games has now raised a total of $150.0M in total equity funding and is backed by Phoenix Technology and Cypher Capital.
+Investors in the round: Cypher Capital, Phoenix Technology
+Industry: Computer, Gaming
+Founders: Chris Ko, Rudy Koch
+Founding year: 2022
+Location: Dubai
+Total equity funding raised: $150.0M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series B
+Description: Algiers-based Yassir is a transport service allowing everyone to book drivers and move around safely. Founded by El Mahdi Yettou and Noureddine Tayebi in 2017, Yassir has now raised a total of $217.6M in total equity funding and is backed by Alumni Ventures, Y Combinator, Moving Capital, FJ Labs, and Edward Lando.
+Investors in the round: Bond, DN Capital, Dorsal Capital, George Godula, Moving Capital, Quiet Capital, Spike Ventures, Y Combinator
+Industry: Financial Services, Information Technology, Mobile Apps, Transportation
+Founders: El Mahdi Yettou, Noureddine Tayebi
+Founding year: 2017
+Location: Algiers
+Total equity funding raised: $217.6M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series E
+Description: Bruchsal-based Volocopter is an urban air mobility company that develops eco-friendly air taxis to transport people. Founded by Alexander Zosel and Stephan Wolf in 2011, Volocopter has now raised a total of $780.6M in total equity funding and is backed by Intel, Mercedes-Benz Group AG, BlackRock, MS&AD Ventures, and Continental.
+Investors in the round: Gly Capital Management, NEOM
+Industry: Aerospace, Air Transportation, Drones, Robotics, Transportation
+Founders: Alexander Zosel, Stephan Wolf
+Founding year: 2011
+Location: Bruchsal
+Total equity funding raised: $780.6M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series C
+Description: Berlin-based Matter Labs is scaling Ethereum with zero-knowledge proofs to accelerate public blockchain adoption. Founded by Alex Gluchowski and Alexandr Vlasov in 2018, Matter Labs has now raised a total of $258.0M in total equity funding and is backed by ConsenSys, Blockchain Capital, Andreessen Horowitz, Gnosis, and Wintermute Trading.
+Investors in the round: Andreessen Horowitz, Blockchain Capital, Dragonfly, Lightspeed Venture Partners, Variant
+Industry: Blockchain, Ethereum, Internet, Software
+Founders: Alex Gluchowski, Alexandr Vlasov
+Founding year: 2018
+Location: Berlin
+Total equity funding raised: $258.0M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series D
+Description: Beijing-based Beijing Weilan New Energy Technology is an enterprise company focusing on the development of next-generation all-solid-state batteries. Founded by Chen liquan in 2016, Beijing Weilan New Energy Technology has now raised a total of $302.7M in total equity funding and is backed by Geely, Shunwei Capital, China Merchants Capital, Hermitage Capital, and Hidden Hill Capital.
+Investors in the round: Bureau Capital,, China Merchants Capital, China State-owned Enterprise Mixed Ownership Reform Fund, CITIC Construction Investment, Dyee Capital, Fangyuan Capital, Hermitage Capital, Hexuan Capital, Hidden Hill Capital, Huzhou Economic Development, SDIC Chuangyi, Yinshan Capital, Zibo Jingneng
+Industry: Battery, Electronics, Energy, Manufacturing
+Founders: Chen liquan
+Founding year: 2016
+Location: Beijing
+Total equity funding raised: $302.7M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here.  Round: Series E
+Description: Denver-based DispatchHealth is a provider of mobile and virtual healthcare for people of all ages in the comfort of their own homes. Founded by Kevin Riddleberger and Mark Prather in 2013, DispatchHealth has now raised a total of $733.2M in total equity funding and is backed by Humana, Tiger Global Management, US Acute Care Solutions, Silicon Valley Bank, and Oak HC/FT.
+Investors in the round: Adams Street Partners, Blue Shield of California, Echo Health Ventures, Humana, Oak HC/FT, Optum Ventures, Pegasus Tech Ventures, Questa Capital Management, Silicon Valley Bank, The Olayan Group
+Industry: Health Care, Home Health Care, Medical, mHealth
+Founders: Kevin Riddleberger, Mark Prather
+Founding year: 2013
+Location: Denver
+Total equity funding raised: $733.2M  The TechWatch Media Group audience is driving progress and innovation on a global scale. With its regional media properties (New York Tech, London Tech, LA Tech, Paris Tech, Boston Tech) TechWatch Media Group is the highway for technology and entrepreneurship. There are a number of options to reach this audience of the world’s most innovative organizations and startups at scale including strategic brand placement in a high-visibility piece like this, which will be read by the vast majority of key decision-makers in the global business community and beyond. Learn more about how a digital campaign will return your investment here. ABOUT US
+ADVERTISE
+EDITORIAL GUIDELINES
+LEGAL
+PRIVACY
+TERMS OF USE CONTACT US
+ADVERTISE
+TIPS
+WRITE FOR US NYC VC
+NYC TECH EVENTS
+NYC TECH NEWS
+NYC STARTUPS
+NYC COWORKING
+TECH DIRECTORY  © 2023 AlleyWatch | All Rights Reserved | Proudly Made for NYC  © 2023 AlleyWatch | All Rights Reserved | Proudly Made for NYC Join the millions and keep up with the stories shaping entrepreneurship. Sign up today. 

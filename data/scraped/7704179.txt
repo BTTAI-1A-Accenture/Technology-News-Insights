@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.galvnews.com/news_ap/business/ninjaone-debuts-patch-management-advancements-to-mitigate-security-vulnerabilities/article_7bb73bd7-3bd7-50b1-8cd5-f45a3adb37c6.html

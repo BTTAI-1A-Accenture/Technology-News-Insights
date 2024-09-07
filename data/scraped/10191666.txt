@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://www.kentuckytoday.com/news/business/syntiant-introduces-production-ready-edge-ai-software-solutions-for-image-detection-tracking/article_ed6a4190-17b2-5883-8a0e-df8361f8dc78.html

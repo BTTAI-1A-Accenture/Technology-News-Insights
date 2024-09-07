@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://enquirerjournal.com/enquirer_journal/telemedicine-program-launched-to-increase-access-to-covid-19-treatment/article_8d07e611-bf94-5e76-8646-2a2090f5f696.html

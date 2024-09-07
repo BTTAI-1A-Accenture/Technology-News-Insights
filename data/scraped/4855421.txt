@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.claytoncountyregister.com', port=443): Max retries exceeded with url: /news2/history-of-citizens-holding-company/412560/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7e2456e19060>: Failed to resolve 'www.claytoncountyregister.com' ([Errno -2] Name or service not known)"))

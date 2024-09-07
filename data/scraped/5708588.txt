@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/plug-celebrates-completion-of-world-class-fuel-cell-manufacturing-facility-with-ribbon-cutting-event/article_c124558e-e519-5737-a49a-dfbf38a4edb4.html

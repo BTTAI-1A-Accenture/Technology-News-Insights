@@ -1,0 +1,68 @@
+
+          Purple is offering up to $1000 off a mattress + base | 
+            Read Review
+ 
+      Updated April 19, 2023
+     It can be hard to find a laptop powerful enough to dabble in 3D art without sacrificing affordability, portability, or aesthetics. But the Dell Inspiron 14 Plus 
+      (available at Amazon)
+    
+ lies at the intersection of all that, with looks reminiscent of the Dell XPS 13 and discrete graphics powerful enough to run Cyberpunk 2077 at a playable framerate. It’s a step above an entry-level MacBook in performance, but it’s also thin and light enough to blend in with other productivity laptops, making it a solid multipurpose device for most use cases. Products are chosen independently by our editors. Purchases made through our links may earn us a commission. 
+          About the Dell Inspiron 14 Plus
+         
+          What we like
+         
+          What we don’t like
+         
+          Should you buy the Dell Inspiron 14 Plus?
+         
+          Related content
+         
+              Stylish chassis
+             
+              Bright display
+             
+              Strong overall performance
+             
+              Doesn’t beat a gaming laptop
+             
+              Unimpressive audio
+             Its aluminum body and thin profile, along with the more subtle design details on the trackpad and keyboard, make this a luxe laptop to touch. Here are the specs of the laptop we tested: Dell’s Inspiron 14 Plus is a higher-end model in its Inspiron line of productivity laptops. It comes in two models: one with discrete graphics (Nvidia RTX 3050) and one with integrated Intel Iris Xe graphics. We tested the discrete graphics model, which costs $1,450 (although we’ve seen it on sale for $999, including at the time of publication). The other model costs $1,300. The Dell Inspiron 14 Plus (2022) cost $1,300. The Inspiron 14 Plus's aluminum body and thin profile, along with the more subtle design details on the trackpad and keyboard, make this a luxe laptop to touch. Most of the laptop’s surface is semi-gloss, but the matte keyboard is sunken into a completely matte surface. It’s comfortable to type on, like many other Dell laptops’ keyboards such as the Dell XPS 13. The keys are springy without being stiff, and the spacing is just right to keep my hands from cramping. The touchpad is larger than my hand, its surface is smooth, and it registered all my inputs accurately.  Laptop manufacturers have taken notice of the Right to Repair movement, and as a result, some manufacturers provide service manuals and detailed specifications that anyone can use to work with the laptop. The Dell Inspiron 14 Plus’ service manual goes so far as to list recommended tools and it has step-by-step diagrams of how to open the laptop and how to modify or replace vital components. The instructions are clear enough that someone with little tech know-how can follow along.  Despite being a mid-range laptop, the Dell Inspiron 14 Plus packs an Intel Core i7-12700H, one of Intel’s high-performance processors normally found in gaming laptops. But because this is a productivity laptop, fast multicore performance is essential for quickly switching from one task to the next. In the Cinebench R23 benchmark, the laptop scored 14154 points in the multicore test. That puts it toward the higher end of laptop performance according to our data. By comparison, the 2022 MacBook Air scored 8288 points in the multicore test, and the Acer Swift X scored 9861 points. Not even the Apple MacBook Pro 14 M2 Pro could best the Inspiron 14 Plus.  The Dell Inspiron 14 Plus’s processor also holds its weight among gaming laptops. The Acer Nitro 5, another gaming-centric budget laptop, scored 13221 points. Only beefy high-end laptops like the Acer Predator Triton 500SE and the Razer Blade 16 were able to beat the Inspiron 14 Plus.  The Inspiron 14 Plus’s display, rated for 300 nits of brightness, surpassed its listed specs by over 50 nits. It’s not as bright as the MacBook Air’s 500-nit display, but 350 nits put the Dell Inspiron 14 Plus on par with the pricier Dell XPS 13 Plus and with the Asus Zenbook 13 OLED, all of which can be comfortably used outside on a sunny day.  The laptop’s color range is also good, covering 100% of the standard RGB color gamut. (Budget laptops sometimes skimp out here and can cover as little as 70% of the sRGB gamut.) Paired with its brightness and its 2.2K resolution, the display produces a picture that is crisp and vibrant. However, it falls short on contrast—the matte display’s washed-out blacks could be a problem for nighttime and other dark scenes. Even so, laptops with notably better displays either cost a lot more money or lack a discrete graphics card; the Inspiron 14 Plus’s screen is good enough in both regards for casual media editing. The Dell Inspiron 14 Plus packs an Intel Core i7-12700H, one of Intel’s high-performance processors normally found in gaming laptops. At seven hours and 42 minutes, the Dell Inspiron 14 Plus’s battery is about in line with what we’d expect of a productivity laptop, and hours more than we’d expect from a gaming laptop. It’s enough to shoot off a few emails or listen to a couple of meetings without scurrying toward the power outlet before the end of the day, but that battery life will be cut short if you use it for anything performance intensive.  To test battery life, we simulate a daily productivity load by cycling through dozens of Chrome tabs with a fully charged laptop set to 200 nits of brightness and run the test until the laptop runs out of charge; the Dell Inspiron 14 Plus is excellent compared to many gaming laptops—we consider six hours or more to be a top performer in this metric, like the Asus TUF Dash F15 with six hours and 16 minutes. For a productivity laptop, the Dell Inspiron 14 Plus’s battery life is good, but many laptops can last for eight hours or more. For instance, some Dell XPS 13 models can last over 16 hours and the MacBook Air M2 lasts over 17 hours. Still, it’s much more battery life than on most laptops with Intel’s H-series processors. Usually, we see greater battery life on laptops with P-series or U-series Intel processors since both use fewer Watts per hour. The downside is that less power consumption usually means less maximum performance. For those curious: the Dell Inspiron 14 Plus’s processor consumes up to 115W when fully using all its cores, while the Dell XPS 13’s Intel Core i5-1230U consumes up to 29W, or 16W less than the Intel Core i7-12700H’s base 45W power. It’s rare to see H-series processors tuned well enough to provide both power efficiency and performance!   
+            Enter your email:
+             Most of the laptop’s surface is semi-gloss, but the matte keyboard is sunken into a completely matte surface. The Inspiron 14 Plus’s RTX 3050 graphics card is a notable step up from integrated graphics. It performs well enough to keep up with cheaper gaming laptops, but only barely. Graphically intense video games like Cyberpunk 2077 can run at 30 frames per second (fps) or more on the Ultra graphics preset. Esports and older big-budget games, which don’t have the same graphical demands, can usually run at 60 fps on Ultra. On the highest graphics settings for each game, Fortnite ran at 45 fps, Final Fantasy XIV ran at 56 fps, and Shadow of the Tomb Raider ran at 56 fps.  The audio from the Dell Inspiron 14 gets reasonably loud and is clearly audible from thirty feet away. But it lacks bass and some of the midrange, leaving the sound feeling empty, which made me feel fatigued after listening to Twitch streams for an hour. The sound is poor for watching movies and listening to music, but it is passable for a podcast or a news video where voices are the only thing that matters.  At seven hours and 42 minutes, the Dell Inspiron 14 Plus’s battery is about in line with what we’d expect of a productivity laptop, and hours more than we’d expect from a gaming laptop. The Dell Inspiron 14 Plus looks and feels like a premium productivity laptop, but its performance goes a step above compared to most laptops at its sale price. For an architecture or engineering student, a life or farming sim gamer, or a person with an unpredictable workload, its balance of core performance, graphics power, portability, and affordability would be a perfect fit. For everyone else, it’s simply a fast computer with a gorgeous chassis, decent battery life, and a good display. There aren’t many laptops like the Dell Inspiron 14 Plus these days—most are made with only power or portability in mind at this price range, and laptops with both power and portability are notably more expensive. For instance, the Acer Swift X has a slightly weaker processor, a slightly stronger graphics card, and a nine-hour battery life for under $1,000 at full price. If you wait for a sale, the Asus ROG Zephyrus G14 is an excellent all-arounder with strong graphics performance, a nine-hour battery life, and sophisticated design. While it costs $1,500 or more at full price, we’ve seen it go as low as $1,100.  The Inspiron 14 Plus is one of those laptops that’s obviously good but hard to quantify—it doesn’t top charts with performance, nor does it have some outstanding gimmick, but the attention to detail across every part of the user experience creates something special. Unless you need a powerhouse of a machine, a sublime audio experience, or ten hours of battery life, it’s hard to imagine who wouldn’t be pleased with this laptop. The Dell Inspiron 14 Plus (2022) has a stylish chassis, bright display, and strong overall performance. 
+
+Prices were accurate at the time this article was published but may change over time.
+
+        The product experts at Reviewed
+        have all your shopping needs covered.
+        Follow Reviewed on Facebook,
+        Twitter,
+        Instagram,
+        TikTok,
+        or Flipboard for the latest deals, product reviews, and more.
+      
+
+ Prices were accurate at the time this article was published but may change over time. 
+        The product experts at Reviewed
+        have all your shopping needs covered.
+        Follow Reviewed on Facebook,
+        Twitter,
+        Instagram,
+        TikTok,
+        or Flipboard for the latest deals, product reviews, and more.
+       
+                  Adrien Ramirez
+                 
+                  Staff Writer
+                 
+                  Adrien is the PC staff writer for Reviewed with over 4 years of experience covering laptops, desktops, software, games, and more.
+                 
+    Our team is here for one purpose: to help you buy the best stuff and love what you own. Our writers, editors, and lab technicians obsess over the products we cover to make sure you're confident and satisfied. Have a different opinion about something we recommend? Email us and we'll compare notes.
+   
+            Enter your email:
+           
+  ©2024 Reviewed, a division of Gannett Satellite Information Network LLC. All rights reserved.
+  
+  Products are chosen independently by our editors. Purchases made through our links may earn us a commission.
+ 
+            Enter your email:
+          

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/clara-analytics-ai-platform-extracts-deep-context-from-plaintiff-legal-demands/article_8a09efbd-f413-5e47-bcab-e90b0f1b5aaa.html

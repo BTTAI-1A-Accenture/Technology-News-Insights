@@ -1,0 +1,1 @@
+HTTPConnectionPool(host='markets.buffalonews.com', port=80): Max retries exceeded with url: /buffnews/article/gnwcq-2023-4-17-safe-harbor-financial-resolves-686-million-in-debt-obligations (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x79da93999c30>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

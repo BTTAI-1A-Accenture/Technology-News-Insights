@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Business Wire IndiaL&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced it has been selected by Thales to offer 5G driven next-gen connectivity solutions, which will include collaboration with Qualcomm Technologies, Inc., allowing it to provide cutting edge solutions for the benefit of urban railway operators.
+ 
+The solution leverages LTTS’ chip-to-cloud expertise, as well as its technology portfolio of connected IoT devices and 5G small cells based on Qualcomm Technologies, to develop and deploy solutions for the Global 5G Private Network Industry, with digital offerings aimed at accelerating transformation across a range of industries including railway networks, aerospace, and automotive.
+ 
+LTTS’ end-to-end 5G capabilities enable global enterprises with faster deployment, cutting-edge applications, and well-rounded managed services. This in turn facilitates creation of virtual private networks for 5G. With the support of Qualcomm Technologies’ comprehensive 5G technologies that enables intelligent cloud edge convergence, LTTS has established a Centre of Excellence (CoE) for 5G in Santa Clara (California). This CoE showcases a plethora of critical 5G driven applications, and its Lab-as-a-service offerings include MEC use cases development, end-to-end service validation, POC development showcasing and system integration, as well as validation and verification services for customers in key verticals.
+ 
+The solution will include collaboration from Qualcomm Technologies which will provide pre-integrated Private Network solutions based on the Qualcomm® FSM™100 5G RAN Platform for Small Cells, and in the future, add the Qualcomm Edgewise™ Suite – a premium RAN automation and management solution. LTTS will facilitate end-to-end system integration, design, and implementation of use cases, engineering consulting, and deployment services along with edge-to-cloud orchestration. The combined prowess in accelerating the adoption of 5G private wireless networks won the distinction of being chosen as the engineering partner for global technology leader, Thales, in its endeavor to establish the ‘Internet of Smart Metros’ which will enable metros and urban railway networks to ‘talk’ to each other and ultimately transform the passenger experience with comfortable, seamless journeys and new services.
+ 
+The need for increased efficiency in rail network operations coupled with the growing demand for advanced transportation infrastructure has contributed to the evolution of engineering and R&D services in the railroad sector. Analysts expect the smart railway market to grow from $28.9 billion in 2022 to $43 billion by 2027 at a CAGR of 8.3 percent, led by advancements in digital technologies.
+ 
+Ziad Rizk, Chief Operating Officer, Thales, Urban Rail Signalling said, “We are glad to team up with LTTS and Qualcomm Technologies in our mission to meet new mobility demands. As the transportation industry becomes more data-driven, this 5G-enabled Internet of Things (IoT) deployments will provide new ways to monitor metros and infrastructure and deliver the best possible user experience.” 
+ 
+Savi Soin, Senior Vice President, Business Development and Partnerships, Qualcomm Technologies, Inc. said, “This engagement with Thales is a great validation of the collaboration between Qualcomm Technologies and LTTS to accelerate the benefits of digital transformation for all Enterprises, including smart railways, using 5G Private Networks and connected devices. We are very happy to apply our latest technology innovations and portfolio of connected IoT and small cell products to support LTTS in its engagement with Thales in creating positive ROI and business impact to their customers across Thales’ key geographies and markets.”
+ 
+Commenting on the occasion, Abhishek Sinha, Chief Operating Officer and Board Member, L&T Technology Services said, “5G is one of our 6 big bets which cuts across our diverse customer base and solutions. Through our collaboration with Qualcomm Technologies, we are poised to significantly improve the next-mile connectivity in underground transportation leveraging private 5G networks. LTTS’ deep tech capabilities will further accelerate the potential of private 5G in Thales, Urban Rail Signalling’s underground and high-speed rail networks, potentially benefitting commuters around the globe.”About L&T Technology Services Ltd
+
+L&T Technology Services Limited (LTTS) is a listed subsidiary of Larsen & Toubro Limited focused on Engineering and R&D (ER&D) services. We offer consultancy, design, development and testing services across the product and process development life cycle. Our customer base includes 69 Fortune 500 companies and 57 of the world’s top ER&D companies, across industrial products, medical devices, transportation, telecom & hi-tech, and the process industries. Headquartered in India, we have over 21,600 employees spread across 22 global design centers, 28 global sales offices and 91 innovation labs as of December 31, 2022. For more information, please visit www.LTTS.com
+
+About Thales
+
+Thales (Euronext Paris: HO) is a global leader in advanced technologies, investing in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum technologies – to build a confident future crucial for the development of our societies. The Group provides its customers – businesses, organizations and governments – in the defence, aeronautics, space, transport, and digital identity and security domains with solutions, services and products that help them fulfil their critical role, consideration for the individual being the driving force behind all decisions.
+ 
+Thales has 81,000 employees in 68 countries. In 2021, the Group generated sales of €16.2 billion.
+ 
+About Qualcomm
+
+Qualcomm is enabling a world where everyone and everything can be intelligently connected. Our one technology roadmap allows us to efficiently scale the technologies that launched the mobile revolution – including advanced connectivity, high-performance, low-power compute, on-device intelligence and more – to the next generation of connected smart devices across industries. Innovations from Qualcomm and our family of Snapdragon platforms will help enable cloud-edge convergence, transform industries, accelerate the digital economy, and revolutionize how we experience the world, for the greater good.
+ 
+Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio. Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of our engineering, research and development functions, and substantially all of our products and services businesses, including our QCT semiconductor business. 
+
+Qualcomm, FSM, and Qualcomm Edgewise are trademarks or register trademarks of Qualcomm Incorporated.
+ 
+Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries. Qualcomm patented technologies are licensed by Qualcomm Incorporated.

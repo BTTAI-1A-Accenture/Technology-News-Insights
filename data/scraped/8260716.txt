@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.ridgecrestca.com/news/amazon-web-services-scholarship-increase-to-cccc-students-pursuing-degree-in-information-technology-and-cybersecurity/article_677b51c4-920d-11ed-87c7-cf42289eee34.html

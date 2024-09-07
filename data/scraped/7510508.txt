@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.redandblack.com/culture/uga-alum-brings-high-end-clothing-franchise-to-athens/article_6a4c6b5a-697a-11ee-ba57-df9ec7d1d3c5.html

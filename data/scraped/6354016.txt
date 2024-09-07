@@ -1,0 +1,130 @@
+
+                                            Analysis                         |  By Laura Beerman  |  
+                                January 03, 2023 After finding that only six of its 50 alternative payment models (APMs) "generated statistically significant savings to Medicare and to taxpayers," CMS and the Center for Medicare and Medicaid Innovation (CMMI) hope that 2023 will refresh its value-based care (VBC) efforts.Here are four updates to its newest VBC model — ACO REACH — as 2023 kicks off.
+
+
+ACO REACH has launched
+
+
+January 1, 2023, marks the official start of ACO Realizing Equity, Access, and Community Health (ACO REACH). The program replaces Global and Professional Direct Contracting (GPDC). The model had attracted less interest but greater criticism for allowing commercial health plans to participate as Direct Contracting Entities (DCE). As a refresher, ACO REACH represents three significant changes from GPDC:
+
+Providers must represent at least 75% of their ACO's governing and voting rights. CMS increased this ratio from 25% to prevent private equity groups and non-physician stakeholders from controlling these new ACOs.
+Health equity must be a focus. CMS designed ACO REACH to include more high-needs Medicare beneficiaries and the providers who serve them. CMS has not included these group as intentionally in past CMS ACO models: patients due to chronic inequality and physicians in rural and lower-income areas due to the high cost of ACO startup. All ACO REACH participants must create and execute health equity plans.
+CMS will measure and incentivize equity. For the first time, the agency has baked equity into its ACO quality benchmarks, and thus its incentives. HealthLeaders' September interview with Ashley Perry, chief strategy and solutions officer for Socially Determined, revealed two hidden firsts:
+		
+CMS added Area Deprivation Index (ADI) and the inclusion of dual-eligible beneficiaries to its post-baseline reimbursement calculations. This ensures providers and vulnerable beneficiaries in underserved areas are represented.
+The agency also tied quality payments to the collection of social determinants of health (SDOH) demographic data. As a result, CMS will reward or penalize participants based on how many underserved patients they treat and for making SDOH data part of their operations.
+
+
+
+As Perry emphasizes: "It's the first time we've seen the introduction of a zero-sum game, health-equity-driven adjustments to the benchmark." 
+
+
+
+
+
+
+
+GPDC participants must be ready — and credible
+
+
+ACO REACH includes new and existing CMS ACO model players. Among these are GPDC participants who decided to transition and were chosen for ACO REACH. These organizations must demonstrate "a strong compliance record and agree to meet the requirements of the ACO REACH Model by January 1, 2023." That makes the kickoff of ACO REACH a very different milestone for these participants. If CMS identifies and eliminates those that did not meet these thresholds, this group may include GPDCs suspected of prior fraud and abuse. HealthLeaders reported that House and Senate Democrats want CMS to kick out "any health care insurers with a history of defrauding and abusing Medicare and ripping off taxpayers to further encroach on the Medicare system."
+
+
+
+
+
+
+
+More provider types can participate
+
+
+ACO REACH includes six Benefit Enhancements, which allow CMS to waive select Medicare payment requirements. ACOs can apply one or all BEs and, per a legal analysis on JDSupra, "have full control over which providers participate in any BE."This now includes physician assistants (PA), who are "able to certify the need for hospice care; certify the need for diabetic shoes; order and supervise cardiac rehabilitation; establish, review, sign, and date home infusion therapy plans of care; and make referrals for medical nutrition therapy."PAs join Nurse Practitioners (NP) in this ACO BE, with enhancements including five other provisions:
+
+Allow telehealth to be reimbursed without rural requirements and to include "asynchronous telehealth services" for teledermatology and teleophthalmology. As the Advisory Board notes: "Asynchronous technology allows for remote, non-real-time communication between providers and patients" and includes things like secure messaging and remote monitoring.
+Allow personnel other than physicians to provide post-discharge and care management home visits.
+Permit reimbursable home health even if the beneficiary is not homebound if they meet certain clinical risk factors.
+Provide previously prohibited curative services alongside palliative care for people in hospice.
+Waive the skilled nursing facility (SNF) requirement that admission be preceded by a three-day inpatient hospital stay.
+
+
+
+SNF changes are included in two additional BE updates
+
+
+In addition to the PA participation expansion, CMS updated two other ACO REACH BE provisions related to SNFs, including long-term care facilities and newer SNFs (those with less Five-Star Quality Rating System data) to participate in the three-day waiver rule.
+
+
+
+
+
+The BE provisions and updates may further support ACO REACH's broader equity roles by serving more vulnerable individuals in more locations and with more services. Including non-physicians in beneficiary care also addresses provider shortages, particularly in underserved areas. The BEs also address whole-person health for those needing home care and those who are dying.All BE updates are effective July 1, 2023, with JDSupra adding: "CMS intends for these updates to further the primary goals of BEs, which are to emphasize high-value services, support care management, and allow REACH ACOs with flexibility in managing care for their beneficiaries."  
+ Here are four updates to its newest VBC model — ACO REACH — as 2023 kicks off. January 1, 2023, marks the official start of ACO Realizing Equity, Access, and Community Health (ACO REACH). The program replaces Global and Professional Direct Contracting (GPDC). The model had attracted less interest but greater criticism for allowing commercial health plans to participate as Direct Contracting Entities (DCE). As a refresher, ACO REACH represents three significant changes from GPDC: As Perry emphasizes: "It's the first time we've seen the introduction of a zero-sum game, health-equity-driven adjustments to the benchmark." ACO REACH includes new and existing CMS ACO model players. Among these are GPDC participants who decided to transition and were chosen for ACO REACH. These organizations must demonstrate "a strong compliance record and agree to meet the requirements of the ACO REACH Model by January 1, 2023." That makes the kickoff of ACO REACH a very different milestone for these participants. If CMS identifies and eliminates those that did not meet these thresholds, this group may include GPDCs suspected of prior fraud and abuse. HealthLeaders reported that House and Senate Democrats want CMS to kick out "any health care insurers with a history of defrauding and abusing Medicare and ripping off taxpayers to further encroach on the Medicare system."
+
+
+
+
+
+
+
+More provider types can participate
+
+
+ACO REACH includes six Benefit Enhancements, which allow CMS to waive select Medicare payment requirements. ACOs can apply one or all BEs and, per a legal analysis on JDSupra, "have full control over which providers participate in any BE."This now includes physician assistants (PA), who are "able to certify the need for hospice care; certify the need for diabetic shoes; order and supervise cardiac rehabilitation; establish, review, sign, and date home infusion therapy plans of care; and make referrals for medical nutrition therapy."PAs join Nurse Practitioners (NP) in this ACO BE, with enhancements including five other provisions:
+
+Allow telehealth to be reimbursed without rural requirements and to include "asynchronous telehealth services" for teledermatology and teleophthalmology. As the Advisory Board notes: "Asynchronous technology allows for remote, non-real-time communication between providers and patients" and includes things like secure messaging and remote monitoring.
+Allow personnel other than physicians to provide post-discharge and care management home visits.
+Permit reimbursable home health even if the beneficiary is not homebound if they meet certain clinical risk factors.
+Provide previously prohibited curative services alongside palliative care for people in hospice.
+Waive the skilled nursing facility (SNF) requirement that admission be preceded by a three-day inpatient hospital stay.
+
+
+
+SNF changes are included in two additional BE updates
+
+
+In addition to the PA participation expansion, CMS updated two other ACO REACH BE provisions related to SNFs, including long-term care facilities and newer SNFs (those with less Five-Star Quality Rating System data) to participate in the three-day waiver rule.
+
+
+
+
+
+The BE provisions and updates may further support ACO REACH's broader equity roles by serving more vulnerable individuals in more locations and with more services. Including non-physicians in beneficiary care also addresses provider shortages, particularly in underserved areas. The BEs also address whole-person health for those needing home care and those who are dying.All BE updates are effective July 1, 2023, with JDSupra adding: "CMS intends for these updates to further the primary goals of BEs, which are to emphasize high-value services, support care management, and allow REACH ACOs with flexibility in managing care for their beneficiaries."  
+ That makes the kickoff of ACO REACH a very different milestone for these participants. If CMS identifies and eliminates those that did not meet these thresholds, this group may include GPDCs suspected of prior fraud and abuse. HealthLeaders reported that House and Senate Democrats want CMS to kick out "any health care insurers with a history of defrauding and abusing Medicare and ripping off taxpayers to further encroach on the Medicare system." ACO REACH includes six Benefit Enhancements, which allow CMS to waive select Medicare payment requirements. ACOs can apply one or all BEs and, per a legal analysis on JDSupra, "have full control over which providers participate in any BE."This now includes physician assistants (PA), who are "able to certify the need for hospice care; certify the need for diabetic shoes; order and supervise cardiac rehabilitation; establish, review, sign, and date home infusion therapy plans of care; and make referrals for medical nutrition therapy."PAs join Nurse Practitioners (NP) in this ACO BE, with enhancements including five other provisions:
+
+Allow telehealth to be reimbursed without rural requirements and to include "asynchronous telehealth services" for teledermatology and teleophthalmology. As the Advisory Board notes: "Asynchronous technology allows for remote, non-real-time communication between providers and patients" and includes things like secure messaging and remote monitoring.
+Allow personnel other than physicians to provide post-discharge and care management home visits.
+Permit reimbursable home health even if the beneficiary is not homebound if they meet certain clinical risk factors.
+Provide previously prohibited curative services alongside palliative care for people in hospice.
+Waive the skilled nursing facility (SNF) requirement that admission be preceded by a three-day inpatient hospital stay.
+
+
+
+SNF changes are included in two additional BE updates
+
+
+In addition to the PA participation expansion, CMS updated two other ACO REACH BE provisions related to SNFs, including long-term care facilities and newer SNFs (those with less Five-Star Quality Rating System data) to participate in the three-day waiver rule.
+
+
+
+
+
+The BE provisions and updates may further support ACO REACH's broader equity roles by serving more vulnerable individuals in more locations and with more services. Including non-physicians in beneficiary care also addresses provider shortages, particularly in underserved areas. The BEs also address whole-person health for those needing home care and those who are dying.All BE updates are effective July 1, 2023, with JDSupra adding: "CMS intends for these updates to further the primary goals of BEs, which are to emphasize high-value services, support care management, and allow REACH ACOs with flexibility in managing care for their beneficiaries."  
+ This now includes physician assistants (PA), who are "able to certify the need for hospice care; certify the need for diabetic shoes; order and supervise cardiac rehabilitation; establish, review, sign, and date home infusion therapy plans of care; and make referrals for medical nutrition therapy." PAs join Nurse Practitioners (NP) in this ACO BE, with enhancements including five other provisions: In addition to the PA participation expansion, CMS updated two other ACO REACH BE provisions related to SNFs, including long-term care facilities and newer SNFs (those with less Five-Star Quality Rating System data) to participate in the three-day waiver rule.
+
+
+
+
+
+The BE provisions and updates may further support ACO REACH's broader equity roles by serving more vulnerable individuals in more locations and with more services. Including non-physicians in beneficiary care also addresses provider shortages, particularly in underserved areas. The BEs also address whole-person health for those needing home care and those who are dying.All BE updates are effective July 1, 2023, with JDSupra adding: "CMS intends for these updates to further the primary goals of BEs, which are to emphasize high-value services, support care management, and allow REACH ACOs with flexibility in managing care for their beneficiaries."  
+ The BE provisions and updates may further support ACO REACH's broader equity roles by serving more vulnerable individuals in more locations and with more services. Including non-physicians in beneficiary care also addresses provider shortages, particularly in underserved areas. The BEs also address whole-person health for those needing home care and those who are dying.All BE updates are effective July 1, 2023, with JDSupra adding: "CMS intends for these updates to further the primary goals of BEs, which are to emphasize high-value services, support care management, and allow REACH ACOs with flexibility in managing care for their beneficiaries."  
+ All BE updates are effective July 1, 2023, with JDSupra adding: "CMS intends for these updates to further the primary goals of BEs, which are to emphasize high-value services, support care management, and allow REACH ACOs with flexibility in managing care for their beneficiaries."     
+Laura Beerman is a contributing writer for HealthLeaders.
+ Laura Beerman is a contributing writer for HealthLeaders. January 1 was the official start of CMS' ACO REACH program. The date also marks the deadline for groups transitioning from the Global and Professional Direct Contracting Model to meet full ACO REACH participation requirements. CMS has also expanded the program's benefit enhancements, permitting Medicare payment for new conditions. Physicians are in short supply. They are costly. Is the APP the answer to the CMO's workforce and budget challenges?... Hospital leaders are increasingly turning to automation to streamline revenue cycle operations, but should some processes be left behind?... 
+
+Get the latest on healthcare leadership in your inbox.
+
+Subscribe
+
+
+ 

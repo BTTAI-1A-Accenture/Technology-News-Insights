@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/viq-solutions-expands-global-technology-footprint-signing-multi-year-contract-with-multi-national-transcription-services/article_f3bacebf-9367-53a2-8d72-7f2eef60cdc3.html

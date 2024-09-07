@@ -1,0 +1,43 @@
+Login 
+Peter 
+19 September 2023
+ 
+Samsung Mobile hardware
+ Samsung wants to turn the telephoto modules on smartphones into a “second main camera”. By that the company means that current tele sensors are smaller and lower resolution, they are behind on features like HDR and video frame rates too when compared to the phone’s main camera. To be a proper second main camera, the tele module will need a sensor that is good enough for the main camera – and Samsung thinks that its 200MP sensors like the ISOCELL HP2 and HP3 are the right tools for the job. 200MP sensors are already used in some phones that don’t quite have the budget for a separate telephoto lens. These sensors typically have 2x and 4x zoom capabilities at the same resolution (i.e. 12.5MP, which also tends to be the default for the main camera too). Here is an example what can be achieved with such a camera: They have plenty of pixels to throw at the problem and might even beat a low resolution sensor with a long lens in cases where the user zooms in past the lens’ focal length. Here is a 4x zoom with a 200MP sensor and an 11MP sensor that combines 3x optical and 1.3x digital zoom (for a close 3.9x total): This is what we have today. For the future, Samsung’s 200MP sensors might find themselves behind a 3x tele lens – then they will offer 3x, 6x and 12x zoom. Here’s a demo of what will be possible: The ISOCELL HP2 and HP3 are 1/1.3” and 1/1.4” sensors, respectively, and they have a lot in common. They use a 4x4 deep-learning remosaic algorithm, which is what takes the sensors’ 4x4 Tetra²Pixel arrangement and reshuffles it into RGB. This is done on the fast DSPs and GPUs of modern smartphone chipsets. These are premium sensors with advanced autofocus and HDR capabilities to boot, making them better than the typical sensor used in telephoto cameras today. Samsung also touts the importance of tele lenses for portrait photography. For starters, the main camera on today’s phones it way to wide for a good portrait and it causes distortion. This is why longer lenses are preferred. Tele lenses also naturally create a bokeh to separate the subject from the background. And while today’s computational photography bokehs are pretty good, they still mess things up sometimes. Samsung notes that a larger sensor will create a shallower depth of field than a smaller one at the same focal length, so these HP sensors will be a boon for portrait shots too. You can follow the Source link to read Samsung’s detailed post on why 200MP telephoto cameras are the future. However, there you won’t find any concrete plans to bring them to market. Right now we’re hearing murmurs that the Galaxy S24 Ultra will have a 50MP 3x camera (up from 10MP 3x on the S23 Ultra), which will offer native 3x and 6x zoom, but that’s still short of the hypothetical 200MP 3x camera demoed above. So we probably won’t see it next year, but if the company is talking about it today, it probably already has something in the lab. This is, of course, an alternative to Sony’s approach, which uses variable focal length lenses like traditional cameras do. That has only been seen on Xperia phones for now, although other brands are experimenting with such lenses too. Source Interestingly, Samsung has removed this paragraph from their article: 
+"For example, on a 3x telephoto module with a 200MP sensor, lossless zoom scenarios can be run from 3x to 6x to 12x. This impressive capability means that more diverse scene... There are many phones with lenses you have mentioned but those are still behind samsung camera when come into mobile.🤣 As I understand it, that's for video calls. You're not supposed to use it to take selfie pictures. 
+
+
+Phone finder
+ 
+
+
+All brands
+
+
+
+Rumor mill
+
+ 
+Home
+News
+Reviews
+Compare
+Coverage
+Glossary
+FAQ
+RSS feed
+Youtube
+Facebook
+Twitter
+Instagram
+ 
+© 2000-2024 GSMArena.com
+Mobile version
+Android app
+Tools
+Contact us
+Merch store
+Privacy
+Terms of use
+Change Ad Consent
+Do not sell my data

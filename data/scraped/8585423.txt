@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/cio-leadership-hmg-strategy-shatters-registration-record-for-its-2023-southern-california-cio/article_25ec5629-fd1b-536b-962e-1ab5491d4094.html

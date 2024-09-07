@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://tucson.com/news/state-and-regional/govt-and-politics/arizona-ag-sues-firms-over-forever-chemicals/article_a9dc1a96-fe49-11ed-aa7d-eb7550774657.html

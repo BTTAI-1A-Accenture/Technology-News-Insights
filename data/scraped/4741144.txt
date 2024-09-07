@@ -1,0 +1,17 @@
+The month of December saw a significant decrease in the amount of cryptocurrency stolen by hackers and exploiters, with a total of $62.2 million in assets taken. This marks the lowest monthly figure for the year, according to blockchain security firm CertiK. Of the 23 major attacks that occurred during the month, exit scams were responsible for the greatest value at $15.5 million, while flash loan-based exploits accounted for $7.6 million. #CertiKStatsAlert 🚨
+
+Combining all the incidents in December we’ve confirmed ~$62.2M lost to exploits, hacks and scams.
+
+The lowest monthly figure this year.
+
+Exit scams were ~$15.5M
+
+Flashloans were ~$7.6M
+
+See the details below 👇 pic.twitter.com/1ub3mYVv6K In another tweet, CertiK stated that 23 major attacks were recorded in December totaling a loss of about $61.3 million. #CertiKStatsAlert 🚨
+
+23 major attacks were recorded in December totalling a loss of ~$61.3 Million.
+
+As always, make sure a project has an audit & KYC before investing!
+
+Remember to always #DYOR and read the audit reports! pic.twitter.com/eMh9twyv5Q Also read: Citigroup Passed On Alameda Research Partnership Due To Lack Of Risk Management: Report Cryptocurrency Security Remains Priority As Attacks Continue To Occur The Helio Protocol incident on Dec. 2, in which a trader took advantage of a price discrepancy to borrow millions of dollars worth of cryptocurrency, resulted in the largest loss of the month at $15 million. The second largest attack was the $12.9-million exploit of Defrost Finance's v1 and v2 protocols on Dec. 23, in which an attacker used a fake collateral token and malicious price oracle to liquidate the protocols. In comparison, November saw a total of $595 million in crypto assets stolen in 36 major incidents, with the largest being the $477-million hack of FTX. So far this year, the 10 largest exploits have resulted in approximately $2.1 billion being stolen, largely from DeFi protocols and cross-blockchain bridges. Next: Cryptocurrencies Like Bitcoin And Ethereum Can't Shake The Risk Asset Tag: What's Holding Them Back Photo via Shutterstock.  © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

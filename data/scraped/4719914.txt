@@ -1,0 +1,27 @@
+The News Of Tomorrow, Today Subscribe Now you can get the top stories from Gizmodo delivered to your inbox. Enter your email below. By subscribing you agree to our Terms of Use and Privacy Policy. 
+	By subscribing you agree to our
+	
+		Terms of Use
+	
+	and
+	
+		Privacy Policy.
+	
+ 
+	By subscribing you agree to our
+	
+		Terms of Use
+	
+	and
+	
+		Privacy Policy.
+	
+ Period-correct electronics in older cars are the bee’s knees, but they’re not always up to the standards of modern technology. As much as I want to put a MiniDisc deck in my old BMW, I’m not jumping through Sony’s DRM hoops just to put Linkin Park and Limp Bizkit mixtapes on MiniDisc. Not when all I have to do nowadays is connect my iPhone to an OEM-plus-style head unit via Bluetooth and stream music. But what if there were a way to connect so-called obsolete tech — like, say, a vintage factory car phone — to your modern smartphone via Bluetooth? Well, now you can, as a delightfully obsessed software engineer shows us.
+
+
+
+
+
+
+
+  There’s something undeniably charming about old tech like the OEM car phones that Nissan, BMW and Mitsubishi — just to name a few — used to sell as dealer-installed accessories, the epitome of contemporary cool in the ’90s. In fact, the stock car phone in the 1993 Mitsubishi 3000GT VR-4 in this video even wears a Mitsubishi logo:  The wonderfully tactile handset reads “DiamondTel” in bold letters, above its tiny backlit segment display. Specifically, the phone is a DiamondTel Model 92, which connects to the 3000GT through Mitsubishi’s proprietary wiring system. And, like the 3000GT itself, the car phone interfaces with the ’Mitsu in an overly complicated way that’s awesome when it works. The phone was designed to be a hybrid device, complete with a carrying case, spare batteries, and transportable kit. It worked in or out of the car, and even hooked up to a fax machine! But its main use was bringing phone calls with you on the road, back in the halcyon days of the Motorola MicroTac and Nokia 2110. As you would expect, the DiamondTel car phone is all but useless in 2023. It’s become an obsolete hunk of plastic and printed circuit boards that can’t even make phone calls anymore. This is no fault of the handset itself, since a working example will still interface with the Mitsubishi 3000GT, sending in-call audio to the car’s speakers and muting the radio when the phone is in use. Since the car phone still works as intended, there had to be a way to connect it to a modern smartphone and harness all of its features (auto-mute, sending and receiving calls, using the integrated handsfree microphone, etc.). It took years of work, but a software engineer and intrepid owner of the 3000GT in the video managed to design a Bluetooth controller that sits between the DiamondTel car phone and any modern cell phone. Think of it as a rudimentary headless CarPlay or Android Auto interface. Even Siri and the Google Assistant work through the Bluetooth adaptor! Of course, the system has limitations, and in order to control music via voice commands the smartphone must still be hardwired to the car. But this is beyond OEM+, beyond cool and beyond reason — right in line with the red 1993 Mitsubishi 3000GT VR-4. The only thing is someone should tell this 3000GT owner that no one uses their phones to actually make or receive phone calls anymore. The Cheapest NBN 50 Plans It’s the most popular NBN speed in Australia for a reason. Here are the cheapest plans available. SHARE THIS STORY GET OUR NEWSLETTER Subscribe © 2007 – 2024 Pedestrian Group

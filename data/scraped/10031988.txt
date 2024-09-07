@@ -1,0 +1,65 @@
+Tools That Help With Communication, Learning, and More  Assistive technology (AT) for autism includes a wide range of tools that can help someone learn, communicate, and carry out daily functions. These tools can range from simple picture boards and worry beads to sophisticated software, apps, and robots.
+  AT tools can help people with many different areas of life including:
+  For some autistic people, assistive technology can improve certain abilities. For others, it can enable them to do things they may not have been able to before.
+  This article covers the ways assistive technology can help autistic people, as well as examples of the various options available.
+  Because autistic people don't always have obvious physical disabilities, and many autistic people are verbal, it's easy to underestimate how helpful AT can be.
+  Assistive technology is usually divided into groups—low-tech, mid-tech, and high-tech:
+  One of the most important uses of AT is providing the means for autistic people to communicate their thoughts and needs.
+  As many as 35% of autistic children may be non-verbal or minimally verbal. While this number is just an estimate, a very large percentage of autistic people have difficulty with verbal communication and virtually all autistic people have at least some difficulty with social communication.
+  At the low-tech end, there are low-cost, easy-to-use tools such as picture boards and picture cards, including those created in the Picture Exchange Communication System (PECS). PECS is a well-regarded organization whose products have been used in schools and by therapists for years.
+  At the mid-range, there are apps for both augmentative communication and speech therapy.
+  None of these apps were created specifically for autistic people, but they are extremely useful and cost-efficient for someone who is unable to use expressive speech effectively.
+  Two examples of speech-generating apps include:
+  Apps for speech therapy are intended not only to substitute for the human voice, but help build speech and language skills. Two highly regarded options include the free Articulation Station and LAMP Words for Life ($300).
+  Some studies have found that around 30% of autistic children also have intellectual disabilities.
+  In addition, research suggests that about 40% of autistic people also are diagnosed with attention deficit hyperactivity disorder (ADHD) and about 40% are diagnosed with an anxiety disorder.
+  These issues, added to the core traits of autism, create some challenges in school and in the workplace.
+  The most significant learning challenges are:
+  Assistive technology can help with all of these issues, whether at school, at home, or in the workplace.
+  Low-tech options for handling sensory issues include simple tools for reducing anxiety and increasing focus, such as stress balls, worry beads, weighted vests, and standing desks.
+  For executive functioning, ordinary written planners, color-coded schedules, and visual reminders can all make a positive difference.
+  Most autistic kids do best with hands-on and visual learning, so manipulatives like Cuisenaire rods (which are also available in virtual form) and alphabet blocks are helpful choices for teaching academic skills.
+  Mid-range options are easily available and relatively low-cost. Some examples include:
+  For many autistic people, audiobooks and recordings can be a great way to replay lectures or instructions.
+  Because many autistic people are very visual learners, videos can be a good alternative to written books or spoken lectures.
+  At the high end, there are many types of software and apps that are intended to help visual learners think, write, and communicate.
+  Some are intended for the general market; these include mind-mapping software like Lucidchart which is used to make connections among apparently different ideas and turn those connections into usable outlines and other products.
+  Speech-to-text software can also be useful, as can tools specifically created for students with learning disabilities. Examples include LiveScribe.
+ Emerging research has shown that incorporating the use of iPads and other tablets into daily learning experiences may have a positive impact on the achievement levels of autistic students.  For some autistic people, challenges with social situations and communication are relatively subtle. For others, even basic human interactions can be a struggle.
+  Fortunately, there is a vast range of assistive technologies to help with these issues.
+  At the basic, low-tech level, an industry has arisen around teaching autistic children and adults with more intense challenges to prepare for and manage new or complex social situations.
+  Among the most popular are:
+  Social Stories
+  These short, simple, visual stories were first developed by Carol Gray and are used to prepare autistic people to think and behave appropriately in any situation.
+  There are pre-existing social stories for common situations such as getting a haircut or going to the dentist. Therapists and parents can also write and illustrate customized social stories for unique situations, such as starting a new school.
+  Social Skills Cards and Games
+  Many specialized companies have created cards and games to help build social skills.
+  Examples include:
+  Mid-level technology for social skills focuses largely on video modeling and apps, though many video games intended for preschoolers focus on social-emotional concepts.
+  Video modeling is a tried-and-true technique for teaching social skills, and companies like Model Me Kids are dedicated to creating videos to teach everything from polite greetings to joining a conversation to asking someone out on a date.
+  Apps are more interactive. They allow learners to select areas of interest and actually practice their skills and receive feedback.
+  The Social Express is a social skills tool for autistic middle-school learners and those with related disorders.
+  Social skills teaching at the high end is truly techie—and can be extremely expensive. That's because the goal is to create interactive artificial intelligence and robots that can literally take the place of human beings.
+  These tools are being used to help both children and adults build social skills in a risk-free, highly-interactive, and very intriguing way. Preliminary research is encouraging.
+  A few of the more advanced projects along these lines include:
+  Sensory challenges in autistic people can result in over- or under-responsiveness to sensory input. For example, they may find something like a school bell painful to hear, but seem almost unfazed by a physical injury.
+  Sensory therapists seek to "regulate" the sensory systems using assistive technology. Teachers, parents, and autistic adults tend to look for tools to deaden sound and calm the nervous system.
+  Most adaptive technology for sensory challenges is low- or medium-tech. Therapists may use trampolines, swings, brushes, balls, and similar tools to help over-responsive sensory systems become less sensitive.
+  Classroom teachers and paraprofessionals often use noise-canceling headphones, weighted vests, and tinted glasses to help students avoid excessive sound and light.
+  To calm the nervous system, teachers and parents may use ball pits, weighted blankets and vests, or "squeeze machines" to provide tactile input.
+  Sensory toys can be used to help children focus better, calm down, and relax, but shouldn't replace evidence-based treatment for autism.
+  Sensory toys for autism may include:
+  Apps are commonly used for sensory "breaks." These tend to be simple tools that allow you to do things like pop bubbles, meditate, follow images with your eyes, or play repetitive music.
+  While not necessarily created for autistic people, such apps can be very helpful. Examples include:
+  Many autistic children, and some adults with more intense autism traits, are at risk for running away. Autistic children can be very good at manipulating locks, and even "babyproofing" may not be enough to keep them indoors.
+  Thus, in addition to ordinary door chains, baby gates, and latches, many families (and some group homes and schools) use ID bracelets and tracking devices to maintain safety.
+  There are a number of companies that produce ID bracelets, tags, cards, and trackers. They provide name, address, and contact information and, in some cases, automatically connect with first responders.
+  All are quite similar, and the best choice depends on your level of need and budget.
+  A few companies that make such products include:
+  While it's easy to spend a great deal of money on AT for autistic children and adults, it is rarely necessary. Most items required for schoolchildren can be requested through and paid for by either the school district or health insurance.
+  AT that is used for ordinary activities of daily life—paying bills, making grocery lists, keeping track of time, communicating with others—can often be bought for just a few dollars.
+ National Association of Special Education Teachers. Assistive Technology for Students with Autism Spectrum Disorders. Georgia Assistive Technology Act Program. What is assistive technology? Rose V, Trembath D, Keen D, Paynter J. The proportion of minimally verbal children with autism spectrum disorder in a community-based early intervention programme. J Intellect Disabil Res. 2016;60(5):464-477. doi:10.1111/jir.12284 Thurm A, Farmer C, Salzman E, Lord C, Bishop S. State of the field: differentiating intellectual disability from autism spectrum disorder. Front Psychiatry. 2019;10:526. doi:10.3389/fpsyt.2019.00526 Zaboski BA, Storch EA. Comorbid autism spectrum disorder and anxiety disorders: a brief review. Future Neurol. 2018;13(1):31-37. doi:10.2217/fnl-2017-0030 Key AP, D'Ambrose Slaboch K. Speech processing in autism spectrum disorder: an integrative review of auditory neurophysiology findings. J Speech Lang Hear Res. 2021;64(11):4192-4212. doi:10.1044/2021_JSLHR-20-00738 Tola G, Talu V, Congiu T, Bain P, Lindert J. Built Environment Design and People with Autism Spectrum Disorder (ASD): A Scoping Review. Int J Environ Res Public Health. 2021 Mar 19;18(6):3203. doi:10.3390/ijerph18063203.  Demetriou EA, DeMayo MM, Guastella AJ. Executive function in autism spectrum disorder: history, theoretical models, empirical findings, and potential as an endophenotype. Front Psychiatry. 2019;10:753. doi:10.3389/fpsyt.2019.00753 Aspiranti KB, Larwin KH, Schade BP. iPads/tablets and students with autism: a meta-analysis of academic effects. Assist Technol. 2020;32(1):23-30. doi:10.1080/10400435.2018.1463575 Alnajjar F, Cappuccio M, Renawi A, et al. Personalized robot interventions for autistic children: an automated methodology for attention assessment. Int J of Soc Robotics. 2021;13(1):67-82. doi:10.1007/s12369-020-00639-8 Jain S, Thiagarajan B, Shi Z, et al. Modeling engagement in long-term, in-home socially assistive robot interventions for children with autism spectrum disorders. Sci Robot. 2020;5(39):eaaz3791. doi:10.1126/scirobotics.aaz3791 IEEE Spectrum. Therapy robot teaches social skills to children with autism. Rudovic O, Lee J, Dai M, Schuller B, Picard RW. Personalized machine learning for robot perception of affect and engagement in autism therapy. Sci Robot. 2018;3(19):eaao6760. doi:10.1126/scirobotics.aao6760 Beaudoin AJ, Pedneault F, Houle M, et al. Case study assessing the feasibility of using a wearable haptic device or humanoid robot to facilitate transitions in occupational therapy sessions for children with autism spectrum disorder. J Rehabil Assist Technol Eng. 2021;8:20556683211049041. doi:10.1177/20556683211049041 
+By Lisa Jo Rudy
+
+Rudy is a writer, consultant, author, and advocate who specializes in autism. Her work has appeared in The New York Times and Autism Parenting Magazine.
+  Thank you, {{form.email}}, for signing up. There was an error. Please try again.

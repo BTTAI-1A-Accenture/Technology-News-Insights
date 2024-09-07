@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/momofuku-goods-announces-new-growth-funding-from-alliance-consumer-growth/article_f30ed504-43fa-5bb8-ad5c-e1e8837bdc28.html

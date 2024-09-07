@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://journalnow.com/business/local/hanesbrands-signs-10-year-apparel-contract-with-university-of-minnesota/article_1bfd9b10-0613-11ee-a75c-db36138061a7.html

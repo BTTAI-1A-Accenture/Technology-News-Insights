@@ -1,0 +1,1 @@
+502 Server Error: Next Hop Connection Failed for url: https://finance.yahoo.com/video/sam-bankman-frieds-defense-strategy-171434788.html

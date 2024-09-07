@@ -1,0 +1,63 @@
+News 
+  I, probably like you, use AI tools all the time in my job and at home. So do 92 percent of U.S.-based developers, according to a new GitHub survey that confirms what developers already knew, or surely suspected.
+  
+ 
+  Until any potential job-replacement, existential-threat scenario is realized, AI tools are rather becoming a dev's best friend, indicates GitHub's "Survey reveals AI's impact on the developer experience" post published June 13.
+  
+ 
+  "Developers are already using AI coding tools at work," said Microsoft-owned GitHub. "A staggering 92 percent of U.S.-based developers working in large companies report using an AI coding tool either at work or in their personal time." The company also said, "Curiously, only 6 percent of developers in our survey say they solely use these tools outside of work." What's more, some 70 percent of respondents said they saw significant benefits to using these tools.
+  
+ 
+  That 70-percent segment anticipated AI coding tool work benefits and advantages such as better code quality, faster completion times and better incident resolution.
+  
+ 
+  Other benefits are listed in replies to the question of how AI coding tools can help with daily work, where the top three responses fell within the 51-57 percent range:
+  
+ 
+  The report also investigated developer performance measurement, finding that metrics used to measure performance aligned closely with with metrics that should be used measure performance if AI coding tools are used:
+ 
+  Other AI-related data points and GitHub observations in the report include:
+  
+ 
+  GitHub's report also listed three takeaways engineering and business leaders should consider to improve the developer experience:
+  
+ 
+  While AI pervaded the report, multiple sections addressed several other areas of the developer experience.
+  
+ 
+  "Amid the rapid advancements in generative AI, we wanted to get a better understanding from developers about how new tools -- and current workflows -- are impacting the overall developer experience," GitHub said. "As a starting point, we focused on some of the biggest components of the developer experience: developer productivity, team collaboration, AI, and how developers think they can best drive impact in enterprise environments."
+  
+ 
+  As far as report methodology, Wakefield Research conducted an online survey on behalf of GitHub March 14-29, 2023, among 500 non-student, U.S.-based developers who are not managers and work at companies with more than 1,000 employees. 
+  
+ About the Author 
+
+                    David Ramel is an editor and writer for Converge360.
+                    
+
+ Printable Format 
+                         With Visual Studio 2022 v17.11 shipping this week, the first preview of the next edition sees Microsoft emphasizing support for the coming .NET 9 and cloud development with Aspire.
+                        
+                        
+                        
+                     
+                        Dr. James McCaffrey from Microsoft Research presents a demonstration program that models biological immune systems to identify network intrusion threats. The demo illustrates challenges with artificial immune systems as well as promising new approaches.
+                        
+                        
+                        
+                     
+                        Microsoft's Mads Kristensen heavily emphasized the community contributions that helped the dev team ship the brand-new Visual Studio 2022 version 17.11, which includes new features, improvements and fixes across the board spawned from the ideas of users. 
+                        
+                        
+                        
+                     
+                        .NET 9 is coming in November, so here is help in how to build and deploy a modern .NET 9 app using cloud and DevOps tools.
+                        
+                        
+                        
+                     
+                        "During the VS Live conference last week, it was brought to my attention that Visual Studio has no support for formatting SQL files."
+                        
+                        
+                        
+                     Subscribe on YouTube > More Webcasts Problems? Questions? Feedback? E-mail us.

@@ -1,0 +1,17 @@
+
+                    Lt. Gen. Maria B. Barrett, the commander of U.S. Army Cyber Command, hosts a town hall meeting January 24, 2023, in Wiesbaden, Germany.
+                  
+                    U.S. Army / Candy Knight
+                    Stay Connected 
+Patrick Tucker
+ As the Army adopts more large cloud services, one senior officer warns that some of the tricks and easy solutions for fast software development that work in the private sector, such as open code libraries, won’t work for the military without extra security.  “We know that modern software development really relies on third-party libraries, and that's OK. But we need to make sure that the logging, the access, the transparency can afford us…the proper visibility of that data as it's operating, especially as we move to virtualized and containerized environments,” Lt. Gen. Maria Barrett, commanding general of United States Army Cyber Command, said at the TechNetCyber conference in Augusta, Georgia, on Thursday.  “We need to think about the ubiquitous use of open source code libraries, especially after malicious cyber actors rapidly operationalized the log4j vulnerability” Barrett said, referring to a vulnerability that made its way into an Apache software library, and which U.S. Cybersecurity & Infrastructure Security Agency Director Jen Easterly has called the most serious vulnerability of her career. But that’s only one example of the cybersecurity dangers that arise when moving large numbers of endpoints into a large cloud.  Cybersecurity experts contend that moving to enterprise cloud environments is much more secure, because administrators can see and respond to breaches or theft much faster. Barrett said that enterprise cloud, by itself, won’t create a perfectly secure environment, unless it’s well designed and implemented.  Related articles Army looks to de-tangle its networks to combat China’s ‘digitally native’ military Future wars will turn on space-cyber-special operations triad: Army SOF chief Moreover, popular security features like two-factor authentication won’t be sufficient to keep Army data safe.  “I take a look at everything that's going out there, public disclosures and so on and so forth. Most of the security issues we see are about misconfigured or abused features that were designed for collaboration sharing or integration. Multifactor authentication will not be enough,” Barrett said. Additional steps like more automated checkpoints to reauthorize users in the environment will also be necessary.  Big data platforms, such as the Army’s Gabriel Nimbus platform, are helping to reveal security incidents much more quickly. Barrett said the four-year-old platform is helping the Army understand what’s actually happening in the environment, doubling the amount of data feeds, expanding the types of data, and doubling the amount of data that can be stored to check for strange and potentially harmful behavior.  “We really significantly changed the number of events per second that we can process 200-fold,” she said. 
+
+ 
+NEXT STORY:
+
+              1/4 of DOD cyber jobs are vacant. Here's the plan to fill them
+            
+
+
+
+ Help us tailor content specifically for you:

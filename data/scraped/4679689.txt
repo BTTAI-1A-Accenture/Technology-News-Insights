@@ -1,0 +1,176 @@
+
+
+
+Aug. 30 (UPI) -- U.S. authorities and their European partners have dismantled a massive malware network that has been used by prolific ransomeware groups to extort tens of millions of dollars from victims worldwide.
+The Justice Department said Tuesday that the FBI has gained access to more than 700,000 computers throughout the world, including 200,000 in the United States, that have been infected with the Qakbot malicious software and was in the process of removing it from victimized devices.
+Advertisement
+U.S. Attorney Martin Estrada for the Central District of California described Qakbot during a press conference Tuesday as "one of the most notorious and pernicious botnets in the world" and the law enforcement effort that took it down as the "most significant technological and financial operation ever led by the Department of Justice against a botnet."
+First detected in 2008, Qakbot was malicious software that infected computers worldwide. An unnamed cybercriminal organization then sold access to this botnet to other criminal organizations, who would use it coerce funds from their victims via ransom for either access to information on their infected computers or to prevent such information from being publicly distributed.
+Related
+Jacksonville shooting investigated as hate crime, AG Merrick Garland says
+Mark Meadows in Georgia court: Time with Donald Trump was 'challenging'
+Calif. authorities crack down on L.A. 'smash and grab' thefts with 10 arrests
+Estrada told reporters that Qakbot was "the botnet of choice" for cybergangs and that they have evidence of it being used in some 40 different ransomeware attacks that have cost governments and businesses roughly $58 million in the last 18 months alone.
+Advertisement
+"This Qakbot has been around since at least 2008, so you can imagine that the losses have been many millions more throughout the life of the Qakbot," he said.
+"But today, all that ends. During a trailblazing operation over the last three days, Justice Department prosecutors, agents with the FBI and our international partners have taken control of and dismantled Qakbot."
+Victims are being notified that their computers had been compromised and the Justice Department was working with its international partners in France, Germany, the Netherlands, Britain, Romania and Latvia to seize servers that were used in the cybercrimes.
+Fifty-two servers in the United States and abroad have already been seized, he said, stating that by confiscating them they were preventing Qakbot from being resurrected.
+More than 6.5 million credentials including passwords and login information has been recovered, he said, adding that $8.6 million in cryptocurrency linked to ransomeware payments was also seized and federal authorities were working to return it to victims.
+"The FBI neutralized this far-reaching criminal supply chain, cutting it off at the knees," FBI Director Christopher Wray said in a video statement.
+Wray explained their operation infiltrated Qakbot servers and redirected their traffic to FBI systems to uninstall the malware. He said it was the first time the FBI had employed this technique to sever computers from the botnet.
+Advertisement
+"The cyberthreat facing our nation is growing more dangerous and complex every day. But our success proves that our own network and our own capabilities are more powerful," he said.
+
+
+
+Topics
+Law and CrimeTechnologyChristopher WrayCryptocurrency
+
+
+
+
+
+
+Latest Headlines
+
+
+
+
+
+
+
+U.S. News // 57 minutes ago
+U.S. intelligence says Iran behind efforts to infiltrate Trump, Harris campaigns
+ Aug. 20 (UPI) -- The U.S. intelligence community said Monday that Iran was behind a recent hack of Donald Trump's presidential campaign and efforts to infiltrate the presidential campaign of the Democratic Party.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 8 hours ago
+In praising Harris at Democratic convention, Hillary Clinton says 'future is here'
+ Aug. 19 (UPI) -- The Democratic National Convention opened Monday in Chicago with a surprise cameo from Democratic presidential candidate Kamala Harris and a standing ovation for former U.S. Secretary of State Hillary Clinton.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 4 hours ago
+Trump tells defense workers he will cut energy costs 'in half' by boosting production
+ Aug. 19 (UPI) -- Former President Donald Trump on Monday pledged to cut the "cut the cost of energy in half" with a massive change of energy production and manufacturing if he returns to the White House.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 10 hours ago
+Chicago DNC protesters breach security fence near where Bidens set to appear
+ Aug. 19 (UPI) -- As the Democratic National Convention opened in Chicago on Monday, police already have arrested several demonstrators, including some who breached a security fence. Four were arrested.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 5 hours ago
+Border patrol agents find hundreds of pounds of meth in celery at San Diego crossing
+ Aug. 19 (UPI) -- U.S. Customs and Border Protection agents seized 629.72 pounds of methamphetamine with a street value estimated at $755,00, concealed within a shipment of celery in San Diego, the agency said Monday.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 6 hours ago
+Ex-NFL player Gosder Cherilus accused of urinating on elderly woman during flight
+ Aug. 19 (UPI) -- Gosder Cherilus, a former lineman for nine seasons in the NFL, is facing several federal charges after he is accused of urinating on an elderly woman for approximately 20 seconds during a flight from Boston to Ireland.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 6 hours ago
+Hyatt hotels settles with D'Vontaye Mitchell's family, same day 4 suspects in court
+ Aug. 19 (UPI) -- Hyatt Regency hotels said Monday it reached a settlement in the recent death of an unarmed Black man in Wisconsin allegedly at the hands of four Hyatt employees.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 6 hours ago
+Former Rep. George Santos pleads guilty to federal fraud charges, faces prison time
+ Aug. 19 (UPI) -- Former Rep. George Santos, R-N.Y., pleaded guilty Monday to federal fraud charges in a plea deal that will send the former lawmaker to jail and bypass a criminal trial that was scheduled to start next month.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 7 hours ago
+D.C. council member Trayon White Sr. arrested on $150,000 bribery charge
+ Aug. 19 (UPI) -- District of Columbia council member Trayon White Sr. has been charged with bribery of $150,000 in contracts kickback case, the Justice Department said Monday.
+
+
+
+
+
+
+
+
+
+
+U.S. News // 9 hours ago
+Harvey Weinstein to stay in N.Y. prison pending retrial on sex charges
+ Aug. 19 (UPI) -- Disgraced Hollywood producer Harvey Weinstein will remain incarcerated in New York as he awaits a new sex crimes trial set for November before being returned to California to serve out his sentence there.
+
+
+
+
+
+
+ Aug. 30 (UPI) -- U.S. authorities and their European partners have dismantled a massive malware network that has been used by prolific ransomeware groups to extort tens of millions of dollars from victims worldwide. The Justice Department said Tuesday that the FBI has gained access to more than 700,000 computers throughout the world, including 200,000 in the United States, that have been infected with the Qakbot malicious software and was in the process of removing it from victimized devices.
+Advertisement U.S. Attorney Martin Estrada for the Central District of California described Qakbot during a press conference Tuesday as "one of the most notorious and pernicious botnets in the world" and the law enforcement effort that took it down as the "most significant technological and financial operation ever led by the Department of Justice against a botnet." First detected in 2008, Qakbot was malicious software that infected computers worldwide. An unnamed cybercriminal organization then sold access to this botnet to other criminal organizations, who would use it coerce funds from their victims via ransom for either access to information on their infected computers or to prevent such information from being publicly distributed.
+Related
+Jacksonville shooting investigated as hate crime, AG Merrick Garland says
+Mark Meadows in Georgia court: Time with Donald Trump was 'challenging'
+Calif. authorities crack down on L.A. 'smash and grab' thefts with 10 arrests Estrada told reporters that Qakbot was "the botnet of choice" for cybergangs and that they have evidence of it being used in some 40 different ransomeware attacks that have cost governments and businesses roughly $58 million in the last 18 months alone.
+Advertisement "This Qakbot has been around since at least 2008, so you can imagine that the losses have been many millions more throughout the life of the Qakbot," he said. "But today, all that ends. During a trailblazing operation over the last three days, Justice Department prosecutors, agents with the FBI and our international partners have taken control of and dismantled Qakbot." Victims are being notified that their computers had been compromised and the Justice Department was working with its international partners in France, Germany, the Netherlands, Britain, Romania and Latvia to seize servers that were used in the cybercrimes. Fifty-two servers in the United States and abroad have already been seized, he said, stating that by confiscating them they were preventing Qakbot from being resurrected. More than 6.5 million credentials including passwords and login information has been recovered, he said, adding that $8.6 million in cryptocurrency linked to ransomeware payments was also seized and federal authorities were working to return it to victims. "The FBI neutralized this far-reaching criminal supply chain, cutting it off at the knees," FBI Director Christopher Wray said in a video statement. Wray explained their operation infiltrated Qakbot servers and redirected their traffic to FBI systems to uninstall the malware. He said it was the first time the FBI had employed this technique to sever computers from the botnet.
+Advertisement "The cyberthreat facing our nation is growing more dangerous and complex every day. But our success proves that our own network and our own capabilities are more powerful," he said.

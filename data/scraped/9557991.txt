@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.postandcourier.com/kingstree/community-news/save-time-money-file-your-taxes-for-free-with-sc-thrive/article_b5809fc8-a8b0-11ed-a4c1-4bd24cf50eee.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/salata-salad-kitchen-announces-briton-smetzer-as-vice-president-of-information-technology/article_182d41a6-5e4f-5d55-b845-fb747f12f75c.html

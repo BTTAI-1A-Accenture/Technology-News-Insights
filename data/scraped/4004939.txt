@@ -1,0 +1,21 @@
+High-quality and powerful display processor 1.8V general purpose I/O for 4nm FinFET Temperature Sensor (Digital Output) UCIe PHY on TSMC N3P SignatureIP Networks-on-Chips (NoCs) to Accelerate RISC-V Designs SEALSQ Introduces QS7001, a Newly Developed Cutting-Edge RISC-V Secure Hardware Platform, Specifically Designed for IoT security in the Post-Quantum Era Xiphera's xQlave® Product Family Enables Full Compliance with Finalised NIST PQC Standards Ensure Cybersecurity in the Connected Vehicles Era With ISO/SAE 21434 Key considerations and challenges when choosing LDOs BCD Technology: A Unified Approach to Analog, Digital, and Power Design PCIe Over Optical: Transforming High-Speed Data Transmission Pipelined Data Masters in D-Series GPUs RISC-V for the Datacenter: Introducing the P870-D The new dielectric material and MIM2 technology enable NEC Electronics to deliver robust eDRAM solutions with smaller cell sizes and higher memory integration, ample storage capacitance and lower cell heights, all the while maintaining the merits of existing eDRAM technology, such as CMOS-compatibility, low power and high-speed random access to the eDRAM.  “We are proud that we have successfully completed 90 nm eDRAM qualification of our leading-edge MIM2 technology that offers our customers some truly compelling improvements in power consumption and performance, while enabling reduced die sizes,“ said Takaaki Kuwata, general manager, Advanced Device Development Division, NEC Electronics Corporation.  “Following our great success in implementing ZrO2 technology at the 90 nm node, we will apply this technology to our future 65 nm and 45 nm eDRAM offerings.” NEC Electronics’ eDRAM technology provides a wide range of macro variants, ranging from the high performance to the low power consumption required by a variety of applications, including high-end networking devices and consumer electronics products such as cell phones, mobile handheld devices and gaming/entertainment devices. The full macro lineup for NEC Electronics’ 90 nm ASIC series, CB-90, is scheduled to be ready by September 2005. (Availability is subject to change without notice.) More information can be found at www.necelam.com/eDRAM90. About NEC Electronics Corporation NEC Electronics Corporation (TSE: 6723) specializes in semiconductor products encompassing advanced technology solutions for the high-end computing and broadband networking markets, system solutions for the mobile handsets, PC peripherals, automotive and digital consumer markets, and platform solutions for a wide range of customer applications. NEC Electronics Corporation has 26 subsidiaries worldwide including NEC Electronics America, Inc. (www.necelam.com) and NEC Electronics (Europe) GmbH (www.ee.nec.de). Additional information about NEC Electronics worldwide can be found at www.necel.com. 
+
+Your Name:
+
+Your E-mail
+			address:
+
+Your Company
+			address:
+
+Your Phone Number:
+
+Write your message:
+
+
+
+
+ © 2024 Design And Reuse All Rights Reserved. No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used without the express written permission of Design And Reuse. 
+
+ Suppliers, list
+	your IPs for free.

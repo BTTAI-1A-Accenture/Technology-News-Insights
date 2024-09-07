@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/peak-ski-company-and-pebblebee-introduce-innovative-new-technology-peak-l-c8/article_88009948-5565-5bc8-a091-d2f2d67f542d.html

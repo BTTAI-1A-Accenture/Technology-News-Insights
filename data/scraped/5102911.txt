@@ -1,0 +1,72 @@
+A whale with a lot of money to spend has taken a noticeably bearish stance on Palantir Technologies. Looking at options history for Palantir Technologies PLTR we detected 58 strange trades. If we consider the specifics of each trade, it is accurate to state that 46% of the investors opened trades with bullish expectations and 53% with bearish. From the overall spotted trades, 12 are puts, for a total amount of $744,163 and 46, calls, for a total amount of $2,224,566. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $3.0 to $42.0 for Palantir Technologies over the last 3 months.  Looking at the volume and open interest is an insightful way to conduct due diligence on a stock. This data can help you track the liquidity and interest for Palantir Technologies's options for a given strike price. Below, we can observe the evolution of the volume and open interest of calls and puts, respectively, for all of Palantir Technologies's whale activity within a strike price range from $3.0 to $42.0 in the last 30 days.   
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+PLTR
+CALL
+TRADE
+BULLISH
+01/17/25
+$25.00
+$257.3K
+9.3K
+1.4K
+
+
+PLTR
+PUT
+TRADE
+NEUTRAL
+03/15/24
+$20.00
+$169.7K
+3.8K
+510
+
+
+PLTR
+CALL
+SWEEP
+BULLISH
+08/18/23
+$15.00
+$127.5K
+19.4K
+676
+
+
+PLTR
+CALL
+TRADE
+BULLISH
+10/20/23
+$20.00
+$100.0K
+11.3K
+2.1K
+
+
+PLTR
+CALL
+SWEEP
+BULLISH
+02/16/24
+$20.00
+$91.0K
+1.4K
+240
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for Palantir Technologies, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

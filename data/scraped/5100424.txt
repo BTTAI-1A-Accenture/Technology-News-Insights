@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.victoriaadvocate.com/criteo-reports-strong-second-quarter-2023-results/article_0b22e7f0-de8a-502a-a160-70d179daf492.html

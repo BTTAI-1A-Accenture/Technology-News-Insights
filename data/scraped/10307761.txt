@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thestar.com/life/fashion_style/beauty/2023/02/16/let-spring-nail-trends-bring-you-a-touch-of-joy-on-these-grey-winter-days.html

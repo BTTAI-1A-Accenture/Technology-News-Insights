@@ -1,0 +1,41 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     Be the first to add your personal experience Be the first to add your personal experience Be the first to add your personal experience Be the first to add your personal experience Be the first to add your personal experience Be the first to add your personal experience 
+If you run a business that sells physical products, you need to keep track of your inventory and its value. One of the methods you can use to measure the cost of goods sold (COGS) is the first-in, first-out (FIFO) method. This method assumes that the oldest items in your inventory are the first ones to be sold, and that the newer items remain in stock. In this article, you will learn how to calculate the cost of goods sold using FIFO and why it matters for your inventory management.
+ 
+FIFO is an inventory valuation model that assigns a cost to each unit of inventory based on the order of purchase. The first units that you buy are the first units that you sell, and the last units that you buy are the last units that you sell. This means that the cost of goods sold reflects the cost of the oldest inventory, and the ending inventory reflects the cost of the newest inventory. FIFO is one of the most common and simple methods to value inventory, especially for businesses that sell perishable or fast-moving products.
+ 
+To calculate the cost of goods sold using FIFO, you need to know the number and cost of units in your beginning inventory, the number and cost of units purchased during the period, and the number of units sold during the period. The formula for COGS using FIFO is: COGS = (Units in beginning inventory x Cost per unit of beginning inventory) + (Units sold - Units in beginning inventory) x Cost per unit of first purchase Let's look at an example. Suppose you start the month with 100 units of product A in your inventory, each costing $10. During the month, you buy 200 more units of product A, each costing $12. You sell 150 units of product A during the month. How much is your COGS using FIFO? COGS = (100 x 10) + (150 - 100) x 12 COGS = $1,000 + $600 COGS = $1,600
+ 
+To calculate the ending inventory using FIFO, you need to subtract the COGS from the cost of goods available for sale (COGAS). The COGAS is the sum of the cost of beginning inventory and the cost of purchases during the period. The formula for ending inventory using FIFO is: Ending inventory = COGAS - COGS Using the same example as before, your COGAS is: COGAS = (100 x 10) + (200 x 12) COGAS = $3,400 Your ending inventory using FIFO is: Ending inventory = $3,400 - $1,600 Ending inventory = $1,800
+ 
+FIFO has some advantages and disadvantages for inventory management. On the plus side, it matches the physical flow of inventory for many businesses, leading to easier tracking and control of inventory levels. It also results in a higher ending inventory value and a lower COGS in periods of rising prices, meaning that your gross profit and net income will be higher, and your taxes will be lower. Additionally, it is simple and straightforward to apply and understand. However, FIFO may not reflect the current market value of your inventory, as it uses the oldest costs to value the newest inventory. It may also not match the income statement and the balance sheet, distorting your inventory turnover ratio and return on assets (ROA). Furthermore, FIFO may not be consistent with the matching principle, affecting the accuracy and comparability of your financial statements.
+ 
+FIFO is not the only inventory valuation method available. You may also use LIFO, WAC, or specific identification, depending on your business type, industry, accounting standards, and inventory management goals. Each method has its own benefits and drawbacks, so it's important to consider the nature and characteristics of your inventory, the price trends and fluctuations of your inventory, the tax implications and financial reporting requirements of your inventory, as well as the simplicity and complexity of your inventory system. By weighing these factors, you can select the method that best suits your business needs and objectives.
+ 
+This is a space to share examples, stories, or insights that don’t fit into any of the previous sections. What else would you like to add?
+ 
+                You're facing inventory discrepancies with team members. How do you resolve conflicts effectively?
+               
+                4 contributions
+               
+                Here's how you can boost your confidence when handling inventory discrepancies.
+               
+                2 contributions
+               
+                Your inventory is hit with unexpected demand changes. How do you choose between FIFO and LIFO methods?
+               
+                2 contributions
+               
+                Your inventory system just crashed. How can you bounce back and prevent future failures?
+               
+                2 contributions
+               
+                You're optimizing warehouse layout for inventory handling. How can you prioritize ergonomic considerations?
+               
+                2 contributions
+               
+                Here's how you can optimize your rates and pricing as a freelance inventory manager.
+               

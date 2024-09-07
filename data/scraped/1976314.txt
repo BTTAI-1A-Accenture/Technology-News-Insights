@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://gazette.com/premium/swiss-solar-manufacturer-to-spend-403-5-million-to-expand-in-colorado-springs-seeks-3/article_579330e4-3571-11ee-b8b1-b31ad31a7f24.html

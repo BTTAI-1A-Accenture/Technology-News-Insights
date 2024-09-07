@@ -1,0 +1,150 @@
+Department of
+Computer Engineering Contact 
+Roy Melton, Associate Department Head
+585-475-7698, Roy.Melton@mail.rit.edu
+  Andres Kwasinski, Graduate Program Director and Electrical and Computer Engineering Ph.D. Program Director
+585-475-5139, ak@mail.rit.edu Alyssa Andres, Senior Staff Specialist
+585-475-2987, axaeec@rit.edu Make a Gift Nearly everything we touch each day – from coffee machines to cars, smartphones, and wearable devices – is powered by computing systems designed and built by computer engineers. Computer engineering impacts every aspect of our lives. Sensors and networking technology allow for the management of logistics and the inventory systems that facilitate access to the foods and products necessary to daily life. Today’s vehicles are equipped with multiple computing subsystems that control engine operation, performance, navigation, autonomy and much more. Hospitals and health care providers increasingly rely on computer engineering systems to provide medical services from administrative tasks to microsurgery using robotic arms. Computers specially designed for Artificial Intelligence, Big Data and massively parallel tasks that are both reliable and secure are the need of the hour. Read More... Computer engineering offers opportunities for all types of designs and innovations, such as designing the architecture of a new computer, integrating electronics and sensors into a new embedded system, or controlling the smart grid. There is a great demand for computer engineers who can do it all—from designing computer hardware, components and software, to developing next-generation products and appliances that contain computing systems of all sizes and scales ranging from microchips to data centers. As computer technology becomes more essential to commerce and daily life, companies will need computer engineers who possess a well-developed set of skills and who can quickly adapt to change. To meet the challenges of the future, these companies will turn to computer engineers for innovative solutions and technological leadership. Mission The computer engineering program mission is “to provide outstanding career-oriented education in computer engineering and engage students in leading edge research.” The computer engineering program mission is dedicated to furthering RIT’s mission to prepare students for successful careers “through a unique blend of curricular, experiential, and research programs delivered within a student-centric culture." In addition, the computer engineering program’s mission is consistent with the goals of the Kate Gleason College of Engineering. These include the college’s focus to: Accreditation The BS degree in computer engineering is accredited by the Engineering Accreditation Commission of ABET, www.abet.org. For Enrollment and Graduation Data, Program Educational Objectives, and Student Outcomes, please visit the college’s Accreditation. 
+		14
+	 
+				Full-time faculty members from 9 countries
+			 
+		6
+	 
+				International Academic Partner Institutions
+			 
+		5
+	 
+				Affiliated PhD Programs
+			 Undergraduate Degrees 
+
+              Computer Engineering BS
+															  (Accelerated dual degree available)
+
+
+
+ In RIT’s BS in computer engineering you’ll design computer hardware, components, and software to develop next-gen products and appliances that contain embedded systems. 
+
+              Secure Systems Option - Computer Engineering BS
+							              
+
+
+ In RIT’s secure systems option, you’ll gain the knowledge, skills, and perspective needed to develop, analyze, and implement secure hardware and software systems. Graduate Degrees 
+
+              Computer Engineering MS
+							              
+
+
+ The computer engineering master’s degree emphasizes the adoption of design methodology and the application of sophisticated engineering tools to the design and development of computer-integrated systems. 
+
+              Electrical and Computer Engineering Ph.D.
+							              
+
+
+ Ph.D.s in electrical and computer engineering are explorers of the information age who transform the world by leading trailblazing research that expands and create knowledge. 
+
+              Microsystems Engineering Ph.D.
+							              
+
+
+ Conduct research in nano-engineering, design methods, and technologies for micro- and nano-scaled systems. This microsystems engineering doctorate is a multidisciplinary program that addresses the technical challenges of micro- and nano-systems. Minors and Immersions 
+
+              Computer Engineering Minor
+							              
+
+
+ Students gain a foundation in digital systems design, an understanding of computer organization, and an introduction to embedded systems programming. They also build on this core through elective courses in the areas of hardware design, architectures, networks and systems. Research within the department of computer engineering reflects the fundamental role of computing in today’s information age, addressing a broad span of technological challenges that include securing the cyber-physical space, improving industrial processes by integrating Internet-of-Things devices, and harnessing the Artificial Intelligence revolution by bringing to life self-driving vehicles and new computing paradigms. Through participation in cross-disciplinary Ph.D. programs in Electrical and Computer Engineering, Computing and Information Sciences, Microsystems Engineering, and Imaging Science, the research activities reflect the diversity of computer engineering. Faculty members and students from the Department of Computer Engineering are actively engaged in various projects funded by federal and state agencies, as well as industry. Current research within the Department of Computer Engineering is organized into the following tracks: 
+
+
+													Computer Architecture
+											
+
+
+
+ This track deals with hardware resource management, instruction set architectures and their close connection with the underlying hardware, as well as the interconnection and communication of those hardware components. Some of the current computer architecture challenges that are being tackled in the Department of Computer Engineering include energy efficient architectures, high performance architectures, quantum computing, graphic processing units (GPUs), reconfigurable hardware, chip multiprocessors, and Networks-on-Chips. Faculty working in this track: 
+
+
+													Integrated Circuits and Systems
+											
+
+
+
+ Modern processors demand high computational density, small form factors, and low energy dissipation with extremely high performance demands. This is enabled by the nanoscale and heterogeneous integration of transistors and other emerging devices at the massive-scale. This research track focuses on designing computers with emerging novel technologies in the presence of severe physical constraints; investigating dynamic reconfigurability to exploit the power of nano-scale electronics for building reliable computing systems; solutions for post Moore’s Law computing, such as neuromorphic technology, and studying the applicability of emerging technologies to address challenges in computing hardware of the future. Faculty working in this track:   
+
+
+													Networks and Security
+											
+
+
+
+ The prevalence of networked computing devices of all sizes and uses have transformed our way of life. Ubiquitous access to data through these devices with reliable performance and security assurance while meeting end-user quality of experience expectations presents exciting challenges for engineers and scientists. Adaptability to meet the demands from ever-increasing data traffic, and resilience to environmental uncertainty, system failures and cyber-attacks requires advances in hardware, software and networking techniques, as well as the application of innovative transformative technologies, such as machine learning. This research track focuses on intelligent wireless and sensor networks, cryptographic engineering, and predictive cyber situation awareness. Faculty conducting research in this track are actively engaged in RIT’s ESL Global Cybersecurity Institute. Faculty working in this track:  
+
+
+													Computer Vision and Machine Intelligence
+											
+
+
+
+ Visual information is ubiquitous and ever more important for applications such as robotics, healthcare, human-computer interaction, biometrics, surveillance, games, entertainment, transportation and commerce. Computer Vision focuses on extracting information from image and video data for modeling, interpretation, detection, tracking and recognition. Machine Intelligence methods deal with human-machine interaction, artificial intelligence, agent reasoning, and robotics. Algorithm development for these areas spans image processing, pattern recognition and machine learning, and is intimately related to system design and hardware implementations. Faculty conducting research in this track are actively engaged in RIT’s Center for Human-aware Artificial Intelligence (CHAI). Faculty working in this track:  
+
+
+													Signal Processing and Embedded Systems
+											
+
+
+
+ This research area is concerned with algorithms and devices used at the core of system that interacts with our physical world. As such, this area considers the sensing, analysis and modeling of dynamic systems with the intent of measuring information about a system, communicating this information and processing it to adapt its behavior. Faculty working in this track:  Generative AI enabled Cybersecurity Operations 
+											Shanchieh Jay Yang									 
+							
+																																	The potential use of generative AI, including Large Language Models (LLMs), for cybersecurity operations may be hindered by misconceptions of its capabilities and missed opportunities to properly...
+																					 Faculty Spotlight: Dongfang Liu 
+											Dongfang Liu									 
+							
+																								Meet Dr. Dongfang Liu, assistant professor in the department of computer engineering.
+																					 
+			February 19, 2024
+		 
+						Researcher receives Naval Research Laboratory grant to develop more sophisticated sensor array
+					 Researchers at RIT are creating a novel sensor system based on the superior design and detection range found on harbor seal whiskers. 
+			February 19, 2024
+		 
+						Computer engineering faculty member joins national initiative on neuromorphic computing
+					 Cory Merkel, assistant professor of computer engineering at RIT, will represent the university as one of five collegiate partners in the new Center of Neuromorphic Computing under Extreme Environments, also referred to as CONCRETE. 
+			February 1, 2024
+		 
+						Researcher proposes DNA-based computing platform    Blocks and Files talks to Amlan Ganguly, department head, Department of Computer Engineering, about his research on DNA-based computing platforms. 
+              Andreas
+              Savakis
+             
+              Sonia
+              Lopez Alarcon
+             
+              Dongfang
+              Liu
+             
+              Kenneth
+              Lumb
+             
+              Sean
+              Cain
+             
+              Alyssa
+              Andres
+             The computer engineering department offers a variety of resources for our students, including academic support, curriculum flow charts, handbooks, and more. Visit our Student Resources page for more information. Address and Phone 
+									77 Lomb Memorial Drive
+									Rochester, NY 14623
+									585-475-2146
+								 Address and Phone 
+					One Lomb Memorial Drive
+					Rochester, NY 14623
+					585-475-2411
+				 
+				Copyright © Rochester Institute of Technology. All Rights Reserved.
+Land Acknowledgment.
+				Disclaimer.
+				Copyright Infringement.
+				Privacy Statement.
+				Nondiscrimination.
+				Accessibility.
+				Emergency Information.
+			

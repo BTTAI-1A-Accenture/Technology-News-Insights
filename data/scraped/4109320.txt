@@ -1,0 +1,72 @@
+For automotive computing, Arm is perhaps most commonly known for performance IP products, like the Cortex-A CPU range. However, of equal importance in the automotive space is the Cortex-M architecture and family of processors for low-power workloads, as well as the Cortex-R architecture and processors for deterministic workloads. Within the automotive industry, Cortex-R and specifically the Armv8-R architecture has emerged as the de-facto standard for high-end real-time computing. The versatility of the Cortex-R52 and Cortex-R52+ processors are seen as a big advantage among Arm’s silicon partners in the automotive space, particularly with the rise of software-defined vehicles (SDVs). Currently, Armv8-R is used in automotive silicon designs in two ways. Firstly, as the primary form of computing in MCU designs, and, secondly, as a real-time computing instance in the Safety Islands of heterogeneous system-on-chip (SoC) designs. Focusing on MCU designs, STMicroelectronics (STM) features up to six Arm Cortex-R52+ cores in its Stellar family of MCUs. These support next-generation vehicle architectures, which rely on broad “domain” controllers for areas like Drivetrain, Chassis and Advanced Driver Assistance Systems (ADAS). The adoption of Cortex-R52, which combines energy efficiency, performance and functional safety features, allows Stellar MCUs to meet demanding real-time and safety requirements that are helping to make autonomous driving and smart powertrain features a reality in modern SDVs. Meanwhile, NXP’s S32Z and S32E real-time processors also feature Cortex-R52 for more seamless software integration across the family of NXP S32 devices. With the emergence of SDVs, reducing software integration complexity and enhancing security and safety are front-of-mind for the entire automotive supply chain. Cortex-R52 enables software re-use across different automotive compute platforms, which saves time and costs for silicon vendors, Tier 1s and vehicle manufacturers. Cortex-R52 supports the high performance, security and safety requirements for E/E architectures in modern vehicles. This is why various Arm partners have integrated the Cortex-R52 into their SoCs for vehicles, particularly as part of their Safety Islands. NVIDIA adopted lockstep Cortex-R52 processors into the safety island for its Orin SoC, which is designed for autonomous systems within vehicles. Meanwhile, Renesas integrated Cortex-R52 into its R-Car-S4 SoC for car to server communications. More recently at CES 2023, Ambarella, an edge AI semiconductor company, announced that it adopted lockstep pairs of Cortex-R52 processors into its CV3-AD685 automotive AI domain controller. As with the other automotive partners, safety remains a significant area of focus for Ambarella, with the CV3-AD685 targeting ASIL-B on the chip, and an ASIL-D Safety Island. These known public designs from Arm’s automotive partners come alongside 20 additional non-public IP licensees of Cortex-R52 and Cortex-R52+, with these partners using the IP to create further designs and platform developments. The high interest in the Armv8-R architecture and processors is leading to the automotive industry exploring ways on how to incorporate these computing elements into their silicon designs. This is why Arm released two whitepapers outlining best practices for Armv8-R device virtualization and Cortex-R52+ software consolidation as ways to support and help any interested parties. There are wider considerations from the automotive industry about how real-time computing requirements will evolve within vehicles. This is what my colleague James Scobie and I recently explored in an article for ATZ Electronics, which also outlined how a secure, safe and scalable compute foundation is vital for evolving automotive EE-architectures. Through the rise of SDVs, the Armv8-R architecture and Cortex-R52+ processors have become an integral product line for the automotive industry, particularly with SDVs driving greater computing complexity and higher compute workloads. The Armv8-R architecture and Cortex-R52 processors enable the performance, efficiency, safety, security and software requirements that are needed to deliver this next generation of vehicles. For real-time computing, Cortex-R is the technology of choice for the automotive industry. For further information about the Cortex-R52 and Cortex-R52+ processors visit Arm.com. Any re-use permitted for informational and non-commercial or personal use only. Reasons we ❤️ the Arm Cortex-M33 based Raspberry Pi Pico 2:
+
+1️⃣ You can deploy more compute-intensive apps
+2️⃣ It's faster, thanks to the floating point unit
+3️⃣ It's more performant
+
+Try it for yourself testing real-time ML audio noise suppression. 🔍 BTS of July's Amazon Prime Day, over 250K Arm-based AWS Graviton chips powered 5,800 distinct http://Amazon.com services - that's more than double the services in 2023.
+
+By scaling #onArm, @awscloud had the compute capacity to ensure everything ran smoothly:… https://twitter.com/i/web/status/1824484176000848232  ⏰ Set your reminder! 
+
+Today at 1:05 pm PT, Arm CMO Ami Badani joins @theCUBE's AI Infrastructure Silicon Valley Executive Series to discuss the explosion of generative AI and innovation in chip technology. 
+
+Tune in here: https://okt.to/sF1y3c  We've been shortlisted for @Reuters Automotive D.R.I.V.E Honours 2024 for:
+
+🌟 Innovation - for our tech accelerating AI-enabled software-defined vehicles
+🌟 Empowering Women - Recognizing Dipti Vachani for her impact on the industry
+
+Here's to our team that make it possible. 👏  AI is bringing many opportunities but there's also challenges with security. 
+
+Our report with @PSACertified is how you get ahead. Discover the insights you need to unlock the benefits of AI without compromising on security: We're accelerating automotive software development cycles by enabling our partners to start innovating ahead of physical silicon availability.
+
+Hear about our role in driving standardized, portable software and facilitating innovation in the SDV ecosystem: https://okt.to/LaZrtQ  MultiCub3r-X is a robot built #onArm.
+
+It uses an image processing application on the Arm-based @Google Pixel 8 to calculate a sequence of moves, to solve the Rubik’s Cube in record time. 
+
++ The @LEGO_Group mechanism turning the cubes is also based on Arm! See it in action. 👇  There are 4 new Google #Pixel9 phones - all built #onArm!
+
+Each smartphone benefits from the performance and efficiency leadership of the Arm compute platform to enable next-generation AI capabilities. 
+
+Congrats to the team at @MadeByGoogle! 👏 #MadeByGoogle 👋Meet Raspberry Pi Pico 2
+
+It features a dual-core Arm Cortex-M33 as the primary boot architecture to deliver higher performance and security for commercial applications.
+
+Raspberry Pi CEO, Eben Upton, shares the features unique to Arm that make it great: https://okt.to/UiAVP9  Magic happens when you combine @GoogleCloud with the performance, efficiency, and flexibility of the Arm compute platform.
+
+Get the details on how Google Cloud is driving custom silicon innovation with its Arm Neoverse-based Axion CPU. 👇 "Arm is already broadly adopted in the cloud, and it’s coming to the enterprise data center, no question."
+ 
+In the AI era, Arm Neoverse offers the performance, efficiency, and flexibility that the modern data center needs. Here's why:  via @MoorInsStrat RESEARCH NOTE: Is Arm Neoverse the Datacenter’s Secret Weapon?     Nvidia   is   known   as   the   GPU   of   choice   for   AI   workloads.   Its   Hopper   and   Blackwell   GPUs   power   virtually   every   ... okt.to 🚀 Here's to another record breaking quarter!
+
+Q1 FYE25 brought revenues of $939 million thanks in part to the rising adoption of Armv9 and Arm CSS, alongside our ecosystem of software and design partners committed to accelerating AI everywhere #onArm:  "If we don't start thinking about this power problem differently, we're never going to see this amazing technology that can truly change our lives"
+
+Dipti Vachani speaks to @CNBCi on the importance of Arm to reduce power and pave the way to AI innovation.  Generative AI requires massive amounts of power and water, and the aging U.S. grid can't handle the... Data   centers   are   being   built   at   a   rapid   pace   to   support   generative   AI,   and   concerns   are   mounting   about   whether   w... okt.to At our Global Engineering Conference, our engineers came together to share the latest advancements in tech and discuss how we're building the future of computing together. 
+
+With a host of activities available, it offered a chance for discussion in a supportive environment.  🗓️ Join us on Wednesday July 31 for our next financial results conference call.
+
+After market close, we'll report our earnings results for the first quarter of fiscal year 2025, followed by a conference call to review our results and business outlook: https://okt.to/koqGT0  The "Write Once, Deploy Everywhere" approach to code is key to seamless deployment for developers.
+
+Through expert talks and demos @WeAreDevs, we demonstrated how this is a game-changer for building and deploying next generation apps at scale.
+
+Thanks to everyone who joined us!🙌 With the escalating need for power-efficient systems, @FujitsuFNC's turned to Arm to build the FUJITSU-MONAKA CPU - a processor designed to help achieve energy savings of 40% in Japanese data centers by 2030.
+
++ That's without compromising AI innovation: https://okt.to/WM0F3A  Arm KleidiAI brings 30% performance improvements to @Google AI Edge's MediaPipe and XNNPACK running the Gemma 2B LLM. 💪
+
+This is the first integration of many, as we enable more LLMs to run as effectively and efficiently as possible on Arm mobile CPUs: https://okt.to/qLW8He  Flooding can happen anytime, but early warning systems can help reduce its impact on communities and protect lives.
+
+We're proud to work with @UNICEF_uk and support the team in Karonga, Malawi to bring the latest in flood alert technology to communities: How can developers stay ahead in the age of AI?
+
+Andy Wafaa shares details on the tools required to optimize code, increase accessibility, and shape the future of computing at @WeAreDevs World Congress: https://okt.to/wJakX3  Since 2012, Raspberry Pi's been changing the game for businesses in the ecosystem.🚀
+ 
+Founder & CEO, Eben Upton shares the origin story of Raspberry Pi and why he chose Arm as the architecture of choice:
+
+Interview recorded in Jan 2023.  Arm Education in Conversation with Eben Upton In   this   episode,   we   interview   Eben   Upton,   founder   and   CEO   of   Raspberry   Pi   (Trading)   Ltd.   Eben   shares   with   us   the... okt.to In the age of AI, collaboration is crucial to solve technological and societal challenges. 
+
+Together with a group of academics at our Cambridge office, we've developed a "Call for Action," identifying the steps needed to ensure AI adoption in both the public and private sectors.  Ready to upscale your mobile game development without losing performance?
+
+👉 Say hello to Arm Accuracy Super Resolution
+
+It's our open source solution derived from FSR2, designed to increase the resolution of images from low to high with our efficient shader code:… https://twitter.com/i/web/status/1811061017394184322  .@AWSCloud Graviton4 is here! 🙌
+
+Announced in GA, Graviton4 uses Arm Neoverse V2 to provide the most powerful, energy efficient AWS processor to date.
+
+It follows 5+ years of collaboration on Graviton to enable CPU silicon innovation in the Amazon Cloud: https://okt.to/UWM0FR 

@@ -1,0 +1,13 @@
+Artificial intelligence has been all the rage among investors this year after the successful release of ChatGPT late last year sparked a craze among consumers and companies.  One ETF has been utilizing aspects of artificial intelligence to drive its investment decisions since its launch in 2017: the AI Powered Equity ETF. With $120 million in assets under management, the ETF has had a great start to 2023, posting year-to-date performance of about 14%. That's about double the S&P 500's year-to-date return of 7%. The AIEQ ETF is actively managed and powered by IBM's Watson supercomputer. The fund utilizes machine learning, sentiment analysis, and natural language processing to pick the stocks in its portfolio. The portfolio analyzes companies via four quadrants, which include financial analysis, news, management, and macro. According to DataTrek Research, the ETF is currently fully invested, as it holds just 0.2% in cash and 151 individual stock positions.  "These moves seem to reflect the algorithm's conviction in the continuation of a broad-based US equity market rally," DataTrek co-founder Jessica Rabe said in a Tuesday note. "Given current valuations, the US equity market is not expecting an economic contraction and nor is AIEQ, just based on its current stock picks." These are the top 10 holdings in the AI Powered Equity ETF that's driven by IBM's Watson supercomputer. 10. APA Corporation 
+ Ticker: APA% of ETF: 1.6%Industry: Oil & Gas 9. Prudential Financial 
+ Ticker: PRU% of ETF: 1.7%Industry: Financial Services 8. Roku 
+ Ticker: ROKU% of ETF: 1.9%Industry: Streaming Platform 7. Norwegian Cruise Line Holdings 
+ Ticker: NCLH% of ETF: 1.9%Industry: Cruise Ships 6. Celsius Holdings 
+ Ticker: CELH% of ETF: 1.9%Industry: Energy Drinks 5. Tesla 
+ Ticker: TSLA% of ETF: 2.8%Industry: Electric Vehicles 4. Zoetis 
+ Ticker: ZTS% of ETF: 3.3%Industry: Animal Health 3. Constellation Energy 
+ Ticker: CEG% of ETF: 3.5%Industry: Clean Energy 2. UnitedHealth Group 
+ Ticker: UNH% of ETF: 3.6%Industry: Health Insurance 1. Novavax 
+ Ticker: NVAX% of ETF: 4.3%Industry: Biotechnology 
+                                Read next
+                               Indices Commodities Currencies Stocks Jump to

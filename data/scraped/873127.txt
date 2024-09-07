@@ -1,0 +1,21 @@
+Industry analysts recognize the power of Knowledge Graphs in delivering a Data Fabric that provides integrated, trusted, and real-time views of enterprise data.  The accelerating adoption in the enterprise of this Knowledge Graph approach, which unifies business data with knowledge bases, industry terms, and domain knowledge, is clearly the future of AI Knowledge Fabrics. Franz’s AllegroGraph platform further extends this modern Knowledge Fabric approach with a novel Entity-Event Model, natively integrated with domain ontologies and metadata, and dynamic ways of setting the analytics focus on all entities in the system (patient, person, devices, transactions, events, operations, etc.) as prime objects that can be the focus of an analytic (AI, ML, DL) process.  The Entity-Event Data Model utilized by AllegroGraph with FedShard puts core “entities” such as customers, patients, students, or people of interest at the center and then collects several layers of knowledge related to the entity as "events." Events represent activities that transpire in a temporal context. The rich functional and contextual integration of multi-modal, predictive modeling and artificial intelligence is what distinguishes AllegroGraph as a modern, scalable, enterprise knowledge platform. AllegroGraph is the first big temporal graph technology that encapsulates a novel entity-event model to deliver an AI Knowledge Fabric to the Enterprise. Financial institutions, healthcare providers, contact centers, manufacturing firms, government agencies and other data-driven enterprises that use AllegroGraph gain a holistic, future-proofed Data Fabric architecture for big data predictive analytics and machine learning across complex knowledge bases to discover deep connections, uncover new patterns and attain explainable results. Contact Franz Inc. today to build your AI Knowledge Fabric solution.     Franzwww.franz.com Special Advertising Section
+
+
+
+
+
+
+
+Free
+for qualified subscribers
+
+Subscribe Now
+Current Issue
+Past Issues
+
+
+
+
+
+Please enable JavaScript to view the comments powered by Disqus.
+ KMWorld is the leading publisher, conference organizer, and information provider serving the knowledge management, content management, and document management markets. All Content Copyright © 1998 - 2024 Information Today Inc.  KMWorld22 Bayview Street, 3rd FloorPO Box 404 Camden, ME 04843207-236-8524 PRIVACY/COOKIES POLICY      

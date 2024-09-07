@@ -1,0 +1,1 @@
+403 Client Error: Unavailable (IFW-U01) for url: https://www.ign.com/articles/barbie-movie-just-had-the-best-domestic-box-office-opening-day-of-2023-so-far

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.insightnews.com/business/first-independence-bank-partners-with-operation-hope-for-neighborhood-credit-score-analysis-to-drive-financial/article_b3be25e4-0688-11ee-835c-4375fc4e8f06.html

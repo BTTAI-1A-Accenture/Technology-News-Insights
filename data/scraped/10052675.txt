@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.yakimaherald.com/opinion/letter-battle-of-walla-walla-had-a-local-context/article_ded58754-7c22-11ed-a406-fb817bd8668e.html

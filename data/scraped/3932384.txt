@@ -1,0 +1,79 @@
+Save up to 74% Subscribe to Kiplinger A look at the new wave of industrial policy over the next five years, examining some of the major investments, key trends, varied risks, and big questions. 
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+ The past few years marked a wake-up call in Washington, with the pandemic and supply chain shortages, rising competition with China, the war in Ukraine, and, now, the specter of recession.  Lawmakers are taking a more active role in the economy to bolster critical industries, key technologies, and infrastructure. It’s a sea change in policymaking that will reverberate for years to come, after decades when such direct involvement failed to gain much traction in Congress. Consider infrastructure, tech, and energy spending in the next decade. It adds up to $2 trillion from the Infrastructure Investment and Jobs Act, the CHIPS and Science Act, and the Inflation Reduction Act (IRA). Though the last one passed with only Democratic votes, many members of both parties have come around to this way of thinking to combat China, help businesses, and boost national security.  Be a smarter, better informed investor. Profit and prosper with the best of expert advice on investing, taxes, retirement, personal finance and more - straight to your e-mail. Profit and prosper with the best of expert advice - straight to your e-mail. Nearly $400 billion is going to energy and climate initiatives via the IRA, to drive down the cost of a variety of noncarbon energy sources to spur production and adoption. Plus, it aims to lift emerging technologies, such as advanced nuclear.  $53 billion is flowing to homegrown semiconductors: U.S. manufacturing, research, development, and workforce efforts. That includes $2 billion for legacy chips for autos, defense, etc. (The chip shortage has cost hundreds of billions in auto sales.)  And a plethora of spending will boost American industrial capacity — modernizing the electric grid, electrifying cars and buses, etc., mining battery materials, creating regional technology hubs, and research aimed at commercializing key tech.  The major trends influencing Washington are affecting the private sector, too. So private investment is also flowing into U.S. industries, based on demand, not Washington directives, for things such as electric vehicles and computer chips. But recent subsidies and incentives now muddy the water some for these markets. Uncle Sam’s biggest direct bet: Rebuilding America’s chipmaking prowess. It’s the first major intervention in the industry since the 1980s when Japan started racing ahead. Not long ago, the prospects for a state-of-the-art chip plant in the U.S. were grim. America’s share of chip manufacturing capacity fell from 37% in 1990 to 12% today, in large part because other countries subsidize their industries.  Early signs of success are already on display, but there’s a long way to go. At least nine new cutting-edge chipmaking facilities are being built across the country in the next five years by Taiwan Semiconductor Manufacturing Co., Intel, Samsung, and Micron. Odds favor more plants coming as yearly chip sales rise to $1 trillion in the early 2030s, from about $600 billion this year, even if sales flag some years.  Pandemic chip shortages roiled the economy, especially the auto industry. Our overreliance on Asia has spooked U.S. buyers, including the military. Note that Taiwan’s TSMC makes 92% of chips built with the most advanced processes. Even if chips are made in the U.S., they’re likely packaged, tested, and assembled in Asia.  Cue $39 billion from the feds for domestic production, plus a 25% tax credit for manufacturing and processing equipment, making a big dent in the cost of a plant, which runs to $10 billion-plus. The tax credits will phase out, so chip giants are acting fast. See all of Kiplinger’s Economic Forecasts A key place to watch is Licking County, Ohio. Intel's resurgence is at stake and the company is spending $100 million to develop and attract workers. Suppliers Air Products, Applied Materials, Lam Research, and Ultra Clean Technology are already setting up shop in the region based on Intel’s plans to create a “small city.” The new campus, near Columbus, could eventually lead to $100 billion in investment.  Beyond making chips, investments are supporting other critical areas. Lots of federal dollars are going to research, including to help start-ups get access to advanced plants to fabricate small batches of chip designs so they can try them out. Also, domestic final assembly and packaging, the last fabrication step, now mostly done in Asia, is seeing glimmers of life. Intel is investing in advanced packaging in N.M. SkyWater is developing a Fla. facility. Ditto, Northrop Grumman for defense chips. Others expanding operations or mulling it are Amkor, Promex, and QP Technologies. Meanwhile, Wolfspeed and SK Siltron are building new facilities for the raw materials of chips, focusing on silicon carbide wafers, used for specialty applications, like EVs. GlobalWafers is building a Sherman, Texas, factory to make traditional silicon wafers. The semiconductor supply chain involves thousands of global vendors. That won’t change. Shifting production to the U.S. will be slow and steady, no matter how committed policymakers are to building up the industry. America will also face off with new chip subsidies in Europe, Japan, China, and elsewhere.  Delays are possible with new plants. Outright failures can’t be ruled out, as facilities need to run at near-full capacity to turn a profit over the long run. Hard-to-predict breakthroughs could make certain projects or factories obsolete.  But success…meaning, bringing lots more production home…is a good bet. That shift will be very noticeable in five years as Apple, AMD, Nvidia, Broadcom, Qualcomm, Intel, and others start making leading chip designs in local factories.  This U.S. shift comes as concerns escalate over China’s meddling in Taiwan and risking the critical supply from Taiwan’s TSMC. Beijing is also pushing hard to build a walled-off chip industry, threatening hefty U.S. chip sales to China. U.S. export controls of chips and chip gear to China only heighten increasing tensions. CHIPs includes $500 million to work with foreign allies to secure chip supply chains.  That’s why Congress also made a longer-term play with $13 billion in R&D and workforce development to continue to out-innovate China and other nations. With wind and solar accounting for only 11% of U.S. electricity generation, the IRA has incentives to boost solar installations and onshore wind capacity. Early estimates expect the law could boost them by 40% (combined) by 2030, with an extra 155 gigawatts of capacity coming online this decade. For wind, that means nearly 280 GW by 2030, up from 140 now. For solar that's 270 GW by 2030, up from nearly 100 now. Even if these projections prove too lofty, it’s safe to say that more solar and wind will be built because of the new push.  The total will depend in part on new transmission infrastructure that the U.S. is able to build to better integrate renewables into the existing grid, which is why lawmakers set aside billions for renewables and transmission lines. New high-voltage direct-transmission capacity is viewed as essential to enabling a long-term transition to renewables and away from fossil fuels.  But U.S. investments in new transmission infrastructure have been paltry, growing about 2% yearly, not keeping up with domestic demand or foreign competition. The U.S. lacks manufacturing capacity and has struggled to build it, due to various legal and regulatory hurdles. Only 23% of transmission projects seeking connection to the grid between 2000 and 2016 ended up reaching commercial operation. Various federal incentives could help. A lot rests on whether Washington can reform current permitting processes to allow more projects to be completed. Success hinges on Congress taking action.  Meanwhile, batteries for electric vehicles are getting a big federal push with tax credits for the four stages of battery production: Mining the materials, refining them, building cells, and assembling them into packs to go into vehicles. Plus, EVs will need North American batteries in order to qualify for the full $7,500 tax credit.  U.S. battery-making capacity is going to grow quickly. One estimate from S&P Global shows capacity growing by a factor of 10 between 2021 and 2025, from about 38 gigawatt-hours annually to about 380. The U.S. share of world capacity would go from about 4.7% to almost 14%. Companies involved include automakers (Ford, GM, and Tesla, to name three) and the big names in battery production (Samsung, LG Chem, and Panasonic). Plant construction is concentrated mostly in the Southeast and southern Great Lakes states — a new “Battery Belt,” some say. 2023 EV Tax Credit Explained: What's Changed and What’s Ahead America’s return to full-fledged industrial policy brings many risks. Alienating allies, wasting money, and distorting markets, to name a few. All have long been mentioned when the government meddles in the free market in a bigger-than-usual way to support specific industries. For example, China, which heavily subsidizes all sorts of industries, is prone to wasteful spending and is likely hurting innovation with its heavy-handed, top-down approach.  Government spending can crowd out private investment, hinder profits and produce surpluses, or even gluts, of certain products. To top it all off, supporting an industry can make it reliant on subsidies and less competitive.  It’s also a big bet on the feds efficiently managing a mountain of money in grants, loans, incentives, and more. While the priority is to move fast, there’s always paperwork, regulations, and procedures that gum things up. Waste, fraud, and abuse for huge programs are inevitable, as are failures. The question is the extent of it. Expect lots of congressional scrutiny for years.  Still, supporters say the new policies are well-designed, with guardrails to avoid the worst problems of industrial policy. For example, to support the shift from fossil fuels to renewables, the IRA mostly uses carrots rather than sticks, in the form of tax incentives, which proponents say is the best way forward. This hefty investment in industrial capacity should result in tens of thousands of jobs. A constraint will be finding the right workers. Many of the positions will be for technical, high-skill manufacturing fields — others, for factory jobs.  Companies will be desperate for workers as new plants near completion. It will be hard for colleges and other programs to keep up, even with new efforts. Expect the issue to spur a renewed battle over immigration. Consider that 40% of high-skilled chip workers were born abroad. Many companies and business trade groups will push for more high-skilled workers via H-1B visas.  The issue will grab Congress’s attention as the cold war with China continues. Profit and prosper with the best of Kiplinger's advice on investing, taxes, retirement, personal finance and much more. Delivered daily. Enter your email in the box and click Sign Me Up. John Miley is a Senior Associate Editor at The Kiplinger Letter. He mainly covers technology, telecom and education, but will jump on other important business topics as needed. In his role, he provides timely forecasts about emerging technologies, business trends and government regulations. He also edits stories for the weekly publication and has written and edited e-mail newsletters. He joined Kiplinger in August 2010 as a reporter for Kiplinger's Personal Finance magazine, where he wrote stories, fact-checked articles and researched investing data. After two years at the magazine, he moved to the Letter, where he has been for the last decade. He holds a BA from Bates College and a master’s degree in magazine journalism from Northwestern University, where he specialized in business reporting. An avid runner and a former decathlete, he has written about fitness and competed in triathlons. 
+Americans feel they need $1.46 million to retire comfortably. The good news, if you're falling short, is you might not need that much to reach your individual retirement goals.
+ 
+By Kevin Dwyer, CFP®, CLU®
+
+Published 18 August 24
+
+ 
+Now is a great time to minimize your upcoming tax bills, get your RMDs in order and make sure your investments are on track for a prosperous new year.
+ 
+By Nico Pesci
+
+Published 18 August 24
+
+ 
+The Kiplinger Letter
+Amid a long, costly turnaround, Intel resets expectations again. Its new woes raise questions about U.S. industrial policy and global chip competition.
+ 
+By John Miley
+
+Published 12 August 24
+
+ 
+The Kiplinger Letter
+There's no end in sight for energy rate hikes, so look for ways to curb your power use.
+ 
+By Jim Patterson
+
+Published 22 May 24
+
+ 
+Intel stock plunged after a big earnings miss, but encouraging inflation and consumer sentiment data created tailwinds for the broad market.
+ 
+By Karee Venema
+
+Published 27 January 23
+
+ 
+Spotify became the latest company to announce layoffs, while Salesforce climbed on activist investor news.
+ 
+By Karee Venema
+
+Published 23 January 23
+
+ 
+The energy sector was a notable decliner as U.S. crude futures slumped to their lowest close of the year.
+ 
+By Karee Venema
+
+Published 6 December 22
+
+ 
+INTC stock has been a long-time laggard and analysts say it is still a "show-me" story at best.
+ 
+By Dan Burrows
+
+Published 6 December 22
+
+ 
+The 2023 lineup of Dogs seems to face thornier problems than in years past. Here are five names to watch for those who adhere to this decades-old income-and-value strategy.
+ 
+By Louis Navellier
+
+Published 21 November 22
+
+ 
+Mobileye filed for an IPO in late September, and shares of the Intel-owned firm are expected to start trading on Wednesday, Oct. 26.
+ 
+By Will Ashworth
+
+Last updated 24 October 22
+
+ Kiplinger is part of Future plc, an international media group and leading digital publisher.  Visit our corporate site.
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 

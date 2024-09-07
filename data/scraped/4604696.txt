@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.postandcourier.com/hilton-head/after-50-years-and-more-than-4-000-wedding-cakes-signe-gardo-closes-her-iconic/article_f3ae23a2-8866-11ed-891e-bf506f511e0c.html

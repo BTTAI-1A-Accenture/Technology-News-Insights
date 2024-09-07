@@ -1,0 +1,45 @@
+
+The partnership utilizes Wing’s advanced SaaS Security Posture Management and database of 280K SaaS vendors to boost efficiency and security in access reviews and vendor risk assessments
+ TEL AVIV, Israel--(BUSINESS WIRE)--Wing Security (Wing), the leader in SaaS Security Posture Management (SSPM), today announced its partnership with Drata, a continuous security and compliance automation platform. This partnership integrates SaaS security controls, robust insights, and automation to streamline and expedite user access reviews and vendor risk assessments for compliance frameworks and standards such as SOC 2 and ISO 27001.
+
+  
+This unique collaboration marks a first in the SSPM market, empowering customers to reduce weeks of work on the tedious evidence-collection process. Wing centralizes evidence collection for dozens of applications and generates a consolidated report of all evidence, which seamlessly integrates with the Drata platform. In addition, Wing identifies all organizational SaaS application usage, eliminating Shadow IT and ensuring informed decisions regarding which applications to review.
+
+ 
+In tandem with the partnership, Wing is launching a new 'SSPM for Compliance' product offering, providing robust access review evidence collection, vendor risk assessments, and on-demand access and role report generation for $1500. Customers can trial these features for free. This innovative product extends from Wing’s successful SSPM for Enterprise solution, leveraging its distinct 280K SaaS vendor database to uncover SaaS usage, pinpoint potential third-party risks, and identify threats across SaaS applications, users, and data—unifying compliance essentials with vital security features and introducing automated remediation within the platform.
+
+ 
+“Managing access and compliance for SaaS applications is pivotal and costly for security-conscious companies adopting SaaS,” said Wing's CEO, Galit Lubetzky Sharon. “We harness our extensive SSPM technology to introduce an economical product tier, allowing every company to easily allocate essential resources to high-value security responsibilities. In conjunction with Drata's market-leading compliance automation platform, we streamline these processes and infuse compliance with heightened security insights.”
+
+ 
+“Supporting compliance needs for thousands of Drata customers requires strong partnerships and integrations, and we’re excited to be partnering with Wing Security,” said Adam Markowitz, Co-Founder and CEO of Drata. “Wing's SSPM platforms empower our customers to uncover their SaaS supply chain, automate critical evidence collection for compliance, and ultimately enhance their security posture.”
+
+ 
+For more information on Wing and Drata’s partnership, please click here.
+
+ 
+About Wing Security
+ 
+Wing Security’s SSPM solution is trusted by hundreds of global companies for securing their SaaS usage. Wing proves ROI from Day 1, by reducing weeks of work to hours through automated risk detection and in-product remediation. Organizations use Wing to make confident security decisions by leveraging insights from Wing’s industry-leading SaaS vendor database of over 280K SaaS vendors.
+
+ 
+About Drata
+ 
+Drata is the world's most advanced security and compliance automation platform with the mission to make compliance effortless and accessible. With Drata, thousands of companies streamline over 16 compliance frameworks—such as SOC 2, ISO 27001, GDPR, and more—through continuous, automated control monitoring and evidence collection, resulting in a strong security posture, lower costs, and less time spent preparing for annual audits. The company is backed by ICONIQ Growth, GGV Capital, Alkeon Capital, Salesforce Ventures, Cowboy Ventures, S Ventures, Leaders Fund, Okta Ventures, SVCI, SV Angel, Intuit Ventures, and many key industry leaders. For more information, visit drata.com.
+
+ 
+Erica Stuchel
+W2 Communications
+wing@w2comm.com
+ 
+Sophia Hatef
+Drata
+sophia@drata.com
+ 
+Erica Stuchel
+W2 Communications
+wing@w2comm.com
+ 
+Sophia Hatef
+Drata
+sophia@drata.com

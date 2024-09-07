@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='markets.buffalonews.com', port=443): Max retries exceeded with url: /buffnews/article/bizwire-2023-3-7-the-tech-tribune-announces-its-2023-best-tech-startups-in-boston (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da9395c2b0>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

@@ -1,0 +1,77 @@
+In partnership withGREAT Britain & Northern Ireland In association with: In association with: 
+        In the United Kingdom, all the stars are aligning for the space industry to advance, including an active venture capital community, a government cognisant of space tech’s potential, and close collaboration. Add advancements in emerging technologies, like quantum computing, into the mix, and its potential ignites.
+         
+          Joshua Western, CEO and co-founder of Wales-based space manufacturing start-up Space Forge believes space to be the most important research frontier of our time. He sees space-based technologies as having a profound impact on everything from fighting cancer to developing alloys, semiconductors, electronics, and fibre optics. “It's going to offer so many opportunities for so many different people to experiment, to research, and to really accelerate whatever it is that they might be working in on the ground,” he says.
+         
+        Space technologies are taking off in the UK, alongside other emerging technologies like quantum computing. “I don't think there's a way we can do comprehensive space research and travel, if you like, without quantum technology,” explains Simon Phillips, chief technology officer at Oxford Quantum Circuits (OQC). “It's just too much to calculate.”  
+         
+          “I think it'll be very soon that when we talk about space technology it will always include quantum,” says Phillips. Enabling space technology to include quantum, he explains, involves “building ground-based systems that are capable of processing lots and lots of quantum information in ways that we never knew were possible before.”
+         
+          In the near term, quantum technologies could assist space R&D efforts such as mission scheduling, materials discovery, and studies on how space travel affects the space environment. Solving the issue of space debris is an area that might sound trite, but, as Phillips notes, “it’s actually a bit of a problem.” Quantum, he explains, can model space debris removal “hundreds and hundreds” of years into the future.
+         
+          Longer term, quantum technologies could enhance our understanding of how people may be affected by their time in space. “We have data on Mars, and we have data on humans, but we don’t have an understanding of the interaction between those environments,” says Phillips. With quantum, he says, “we could work out how to protect people working in space,” something he considers to be a critical issue.          
+         Compiled by MIT Technology Review Insights based on data from the Forbes Tech Council and NASA. 
+          As applications of quantum computing in space continue to grow, so too does the UK’s space start-up ecosystem. 
+         
+          Space Forge, for example, is developing a manufacturing hub that will travel in and out of Earth’s atmosphere. 
+          They will only produce goods in space that lead to a net positive benefit on the ground, says Western. 
+          He notes the various advantages of working within space, including a purified environment, 
+          lower pressure, extreme temperatures, and reduced carbon emissions. “You can access plus or minus 250°C,” he says. 
+         
+          Meanwhile, radiation rays from the sun could be employed for lithography in making semiconductors. 
+          Despite sounding like something straight out of science fiction, “all the technologies that are essential for this already exist,” says Western.
+         
+          Another notable UK space start-up is Lumi Space. With support from the European Space Agency (ESA) 
+          and the UK Space Agency, Lumi Space is building the world's first global, commercial satellite laser ranging service, 
+          which will enable safe, sustainable space exploration. Its technology’s applications include collision avoidance, 
+          debris removal, and constellation management.
+         
+          OQC offers the only commercially available quantum computer in the UK. 
+          “If you're a space start-up, you don't need to own a quantum computer,” says Phillips. 
+          “Part of what we do at OQC is put our contributions into colocation data centers, so we're connected directly to everyone's business.”
+         
+          The UK’s space industry has blossomed in recent years, in part because the country acts as a bridge between the U.S. and Europe.
+          “Many EU-headquartered space companies have set up an office in the UK to be able to not only work with the UK, but to do better 
+          work with the States,” says Western. 
+         
+          The UK’s space and quantum industries have also received strong support from its government, 
+          which in 2022 pledged £1.84 billion 
+            to fund space programs and initiatives such as the UK-built 
+          Rosalind Franklin Mars Rover that is set to launch in 2028. The government also just announced 
+          £2.5 billion in funding to support quantum technologies in the UK for the next decade, as part of the National Quantum Strategy.
+         
+          Various government departments offer support to companies looking to innovate in the space sector. 
+          UK Research and Innovation (UKRI), for example, facilitates fellowships, grants and loans for companies 
+          engaging with space science and 
+          quantum technologies. 
+         
+          And, bridging and supporting both the quantum and space industries, is the International Network in Space Quantum Technologies, 
+          a community of scientists and engineers funded by UKRI and the UK Engineering Physical Sciences and Engineering Council. 
+          In addition to hosting workshops and meetings, it organizes and funds research exchanges between its members.
+         
+          And the UK also offers tax credits for any company looking to advance science or technology in new ways. 
+          “When you are not profit generating, the ability for your R&D tax credits to be refunded to you, 
+          to enable you to carry out more R&D, is an absolute lifeline,” explains Western.
+         
+          Although government support is strong for the advancement of space and quantum technologies, 
+          there is a talent gap in both areas. Across STEM sectors as a whole, there is difficulty filling 43% of roles. 
+          There are several reasons for this gap. 
+         
+          “People simply don't know that there is a space industry in the UK,” says Western, 
+          who was employee number 50 at the UK Space Agency when it formed just over a decade ago. 
+         The last decade has seen a ramp-up of innovation and collaboration 1959: First satellite programstarted in the UK 1962: First British satellite,Ariel 1, is launched 1975: European Space Agency is formedby the UK and 9 other nations 1991: First British astronaut, 27-year-oldHelen Sharman, sent to space 2004: Private aerospace companyVirgin Galactic founded by Richard Branson 2010: UK Space Agencyestablished 2015: First British ESAastronaut visits ISS 2020: UK Space Agency’s Space-BasedPositioning, Navigation andTiming Programme (SBPP) founded 2022: UK government pledges £1.84 billionto fund space programs and initiatives 2022: University of Strathclyde winsbid to lead International Networkin Space Quantum Technologies 2023: The UK space sector is currentlyworth over £16.4 billion per yearand employs 45,100 people               Compiled by MIT Technology Review Insights based on data from 
+          Orbital Today, 
+          University of Strathclyde, and the 
+          UK government. 
+          In addition to generating awareness about the country’s space efforts, Western says it’s important to demonstrate that skilled individuals are supported to take the leap from one industry into another. 
+         
+          “Very few of our team are from the space industry,” says Western. Space Forge routinely recruits talent with expertise outside of space in areas like semiconductors, plasma and particle physics, and robotics. 
+         
+          For companies looking to use quantum computing to bolster their space R&D efforts, the same questions about talent recruitment exist. “You would immediately assume that everything you do requires a PhD in quantum physics, and that's definitely not the case,” says Phillips. He adds that quantum computers will only gain power and utility if people know how to use them. “That starts with letting people play with quantum computers today to their heart's content.”
+         
+          In the UK, government support is propelling a thriving industry and allowing investors to contribute to new frontiers of science. “We’re talking about technologies that are like a light bulb to a candle,” says Phillips. “It's not going to happen by chance.” 
+         
+
+            To see things differently, choose the UK. The Department for Business and Trade can connect you with dedicated, professional assistance to locate R&D investment opportunities and support. Get in touch to be connected with our R&D sector and investment experts.
+          
+  © 2024 MIT Technology Review

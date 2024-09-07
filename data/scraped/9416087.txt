@@ -1,0 +1,19 @@
+LatinFinance 
+		Already have an account?		Sign In.
+	 
+							We've recently sent you an authentication link. Please, check your inbox!						 
+							Sign in with a password below, or sign in using your email.						 
+							Get a code sent to your email to sign in, or sign in using a password.						 
+							Enter the code you received via email to sign in, or sign in using a password.						 
+Sign in with your email
+ 
+Lost your password?
+ 
+Try a different email
+ 
+Send another code
+ 
+Sign in with a password
+ 
+
+																By signing up, you agree to our Terms & Conditions																	

@@ -1,0 +1,1 @@
+400 Client Error: Bad request for url: https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.html

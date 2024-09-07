@@ -1,0 +1,48 @@
+A monthly overview of things you need to know as an architect or aspiring architect. View an example  
+We protect your privacy.
+ 
+                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+                       
+Back to login
+  
+Back to login
+ Jeremy Ruston explores what made the BBC Micro attractive and what can be learned from it today. Gregor Hohpe reflects on two decades working as an architect, ranging from the executive penthouse to the serverless engine room. The presenters discuss an introduction to incremental data processing, contrasting it with the two prevalent processing models of today - batch and stream data processing. In Jan 2023, we received word that we’d need to build a microblogging service to compete with Twitter in a couple of months. A small team was assembled to take on that challenge, and we shipped a new social network in July. This article describes how we developed and launched the Threads app at Meta last year. David Stenglein discusses the shift to a product model for internal platforms and how this benefits from people-centric tools like customer empathy and the new DevEx framework. Get clarity from senior software practitioners on today's critical dev priorities. Register Now. Level up your software skills by uncovering the emerging trends you should focus on. Register now. Discover emerging trends, insights, and real-world best practices in software development & tech leadership. Join now. Your monthly guide to all the topics, technologies and techniques that every professional needs to know about. Subscribe for free. 
+InfoQ Homepage
+News
+Jupyter AI Brings Generative AI to Notebooks
+ 
+					This item in
+					
+
+						japanese
+					
+
+ Aug 15, 2023
+								
+								
+								
+									
+									1
+									min read
+								
+							 by 
+
+
+Andrew Hoblitzell
+
+ The open-source Project Jupyter, used by millions for data science and machine learning, has released Jupyter AI, a free tool bringing powerful generative AI capabilities to Jupyter notebooks. The tool includes %%ai magic commands for notebooks. The tool also includes a chat interface called Jupyternaut to leverage large language models like GPT-3, Claude, and Amazon Titan to generate, explain, and code directly within JupyterLab and Jupyter notebooks. Additionally, users can use the "/generate" command to produce entire notebooks from text prompts. Amazon also announced an Amazon CodeWhisperer Jupyter extension. Apart from these generative AI extensions, AWS has introduced new Jupyter extensions to build, train, and deploy ML at scale. These include notebooks scheduling, SageMaker open-source distribution, and the Amazon CodeGuru Jupyter extension. The innovative technology of Jupyter AI not only helps simplify tasks and save the developer's time but also increases their ability to tackle new difficulties. Gleb Tsipursky wrote in Forbes,  "Generative AI's coding ability will automate repetitive tasks, increase productivity, and enhance collaboration between humans and AI, creating a symbiotic relationship that will redefine the programming landscape". The use of generative AI in software development has been steadily increasing. Research by McKinsey Digital shows how generative AI like Jupyter AI accelerates updates to existing codes and provides a head start to the first draft of a new code. Jupyter senior front-end engineer Jason Weill has pointed out the intention of creating ethical, socially responsible AI with data protection in mind, and that is evident in features such as the freedom of users to select their favourite LLM, embedding model, and vector database to meet their individual needs. Jupyter AI aims to protect the privacy of user data and only communicates with LLMs upon request; data is never accessed or transmitted without the user's consent. Users can use pip to install JupyterLab (version 3 or 4) to begin using Jupyter AI. The extension can be found here on GitHub. 
+
+   
+        A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+        
+			View an example
+  
+We protect your privacy.
+ A round-up of last week’s content on InfoQ sent out every Tuesday. Join a community of over 250,000 senior developers.
+		
+			View an example
+  
+We protect your privacy.
+  InfoQ Dev Summit Munich September 26-27, 2024 InfoQ Dev Summit Munich is a two-day software conference featuring 22 technical talks sharing actionable insights on Generative AI, security, modern web apps, and more. Learn from senior developers facing the same challenges as you as they share proven tactics, not just trends, empowering you to make smart, focused choices for your immediate dev roadmap.Register Now 
+					InfoQ.com and all content copyright © 2006-2024 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

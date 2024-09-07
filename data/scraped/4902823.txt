@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+  In today's world where sustainability is a top priority, companies are recognising the need to rearchitect their data pipelines for greater efficiency and reduced environmental impact.  At Cloudera, our hybrid data platform provides secure data management and portable cloud-native analytics, is at the forefront of this movement. Firstly, Cloudera provides data Mobility / Portability or whatever you want to call it. This not only optimises resource usage but also reduces energy consumption, thus minimizing the environmental impact of data centers. Secondly, portable cloud-native analytics enable companies to efficiently analyse their data at scale. This can help them make better decisions while still minimizing their carbon footprints. Thirdly, By offering a standard approach to store and access data, which simplifies complex logic and reduces the number of data hops required. This results in faster processing times, lower latency, and reduced power consumption - all key factors for sustainable tech solutions. Finally, We have a proven track record of successfully migrating companies from legacy systems to more sustainable solutions.  By partnering with Cloudera for re-engineering data pipelines, businesses can benefit from our expertise in managing complex tech programs with numerous upstream and downstream integrations. With our comprehensive suite of features designed specifically for sustainable tech solutions, it's no wonder that Cloudera is becoming an increasingly popular choice among environmentally-conscious businesses. Our Commitment  Cloudera has worked with organisations like CRAES (Vehicle Emissions Control Center) in China to analyse carbon emissions data at scale for a greener future.  We have also developed solutions like IoT predictive analytics that help organisations save capital and reduce their carbon footprint by preventing downtime. In addition to providing solutions for reducing carbon emissions, Cloudera is also advocating for climate disclosures and helping banks and asset managers measure climate risk including measuring a firm's own carbon footprint. Internally we are working hard and with the learnings from you our customers and we are projecting a decrease by 26% over the next five years in our emissions also.   Thanks for reading - see you next time , DB. 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

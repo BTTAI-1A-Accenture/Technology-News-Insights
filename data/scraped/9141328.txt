@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.scarsdalenews.com', port=443): Max retries exceeded with url: /opinion/letters_to_the_editor/scarsdale-foundation-is-at-core-of-local-caring-community/article_3b56d04c-27da-11ee-a580-ef7a00a2c06c.html (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1007)')))

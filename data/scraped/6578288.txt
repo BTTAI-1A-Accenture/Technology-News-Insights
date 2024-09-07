@@ -1,0 +1,949 @@
+ You have successfully submitted your enquiry. Someone from our company will respond ASAP 
+Selectron Systems AG offers safe and freely programmable controllers, centralised and decentralised remote I/O systems, driver’s cab displays, and communication components at vehicle or train bus level.
+Essential to the product portfolio is the EN 50155-compliant MAS 83x controller family. Flexibly expandable, it includes module versions for a wide range of safety levels, and runs the user program designed by the system engineers.
+Central expansion components use signal conditioning to ensure optimum adjustment of various sensors and actuators.                          
+
+
+
+
+
+
+
+
+Train Control and Management Systems (TCMS) – In vehicle automation, everything depends on the control system. 
+
+
+
+TCMS Products and Solutions: Selectron Systems offers a large portfolio of product solutions, individually configurable according to your requirements. 
+
+
+
+Smart Remote Input / Output Systems- Fewer terminal blocks, modular design, simple installation and wiring, as well as clarity and a clear structure
+
+
+
+To see our new website please follow the links on our profile.
+
+
+
+High-Performance and Flexible Control Unit 94X
+
+
+
+
+
+
+
+
+
+
+Optimal solutions in train safety
+Selectron offers the following solutions:
+
+Safety Supervisor: the SIL2-certified safety control system offers safe control and signal conditioning
+Wheel slide protection (WSP): shortens braking distances, reduces wear and tear, increases comfort, saves on maintenance costs and improves safety. Selectron offer WSP controllers, valves and rotary encoders for both new vehicles and modernisations (TÜV, EN15595 and UIC541 approved)
+Anti-skid protection: implemented individually with our solutions, usually integrated directly in the software of the drive control unit (DCU).
+Traction: usually controlled by a DCU, meaning drive-specific functions can be located elsewhere and controlled with either a Selectron or third-party unit, and implemented to meet client requirements
+
+Train control and monitoring systems for rail vehicles
+Modern rail vehicle systems require brakes, door and HVAC systems, traction, illumination control and power supply, various displays, vehicle diagnostics and passenger information.
+They are linked by train control management systems (TCMS) into a single, well-functioning platform that offers maximum safety and high levels of availability.
+The company’s MAS family of controllers offers high performance in a compact product.
+Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Selectron Systems AG offers safe and freely programmable controllers, centralised and decentralised remote I/O systems, driver’s cab displays, and communication components at vehicle or train bus level.
+Essential to the product portfolio is the EN 50155-compliant MAS 83x controller family. Flexibly expandable, it includes module versions for a wide range of safety levels, and runs the user program designed by the system engineers.
+Central expansion components use signal conditioning to ensure optimum adjustment of various sensors and actuators.                          
+
+
+
+
+
+
+
+
+Train Control and Management Systems (TCMS) – In vehicle automation, everything depends on the control system. 
+
+
+
+TCMS Products and Solutions: Selectron Systems offers a large portfolio of product solutions, individually configurable according to your requirements. 
+
+
+
+Smart Remote Input / Output Systems- Fewer terminal blocks, modular design, simple installation and wiring, as well as clarity and a clear structure
+
+
+
+To see our new website please follow the links on our profile.
+
+
+
+High-Performance and Flexible Control Unit 94X
+
+
+
+
+
+
+
+
+
+
+Optimal solutions in train safety
+Selectron offers the following solutions:
+
+Safety Supervisor: the SIL2-certified safety control system offers safe control and signal conditioning
+Wheel slide protection (WSP): shortens braking distances, reduces wear and tear, increases comfort, saves on maintenance costs and improves safety. Selectron offer WSP controllers, valves and rotary encoders for both new vehicles and modernisations (TÜV, EN15595 and UIC541 approved)
+Anti-skid protection: implemented individually with our solutions, usually integrated directly in the software of the drive control unit (DCU).
+Traction: usually controlled by a DCU, meaning drive-specific functions can be located elsewhere and controlled with either a Selectron or third-party unit, and implemented to meet client requirements
+
+Train control and monitoring systems for rail vehicles
+Modern rail vehicle systems require brakes, door and HVAC systems, traction, illumination control and power supply, various displays, vehicle diagnostics and passenger information.
+They are linked by train control management systems (TCMS) into a single, well-functioning platform that offers maximum safety and high levels of availability.
+The company’s MAS family of controllers offers high performance in a compact product.
+Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Essential to the product portfolio is the EN 50155-compliant MAS 83x controller family. Flexibly expandable, it includes module versions for a wide range of safety levels, and runs the user program designed by the system engineers.
+Central expansion components use signal conditioning to ensure optimum adjustment of various sensors and actuators.                          
+
+
+
+
+
+
+
+
+Train Control and Management Systems (TCMS) – In vehicle automation, everything depends on the control system. 
+
+
+
+TCMS Products and Solutions: Selectron Systems offers a large portfolio of product solutions, individually configurable according to your requirements. 
+
+
+
+Smart Remote Input / Output Systems- Fewer terminal blocks, modular design, simple installation and wiring, as well as clarity and a clear structure
+
+
+
+To see our new website please follow the links on our profile.
+
+
+
+High-Performance and Flexible Control Unit 94X
+
+
+
+
+
+
+
+
+
+
+Optimal solutions in train safety
+Selectron offers the following solutions:
+
+Safety Supervisor: the SIL2-certified safety control system offers safe control and signal conditioning
+Wheel slide protection (WSP): shortens braking distances, reduces wear and tear, increases comfort, saves on maintenance costs and improves safety. Selectron offer WSP controllers, valves and rotary encoders for both new vehicles and modernisations (TÜV, EN15595 and UIC541 approved)
+Anti-skid protection: implemented individually with our solutions, usually integrated directly in the software of the drive control unit (DCU).
+Traction: usually controlled by a DCU, meaning drive-specific functions can be located elsewhere and controlled with either a Selectron or third-party unit, and implemented to meet client requirements
+
+Train control and monitoring systems for rail vehicles
+Modern rail vehicle systems require brakes, door and HVAC systems, traction, illumination control and power supply, various displays, vehicle diagnostics and passenger information.
+They are linked by train control management systems (TCMS) into a single, well-functioning platform that offers maximum safety and high levels of availability.
+The company’s MAS family of controllers offers high performance in a compact product.
+Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Central expansion components use signal conditioning to ensure optimum adjustment of various sensors and actuators.                          
+
+
+
+
+
+
+
+
+Train Control and Management Systems (TCMS) – In vehicle automation, everything depends on the control system. 
+
+
+
+TCMS Products and Solutions: Selectron Systems offers a large portfolio of product solutions, individually configurable according to your requirements. 
+
+
+
+Smart Remote Input / Output Systems- Fewer terminal blocks, modular design, simple installation and wiring, as well as clarity and a clear structure
+
+
+
+To see our new website please follow the links on our profile.
+
+
+
+High-Performance and Flexible Control Unit 94X
+
+
+
+
+
+
+
+
+
+
+Optimal solutions in train safety
+Selectron offers the following solutions:
+
+Safety Supervisor: the SIL2-certified safety control system offers safe control and signal conditioning
+Wheel slide protection (WSP): shortens braking distances, reduces wear and tear, increases comfort, saves on maintenance costs and improves safety. Selectron offer WSP controllers, valves and rotary encoders for both new vehicles and modernisations (TÜV, EN15595 and UIC541 approved)
+Anti-skid protection: implemented individually with our solutions, usually integrated directly in the software of the drive control unit (DCU).
+Traction: usually controlled by a DCU, meaning drive-specific functions can be located elsewhere and controlled with either a Selectron or third-party unit, and implemented to meet client requirements
+
+Train control and monitoring systems for rail vehicles
+Modern rail vehicle systems require brakes, door and HVAC systems, traction, illumination control and power supply, various displays, vehicle diagnostics and passenger information.
+They are linked by train control management systems (TCMS) into a single, well-functioning platform that offers maximum safety and high levels of availability.
+The company’s MAS family of controllers offers high performance in a compact product.
+Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Selectron offers the following solutions:
+
+Safety Supervisor: the SIL2-certified safety control system offers safe control and signal conditioning
+Wheel slide protection (WSP): shortens braking distances, reduces wear and tear, increases comfort, saves on maintenance costs and improves safety. Selectron offer WSP controllers, valves and rotary encoders for both new vehicles and modernisations (TÜV, EN15595 and UIC541 approved)
+Anti-skid protection: implemented individually with our solutions, usually integrated directly in the software of the drive control unit (DCU).
+Traction: usually controlled by a DCU, meaning drive-specific functions can be located elsewhere and controlled with either a Selectron or third-party unit, and implemented to meet client requirements
+
+Train control and monitoring systems for rail vehicles
+Modern rail vehicle systems require brakes, door and HVAC systems, traction, illumination control and power supply, various displays, vehicle diagnostics and passenger information.
+They are linked by train control management systems (TCMS) into a single, well-functioning platform that offers maximum safety and high levels of availability.
+The company’s MAS family of controllers offers high performance in a compact product.
+Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Modern rail vehicle systems require brakes, door and HVAC systems, traction, illumination control and power supply, various displays, vehicle diagnostics and passenger information.
+They are linked by train control management systems (TCMS) into a single, well-functioning platform that offers maximum safety and high levels of availability.
+The company’s MAS family of controllers offers high performance in a compact product.
+Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  They are linked by train control management systems (TCMS) into a single, well-functioning platform that offers maximum safety and high levels of availability.
+The company’s MAS family of controllers offers high performance in a compact product.
+Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  The company’s MAS family of controllers offers high performance in a compact product.
+Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Their flexibility and availability is ensured by Selectron’s consistent processes from development to logistics and servicing.
+For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  For a decentralised, remote I/O solution, Selectron’s Smartio system allows flexible expansion, with a large number of I/O signals for each node.
+Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Sensor/actuator connections and processing are contained within a single housing, saving on terminal blocks.
+Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Vehicle bus nodes of varying types, such as CANopen and MVB, are easily integrated. Selectron’s devices enable a consistent Ethernet platform, which combines all vehicle systems into one logical network (in accordance with IEC61375-2-3).
+Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Accessories, including heat sinks, fans, and thermal protection, complement the company’s pluggable relays.
+Train automation software
+Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Selectron’s software suite contains a complete development environment for our PLC controllers, has a user-friendly design, and functions in a transparent and self-documenting way. It offers the right software tool for each project phase.
+The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  The company’s programming tool is able to set systems parameters, and update firmware and applications. It can also facilitate project planning tasks and efficient commissioning, with easy integration of Selectron® MAS devices.
+With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  With Selectron’s software, languages (according to the IEC 61131-3 standard) can customise the client’s PLC programming.
+The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  The company also offers a tool for creating extensive data logger applications and diagnostic data sets (DDS) from program variables, as well as controller area network (CAN) messages for analysis and archiving.
+For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  For programming human-machine interfaces (HMIs) from a graphical user interface (GUI), Selectron offer a range of GUI widgets, including images, text, bar charts, and tachometers.
+Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Trend analysis, alarms, day/night changeover, language selection (all displayable and testable in simulation mode) can all be used.
+Control systems for modernisation projects up to modern rail vehicles
+Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Selectron’s range of control systems covers the following rail requirements:
+
+Diagnosis / data logger management: recording / storing data to help locate and rectify malfunctions and faults quickly and efficiently
+Train setup (automatic coupling): a train communication network (TCN) for coupled rail vehicles easily shares data between vehicles, allowing monitoring of train information, and the transmission of process and diagnostic data. CANPowerline is an efficient alternative
+WTB train bus and MVB vehicle bus: the WTB train bus offers interoperability according to an IEC61375 standard
+Remote maintenance: for automatic / manual storage of diagnostic data or calling up real-time data from the office via GSM, GPRS, UMTS, EDGE or WLAN
+Vehicle control unit: the MAS 83x-T can operate as a ‘standalone’ unit with distributed expansions. It can also operate with central I/Os and communication interfaces, or as a mixed configuration, offering high-performance CPU, expansion bus, and communication modules, such as MVB, PROFINET, CANopen, Ethernet, CAN, serial port
+Visualisation: Selectron’s HMIs can control passenger information and diagnostic data. Display sizes are 8.4″/10.4″/12.1″/15.0″ for versions with a touchscreen display and buttons (to SIL2)
+
+Bespoke support and services
+Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Selectron’s services include:
+
+Specifications
+Engineering
+Commissioning
+Training
+Technical support
+Repairs
+
+The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  The company concentrates its knowledge, ability and activities on your requirements, thereby helping you to concentrate on your core business. You gain the decisive advantage of increasing your competitiveness.
+Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Selectron supports its customers with a wide range of services from specifications and engineering, commissioning, technical support, training and servicing, right down to repairs. The company is proud of its long-term partnerships with our customers that are based on trust, reliability and expertise.
+About Selectron Systems
+Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Selectron is an IRIS02 TÜV-certified Swiss company, now a member of the Knorr-Bremse Group.
+More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  More than 110 employees focus their expertise towards automation, communication and control systems for rail vehicles worldwide.
+Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Previous clients include Stadler Rail, Plasser & Theurer, Robel, Bombardier Canada, Bombardier Europe, Changchun Railway Vehicles (CRC) China, Alstom LHB, Schweizerische Bundesbahn SBB, SNCF, Östereichische Bundesbahn ÖBB, Vossloh, VPS, BZB, LOSTR, City Tram Warsaw, HzL, VPS, Voith Turbo, and Protec, as well as Swiss railways such as RhB, BLS, MGB, and MOB.
+  Converting data from any source to your architecture has never been easier and, foremost, securer thanks to SL2-certified Selectron Hardware.
+ Future-proof ethernet networks based on new Selectron routers and managed switches.
+ With its new Threat Detection Solution, Selectron offers a scalable cybersecurity solution for the individual needs of rail operators to master the increasing risk of cyber threats.
+ Contact us today to learn more about how we can provide you with a customised TCMS solution that meets your specific needs.
+ Knorr-Bremse Rail Vehicle Systems vice-president of digital products and services Dr. Maximilian Eichhorn, discusses the importance of cybersecurity in future rail applications and highlights the company's stringent security-by-design approach in the following interview.
+ Rail transport is in the midst of a transformation to Ethernet-based communication. The challenges for train manufacturers and rail operators are enormous, good thing there are the new Ethernet technologies from Selectron Systems AG.
+ With its new decentralised function modules from the Smartio® family, Selectron System AG is making vehicle layout much easier.
+ We are proud that Selectron's know-how is on-board in our products.
+ Uniting all Group brands under the banner Get into the Flow, Knorr-Bremse’s strong presence at InnoTrans will spotlight technologies for sustainable, available, efficient mobility
+ In this context, security is primarily integrated into the development process.
+ Selectron Systems AG has announced that it has selected Irdeto as a partner for securing identities and authentication of the Group’s connected transport components and systems.
+ Eglinton Crosstown Light Rail Transit is a 19km LRT line being constructed from Kennedy Station to Mount Dennis in Toronto, Canada. The High Capacity Metro Trains project involves the manufacturing of 65 new high-capacity trains as part of Victoria Government's rolling stock strategy in Australia. Réseau Électrique Métropolitain (REM) is an under-construction fully automated light rail transit (LRT) project that will serve the major metropolitan areas in Montréal, Canada. Finch West Light Rail Transit (LRT) is a new light rail network proposed to be constructed in Toronto, Canada. The 11km-long LRT will run between Humber College and the new Finch West Subway Station on the Toronto-York Spadina Subway Extension. The Peninsula Corridor Electrification Project (PCEP) involves the electrification of approximately 82km of track between the Fourth and King Street Station in San Francisco and the Tamien Caltrain Station in San Jose. Bombardier Transportation signed a contract with the Las Vegas Monorail Company in 2000 to design and build a driverless, urban monorail transportation system. In the 1980s, rail corridors through the Swiss Alps were running near capacity, and traffic connections in the densely p 
+		The leading site for news and procurement in the railway industry 
+				Powered by
+				
+ © Verdict Media Limited 2024

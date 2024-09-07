@@ -1,0 +1,178 @@
+New Delhi [India], December 10 (ANI/ATK): Scybers, a global cybersecurity consulting and managed services company, today announced a partnership with Netenrich and Google Cloud. The partnership combines the power of Scybers’ global cybersecurity expertise with Netenrich’s Security Intelligence Cloud’s data analytics, machine learning, and automation and Google Cloud’s Chronicle Security Operations Suite’s speed, scale, and threat intelligence to deliver a 24x7x365 modern cloud-native Security Operations Center (SOC) capability to help enterprises effectively respond to emerging threats at scale.
+
+
+
+
+
+With frequency, sophistication, and impact of malware and ransomware threats increasing, organizations must proactively manage emerging threats and actively monitor to protect themselves and respond quickly to mitigate cyber risks. However, with global shortage of cybersecurity skills and rising costs, it is increasingly difficult for many enterprises to run in-house SOC capabilities to effectively identify and respond to cyber threats around the clock. Scybers SOC-as-a-Service brings in deep SOC expertise in financial services and high-tech industries combined with the next-generation SEIM/SOAR platform capabilities from Google Chronicle and NetEnrich Resolution Intelligence Cloud to enable any enterprise to rapidly establish a 24×7 SOC capability.
+
+
+					Show Full Article
+					
+
+ New Delhi [India], December 10 (ANI/ATK): Scybers, a global cybersecurity consulting and managed services company, today announced a partnership with Netenrich and Google Cloud. The partnership combines the power of Scybers’ global cybersecurity expertise with Netenrich’s Security Intelligence Cloud’s data analytics, machine learning, and automation and Google Cloud’s Chronicle Security Operations Suite’s speed, scale, and threat intelligence to deliver a 24x7x365 modern cloud-native Security Operations Center (SOC) capability to help enterprises effectively respond to emerging threats at scale. 
+ 
+With frequency, sophistication, and impact of malware and ransomware threats increasing, organizations must proactively manage emerging threats and actively monitor to protect themselves and respond quickly to mitigate cyber risks. However, with global shortage of cybersecurity skills and rising costs, it is increasingly difficult for many enterprises to run in-house SOC capabilities to effectively identify and respond to cyber threats around the clock. Scybers SOC-as-a-Service brings in deep SOC expertise in financial services and high-tech industries combined with the next-generation SEIM/SOAR platform capabilities from Google Chronicle and NetEnrich Resolution Intelligence Cloud to enable any enterprise to rapidly establish a 24×7 SOC capability.
+
+
+					Show Full Article
+					
+
+ With frequency, sophistication, and impact of malware and ransomware threats increasing, organizations must proactively manage emerging threats and actively monitor to protect themselves and respond quickly to mitigate cyber risks. However, with global shortage of cybersecurity skills and rising costs, it is increasingly difficult for many enterprises to run in-house SOC capabilities to effectively identify and respond to cyber threats around the clock. Scybers SOC-as-a-Service brings in deep SOC expertise in financial services and high-tech industries combined with the next-generation SEIM/SOAR platform capabilities from Google Chronicle and NetEnrich Resolution Intelligence Cloud to enable any enterprise to rapidly establish a 24×7 SOC capability. 
+ 
+“Our clients are looking for us to be their end-to-end managed security services partner to help them navigate their cyber risks with confidence. Today, we are very excited to bring next-generation Security Operations (SOC) capabilities in partnership with Netenrich and Google Cloud to help our clients rapidly respond to cyber threats to safeguard their digital businesses,” said Kugan Kulothungan, Co-Founder and CEO at Scybers.
+
+
+
+“Many organisations look to managed services companies, such as Scybers, to protect corporate infrastructure and information from attacks.” said Ben Caisley, Head of Security Sales JAPAC, Google Cloud. “Working with Scybers enables us to offer Chronicle Security Operations to a larger set of organisations, and through Scybers’s security expertise, bring a more effective solution to market.”
+
+“Scybers team has built an incredible Managed Security Service Provider (MSSP) business with extreme focus on security operations at scale,” said Raju Chekuri, Chairman and CEO at Netenrich. “We are extremely excited to partner with them to enable enterprises to defend and stay ahead of threat actors. Our Resolution Intelligence Cloud platform built on Google Chronicle increases the efficacy and efficiencies in running security operations centers (SOCs).”
+
+Google Cloud has taken a completely fresh look at security operations. Chronicle Security Operations offers Google Cloud’s speed, scale, and threat intelligence while automating responses so you can detect, investigate, and neutralize threats faster. Google Cloud’s cloud-native hyper-scalable infrastructure allows you to ingest and analyze all your data and retain it for longer periods of time. By eliminating data blindspots that can ultimately result in missed threats, you have the power to detect and investigate attacks at every level of sophistication.
+
+
+
+Netenrich’s Resolution Intelligence Cloud is a data analytics cloud platform for managing security operations. It takes a modern risk-based approach to prioritize critical situations aligned to high-value business assets. It combines real-time analytics, artificial intelligence, and machine learning to provide situational awareness with intelligence to accurately predict, detect, score, and prioritize critical issues. The Netenrich platform leverages Google Cloud’s Chronicle and other third-party services to correlate and rapidly analyze potential incidents to automate response and to vastly improve the security operations analyst’s effectiveness to respond to threats.
+
+For more information, visit www.scybers.com.
+
+
+
+Book a meeting with a Scybers security expert at www.scybers.com/contact-us
+
+This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK)
+
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ “Our clients are looking for us to be their end-to-end managed security services partner to help them navigate their cyber risks with confidence. Today, we are very excited to bring next-generation Security Operations (SOC) capabilities in partnership with Netenrich and Google Cloud to help our clients rapidly respond to cyber threats to safeguard their digital businesses,” said Kugan Kulothungan, Co-Founder and CEO at Scybers. 
+ 
+“Many organisations look to managed services companies, such as Scybers, to protect corporate infrastructure and information from attacks.” said Ben Caisley, Head of Security Sales JAPAC, Google Cloud. “Working with Scybers enables us to offer Chronicle Security Operations to a larger set of organisations, and through Scybers’s security expertise, bring a more effective solution to market.”
+
+“Scybers team has built an incredible Managed Security Service Provider (MSSP) business with extreme focus on security operations at scale,” said Raju Chekuri, Chairman and CEO at Netenrich. “We are extremely excited to partner with them to enable enterprises to defend and stay ahead of threat actors. Our Resolution Intelligence Cloud platform built on Google Chronicle increases the efficacy and efficiencies in running security operations centers (SOCs).”
+
+Google Cloud has taken a completely fresh look at security operations. Chronicle Security Operations offers Google Cloud’s speed, scale, and threat intelligence while automating responses so you can detect, investigate, and neutralize threats faster. Google Cloud’s cloud-native hyper-scalable infrastructure allows you to ingest and analyze all your data and retain it for longer periods of time. By eliminating data blindspots that can ultimately result in missed threats, you have the power to detect and investigate attacks at every level of sophistication.
+
+
+
+Netenrich’s Resolution Intelligence Cloud is a data analytics cloud platform for managing security operations. It takes a modern risk-based approach to prioritize critical situations aligned to high-value business assets. It combines real-time analytics, artificial intelligence, and machine learning to provide situational awareness with intelligence to accurately predict, detect, score, and prioritize critical issues. The Netenrich platform leverages Google Cloud’s Chronicle and other third-party services to correlate and rapidly analyze potential incidents to automate response and to vastly improve the security operations analyst’s effectiveness to respond to threats.
+
+For more information, visit www.scybers.com.
+
+
+
+Book a meeting with a Scybers security expert at www.scybers.com/contact-us
+
+This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK)
+
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ “Many organisations look to managed services companies, such as Scybers, to protect corporate infrastructure and information from attacks.” said Ben Caisley, Head of Security Sales JAPAC, Google Cloud. “Working with Scybers enables us to offer Chronicle Security Operations to a larger set of organisations, and through Scybers’s security expertise, bring a more effective solution to market.” 
+ 
+“Scybers team has built an incredible Managed Security Service Provider (MSSP) business with extreme focus on security operations at scale,” said Raju Chekuri, Chairman and CEO at Netenrich. “We are extremely excited to partner with them to enable enterprises to defend and stay ahead of threat actors. Our Resolution Intelligence Cloud platform built on Google Chronicle increases the efficacy and efficiencies in running security operations centers (SOCs).”
+
+Google Cloud has taken a completely fresh look at security operations. Chronicle Security Operations offers Google Cloud’s speed, scale, and threat intelligence while automating responses so you can detect, investigate, and neutralize threats faster. Google Cloud’s cloud-native hyper-scalable infrastructure allows you to ingest and analyze all your data and retain it for longer periods of time. By eliminating data blindspots that can ultimately result in missed threats, you have the power to detect and investigate attacks at every level of sophistication.
+
+
+
+Netenrich’s Resolution Intelligence Cloud is a data analytics cloud platform for managing security operations. It takes a modern risk-based approach to prioritize critical situations aligned to high-value business assets. It combines real-time analytics, artificial intelligence, and machine learning to provide situational awareness with intelligence to accurately predict, detect, score, and prioritize critical issues. The Netenrich platform leverages Google Cloud’s Chronicle and other third-party services to correlate and rapidly analyze potential incidents to automate response and to vastly improve the security operations analyst’s effectiveness to respond to threats.
+
+For more information, visit www.scybers.com.
+
+
+
+Book a meeting with a Scybers security expert at www.scybers.com/contact-us
+
+This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK)
+
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ “Scybers team has built an incredible Managed Security Service Provider (MSSP) business with extreme focus on security operations at scale,” said Raju Chekuri, Chairman and CEO at Netenrich. “We are extremely excited to partner with them to enable enterprises to defend and stay ahead of threat actors. Our Resolution Intelligence Cloud platform built on Google Chronicle increases the efficacy and efficiencies in running security operations centers (SOCs).” 
+ 
+Google Cloud has taken a completely fresh look at security operations. Chronicle Security Operations offers Google Cloud’s speed, scale, and threat intelligence while automating responses so you can detect, investigate, and neutralize threats faster. Google Cloud’s cloud-native hyper-scalable infrastructure allows you to ingest and analyze all your data and retain it for longer periods of time. By eliminating data blindspots that can ultimately result in missed threats, you have the power to detect and investigate attacks at every level of sophistication.
+
+
+
+Netenrich’s Resolution Intelligence Cloud is a data analytics cloud platform for managing security operations. It takes a modern risk-based approach to prioritize critical situations aligned to high-value business assets. It combines real-time analytics, artificial intelligence, and machine learning to provide situational awareness with intelligence to accurately predict, detect, score, and prioritize critical issues. The Netenrich platform leverages Google Cloud’s Chronicle and other third-party services to correlate and rapidly analyze potential incidents to automate response and to vastly improve the security operations analyst’s effectiveness to respond to threats.
+
+For more information, visit www.scybers.com.
+
+
+
+Book a meeting with a Scybers security expert at www.scybers.com/contact-us
+
+This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK)
+
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ Google Cloud has taken a completely fresh look at security operations. Chronicle Security Operations offers Google Cloud’s speed, scale, and threat intelligence while automating responses so you can detect, investigate, and neutralize threats faster. Google Cloud’s cloud-native hyper-scalable infrastructure allows you to ingest and analyze all your data and retain it for longer periods of time. By eliminating data blindspots that can ultimately result in missed threats, you have the power to detect and investigate attacks at every level of sophistication. 
+ 
+Netenrich’s Resolution Intelligence Cloud is a data analytics cloud platform for managing security operations. It takes a modern risk-based approach to prioritize critical situations aligned to high-value business assets. It combines real-time analytics, artificial intelligence, and machine learning to provide situational awareness with intelligence to accurately predict, detect, score, and prioritize critical issues. The Netenrich platform leverages Google Cloud’s Chronicle and other third-party services to correlate and rapidly analyze potential incidents to automate response and to vastly improve the security operations analyst’s effectiveness to respond to threats.
+
+For more information, visit www.scybers.com.
+
+
+
+Book a meeting with a Scybers security expert at www.scybers.com/contact-us
+
+This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK)
+
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ Netenrich’s Resolution Intelligence Cloud is a data analytics cloud platform for managing security operations. It takes a modern risk-based approach to prioritize critical situations aligned to high-value business assets. It combines real-time analytics, artificial intelligence, and machine learning to provide situational awareness with intelligence to accurately predict, detect, score, and prioritize critical issues. The Netenrich platform leverages Google Cloud’s Chronicle and other third-party services to correlate and rapidly analyze potential incidents to automate response and to vastly improve the security operations analyst’s effectiveness to respond to threats. 
+ 
+For more information, visit www.scybers.com.
+
+
+
+Book a meeting with a Scybers security expert at www.scybers.com/contact-us
+
+This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK)
+
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ For more information, visit www.scybers.com. 
+ 
+Book a meeting with a Scybers security expert at www.scybers.com/contact-us
+
+This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK)
+
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ Book a meeting with a Scybers security expert at www.scybers.com/contact-us 
+ 
+This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK)
+
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ This story has been provided by ATK. ANI will not be responsible in any way for the content in this article. (ANI/ATK) 
+ 
+This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content.
+
+
+
+ This story is auto-generated from a syndicated feed. ThePrint holds no responsibility for its content. 
+
+ Subscribe to our channels on YouTube, Telegram & WhatsApp Support Our Journalism India needs fair, non-hyphenated and questioning journalism, packed with on-ground reporting. ThePrint – with exceptional reporters, columnists and editors – is doing just that. Sustaining this needs support from wonderful readers like you. Whether you live in India or overseas, you can take a paid subscription by clicking here. Support Our Journalism  
+
+Save my name, email, and website in this browser for the next time I comment.
+  
+
+ Δ  Required fields are marked *  Name *  Email *   
+
+ Δ Copyright © 2024 Printline Media Pvt. Ltd. All rights reserved.

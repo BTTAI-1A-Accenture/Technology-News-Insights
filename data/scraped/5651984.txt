@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/linux-foundation-launches-opentofu-open-070000601.html

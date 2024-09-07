@@ -1,0 +1,74 @@
+Everything you need to know about Wriothesley in Genshin Impact. 
+Wriothesley is a 5-Star Cryo character who was added to Genshin Impact during Phase 2 of the 4.1 update.
+ 
+While Wriothesley is featured as the boosted 5-Star character in his Tempestuous Destiny Banner in version 4.1, he will eventually return at some point in the future when the Banner schedule cycles back to him.
+ 
+Whether you have him, or want to prepare for if you do Wish for him successfully, it's good to know the best Wriothesley build in Genshin Impact, including his best Artifacts and best team. It's also handy to learn what his Constellation perks are, and what Wriothesley Talent materials and Ascension materials are needed to level up Wriothesley to his full potential.
+ On this page: Wriothesley materials and stats: Wriothesley build: Be sure to check out our beginner's guide with tips and tricks, and Genshin Impact codes page to get free Primogems that can be used towards unlocking Wriothesley and other characters. Wriothesley is a 5-Star Cryo character who uses a catalyst, and is best used in an onfield DPS role as somebody who focuses on Cryo-infused normal attacks. Here's a summary of Wriothesley's kit in Genshin Impact:
+ When tapping the normal attack button Wriothesley produces Repelling Fists that perform up to five rapid hits of Cryo damage. Holding down the attack button charges Wriothesley's attack instead and he consumes stamina to leap and unleash a Vaulting Fist, dealing AoE Cryo damage. Once Wriothesley's first passive talent is unlocked, using a charged attack when his health is less than 60% changes it into a Rebuke: Vaulting Fist charged attack. See the list above for more information on this passive talent. Wriothesley sprints forward a short distance, entering the Chilling Penalty state which increases Wriothesley's interruption resistance. Additionally, when his health is above 50%, Chilling Penalty increases the damage of his Normal Attack: Forceful Fists. When he hits an opponent in this enhanced Forceful Fists state, Wriothesley's HP is consumed every 0.1 seconds. Chilling Penalty is removed when Wriothesley is off the field. Wriothesley strikes out with an icy straight, then uses Icicle Impact to cause multiple instances of AoE Cryo damage in a frontal area. Wriothesley's Burst also produces Ousia-aligned energy when the Icicle Impact ends and a Surging Blade descends upon an enemy. 
+To get the most out of using Wriothesley, you will have to level his skills up by using Talent materials, which vary from character-to-character.
+ For Wriothesley, you need to farm a lot of Gear and Order materials (if you don't already have them) to fully upgrade his capabilities. 
+As Wriothesley has three Talents, you will have to spend three times the Talent materials listed below to fully upgrade all of his abilities, which we've also detailed below the table.
+ 
+Here's what Wriothesley Talent materials you need to improve one of his abilities:
+ Here's what Talent Materials you'll need to fully upgrade one of Wriothesley's skills: To upgrade all three of Wriothesley's skills, here's all the Talent Materials you'll need: Version 5.0 with Mualani, Kinich, and Kachina is nearly here! For now, in version 4.8 we have Emilie and Yelan. You can redeem new codes for Primogems to help pull them, and check out our regularly updated tier list.
+
+You need luck from the Pity and 50/50 systems to Wish with Fate for characters on Banners, and you always need the right Adventure Rank for events.
+
+
+Elsewhere, we have tips and tricks for beginners.
+
+ 
+Just like Talents, you need to use Wriothesley Ascension materials to upgrade his health, attack, defence, and critical hit effectiveness.
+ You need to farm a lot of Subdetection Unit and Gear materials for Wriothesley (if you don't already have them) to fully upgrade his capabilities. 
+Unlike Talent materials, you only need to spend the below Ascension materials once to fully raise Wriothesley to his highest character level. There is also Acquaint Fate rewarded for reaching certain Ascension levels. You can spend this Fate on the standard and beginner Banners to Wish for characters and weapons.
+ 
+Here's what Wriothesley Ascension materials and Mora you need to upgrade him for each Ascension level:
+ In total, here's all the Ascension Materials you need for Wriothesley in Genshin Impact: 
+By getting duplicates of Wriothesley from wishing on Banners, you will receive his Stella Fortuna. This material allows you to unlock Constellation levels, with each upgrade either improving an existing Talent or Passive ability.
+ Here are all of Wriothesley's Constellations in Genshin Impact: Wriothesley is an on-field DPS who uses enhanced Cryo normal attacks, so that's what you'll want to be doing most of the time. Use all of your other party members' abilities and buffs first in your rotations before stopping on Wriothesley to activate his Skill and then use normal attack combos. Make sure you don't swap to another character while Wriothesley's Skill buff is active, or you'll lose the Chilling Penalty state produced by it. An important thing to note about Wriothesley is that he gains an attack buff when he's above 50% HP in the Chilling Penalty state, but that he loses HP when normal attacking in this state. To help with this, you can use a charged attack when Wriothesley's HP is less that 60% to restore some of his health. Ideally, you'll want Wriothesley's HP to consistently be around 50 to 60% so you can get the extra boost to Wriothesley's attack when his health increases or decreases. This attack boost stacks five times, so you can aim to have higher health once five stacks are reached. We recommend you have a healer on your Wriothesley team unless you're very skilled at dodging while working in Wriothesley's combos to deal damage and heal. Bennett, as always, is a fantastic healer option, especially because he can help in Melt and Reverse Melt Wriothesley teams on top of his healing. For Reverse Melt teams, you'll need another Pyro character, and we recommend the always reliable Xiangling for this role. The last slot is flexible depending on your needs, but Shenhe is a great pick for her increase to Cryo damage, but good old Kazuha can save the day by swirling your Cryo and Pyro damage, and you can even use Zhongli if you're struggling to stay alive and need shields. An alternative to Melt and Reverse Melt teams are Freeze teams, and we recommend the tried and tested combo of Shenhe, Kokomi and Kazuha if you have them for one of the best Wriothesley Freeze teams. Alternatively, you could use Yelan and Xingqiu with a flexible final party member best given to a healer or shielder. Furina could make a good final pick in the future, but we need to wait for her official kit reveal to know this for certain. Outside of these traditional teams, you can slot Wriothesley into other types of teams to just be an on-field DPS while you run effects like Hyperbloom around him, but we generally recommend Freeze or Melt variant teams to take advantage of Wriothesley's Cryo abilities. The best Artifact set for Wriothesley in Genshin Impact is the 4-piece Marechaussee Hunter, as it increases his normal and charged attack damage, and also gives him a huge boost in Crit Rate damage when his health increases or decreases - which should be happening consistently. There are some alternative Relics that you can equip on Wriothesley until you get a good Marechaussee Hunter set, most notably mixing the 2-pieces of either Blizzard Strayer, Marechausse Hunter, Gladiator's Finale, Echoes of an offering, or Shimenawa's Reminiscence. These raise Wriothesley's attack or Cryo damage, which is needed far more than any boosts to his Burst. For Freeze teams, you can also use the 4-piece of the Blizzard Strayer. As for Wriothesley's main Artifact stats, you'll want to go for Crit Damage when you can. Crit Rate can be saved for substats, as Wriothesley gets a lot from passives, weapons, and Relic set abilities. Attack is a great main stat to aim for as well if you already have enough Crit Rate and can't get Crit Damage. As with most signatures, 5-Star Cashflow Supervision catalyst is Wriothesley's best weapon in Genshin Impact. At Refinement 1 and Level 90, Cashflow Supervision increases attack by 16%, and when Wriothesley's current HP increases or decreases, normal attack damage is increased by 16% and charged attack damage is increased by 14% for four seconds. This effect can stack three times, and can be triggered once every 0.3s seconds. When Wriothesley has three stacks, his attack speed is also increased by 8%. You can repurpose other 5-Star catalysts for Wriothesley, most notably the Tulaytullah's Remembrance for its Crit Damage and increase to normal and charged attacks after using a Skill. Additionally, Lost Prayer to the Sacred Winds and Skyward Atlas are good 5-Star alternatives for their base attack stat on top of other perks. Even the Tome of the Eternal Flow can be used for its incredible boost to Crit Damage. As for 4-Star options, you can go with the event weapon Ballad of the Boundless Blue if you have it. If not, Flowing Purity is good if you're using a healer in your Wriothesley team. The Widsith is also good for its attack increase, but can be a little underwhelming if not using in a Melt team. Version 5.0 with Mualani, Kinich, and Kachina is nearly here! For now, in version 4.8 we have Emilie and Yelan. You can redeem new codes for Primogems to help pull them, and check out our regularly updated tier list.
+
+You need luck from the Pity and 50/50 systems to Wish with Fate for characters on Banners, and you always need the right Adventure Rank for events.
+
+
+Elsewhere, we have tips and tricks for beginners.
+
+ If you want to take advantage of his on field DPS potential while keeping him alive, we have compiled what we think is currently the best Wriothesley build in Genshin Impact:
+ It can take a lot of time to farm for the materials needed to get Wriothesley to his full potential, but if you're after a good on-field DPS with a fun normal attack playstyle, then Wriothesley is a solid pick for your future teams. Good luck levelling up Wriothesley in Genshin Impact! 
+Genshin Impact
+ 
+Android, 
+            iOS, 
+            PS4, 
+            PS5, 
+            PC, 
+            Nintendo Switch
+ 
+        From Assassin's Creed to Zoo Tycoon, we welcome all gamers
+       
+        Eurogamer welcomes videogamers of all types, so sign in and join our community!
+       
+
+Genshin Impact codes for August 2024 and how to redeem them                    
+ 
+
+Genshin Impact 5.0 release date, 5.0 Banners and events                    
+ 
+
+Genshin Impact Kachina materials, kit, and Constellations                    
+ 
+
+Genshin Impact Mualani materials, kit, and Constellations                    
+ 
+
+Genshin Impact Kinich materials, kit, and Constellations                    
+ 
+
+Genshin Impact next Banner and current Banners, list of all Banners in Genshin Impact                    
+ 
+
+Genshin Impact 5.0 livestream date and time, 5.0 Banner leaks                    
+ 
+
+Genshin Impact Emilie materials, kit, and Constellations                    
+ Bad puns and video games since 1999. Eurogamer.net is owned by Gamer Network Limited. © 2024 Gamer Network Limited, 1-6 Grand Parade, Brighton, BN2 9QB, United Kingdom. Registered under company number 03882481. All rights reserved. No part of this website or its content may be reproduced without the copyright owner's permission.

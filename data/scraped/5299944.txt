@@ -1,0 +1,43 @@
+
+You can't get comfort from a thermostat; it's more complicated than that. Westend61/ Getty Images 
+In a recent post about a Shelton Group survey, we noted that people used to say comfort was their highest priority, but this was changing to prioritizing safety and security. But then Suzanne Shelton muddied the waters by noting:
+ 
+So now, safety, security, comfort, and indoor air quality are all rolling into one amorphous thing, which has troubled me, so I thought I should go back to first principles and talk about what comfort actually is. I have said much of this before, but I am not sure that I can say it enough.
+ 
+In "Mechanization Takes Command," Siegfried Giedion wrote, "The word 'comfort' in its Latin origin meant 'to strengthen.' The west, after the eighteenth century, identified comfort with 'convenience': Man shall order and control his intimate surroundings so that they may yield him the utmost ease." Giedion describing medieval comfort sounds very much like Shelton describing comfort today.
+ 
+We have been using the word comfort for years on Treehugger, but what we really mean is thermal comfort, defined by the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE): "A condition of mind that expresses satisfaction with the thermal environment and is assessed by subjective evaluation."
+ Victor Olgyay, 1963, Design with Climate 
+It used to be relatively straightforward before everyone had air conditioning; you tried to design so that people could lounge with a book and a pipe in the comfort zone as drawn by Victor Olgyay in 1963, a combination of temperature, humidity, and air movement. You might adjust the range of comfort with clothing.
+ 
+Professor Terri Boake of the University of Waterloo describes in a slideshow how our buildings were designed according to climate, and explained how our homes and buildings were all designed to control these variables naturally. But then we got air conditioning and technology, and our expectations changed; no longer were we happy to just be in that comfort zone, but now we demanded mechanical and electrical intervention whenever it wasn't 72 degrees and 35% humidity. This costs serious money and fuel.
+ 
+But we are used to that now, buying air conditioners and space heaters and stuff—what Reyner Banham called "a neat box with control knobs and a mains [electrical] connection." He wrote in 1969:
+ 
+But you won't get thermal comfort behind those thin walls or under that uninsulated roof just because Banham's neat box with knobs might control temperature and humidity. We have since learned that there are many other factors involved.
+ 
+Thermal comfort is not a bunch of equipment, but as engineer Robert Bean called it, a condition of mind. Bean explains at length that we have an internal thermostat in our hypothalamus that regulates our body temperature, and it is informed by about 165,000 thermal sensors in our skin. What you feel when you are warm or cold is not the temperature but the heat loss or heat gain on your skin.
+ MIT Press 
+Lisa Heschong has a great explanation in her wonderful little book, "Thermal Delight in Architecture," from which I stole my title:
+ 
+This is why I go on about how stupid smart thermostats are; thermal comfort is not just about temperature. If your skin is warmer than the wall or window you are near, then heat will flow to it and you will feel cold. If the walls or windows are warmer, engineer Robert Bean explains that "surfaces warmer than skin temperature will impede the release of energy from the body via radiation resulting in a sensation of heating."
+ 
+These principles are best explained by Allison A. Bailes III in his notorious 2011 article, "Naked People Need Building Science." I tried to explain them in "The Concept of Mean Radiant Temperature Is Key to Understanding Comfort," in which I wrote:
+ 
+But thermal comfort is even more complicated than just understanding the importance of MRT. In his new book, "A House Needs to Breathe, Or Does It? An Introduction to Building Science," Bailes lists six factors that affect our thermal comfort:
+ William Notman, Musee McCord 
+Metabolic rate can be adjusted; one bit of advice that we once gave on Treehugger was instead of turning up the thermostat, you should go vacuum the house and warm yourself up. Clothing used to be the main way people regulated their heat loss; they insulated their bodies instead of their homes.
+ 
+Bailes notes that our bodies are actually internal combustion engines that generate heat and need constant cooling, and clothing is our way of regulating the rate. It can even be measured; the unit is called the "clo" and is described by philosopher/scientist Kris de Decker as "the thermal insulation required to keep a couch potato wearing a typical business suit indefinitely comfortable at a temperature of 21 degrees Celsius (70 degrees Fahrenheit)." In my 110-year-old house with terrible MRT, I compensate by piling on the clos.
+ 
+Bailes goes on to list ways to achieve thermal comfort in your home, noting as we have many times that it starts with the building enclosure—the envelope—or, as they say in the U.K., "Fabric First." Keep the design simple. Use passive strategies first. Make it airtight, insulate it fully, and reduce thermal bridging. These are pretty much the principles of Passivhaus or Passive House design.
+ 
+Bailes has great advice about windows, going beyond just their quality but also calling for the right amount in the right places. He then raises three points regarding forced air mechanical systems: Don't blow air on people, use smaller equipment blowing less air, and heat with lower temperature air.
+ 
+Others might tell you that thermal comfort comes from radiant floors. Alex Wilson of Building Green says no: “It’s a great heating option for a poorly designed house ... For the radiant floor system to provide enough heat to feel warm underfoot (the feature everybody likes with this system), it's going to be cranking out more heat than the well-insulated house can use, and it will likely cause overheating."
+ 
+I have written that "the best heating system is almost no heating system at all, and recognizing that when it comes to comfort, the house itself is the most important element of the heating system. After all, the heating system’s function is to compensate for heat loss through the walls and windows when it is cold out; if there is almost no heat loss, then you need almost no heat."
+ Juraj Mikurcik 
+Ending with my favorite photo of a comfortable home, I circle back to Suzanne Shelton's findings of what people want in a home. The fist pumps for heat pumps and net-zero crowds can talk about electrifying everything, but people want comfort. As Robert Bean put it, "The broader populace gets comfort—they generally don’t get u values, conduction, kilowatts and therms and thermal bridging." And as I have written many times, comfort comes from the quality of the walls, windows, and ventilation system, designed with simplicity and sufficiency in mind. And it just so happens, as Bean concludes, "Promote comfort and energy efficiency will follow."
+ 
+Ultimately, you cannot go out and buy a pile of comfort at the big box store; you have to find your thermal delight in the walls around you. And if you are like me and can't find it there, I can point you to some really nice sweaters.

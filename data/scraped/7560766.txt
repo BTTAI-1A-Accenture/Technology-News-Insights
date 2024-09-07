@@ -1,0 +1,190 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Jul 29, 2024, 6:50pm A customer data platform (CDP) collects data from online and off-line sources and standardizes it to create comprehensive customer profiles. Then, these profiles are used to build campaigns and customer experiences that attract and retain high-value customers. Forbes Advisor researched the best customer data platforms to help you make the right decision for your needs. Starting Price  Free (up to 1,000 monthly visitors); $120 per month (up to 10,000 monthly visitors) 
+ Single Customer Profile  Yes 
+ Automations  Yes (onboarding, retargeting, reminders and more) 
+ 
+
+Free (up to 1,000 monthly visitors); $120 per month (up to 10,000 monthly visitors)
+
+
+ Free (up to 1,000 monthly visitors); $120 per month (up to 10,000 monthly visitors) 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes (onboarding, retargeting, reminders and more)
+
+
+ Yes (onboarding, retargeting, reminders and more) 
+ Segment’s Free plan offers the ability to collect data from two sources, send data to unlimited destinations (such as analytics tools and platforms), create a single customer profile and track 1,000 users per month. Its Team plan is $120 a month and allows you to track 10,000 visitors per month across unlimited sources. Its Business plan requires a custom quote and offers advanced features such as roles and permissions and personalized customer experiences. Twilio Segment allows you to integrate over 400 tools for data analytics, email, advertising and more, which means you can collect consumer data from web and mobile apps, then put your data to use to reach customers wherever they are based on a deep understanding of their preferences and needs. This includes crafting and engaging in personalized real-time journeys across devices and channels from one platform. Learn more: Read our full Segment review. Who should use it: Segment best serves companies looking to create personalized customer journeys across platforms based on real-time data. Starting Price  Not disclosed, must contact for pricing 
+ Single Customer Profile  Yes 
+ Automations  Yes, via a number of channels and triggers 
+ 
+
+Not disclosed, must contact for pricing
+
+
+ Not disclosed, must contact for pricing 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes, via a number of channels and triggers
+
+
+ Yes, via a number of channels and triggers 
+ Emarsys is primarily a marketing customer data platform that operates using a holistic view of each customer. Its focus is on consolidating data to offer companies insights for one-to-one customer engagements that drive revenue growth. It combines this data consolidation with the ability to integrate an endless number of online and off-line channels, including direct mail, the web, SMS, mobile apps, digital ads, email and more. Emarsys combines data with artificial intelligence to drive automated and personalized marketing. You can build automations to reach customers based on where they are in the customer life cycle, their predicted customer value or their recent actions across online and off-line channels. Or, focus on one channel to create highly personalized experiences. Who should use it: Emarsys is best for companies that must be present and highly engaged across many different digital and off-line channels at scale to drive revenue. Starting Price  Not disclosed, must contact for pricing 
+ Single Customer Profile  Yes 
+ Automations  Yes, multichannel campaigns 
+ 
+
+Not disclosed, must contact for pricing
+
+
+ Not disclosed, must contact for pricing 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes, multichannel campaigns
+
+
+ Yes, multichannel campaigns 
+ Optimove’s cloud-based CDP is primarily directed toward aggregating data into a 360-degree customer view for use in understanding customers for marketing campaign optimization. It pulls data from first-party raw data, on-site and in-app customer activity, third-party data and data pulled from campaign response analytics. It then offers insights regarding where customer preferences are headed and how companies should proactively respond. It stands out by offering micro-segmentation and predictive modeling. After gaining a deep understanding of customers, it segments them into small groups and helps companies decide on the best engagement based on predictive analytics. Predictive modeling is based on customers’ transactional, behavioral and demographic data. This actionable predictive data helps companies stay ahead of customer demands and, in turn, ahead of competitors. Who should use it: Optimove is best for companies in highly competitive industries that must stay ahead of the demand curve at all times. Starting Price  Not disclosed 
+ Single Customer Profile  Yes 
+ Automations  Yes, including predictive recommendations 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes, including predictive recommendations
+
+
+ Yes, including predictive recommendations 
+ FirstHive offers a customer data platform (CDP) that aggregates first-party data from online and off-line sources, allowing brands to then use its insights to create personalized marketing campaigns. Its decision engine also learns from your data to then offer suggestions on how to communicate with customers in personalized ways. You can also use rules-based actions to create real-time personalized communication from scratch across channels. FirstHive specializes in CDP solutions for manufacturers. Users can integrate marketing and supply chain data with production and distribution systems. Via data-driven personalization, they can build loyalty among supply chain partners. They can also tap into third-party data to identify influencers across the supply chain who can improve their products and processes. Finally, they can create personalized experiences and products for end users and customers. Who should use it: FirstHive specializes in offering customer data solutions for manufacturing, retail and finance companies. With tailored solutions and features for each, it best serves customers in these industries. Starting Price  Not disclosed 
+ Single Customer Profile  Yes 
+ Automations  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Lytics is a customer data platform that focuses on expanding brands’ marketing and advertising capabilities. It offers unified and complete customer profiles, then gleans insights from their data to automate ad and marketing targeting. In the end, it helps brands increase email open rates, create higher ad returns and improve customer conversion rates by using audience segmentation to create highly personalized and real-time approaches. Uniquely, Lytics offers its proprietary First-Party Modeled Audiences powered by Google. It combines the power of machine learning (ML) with Google’s audience modeling capabilities to expand brands’ initial seed audiences into millions of likely buyers. Using automated workflows, it then feeds real-time ads to those likely buyers to exponentially boost conversions. Who should use it: Companies with underperforming ad spend should consider Lytics to help boost ad performance and expand audience reach. Starting Price  Not disclosed 
+ Single Customer Profile  Yes 
+ Automations  Yes 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ BlueConic’s CDP helps companies manage and glean insights from customer data while protecting that data in compliance with global privacy legislation zones. It allows users to create complete customer views, segment that data, orchestrate customer life cycles for highest customer value and predict the value and quality of current and potential customers. From there, users can create ad and marketing campaigns to drive revenue growth. BlueConic was named the best customer data platform in the 2022 SIIA CODiE Awards, in part, due to its dedication to customer data privacy. BlueConic users can set up a system that helps customers manage their own data privacy via consent. These systems can be tailored for privacy legislation zones across the globe, including GDPR (Europe), CCPA (California), PIPEDA (Canada), SB220 (Nevada) and potential NYPA Legislation (New York State). Who should use it: Companies with global customer or user bases that need to comply with a global or national set of privacy legislation zones should consider BlueConic for their CDP needs. Starting Price  Not disclosed 
+ Single Customer Profile  Yes 
+ Automations  Yes, including omnichannel customer journeys 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes, including omnichannel customer journeys
+
+
+ Yes, including omnichannel customer journeys 
+ ActionIQ’s CDP is designed to offer superior customer experience by breaking down silos in customer data. It offers a 360-degree view of customer identities, granular audience segmentation, journey design and orchestration tools and capabilities, and the ability to act in real time in response to customer needs and actions. Its platform offers custom solutions for companies in the financial, media, retail, B2B, insurance and travel and hospitality industries. ActionIQ’s CX Hub offers advanced capabilities to launch and optimize great customer experiences (CXs). Users can design multi-step and multichannel journeys via a no-code drag-and-drop canvas, hyper-segment audiences in minutes, test and customize customer journeys for different audiences and use cases for continual CX improvement and combine streaming and historical data for real-time relevant experiences. Who should use it: Companies needing to level up on their customer experiences to remain competitive in their industries should consider ActionIQ. With solutions tailored specifically to the financial, media, retail, B2B, insurance and travel and hospitality industries, ActionIQ is best suited to help improve brands’ CXs that belong to these industries. Starting Price  Not disclosed 
+ Single Customer View  Yes 
+ Automations  Yes, Marketing Automation 
+ 
+
+Not disclosed
+
+
+ Not disclosed 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes, Marketing Automation
+
+
+ Yes, Marketing Automation 
+ Bloomreach is a single, multipurpose platform that enhances customer experience and collects customer data in personalized ways using AI algorithms. It registers all actions your customer takes across various channels such as websites, mobile apps and social media, recording their preferences based on their actions. This makes it an excellent tool for e-commerce businesses looking to enhance their search and merchandising capabilities, improve customer engagement, increase conversions and drive revenue growth. The platform provides easy-to-use tools to build consistent and personalized experiences that span as many as 17 distinct channels. It also stores customer data in IMF (In-Memory Framework) ensuring very high read/write speeds, real reporting and execution. In addition, Bloomreach Engagement is also GDPR certified and committed to providing top security and privacy practices. The platform is also dedicated to providing stellar customer support. Who should use it: Commerce companies of all shapes and sizes that want to improve customer engagement and drive up the marketing revenue can benefit from using Bloomreach Engagement. It’s a great tool for marketers and merchandisers who have a large product catalog and want to provide personalized product recommendations and search results to their customers. Starting Price  $2,988 (with annual contract) Single Customer View  Yes, single 360 customer view 
+ Automations  Yes 
+ 
+
+$2,988
+(with annual contract)
+
+ $2,988 (with annual contract) 
+
+Yes, single 360 customer view
+
+
+ Yes, single 360 customer view 
+ 
+
+Yes
+
+
+ Yes 
+ Totango claims to be the industry’s only cloud-based composable customer success platform. It is a flexible customer success platform that allows you to create, construct, operate and evaluate your entire customer journey life cycle in a single location. Totang allows you to manage your organization’s complete customer portfolio, including accounts with intricate hierarchy structures and multiple products. With an outcome-oriented solution design, modular pre-built building blocks and integrated intelligence, you can set up and get started right away. The platform enables businesses to scale efficiently, optimize customer experience at each stage of the journey and drive predictable growth for their business. It is known for its user-friendly interface and fast and efficient support team. Totango offers the following platforms and toolkits: Spark, SuccessBLOCs, Zoe, DNA-CX and Totango Shield for security and privacy. It also includes multiple pricing packages for all sizes of businesses including the community package that is forever free for individuals and startups. Who should use it: Totango caters to businesses of all sizes, from startups to enterprises, looking for ways to scale their organization. Based on industry experts and user reviews, these leading CDPs are considered the best customer data platforms available today. It’s important to remember, businesses should evaluate each platform based on their specific needs and requirements to find the best fit for their organization. 
+ A customer data platform is a software that collects and organizes customer data from various channels and sources, such as CRM systems, marketing automations tools, e-commerce platforms, social media and email channels, websites and more. The platform collects data from these sources and creates a unified customer profile that can be accessed and used by marketing, sales and customer service teams. Three main types of customer data include, behavioral, demographic and transactional. This data is collected and used to analyze customer behavior, helping to gain insights on what the customer is doing and what the customer needs, allowing for a more personalized and targeted experience. Customer data platforms often are used by businesses that have large amounts of customer data and need a centralized platform to manage it effectively. There are several benefits that businesses can gain from using a customer data platform (CDP), including the following: Overall, a customer data platform can greatly help businesses to gain a better understanding of their customers, improve customer engagement and drive revenue growth. Choosing the best customer data platform for your business can feel like an overwhelming task, especially with an array of options on the market. Here are some guidelines to help you make the right choice. Many CDPs do not list prices publicly. You must visit their website and follow their instructions to request a custom quote. As you do, remember that not all features are included in the core plans. Some are only available as add-ons. So, make a prioritized list of the features and tools you need and be sure to ask what add-ons are available to complete your list and their added cost. Different CDPs offer the ability to integrate a unique list of tools and platforms. This means that some of the platforms your company uses to house customer data (your CRM, for example) may not be able to be integrated with all CDPs. Make a list of the key platforms, data sources and tools you need to integrate with your CDP and be sure to give that list to the CDP provider to ensure your integration needs will be met. Some CDPs will go over your company’s use cases to determine your business goals with your customer data. They will then ensure that those goals can be met with the software they offer you. To prepare, preliminarily bring together all of your key stakeholders who are likely to use your CDP and make a list of their goals, then prioritize them from critical to nice-to-have. Also consider best practices, such as how your data should be protected by your chosen CDP. Once you have a few CDP providers that align with your business needs, it’s time to formalize your selection. Look for customer reviews to help narrow down the best provider for you. Then, to confirm your decision, reach out and schedule a meeting to start a conversation between your chosen CDP provider and your key stakeholders. Here are some essential features to consider when choosing a good CDP platform: A well-designed CDP platform should seamlessly integrate with a company’s larger tech stack, making it an ideal choice for businesses that want to incorporate top-notch solutions into their data management platform. This allows for easy swapping of apps as needed. Let’s take a look at some of the most important integration considerations when choosing the best customer data platform. It’s important to recognize that although a customer data platform has its advantages, it also requires a long-term commitment as it becomes deeply integrated into your digital ecosystem. It’s crucial that customers, especially those with limited knowledge or technical expertise, understand what they are committing to and how to derive value from it. Let’s take a look at some important questions stakeholders should ask vendors before signing on: By taking these additional factors into consideration, you can confidently choose a CDP that can provide long-term value to your businesses and support your growth and success. The cost of a customer data platform can vary depending on several factors, such as the size of your business, the number of profiles that need to be managed, the level of complexity of your data and the features and functionality you require. Some CDPs charge based on the number of customer profiles or records, while others charge based on the volume of data or data processing. Some CDPs also offer free plans—this is ideal for organizations just getting started but free plans usually have a limited number of visitors and records per month. Many also offer a free trial allowing you to test the platform before committing to a paid plan. Entry-level pricing can range from $120 a month to $1,500 per month to hundreds of thousands of dollars per year for tailor-made offers. Pricing depends on the provider and the features and services needed. Platforms that target mid-market to large companies often have higher price structures due to license costs, a more experienced sales team and dedicated customer success managers. There are many variables to consider when it comes to cost: It’s also important to note, the cost of a CDP should be viewed as an investment in your business. It’s also essential to factor in the potential return on investment (ROI) that you could achieve by using the platform, which can ultimately justify the investment in a CDP. We collected and evaluated customer data platforms (CDPs) based upon five criteria: pricing, general features, additional features, ratings and reviews, and expert score. Here is a closer look at each of these criteria and how they were used to create this best-of list. When evaluating customer data platforms (CDPs), pricing is an essential factor to consider. As part of the evaluation process, pricing was scored based on the availability of a free trial, free version and public transparency of pricing. This factor accounted for 10% of the total weighted score. We evaluated CDPs based on general features so that businesses could choose a platform that meets specific needs and requirements. These features included the ability to create and execute targeted email and online marketing campaigns, manage leads, optimize your website, create a single unified view of each customer and compatibility with multiple devices. General features accounted for 30% of the total score. Along with general features, the evaluation process of customer data platforms also includes additional features. These features have the ability to improve marketing efforts and drive revenue growth. Additional features we took into consideration included the ability to track and analyze key marketing metrics, predictive modeling, personalized product recommendations, campaign/timeline management and ROI tracking. These additional features accounted for 20% of the total score. A high number of ratings and reviews indicate that the platform has been widely used and tested by a large number of businesses. We determined the scoring based on the number of reviews as well as platforms with an average rating of 3.5 or higher. This factor accounted for 10% of the total score. We also evaluated the platform based on specific criteria such as any additional standout features or unique capabilities, the value of money, how it compares to competitors, how widely used it is within the industry and how user-friendly and intuitive the platform is. Our expert scoring accounted for 30% of the total score. A customer data platform unifies data from multiple tools (or sources), creating a single source of truth around customer behaviors and interactions across all brand touchpoints. This data is then made available to marketing teams to be used for the creation of highly targeted ad and marketing campaigns. Examples of customer data platforms include Twilio Segment, ActionIQ, BlueConic, Lytics and FirstHive. All of them aggregate customer data from multiple sources to create one source of truth in the form of customer profiles. Both CDPs and CRMs collect data on customers to create single and complete customer profiles. However, while a CDP uses behavioral and interactional customer data to help marketers create highly personalized ad and marketing campaigns across channels, a CRM’s data is used by sales teams to track and manage customer-facing interactions, such as customer support tickets and upsells. After you have selected the best customer data platform for your business, it is essential to identify which teams in your organization will be responsible for the setup process. These teams must include the CDP implementation in their product management road map and test the data to ensure its accuracy and effectiveness. In most cases, marketing teams will not have the necessary expertise to set up a CDP independently. Therefore, it is recommended to work with a marketing operations team. If available, tech or data teams should take on the responsibility of the setup process. 
+                Natalie Cusson is a small business owner with over 15 years experience in the creative arts. She's worked on ad campaigns for many trusted brands such as Nike, Subaru, Polaris, Red Bull and Progressive Insurance, just to name a few. Beyond her professional accomplishments, Natalie is driven by her love for writing and research, and is committed to maintaining a growth mindset. Not only is she passionate about learning and growing, she believes in embracing a healthy lifestyle.            

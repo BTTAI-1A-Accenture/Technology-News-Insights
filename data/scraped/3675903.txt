@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/new-synopsys-research-reveals-vast-majority-of-organizations-report-devops-delays-due-to-critical-security/article_e7197ce4-464b-5fe1-b193-e50c2ab65260.html

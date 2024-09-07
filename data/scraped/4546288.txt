@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.claytoncountyregister.com', port=443): Max retries exceeded with url: /news2/charter-communications-inc-a-leader-in-telecommunication-services/409226/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da96bfa350>: Failed to resolve 'www.claytoncountyregister.com' ([Errno -2] Name or service not known)"))

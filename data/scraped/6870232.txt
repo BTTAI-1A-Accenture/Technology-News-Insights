@@ -1,0 +1,38 @@
+
+Innovative Quantum-Secure Encryption Technology Now Available to Fortify Data Security Across the Government
+ NEW YORK--(BUSINESS WIRE)--Qrypt, a quantum-secure cybersecurity service, today announced a partnership with Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®. Under the agreement, Carahsoft will serve as Qrypt’s Master Government Aggregator®, making the company’s quantum-secure encryption technology available to the Federal Government through Carahsoft’s reseller partners’, Information Technology Enterprise Solutions – Software 2 (ITES-SW2) and National Cooperative Purchasing Alliance (NCPA) contracts.
+
+  
+Quantum computers have the potential to revolutionize the world as we know it, but they are also poised to threaten traditional encryption methods, leaving highly sensitive data vulnerable. Qrypt’s Quantum Security Suite hardens security and future-proofs encryption against quantum attacks by eliminating “harvest now, decrypt later” threats with flexible, available, and mathematically proven unbreakable encryption solutions. Notably, Qrypt’s security protocol is not dependent on a single NIST-recommended algorithm, but can be built on any current or future finalist.
+
+ 
+"We are proud to partner with Carahsoft to bring our cutting-edge quantum-secure encryption platform and solutions to the Federal Government," said Berk Bucukoglu, vice president of strategic alliance partnerships at Qrypt. "Quantum computing presents challenges in securing sensitive data as evidenced by President Biden signing into law the Quantum Computing Cybersecurity Preparedness Act. Through this partnership, we can help agencies ensure that their data remains quantum-secure in the face of any new threats.”
+
+ 
+“Qrypt’s solutions address two of the top Government interests: data and cybersecurity,” said Brian O’Donnell, vice president of cybersecurity solutions at Carahsoft. “Carahsoft is thrilled to join forces with Qrypt in the fight against Quantum Cyber Attacks, leveraging Qrypt’s cutting-edge quantum security solutions to fortify the US Public Sector and protect our nation’s most sensitive data. Together with our reseller partners, we are committed to delivering innovation solutions that address the evolving threat landscape and empower enterprises to safeguard their critical information now and into the future.”
+
+ 
+Carahsoft's extensive network of technology manufacturers, value-added resellers, and system integrators offers the Government both the expertise and access to resources it needs to implement and integrate Qrypt's groundbreaking cybersecurity solutions. This partnership with Carahsoft will broaden the reach of quantum secure encryption, enabling Government access to the latest quantum secure technologies.
+
+ 
+Qrypt’s platform and solutions are available through Carahsoft’s ITES-SW2 Contract W52P1J-20-D-0042, and NCPA Contract NCPA01-86. For more information, contact the Qrypt team at Carahsoft at (844) 214-4790 or qrypt@carahsoft.com.
+
+ 
+The dedicated Cybersecurity team at Carahsoft specializes in providing Federal, State and Local Government agencies and Education and Healthcare organizations with security solutions to safeguard their cyber ecosystem. To learn more about Carahsoft’s Cybersecurity solutions, visit www.carahsoft.com/solve/cybersecurity.
+
+ 
+About Qrypt
+ 
+Qrypt protects against quantum threats of today and the future using the only solution mathematically proven to be unbreakable, even as quantum computing advances. When traditional encryption algorithms eventually fail, every byte of your data that has been harvested will be exposed. US-based Qrypt eliminates harvest now, decrypt later threats to private data with its revolutionary encryption techniques. Qrypt provides revolutionary encryption technology, eliminating risks associated with traditional key transmission techniques by independently generating one-time pads and symmetric keys at multiple endpoints. Available on-demand as-a-service, on-premises, or on any device, Qrypt’s Quantum Security saves time, money, and management effort. For more information, visit www.qrypt.com.
+
+ 
+About Carahsoft
+ 
+Carahsoft Technology Corp. is The Trusted Government IT Solutions Provider®, supporting Public Sector organizations across Federal, State and Local Government agencies and Education and Healthcare markets. As the Master Government Aggregator® for our vendor partners, we deliver solutions for Cybersecurity, MultiCloud, DevSecOps, Big Data, Artificial Intelligence, Open Source, Customer Experience and more. Working with resellers, systems integrators and consultants, our sales and marketing teams provide industry leading IT products, services and training through hundreds of contract vehicles. Visit us at www.carahsoft.com.
+
+ 
+RH Strategic for Qrypt
+qryptpr@rhstrategic.com
+ 
+RH Strategic for Qrypt
+qryptpr@rhstrategic.com

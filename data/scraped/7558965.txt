@@ -1,0 +1,222 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Jun 4, 2024, 10:04am Data-related roles are some of the most versatile and in-demand careers in the United States. With more access to consumer data than ever, companies rely on data analysts to optimize their financial, marketing and production decisions. As a result, demand for data scientists is expected to triple over the next decade, the U.S. Bureau of Labor Statistics reports. Data analysts work in nearly all sectors, including government, marketing, insurance, accounting, education and manufacturing. At any scale, they help organizations run efficiently by organizing, managing and interpreting data. Depending on the project scope, they use software, programming skills and machine learning to identify patterns and predict outcomes. If you enjoy working with numbers, tackling complicated projects and learning new technology, a data-oriented career may suit you. Completing a data analyst certificate online can help you develop competitive skills that all industries need. Below, we’ll explore the 10 best online data analytics certificates. 
+
+
+
+
+
+
+
+ 
+                        Why You Can Trust Forbes Advisor Education
+                     Forbes Advisor’s education editors are committed to producing unbiased rankings and informative articles covering online colleges, tech bootcamps and career paths. Our ranking methodologies use data from the National Center for Education Statistics, education providers, and reputable educational and professional organizations. An advisory board of educators and other subject matter experts reviews and verifies our content to bring you trustworthy, up-to-date information. Advertisers do not influence our rankings or editorial content.  We ranked 24 accredited, nonprofit colleges offering online undergraduate data analytics certificates in the U.S. using 12 data points in the categories of credibility, affordability, student outcomes and student experience. We pulled data for these categories from reliable resources such as the Integrated Postsecondary Education Data System; private, third-party data sources; and individual school and program websites. Data is accurate as of February 2024. We scored schools based on the following metrics: Student Outcomes: Student Experience: Credibility: Affordability: We chose the 10 best schools to display based on those receiving a curved final score of 88% or higher. Find our full list of methodologies here. Certificate Tuition  $260/credit 
+ Time Commitment  N/A 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$260/credit
+
+
+ $260/credit 
+ 
+
+N/A
+
+
+ N/A 
+ 
+
+Yes
+
+
+ Yes 
+ Texas A&M University offers an undergraduate data analytics certificate for students with some college experience. To enroll in the upper-level university, learners should have at least 30 transferable college credits. Applicants with a bachelor’s degree can opt for the graduate-level certificate. The undergrad certificate emphasizes business analytics with real-world applications, covering theory and practice, data visualization, data mining, and web and social analytics. The College of Business Administration carries accreditation from the Association to Advance Collegiate Schools of Business. Certificate Tuition  $575/credit 
+ Time Commitment  27-36 hours per week for 30 weeks 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$575/credit
+
+
+ $575/credit 
+ 
+
+27-36 hours per week for 30 weeks
+
+
+ 27-36 hours per week for 30 weeks 
+ 
+
+Yes
+
+
+ Yes 
+ At the Virginia-based University of Richmond, learners with bachelor’s degrees can pursue a certificate of applied studies in data analytics. Instead of following a set curriculum, students complete two core courses and choose four electives, with options focusing on big data, ethics, Java programming and predictive analytics. Students can also set their learning pace, finishing the program in two semesters, in one year or one class at a time. Enrollees can complete the mostly asynchronous coursework online but might have the opportunity to take some on-campus classes. Graduates gain lifetime access to the school’s career services. Certificate Tuition  $350/credit 
+ Time Commitment  N/A 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$350/credit
+
+
+ $350/credit 
+ 
+
+N/A
+
+
+ N/A 
+ 
+
+Yes
+
+
+ Yes 
+ Mount Saint Mary’s University (MSMU) in Los Angeles creates opportunities by prioritizing social mobility, diversity and financial accessibility. Its six-course data analytics certificate helps learners build foundational skills, with a two-part “programming for everyone” series that introduces Python, SQL and database design. Throughout the project-based curriculum, students learn to design experiments, evaluate results, solve business problems using machine learning algorithms and improve predictive models. MSMU offers relatively affordable tuition and several avenues for financial aid, including merit scholarships and support for undocumented learners. Certificate Tuition  $335/credit 
+ Time Commitment  21 weeks 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$335/credit
+
+
+ $335/credit 
+ 
+
+21 weeks
+
+
+ 21 weeks 
+ 
+
+Yes
+
+
+ Yes 
+ Based in Burlington, Vermont, Champlain College’s data science certificate program is open to undergrads and bachelor’s degree holders. The coursework emphasizes career-ready skills that learners can apply to their jobs right away, including Python, data storage and manipulation, statistical analysis and presenting solutions. Learners hoping to make a career switch can add on the fast-start formula career bundle, which includes a self-paced course, webinars and an ebook. Students learn to identify their career goals, create a résumé, develop a personal brand and create a job search strategy. Certificate Tuition  $540/credit 
+ Time Commitment  10-15 hours/week per eight-week course; 48 weeks 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$540/credit
+
+
+ $540/credit 
+ 
+
+10-15 hours/week per eight-week course; 48 weeks
+
+
+ 10-15 hours/week per eight-week course; 48 weeks 
+ 
+
+Yes
+
+
+ Yes 
+ Maryville University of Saint Louis, based in Missouri, offers a stackable, customizable data science certificate. The coursework explores industry-standard programming languages and tools like Amazon web services, MySQL and Databricks. The program’s 18 credits count toward a B.S. in data science or computer science. Aside from the six required courses, applicants must complete a college algebra class. Students with prior experience in data science can replace two core courses with electives, allowing them to focus on new skills. After completing their certificate, learners can stack on related certificates in AI, cybersecurity or software development. Certificate Tuition  $387/credit 
+ Time Commitment  7 months 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$387/credit
+
+
+ $387/credit 
+ 
+
+7 months
+
+
+ 7 months 
+ 
+
+Yes
+
+
+ Yes 
+ Denton-based University of North Texas (UNT) allows students to earn an undergraduate data analytics certificate in a way that works for them. Learners can get facetime with instructors through optional weekly meetings, but the program does not require any synchronous participation. Enrollees have access to online tutoring, a career center and a writing center. Students can finish the program in seven months by taking two courses per eight-week term, and UNT Online offers five start dates each year. Additionally, learners can enroll in focused, four-week micro-courses worth one credit each, which build into a certificate. Certificate Tuition  $398/credit 
+ Time Commitment  12 months 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$398/credit
+
+
+ $398/credit 
+ 
+
+12 months
+
+
+ 12 months 
+ 
+
+Yes
+
+
+ Yes 
+ Franklin University in Columbus, Ohio, offers the only accounting-focused certificate on our ranking. The online accounting data analytics certificate teaches learners to create financial decision-making models, identify causes and solutions to business problems, design efficient systems, and communicate their findings. The curriculum covers Excel, Python and Tableau. The 16-credit program can help graduates prepare for the CPA exam or earn licensure. Potential job titles include accounting analyst, auditor, audit analyst and financial analyst. Certificate Tuition  $322/credit 
+ Time Commitment  N/A 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$322/credit
+
+
+ $322/credit 
+ 
+
+N/A
+
+
+ N/A 
+ 
+
+Yes
+
+
+ Yes 
+ Pennsylvania Western University partnered with SAS, an industry-standard analytics platform, to create a program that leads to professional certification. The data science certificate helps learners prepare for two SAS exams, which help them earn certification. They also receive 50% off exam fees. The 15-credit program includes a capstone course, allowing students to practice using SAS in a hands-on project. PennWest operates three Pennsylvania campuses but charges roughly the same tuition for in-state and out-of-state students. Certificate Tuition  $500/credit 
+ Time Commitment  1 year 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$500/credit
+
+
+ $500/credit 
+ 
+
+1 year
+
+
+ 1 year 
+ 
+
+Yes
+
+
+ Yes 
+ Grand Valley State University (GVSU), located in Allendale, Michigan, delivers its applied data analytics certificate through six-week accelerated courses. Students get an introduction to applied statistics, learn to code in Python and R, and develop data visualization skills. The program requires four core courses and offers two elective options. GVSU also offers stackable, short-term badges that can supplement students’ learning in areas such as data analytics, database management and cybersecurity. All learners pay the same tuition, regardless of state residency. Certificate Tuition  $500/credit 
+ Time Commitment  N/A 
+ Can Certificate Credits Transfer to a Degree?  Yes 
+ 
+
+$500/credit
+
+
+ $500/credit 
+ 
+
+N/A
+
+
+ N/A 
+ 
+
+Yes
+
+
+ Yes 
+ The University of Arizona offers a data science and visualization undergraduate certificate through its online campus. Students gain job-ready skills and practical experience by using various data science techniques, platforms and programming languages to address realistic data problems. The curriculum provides many choices for electives courses, including computational social science, introduction to machine learning and applied cyberinfrastructure concepts. Learners can complete this certificate on its own or in tandem with an undergraduate degree. Up to six credits can count toward both the certificate and a degree from UArizona. An online data analytics certificate can prepare you for new opportunities in a high-paying, high-demand field. In many cases, you can pursue a beginner-friendly certificate instead of a four-year degree, which might save you significant time and money. However, online college isn’t the right choice for every learner. Consider the following factors before enrolling. To narrow down your search for the best data analytics certificate, check each prospective school’s accreditation status. During the college accreditation process, schools submit to third-party evaluation to assess the quality of their financial management, student outcomes and faculty. You can only access federal student aid if you attend an accredited institution. Additionally, attending an accredited school makes it easier for your credits to transfer to another college. That’s a crucial factor if you plan to use your certificate as a starting point for a bachelor’s or master’s degree. Institutional accreditation comes from accrediting bodies approved by the U.S. Department of Education or the Council for Higher Education Accreditation (CHEA). To confirm a school’s status, consult CHEA’s directory. Individual departments and programs can also earn programmatic accreditation, which varies in importance depending on the field. Most certificates on our list do not hold programmatic accreditation. However, Texas A&M University’s business school is accredited by the Association to Advance Collegiate Schools of Business. Most data analytics certificates cover basic career skills such as Python programming, data management and data visualization tools. But several of the programs on our list offer specialized curriculums focusing on particular skills, topics or softwares. Finding the best online data analytics program for you depends on your academic history, interests, goals, timeline and budget. Below, we’ll discuss a few factors to consider. Data analysts can find lucrative work in nearly every industry, including marketing, finance, insurance, healthcare and education. To identify your ideal program, clarify your long-term goals, and research interesting industries and job titles. Evaluate your existing strengths and identify your improvement areas. For example, you might need to become proficient in industry software like SAS or Ersi. If you already have professional experience, look for schools that allow you to test out of basic courses or pursue new electives. Otherwise, many programs can take you from a total beginner to an entry-level practitioner. Your enrollment options will be determined by your level of education. Some programs welcome learners with only a GED credential, while others require a bachelor’s degree. The right certificate gets you closer to your academic goals, whether you want to pursue a more advanced degree later or supplement your existing degrees. Earning a data analyst certificate online can offer a more affordable education. Online programs typically cost less than their in-person counterparts, and certificates require fewer credits than full degrees. Total tuition for the schools on our list ranges from $4,680 to $10,350. Per-credit tuition rates depend on factors like your enrollment status, whether you attend a public or private school, and where you live. Keep in mind that while our ranked programs only require 12 to 18 credits, you may have to earn a certain number of credits before enrolling, which may incur additional costs. For example, some programs require incoming certificate students to have 30 to 55 transferable credits, which increases your investment significantly. To lower your overall cost, look for financial aid opportunities. Start by filling out the FAFSA®, which determines your eligibility for federal grants. You can also look for merit- and need-based scholarships from colleges, nonprofit groups and government agencies. Finally, you may consider taking out a loan, but this option requires repayment with interest. The best data analyst certificate depends on your career goals and current skills. In general, look for programs from accredited colleges that cover foundational skills, including data analysis techniques, Python programming, data visualization and machine learning. Yes, data analytics certificates can help you advance in your current role or start a new career. Academic certificates range from $4,600 to $10,000 in total tuition, which could eventually pay off in a high-paying, in-demand career. You typically need a bachelor’s degree to work as a data analyst. However, a certificate may help you land an entry-level job or move into a data-oriented role from another field. Data analytics courses should cover programming languages like Python and R, software like Excel and Tableau, data analysis theory and practice, big data, machine learning and predictive analytics. 
+                Kimberlee Leonard has 22 years of experience as a freelance writer. Her work has been featured on US News and World Report, Business.com and Fit Small Business. She brings practical experience as a business owner and insurance agent to her role as a small business writer.            

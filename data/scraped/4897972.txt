@@ -1,0 +1,42 @@
+Community As 
+outlined in part one, the complexities and challenges in Fintech are there for all to see. But so are the solutions. One of the groundbreaking changes in the Fintech industry has been the availability of open banking, the emergence of digital transformation
+ projects, and the growing prevalence of open source software. Each has its own set of obstacles, but industry leaders are implementing the tools, software, and processes to overcome them.  Open banking has large bundles of data and transactions, so its success has depended on scalable architecture that can meet demand. Digital transformation, too, generates massive amounts of data, and so security and privacy are essential for quick and accurate
+ scaling. Finally, open source software necessitates a sharing of code and services that resembles the nature of cloud-based services.  As such, in this article we elaborate on how software development is navigating challenges in each of these areas, starting with access to data. Access to data Data is the new oil, and it's no surprise that Fintech companies are eager to get their hands on as much of it as possible. But accessing data in real-time can be difficult, especially if you don't have direct access to customers' financial information.
+ If a customer wants to use their bank account for something outside of their regular banking activities, like paying rent via PayPal or buying from Amazon with cash-back rewards points from CitiBank, then those companies will need access to more than just
+ what's available through traditional channels like credit cards and debit cards. For example, imagine if an app developer wanted to make an app where users could pay bills through Venmo. For this feature alone (and many others), they'd need access not only for each user's bank accounts but also for every other service being used. This
+ is so transactions could be processed seamlessly without any disruption in service quality or accuracy. Through the open banking legislation previously discussed, Fintech companies can access all of this data across not only different bank accounts, but any other financial services and apps. This is all powered through the use of application programming interfaces
+ that facilitate the sharing of data between each relevant party and solution.  Security and compliance in the financial sector The financial industry is a highly regulated sector, and security and compliance are critical. There are several security and compliance challenges that come as a package with open banking and Fintech.  The first of these is confidentiality. In a nutshell, companies need to adopt technology and protocols that protect data from unauthorised access or use. If companies are using a central platform to access data, for example, this needs to be set up with
+ the relevant passwords, access restrictions and identity verifications that determine who can see what data.  Secondly, confidentiality needs to be joined with integrity. This means ensuring that data has not been altered or corrupted during transmission or storage. The nature of open banking means that data is often on the move, being updated and stored in new
+ locations. Changes are fine to make—the issues arise when they happen unexpectedly. These faults often emerge through human error and data breaches, so companies need to make sure the right education, awareness and cybersecurity practices are in place.  Finally, security and compliance depends on availability. These faults, malware attacks and data breaches can happen at any moment. As a result, it’s crucial to ensure that systems are available when needed by authorised users round the clock, 24/7.   Cloud-based services When Fintechs are looking at their range of offerings and own operations, implementing cloud-based services is the more cost-effective and flexible approach (instead of depending on in-house local servers and systems). Every challenge discussed requires
+ access to data or resources, the ability to flexibly scale and an ease with updating or monitoring systems.  Cloud computing operates through the internet to distribute a company’s services, such as software, data sharing, and storage. These services can be accessed from anywhere and at any time, so they offer a far better experience for the end user. They are
+ also highly scalable, allowing you to quickly add or remove resources based on demand. Lastly, cloud providers take care of all maintenance tasks, so that you don't have to worry about them yourself.  As the world of open source software becomes more influential in Fintech, its foundations of openly sharing resources, collaboration and connectivity is one that is already represented by cloud-based services. The bottom line When looking back at the challenges from the two parts, one of the main things that springs to mind is the open, collective and shared culture of both the technology and Fintech community that is evolving. With more sharing comes the challenges of navigating
+ different systems, collecting data from different sources, ensuring access to data and data security simultaneously, and, finally, finding the most cost-effective ways of achieving all this.  In a rapidly expanding Fintech market, there are a multitude of software development challenges— the first step to addressing them is knowing about them. With this pinpointed, you can implement the technology and leverage the right external support to tackle
+ them. This content has been created by the Finextra editorial team with inputs from subject matter experts at the funding sponsor. This blog group aids to understand Cloud Migration and its related processes 
+8 opinions
+1 member
+07 November 2023
+ 
+09 July
+ 
+20 May
+ 
+05 April
+ Peter Pizzutelli  Sr. Manager, Advisory Services at Diebold Nixdorf 
+6 hours
+ Francesco Fulcoli  Chief Compliance and Risk Officer at Flagstone 
+7 hours
+ Tom Rowe-Jones  M&A Director at LAVA Advisory Partners 
+7 hours
+1
+ Gustav Korobov  Senior Sales Executive - Core Banking platform at Advapay 
+8 hours
+114
+ This content is provided by an external author without editing by Finextra. It expresses the views and opinions of the author. Sergio Barbosa CIO of Global Kinetic, and CEO of FutureBank. at Global Kinetic and FutureBank 
+16 August
+ Sergiy Fitsak Managing Director, Fintech Expert at Softjourn 
+14 August
+ Mete Feridun Chair at EMU Centre for Financial Regulation and Risk 
+14 August
+ Konstantin Rabin Head of Marketing at Kontomatik 
+14 August
+ Welcome to Finextra. We use cookies to help us to deliver our services. You may change your preferences at our Cookie Centre. Please read our Privacy Policy. © Finextra Research 2024 Terms of usePrivacy PolicyCookie Centre

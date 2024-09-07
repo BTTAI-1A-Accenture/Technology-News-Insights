@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.yakimaherald.com/news/nation_and_world/business/the-10-worst-banks-in-america-according-to-their-customers/article_d8eb029e-8d90-5592-af38-d042fa8d9ddd.html

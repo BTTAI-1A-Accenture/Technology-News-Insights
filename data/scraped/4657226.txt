@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/digi-international-announces-fips-140-2-validation-for-cryptographic-security-on-all-digi-accelerated-linux/article_f16a5083-2e73-56bf-a960-51f0ee378a28.html

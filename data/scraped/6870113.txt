@@ -1,0 +1,46 @@
+New South Wales' MidCoast Council is using Check Point Infinity for security across its data centres, endpoints and remote locations. The MidCoast Council IT network connects 80 sites, including district offices, citizen services centres and critical infrastructure plants, primarily using a private microwave radio network but with certain sites connected by 4G or VPN. A combination of primary and secondary data centres provides service delivery with backup and disaster recovery capabilities. The IT team supports more than 1100 users, nine communications towers, around 30 vCenter hosts, 250 virtual machines, 200 desktop PCs, 1,000 mobile devices and 600 Windows laptops.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ “We needed a holistic, consistent security solution and selected Check Point partner S5 Technology Group to help us achieve our goals of achieving a single-pane-of-glass management and flexibility to support immediate and future deployments without disruption,” said MidCoast Council. IT infrastructure coordinator Mike Nelson. The council is using Check Point Quantum security gateways for network edge security in the main office and to secure segmented traffic at local sites, and has upgraded the Check Point Quantum Lightspeed firewall at the primary data centre to support 3Tbps throughput with low latency. The Quantum gateways use Check Point ThreatCloud AI to protect against new evasive threats and to deliver security updates. "The single most effective solution for us so far has been the Quantum Security Gateways," said MidCoast Council senior network administrator Aaron Beard. "We've relied extensively on several key features. Identity awareness capabilities give us granular visibility of users, groups and machines to support critical water quality and wastewater management operations. Remote access VPN features were vital during the pandemic, and intrusion prevention system (IPS) significantly boosted protection of networks and servers.” He added “In addition, Check Point has helped the council evolve its level of security maturity as defined by the Australian Cyber Security Centre's Essential Eight security framework," said Beard. "Infinity increased our security performance – in throughput and protection – in ways that other vendors couldn't." Other Check Point products used by the council include Check Point Harmony Endpoint to protect PCs, and Check Point Horizon Managed Prevention & Response which provides 24x7x365 security infrastructure monitoring and threat intelligence. "Check Point Infinity allows us to evolve our security without having to know all of our requirements ahead of time," said Nelson. "We have immediately secured our critical infrastructure with the most advanced security humanly possible. At the same time, we can add and adapt our solutions to meet the needs we know are coming later." The integration of the Check Point products makes work easier for the IT team. "Infinity gives us complete flexibility," said Nelson, "Going forward, we can easily adapt protection as we need it. For example, we're migrating email to Microsoft 365 in the cloud. We'll be able to extend zero trust to new areas of our network. Future cloud deployments will be protected. Check Point provides us with the comprehensive, consolidated, collaborative approach needed to secure whatever comes next." Check Point ANZ regional director Les Williamson said “In conjunction with S5 Technology Group, we are delighted to have successfully deployed a cyber security future-fit architecture enabling MidCoast Council to transform its approach to securing its people, data and assets while moving away from legacy infrastructure while all along aligning with the Essential Eight and a zero trust approach.”   
+DOWNLOAD WHITE PAPER! 
+
+PROMOTE YOUR WEBINAR ON ITWIRE
+It's all about Webinars.
+Marketing budgets are now focused on Webinars combined with Lead Generation.
+If you wish to promote a Webinar we recommend at least a 3 to 4 week campaign prior to your event.
+The iTWire campaign will include extensive adverts on our News Site itwire.com and prominent Newsletter promotion https://itwire.com/itwire-update.html and Promotional News & Editorial. Plus a video interview of the key speaker on iTWire TV https://www.youtube.com/c/iTWireTV/videos which will be used in Promotional Posts on the iTWire Home Page.
+Now we are coming out of Lockdown iTWire will be focussed to assisting with your webinars and campaigns and assistance via part payments and extended terms, a Webinar Business Booster Pack and other supportive programs. We can also create your adverts and written content plus coordinate your video interview.
+We look forward to discussing your campaign goals with you. Please click the button below.
+MORE INFO HERE!
+ 
+
+ 
+MORE INFO HERE! 
+
+ Stephen Withers is one of Australia¹s most experienced IT journalists, having begun his career in the days of 8-bit 'microcomputers'. He covers the gamut from gadgets to enterprise systems. In previous lives he has been an academic, a systems programmer, an IT support manager, and an online services manager. Stephen holds an honours degree in Management Sciences and a PhD in Industrial and Business Studies. Stephen Withers is one of Australia¹s most experienced IT journalists, having begun his career in the days of 8-bit 'microcomputers'. He covers the gamut from gadgets to enterprise systems. In previous lives he has been an academic, a systems programmer, an IT support manager, and an online services manager. Stephen holds an honours degree in Management Sciences and a PhD in Industrial and Business Studies. 
+
+ 
+                
+                                Everyone got a bit of what they wanted. No one got everything, that sounds like the basis for a good[…]                             
+                
+                                Is this article ironic?                             
+                
+                                The safest way not to get snared is to avoid anything financial on your devices plus do not participate in[…]                             
+                
+                                Who do we trust here? A professional cloud provider with many customers or a monopolistic ticketing agency that can never[…]                             
+                
+                                I knew this scam was full of shit because it didn't present any actual evidence of the supposed hacker having[…]                              
+

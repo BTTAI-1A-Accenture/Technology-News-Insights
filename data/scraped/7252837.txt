@@ -1,0 +1,1 @@
+HTTPConnectionPool(host='markets.buffalonews.com', port=80): Max retries exceeded with url: /buffnews/article/thenewswire-2023-4-21-kalkee-energy-acquires-texas-based-estacado-energy-llc (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7e245699bd90>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

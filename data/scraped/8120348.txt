@@ -1,0 +1,1 @@
+406 Client Error: Not Acceptable for url: https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/

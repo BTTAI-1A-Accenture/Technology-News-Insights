@@ -1,0 +1,18 @@
+
+Driver monitoring systems that detect driver drowsiness and distraction to warn accordingly are crucial for reducing road accidents. With the new General Safety Regulation for motor vehicles adopted by the EU parliament in 2019 and new test protocols by Euro NCAP, such systems must be installed in new vehicles in the coming years.
+ 
+So far, driver drowsiness monitoring has been implemented by using only one sensing modality such as steering input or camera-based analysis of the driver's face. Since drowsiness is highly complex to assess, combining multiple ways to detect a drowsy driver leads to much improved results and introduces innovative prediction capabilities.
+ 
+The novel concept uses biosensors and cameras to make a reliable assessment of the driver's drowsiness state. Vital signs provided by Garmin's smart watch are used as an input to SAT's human sensing algorithm which outputs a sleep prediction level. Simultaneously, emotion3D derives a drowsiness level by analyzing camera data of the driver's face and eyes. Fusing the output of both sensing modalities will lead to a more reliable and predictive drowsiness monitoring.
+ 
+Jörn Watzke, Senior Director of Garmin Health said: "The AAA Foundation revealed that drowsiness causes an average of 328,000 crashes per year just in the US. Garmin is proud to work on and support the innovative solution of SAT for automatic detection of drowsiness level based in part on HRV data from consumer wearables."
+ 
+Riccardo Groppo, CEO of SAT (Sleep Advice Technologies Srl) added: "Human sensing will contribute to improve the safety of driver and passengers in the next generation of vehicles. By combining different skills and technologies with Garmin and emotion3D it will be possible to deliver an innovative drowsiness monitoring system."
+ 
+"Sensor fusion will become a standard in in-cabin sensing. We are excited to collaborate with SAT and Garmin to make a big step towards improved drowsiness detection." says Florian Seitner, CEO of emotion3D.
+ 
+The system will be showcased for the first time at CES 2023 in Las Vegas. In case you are interested in experiencing the system, please reach out to [email protected].
+ 
+About Garmin Health
+ 
+Garmin Health provides custom enterprise business solutions that leverage Garmin's extensive wearable portfolio and high-quality sensor data for applications in the corporate wellness, population health, and patient monitoring markets. The Garmin Health API allows third parties to ask customers to share their data in accordance with their specific privacy policies. As part of a global company that designs, manufactures and ships products worldwide, Garmin Health supports its customers' commerce and logistics needs, allowing enterprises to scale with a single, trusted provider. For more information, email our press team, connect with us on LinkedIn, or visit us online at garmin.com/health.

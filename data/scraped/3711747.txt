@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://theindependent.com/sports/huskers/football/nebraska-unveils-a-revamped-herbie-husker-design/article_02b831c5-d806-55fc-850c-c28d2776f80a.html

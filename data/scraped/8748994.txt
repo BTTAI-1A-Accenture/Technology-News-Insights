@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ These are my thoughts & summarized learnings about 12 key aspects of Hyper Scalar Transformation (HST) which all large enterprises are into now for moving their On-Prem Legacy ERP systems functionality and Data into Cloud. I was among the few lucky people in my current organization being part of this HST as the Reporting, Archival, Advanced Analytics and Full Stack Home Grown Solutions IT leader (Day#1 to End of the Program). I had crafted this newsletter approach to share these learnings in 12 parts across 2 weeks so as to reduce the burden of reading a long article at one go. I will summarize the 12 aspects as the 12th Day article to have a complete 360 degree view. Today I am going to share the 11th Key aspect "Reporting, Archiving & Advanced Analytics". i.	One of the most visibly impactful workstream directly influence User Experience. This service delivery function requires detailed orchestration, product capability understanding and collaboration with all other workstreams for their outcomes as reports or analytics dashboard or downloadable excels/PDF/Docs ii.	Some of the cloud reporting default products may fail to meet customer expectations as Out of the Box (OOTB) Reports. Spend time on these ones early in the curve and determine its use objectively. If that could not solve the problem, it will naturally end up with custom developed reports which adds to development cost. Heavy usage of reports generally impacts the product performance though cloud is scalable. OOTB usage can be used as a price negotiating factor to address your complex reporting needs against Reporting module costs iii.	 While Product company and the system integration partner helps to build the custom reports, grooming internal talent will help to retain the effectiveness of this workstream. Perhaps better to invest in resources earlier rather than starve for it later  iv.	Built-in Analytics modules are the best place to explore insights in Predictive and Prescriptive analytics but it comes with additional cost. You can negotiate the same lot better as a whole package. However some organizations take measured risk if they identify any analytics service provider with unique value proposition v. KPIs (Business Centric) need to be defined and tested cautiously to avoid AI based challenges while leveraging Predictive and Prescriptive algorithms in advanced analytics space. KPIs should take the lead for metrics and business requirements should drive KPIs. Exploration and evolutions are good but foundation should come from Business KPIs vi. Every leads in the program or every module in the cloud function requires reports and hence managing the business expectations is the toughest challenge. Hence this workstream demands an empathetic leader with good negotiation skills from IT side to address the business needs vii.  A beautified report output takes more time (more latency) rather than a plain report downloadable in CSV excel or PDF. Performance queries must achieve balance between speed vs customized outputs. Explore options like scheduling along with report size checks viii. Cloud data retrieval volume is one of the key influencer of the operational cost along with Data storage size. Optimizing the number of report counts and its periodicity by leveraging Ad-hoc reports capability addressing business needs requires a tact and skill ix. Ensure archival aspect has been thoroughly thought through from the cloud and it's highly recommended to store a copy in-house during designing and implementation with a daily feed from Cloud Let's talk in the next and final edition about 12th Key aspect "Operate Simplest" and overall summary. Thanks for your time and please share your feedbacks and thoughts. 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

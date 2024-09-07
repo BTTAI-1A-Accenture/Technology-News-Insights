@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://independenttribune.com/news/local/friday-five-no-costco-there-just-more-warehouses/article_b04ba37c-0bb1-11ee-bba4-8b320b33b841.html

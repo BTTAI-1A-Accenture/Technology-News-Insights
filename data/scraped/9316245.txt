@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » LogRhythm Receives Best SIEM – Computer Software at the SBR Technology Excellence Awards 2023 for its Ability to Eliminate Noise Effectively SINGAPORE – 29 May 2022 – LogRhythm, a leading cybersecurity company, has been recognised with the SIEM – Computer Software accolade at the 2023 SBR Technology Excellence Awards. This marks the 5th consecutive year the company has been given this award. The award is given to the LogRhythm SIEM, a comprehensive platform that creates an easy-to-follow security narrative that consolidates user or host data and activity into one view, helping analysts quickly understand and remediate security incidents. By streamlining incident investigation and response with a visual analyst experience that tells a security story about a user or host using all available data within the SIEM, security teams can prioritise and focus on the things that matter most. This year, LogRhythm’s collaboration with Sandfield, a leading provider of software applications for operational businesses, has significantly contributed to its recognition at this award. In collaboration with Advantage, a New Zealand-managed services provider, Sandfield deployed the LogRhythm SIEM to mature their security operations further and gain better insight into their security measures. The LogRhythm SIEM was able to quickly capture and automate the monitoring of log data across a range of core systems used by Sandfield. It also helped Sandfield spot potential threats amidst large volumes of log data that they were unable to achieve manually. For example, in a given month, the LogRhythm SIEM ingested over 191 million logs, of which 3.5 million were forwarded to a second stage for close analysis by artificial intelligence tools, leading to 67 alarm triggers. At the end of the funnel, only 37 alerts needed manual investigation. With the increased visibility from using LogRhythm, the team was also able to identify a misconfiguration that could have led to issues if not rectified in a timely manner. According to Sandfield, the biggest benefit of having LogRhythm’s SIEM platform fully functional has been peace of mind. “[With LogRhythm,] we are now much more comfortable that we have the level of visibility we require to ensure our systems and resources are always secure. We can be confident that any misconfigurations, breaches, or unauthorised access of our systems will be quickly picked up,” Justin Knight, Head of IT Operations at Sandfield said. Like all other LogRhythm customers, Sandfield also benefits from the company’s drive to make and keep bold promises to their customers. Every quarter, LogRhythm delivers new product innovations that are based on customer feedback. Since June 2022, the entire LogRhythm product portfolio has been constantly improving to help security teams meet rising security expectations. “We are proud to receive this award for the fifth consecutive year, as it is a testament that LogRhythm is consistently delivering the best-in-class SIEM platform to busy security teams. Our project with Sandfield this year highlights the powerful built-in capabilities of our SIEM, distilling 191 million logs down to only 37 alerts, allowing them to focus on the work that matters, which is delivering purpose-built software to their customers.” – Joanne Wong, Vice President of International Markets, APJ and EMEA, LogRhythm The Technology Excellence Awards is hosted by Singapore Business Review and the highlights technological innovations, recognising exceptional companies in Singapore that are riding the digital disruption wave and leading the technological revolution and digital journeys of their respective industries. LogRhythm helps security teams stop breaches by turning disconnected data and signals into trustworthy insights. From connecting the dots across diverse log and threat intelligence sources to using sophisticated machine learning that spots suspicious anomalies in network traffic and user behavior, LogRhythm accurately pinpoints cyberthreats and empowers professionals to respond with speed and efficiency. With cloud-native and self-hosted deployment flexibility, out-of-the-box integrations, and advisory services, LogRhythm makes it easy to realize value quickly and adapt to an ever-evolving threat landscape. Together, LogRhythm and our customers confidently monitor, detect, investigate, and respond to cyberattacks. Learn more at logrhythm.com. The post LogRhythm Receives Best SIEM – Computer Software at the SBR Technology Excellence Awards 2023 for its Ability to Eliminate Noise Effectively appeared first on LogRhythm. *** This is a Security Bloggers Network syndicated blog from LogRhythm authored by Nicholas Tan. Read the original post at: https://logrhythm.com/press-releases/logrhythm-receives-best-siem-computer-software-at-the-sbr-technology-excellence-awards-2023/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

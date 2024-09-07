@@ -1,0 +1,76 @@
+News "We've started some experiments to combine the advantages of Razor Pages, Blazor Server and Blazor WebAssembly all into one thing." 
+  Steve Sanderson has done it again, adding yet more functionality to the groundbreaking Blazor project, which he created.
+
+ 
+  This time it's combining the Single Page Applications (SPA) tech of Blazor with plain HTML, which in the ASP.NET Core camp comes from Razor Pages, MVC and CSHTML files.
+
+ 
+  Or, in Sanderson's own words: "We've started some experiments to combine the advantages of Razor Pages, Blazor Server and Blazor WebAssembly all into one thing, so this would be a way for Blazor components to be a single architecture for all your web UI scenarios -- that's for plain HTML rendering and for full interactivity either server-side or on WebAssembly -- and that's all in one project with the ability to easily switch between different rendering modes and even mix them in the same page."
+
+ 
+  Those words came in a 13-minute YouTube video titled "Blazor United prototype," described as "A quick peek at some of the cool Blazor prototypes we're experimenting with for .NET 8."
+
+ 
+  Here's how he set up his demo:
+
+ 
+  While the project is destined for .NET 8, so far is just a prototype, though adventurous web developers could attempt to build it from the raw source code in the Blazor United branch in the ASP.NET Core GitHub repo.
+
+ 
+  It's the latest milestone initiative from Sanderson, who has helped point the Microsoft manifestation of his pet project at everything from mobile to desktop. For the uninitiated, Blazor allows for  C#-based (no JavaScript required) SPA web development with a Blazor Server component and a Blazor WebAssembly component for client-side development.
+
+ 
+  Sanderson's video has sparked much discussion on the social coding scene, drawing oohs and aahs from developers on YouTube (101 comments, nearly 9,000 views), Reddit (90 comments) and Twitter (58 comments, 491 likes and some 96,000 impressions at the time of this writing) along with a wee bit of snarkiness on Hacker News.
+
+ 
+  "Oh my god. This is glorious! I hope they can make it to .NET 8," read the first comment on the Reddit thread.
+
+ 
+  "You guys took it one step ahead, it's incredible! People were asking if it was possible to support Blazor Server and WebAssembly side-by-side in the same app. Now you made their choice for them!" read a comment on YouTube.
+
+ 
+  "This is glorious!!! Blazor Server is fantastic but there are use cases (like offline pages) where diving back to Angular or React for parts of the app was the only option. A unified Razor/TS experience with both client and server step-debugging would be a game changer," said a tweet reply.
+
+ 
+  Yes, there were questions, concerns and snarky negativity as always (some likened it to ColdFusion and jQuery), but overall the social response has been enthusiastic.
+
+ 
+  Sanderson used code examples to explain the new functionality, demonstrating "streaming rendering" and piecemeal "progressive enhancement" that added interactive functionality like drag-and-drop. He showed how the approach can be applied to individual components or an entire page. He said an "auto render" mode, for example, lets developers "dynamically choose on a per-page or per-component basis between server and WebAssembly based on whether the user has already got the files cached, and you can use whichever combination of rendering modes makes sense for each different part of your web site without having to change your architecture."
+
+ 
+  The Blazor guru posted the video to solicit such developer feedback as mentioned above.
+
+ 
+  "Now that is just a prototype and a lot of it will probably change, but we are serious about doing something like this in .NET 8," Sanderson said in closing. "And since it's just a prototype, we don't even have any packages yet that you can actually download and try it. So if you are really keen you can go to our GitHub repo and into the Blazor United branch and actually build the whole framework yourself to try it, or you could just wait until we start releasing actual real preview releases. Now we would love to know whether this seems relevant to you and what your scenarios and priorities would be so let us know on GitHub."
+
+ About the Author 
+
+                    David Ramel is an editor and writer for Converge360.
+                    
+
+ Printable Format 
+                        The ability for admins to configure Copilot to ignore specific files in repositories or organizations joins a raft of other enhancements that affect everything from commit histories to pull requests to targeted slash commands and more.
+                        
+                        
+                        
+                     
+                         With Visual Studio 2022 v17.11 shipping this week, the first preview of the next edition sees Microsoft emphasizing support for the coming .NET 9 and cloud development with Aspire.
+                        
+                        
+                        
+                     
+                        Dr. James McCaffrey from Microsoft Research presents a demonstration program that models biological immune systems to identify network intrusion threats. The demo illustrates challenges with artificial immune systems as well as promising new approaches.
+                        
+                        
+                        
+                     
+                        Microsoft's Mads Kristensen heavily emphasized the community contributions that helped the dev team ship the brand-new Visual Studio 2022 version 17.11, which includes new features, improvements and fixes across the board spawned from the ideas of users. 
+                        
+                        
+                        
+                     
+                        .NET 9 is coming in November, so here is help in how to build and deploy a modern .NET 9 app using cloud and DevOps tools.
+                        
+                        
+                        
+                     Subscribe on YouTube > More Webcasts Problems? Questions? Feedback? E-mail us.

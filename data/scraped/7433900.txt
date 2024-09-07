@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/veracios-landmark-acquisition-of-minalyze-set-to-fast-track-global-orebody-knowledge/article_33e434d1-3b11-5be3-b285-ab70c65cc5b5.html

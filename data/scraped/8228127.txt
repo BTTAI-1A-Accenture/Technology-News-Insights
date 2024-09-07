@@ -1,0 +1,886 @@
+Cloudy and humid with a spotty shower possible in the morning followed by more widely scattered showers and thunderstorms in the afternoon. Some storms may contain gusty winds and flooding downpours. .
+                                 Showers and thunderstorms, some of which may contain flooding downpours and gusty winds, primarily before midnight. Cloudy otherwise and muggy with some patchy fog possible late.  Updated: August 18, 2024 @ 10:54 pm Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Upper Bucks County state_name: Pennsylvania Bulletin: The National Weather Service in Mount Holly has extended the
+
+* Flash Flood Warning for...
+Morris County in northern New Jersey...
+North Central Somerset County in northern New Jersey...
+Northeastern Hunterdon County in northwestern New Jersey...
+Southeastern Sussex County in northwestern New Jersey...
+East Central Warren County in northwestern New Jersey...
+
+* Until midnight EDT tonight.
+
+* At 955 PM EDT, emergency management reported thunderstorms
+producing heavy rain with flooding/high water reported around
+Morris County, most notably within the Boonton area, with more
+rain moving into the warned area. Between 2 and 4 inches of rain
+have fallen. Additional rainfall amounts of 0.5 to 1 inch are
+possible in the warned area. Flash flooding is already occurring.
+
+HAZARD...Flash flooding caused by thunderstorms.
+
+SOURCE...Emergency management reported.
+
+IMPACT...Flooding of small creeks and streams, urban areas,
+highways, streets, and underpasses as well as other
+drainage and low lying areas.
+
+* Some locations that may experience flash flooding include...
+Morristown, Dover, Hopatcong, Lincoln Park, Kinnelon,
+Hackettstown, Boonton, Butler, Wharton, Washington, Rockaway and
+Morris Plains.
+
+This includes the following highways...
+Interstate 287 in New Jersey between mile markers 40 and 52.
+Interstate 78 in New Jersey between mile markers 15 and 17.
+Interstate 80 in New Jersey between mile markers 12 and 47.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...OBSERVED
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T21:55:00-04:00 end_time_local: 2024-08-19T00:00:00-04:00 county_name: Warren County state: NJ headline: Flash Flood Warning until MON 12:00 AM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Warren County state_name: New Jersey Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: NJ headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Warren County state_name: New Jersey Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Western Montgomery County state_name: Pennsylvania Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Lower Bucks County state_name: Pennsylvania Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Monroe County state_name: Pennsylvania Bulletin: ...FLASH FLOOD WARNING WILL EXPIRE AT 1115 PM EDT THIS EVENING FOR
+CENTRAL WARREN AND NORTHEASTERN NORTHAMPTON COUNTIES...
+
+The heavy rain has ended. Flooding is no longer expected to pose a
+threat. Please continue to heed remaining road closures.
+
+A Flood Watch remains in effect until 200 AM EDT for portions of
+northern Delaware, New Jersey, and Pennsylvania.
+
+&&
+
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T23:05:00-04:00 end_time_local: 2024-08-18T23:15:00-04:00 county_name: Warren County state: NJ headline: Flash Flood Warning until SUN 11:15 PM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Warren County state_name: New Jersey Bulletin: The National Weather Service in Mount Holly has extended the
+
+* Flash Flood Warning for...
+Morris County in northern New Jersey...
+North Central Somerset County in northern New Jersey...
+Northeastern Hunterdon County in northwestern New Jersey...
+Southeastern Sussex County in northwestern New Jersey...
+East Central Warren County in northwestern New Jersey...
+
+* Until midnight EDT tonight.
+
+* At 955 PM EDT, emergency management reported thunderstorms
+producing heavy rain with flooding/high water reported around
+Morris County, most notably within the Boonton area, with more
+rain moving into the warned area. Between 2 and 4 inches of rain
+have fallen. Additional rainfall amounts of 0.5 to 1 inch are
+possible in the warned area. Flash flooding is already occurring.
+
+HAZARD...Flash flooding caused by thunderstorms.
+
+SOURCE...Emergency management reported.
+
+IMPACT...Flooding of small creeks and streams, urban areas,
+highways, streets, and underpasses as well as other
+drainage and low lying areas.
+
+* Some locations that may experience flash flooding include...
+Morristown, Dover, Hopatcong, Lincoln Park, Kinnelon,
+Hackettstown, Boonton, Butler, Wharton, Washington, Rockaway and
+Morris Plains.
+
+This includes the following highways...
+Interstate 287 in New Jersey between mile markers 40 and 52.
+Interstate 78 in New Jersey between mile markers 15 and 17.
+Interstate 80 in New Jersey between mile markers 12 and 47.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...OBSERVED
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T21:55:00-04:00 end_time_local: 2024-08-19T00:00:00-04:00 county_name: Warren County state: NJ headline: Flash Flood Warning until MON 12:00 AM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Warren County state_name: New Jersey Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: NJ headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Warren County state_name: New Jersey Bulletin: The National Weather Service in Mount Holly has extended the
+
+* Flash Flood Warning for...
+Morris County in northern New Jersey...
+North Central Somerset County in northern New Jersey...
+Northeastern Hunterdon County in northwestern New Jersey...
+Southeastern Sussex County in northwestern New Jersey...
+East Central Warren County in northwestern New Jersey...
+
+* Until midnight EDT tonight.
+
+* At 955 PM EDT, emergency management reported thunderstorms
+producing heavy rain with flooding/high water reported around
+Morris County, most notably within the Boonton area, with more
+rain moving into the warned area. Between 2 and 4 inches of rain
+have fallen. Additional rainfall amounts of 0.5 to 1 inch are
+possible in the warned area. Flash flooding is already occurring.
+
+HAZARD...Flash flooding caused by thunderstorms.
+
+SOURCE...Emergency management reported.
+
+IMPACT...Flooding of small creeks and streams, urban areas,
+highways, streets, and underpasses as well as other
+drainage and low lying areas.
+
+* Some locations that may experience flash flooding include...
+Morristown, Dover, Hopatcong, Lincoln Park, Kinnelon,
+Hackettstown, Boonton, Butler, Wharton, Washington, Rockaway and
+Morris Plains.
+
+This includes the following highways...
+Interstate 287 in New Jersey between mile markers 40 and 52.
+Interstate 78 in New Jersey between mile markers 15 and 17.
+Interstate 80 in New Jersey between mile markers 12 and 47.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...OBSERVED
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T21:55:00-04:00 end_time_local: 2024-08-19T00:00:00-04:00 county_name: Hunterdon County state: NJ headline: Flash Flood Warning until MON 12:00 AM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Hunterdon County state_name: New Jersey Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: NJ headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Hunterdon County state_name: New Jersey Bulletin: The National Weather Service in Mount Holly has extended the
+
+* Flash Flood Warning for...
+Southeastern Lehigh County in eastern Pennsylvania...
+Southwestern Northampton County in eastern Pennsylvania...
+
+* Until 1130 PM EDT.
+
+* At 911 PM EDT, emergency management reported thunderstorms
+producing heavy rain with water rescues around Nazareth and
+several roads reported closed in that area. Another round of
+showers and thunderstorms are moving in. Between 3 and 4 inches of
+rain have fallen. Additional rainfall amounts of 1 to 2 inches are
+possible in the warned area. Flash flooding is already occurring.
+
+HAZARD...Life threatening flash flooding caused by
+thunderstorms.
+
+SOURCE...Emergency management reported.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets, and underpasses.
+
+* Some locations that may experience flash flooding include...
+Allentown, Easton, Bethlehem, Forks, Emmaus, Northampton, Wilson,
+Hellertown, Nazareth, Bath, Belfast and West Easton.
+
+This includes the following highways...
+Northeast Extension near mile marker 49...and
+between mile markers 51 and 62.
+Interstate 78 in Pennsylvania between mile markers 52 and 74.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...OBSERVED;
+FLASH FLOOD DAMAGE THREAT...CONSIDERABLE
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T21:11:00-04:00 end_time_local: 2024-08-18T23:30:00-04:00 county_name: Lehigh County state: PA headline: Flash Flood Warning until SUN 11:30 PM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Lehigh County state_name: Pennsylvania Bulletin: ...FLASH FLOOD WARNING REMAINS IN EFFECT UNTIL 1230 AM EDT MONDAY
+FOR NORTHEASTERN BERKS AND CENTRAL LEHIGH COUNTIES...
+
+At 847 PM EDT, Doppler radar indicated thunderstorms producing heavy
+rain across the warned area. Between 2 and 3 inches of rain have
+fallen. Additional rainfall amounts of 1.5 to 2.5 inches are
+possible in the warned area. Flash flooding is ongoing or expected
+to begin shortly.
+
+HAZARD...Life threatening flash flooding caused by thunderstorms.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets, and underpasses.
+
+Some locations that may experience flash flooding include...
+Kutztown, Hamburg, Shoemakersville, Lenhartsville and Claussville.
+
+This includes the following highways...
+Northeast Extension near mile marker 62.
+Interstate 78 in Pennsylvania between mile markers 35 and 53.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...RADAR INDICATED;
+FLASH FLOOD DAMAGE THREAT...CONSIDERABLE
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T20:47:00-04:00 end_time_local: 2024-08-19T00:30:00-04:00 county_name: Lehigh County state: PA headline: Flash Flood Warning until MON 12:30 AM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Lehigh County state_name: Pennsylvania Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Lehigh County state_name: Pennsylvania Bulletin: ...FLASH FLOOD WARNING WILL EXPIRE AT 1115 PM EDT THIS EVENING FOR
+CENTRAL WARREN AND NORTHEASTERN NORTHAMPTON COUNTIES...
+
+The heavy rain has ended. Flooding is no longer expected to pose a
+threat. Please continue to heed remaining road closures.
+
+A Flood Watch remains in effect until 200 AM EDT for portions of
+northern Delaware, New Jersey, and Pennsylvania.
+
+&&
+
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T23:05:00-04:00 end_time_local: 2024-08-18T23:15:00-04:00 county_name: Northampton County state: PA headline: Flash Flood Warning until SUN 11:15 PM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Northampton County state_name: Pennsylvania Bulletin: The National Weather Service in Mount Holly has extended the
+
+* Flash Flood Warning for...
+Southeastern Lehigh County in eastern Pennsylvania...
+Southwestern Northampton County in eastern Pennsylvania...
+
+* Until 1130 PM EDT.
+
+* At 911 PM EDT, emergency management reported thunderstorms
+producing heavy rain with water rescues around Nazareth and
+several roads reported closed in that area. Another round of
+showers and thunderstorms are moving in. Between 3 and 4 inches of
+rain have fallen. Additional rainfall amounts of 1 to 2 inches are
+possible in the warned area. Flash flooding is already occurring.
+
+HAZARD...Life threatening flash flooding caused by
+thunderstorms.
+
+SOURCE...Emergency management reported.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets, and underpasses.
+
+* Some locations that may experience flash flooding include...
+Allentown, Easton, Bethlehem, Forks, Emmaus, Northampton, Wilson,
+Hellertown, Nazareth, Bath, Belfast and West Easton.
+
+This includes the following highways...
+Northeast Extension near mile marker 49...and
+between mile markers 51 and 62.
+Interstate 78 in Pennsylvania between mile markers 52 and 74.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...OBSERVED;
+FLASH FLOOD DAMAGE THREAT...CONSIDERABLE
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T21:11:00-04:00 end_time_local: 2024-08-18T23:30:00-04:00 county_name: Northampton County state: PA headline: Flash Flood Warning until SUN 11:30 PM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Northampton County state_name: Pennsylvania Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Northampton County state_name: Pennsylvania Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Carbon County state_name: Pennsylvania Bulletin: ...FLASH FLOOD WARNING REMAINS IN EFFECT UNTIL 1230 AM EDT MONDAY
+FOR NORTHEASTERN BERKS AND CENTRAL LEHIGH COUNTIES...
+
+At 847 PM EDT, Doppler radar indicated thunderstorms producing heavy
+rain across the warned area. Between 2 and 3 inches of rain have
+fallen. Additional rainfall amounts of 1.5 to 2.5 inches are
+possible in the warned area. Flash flooding is ongoing or expected
+to begin shortly.
+
+HAZARD...Life threatening flash flooding caused by thunderstorms.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets, and underpasses.
+
+Some locations that may experience flash flooding include...
+Kutztown, Hamburg, Shoemakersville, Lenhartsville and Claussville.
+
+This includes the following highways...
+Northeast Extension near mile marker 62.
+Interstate 78 in Pennsylvania between mile markers 35 and 53.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...RADAR INDICATED;
+FLASH FLOOD DAMAGE THREAT...CONSIDERABLE
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T20:47:00-04:00 end_time_local: 2024-08-19T00:30:00-04:00 county_name: Berks County state: PA headline: Flash Flood Warning until MON 12:30 AM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Berks County state_name: Pennsylvania Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Berks County state_name: Pennsylvania Bulletin: The National Weather Service in Mount Holly has extended the
+
+* Flash Flood Warning for...
+Southeastern Lehigh County in eastern Pennsylvania...
+Southwestern Northampton County in eastern Pennsylvania...
+
+* Until 1130 PM EDT.
+
+* At 911 PM EDT, emergency management reported thunderstorms
+producing heavy rain with water rescues around Nazareth and
+several roads reported closed in that area. Another round of
+showers and thunderstorms are moving in. Between 3 and 4 inches of
+rain have fallen. Additional rainfall amounts of 1 to 2 inches are
+possible in the warned area. Flash flooding is already occurring.
+
+HAZARD...Life threatening flash flooding caused by
+thunderstorms.
+
+SOURCE...Emergency management reported.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets, and underpasses.
+
+* Some locations that may experience flash flooding include...
+Allentown, Easton, Bethlehem, Forks, Emmaus, Northampton, Wilson,
+Hellertown, Nazareth, Bath, Belfast and West Easton.
+
+This includes the following highways...
+Northeast Extension near mile marker 49...and
+between mile markers 51 and 62.
+Interstate 78 in Pennsylvania between mile markers 52 and 74.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...OBSERVED;
+FLASH FLOOD DAMAGE THREAT...CONSIDERABLE
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T21:11:00-04:00 end_time_local: 2024-08-18T23:30:00-04:00 county_name: Lehigh County state: PA headline: Flash Flood Warning until SUN 11:30 PM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Lehigh County state_name: Pennsylvania Bulletin: ...FLASH FLOOD WARNING REMAINS IN EFFECT UNTIL 1230 AM EDT MONDAY
+FOR NORTHEASTERN BERKS AND CENTRAL LEHIGH COUNTIES...
+
+At 847 PM EDT, Doppler radar indicated thunderstorms producing heavy
+rain across the warned area. Between 2 and 3 inches of rain have
+fallen. Additional rainfall amounts of 1.5 to 2.5 inches are
+possible in the warned area. Flash flooding is ongoing or expected
+to begin shortly.
+
+HAZARD...Life threatening flash flooding caused by thunderstorms.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets, and underpasses.
+
+Some locations that may experience flash flooding include...
+Kutztown, Hamburg, Shoemakersville, Lenhartsville and Claussville.
+
+This includes the following highways...
+Northeast Extension near mile marker 62.
+Interstate 78 in Pennsylvania between mile markers 35 and 53.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around...don't drown when encountering flooded roads. Most
+flood deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.
+
+&&
+
+
+FLASH FLOOD...RADAR INDICATED;
+FLASH FLOOD DAMAGE THREAT...CONSIDERABLE
+
+ Info:  Type: Flash Flood Warning start_time_local: 2024-08-18T20:47:00-04:00 end_time_local: 2024-08-19T00:30:00-04:00 county_name: Lehigh County state: PA headline: Flash Flood Warning until MON 12:30 AM EDT county_fips:  category: Met url:  urgency: Immediate severity: Severe certainty: Likely geographicname: Lehigh County state_name: Pennsylvania Bulletin: ...FLOOD WATCH REMAINS IN EFFECT THROUGH LATE TONIGHT...
+
+* WHAT...Flooding caused by excessive rainfall continues to be
+possible.
+
+* WHERE...Portions of northern Delaware, including the following
+area, New Castle, New Jersey, including the following areas,
+Camden, Gloucester, Hunterdon, Mercer, Middlesex, Morris,
+Northwestern Burlington, Salem, Somerset, Sussex, Warren and
+Western Monmouth, and Pennsylvania, including the following areas,
+Berks, Carbon, Delaware, Eastern Chester, Eastern Montgomery,
+Lehigh, Lower Bucks, Monroe, Northampton, Philadelphia, Upper
+Bucks, Western Chester and Western Montgomery.
+
+* WHEN...Through late tonight.
+
+* IMPACTS...Excessive runoff may result in flooding of rivers,
+creeks, streams, and other low-lying and flood-prone locations.
+Flooding may occur in poor drainage and urban areas.
+
+* ADDITIONAL DETAILS...
+- Heavy rain and thunderstorms associated with an approaching
+cold front will produce widespread rainfall amounts of 1 to 3
+inches with locally higher amounts of 4 inches or more
+possible.
+- http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+You should monitor later forecasts and be alert for possible Flood
+Warnings. Those living in areas prone to flooding should be prepared
+to take action should flooding develop.
+
+&&
+
+ Info:  Type: Flood Watch start_time_local: 2024-08-18T13:24:00-04:00 end_time_local: 2024-08-19T02:00:00-04:00 county_name:  state: PA headline: Flood Watch until MON 2:00 AM EDT county_fips:  category: Met url:  urgency: Unknown severity: Moderate certainty: Unknown geographicname: Lehigh County state_name: Pennsylvania  WFMZ.com Reporter PPL Corp. suffered storm damage at its Kentucky operations on March 3, but the utility's earnings forecasts will not be affected. The Allentown-based company said in a U.S. Securities and Exchange Commission filing Wednesday that subsidiaries Louisville Gas and Electric, and Kentucky Utilities, "sustained damage from extraordinary storms." Kentucky Governor Andy Beshear declared a state of emergency in the state Friday as the storm hit, with high winds and a tornado. In the PPL filing, the company estimated repair costs from wind and rain of $80 million to $100 million, with a final number not certain until all repairs are complete. The storm affected 380,000 electricity customers, with service to 16,000 not back as of Wednesday. PPL said about 3,300 power lines were down, along with 700 utility poles. PPL said the damage will not "significantly affect its business outlook" and the company reaffirmed its 2023 earnings forecast given in February. On Feb. 17, the company forecast 2023 earnings of $1.50 to $1.65 per share. The company has also said that a billing problem affecting some Pennsylvania customers will not affect earnings. Shares in the utility are traded on the New York Stock Exchange under the ticker symbol PPL. Shares were trading at $26.99 around 11 a.m. Wednesday. WFMZ.com Reporter   
+                            Get local Breaking News alerts sent directly to your inbox.
+                         
+Success! An email has been sent to  with a link to confirm list signup.
+                                     
+Error! There was an error processing your request.
+                                     
+                            Watch all of WFMZ-TV News and Syndicated Programing 24/7 on your Streaming App enabled TV.
+                         Your browser is out of date and potentially vulnerable to security risks.We recommend switching to one of the following browsers: Get up-to-the-minute news sent straight to your device.

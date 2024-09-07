@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » Black Hat Fireside Chat: The impactful role crowdsourced security intelligence must play From Kickstarter to Wikipedia, crowdsourcing has become a part of everyday life. Now one distinctive type of crowdsourcing — ethical hacking – is positioned to become a much more impactful component of securing modern networks. I had a terrific discussion about this at Black Hat USA 2023 with Casey Ellis, founder and CTO of Bugcrowd, a pioneer in the crowdsourced security market. Bugcrowd ushered in crowdsourced security with its launch in 2012, and today a covey of vendors have followed suit, each supplying intricate platforms to connect hackers with proven skillsets to companies that have particular needs. “What we’ve got under the hood is effectively a dating website for people who are good at breaking into computers,” Ellis says. Crowdsourced security vendors (others include Synack, Hacker One and Intigriti) make it seamless for companies to tap into a global network of software coders, and set them on the hunt for vulnerabilities.  This decentralized, diligently-managed approach meshes well with the overall shift to massively interconnected digital services. For more on this, please do give the accompanying podcast a listen. Ellis and I discuss the evolution of pen testing, the current state of bug bounties and the rising influence of AI. For instance, some 85 percent of hackers responding to Bugcrowd’s Inside the Mind of a Hacker poll said they are already using generative AI in their workflows. For its part, Bugcrowd has committed to helping companies shift to a risk-management approach to security, Ellis says. With AI speeding everything up, triaging risks makes a lot of sense. I’ll keep watch and keep reporting.  Acohido Pulitzer Prize-winning business journalist Byron V. Acohido is dedicated to fostering public awareness about how to make the Internet as private and secure as it ought to be. (LW provides consulting services to the vendors we cover.)  September 13th, 2023    *** This is a Security Bloggers Network syndicated blog from The Last Watchdog authored by bacohido. Read the original post at: https://www.lastwatchdog.com/black-hat-fireside-chat-the-impactful-role-crowdsourced-security-intelligence-must-play/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

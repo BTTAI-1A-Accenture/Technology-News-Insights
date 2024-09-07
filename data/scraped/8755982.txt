@@ -1,0 +1,28 @@
+With artificial intelligence seemingly working its way into every technology out there, one area where it's considered particularly promising is in helping doctors make medical diagnoses.
+ And already, AI is tiptoeing into some doctors' offices.
+ Dr. Michael Mansour of Massachusetts General Hospital is an early adopter who's helping with a form of AI that could someday change the way doctors access information.
+ Mansour specializes in invasive fungal infections in transplant patients. "Got a nice picture of mushrooms in my office," Mansour says with a laugh. "I just really enjoy helping patients through, you know, pretty devastating mold and yeast infections."
+ When a patient comes in with a mysterious infection, Mansour turns to a computer program called UpToDate. It's an incredibly common tool, with more than 2 million users at 44,000 health care organizations in over 190 countries.
+ Basically, it's Google for doctors — searching a huge database of articles written by experts in the field, who are all pulling from the latest research.
+ 
+ "Here's an example," Mansour says, turning to his computer. "If I meet a patient who is visiting from Hawaii." The hypothetical patient's symptoms make Mansour worry about an infection that the patient acquired back home, so he types "Hawaii" and "infection" into UpToDate.
+ "And I get things like dengue virus, jellyfish stings, murine typhus, etc.," he says, scrolling down a long list of responses on his screen. Mansour says he wishes this list could be more specific: "I think gen AI gives you the opportunity to really refine that."
+ Mansour has been helping test an experimental version of UpToDate that uses generative AI to help doctors access more targeted information from its database.
+ Wolters Kluwer Health, the company that makes UpToDate, is trying to incorporate AI so doctors can have more of a conversation with the database.
+ "If you have a question, it can maintain the context of your question," says Dr. Peter Bonis, chief medical officer for Wolters Kluwer Health. "And saying, 'Oh, I meant this,' or 'What about that?' And it knows what you're talking about and can guide you through, in much the same way that you might ask a master clinician to do that."
+ 
+ At this point, Wolters Kluwer Health is just sharing the AI-enhanced program in a beta form for testing. Bonis says the company needs to make sure it's entirely reliable before it can be released.
+ Bonis has seen the program make errors that people focused on large language model AI programs call hallucinations.
+ He once saw it cite a journal article in his area of expertise that he wasn't familiar with. "And I then looked to see if I could find the study in that journal. It didn't exist," Bonis says. "So my next query to the large language model was, 'Did you make this up?' It said yes."
+ Once those kinds of kinks are worked out, AI is being seen across the medical world as having huge potential for helping doctors make diagnoses. It's already being used as a radiological tool, helping with CT scans and X-rays. Another program called OpenEvidence, led by scientists at Harvard University, the Massachusetts Institute of Technology and Cornell University, is using AI to read through the latest medical research studies and synthesize the information for users.
+ 
+ Some doctors hope to use AI to comb through and summarize a patient's medical history before an appointment.
+ "It's a time-consuming and very haphazard process," says Dr. June-Ho Kim, who directs a program on primary care innovation at Ariadne Labs, which is a partnership of Brigham and Women's Hospital and the Harvard T.H. Chan School of Public Health. "And you could see a large language model that's able to digest that and produce kind of natural language summaries of it being incredibly useful."
+ In some cases, Kim says, AI technology may also help primary care physicians care for patients without needing the assistance of specialists. "It will free up specialist time to focus on the more complex cases that they need to really [home] in on, rather than the ones that could be answered through a few questions," he says.
+ A study published in the Journal of Medical Internet Research in August tested out the diagnostic skills of the popular ChatGPT program. Researchers fed 36 clinical scenarios into ChatGPT and found that the AI program was 77% accurate when making final diagnoses. With more limited information based on patients' initial interactions with doctors, though, ChatGPT's diagnoses were just 60% accurate.
+ "It needs improvement," says Dr. Marc Succi of Mass General Brigham, who was one of the paper's authors. "We've drilled down on specific parts of the clinical visit where it needs to improve before it's ready for prime time."
+ Like a stethoscope, Succi says, AI will ultimately prove to be a trusted medical tool.
+ "AI won't replace doctors, but doctors who use AI will replace doctors who do not," Succi says. "It's the equivalent to writing an article on a typewriter or writing it on a computer. It's that level of leap."
+ Mansour, the transplant fungal infection specialist at Massachusetts General Hospital, says he hopes AI allows him more time to spend with patients. "Instead of spending those extra minutes searching things, you could allow me to go and talk to that person about their diagnosis, about what to expect for management," he says. "It restores that patient-doctor relationship."
+ That relationship is strained as doctors become busier, Mansour says, and maybe AI can help.
+ Copyright 2023 GBH

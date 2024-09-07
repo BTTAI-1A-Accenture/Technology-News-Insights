@@ -1,0 +1,70 @@
+Job openings have been at some of their lowest levels nationally since February 2021, Bureau of Labor Statistics data shows. However, openings remain elevated compared to the years before the COVID-19 pandemic, with 8.2 million open jobs at the end of June 2024—about 1 million above pre-pandemic levels. To discover which industries are driving the job market, Stacker used data from the Bureau of Labor Statistics' Job Openings and Labor Turnover report to see which industries added jobs in June and which saw openings shrink. Industries are ranked by the percent change in job openings from June 2023 to 2024 and are listed from the largest decreases to the largest increases. Monthly data is preliminary. Despite the continued strength of job openings, Americans are losing confidence in the labor market, Reuters reported. People are now more likely to say jobs are hard to get than anytime in the past three years. Indeed, job openings fell over the past year in all but four of the 18 industries included in this analysis. Still, Americans continue to be largely employed. The unemployment rate has remained relatively consistent in recent months, measuring at 4.1%. And across industries, employers added jobs in June, upping employment by 206,000 from the previous month. The BLS records job openings on the last business day of the month and calculates the rate as a percent of total employment plus job openings within the industry. The list below provides a snapshot of the economic activity across categories—retail, finance, construction, and more. Read on to see where job openings are shaking out. - Total job openings, June 2024: 106,000
+--- Annual change: -58,000 (down 35.4%)
+--- One-month change: -62,000 (down 36.9%)
+- Job openings rate: 3.4% - Total job openings, June 2024: 20,000
+--- Annual change: -9,000 (down 31.0%)
+--- One-month change: -6,000 (down 23.1%)
+- Job openings rate: 3.1% - Total job openings, June 2024: 295,000
+--- Annual change: -119,000 (down 28.7%)
+--- One-month change: -71,000 (down 19.4%)
+- Job openings rate: 3.5% - Total job openings, June 2024: 549,000
+--- Annual change: -159,000 (down 22.5%)
+--- One-month change: +43,000 (up 8.5%)
+- Job openings rate: 3.4% - Total job openings, June 2024: 164,000
+--- Annual change: -44,000 (down 21.2%)
+--- One-month change: -11,000 (down 6.3%)
+- Job openings rate: 3.3% - Total job openings, June 2024: 112,000
+--- Annual change: -30,000 (down 21.1%)
+--- One-month change: -25,000 (down 18.2%)
+- Job openings rate: 3.6% - Total job openings, June 2024: 245,000
+--- Annual change: -54,000 (down 18.1%)
+--- One-month change: +47,000 (up 23.7%)
+- Job openings rate: 3.8% - Total job openings, June 2024: 866,000
+--- Annual change: -172,000 (down 16.6%)
+--- One-month change: +120,000 (up 16.1%)
+- Job openings rate: 5.7% - Total job openings, June 2024: 323,000
+--- Annual change: -47,000 (down 12.7%)
+--- One-month change: -88,000 (down 21.4%)
+- Job openings rate: 3.8% - Total job openings, June 2024: 111,000
+--- Annual change: -12,000 (down 9.8%)
+--- One-month change: -10,000 (down 8.3%)
+- Job openings rate: 4.3% - Total job openings, June 2024: 1.6 million
+--- Annual change: -137,000 (down 7.8%)
+--- One-month change: -62,000 (down 3.7%)
+- Job openings rate: 6.7% - Total job openings, June 2024: 406,000
+--- Annual change: -31,000 (down 7.1%)
+--- One-month change: +62,000 (up 18.0%)
+- Job openings rate: 5.3% - Total job openings, June 2024: 1.5 million
+--- Annual change: -43,000 (down 2.8%)
+--- One-month change: -27,000 (down 1.8%)
+- Job openings rate: 6.1% - Total job openings, June 2024: 308,000
+--- Annual change: -4,000 (down 1.3%)
+--- One-month change: -39,000 (down 11.2%)
+- Job openings rate: 4.4% - Total job openings, June 2024: 164,000
+--- Annual change: +4,000 (up 2.5%)
+--- One-month change: -24,000 (down 12.8%)
+- Job openings rate: 4.1% - Total job openings, June 2024: 139,000
+--- Annual change: +5,000 (up 3.7%)
+--- One-month change: -14,000 (down 9.2%)
+- Job openings rate: 4.9% - Total job openings, June 2024: 290,000
+--- Annual change: +14,000 (up 5.1%)
+--- One-month change: +24,000 (up 9.0%)
+- Job openings rate: 2.6% - Total job openings, June 2024: 698,000
+--- Annual change: +34,000 (up 5.1%)
+--- One-month change: +94,000 (up 15.6%)
+- Job openings rate: 6.8% 
+Stacker believes in making the world’s data more accessible through
+storytelling. To that end, most Stacker stories are freely available to
+republish under a Creative Commons License, and we encourage you to
+share our stories with your audience. There are a few guidelines and
+restrictions, which you can review below.
+ 
+To publish, simply grab the HTML code or text to the left and paste into
+your CMS. In doing so, you’re agreeing to the below guidelines.
+ 
+Stacker distribution partners receive a license to all Stacker stories,
+as well as image rights, data visualizations, forward planning tools,
+and more. If your organization is interested in becoming a Stacker
+distribution partner, email us at
+[email protected].
+ © Stacker 2024. All rights reserved.

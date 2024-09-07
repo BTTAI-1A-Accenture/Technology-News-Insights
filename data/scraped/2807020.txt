@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.wyomingnews.com/news/local_news/lawmakers-look-to-boost-wyomings-rare-earths-industry/article_21d834f6-b243-11ed-a4ef-8be407d06408.html

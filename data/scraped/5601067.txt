@@ -1,0 +1,48 @@
+Mostly law professors | Sometimes contrarian | Often libertarian | Always independent 
+
+Stewart Baker
+
+|
+11.28.2022 6:07 PM
+ We spend much of this episode of the Cyberlaw Podcast talking about toxified tech – new technology that is being demonized by the press and others. Exhibit One, of course, is "spyware," i.e., hacking tools that allow governments to access phones or computers otherwise closed to them. The Washington Post and the New York Times have led a campaign to turn NSO's Pegasus tool for hacking phones into a radioactive product. Jim Dempsey, though, reminds us that not too long ago, in defending end-to-end encryption, tech policy advocates insisted that the government did not need to mandate access to encrypted phones because they could just hack them instead. David Kris joins in, pointing out that, used with a warrant, there's nothing uniquely dangerous about hacking tools of this kind. I offer an explanation for why the public policy community and its Silicon Valley funders have changed their tune on the issue: Having won the end-to-end encryption debate, they feel free to move on to the next anti-law-enforcement campaign. That campaign includes private lawsuits against NSO by companies like WhatsApp, whose case was briefly delayed by NSO's claim of sovereign immunity on behalf of the (unnamed) countries it builds its products for. That claim made it to the Supreme Court, David reports, where the U.S. government recently filed a devastating brief that will almost certainly send NSO back to court without any sovereign immunity protection. Meanwhile, in France, Amesys and its executives are being prosecuted for facilitating the torture of Libyan citizens at the hands of the Muammar Qaddafi regime. Amesys evidently sold an earlier and less completely toxified technology – packet inspection tools – to Libya which is alleged to have tracked down dissidents with it. The criminal case is pending. And in the U.S., a plethora of tech toxification campaigns are under way, all aimed at Chinese products. This week, Jim notes, the Federal Communications Commission came to the end of a long road that began with jawboning in the 2000s and culminated in a flat ban on installing Chinese telecom gear in U.S. networks. On deck for toxification are DJI's drones, which several Senators see as a comparable national security threat that should be handled with a similar ban. Maury Shenk tells us that the British government is taking the first steps on a similar path, this time starting with a ban on some government uses of Chinese surveillance camera systems. Those measures do not always work, Maury tells us, pointing to a story that hints at trouble ahead for U.S. efforts to decouple Chinese from American artificial intelligence research and development. Maury and I take a moment to debunk efforts to persuade readers that Artificial Intelligence (AI) is toxic because Silicon Valley will use it to take our jobs. AI code writing is not likely to graduate from facilitating coding any time soon, we agree. Whether AI can do more in replacing Human Resources (HR) staff may be limited by a different toxification campaign – the largely phony claim that AI is full of bias. Amazon's effort to use AI in HR, I predict, will be sabotaged by this claim, as its effort to avoid charges of bias will almost certainly lead the company's HR department to build race and gender quotas into its AI engine. And in a few quick hits: Download the 432nd Episode (mp3) You can subscribe to The Cyberlaw Podcast using iTunes, Google Play, Spotify, Pocket Casts, or our RSS feed. As always, The Cyberlaw Podcast is open to feedback. Be sure to engage with @stewartbaker on Twitter. Send your questions, comments, and suggestions for topics or interviewees to CyberlawPodcast@steptoe.com. Remember: If your suggested guest appears on the show, we will send you a highly coveted Cyberlaw Podcast mug! The views expressed in this podcast are those of the speakers and do not reflect the opinions of their institutions, clients, friends, families, or pets To get the Volokh Conspiracy Daily e-mail, please sign up here.  Δ 
+NEXT: Nationalism, not Hostility Towards Elites, is the Main Divide Between Libertarians and the "New Right"
+ Stewart Baker practices law in Washington DC. 
+ Show Comments (10)
+ 
+
+Jacob Sullum
+
+|
+8.19.2024 3:40 PM
+ 
+
+Matt Welch
+
+|
+8.19.2024 12:12 PM
+ 
+
+Elizabeth Nolan Brown
+
+|
+8.19.2024 11:56 AM
+ 
+
+Liz Wolfe
+
+|
+8.19.2024 9:30 AM
+ 
+
+J.D. Tuccille
+
+|
+8.19.2024 7:00 AM
+ 
+© 2024 Reason Foundation |
+Accessibility |
+Privacy Policy |
+Terms Of Use
+ This site is protected by reCAPTCHA and the Google Privacy
+                        Policy and Terms of
+                        Service apply. And get unlimited access to everything at reason.com.

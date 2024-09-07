@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.channel3000.com/news/national-and-world-news/earth-size-exoplanet-may-be-covered-in-volcanoes/article_205c16ac-e63b-5b3c-93b0-0e4baea42b77.html

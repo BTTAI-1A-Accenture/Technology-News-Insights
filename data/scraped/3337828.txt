@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.mtdemocrat.com/opinion/dan-walters-would-wealth-taxes-bring-big-bucks-or-spur-exodus/

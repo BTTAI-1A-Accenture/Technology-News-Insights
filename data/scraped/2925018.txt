@@ -1,0 +1,21 @@
+MIPI CSI-2 TX Controller for v2.1 HEVC/AVC Single-core Video Codec IP Denali DDR PHY for TSMC MIPI D-PHY Transmitter/Receiver for DSI/CSI-2 Samsung 28nm FD-SOI SignatureIP Networks-on-Chips (NoCs) to Accelerate RISC-V Designs SEALSQ Introduces QS7001, a Newly Developed Cutting-Edge RISC-V Secure Hardware Platform, Specifically Designed for IoT security in the Post-Quantum Era Xiphera's xQlave® Product Family Enables Full Compliance with Finalised NIST PQC Standards Ensure Cybersecurity in the Connected Vehicles Era With ISO/SAE 21434 Key considerations and challenges when choosing LDOs BCD Technology: A Unified Approach to Analog, Digital, and Power Design PCIe Over Optical: Transforming High-Speed Data Transmission Pipelined Data Masters in D-Series GPUs RISC-V for the Datacenter: Introducing the P870-D Industry's Broadest IP Portfolio on TSMC N3E Yields Exceptional Power, Performance and Area for AI, Mobile and HPC  SUNNYVALE, Calif., July 20, 2023  -- Synopsys, Inc. (Nasdaq: SNPS) technology is unleashing a new wave of advanced designs with the industry's broadest portfolio of interface IP for the TSMC N3E process. Silicon success of Synopsys IP across multiple product lines, including the most widely used protocols, delivers leading power, performance, area (PPA) and latency. Synopsys' IP for the TSMC N3E node offers a fast path to TSMC N3P integration and enables chip designers to accelerate development of their AI, high-performance computing (HPC) and mobile designs. "Synopsys provides a broad portfolio of high-quality IP that helps designers achieve their design goals and quickly integrate the necessary IP into their designs with less risk," said John Koeter, senior vice president of marketing and strategy for IP at Synopsys. "Synopsys IP for TSMC's 3nm process has been adopted by dozens of leading companies to accelerate their development time, quickly achieve silicon success and speed their time to market." "Our longstanding collaboration with Synopsys enables our mutual customers to benefit from a broad portfolio of IP that has been proven on TSMC's advanced process technologies," said Dan Kochpatcharin, head of the Design Infrastructure Management Division at TSMC. "The silicon success of Synopsys IP on TSMC's N3E process underscores our collective efforts to help designers address the stringent PPA and latency requirements of their SoC designs and accelerate silicon innovation for the next-generation AI, HPC and mobile applications." Additional Resources About Synopsys Synopsys, Inc. (Nasdaq: SNPS) is the Silicon to Software™ partner for innovative companies developing the electronic products and software applications we rely on every day. As an S&P 500 company, Synopsys has a long history of being a global leader in electronic design automation (EDA) and semiconductor IP and offers the industry's broadest portfolio of application security testing tools and services. Whether you're a system-on-chip (SoC) designer creating advanced semiconductors, or a software developer writing more secure, high-quality code, Synopsys has the solutions needed to deliver innovative products. Learn more at www.synopsys.com. 
+
+Your Name:
+
+Your E-mail
+			address:
+
+Your Company
+			address:
+
+Your Phone Number:
+
+Write your message:
+
+
+
+
+ © 2024 Design And Reuse All Rights Reserved. No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used without the express written permission of Design And Reuse. 
+
+ Suppliers, list
+	your IPs for free.

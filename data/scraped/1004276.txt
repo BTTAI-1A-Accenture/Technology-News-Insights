@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/tech-layoffs-may-be-continuing-but-these-skills-are-still-in-high-demand-11675283366

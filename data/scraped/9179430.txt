@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://trib.com/lifestyles/technology/google-has-the-next-move-as-microsoft-embraces-openai-buzz/article_efbf6dbf-7f09-5101-bd1b-e7d3056ad412.html

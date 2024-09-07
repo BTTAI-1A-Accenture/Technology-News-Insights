@@ -1,0 +1,1 @@
+HTTPConnectionPool(host='markets.buffalonews.com', port=80): Max retries exceeded with url: /buffnews/article/accwirecq-2023-5-23-skyx-set-to-join-russell-2000r-and-russell-3000r-indexes (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x79da93d88a60>: Failed to resolve 'markets.buffalonews.com' ([Errno -2] Name or service not known)"))

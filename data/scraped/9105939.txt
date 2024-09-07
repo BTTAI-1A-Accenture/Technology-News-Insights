@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://tulsaworld.com/news/local/govt-and-politics/measure-designed-to-spark-major-new-employment-center-called-historic-for-tulsa/article_19e4205a-7a50-11ed-80da-437a2dac56c9.html

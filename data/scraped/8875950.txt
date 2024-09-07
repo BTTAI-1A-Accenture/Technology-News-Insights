@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thestar.com/business/2022/12/13/incredible-challenges-shopify-president-talks-pandemic-stock-plunge-and-layoffs.html

@@ -1,0 +1,66 @@
+Advanced Search News After wowing the world way back in 2011 by defeating humans at the TV game show "Jeopardy!" with early-stage AI tech, IBM's Watson is making a bit of a comeback. 
+  Cloud platform rankings typically start with the "Big 3" of AWS, Azure and Google Cloud and then usually toss in Oracle or -- more recently -- Alibaba for fourth place.
+
+ 
+  When it comes to cloud-based artificial intelligence (AI) services, however, IBM shows up strong -- sometimes even crashing the "Big 3" party and usurping one of the perennially leading cloud giants.
+
+ 
+  The company's early AI tech was exemplified in the Watson supercomputer back in 2010, which soon became famous for excelling at the TV quiz game show "Jeopardy!" by beating human champions. Since then, while other offerings have come and gone, Watson is still the company's AI brand name.
+
+ 
+  Once one of the most powerful corporations on the planet, IBM -- previously known as "Big Blue" for its industry dominance -- famously made a huge business decision in 2020 to go all in on hybrid cloud computing and AI while spinning off its huge managed infrastructure services component.
+
+ 
+  Noting at the time that its recent acquisition of Red Hat bolstered its hybrid cloud platform, IBM said, "This platform facilitates the deployment of powerful AI capabilities to enable the power of data, application modernization services, and systems."
+
+ 
+  After the big business decision, IBM moved from a "Niche Player" in cloud AI "Magic Quadrant" rankings from research firm Gartner to become firmly ensconced as a "Leader" in all reports since 2020 (along with the Big 3).
+
+ 
+  "IBM's language services are especially strong," Gartner said in the 2022 report. "Developers can integrate IBM Watson Assistant, Watson Natural Language Understanding and Watson Discovery to streamline discovery and creation of intents and entities. This can facilitate creation of custom virtual agents. IBM's vision services are also highly competitive, especially its video content analysis capabilities. Additionally, IBM's ML services perform well and have strong bias detection capabilities."
+
+ 
+  In another Gartner report series, focused on cloud AI developer services, IBM vaulted ahead of the Big 3 on the "Completeness of Vision" axis from 2020 to 2021:
+
+ 
+  IBM's ascension in Gartner's reports (the 2022 graphic above is basically the same as 2020 and 2021) is also reflected in other industry rankings.
+
+ 
+  For example, a 2022 ranking from Venture Beat places IBM at No. 4, ahead of Oracle and Alibaba. "The IBM Watson Studio provides a range of AI and ML services," said the media outlet, which partly based its report on Gartner's research. "It runs on the IBM Cloud Pak for Data, which is a cloud-native AI and data platform, as well as in SaaS and on-premises configurations. As part of the company's strategic emphasis on hybrid cloud and AI capabilities, IBM supports higher level consulting and integration services, traditional data science and developer users, and, with Watson Orchestrate, non-technical business users."
+
+ 
+  Another 2022 ranking, this one from AI Magazine, actually places IBM at No. 3, behind AWS and Google but ahead of Azure. "With a number of cloud and AI acquisitions under its belt, IBM has a whole host of AI offerings available," that report said. "In fact, under the Watson brand for AI services, IBM has no less than 16 services, and its Cloud AI services start with Watson Studio for building and training AI models, preparing data, and performing analysis on the data. IBM Watson Services for Core ML allows enterprises to build AI-powered apps that securely connect to their data and run either on-premises, offline or in the cloud."
+
+ 
+  That same ordering -- IBM usurping Azure for third place -- is found in a 2022 article from Datamation. "IBM has been a leader in the field of artificial intelligence since the 1950s," the article stated. "Its efforts in recent years center around IBM Watson, an AI-based cognitive service, AI software as a service, and scale-out systems designed for delivering cloud-based analytics and AI services. It has been acquisitive, purchasing several startups over several years. It benefits from having a strong cloud platform."
+
+ 
+  That ordering is changed up a bit in a 2022 article published by Analytics Insight, which adds Tensor Flow to the mix, resulting in the order 1: AWS, 2: Google Cloud, 3: Tensor Flow, 4: IBM, 5: Azure.
+
+ 
+  "Watson Studio provides solutions at all stages of deploying and handling machine learning models by defining project goals, data preparation, choosing the right tools, model training, and deployment," that article said. "The best feature of IBM is it learns a lot from small data. The IBM Watson platform allows businesses and organizations to automate complex machine learning processes, predict future outcomes, and optimize their employees' time. From IBM data scientists and analysts get access to a world-class collection of tools to manage the flowing data, numerous projects, deep learning integration, visual recognition, natural language processing, model lifecycle automation."
+
+ 
+  A 2021 ranking on LinkedIn from a Deloitte Central Europe exec places IBM Watson Studio among the top five cloud AI vendors, with "Open Source DIY" joining Big Blue and the Big 3 (see graphic above). It lists the product's attributes as:
+
+ 
+  A 2022 article on PyCodeMates.com actually starts out with IBM Cloud, though there is no numbered ranking. 
+
+ 
+  "IBM Cloud is one of the most popular cloud computing platforms in use today," it stated. "It offers a wide range of services, including analytics, security, IoT, mobile, Watson (AI), blockchain, and more. Developers can build apps with a variety of languages on IBM Cloud's PaaS (Platform as a Service) platform or its SaaS (Software as a Service) platform. In addition, IBM Cloud also offers private cloud solutions for enterprise customers who want to keep their data on-premises."
+
+ 
+  The article listed services provided by IBM Cloud for AI and ML as:
+
+ 
+  A 2021 comparison on the site of AltexSoft examined machine learning as-a-service offerings, placing IBM just behind the Big 3, though an accompanying graphic (see below) shows fewer features for IBM Watson Machine Learning.
+
+ 
+  Judging from all of the above, it's safe to say that Big Blue -- which made an AI name for itself way back in 2011 with its Watson analytics supercomputer that won the TV game show "Jeopardy!" -- has made a bit of a comeback since its fateful 2020 business decision, at least in the cloud AI space. Amazingly for such a fast-growing and ever-changing tech segment, more than a decade later, Watson is still going strong.
+
+ About the Author 
+
+                    David Ramel is an editor and writer for Converge360.
+                    
+
+ Subscribe on YouTube More Tech Library More Webcasts Problems? Questions? Feedback? E-mail us.

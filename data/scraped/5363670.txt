@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='en.mehrnews.com', port=443): Max retries exceeded with url: /news/197939/Introduction-of-advantages-of-Bimeh-com-products-and-services (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da93bccdc0>, 'Connection to en.mehrnews.com timed out. (connect timeout=5)'))

@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://cryptonews.com/news/microsoft-plans-expand-support-for-crypto-wallets-across-next-generation-of-hardware-products-documents-suggest.htm

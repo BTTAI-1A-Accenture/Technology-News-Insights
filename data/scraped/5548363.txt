@@ -1,0 +1,38 @@
+
+The integration between the two companies includes enhanced features for Microsoft 365 and Microsoft Teams
+ MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Egnyte, the secure platform for content collaboration and governance, today announced an enhanced relationship with Microsoft that provides customers with additional real-time document collaboration and sharing features through Microsoft 365 and a Microsoft Teams integration that makes it easy for customers to share and upload files directly within Teams while also providing the ability to upload directly into Egnyte.
+
+  
+Today companies must provide employees with great collaboration and productivity tools so that hybrid and remote work models can succeed. Egnyte is helping to increase overall productivity and collaboration by helping their customers work where they are most comfortable with the tools they use. Both the real-time document collaboration feature and Teams integration offer significant value to organizations looking to provide flexibility to their hybrid and modern workforces by giving them a smoother workflow for collaborating and sharing files without leaving the application in which they are working.
+
+ 
+“Since Egnyte’s inception, we’ve provided customers ways to work smarter and more efficiently with the tools they are most accustomed to,” said Rajesh Ram, Co-Founder and Chief Growth Officer at Egnyte. “Egnyte’s relationship with Microsoft allows us to bring our customers more flexibility for today’s hybrid work environment while simultaneously saving their real-time work in the Egnyte domain.”
+
+ 
+As part of Microsoft’s Cloud Storage Partner Program Plus (CSPP+), Egnyte supports customers with the ability to co-edit documents in real time. An enhancement to the existing Egnyte integration into Microsoft 365, co-editing enables users on the same Egnyte account to collaborate in real-time on Microsoft Word, Excel, or PowerPoint documents, whether they are in Office desktop or web.
+
+ 
+Customers now have the ability to default to Egnyte as their file storage location for all of their files uploaded and shared in the Teams app. The integration with Teams provides quick and seamless features to search, browse, upload, and share files, so it’s easy for customers to collaborate where they are most comfortable.
+
+ 
+“It is important that our customers can collaborate in ways that are most convenient for them,” said Boris Feldman, Principal Program Manager at Microsoft. “The Cloud Storage Partner Program gives partners, like Egnyte, the ability to build integrations with our solutions. With users now having another option to collaborate on documents, whether they are stored in Microsoft or Egnyte, we are delivering a solution that works for evolving customer needs.”
+
+ 
+The Microsoft co-editing capability for Microsoft 365 desktop applications is generally available and being rolled out to all Egnyte customer domains, including newly signed contracts. The Teams integration is now in limited availability, with general availability coming soon.
+
+ 
+To learn more about any of the new Microsoft integration capabilities, contact the Egnyte team at egnyte.com.
+
+ 
+About Egnyte
+ 
+Egnyte is the secure multi-cloud platform for content security and governance that enables organizations to better protect and collaborate on their most valuable content. Established in 2008, Egnyte has democratized cloud content security for more than 17,000 organizations, helping customers improve data security, maintain compliance, prevent and detect ransomware threats, and boost employee productivity on any app, any cloud, anywhere. For more information, visit www.egnyte.com.
+
+ 
+egnyte-pr@walkersands.com 
+617-960-9873
+
+ 
+egnyte-pr@walkersands.com 
+617-960-9873
+

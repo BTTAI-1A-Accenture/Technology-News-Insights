@@ -1,0 +1,106 @@
+With the addition of Sophos as a Niche Player and report mainstays such as Cisco Systems, HPE Aruba and Versa Networks holding down the Leader quadrant, here’s who made the cut for this year’s Magic Quadrant for SD-WAN. 
+
+
+
+
+
+
+ The SD-WAN market is evolving and has seen its fair share of consolidation in recent years, but there are still big differences between the vendors in this market. For the first four years of this Gartner report, it went by the name Magic Quadrant for WAN Edge Infrastructure. Last year, however, the name was simplified to the Magic Quadrant for SD-WAN. Research firm Gartner says that by 2026, a whopping 60 percent of new SD-WAN purchases will be part of a single-vendor secure access service edge (SASE) offering, up from 15 percent in 2022. By 2026, generative AI technology embedded in SD-WAN offerings will be used for 20 percent of initial network configuration, up from near zero in 2023, demonstrating that the market is still evolving at a rapid pace. This year’s report featured 14 players, including report mainstays and networking leaders Cisco Systems and HPE Aruba, security powerhouses Fortinet and Palo Alto Networks, and Versa Networks, a company that continues to stand on its own in the SD-WAN market. The report this year included one newcomer, Sophos, which Gartner said was added to the report because it met the report’s inclusion criteria. Dropped from this year’s report was Citrix, which publicly announced its intention to exit the SD-WAN market in late 2022. The 2023 report saw a developing, mainstream SD-WAN market complete with both large, established vendors and smaller, niche providers. Here’s who made the 2023 Gartner Magic Quadrant for SD-WAN. 
+
+
+
+
+
+
+ Leader: Cisco For the fifth year in a row, Cisco found itself in the Leader quadrant in this years’ report with its Cisco Catalyst SD-WAN, formerly Viptela, and its Cisco Meraki SD-WAN offerings. Gartner estimates that Cisco has approximately 46,000 SD-WAN enterprise customers and operates globally, serving clients of all sizes and verticals. Strengths: Gartner said that Cisco has strong SD-WAN market awareness and a strong go-to-market motion. The tech giant’s product strategy is also aligned with the current and future needs of enterprise SD-WAN customers in terms of AI networking, integrated security, scalability and cloud onramp. Weaknesses: Gartner listed as potential cautions its two separate offerings that currently have different management platforms, which could increase the likelihood of an improper product choice. Compared to other companies in this years’ report, Cisco’s customer experience is below average, which Gartner said is based on client interactions the research firm had. 
+
+
+
+
+
+
+ Leader: Fortinet A leader in this year’s Magic Quadrant once again, Fortinet’s FortiGate Secure SD-WAN product includes FortiGate appliances and virtual appliances with on-premises security software licenses managed with the FortiManager Orchestrator. Gartner estimates that Fortinet has approximately 31,000 SD-WAN enterprise customers and it operates globally, addressing customers across most verticals and company sizes. Strengths: A cybersecurity leader, Fortinet appropriately offers a strong set of features centered on integrated security with its SD-WAN offering. The company is planning to embed generative AI into its offerings and is planning for an “as a service” consumption model that Gartner says could deliver “game-changing” capabilities to the market. Weaknesses: Gartner said that some large global clients have expressed concerns about Fortinet’s ability to meet the requirements of complex enterprise networking configurations and architectures. Similar to Cisco, Gartner said that according to its client interactions, Fortinet’s customer experience is below average. 
+
+
+
+
+
+
+ Leader: HPE Aruba HPE Aruba’s 2020 purchase of Silver Peak boosted the company into the Leader’s quadrant. The company’s SD-WAN offerings include Aruba EdgeConnect SD-WAN (with optional WAN optimization) and Aruba EdgeConnect SD-Branch, which include physical and virtual appliances, and software licenses with management and orchestration. Both products are managed through the Aruba Central platform. Gartner estimates that HPE Aruba has approximately 5,000 SD-WAN global enterprise customers. Strengths: HPE Aruba has an above-average product when compared with other vendors in this research, based on its performance optimization and cloud onramp and operational capabilities, according to Gartner. Unlike some of its competitors in the same quadrant, HPE Aruba’s customer experience is high, based primarily on Gartner client interactions and Gartner Peer Insights data. Weaknesses: Gartner warned that the company has multiple products that service different use cases, which could result in customer or prospect confusion. HPE Aruba’s geographic strategy also lacks details, Gartner said. 
+
+
+
+
+
+
+ Leader: Palo Alto Networks For the third time in a row, Palo Alto Networks is a Leader in this Magic Quadrant with its Prisma SD-WAN, which includes Instant-On Network (ION) edge appliances and orchestration. It also offers the PAN-OS branch firewall with limited SD-WAN capabilities as an upgrade option for existing NGFW customers. Gartner estimates the vendor has approximately 3,500 SD-WAN global enterprise customers. Strengths: The company’s recent and planned innovations in AIOps, visibility and granular policy control are promising, according to Gartner. Palo Alto Networks also has above-average customer experience based on Gartner interactions and Gartner Peer Insights data. Weaknesses: Palo Alto Networks has limited performance optimization, including TCP protocol optimization, FEC, packet duplication and broader WAN optimization capabilities. Gartner also said that the company has high SD-WAN pricing. 
+
+
+
+
+
+
+ Leader: Versa Networks One of the few standalone SD-WAN players still in the market, this Leader quadrant mainstay and Visionary before that comes to the market with two offerings: Secure SD-WAN, Versa’s primary offering, and Versa Titan, built on the same platform as Secure SD-WAN and delivered as a cloud-based offering. Both include Cloud Services Gateway appliances or virtual appliances, software licenses, and orchestration. Gartner estimates that Versa Networks has approximately 24,000 global SD-WAN enterprise customers. Strengths: Versa Networks offers a fully capable SD-WAN offering with strong routing and application steering, security, cloud onramp, and deployment flexibility functions. The company also has a strong roadmap of planned product capabilities including AI networking, observability and multi-cloud support. Weaknesses: The company’s two products with different capabilities opens the door to the risk of choosing the wrong product based on customer requirements, Gartner said. Versa Networks also has higher pricing for its Secure SD-WAN offering. 
+
+
+
+
+
+
+ Leader: VMWare A Leader for all six years of the report, the company offers VMware SD-WAN, which includes Edge appliances, optional gateway points of presence (POPs), software licenses and a cloud-based orchestrator. Gartner estimates that VMware has approximately 18,000 global SD-WAN enterprise customers. Gartner warned that since Broadcom is acquiring VMware in a $61 billion deal, things could change for the vendor moving forward in the SD-WAN space. Strengths: Gartner flagged VMware’s strong roadmap of planned product capabilities, including cloud transport and AI functionality. VMware also has strong customer experience, the research firm said. Weaknesses: VMware lags behind other vendors in the report for things like integrated security features natively available in its on-premises appliances. The vendor also lacks a native SD-branch offering integrating WLAN, LAN, network security and SD-WAN into a single platform, according to Gartner. 
+
+
+
+
+
+
+ Challenger: Huawei The only Challenger in this year’s report, yet again, the company comes to the market with its Huawei SD-WAN offering, which includes the NetEngine AR series physical and virtual routers and software licenses, as well as the iMaster NCE-Campus controller. The vendor also offers HiSecEngine USG security gateways that address some SD-WAN use cases where strong security is required. Gartner estimates that Huawei has approximately 35,000 SD-WAN enterprise customers. Strengths: Huawei’s product strategy is aligned with the current and future needs of enterprise SD-WAN customers, including integrated security, scalability, small platform flexibility and deployment flexibility. The company also has above-average customer experience, based on Gartner interactions. Weaknesses: Huawei doesn’t support customers in the U.S., Canada, U.K., Australia and India markets due to geopolitical issues, which means the company has limited market awareness outside the Asia/Pacific region. Huawei has lower expected investment growth in the SD-WAN market compared with other vendors in this report, according to Gartner. 
+
+
+
+
+
+
+ Niche Player: Barracuda A Niche Player in this year’s Magic Quadrant once again, Barracuda has two SD-WAN products, CloudGen Firewall and SecureEdge, with hardware appliances and software with orchestration and management. CloudGen Firewall has been its traditional offering, with SecureEdge a newer solution that supports the transition to a SASE offering. Gartner estimates that Barracuda has approximately 1,500 enterprise SD-WAN customers and operates mainly in North America and Europe, the Middle East and Africa (EMEA). Strengths: Barracuda has strong, integrated on-premises security within its SD-WAN offering and a strong midmarket focus, Gartner said. The company also offers competitive pricing. Weaknesses: Barracuda has limited SD-WAN market visibility among customers and prospects based on end-user Gartner interactions. Gartner said that due to limited financial information available about the company, there is uncertainty over its long-term viability in this market. 
+
+
+
+
+
+
+ Niche Player: Cradlepoint A Niche Player once again, the Boise, Idaho-based company has deep knowledge of the wireless networking, 4G and 5G markets and offers Cradlepoint NetCloud Service, E Series SD-WAN routers and the NetCloud Exchange Service Gateway, as well as licensed software. Gartner estimates that Cradlepoint has approximately 3,500 enterprise SD-WAN customers and operations primarily in North America, Europe and the Asia/Pacific region. Strengths: Gartner said that Cradlepoint has a strong focus on traditional cellular wireless verticals with mobile and backup use cases in retail, transportation and public safety. It also has a very focused sales strategy and is reaching organizations that are consistent with its target market, which will improve its chances to grow. Weaknesses: Gartner warns that Cradlepoint’s product has limited appeal for enterprise buyers that are not interested in a wireless WAN offering. The company also has low SD-WAN market share and narrow channels. 
+
+
+
+
+
+
+ Niche Player: Forcepoint Forcepoint, a niche player once again in its second year on the report, offers the FlexEdge Secure SD-WAN physical or virtual appliance with FlexEdge Secure SD-WAN Manager and integrated next-generation firewall (NGFW). Gartner estimates that Forcepoint has approximately 3,500 SD-WAN enterprise customers and it operates globally, with a strong presence in Europe, focusing on the retail, government and financial verticals. Strengths: Forcepoint has a broad set of integrated on-premises security capabilities with its SD-WAN solution and the company has existing security customers that are targets for upgrading to SD-WAN, Gartner said. Weaknesses: Forcepoint has low SD-WAN market visibility. The company’s product has limited performance optimization and cloud onramp features, which limits its ability to address enterprise use cases beyond security, Gartner said. 
+
+
+
+
+
+
+ Niche Player: Nuage Networks Sitting squarely in the Niche Player quadrant once again is Nuage Networks, which is owned by Nokia. The company’s offering includes its Virtualized Services Platform (VSP), which is typically deployed as a cloud-managed service (Nuage Cloud Managed SD-WAN service) but can also be deployed on-premises (Nuage Managed SD-WAN Service). It includes Network Services Gateways (NSG) with corresponding software. Gartner estimates that Nuage Networks has approximately 3,500 SD-WAN enterprise customers and operates globally, primarily through carrier channels. Strengths: The vendor has solid third-party SSE integrations compared with other vendors in this year’s report, which supports dual-vendor SASE architectures. Nuage Networks has above-average customer experience, according to Gartner. Weaknesses: Nuage Networks has low market visibility among enterprises. The company also has a below-average product compared with other vendors in this report, based on limited performance optimization, routing and application steering, as well as cloud onramp capabilities, Gartner said. 
+
+
+
+
+
+
+ Niche Player: Peplink Peplink, a small, Hong Kong-based vendor that caters to SMBs, once again finds itself in the Niche Player quadrant with its two offerings: Balance for enterprise branch SD-WAN, and MAX for industry and mobility SD-WAN requirements. Both offerings include SpeedFusion software technology and InControl 2 orchestration for management. Gartner estimates Peplink has approximately 6,000 SD-WAN enterprise customers and operates globally. Strengths: Peplink has a focused marketing strategy that targets wireless WAN use cases for enterprise customers. The company also has strong viability, with a likelihood to invest going forward, according to Gartner. Weaknesses: Peplink’s product and product strategy are not aligned with current and future enterprise buyer requirements that don’t require a wireless WAN offering. Additionally, the company has limited SD-WAN market share and limited direct sales resources, Gartner warned. 
+
+
+
+
+
+
+ Niche Player: Sophos In its Magic Quadrant debut, Sophos finds itself in the Niche Player quadrant thanks to Sophos Firewall, the company’s offering that integrates both SD-WAN and NGFW capabilities on a single XGS Series appliance as part of an orchestrated offering. Gartner estimates that the vendor has approximately 18,000 SD-WAN enterprise customers and operates globally, focusing primarily on smaller and midmarket organizations with security-first use cases. Strengths: Sophos has a strong on-premises security capability integrated with its SD-WAN offering that simplifies consumption for smaller organizations. The company also offers competitive SD-WAN pricing, Gartner said. Weaknesses: Gartner warned that Sophos has limited SD-WAN market visibility with enterprise customers. Its product also lacks functionality, including limited third-party SSE integrations, cloud onramp and operational features. 
+
+
+
+
+
+
+ Visionary: Juniper Networks Singularly holding down the Visionary category once again is Juniper Networks. The company offers Juniper AI-Driven SD-WAN, which includes the Session Smart Router, Session Smart Networking software, WAN Assurance and Marvis Virtual Network Assistant. It also offers the SRX Series for specific use cases. Gartner estimates Juniper has approximately 3,000 SD-WAN enterprise customers and it focuses on customers in North American, EMEA and Asia/Pacific regions. The vendor addresses companies of all sizes in most verticals. Strengths: Juniper offers a solid product roadmap that aligns with emerging SD-WAN customer requirements. Gartner also praised the company’s focus on AIOps to optimize operations and its planned innovations in AIOps functionality. Weaknesses: Juniper has narrow SD-WAN channels and limited SD-WAN market share. The company also has been slow to address certain key features in this market, such as cloud provider integrations, Gartner warned.

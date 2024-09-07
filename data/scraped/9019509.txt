@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Promo » Cybersecurity » Cyberattacks 2022: Phishing, Ransomware & Data Breach Statistics Cyberattacks aren’t something we can ignore. In the early 2000s, cybersecurity wasn’t the focus of small and midsize businesses (SMBs) since large enterprises were the primary target. However, with organizations of all shapes and sizes digitizing their operations, cyberthreats and data breaches in our interconnected world pose a significant threat, and the consequences can be catastrophic and permanent. Cybercrime has become an inescapable part of modern business. According to the AV-TEST Institute, an independent research institute for IT security from Germany, more than 450,000 new malicious programs (malware) and potentially unwanted applications (PUA) are registered daily. If there’s one thing we know about cyberattacks, they are here to stay and the risks will only get worse. Read on as we look at the flurry of sophisticated cyberattacks that rocked 2022, the industries that were hardest hit, common and notable cyberattacks, and more. For cybercriminals, 2022 was yet another eventful year, and for companies, another year of survival. The 2022 State of Cloud Security Report by Snyk found that 80% of organizations have experienced at least one severe cloud security incident in the past year. According to the IBM Cost of a Data Breach Report 2022, 83% of organizations studied suffered more than one data breach. These figures indicate that threats loom large and companies grapple with complex data protection challenges. Globally, cyberattacks rose by 38% in 2022 compared to 2021. Cybercriminals have exploited an expanded attack surface resulting from the increased adoption of cloud-based solutions and services to manage business operations. According to the 2022 Hacker-Powered Security Report, ethical hackers found over 65,000 vulnerabilities in 2022, which is 21% more compared to 2021. A majority (over 60%) of cloud security professionals surveyed in the 2022 Cloud Security Report revealed that data loss and data privacy were their biggest concerns. Stolen or compromised credentials were the leading cause behind data breaches, resulting in 19% of breaches as per IBM’s Cost of a Data Breach Report 2022. Threat actors kept cybersecurity professionals busy with persistent attacks in recent years. Last year was no different as large-scale cyberattacks targeted critical infrastructures, defense, government agencies and businesses of all sizes across different verticals. Here are the most common cyberattacks businesses witnessed in 2022. The frequency of ransomware attacks was somewhat inconsistent in 2022. While ransomware attacks increased significantly during the first six months, the attacks slowed down in Q3 and gradually declined by the end of the year. Despite the inconsistency, it is apparent from the Toyota hack and the government of Costa Rica attack how destructive ransomware attacks can be. As mentioned earlier, stolen or compromised credentials are the most common data breach causes. It takes about 243 days to identify breaches caused by stolen or compromised credentials and another 84 days to contain the breach. The H2 2022 Email Threat Report from Abnormal Security found that email attacks increased by 48% in the first half of 2022, and over 68% of those attacks contained a credential phishing link. Octa, Magento and AccessPress were some companies that fell victim to supply chain attacks in 2022. A supply chain attack is a form of cyberattack where hackers target a trusted third-party vendor, presumably the weakest link in the supply chain, who has access to an organization’s systems and data. Gartner predicted that by 2025, 45% of organizations worldwide would be impacted by software supply chain attacks. According to the Bulletproof Annual Cyber Security Industry Report 2022, about 40% of cyberthreats occur indirectly through the supply chain. According to IBM’s X-Force Threat Intelligence Index 2023, manufacturing was the most targeted industry in 2022, with 24.8% of cyberattacks targeting the manufacturing sector followed by finance and insurance (18.9%). Manufacturing holds the top spot for the most-attacked industry for the second year running. Approximately 61% of security incidents in the manufacturing sector occurred in the Asia-Pacific region. The manufacturing sector has an extremely low downtime tolerance, making it a lucrative target for ransomware and extortion. As seen in 32% of incidents, extortion was the main motive behind these attacks, followed by data theft (19%) and data leaks (16%). Among the security incidents IBM X-Force remediated, backdoor deployments were seen in 28% of incidents, surpassing ransomware, which appeared in 23% of incidents. Spear phishing attachments and exploitation of public-facing applications were the top methods used to launch attacks against the manufacturing sector. Phishing was undoubtedly the biggest cybersecurity threat in 2022. According to the APWG Phishing Activity Trends Q3 2022 report, 2022 was a record-breaking year for phishing attacks. APWG detected 64,696 unique phishing email subject lines in July, 430,141 unique phishing websites in August and 637 phishing campaigns targeted toward organizations in September 2022. The financial sector was the top target, accounting for over 23% of all phishing attacks. BEC attacks continued to be a major threat to businesses, increasing by nearly 60% in the third quarter. Phishing is today’s most persistent and damaging cyberattack for all businesses, regardless of size, sector or location. Due to its ubiquitous nature, email has become the weapon of choice for cybercriminals to launch sophisticated attacks. As a result, email is the entry point for several types of cybercrime, including ransomware, malware and BEC. An estimated 15 billion spam emails pass through the internet every day. Phishing is responsible for almost 90% of security incidents that result in a data breach. According to Spanning Tech Trends & Insights 2022 Survey Report, 53% of SMBs and 52% of MMEs considered phishing attacks the primary threat to their business. And as per the findings from Verizon’s 2022 DBIR, over 80% of data breaches involved a human element, including phishing and the use of stolen credentials. Over 80% of global businesses said they detected phishing attempts that were targeted toward their employees. The State of Phishing 2022 by messaging security provider SlashNext, found that over 255 million phishing attacks were launched in 2022, indicating a staggering 61% increase compared to 2021. The report also highlighted that some security strategies aren’t adequate to stop these threats since cybercriminals use trusted services like Microsoft, Amazon Web Services and Google, and business and personal messaging apps to launch attacks. As per the report, threat actors are shifting tactics and focusing on mobile and personal communication channels to reach their targets. Phishing attacks on mobile devices increased by 50%, with scams and credential theft being the primary objectives, according to SlashNext. According to IBM’s Cost of a Data Breach Report 2022, phishing was the costliest of all attack vectors, averaging $4.91 million in data breach costs. Phishing was one of the most common initial vectors in 2022, accounting for 16% of data breaches. Next to phishing was BEC, which resulted in 6% of breaches, costing businesses an average of $4.89 million per data breach incident. Phishing attacks, like other forms of cyberattacks, have evolved significantly in recent years. Spam filters and traditional email security solutions detect and block most spam emails. However, the level of sophistication used and the sheer volume of spam emails sent daily make preventing phishing attacks more challenging. Despite implementing cybersecurity measures, some of these emails can bypass security check gates and reach employee inboxes. Every year, devastating phishing campaigns impact countless email users and organizations across the globe. Here are some of the notable phishing attacks of 2022. In March 2022, Mailchimp, a marketing automation firm, fell victim to a cybersecurity incident. The perpetrators used social engineering to trick Mailchimp employees into giving away their credentials. Threat actors then used these credentials to access 319 customer accounts and export data from 102 accounts, which they used to launch phishing attacks. In July 2022, Allegheny Health Network became a victim of a phishing campaign. The incident led to the exposure of the personal health information (PHI) of around 8,000 patients. The attacker obtained sensitive patient information, including names, dates of birth, medical history, phone numbers, driver’s license numbers, and mailing and email addresses. In August 2022, Acorn Financial Services experienced a data breach resulting from a phishing attack. One of its employees fell victim to a phishing attack, which led to the exposure of email credentials. The hackers then used the stolen credentials to access sensitive customer data, including names, addresses, dates of birth, driver’s license numbers, financial account numbers, Social Security numbers and other account-related information. Phishing and ransomware were the leading causes of data compromises in Q1 of 2022. Although the rate of ransomware attacks dipped in 2022, the severity and implications of ransomware attacks have never been higher. It’s no surprise ransomware is among the top 10 threats that keep security professionals up at night. Ransomware attackers constantly innovate their tactics for maximum impact; however, some methods have been tested and proven to produce successful results. Recent ransomware trends show that threat actors are leaning more towards supply chain attacks, double extortion ransomware attacks and Ransomware-as-a-Service (RaaS) to disrupt business operations and extort large sums of money from victims. According to Statista, an estimated 236.1 million ransomware attacks worldwide occurred in the first half of 2022. The IBM X-Force Threat Intelligence Index 2023 found that ransomware-related security incidents have decreased from 21% in 2021 to 17% in 2022. Ransomware attacks were responsible for 20% of all cybercrimes recorded in 2022. The top 10 most-targeted sectors in Q3 2022, according to cybersecurity firm ReliaQuest, were: In 2022, the average cost of a ransomware attack, excluding the ransom itself, was $4.54 million, according to IBM’s Cost of a Data Breach report. This figure was higher for organizations that did not pay the ransom — a difference of $0.63 million, or 13.1%. For organizations that did not pay the ransom, the average breach cost was $5.12 million. For organizations that paid the ransom, the cost was $4.49 million. As per the report, the cost of ransomware breaches has reduced slightly from $4.62 million in 2021 to $4.54 million in 2022. A successful ransomware attack can cripple an organization. From social engineering to Remote Desk Protocol to pirated software, ransomware is spread in several ways and has become an inevitable menace. With ransomware attacks growing in complexity and becoming more dangerous than ever, it’s only a matter of time before an organization is hit by ransomware. Listed below are some notable ransomware events that took place in 2022. Automaker Toyota was impacted by a major supply chain attack in March 2022. A cyberattack on one of its suppliers forced Toyota to suspend the operation of 28 lines at 14 manufacturing plants in Japan. As a result of the event, the production of 13,000 vehicles was affected, reducing its monthly output by an estimated 5%. In mid-April 2022, the Conti ransomware gang attacked the Costa Rican government, impacting the entire country. The hackers blocked access to computers, disrupting several government agencies, including the Finance and Labor ministries. The devastating impacts of the attack forced the government to declare a national emergency. The perpetrators published the stolen information on the dark web as a sign of punishment for failing to pay the ransom amount of $20 million. Data is arguably the most prized commodity for an organization, and threat actors know exactly how to make the most out of it. As organizations beef up their cybersecurity efforts, cybercriminals quickly find new, innovative ways to thwart them. Significant data breach incidents wreaked havoc on businesses of all shapes and sizes in 2022. The following statistics will help you understand the data breach trends, risks, frequency and costs. According to Spanning’s Tech Trends & Insights 2022 Survey Report, 14% of SMBs and 27% of MMEs experienced a data breach incident in 2022. Of these, 60% of the attacks against SMBs and 35% against MMEs occurred during the second half of 2022. About 92% of the data breaches in Q1 of 2022 were due to cyberattacks, per The Identity Theft Resource Center (ITRC). The IBM Cost of a Data Breach report found 83% of organizations surveyed have suffered more than one data breach. Among the respondents, only 17% had suffered a data breach for the first time. About 60% of organizations that suffered a breach revealed they increased the price of the products or services as a result of the breach. Supply chain attacks were responsible for 19% of data breaches in 2022, while human error — carelessness of employees or contractors — was responsible for 21% of breaches. The average total cost of a data breach increased from $4.24 million in 2021 to $4.35 million in 2022, indicating a 2.6% rise, per IBM’s report. The average data breach cost for organizations with critical infrastructure, such as financial services, industrial, technology, energy, communication, healthcare and education, was $4.82 million — $1 million more compared to organizations in other sectors. The data breach costs in the healthcare industry increased by nearly $1 million to reach a new high of $10.10 million in 2022. As per the report, the healthcare industry has had the highest average cost of a breach for 12 consecutive years. Next to healthcare were financial organizations, with an average breach cost of $5.97 million. The average cost of public cloud data breaches was $5.02 million, whereas breaches within a private cloud cost an average 4.24 million. As seen in the IBM report, the cost of a data breach reached an all-time high in 2022. Most organizations (83%) in the study said they suffered multiple data breach incidents, leading to increased costs of products and services. Organizations took, on average, 277 days to identify and contain a data breach. With no signs of slowing down, cyberattacks and data breaches remain a growing concern for organizations and government agencies. Here are some high-profile data breach incidents of 2022. In July 2022, a hacker, also known as the devil, exploited a zero-day vulnerability in Twitter’s systems and gained access to the usernames, phone numbers and email addresses of over 5 million Twitter accounts. The hacker put the stolen data for sale for $30,000 on an online hacking forum site BreachForums. This data breach incident is interesting since Uber was lucky to get away without significant financial or data losses. Despite gaining access to Uber’s corporate VPN, services and internal tools, including DUO, VMware, SentinelOne, Amazon Web Services, Slack workspace, Google Drive and HackerOne admin console, there was no evidence of data leakage or ransom demand from the 18-year-old hacker. It is believed the teenager had no intention of causing harm but rather did it out of curiosity or to gain respect from the hacker community. According to the 2022 Official Cybercrime Report by Cybersecurity Ventures, the global annual cost of cybercrime is expected to reach $8 trillion in 2023. Cyberattacks and data breaches are only worsening, and remediation costs are increasing significantly. The cybersecurity statistics discussed in this article illustrate the importance of implementing strong cybersecurity measures, including a robust data backup and recovery solution for your business. Protect your organization’s mission-critical data from cyberattacks and other threats with Spanning. Spanning Backup protects your SaaS data from hackers, phishing, malware and ransomware, malicious insiders, human error, illegitimate deletion and programmatic errors. It’s the industry’s only enterprise-class, end-to-end data protection solution for Google Workspace and Microsoft 365 with advanced capabilities to help prevent, anticipate and mitigate account compromise and data loss. Learn more about the powerful features of Spanning Backup. *** This is a Security Bloggers Network syndicated blog from Spanning authored by Spanning Cloud Apps. Read the original post at: https://spanning.com/blog/cyberattacks-2022-phishing-ransomware-data-breach-statistics/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

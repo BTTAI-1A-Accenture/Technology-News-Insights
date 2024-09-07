@@ -1,0 +1,1 @@
+404 Client Error: Not Found for url: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-100300579.html

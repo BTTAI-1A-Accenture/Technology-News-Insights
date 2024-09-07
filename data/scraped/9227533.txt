@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Editorial Calendar » IOT » Medical Device Security: Securing IT and OT Healthcare Modern healthcare leans heavily on Information Technology (IT) and Operational Technology (OT) medical devices. Regrettably, these devices are facing a veritable tsunami of cyber threats that can jeopardize patient safety, privacy, compliance with industry data standards, reputation, and the continuity of healthcare services. There has never been a more urgent need for robust medical device security than right now to protect these vital assets. Cyberattacks on healthcare have risen significantly, driven by the exponential increase in connected medical devices and the rich data they generate. In 2020 alone, the FBI reported a 400% increase in cybersecurity complaints, many targeting healthcare organizations. The Ponemon Institute further highlighted that healthcare breaches cost a minimum of 429 USD per record – the highest among all sectors. Cybercriminals are increasingly targeting medical devices, which are often the weakest link in the cybersecurity chain due to their inherent vulnerabilities. These devices, whether an insulin pump or a sophisticated MRI scanner, offer lucrative targets due to their critical role in patient care and the sensitive data they handle. While IT primarily concentrates on data security, the teams responsible for OT devices prioritize medical device safety, dependability, and accessibility. Operational Technology (OT) medical devices fall under the strict regulatory purview of the U.S. Food and Drug Administration (FDA) and comparable regulatory bodies worldwide, like the European Medicines Agency (EMA). Consequently, these OT devices’ maintenance activities are typically reserved exclusively for certified clinical engineering staff – who often don’t have insight into the wider connectivity and security of the overall healthcare organization. The impact of a cybersecurity incident in healthcare goes far beyond financial costs. Cyberattacks can disrupt medical services, delay patient care, and even directly compromise patient safety. For example, the WannaCry ransomware attack of 2017 caused significant disruptions across the UK’s National Health Service, leading to thousands of appointment and operation cancellations. While it may appear a worst-case scenario, patient harm is a very real possibility. For example, any disruption or modification to the function or alerts of an infusion pump due to a security incident could potentially lead to severe injury or even patient fatality. Medical device security breaches can also damage trust between patients and healthcare providers. The 2015 breach at the health insurer Anthem (formerly WellPoint) exposed the medical data of nearly 78.8 million people, leading to a $115 million fine. As recently as March 2023, Shields Health Care Group, a Massachusetts-based medical imaging service provider, reported that a cybercriminal had gained unauthorized access to some of its IT systems, affecting over 2 million patients. Given the serious implications, several industry cybersecurity standards aim to ensure the safety and effectiveness of medical devices. The FDA’s “Content of Premarket Submissions for Management of Cybersecurity in Medical Devices” guidance document emphasizes a risk-based approach to device design and development. Similarly, the Health Insurance Portability and Accountability Act (HIPAA) sets out rules for protecting patient data held by medical devices, including access control (such as microsegmentation, minimizing the risk of unauthorized access), audit controls (requiring detailed activity logs and real-time monitoring), integrity (such as file integrity monitoring), and transmission security (further making use zero trust adoption and secure access to maintain secure transmission protocols). The National Institute of Standards and Technology (NIST) Cybersecurity Framework offers a set of best practices to manage cybersecurity risks, including those associated with medical device security. Also, ISO/IEC 80001-1:2010 provides guidance on the risk management of IT networks incorporating healthcare devices. To safeguard medical devices, healthcare organizations should first gain visibility into the devices connected to their network. A comprehensive inventory, complete with each device’s functionalities and its data handling, forms the foundation of an effective cybersecurity strategy. We work with the leading asset visibility and security company, Armis, to provide device visibility and cybersecurity for healthcare organizations around the globe. Medical device security should be considered from the outset, incorporating security principles in the design phase. This approach includes conducting threat modeling and risk assessments to proactively identify potential vulnerabilities and mitigate them. Implementing a zero-trust security model, which assumes any device could potentially be compromised, can significantly enhance the security posture. It involves strictly controlling access based on least privilege principles, routinely verifying identities, and segmenting networks to contain breaches. Routine security assessments and vulnerability scanning of medical devices, alongside timely patch management, can help identify and fix vulnerabilities before they are exploited. Moreover, educating staff about cybersecurity best practices and social engineering tactics can prevent incidents due to human error. The Hippocratic Oath, notably the principle of “First, do no harm,” holds significant relevance in the realm of medical device cybersecurity. Much like how a medical practitioner strives to avoid causing harm to a patient, in the future, cybersecurity efforts must prioritize the safety and well-being of patients above all else. Any compromise in the security of a medical device could potentially lead to malfunctions, incorrect readings, or unauthorized access to sensitive patient data, which in turn could result in physical harm to a patient or compromise their privacy. Securing IT and OT medical devices is not optional, but a critical necessity. Cybersecurity measures must keep pace as healthcare delivery becomes increasingly digitized and networked. By embracing robust security standards, best practices, and a proactive, risk-based approach to cybersecurity, it’s hoped that healthcare organizations can secure their medical devices and protect the trust and well-being of the patients they serve. The post Medical Device Security: Securing IT and OT Healthcare appeared first on TrueFort. *** This is a Security Bloggers Network syndicated blog from TrueFort authored by Nik Hewitt. Read the original post at: https://truefort.com/medical-device-security/    Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

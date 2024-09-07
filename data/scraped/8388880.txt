@@ -1,0 +1,42 @@
+
+Funded by NSERC grants, the work with researchers from the Institute for Quantum Computing at the University of Waterloo focuses on key hardware advancements for quantum computing systems
+ BURNABY, British Columbia & PALO ALTO, Calif. & WATERLOO, Ontario--(BUSINESS WIRE)--D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, today announced two new collaborations with the Institute for Quantum Computing (IQC) at the University of Waterloo. These collaborations establish key hardware research programs for quantum computing systems.
+
+  
+The two multi-year projects between D-Wave and the researchers were funded through the Natural Sciences and Engineering Research Council of Canada (NSERC) Quantum Alliance program, which is part of Canada’s National Quantum Strategy. These projects will focus on identifying improvements in device design and materials quality that support increasingly coherent superconducting quantum processors.
+
+ 
+“Quantum computing has the potential to revolutionize how we tackle societal problems. Key to this transformation is the ability to provide larger quantum systems with greater coherence, and these NSERC projects each facilitate important R&D for these next-generation systems,” said Dr. Alan Baratz, CEO of D-Wave. “We’re excited to engage with the University of Waterloo through the NSERC program to further build out a robust quantum ecosystem that can tackle real-world problems.”
+
+ 
+"The collaboration with D-Wave will provide a unique opportunity to explore fundamental aspects of the physics of a new generation of superconducting qubits, which have the potential to enable new quantum computing architectures,” said Dr. Adrian Lupascu, professor at the Institute for Quantum Computing and Department of Physics and Astronomy at the University of Waterloo.
+
+ 
+“I would like to thank NSERC for the opportunity to collaborate with D-Wave. These funds provide essential support for my research team to work with D-Wave on developing improved superconducting components for quantum computing and quantum devices. In addition, the collaboration will contribute to building up Canada’s quantum-ready workforce, as my team gains valuable experience in the fast-growing cryogenic and quantum computing sector,” said Dr. Jan Kycia, Physics and Astronomy professor at the University of Waterloo and Institute for Quantum Computing affiliate.
+
+ 
+About D-Wave Quantum Inc.
+ 
+D-Wave is a leader in the development and delivery of quantum computing systems, software, and services, and is the world’s first commercial supplier of quantum computers—and the only company building both annealing quantum computers and gate-model quantum computers. Our mission is to unlock the power of quantum computing today to benefit business and society. We do this by delivering customer value with practical quantum applications for problems as diverse as logistics, artificial intelligence, materials sciences, drug discovery, scheduling, cybersecurity, fault detection, and financial modeling. D-Wave’s technology is being used by some of the world’s most advanced organizations, including Volkswagen, Mastercard, Deloitte, Davidson Technologies, ArcelorMittal, Siemens Healthineers, Unisys, NEC Corporation, Pattison Food Group Ltd., DENSO, Lockheed Martin, Forschungszentrum Jülich, University of Southern California, and Los Alamos National Laboratory.
+
+ 
+Forward-Looking Statements
+ 
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, which statements are based on beliefs and assumptions and on information currently available. In some cases, you can identify forward-looking statements by the following words: “may,” “will,” “could,” “would,” “should,” “expect,” “intend,” “plan,” “anticipate,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “ongoing,” or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words. These statements involve risks, uncertainties, and other factors that may cause actual results, levels of activity, performance, or achievements to be materially different from the information expressed or implied by these forward-looking statements. We caution you that these statements are based on a combination of facts and factors currently known by us and our projections of the future, which are subject to a number of risks. Forward-looking statements in this press release include, but are not limited to, statements regarding the focus and results of the collaborations between D-Wave and the University of Waterloo, the potential of quantum computing, what is needed to realize the potential of quantum computing, and the opportunities arising from the collaborations between D-Wave and the University of Waterloo. We cannot assure you that the forward-looking statements in this press release will prove to be accurate. These forward-looking statements are subject to a number of risks and uncertainties, including, among others, various factors beyond management’s control, including general economic conditions and other risks, our ability to expand our customer base and the customer adoption of our solutions, and the uncertainties and factors set forth in the sections entitled “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” in D-Wave’s Annual Report on Form 10-K for its fiscal year ended December 31, 2022, as well as factors associated with companies, such as D-Wave, that are engaged in the business of quantum computing, including anticipated trends, growth rates, and challenges in those businesses and in the markets in which they operate; the outcome of any legal proceedings that may be instituted against us; risks related to the performance of our business and the timing of expected business or financial milestones; unanticipated technological or project development challenges, including with respect to the cost and or timing thereof; the performance of the our products; the effects of competition on our business; the risk that we will need to raise additional capital to execute our business plan, which may not be available on acceptable terms or at all; the risk that we may never achieve or sustain profitability; the risk that we are unable to secure or protect our intellectual property; volatility in the price of our securities; and the risk that our securities will not maintain the listing on the NYSE. Furthermore, if the forward-looking statements contained in this press release prove to be inaccurate, the inaccuracy may be material. In addition, you are cautioned that past performance may not be indicative of future results. In light of the significant uncertainties in these forward-looking statements, you should not place undue reliance on these statements in making an investment decision or regard these statements as a representation or warranty by any person we will achieve our objectives and plans in any specified time frame, or at all. The forward-looking statements in this press release represent our views as of the date of this press release. We anticipate that subsequent events and developments will cause our views to change. However, while we may elect to update these forward-looking statements at some point in the future, we have no current intention of doing so except to the extent required by applicable law. You should, therefore, not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this press release.
+
+ 
+D-Wave 
+Amy McDowell
+media@dwavesys.com
+ 
+University of Waterloo 
+Samantha Clark
+samantha.clark@uwaterloo.ca
+ 
+D-Wave 
+Amy McDowell
+media@dwavesys.com
+ 
+University of Waterloo 
+Samantha Clark
+samantha.clark@uwaterloo.ca

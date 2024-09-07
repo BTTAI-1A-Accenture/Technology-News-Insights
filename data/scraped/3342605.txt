@@ -1,0 +1,53 @@
+
+																Forgot  Username or Password
+   Date (MENAFN- ForPressRelease)  Making future mobility happen, today!” is Continental's tagline for this year's IAA MOBILITY in Munich, where the technology company will present its unique portfolio of software-based and sustainable mobility solutions. These range from innovative high- performance computers and solutions for the rapid, cost-efficient implementation of digital mobility, to sustainable vehicle interiors of the future and concept tires for extremely energy-efficient urban driving.“From the road to the cloud: our Technology portfolio ranges from premium tires to software solutions, putting us in a unique market position,” said CEO Nikolai Setzer. Pointing to the technologies to be presented at the IAA, he added:“We're developing the new horsepower for the mobility of the future. Today, four out of every five new cars worldwide are already fitted with hardware and software solutions from Continental – ensuring safety, convenience and sustainability.”
+
+Visitors to the trade fair will be able to experience Continental's latest solutions firsthand at booth B10 in hall A2. To kick off the fair, a press conference will be held at the Continental booth with Philipp von Hirschheydt, member of the Executive Board and head of the Automotive group sector, on September 4, 2023, from 10:10 to 10:30 a.m. CEST. 
+
+
+
+
+
+The superbrain: intelligent high-performance vehicle computer
+As well as advanced hardware, software is becoming increasingly important for the automotive industry. Continental is proactively helping to shape the transition to software-based cars, with around 21,000 software and IT specialists working on new and improved products such as high- performance computers (HPCs). A new addition to Continental's extensive HPC portfolio is the Smart Cockpit HPC, a preconfigured system combining the instrument cluster, infotainment and advanced driver assistance systems. At the IAA MOBILITY, Continental and a tech-industry partner will be using a demonstration vehicle in hall B2/booth A12 to show how the Smart Cockpit HPC can make the mobility of the future a reality at minimum cost and within a short development time.
+
+Virtual development made easy with Amazon Web Services
+With automotive manufacturers bringing new models to market faster and providing customers with regular software updates, we need new approaches to accelerate and broaden the development and testing of automotive software. Until now, most functional and safety problems could only be remedied once the physical electronic control unit (ECU) was available. Fixing problems in later phases sometimes resulted in up to a tenfold increase in development costs.
+
+The solution is the new virtual Electronic Control Unit (vECU) Creator based on Continental Automotive Edge (CAEdge), a platform for hardware and software development launched by Continental and Amazon Web Services (AWS) in 2021. Automotive software developers are already able to use the vECU Creator to decouple hardware and software decision-making, while the virtual simulation of digital functions enables engineers to quickly and continuously improve microcontroller-based ECUs, zone controllers and high-performance computers. Thanks to vECUs, software applications can be 90 percent programmed before they are deployed on the target hardware, greatly increasing the efficiency of product launches. The new vECU Creator thus marks the next step in automotive system development. 
+
+
+
+
+
+Toward an autonomous future
+Continental continues to drive forward autonomous driving. It has teamed up with strategic partner and US semiconductor specialist Ambarella. Both technology companies are jointly developing integrated full-stack systems for assisted and automated driving. These scalable multisensor systems operate using AI, including a full software stack comprising modules from both companies, and particularly powerful, energy-efficient AI systems on chip from Ambarella, as well as high-resolution cameras, radar and lidar sensors and associated control units from Continental. Continental recently received the first customer order for the solutions developed jointly with Ambarella as a complete Level 4 fallback system. At the trade show, Continental will provide insights into how the system solutions interact and make mobility more autonomous and safer.
+
+Greater protection for vulnerable road users
+The safety of vulnerable road users remains a top priority for Continental. Its main focus is on preventing and protecting against accidents due to driver error when turning, reversing and parking. In Germany alone, according to the Federal Statistical Office, such driving maneuvers accounted for over 50,000 accidents involving personal injury last year. At the IAA MOBILITY, Continental will present a compact, easy-to-integrate system solution for dynamic near-field projections based on micro-LED technology. This system will be able to signal when a vehicle changes direction, for example, by projecting dynamic warnings or vehicle dimensions in the vehicle's immediate surroundings with micro-LEDs.  Company :-PRHUB  User :- Lochan Email :  Phone :-08022483007 Mobile:- 08022483008  Url :-    MENAFN22082023003198003206ID1106914015  Company :-PRHUB  User :- Lochan Email :  Phone :-08022483007 Mobile:- 08022483008   MENAFN22082023003198003206ID1106914015 MENAFN22082023003198003206ID1106914015 
+Legal Disclaimer: MENAFN provides the information “as is” without warranty of any kind.  We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article.   If you have any complaints or copyright issues related to this article, kindly contact the provider above. 
+                         Tags Comments Category Date 
+
+
+
+                                                        Daily(English)
+                                                
+
+
+
+
+                                                        Daily(Arabic)
+                                                
+
+
+
+
+                                                        All()
+                                                
+
+  World and Middle East business and financial news, Stocks, Currencies, Market Data, Research, Weather and other data. 
+								 Contact Us
+									 Click here 
+ 
+                        Copyright © 2000 MENAFN. All rights reserved. 
+                        Design & Devleopment by MENAFN

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/pathlock-recognized-as-a-leader-in-two-kuppingercole-industry-reports-highlighting-leadership-in-access-control/article_955c8e64-2415-55f8-ad14-7c52f896e566.html

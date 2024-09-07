@@ -1,0 +1,56 @@
+
+            The streets of Dhaka are filled with constant clamor. Among the chorus of honking horns and ringing bells, roaring cars and rattling rickshaws, you can hear the electric hum of the city’s three-wheeled open taxis, called tuk-tuks, as they weave through traffic.
+     
+            Among the chaos, one Bangladeshi startup has spotted an opportunity. SOLshare plans to tap into the country’s estimated 2.5 million electric tuk-tuks, and turn them into a “virtual power plant.”
+     
+            “When (the tuk-tuks) return to the garage at the end of the night, they come back with 30% juice in their batteries,” says Salma Islam, head of projects, fundraising and communication at SOLshare. “If they can feed that back into the grid when the demand is really high, that would be amazing.” 
+     
+            SOLshare knows exactly how much electricity is left in these tuk-tuks because it has been working with local garages to upgrade their conventional lead-acid batteries to smart, lithium-ion batteries. These are equipped with SOLshare’s digital chip, which collects data on the battery’s performance, location, and charge level. 
+     
+            The startup claims that the leftover electricity in these batteries could provide up to 20% of the nation’s energy when demand is at its highest. The vehicles would recharge overnight when demand on the grid is lowest. 
+     
+            SOLshare hopes that this mobile power supply could help to stabilize Bangladesh’s energy grid — and power the country’s economic development. 
+     
+            “The demand is constantly growing, because the population is also growing, and as people’s livelihoods get better, their energy requirements also increase,” says Islam. 
+     
+            SOLshare launched its EV pilot program, called SOLmobility, in 2021. It partnered with 15 tuk-tuk garages to upgrade the batteries of around 40 vehicles and began gathering data on the mileage and activities of the three-wheelers. 
+     
+            The smart batteries use 40% less energy than lead-acid batteries, says Islam. Additionally, the lithium-ion batteries charge in just six hours, around half the time of lead-acid batteries, and are lighter and more efficient. Although they’re more expensive, costing more than double compared to lead acid batteries, they last up to five times longer, says Islam. 
+     
+            Muhammad Delwar Hossain, who has been driving a tuk-tuk in the Dhaka suburb of Tongi for over a decade, started using a SOLshare smart battery last year. He says it’s boosted his monthly earnings by 50% because he can make more trips on a single charge, and he feels his health has improved because he’s no longer breathing in the toxic fumes emitted by the lead-acid battery. 
+     
+            SOLshare’s ambitions go far beyond tuk-tuks – it wants to transform Bangladesh’s entire energy sector through multiple strands. 
+     
+            In 2015, the company began building peer-to-peer solar-powered microgrids that allow households without solar panels to buy excess energy from others in the community using a pay-as-you-go mobile top-up system. To date, it has installed 118 microgrids across the country. The startup has raised $6 million so far.    
+     
+
+Meet the award-winning architect building flat-pack homes for flood victims
+ 
+            The company also installs solar panel systems for homes and commercial buildings, and has 27 megawatts of installation in the pipeline, says Islam. 
+     
+            Increasing solar power can help the country reduce its reliance on fossil fuels, says Islam – and these microgrids could even feed excess energy back into the national grid.
+     
+            SOLshare’s innovations come at a pivotal time for the nation’s energy sector. 
+     
+            “We had massive power grid failures last summer … that was an eye opener for everyone,” says Islam. 
+     
+            Across the country, households experienced frequent load-shedding, a practice of enforced power outages that reduces strain on the grid to prevent a total blackout. Then, in October 2022, Bangladesh suffered its biggest blackout in eight years when the national grid failed and plunged 96 million people into darkness.
+     
+            Despite being home to the world’s largest off-grid solar power program, Bangladesh’s rapid growth and increasing demand for electricity means renewables account for just 3.5% of its energy. 
+     
+            The low-lying nation is also one of the most climate change-vulnerable countries in the world and is highly susceptible to floods, droughts and storms – so finding a sustainable way to support its growing energy demand is vital.  
+     
+            “I think they were a little bit early, ahead of their time,” says Sonia Bashir Kabir, founder of Bangladesh venture capital firm SBK Tech Ventures and an early investor in SOLshare. She believes the next five years hold a lot of opportunity for the company.
+     
+            “The government has taken a very serious mandate to look at climate, which helps because that means the policies are going to be favorable,” she says.  
+     
+            Bangladesh isn’t the only country struggling to meet energy demand: disruptions in the oil and gas supply throughout 2022 have caused a global energy crisis. This has fueled a renewable revolution, with solar and wind energy growing 30% faster than expected last year – and many are hoping it will accelerate the expansion of the green energy sector.
+     
+            SOLshare is continuing to upgrade more tuk-tuks, as well as working with battery manufacturers to install its digital chip directly into the battery. 
+     
+            Through its different projects, Islam hopes the company will become “Asia’s largest virtual utility provider” – a model that could play “a massive role” in other countries with large fleets of electric three-wheel vehicles, such as Thailand and India, she says. 
+     
+            “We are tapping into as many decentralized renewable sources as possible, and not relying on just a central power grid,” says Islam. “The way we see it, if we can do this right here in Bangladesh, you can actually do it anywhere.” 
+     
+  Kevin Broad, Jane Sit, Mun Ng and Salman Saeed also contributed to this story. 
+ © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

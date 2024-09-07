@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://journalnow.com/news/local/business/champion-sets-new-opening-date-for-thruway-store/article_e308c27e-4f34-11ee-9786-db79f2226a0a.html

@@ -1,0 +1,178 @@
+
+
+
+July 21 (UPI) -- Scripps Research said Friday its scientists have developed a machine-learning system that could help track the evolution of epidemic viruses and predict the emergence of variants.
+The machine, a type of artificial intelligence application, is described in a paper published in the journal Patterns.
+Advertisement
+In the paper, scientists demonstrated the system by using data on recorded COVID-19 variants and COVID-19 mortality rates.
+They said the system could have predicted the emergence of new coronavirus "variants of concern" ahead of their official designations by the World Health Organization.
+Related
+CRISPR gene editing opens pipeline of potential treatments for Alzheimer's disease
+Study finds deer spread COVID-19 back to humans
+Genetic variant linked to faster decline in some people with MS
+Researchers at the La Jolla, Calif., institute said they believe the system could track future viral pandemics in real time.
+"There are rules of pandemic virus evolution that we have not understood but can be discovered, and used in an actionable sense by private and public health organizations, through this unprecedented machine-learning approach," study senior author William Balch, a professor in the Department of Molecular Medicine at Scripps Research," said in a news release.
+Salvatore Loguercio, co-author of the study and a staff scientist in the Balch lab at the time of the work, said the machine could be used in various ways,
+Advertisement
+"This computational method used data from publicly available repositories," Loguercio said. "But it can be applied to any genetic mapping resource."
+The Balch lab develops computational, often AI-based methods to show how genetic variations alter the symptoms and spread of diseases.
+For this study, they developed machine-learning software by using a strategy called Gaussian process-based spatial covariance to relate three datasets spanning the course of the pandemic.
+The three data sets include the genetic sequences of COVID-19 variants found in infected people worldwide, the frequencies of those variants and the global mortality rate for COVID-19.
+The new software allowed the researchers to follow a set of genetic changes appearing in coronavirus variants around the world.
+"We could see key gene variants appearing and becoming more prevalent, as the mortality rate also changed, and all this was happening weeks before the [variants of concern] containing these variants were officially designated by the WHO," Balch said.
+The researchers said the machine could also be used as a variant "early warning system" or "anomaly detector" for gene variants associated with special changes in viral spreads and mortality rates.
+"One of the big lessons of this work is that it is important to take into account not just a few prominent variants, but also the tens of thousands of other undesignated variants, which we call the 'variant dark matter,'" Balch said.
+Advertisement
+
+
+
+Topics
+COVID-19
+
+
+
+
+
+
+Latest Headlines
+
+
+
+
+
+
+
+Health News // 1 hour ago
+Study: Brain implant helps manage Parkinson's symptoms
+  A brain implant guided by AI could provide around-the-clock personalized care for people with Parkinson's disease, a new study suggests.
+
+
+
+
+
+
+
+
+
+
+Health News // 1 hour ago
+Human gut might be source of powerful new antibiotics
+  The crowded microbial space of the human gut is revealing potential routes to new antibiotics, scientists report.
+
+
+
+
+
+
+
+
+
+
+Health News // 2 hours ago
+Study: Scrolling through online videos increases boredom
+  Watching short snippets of videos or fast-forwarding through them makes people more bored rather than less, a new study shows.
+
+
+
+
+
+
+
+
+
+
+Health News // 5 hours ago
+Back-to-school prep should include dental checkup
+  As kids head back to school this fall, there is probably one item many parents haven't thought to put on the to-do list: dental checkups.
+
+
+
+
+
+
+
+
+
+
+Health News // 1 day ago
+Gaza war elevates danger of a polio outbreak
+ Aug. 17 (UPI) -- The war in Gaza has prevented Hamas from vaccinating local children against the disease as displaced Palestinians crowd into tent encampments 10 months after Hamas attacked Israel on Oct. 7.
+
+
+
+
+
+
+
+
+
+
+Health News // 2 days ago
+Perdue Foods recalls over 167,000 pounds of frozen chicken
+ Aug. 17 (UPI) -- Perdue Foods is recalling more than 167,000 pounds of frozen chicken products over fears of contamination.
+
+
+
+
+
+
+
+
+
+
+Health News // 2 days ago
+High consumption of coffee could put your heart at risk, study finds
+ NEW YORK, Aug. 17 (UPI) -- An Indian study indicates that drinking more than 400 milligrams of caffeine daily on most days of the week could raise otherwise healthy people's risk for cardiovascular disease.
+
+
+
+
+
+
+
+
+
+
+Health News // 2 days ago
+FDA approves first at-home, over-the-counter test for syphilis
+ Aug. 16 (UPI) -- The Food and Drug Administration on Friday approved the first over-the-counter, at-home test for syphilis in response to surging levels of the sexually transmitted disease nationwide.
+
+
+
+
+
+
+
+
+
+
+Health News // 3 days ago
+HHS urges blood culture vial conservation amid shortage
+ Aug. 16 (UPI) -- U.S. Health and Human Services Secretary Xavier Becerra Friday urged health care providers to conserve blood culture media bottles and said HHS is taking action to resolve the vial shortage as quickly as possible.
+
+
+
+
+
+
+
+
+
+
+Health News // 3 days ago
+Timely dementia diagnosis varies widely across United States
+  Where you live in the United States could play a role in whether you get a timely diagnosis of dementia, a new study says.
+
+
+
+
+
+
+ July 21 (UPI) -- Scripps Research said Friday its scientists have developed a machine-learning system that could help track the evolution of epidemic viruses and predict the emergence of variants. The machine, a type of artificial intelligence application, is described in a paper published in the journal Patterns.
+Advertisement In the paper, scientists demonstrated the system by using data on recorded COVID-19 variants and COVID-19 mortality rates. They said the system could have predicted the emergence of new coronavirus "variants of concern" ahead of their official designations by the World Health Organization.
+Related
+CRISPR gene editing opens pipeline of potential treatments for Alzheimer's disease
+Study finds deer spread COVID-19 back to humans
+Genetic variant linked to faster decline in some people with MS Researchers at the La Jolla, Calif., institute said they believe the system could track future viral pandemics in real time. "There are rules of pandemic virus evolution that we have not understood but can be discovered, and used in an actionable sense by private and public health organizations, through this unprecedented machine-learning approach," study senior author William Balch, a professor in the Department of Molecular Medicine at Scripps Research," said in a news release. Salvatore Loguercio, co-author of the study and a staff scientist in the Balch lab at the time of the work, said the machine could be used in various ways,
+Advertisement "This computational method used data from publicly available repositories," Loguercio said. "But it can be applied to any genetic mapping resource." The Balch lab develops computational, often AI-based methods to show how genetic variations alter the symptoms and spread of diseases. For this study, they developed machine-learning software by using a strategy called Gaussian process-based spatial covariance to relate three datasets spanning the course of the pandemic. The three data sets include the genetic sequences of COVID-19 variants found in infected people worldwide, the frequencies of those variants and the global mortality rate for COVID-19. The new software allowed the researchers to follow a set of genetic changes appearing in coronavirus variants around the world. "We could see key gene variants appearing and becoming more prevalent, as the mortality rate also changed, and all this was happening weeks before the [variants of concern] containing these variants were officially designated by the WHO," Balch said. The researchers said the machine could also be used as a variant "early warning system" or "anomaly detector" for gene variants associated with special changes in viral spreads and mortality rates. "One of the big lessons of this work is that it is important to take into account not just a few prominent variants, but also the tens of thousands of other undesignated variants, which we call the 'variant dark matter,'" Balch said.
+Advertisement

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.thedailystar.com/news/cano-to-host-chili-bowl-cook-off-on-saturday/article_08dc6bd0-a71b-11ed-9878-cb625e1b22da.html

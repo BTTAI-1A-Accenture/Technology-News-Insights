@@ -1,0 +1,43 @@
+PhD Student at Columbia University 
+
+
+        
+          5 minute read
+        
+      
+ Scalar curvature is the least understood of all the various notions of curvature: bounded below scalar curvature can tell us something about the topology of the manifold, but a classification of such manifolds remains elusive. And many of techniques used to study them come from many different areas of geometric analysis, such as stable minimal hypersurfaces, spin geometry, harmonic maps, and geometric flows, and in many cases it is unclear whether these techniques are related on some fundamental level or if this is just a strange coincidence. The goal of this seminar is to survey some of these techniques as well as some applications and recent results, using some notes by Gromov as a starting point and branching out based off of participant interest. 
+ Categories: 
+
+Seminars
+
+  Updated: September 5, 2022 
+
+
+        
+          2 minute read
+        
+      
+ 
+  Time      : Thursdays 12-1pm
+  Location  : Mathematics 417
+  Organizers: Alex Xu
+
+
+ 
+
+
+        
+          4 minute read
+        
+      
+ This is a template syllabus for future use in a Calculus 1 course. This entire page is fictional and was written so I can be lazy in the future.
+
+ 
+
+
+        
+          less than 1 minute read
+        
+      
+ This is a template seminar page for future use.
+

@@ -1,0 +1,29 @@
+
+            Major US voting equipment manufacturers are enlisting cybersecurity experts to provide additional stress-tests of their systems as the 2024 election looms and misinformation remains rife with American voters. 
+     
+            One goal of the program is to bat down conspiracy theories with greater transparency about how election equipment is picked apart by security gurus before it’s shipped to polling places. 
+     
+            The new cybersecurity testing program announced Wednesday saw three big voting equipment vendors – Election Systems & Software, Hart InterCivic and Unisyn – grant a group of vetted cybersecurity researchers access to their software and hardware for nearly two days to see if they can find ways to break into the systems. The IT-Information Sharing and Analysis Center, a group of technology providers that includes the participating voting equipment vendors, spearheaded the program. Mitre Corp., a federally funded nonprofit with sprawling offices in the Washington, DC, suburbs, hosted the event.  
+     
+            The researchers sought to stuff ballot boxes and knock offline electronic pollbooks that polling stations use to process voters, among other attack scenarios. The results are still being processed, but election vendors say they’re already making tweaks to their security protocols in response to the tests.
+     
+            Voting equipment vendors faced death threats in the aftermath of the 2020 election, when President Donald Trump and his allies falsely claimed that machines made by Dominion Voting Systems were used to rig the election. 
+     
+            Since the 2020 election, voting gear companies have had to walk a tightrope between openly discussing vulnerabilities in their software and how they address them, and fueling conspiracy theorists who will weaponize that information to falsely claim voter fraud. 
+     
+            The misinformation environment is still ripe as election officials prepare for 2024. 69% of Republicans and Republican-leaners still say President Joe Biden’s 2020 win was not legitimate, according to a CNN poll in July.
+     
+            “There is risk,” Sam Derheimer, Hart InterCivic’s director of government affairs, said of voting vendors participating in a program to work with researchers to publicly disclose and fix software vulnerabilities. “But there is more risk in doing nothing.”
+     
+            The program that the voting vendors are embracing – known as coordinated vulnerability disclosure – is common practice in many other industries, from defense to banking. But those industries do not face the type of public scrutiny, and, at times, vitriol, that election officials have in the last three years in the US.
+     
+            And it has taken years to get voting equipment makers to participate in such a cybersecurity program and overcome their skepticism of outside researchers who want to help. 
+     
+            “I give a lot of credit to the vendors that are here and the election officials because they’re literally getting death threats as a result of what may come about from a shared disclosure,” Matt Masterson, a former top election security official at the Department of Homeland Security’s cybersecurity agency, said Wednesday at event hosted by Mitre to unveil the program. 
+     
+            Voting machine makers do their own internal security tests and also have their equipment tested by cybersecurity experts at the US government-funded Idaho National Laboratory. 
+     
+            “But that doesn’t seem to have been enough to satisfy many of our critics,” said Chris Wlaschin, the top cybersecurity executive at ES&S, one of the biggest voting technology providers in the US. 
+     
+            “This is the next step, the next layer of security” and a bid for greater transparency in the testing process, Wlaschin told CNN. 
+     © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='olisa.tv', port=443): Max retries exceeded with url: /hardship-bad-governance-all-over-punch-editorial/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79da96a5ece0>: Failed to resolve 'olisa.tv' ([Errno -5] No address associated with hostname)"))

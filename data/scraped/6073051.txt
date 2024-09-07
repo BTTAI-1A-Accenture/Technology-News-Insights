@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/amprius-unveils-industry-leading-ultra-high-power-high-energy-lithium-ion-battery-advancing-aviation-and/article_8044e9c5-e05e-5bb4-b705-929d2375f66b.html

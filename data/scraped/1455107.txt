@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.medgadget.com', port=443): Max retries exceeded with url: /2023/02/nitinol-medical-devices-market-to-surpass-us-72516-5-mn-by-2030-cagr-of-10-3-zimmer-biomet-merck-kgaa-endosmart-gmbh.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ab723d866e0>, 'Connection to www.medgadget.com timed out. (connect timeout=5)'))

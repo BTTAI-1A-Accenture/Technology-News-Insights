@@ -1,0 +1,70 @@
+Home » News By Business Wire By Business Wire | August 16, 2023 | Last update: August 16, 2023 
+Hosting and colocation provider networks demonstrate a measurable performance advantage over in-house solutions, ISG Provider Lens™ report says FRANKFURT–(BUSINESS WIRE)–#ERP–Despite falling prices and ongoing geopolitical unrest, the managed data center and colocation services market in Germany is expanding as overall spending increases, according to a new research report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm.  
+The 2023 ISG Provider Lens™ Private/Hybrid Cloud – Data Center Services report for Germany finds that although the effects of the COVID-19 pandemic and the conflict in Ukraine have led to economic difficulties, the IT market in Germany continues to grow, attracting foreign investors from Europe and the U.S. that are helping to strengthen the country’s IT infrastructure. Prices for long-term IT service contracts have been declining, yet overall spending continues to rise in response to increased consumption, the ISG report says. 
+“Service providers are automating their operations to save costs and improve quality,” said Dr. Matthias Paletta, director, technology modernization, for ISG in Germany. “These changes are simplifying infrastructure management and reducing operational risk for midsize customers.” 
+As a country, Germany is extremely well connected. It has fast, reliable and secure network connections to major European data centers as well as direct connections between the data centers of companies based in the U.S. and their EMEA subsidiaries, the ISG report says. In addition, Germany’s access to low-cost green power makes it an attractive location for data centers and managed cloud-based services, ISG says. This enables customers to establish a managed edge computing service or hosting solution.  
+When it comes to providing the kind of low-latency network required for cloud-native applications that share data quickly and efficiently, hosting and colocation provider networks are superior to those that customers can configure on their own, the ISG report says. 
+A significant number of German enterprises apparently have reached the same conclusion. Frankfurt am Main is Europe’s second-largest colocation market, exceeded only by London, the ISG report says. According to the ISG report, colocation services are used by more than 10,000 companies in Germany, resulting in an estimated spending of approximately €1.3 billion in 2021. 
+“Enterprises in Germany are modernizing their IT landscape,” said Jan Erik Aase, partner and global leader, ISG Provider Lens Research. “They are doing this by moving to colocation and managed hosting and by monitoring and using service delivery and AI tools that enable automation, IaC [infrastructure as code] and self-healing infrastructures.” 
+Modern managed service platforms offer IaC and DevOps automation options on-premises as well as in colocation data centers and managed hosting environments, the ISG report says. 
+The report also examines how some service providers are offering solutions that overcome the challenges of modernizing mainframe applications to reduce migration costs and make transitioning to a state-of-the-art system possible. 
+The 2023 ISG Provider Lens™ Private/Hybrid Cloud – Data Center Services report for Germany evaluates the capabilities of 99 providers across six quadrants: Managed Services for Large Accounts, Managed Services for Midmarket, Managed Hosting for Large Accounts, Managed Hosting for Midmarket, Colocation Services for Large Accounts and Colocation Services for Midmarket. 
+The report names PlusServer as a Leader in three quadrants, while Arvato Systems, Atos, Axians, CANCOM, Claranet, DATAGROUP, Deutsche Telekom GK, Kyndryl, q.beyond and T-Systems are named as Leaders in two quadrants each. Accenture, akquinet, All for One Group, Capgemini, Computacenter, CyrusOne, Datacenter One, Digital Realty (Interxion), DXC Technology, Equinix, Infosys, ITENOS, KAMP, maincubes, Materna, myLoc (WIIT), noris network, NTT DATA, NTT GDC, PFALZKOM, Rackspace Technology, STACKIT, Telehouse, TelemaxX and Wipro are named as Leaders in one quadrant each. 
+In addition, Datacenter Leipzig, SyntaxSystems and TCS are named as Rising Stars — companies with a “promising portfolio” and “high future potential” by ISG’s definition — in one quadrant each. 
+Customized versions of the report are available from Arvato Systems, CANCOM, Computacenter, DATAGROUP, Deutsche Telekom (TDG), Grass Merkur, ITENOS, StackIT and TelemaxX. 
+The 2023 ISG Provider Lens™ Private/Hybrid Cloud – Data Center Services report for Germany is available to subscribers or for one-time purchase on this webpage. 
+About ISG Provider Lens™ Research 
+The ISG Provider Lens™ Quadrant research series is the only service provider evaluation of its kind to combine empirical, data-driven research and market analysis with the real-world experience and observations of ISG’s global advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make recommendations to ISG’s enterprise clients. The research currently covers providers offering their services globally, across Europe, as well as in the U.S., Canada, Brazil, the U.K., France, Benelux, Germany, Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For more information about ISG Provider Lens research, please visit this webpage. 
+A companion research series, the ISG Provider Lens Archetype reports, offer a first-of-its-kind evaluation of providers from the perspective of specific buyer types. 
+About ISG 
+ISG (Information Services Group) (Nasdaq: III) is a leading global technology research and advisory firm. A trusted business partner to more than 900 clients, including more than 75 of the world’s top 100 enterprises, ISG is committed to helping corporations, public sector organizations, and service and technology providers achieve operational excellence and faster growth. The firm specializes in digital transformation services, including automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier services; strategy and operations design; change management; market intelligence and technology research and analysis. Founded in 2006, and based in Stamford, Conn., ISG employs more than 1,600 digital-ready professionals operating in more than 20 countries—a global team known for its innovative thinking, market influence, deep industry and technology expertise, and world-class research and analytical capabilities based on the industry’s most comprehensive marketplace data. For more information, visit www.isg-one.com. Contacts  
+Press Contacts: Philipp Jaensch, ISG
++49 151 730 365 76
+[email protected] Matthias Longo, for ISG
++49 152 341 464 63
+[email protected] Topics:  Follow us:  Business Wire, a Berkshire Hathaway company, is the global leader in press release distribution and regulatory disclosure.
+Public relations, investor relations, public policy and marketing professionals rely on Business Wire for secure and accurate distribution of market-moving news and multimedia.
+Founded in 1961, Business Wire is a trusted source for news organizations, journalists, investment professionals and regulatory authorities, delivering news directly into editorial systems and leading online news sources via its multi-patented NX network. Business Wire’s global newsrooms are available to meet the needs of communications professionals and news media worldwide. Current MonthSeptember
+
+06sep(sep 6)10:00 am08(sep 8)3:00 pmEvent of the Month: TechVillageMATCHING FOUNDERS AND INVESTORS IN THE MOST BEAUTIFUL MOLDOVAN VILLAGE
+Event DetailsTechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a
+
+
+Event Details
+
+TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a new setting.
+If you are an investor or startup founder and you like the rural scenery, you like to get your hands dirty (literally), and explore new cultures, cuisines and wines, while interacting with other investors and founders, you’ll love it at TechVillage.
+
+
+
+
+
+
+Learn More
+
+
+
+
+CalendarGoogleCal
+
+
+
+
+TimeSeptember 6, 2024 10:00 am - September 8, 2024 3:00 pm(GMT+03:00)
+
+
+
+LocationButuceni, Orheiul VechiOther Events
+
+
+
+OrganizerXY PartnersLearn More  
+
+
+
+
+
+
+
+ September 06sep(sep 6)10:00 am08(sep 8)3:00 pmEvent of the Month: TechVillageMATCHING FOUNDERS AND INVESTORS IN THE MOST BEAUTIFUL MOLDOVAN VILLAGE TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a TechVillage is a 3-day event for startups and investors that are tired of the conventional. It’s for those that are looking to interact and build lasting business connections in a new setting.
+If you are an investor or startup founder and you like the rural scenery, you like to get your hands dirty (literally), and explore new cultures, cuisines and wines, while interacting with other investors and founders, you’ll love it at TechVillage. CalendarGoogleCal September 6, 2024 10:00 am - September 8, 2024 3:00 pm(GMT+03:00) Butuceni, Orheiul Vechi Learn More 01 02 03 04 05 About Silicon Canals Partner with Silicon Canals Impressum Contact Silicon Canals Disclaimer Terms & Conditions Privacy Policy Editorial Policy Silicon Canals 2014 - 2024 | Website: Bright Idiots | Images: Depositphotos [wp_dark_mode style="2"]

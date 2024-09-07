@@ -1,0 +1,72 @@
+Someone with a lot of money to spend has taken a bullish stance on PayPal Holdings PYPL. And retail traders should know. We noticed this today when the big position showed up on publicly available options history that we track here at Benzinga. Whether this is an institution or just a wealthy individual, we don't know. But when something this big happens with PYPL, it often means somebody knows something is about to happen. So how do we know what this whale just did?  Today, Benzinga's options scanner spotted 19 uncommon options trades for PayPal Holdings. This isn't normal. The overall sentiment of these big-money traders is split between 52% bullish and 47%, bearish. Out of all of the special options we uncovered, 6 are puts, for a total amount of $245,315, and 13 are calls, for a total amount of $2,474,273. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $50.0 to $75.0 for PayPal Holdings over the last 3 months.  In terms of liquidity and interest, the mean open interest for PayPal Holdings options trades today is 5602.27 with a total volume of 6,155.00. In the following chart, we are able to follow the development of volume and open interest of call and put options for PayPal Holdings's big money trades within a strike price range of $50.0 to $75.0 over the last 30 days.  
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+PYPL
+CALL
+SWEEP
+BULLISH
+01/17/25
+$60.00
+$600.4K
+8.6K
+70
+
+
+PYPL
+CALL
+SWEEP
+BULLISH
+01/17/25
+$62.50
+$397.8K
+1.8K
+360
+
+
+PYPL
+CALL
+SWEEP
+BEARISH
+10/13/23
+$54.00
+$311.5K
+109
+1.4K
+
+
+PYPL
+CALL
+SWEEP
+BULLISH
+01/17/25
+$60.00
+$305.3K
+8.6K
+700
+
+
+PYPL
+CALL
+SWEEP
+BULLISH
+10/13/23
+$54.00
+$250.8K
+109
+700
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for PayPal Holdings, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

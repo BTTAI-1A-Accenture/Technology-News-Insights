@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.galvnews.com/news_ap/business/check-point-software-technologies-introduces-infinity-global-services-for-end-to-end-cyber/article_6f296082-8835-54d7-8b59-edc7c911ddc5.html

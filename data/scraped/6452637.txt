@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.medgadget.com', port=443): Max retries exceeded with url: /2023/10/pelvic-floor-strong-reviews-download-alex-miller-exercises-system-download.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da96bef010>, 'Connection to www.medgadget.com timed out. (connect timeout=5)'))

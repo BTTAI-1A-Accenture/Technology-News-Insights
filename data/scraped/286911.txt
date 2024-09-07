@@ -1,0 +1,81 @@
+Markets 
+
+
+ Hot Stocks 
+
+
+ Fear & Greed Index 
+
+
+ 
+            Latest Market News 
+
+
+ 
+            Hot Stocks 
+
+
+ 
+            OpenAI CEO Sam Altman seems to have achieved in a matter of hours what other tech execs have been struggling to do for years: He charmed the socks off Congress. 
+     
+            Despite wide-ranging concerns that artificial intelligence tools like OpenAI’s ChatGPT could disrupt democracy, national security, and the economy, Altman’s appearance Tuesday before a Senate subcommittee went so smoothly that viewers could have been forgiven for thinking the year was closer to 2013 than 2023.  
+     
+            It was a pivotal moment for the AI industry. Altman’s testimony on Tuesday alongside Christina Montgomery, IBM’s chief privacy officer, promised to set the tone for how Washington regulates a technology that many fear could eliminate jobs or destabilize elections.  
+     
+
+Mr. ChatGPT goes to Washington: OpenAI CEO Sam Altman testifies before Congress on AI risks
+ 
+            But where lawmakers could have followed a familiar pattern, blasting the tech industry with hostile questioning and leveling withering allegations of reckless innovation, members of the Senate Judiciary Committee instead heaped praise on the companies — and often, on Altman in particular.  
+     
+            The difference seemed to come down to OpenAI calling for proactive government regulation — and persuading lawmakers it was serious. Unlike the long list of social media hearings in recent years, this AI hearing came earlier in OpenAI’s lifecycle and, crucially, before the company or its technology had suffered any high-profile mishaps. 
+     
+            Altman, more than any other figure in tech, has emerged as the face of a new crop of powerful and disruptive AI tools that can generate compelling written work and images in response to user prompts. Much of the federal government is now racing to figure out how to regulate the cutting-edge technology. 
+     
+            But after his performance on Tuesday, the CEO whose company helped spark the new AI arms race may have maneuvered himself into a privileged position of influence over the rules that may soon govern the tools he’s developing. 
+     
+            Altman’s easy-going, plain-spoken demeanor helped disarm skeptical lawmakers and appeared to win over Democrats and Republicans alike. His approach contrasted with the wooden, lawyerly performances that have afflicted some other tech CEOs in the past during their time in the hotseat.  
+     
+            “I sense there is a willingness to participate here that is genuine and authentic,” said Connecticut Democratic Sen. Richard Blumenthal, who chairs the committee’s technology panel.  
+     
+            New Jersey Democratic Sen. Cory Booker, adopting an unusual level of familiarity with a witness, found himself repeatedly addressing Altman as “Sam,” even as he referred to other panelists by their last names.  
+     
+            Even Altman’s fellow witnesses couldn’t resist gushing about his style. 
+     
+            “His sincerity in talking about those [AI] fears is very apparent, physically, in a way that just doesn’t communicate on the television screen,” Gary Marcus, a former New York University professor and a self-described critic of AI “hype,” told lawmakers. 
+     
+            With a relaxed yet serious tone, Altman did not deflect or shy away from lawmakers’ concerns. He agreed that large-scale manipulation and deception using AI tools are among the technology’s biggest potential flaws. And he validated fears about AI’s impact on workers, acknowledging that it may “entirely automate away some jobs.” 
+     
+            “If this technology goes wrong, it can go quite wrong, and we want to be vocal about that,” Altman said. “We want to work with the government to prevent that from happening.” 
+     
+            Altman’s candor and openness has captivated many in Washington.  
+     
+            On Monday evening, Altman spoke to a dinner audience of roughly 60 House lawmakers from both parties. One person in the room, speaking on condition of anonymity to discuss a closed-door meeting, described members of Congress as “riveted” by the conversation, which also saw Altman demonstrating ChatGPT’s capabilities “to much amusement” from the audience. 
+     
+            Lawmakers have spent years railing against social media companies, attacking them for everything from their content moderation decisions to their economic dominance. On Tuesday, they seemed ready — or even relieved — to be dealing with another area of the technology industry.  
+     
+            Whether this time is truly different remains unclear, though. The AI industry’s biggest players and aspirants include some of the same tech giants Congress has sharply criticized, including Google and Meta. OpenAI is receiving billions of dollars of investment from Microsoft in a multi-year partnership. And with his remarks on Tuesday, Altman appeared to draw from a familiar playbook for Silicon Valley: Referring to technology as merely a neutral tool, acknowledging his industry’s imperfections and inviting regulation.  
+     
+            Some AI ethicists and experts questioned the value of asking a leading industry spokesperson how he would like to be regulated. Marcus, the New York University professor, cautioned that creating a new federal agency to police AI could lead to “regulatory capture” by the tech industry, but the warning could have applied just as easily to Congress itself.  
+     
+            “It seems very very bad that ahead of a hearing meant to inform how this sector gets regulated, the CEO of one of the corporations that would be subject to that regulation gets to present a magic show to the regulators,” Emily Bender, a professor of computational linguistics at the University of Washington, said of Altman’s dinner with House lawmakers.  
+     
+            She added: “Politicians, like journalists, must resist the urge to be impressed.” 
+     
+            After years of fidgety evasiveness from other tech CEOs, however, lawmakers this week seemed easily wowed by Altman and his seemingly straight-shooting answers. 
+     
+            Louisiana Republican Sen. John Kennedy, after expressing frustration with IBM’s Montgomery for providing a nuanced answer he couldn’t comprehend, visibly brightened when Altman quickly and smoothly outlined his regulatory proposals in a bulleted list. Kennedy began joking with Altman and even asked whether Altman might consider heading up a hypothetical federal agency charged with regulating the AI industry. 
+     
+            “I love my current job,” Altman deadpanned, to audience laughter, before offering to send Kennedy’s office some potential candidates. 
+     
+            Compounding lawmakers’ attraction to Altman is a belief on Capitol Hill that Congress erred in extending broad liability protections to online platforms at the dawn of the internet. That decision, which allowed for an explosion of blogs, e-commerce sites, streaming media and more, has become an object of regret for many lawmakers in the face of alleged mental health harms stemming from social media.  
+     
+            “I don’t want to repeat that mistake again,” said Judiciary Committee Chairman Dick Durbin. 
+     
+            Here too, Altman deftly seized an opportunity to curry favor with lawmakers by emphasizing distinctions between his industry and the social media industry. 
+     
+            “We try to design systems that do not maximize for engagement,” Altman said, alluding to the common criticism that social media algorithms tend to prioritize outrage and negativity to boost usage. “We’re not an advertising-based model; we’re not trying to get people to use it more and more, and I think that’s a different shape than ad-supported social media.” 
+     
+            In providing simple-sounding solutions with a smile, Altman is doing much more than shaping policy: He is offering members of Congress a shot at redemption, one they seem grateful to accept. Despite the many pitfalls of AI they identified on Tuesday, lawmakers appeared to thoroughly welcome Altman as a partner, not a potential adversary needing oversight and scrutiny.  
+     
+            “We need to be mindful,” Blumenthal said, “of ways that rules can enable the big guys to get bigger and exclude innovation, and competition, and responsible good guys such as our representative in this industry right now.” 
+     Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://journalstar.com/business/local/texas-company-buys-lincoln-based-internet-provider/article_93b860ca-c61e-5718-b588-2b5f2160859c.html

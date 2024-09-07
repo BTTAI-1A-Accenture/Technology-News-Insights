@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.eagletribune.com/region/anthos-therapeutics-supported-global-survey-of-3000-patients-prescribed-anticoagulants/article_78cf6e08-a9c1-5819-9549-f2c98eb4ecdc.html

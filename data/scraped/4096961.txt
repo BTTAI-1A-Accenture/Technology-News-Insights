@@ -1,0 +1,42 @@
+
+Innovative Pricing Model Enables Organizations to Add Full IR Support for as Little as $300 Per Month
+ WASHINGTON--(BUSINESS WIRE)--Adlumin, the security operations platform and managed detection and response (MDR) service provider keeping mid-market organizations secure, today launched a subscription-based incident response (IR) offering to drastically reduce the cost of securing organizations of all sizes. This new IR service is available to organizations that use Adlumin’s Security Operations Platform on their own or with MDR services, and through bundled pricing, can offer midsized organizations the benefit of a 24x7 expert response team for as little as $300 per month.
+
+  
+The cost of a data breach has increased 15% over the past three years, now averaging $4.45 million per incident, according to IBM’s 2023 Cost of a Data Breach Report. However, larger organizations are seeing the cost of a data breach drop, while it’s rising significantly for smaller organizations. For example, the average cost of a data breach fell by 2.5% year-over-year to $5.24 million for organizations with more than 25,000 employees, while rising 13.4% to $3.31 million for organizations with less than 500 employees.
+
+ 
+The ability to respond quickly and effectively to an incident can have a drastic effect on how severely it impacts an organization – and larger organizations are much more prepared. In fact, 88% of large enterprises have an incident response team in place, a luxury that only a third (36%) of their small and mid-size counterparts can claim, according to a recent survey from CyberRisk Alliance Business Intelligence.
+
+ 
+Adlumin’s Incident Response service provides organizations of all sizes with the expertise necessary to understand the full scope of a breach, remove the threat, and provide actions to strengthen security. It extends the robust security orchestration, automation and response (SOAR) capabilities of Adlumin’s platform with highly skilled and certified professionals who have extensive experience in cybersecurity incident response.
+
+ 
+“Small and midsized organizations are at a huge disadvantage because they have to defend themselves against the same threats as the world’s largest enterprises, but have far from the same resources. Adlumin was founded to level the playing field – first through our platform that makes security cost efficient, easy to integrate and simple to use, then by adding MDR services for organizations that need it, and now through extending our services with Incident Response,” said Robert Johnston, founder and CEO of Adlumin. “The data speaks for itself – there’s a massive disparity between large and small organizations when it comes to cybersecurity preparedness and response capabilities, and we’re here to fix that.”
+
+ 
+In addition to a delivering 24x7 incident response within one hour, and up to 80 hours of support with an annual subscription, Adlumin provides comprehensive forensics and investigation, advanced threat intelligence and proactive threat hunting to its Incident Response customers.
+
+ 
+Offering incident response to organizations already protected by its security operations platform enables the Adlumin team to respond swiftly and effectively. With security operations data ingested from across an organization’s environment and stored remotely in Adlumin’s secure cloud, it enables the incident response team to quickly piece together the complete picture of an attack with full confidence that attackers haven’t altered data to cover their tracks.
+
+ 
+Through one platform and one license, Adlumin provides organizations with everything they need for enterprise-grade security, regardless of the size of their environment. Adlumin’s cloud-based platform can be installed and illuminating threats in 90-minutes or less.
+
+ 
+To learn more about the Adlumin platform, MDR or Incident Response service, visit: https://adlumin.com/platform/incident-response-forensics/
+ 
+About Adlumin
+Adlumin Inc. provides the enterprise-grade security operations platform and managed detection and response services that keep mid-market organizations secure. With one license and one platform, its patented technology gives organizations and solution providers everything they need for effective threat hunting, incident response, vulnerability management, darknet exposure monitoring, compliance support and much more. www.adlumin.com
+ 
+Follow Adlumin: Twitter, LinkedIn, and Facebook.
+ 
+Adlumin: 
+Mike Reilly
+fama PR for Adlumin
+adlumin@famapr.com
+ Adlumin launches a subscription-based incident response (IR) offering to drastically reduce the cost of securing organizations of all sizes. 
+Adlumin: 
+Mike Reilly
+fama PR for Adlumin
+adlumin@famapr.com

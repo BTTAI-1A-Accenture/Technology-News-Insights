@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/former-stripe-head-of-seattle-engineering-and-taxbit-cto-tramale-turner-joins-actioniq-as-svp/article_d951d03a-4078-5783-9a48-a04359bbd711.html

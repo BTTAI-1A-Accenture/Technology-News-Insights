@@ -1,0 +1,51 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     Be the first to add your personal experience Be the first to add your personal experience Be the first to add your personal experience 
+Git is a powerful and popular tool for managing code versions and collaborating with other developers. But when you work in a continuous delivery environment, where code changes are deployed frequently and automatically, you need to be extra careful with how you handle merge conflicts and rollbacks. In this article, we'll show you some best practices and tips for using Git effectively in this context.
+ 
+Before you start coding, you need to understand how your team's workflow is set up and what rules and conventions they follow. For example, do they use a branching strategy, such as Gitflow or Trunk-based development? Do they have a code review process, such as pull requests or peer reviews? Do they have a testing and deployment pipeline, such as Jenkins or GitHub Actions? Knowing these details will help you avoid common pitfalls and align your code with the team's expectations.
+ 
+            Full stack software engineer, author and mentor
+            In a continuous delivery environment, by definition, there must be an automated testing and deployment pipeline. It is not an option, as this paragraph implies. 
+One of the most challenging aspects of working with Git in a continuous delivery environment is dealing with merge conflicts. These occur when two or more developers make conflicting changes to the same file or line of code. If left unresolved, they can cause bugs, errors, or delays in the deployment process. To prevent this, you should resolve conflicts as soon as possible, preferably before you push your code to the remote repository. You can use tools like git diff, git merge, or git rebase to compare and merge your changes with the latest version of the code. You can also use graphical tools like GitKraken or Sourcetree to visualize and resolve conflicts more easily.
+ 
+            Full stack software engineer, author and mentor
+            The advice on this paragraph should be to deliver code as frequently as possible. The branching strategy will eventually attempt a merge on the branch from where the code is delivered, and this will naturally lead the engineer to resolve any conflicts. 
+Another way to avoid problems with Git in a continuous delivery environment is to test your code thoroughly before and after merging. Testing before merging ensures that your code works as expected and meets the quality standards of the team. Testing after merging ensures that your code integrates well with the rest of the codebase and does not introduce any new issues. You can use tools like git bisect, git blame, or git log to identify and fix any bugs or errors that arise from merging. You can also use automated testing tools like pytest, jest, or mocha to run tests on your code continuously and catch any problems early.
+ 
+When you work with Git in a continuous delivery environment, you need to communicate clearly and effectively with your team members and other stakeholders. One way to do that is to use descriptive and consistent commit messages that summarize what you did and why. This will help you and others to track the history and progress of the code, as well as to identify and revert any changes that cause problems. You can use tools like git commit, git amend, or git rebase to create and edit your commit messages. You can also use a standard format or template, such as the conventional commits specification, to structure your messages and make them more readable.
+ 
+Sometimes, despite your best efforts, things go wrong and you need to rollback your code to a previous state. This can happen when you encounter a major bug, a security breach, or a customer complaint that requires an urgent fix. When you work with Git in a continuous delivery environment, you need to be prepared to rollback quickly and safely, without disrupting the workflow or losing any data. You can use tools like git revert, git reset, or git checkout to undo or restore your code to a specific commit or branch. You can also use tools like git tag, git stash, or git reflog to mark or save your code for future reference or recovery.
+ 
+            Principal - Technology and Cyber Security
+            Its important to be precise with language. Git revert, reset and checkout are all ways to switch to a particular commit that respresents a state of the code. It is unusual to call this operation rolling back, however there are some situations involvement deployment, where you cannot rollback to a versioned artefact. In this case you might need to revert to a previous commit in order make a build or version of the code to rollback a particular deployed feature or to fix a bug. 
+This is a space to share examples, stories, or insights that don’t fit into any of the previous sections. What else would you like to add?
+ 
+                How do you manage the risks and dependencies of deploying to multiple environments?
+               
+                7 contributions
+               
+                How do you ensure security of your code repository and version control system?
+               
+                18 contributions
+               
+                How can you identify and avoid the big bang integration antipattern?
+               
+                9 contributions
+               
+                How do you foster learning in a continuous deployment team?
+               
+                9 contributions
+               
+                How can you apply Continuous Delivery principles to legacy or monolithic systems?
+               
+                3 contributions
+               
+                How do you balance speed and quality in hypothesis-driven development?
+               
+                7 contributions
+               
+                What are the tools and platforms that enable effective communication and collaboration in CD environments?
+               

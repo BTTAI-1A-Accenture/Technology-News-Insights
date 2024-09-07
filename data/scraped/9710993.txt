@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/eu-patent-body-be-involved-tech-standard-patent-royalties-eu-draft-rule-2023-03-28/

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/vanta-named-to-the-2023-forbes-cloud-100/article_c26ae2e7-4da5-502b-8791-923bd15d08ce.html

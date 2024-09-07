@@ -1,0 +1,426 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Aug 1, 2024, 1:56pm There are many premium project management software options on the market, but there are also many free tools available. Free project management software can help businesses big and small complete projects on time and within budget. This software streamlines the process of managing a project by providing tools for task management, resource allocation and communication. With so many free project management software options on the market, it’s hard to choose the right one for your business. To help you decide, Forbes Advisor did the research to bring you the best options to fit a variety of needs. 
+                        Why You Can Trust Forbes Advisor Small Business
+                     The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, first-person testing, strategic methodologies and expert insights to inform all of our content to guide you in making the best decisions for your business journey. Featured Partners 1 monday.com Yes From $8 monthly per user Zoom, LinkedIn, Adobe, Salesforce and more 1 monday.com On monday.com's Website 2 Smartsheet Yes, for one user and two editors $9 per user per month Google Drive, Slack, Tableau, Miro, Zapier and more 2 Smartsheet On Smartsheet's Website 3 ClickUp Yes, for unlimited members $7 per month Slack, Microsoft Outlook, HubSpot, Salesforce, Timely, Google Drive and more 3 ClickUp On ClickUp's Website 4 Wrike Yes $9.80 per user per month Salesforce, Adobe, Miro, Netsuite, Quickbooks, SAP 4 Wrike On Wrike's Website Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Notion is free project management software with an API, making it easy to build custom integrations. It’s simple to use and comes with features such as bulk export, real-time collaboration, Kanban boards, timeline views, more than 50 templates and unlimited pages and blocks. Users can collaborate with up to five guests, and file uploads have a 5MB limit. Its page history is seven days, which is more than ClickUp’s one day of history, but less than Airtable’s two weeks of history. And while its free plan is only for individuals, you can invite up to 10 guests. We like that we were also able to use Notion to create internal documentation and make each page as unique as needed with blocks to build precisely what we envisioned. Learn more: Read our Notion review or compare Notion vs. Trello. Who should use it: Entrepreneurs who need free project management software with an API. Mobile App  Yes 
+ Software Integrations  Yes, though limited 
+ Collaboration Tools  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes, though limited
+
+
+ Yes, though limited 
+ 
+
+Yes
+
+
+ Yes 
+ Staying on top of tasks is easy thanks to Teamwork.com’s milestone feature. Users can assign ownership, automate updates, create dashboards and set dependencies. Teamwork.com’s free plan includes time tracking, teams and sub-teams, and even allows users to assign subtasks by project. Set custom fields, filters and take advantage of its multiple view options, such as Gantt charts, Kanban boards and calendar views. In addition to Teamwork.com’s core project management features, we liked that the free plan includes client-facing features. We were able to easily create user rates and invoices and invite clients to see work in progress for quick approvals or change requests. Learn more: Read our full Teamwork.com review. Who should use it: Businesses that need free project management software with milestone features, such as ownership and automation. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Most project management software limits the number of users on a free plan, but ClickUp doesn’t. The free plan comes with features such as 100 MB storage, unlimited tasks, unlimited free plan members, Kanban boards, real-time chat, time tracking, in-app video recording and 24/7 support. Create unlimited custom views, statuses and task IDs. It also has task checklists, tags and dependencies. There are usage limits, however. For example, its Gantt, Timeline, Workload, Map and Mind Map views have 100 use limits. Plus, you only get 100 uses for portfolios, and automations are limited to 100 per month. Your activity history is limited to one day, whereas others, such as Airtable, offer at least two weeks. Learn more: Read our full ClickUp review or compare ClickUp vs. Trello. Who should use it: Businesses that need free project management software with unlimited free plan members. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Comments, conversations, Office 365, Slack and Google Workspace integrations 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Comments, conversations, Office 365, Slack and Google Workspace integrations
+
+
+ Comments, conversations, Office 365, Slack and Google Workspace integrations 
+ Smartsheet stands out for its impressive ability to automate workflows, simplifying complex projects and making it possible for teams to focus on what truly matters—the work itself. Its flexibility and ease of use paired with a rich set of features enable teams to deliver complex projects quickly and create meaningful experiences for customers. It offers a united platform for everyone to work and collaborate in real-time, thus enhancing project progress understanding and overall success. Smartsheet’s ability to consolidate your toolset, eliminate siloed approaches and provide a single platform for all your work makes it a top choice for project management. Learn more: Read our full Smartsheet review. Who should use it: Smartsheet is perfect for businesses looking to streamline their project management process and facilitate seamless collaboration. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Via integrations 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Via integrations
+
+
+ Via integrations 
+ Small software or product development teams can make good use of Jira’s free plan. It was created with bug and issue tracking in mind with easy-to-use Scrum boards and has since expanded to include automations, basic roadmaps and custom workflows. The free plan is good for up to 10 users and you can create an unlimited number of project boards. The storage limit for Jira’s free plan is generous, but if you run out of the 2GB of space, you can integrate storage services such as Google Drive, Dropbox or Box. Learn more: Read our Jira review. Who should use it:  Small dev teams that need a lean, free sprint planning solution should consider Jira. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Airtable is free project management software that’s designed for businesses of all sizes. It offers a flexible platform that can be used for unlimited bases, multiple views, real-time collaboration, commenting and automations. Its drag-and-drop interface makes it easy to track data and create views suited for multiple applications, and users can customize the display. Users can also attach files, set deadlines and assign ownership. If you make a mistake or aren’t sure who changed things, its free plan allows for two weeks of revision and snapshot history. Plus, all plans come with multiple views, including grid, calendar, list, form, Kanban and gallery. Learn more: Read our full Airtable review or compare Airtable vs. Notion. Who should use it: Businesses that need free project management software with unlimited bases, multiple views and a drag-and-drop interface. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Todoist, renowned as a top task manager and to-do list app, offers a free version that is feature-packed and geared towards enhancing personal productivity. Its unique natural language recognition system lets you input tasks efficiently, helping to free your mind of clutter. This feature along with the automatic sorting of tasks into Today, Upcoming, and custom Filter views, lets you prioritize your most pressing tasks, thereby promoting mental clarity. Todoist also integrates personal and work tasks within its workspace, offering you the much-needed relief of managing everything in one place. Its versatility is not limited to work or personal to-dos; you can use it for anything from fitness to groceries to appointments. Its longevity and reliability are evident, having served millions for over 16 years. Learn more: Read our full Todoist review. Who should use it: Individuals and teams seeking an all-in-one solution for task management and productivity enhancement. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ As a free project management software, monday.com offers a variety of features to help businesses plan and execute projects. This software is best for tiny teams that need a tool for brainstorming and collaborating on projects in real time. Its free plan allows up to two seats, three boards, 1,000 tasks and Workdocs to collaborate. Users can import Microsoft Excel data into a board, have an unlimited number of projects and subtasks, set deadlines, assign ownership and set priority levels. If you’d like to upgrade, monday.com offers four paid plans for growing teams. Learn more in our full guide to monday.com pricing and plans. Learn more: Read our full monday.com review or compare monday.com vs. Trello. Who should use it:  Small businesses that need free project management software with unlimited projects, subtasks and brainstorming tools. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Trello is free project management software that’s simple and easy to use with a Kanban-style approach. Users can create boards, add cards and lists, assign tasks and set due dates. With its free plan, users get unlimited cards, up to ten boards, unlimited storage, custom backgrounds and 250 workspace command runs per month. It has an iOS and Android app, two-factor authentication and built-in automation. For all these reasons and more, it’s considered by us as one of the best Kanban software options available. It also comes with unlimited Power-Ups, which is Trello’s way of saying integrations. There are more than 200 of these integrations, including Salesforce, Slack and Google Drive. Learn more: Read our full Trello review. Who should use it: Businesses that need free project management software with a Kanban approach. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ TeamGantt is an effective tool for visual project management, especially for those who favor a Gantt chart approach to project planning. It centers around a visual plan, allowing teams to chart tasks, assign them to the appropriate people and manage schedules effectively. Its free plan allows for up to two collaborators. It’s easy-to-grasp system gets teams operational swiftly without the impediment of a steep learning curve, which is one reason why we named it one of the best Gantt chart software on the market. The software affords a degree of flexibility with its switching function among Gantt chart, Kanban board and calendar views. This flexibility makes it adaptable to diverse project management styles and evolving project needs. It offers built-in resource management tools to balance team workload and monitor their availability, keeping tasks and resources streamlined. The integrated time tracking and reporting function allows tracking hours spent on tasks, thereby aiding in effective resource management and cost control. Learn more: Read our full TeamGantt review. Who should use it: Organizations and teams that prioritize visual project planning and scheduling would benefit greatly from using TeamGantt. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Collaborator access, comments 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Collaborator access, comments
+
+
+ Collaborator access, comments 
+ Wrike’s free project management software gives users the ability to create custom work views, which are helpful for businesses with specific needs. Other features include task management, subtask management, work schedules, an unlimited number of users, project templates by use, integrations and AI task recommendations. Its mobile app also allows voice interaction, smart replies, quick reactions and OCR document processing. If the free plan doesn’t meet your needs, several paid plans are available. Learn more: Read our full Wrike review. Who should use it: Businesses that need free project management software with custom work views. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Messages, comments 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Messages, comments
+
+
+ Messages, comments 
+ Asana offers a powerful work management system that can fit almost any organization or team, and the free plan is especially useful with few limits on some of the most important features. The free plan can work well for a small to medium-sized team that needs unlimited projects, tasks, activity logs, storage and messages. You also get three included views: list, boards and calendar. Upgrading to a paid plan unlocks key features that make project management easier, such as task dependencies, a workflow builder and custom fields. Advanced project management features, such as goals, milestones and forms with conditional logic are locked behind higher tiers. Learn more: Read our full Asana review or compare Asana vs. Wrike. Who should use it: Asana’s free plan is great for a small to medium team that needs unlimited projects or tasks. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Comments, @mentions, chat, activity feed, forums, pages, documents 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Comments, @mentions, chat, activity feed, forums, pages, documents
+
+
+ Comments, @mentions, chat, activity feed, forums, pages, documents 
+ Zoho Projects has been chosen for its outstanding capabilities in delivering in-depth reporting. This feature-rich project management software packs a punch with a multitude of options for data visualization, tracking and progress analysis. Its Gantt charts and timesheet modules provide a comprehensive view of the project, helping to identify dependencies and deviations, log hours and automate invoice generation. Zoho Projects stands out with its effective automation of routine tasks, reducing time expenditure on menial work and streamlining processes. It took us far less time to edit tasks too because Zoho requires fewer clicks to get to what you need. Who should use it: Zoho Projects caters to businesses seeking to enhance their project management efficiency, freelancers managing client projects and students tracking academic projects. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Real-time page editing, comments 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Real-time page editing, comments
+
+
+ Real-time page editing, comments 
+ Using Jira Issues macro, Confluence users can see live updates about Jira issues and epics. It’ll also notify users if an issue is updated, resolved or commented on. Other features include unlimited spaces and pages, a page tree, best practice templates, integrations and apps, 2GB of file storage and mobile device management. You won’t have any support with its free version, unless you count community support. However, unlike its competition, it doesn’t seem to have a limit on page versioning. Learn more: Read our full Confluence review. Who should use it: Businesses that need free project management software with Jira integration. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Notes, projects, comments, @mentions 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Notes, projects, comments, @mentions
+
+
+ Notes, projects, comments, @mentions 
+ MeisterTask is primarily a task management tool that includes lots of features to qualify it as a collaborative and project management software. The free plan is generous with advanced features but limited in how much you can do without upgrading. You can add as many members as you’d like to your account, but you can only create up to three projects at a time. The time-tracking feature adds a timer to each task that appears on the top-right corner of a task window. We found it easy to get in the habit of recording our time with each task (and it continues to run and show the timer on the project board if you click off the task). One of the standout features of MeisterTask is the ability to create tasks via email. Simply email your tasks to a specific email address for your MeisterTask account and the app will automatically turn your email subject line into a task and add it to your list (the body of your email will appear in the description for your task). Who should use it: MeisterTask is a good pick for individuals who want to track tasks and the time they spend on each task. The email task creation tool is a helpful feature if you prefer to assign yourself or others tasks via email. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Real-time chat, @mentions, lists, free guest access 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Real-time chat, @mentions, lists, free guest access
+
+
+ Real-time chat, @mentions, lists, free guest access 
+ Height offers a feature-packed free plan that easily competes with the best project management software available. There are no limits to users, guests or tasks on the free plan and you get all views such as Kanban, list, calendar and Gantt chart. The main reason to choose Height is for its AI-assisted task management. As you chat with other users or create tasks, the AI offers suggestions to help you make the best choices for assignees, descriptions and updates. The app also includes real-time chat, integrations and automations. The limiting factors are in how many automations you’re allowed per month, the number of automations you can create and how long your search history lives. Otherwise, the most noticeable omissions from the free plan come in the form of security features, such as single sign-on, activity logs and domain restrictions, which are allowed only on the Business and Enterprise paid plans. Who should use it: Height is a great project management tool for those who want to use AI to help fill in gaps in task creation, organization and assignments. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Comments, @mentions, group messaging, direct messaging 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Comments, @mentions, group messaging, direct messaging
+
+
+ Comments, @mentions, group messaging, direct messaging 
+ Hive offers a lot of features in its free plan to help you create, assign, track and manage tasks in multiple projects. Its standout features on the free plan include task dependencies, milestones and a project overview, making it possible to schedule projects. You can also set up recurring tasks, use story points and automate some workflows. As much as Hive offers in its free plan, it also limits use in a lot of ways. There’s next to no customization, only basic reports are allowed, Gantt chart, calendar and table views are limited to 100 uses, and you can only integrate Google Calendar and Outlook Calendar. Who should use it: If you’re looking for a free project management app to use for project scheduling, Hive could be a good option for you. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Editable boards, voice and video recording, interactive presentations 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Editable boards, voice and video recording, interactive presentations
+
+
+ Editable boards, voice and video recording, interactive presentations 
+ Although Miro is not a traditional project management tool, you can use a template to create a custom project board. At its core, Miro is a visual collaboration app where you and your team can work on a whiteboard together for mind mapping, brainstorming and product planning. There are hundreds of templates available you can use to jump-start a project, an idea, a project charter or an event. The free plan allows you to integrate with any of the more than 100 apps. You can also create up to five “talktracks,” which are audio or video recordings you can add to a board to help with communication. Who should use it: Miro is great for those who prefer a more visual way of managing projects. Its best use case is for brainstorming, so the free version works well for the beginning of any project plan. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Real-time chat, project discussions, collaborative documents 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Real-time chat, project discussions, collaborative documents
+
+
+ Real-time chat, project discussions, collaborative documents 
+ Even some of the best task management software don’t include milestones, task dependencies and built-in team chat on their free plans like Nifty does. Nifty also allows recurring tasks and milestone dependencies, which makes project management from a broad view easier. A lot of Nifty’s best features are locked behind paid plans such as proofing, automations and custom fields. Its free plan’s storage space is limited to 100MB, and you only get two projects, so it’s best used for simple one-off projects. Who should use it: Nifty is a good place to start for a free simple task management solution, so it’s ideal for entrepreneurs and small teams that don’t have a large portfolio yet. Mobile App  Yes 
+ Software Integrations  Yes 
+ Collaboration Tools  Chat, documents and comments via Microsoft 365 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Chat, documents and comments via Microsoft 365
+
+
+ Chat, documents and comments via Microsoft 365 
+ One of the best reasons to choose Microsoft Planner for project management is if you’re already using Microsoft 365 because it’s free as part of a bundle (and you can’t subscribe to Planner as a stand-alone app anyway). The suite of tools is easy to use if you’re looking for task management. You can easily assign tasks to multiple people and switch between Kanban, grid, calendar and chart views of a project. Although Microsoft Planner is intuitive to use, we found its organization of tasks didn’t always make sense. Tasks aren’t arranged by date, name or status in the grid view, and you can’t drag and drop to rearrange tasks. It’s also worth noting that customer support can be difficult to contact in a timely manner, which you can read about in our review. Learn more: Read our full Microsoft Planner review. Who should use it: To be clear, Microsoft Planner is only free to use if you or your business already subscribe to Microsoft 365, which is why we only suggest it if you’re already a Microsoft 365 user. 
+ There are a few things to consider when choosing free project management software. The first is to decide which features are most important for your business. Another thing to consider is ease of use. Some project management software can be complex, so it’s important to choose a product that is simple to use. Additionally, consider the integrations available and the compatibility with your devices. Most free project management software offer the following features: Look for project management software that’s convenient for the whole team. Your software should help them keep everything in order, communicate properly and not miss project deadlines. Consider these features to simplify your projects: Integrations and device compatibility are essential factors to consider when choosing project management software. Some key questions to ask include: Free solutions often provide basic features such as task management, file sharing and free project plan templates, but may lack more advanced capabilities such as customizable reporting or integrations with other tools. In contrast, paid solutions typically offer more advanced features, dedicated support and better security, making them more suitable for larger teams or more complex projects. Free solutions work great for small teams or simple projects with limited scope, while paid solutions are better for larger teams or projects that need more advanced features. Paid solutions offer greater predictability and reliability due to their more robust support and security features. If a company has outgrown the capabilities of its free solution or needs more advanced features or integrations, upgrading to a paid solution may be necessary. Featured Partners 1 monday.com Yes From $8 monthly per user Zoom, LinkedIn, Adobe, Salesforce and more 1 monday.com On monday.com's Website 2 Smartsheet Yes, for one user and two editors $9 per user per month Google Drive, Slack, Tableau, Miro, Zapier and more 2 Smartsheet On Smartsheet's Website 3 ClickUp Yes, for unlimited members $7 per month Slack, Microsoft Outlook, HubSpot, Salesforce, Timely, Google Drive and more 3 ClickUp On ClickUp's Website 4 Wrike Yes $9.80 per user per month Salesforce, Adobe, Miro, Netsuite, Quickbooks, SAP 4 Wrike On Wrike's Website Project management software can help businesses improve all aspects of the project life cycle. From creating a project management plan and organizing and scheduling tasks to tracking progress, project management software can provide teams with the tools they need to successfully manage projects and increase efficiency. Advanced features needed for effective project management include budgeting, resource allocation, task integration, reporting and analysis, which allow even complex projects to be managed more easily. When evaluating the best free project management software available, we considered a variety of factors such as pricing, general features, additional features, reviews and recognition, and expert opinion. That depends on the needs of your business. If you need to track tasks, manage files or collaborate with team members, then you may benefit from using project management software. Free project management software is really free. However, some free plans may have limited features. The software may encourage you to upgrade to a paid plan to unlock advanced capabilities or add more users. Companies should choose the best project management software based on their needs and budget. However, monday.com is a very popular project management software among small businesses for its breadth of features, price and available free version. monday.com offers a flexible platform for brainstorming and collaborating on projects in real time, with a free plan that allows for up to two seats, three boards, 1,000 tasks, and unlimited projects and subtasks. Airtable is a free project management software designed for businesses of all sizes, offering unlimited bases, real-time collaboration, commenting and automations with a drag-and-drop interface for tracking data and creating custom views. ClickUp’s free plan includes unlimited tasks, members, custom views and statuses, as well as features such as Kanban boards, real-time chat, time tracking and task dependencies. It also offers task checklists, tags and 100MB of storage. One of the best self-hosted free project management software options is OpenProject. It offers a range of features including Gantt charts, time and cost tracking, Agile boards and customizable workflows. Other options to consider include Taiga and Odoo. 
+                Katherine Haan is a small business owner with nearly two decades of experience helping other business owners increase their incomes.             
+                Amy Nichol Smith spent more than 20 years working as a journalist for TV and newspapers before transitioning to software and hardware product reviews for consumers and small businesses. She has been featured in publications such as L.A. Times, Tom's Guide, Investopedia and various newspapers across the U.S.            

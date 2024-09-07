@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/skylla-technologies-is-acquired-by-movensys-two-innovators-join-forces-to-build-next-generation-software/article_375f8ca5-0c74-5cbb-b671-4685fd3e2881.html

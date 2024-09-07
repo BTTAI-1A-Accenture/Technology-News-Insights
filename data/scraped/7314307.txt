@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.caledonianrecord.com/news/national/monthly-lock-volume-increases-31-in-latest-mct-indices-report/article_7ba4e69d-5b4d-5d1f-8b05-65018bffc22e.html

@@ -1,0 +1,74 @@
+
+Swift today released results from a new series of experiments that show its infrastructure can seamlessly facilitate the transfer of tokenised value across multiple public and private blockchains. The findings have potential to remove significant friction slowing the growth of tokenised asset markets and enable them to scale globally as they mature.
+
+ 
+While tokenisation is in its infancy, 97% of institutional investors believe it will revolutionise asset management and be a positive force in the industry1, not least because of its potential to increase efficiency, reduce costs and, by enabling fractional ownership, open up opportunities to more investors.
+
+ 
+One issue challenging investors and institutions, however, is that tokenised assets are managed on different blockchains, each with its own functionality and liquidity profile. Interoperability between these blockchains is crucial, otherwise financial institutions must build connections to each platform, creating significant operational challenges and cost.
+
+ 
+Working with more than a dozen major financial institutions and market infrastructures and Chainlink, a leading Web3 services platform, Swift has successfully demonstrated that it can provide a single point of access to multiple networks using existing, secure infrastructure, thereby significantly reducing operational challenges and investment required for institutions to support the development of tokenised assets.
+
+ 
+The experiments are part of Swift's wider strategy to ensure secure, global interoperability as new technologies and platforms emerge. They build on work over the past few years to show how Swift infrastructure could support the financial community in interconnecting Central Bank Digital Currencies (CBDCs) and other digital assets with new and existing payments systems.
+
+ 
+Tom Zschach, Chief Innovation Officer at Swift, said: "Interoperability is at the heart of everything we are doing at Swift to facilitate the seamless flow of value across the world in the face of increasing fragmentation. For tokenisation to reach its potential, institutions will need to be able to seamlessly connect with the whole financial ecosystem. Our experiments have demonstrated clearly that existing secure and trusted Swift infrastructure can provide that central point of connectivity, removing a huge hurdle in the development of tokenisation and unlocking its potential."
+
+ 
+About the experiments
+ 
+Swift collaborated with several major financial institutions on the experiments, including Australia and New Zealand Banking Group Limited (ANZ), BNP Paribas, BNY Mellon, Citi, Clearstream, Euroclear, Lloyds Banking Group, SIX Digital Exchange (SDX) and The Depository Trust & Clearing Corporation. Chainlink was used as an enterprise abstraction layer to securely connect the Swift network to the Ethereum Sepolia network, while Chainlink's Cross-Chain Interoperability Protocol (CCIP) enabled complete interoperability between the source and destination blockchains.
+
+ 
+In addition to demonstrating that existing Swift infrastructure can provide a secure, scalable way for financial institutions to connect to multiple types of blockchain, they advanced understanding around the technical and business requirements for interacting with business and public blockchains. The experiments also explored the value of a blockchain interoperability protocol for securely transferring data between existing systems and a potentially unlimited number of blockchains.
+
+ 
+The experiments looked at the design and technical development of a solution and considerations around data privacy and governance, operational risk, and legal liability. Transfers of simulated tokenised assets took place – between two wallets on the same public Distributed Ledger Technology network; between two wallets on different public blockchains; and between a public and private blockchain network.
+
+ 
+Swift will continue to work with the financial community to understand the most concrete use cases for tokenised asset adoption and will prioritise its efforts accordingly. It is anticipated that the most compelling case, in the near term, will be in the secondary trading of non-listed assets and private markets.
+
+ 
+The full report can be found here.
+
+ 
+Nigel Dobson, Banking Services Portfolio Lead at ANZ, said: "ANZ is actively exploring the use of decentralised networks and tokenisation via a ‘test and learn' approach, particularly in underserved markets such as the trading of nature-based assets. Establishing interoperability between existing financial market infrastructure and multiple blockchains will be critical for greater adoption so we were naturally delighted to participate in this experiment with the Swift community."
+
+ 
+Alain Pochet, Head of Client Delivery, Securities Services at BNP Paribas, said: "With the increasing number of blockchains, the task of connecting our traditional technical platforms and ensuring interoperability between blockchains presents a growing challenge that we must overcome. In this regard, the experiment demonstrated the potential to leverage the extensive connectivity already established with Swift."
+
+ 
+Thilo Derenbach, Head of Business Development & Commercialisation for Digital Securities Services at Clearstream, said: "As a provider of financial market infrastructure, Clearstream has a key role in supporting the financial industry in its transition to the digital era. Driving digitisation, supported by latest technologies and the tokenisation of assets, is a key topic for us at Clearstream. Joint partnerships and experiments like these help progress the industry innovation agenda while at the same time offering solutions for the interoperability of existing and future ecosystems."
+
+ 
+Jennifer Peve, Managing Director, Global Head of Strategy & Innovation at DTCC, said: "As a financial market infrastructure provider, DTCC is committed to co-ideating and developing solutions to connect the broadest set of market participants and ensure that innovative solutions don't form in silos and deliver maximum value. We are pleased to engage with Swift on this important experiment that has taken meaningful steps in understanding what cross-network interoperability could mean in the future."
+
+ 
+Stephanie Lheureux, Head of Digital Assets Excellence Centre at Euroclear, said: "We are delighted to have participated in this important project collaborating with other Financial Market Infrastructures (FMI) and institutions with the aim to tangibly unlock DLT value through interoperability experiments. As an FMI, our approach to innovation has been to develop solutions in cooperation with our ecosystem with the objective to continuously drive efficiencies to reduce cost and risk."
+
+ 
+Alexandre Kech, Head Digital Securities at SIX Digital Exchange (SDX), said: "This interoperability exercise is critical to the understanding on how banks and FMIs can realise the promise of blockchain for institutional business, that is, the building of a multi-party, regulated global digital asset agnostic trading, settlement and asset servicing 24/7 infrastructure for issuers and investors."
+
+ 
+Sergey Nazarov, Co-Founder at Chainlink, said: "It's now clear that both top global banks and leading market infrastructures believe there will be greater adoption of digital assets across the entire banking industry, and that this adoption will happen using multiple different blockchain technologies at the same time. The collaboration between Swift, over ten of the largest financial institutions, and Chainlink also proved that interoperability across chains is critical to enabling the next stage of digital asset adoption across the global financial system. When combining Swift and CCIP, we were able to show that this new level of interoperability across various blockchains is now possible with minimal resources from even the largest banks and market infrastructures."
+
+ 
+About Swift
+ 
+Swift is a global member owned cooperative and the world's leading provider of secure financial messaging services. We provide our community with a platform for messaging and standards for communicating, and we offer products and services to facilitate access and integration, identification, analysis and regulatory compliance.
+
+ 
+Our messaging platform, products and services connect more than 11,500 banking and securities organisations, market infrastructures and corporate customers in more than 200 countries and territories. While Swift does not hold funds or manage accounts on behalf of customers, we enable our global community of users to communicate securely, exchanging standardised financial messages in a reliable way, thereby supporting global and local financial flows, as well as trade and commerce all around the world.
+
+ 
+As their trusted provider, we relentlessly pursue operational excellence; we support our community in addressing cyber threats; and we continually seek ways to lower costs, reduce risks and eliminate operational inefficiencies. Our products and services support our community's access and integration, business intelligence, reference data and financial crime compliance needs. Swift also brings the financial community together – at global, regional and local levels – to shape market practice, define standards and debate issues of mutual interest or concern.
+
+ 
+Headquartered in Belgium, Swift's international governance and oversight reinforces the neutral, global character of its cooperative structure. Swift's global office network ensures an active presence in all the major financial centres.
+
+ 
+_______________________________
+1 BNY Mellon, Institutional Investing 2.0: Migration to digital assets accelerates, bnymellon.com/content/dam/bnymellon/documents/pdf/insights/migration-digital-assets-survey.pdf
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230831212747/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

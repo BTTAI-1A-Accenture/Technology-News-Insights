@@ -1,0 +1,764 @@
+
+Mother JonesOriginally Posted February 10, 2020; Updated August 12, 2024 Mother Jones’ style guide, published below for the first time in our nearly 50-year history as the longest-running investigative nonprofit newsroom in the country, is a living document that’s constantly updated to reflect the choices and changes in language that shape our reporting. Where topics aren’t covered, we default to the Associated Press Stylebook and Merriam-Webster in that order, but ours takes precedence, so let us know if anything is glaringly missing from ours that doesn’t appear in theirs. Hit us up with tips, told-you-sos, copy challenges, and grammatical grievances at styleguide@motherjones.com. Click the highlighted text throughout to see which entries we most want feedback on. Tip: Hit the arrow at the right to return to the table of contents. Capitalization, Punctuation, Grammar, General Mother Jones Style
+Gender, Sexuality
+Race, Ethnicity
+Names of People and Places; Languages; Nationalities
+Immigration
+Mental Health, Physical Health, Ability, Disability
+Elections, Information
+Scientific Reporting
+Religion
+Common Legal Distinctions
+Attribution, Captions, Credits
+Slurs
+Print Magazine–Specific
+Web-Specific
+Videos
+Podcasts
+Social Media
+Newsletters, Fundraising Emails
+Corrections, Updates
+Preferred Spelling
+Contact Us Search our guide first, then AP, then Merriam-Webster. abbreviations, acronyms
+• Well-known acronyms don’t need spelling out, even on first use: ACLU, AIDS, BDSM, CEO, CIA, CPR, CT scan, DIY, DMV, FBI, FDA, HIV, IQ, IRS, MIT, MRI, NAACP, NASA, NASCAR, Nasdaq, NATO, NBA, NBC, NFL, NHL, NGO, NSFW, PGA, SUV, TSA, UNESCO, UNICEF, YMCA, and others as they come up. For less-common ones, spell out on first use and add the acronym in parentheses only if it’s mentioned again later and may not be clear. If the acronym is mentioned in the same paragraph as the first spelled-out reference, no need to put the acronym in parentheses. Plural acronyms take lowercase “s”: She’s got three DUIs on her record. • Do not SHOUT IN ALL CAPS for companies or brands unless they’re actual acronyms. We’re not their megaphones. Examples: Fox (not FOX), Politico (not POLITICO), Facebook (not FACEBOOK), but C-SPAN is all caps because it’s Cable-Satellite Public Affairs Network. We got you, C-SPAN. In all other cases, stay true to name for accuracy, such as eBay, YouTube, ThinkProgress, BuzzFeed News. (This is called CamelCase capitalization.) Ebay when starting a sentence. • Omit periods in academic/medical degrees: BA, MA, MD, JD, PhD • Use an apostrophe before decade abbreviations like ’80s, ’90s. The apostrophe is added where characters are left out: 1990s → ’90s. ampersands
+Use ampersands only in names that have them (e.g., Johnson & Johnson; Covington & Burling), common expressions that use them (e.g., Q&A), and social headlines limited by space. Otherwise resist the temptation. as told to
+Italicize as-told-to intros if two paragraphs max; any longer and italicized intros become strenuous to read, so don’t italicize if three grafs or more. Mark the start of interviewees’ words with bold section lead like this. awards
+Lowercase when abbreviating, like best actor Oscar, but title case for official award names like Best Performance by an Actor in a Leading Role in a Play. band names
+Lowercase “the,” as in the Rolling Stones, the Beatles. brands as verbs
+Lowercase googled, photoshopped, skyped, snapchatted, maced, tased, etc. classes
+Capitalize academic classes like Class of 2020. Lowercase classes of felonies: class D felony (no hyphen). clauses in the Constitution
+Lowercase the due process clause, the equal protection clause, the commerce clause, etc.
+ colons
+• Lowercase if the words form a fragment after the colon: like this.
+• Capitalize if the words form a full sentence after the colon: Here’s an example. commas
+• Use serial commas: one, two, and three.
+• Use commas in university names like University of California, Berkeley, on first reference, and UC Berkeley on later references. ellipses
+No space on either side…like this…when omitting words from a quote. Always three periods, not four, even when connecting a complete sentence and a fragment. (Four is technically correct in that case, but three suffices.) em dash (option+shift+hyphen)
+An em dash is the longest—like this—without spaces before or after.
+Use an em dash to attribute quotes: “Pray for the dead and fight like hell for the living.” —Mary Harris Jones en dash (option+hyphen)
+The en dash is longer than a hyphen (– vs. -) because the en dash has more work to do: It’s pulling the weight of multiple words before or after it. Use an en dash for open compounds: San Francisco–based artist
+Nobel Prize–winning scientist
+post–World War II novelist An en dash works like this: If an artist is based in San Francisco, that artist is San Francisco–based because the en dash connects two words, “San Francisco,” with a modifier after it, “–based.” The linking device is longer because it has more weight to pull. Also use en dashes for ranges, sports scores, voting results, and spans, like the 2020–2021 school year. headlines
+For headlines in print and on our website, use title case. (For social headlines, use sentence case.) Convert to title case automatically at CapitalizeMyTitle.com, but make sure AP is selected in that converter, and see exceptions below. Title case means this: • Lowercase articles, prepositions, and conjunctions with fewer than four letters: a, an, and, as, at, by, for, if, in, nor, of, on, or, out, per, the, to, up, via, yet. (“But” is the exception, which gets capitalized.) • Capitalize idioms like “Break Up” and “Put Up With” when a preposition is part of the meaning. • Always cap the first and last words in a headline, and always the first word after a colon in headlines. • Cap both words in hyphenated compounds like Government-Linked. • Two-sentence headlines get end punctuation: “Here’s an Example. Like So.” Use double quotes (not single quotes) in headlines as needed. • Web deks always take end punctuation, even if they’re not complete sentences. hyphens, compounds
+• If a compound is hyphenless in AP or Webster, do not hyphenate. For example, real estate is open in AP and Webster, so do not hyphenate real estate agent. Similarly, don’t hyphenate health care reform, high school student, fossil fuel industry, free trade agreement, public school teacher, special interest group, social media dustup, nursing home legislation, and other compounds where there’s no possibility of misreading and a hyphen does not help the reader. • Hyphenate second-biggest, second-largest, etc. • “-ly” adverbs are never hyphenated: easily remembered rule, irresistibly good cheesecake. • Hyphenate “well-” compounds before a noun but not after: A well-known fact, she is well known. interior and paraphrased dialogue
+Generally enclose imagined dialogue and thoughts in quotation marks: “I had better hurry,” thought Carlos. But in all cases, observe a writer’s preference if the writer has made a clear stylistic choice. italics
+• Italicize titles of:
+blogs, boats, books (including comic books), dance productions (e.g., Dance of the Seven Veils, but not styles like the waltz), journals, legal cases, magazines and newspapers (but not news services like the Associated Press and Reuters), newsletters, movies/films, music albums, longer musical compositions (like symphonies), online publications (like Salon and Vice), paintings, plays, podcasts/radio shows, sculptures/installations, series of articles (i.e., column names), and TV shows • Use quotes (no italics) for titles of:
+acts within larger productions (like “Dance of the Sugar Plum Fairy” in The Nutcracker), articles (in magazines and newspapers), cartoons, essays, illustrations, lectures/panel events (e.g., “In Conversation” series), official titles of reports (but lowercase without quotes for shorthand like the Mueller report), photos/photographs, poems, short stories (or novellas within a collection), songs, and TV episodes (e.g., Breaking Bad, “Granite State”) • Capitalize (no quotes, no italics) titles of:
+board games, book series/reference books/holy books, computer programs, news services, video games, and web addresses, except in directing readers to them (e.g., See motherjones.com/about.) • Italicize names of magazines and newspapers, but lowercase and don’t italicize “the”: the New York Times. “The” can be capped for publications in rare cases for clarity, like when italics are not possible on social media and the New Yorker could mean a person or the magazine, so cap The New Yorker on social media or say the New Yorker magazine. Note: Times of London, not London Times. (Do not italicize pub names when listing with their postal addresses.) • Italicize online publications like HuffPost and Salon. Also italicize the channels and verticals of online publications, like Motherboard on Vice. • Always italicize Mother Jones and Reveal. • Italicize foreign words that don’t appear in Webster, on first use. Don’t italicize on later uses. legislative acts and bills
+Capitalize when specific: the Violence Against Women Act, the Brady Bill, but the telecommunications bill. For House bills, use HR followed by a space and the number: HR 32. For Senate bills: SB 32. Lowercase “legislature” except in official names like the New York State Legislature. Always lowercase “executive order.” mottos and slogans
+Use title case and quotation marks, like “Make America Great Again.” movements
+Capitalize if the name is a motto or slogan; lowercase otherwise: Occupy Wall Street, the Occupy movement, Black Lives Matter, Black Power, the Black Power movement, civil rights movement, gay rights movement, transgender rights movement, labor movement, environmental movement. Capitalize the Black Arts Movement to distinguish the 1960s movement from other movements of Black arts. numbers
+Generally spell out zero through nine and use numerals for 10 and higher.
+Exceptions: ages
+Numerals for all ages: 5-year-old boy. 10-year-old girl. She’s in her 20s. The baby is 2 months old. Exception: twentysomething, thirtysomething, fortysomething. Use “ages” instead of “aged” (e.g., voters ages 18 to 34, not aged 18 to 34), and “-age” instead of “-aged” (e.g., voting-age adults; underage). Exception: Use middle-aged, not middle-age. beginning a sentence with a number (or range of numbers)
+Spell out: Ten thousand students ran 10 miles. Five hundred to six hundred students ran 12 miles. charts, timelines, graphics, statistical boxes
+Always use numerals for integers, and generally spell out fractions,
+like one-third, rather than using true fractions, like ⅓—but this is up
+to the art department’s and data reporter’s discretion. X-axis and Y-axis intervals and plot points should be evenly spaced and consistently marked. Use symbols (%, $, °C or °F). Constitutional amendments
+Spell out single digits and use numerals for 10 and higher:
+First Amendment, Second Amendment, 14th Amendment dates
+November
+November 2020
+November 3, 2020
+the November 3, 2020, election (use all those commas!)
+Always spell out months. No comma if there’s no specific day: May+June 2021 issue. decades
+Always numerals: 1960s, the ’60s (okay to use interchangeably).
+For 2000–2009, use “early 2000s” or specify the years. Avoid “the ’00s” (facetious is okay!), and “the teens.” Use “mid-2000s” only to mean midcentury; it does not mean mid-decade. decimals
+Use plural nouns with numbers less than 1: 0.7 pounds, 0.2 meters. distance, height, temperature, other measurements
+Always numerals: 5 feet 8 inches, 12-inch pizza, 3 miles, 75 mph, 7-inch record, 8 degrees districts
+Always numerals: 4th District Celsius, Fahrenheit
+Spelled out in body copy, but in videos, charts, timelines, and statistical boxes, use °C or °F. fractions
+Spell out and hyphenate: Two-thirds of registered voters didn’t vote. Exception: Use fractions like 2/3 for charts and stat boxes. For combinations of whole numbers and fractions, use decimals like 8.5-by-11-inch paper. headline numbers
+Spell out zero through nine and use numerals for 10 and higher, with the exceptions outlined above and below (e.g., units of measurement, percentages, ranked lists, dates). millions, billions
+Always numerals: 4 million people, 10 billion cars. M and B are optional in headlines, videos, social copy, graphs, print sidebars, and wherever space is tight (e.g., $70M or $70 million). money
+Always numerals after a currency sign: $7 billion, $33.90, $80
+Always numerals with the word “cent”: 2 cents, 8 cents
+Use an en dash (option+hyphen) for a range: $64–$72 million
+Do not hyphenate if used adjectivally: $150 billion market odds, margins, ratios, vote results
+Always numerals: Her chance of winning is 3-to-1; a 3–1 chance (en dash).
+Vote totals: The measure passed the Senate, 66–34 (en dash). percent
+Always numerals: 3 percent, 10 percent, the 1 percenters
+For ranges of percentages: 2 to 3 percent; 9 to 10 percent
+Spell out “percent” everywhere but videos, charts, data sidebars, and some social headlines, which use % (when space is tight).
+Use “percentage” only without a number: “What percentage of voters agree? The poll says 40 percent.”
+Do not hyphenate as a modifier: It’s “80 percent chance,” not “80-percent chance.” ranges
+Always numerals when a range involves a number below 10 and a number above nine:
+It took 8 to 10 weeks to complete the project. A 7- to 14-day period. ranks
+Abbreviate and use numerals: Her album reached No. 1 on the charts. But “number one” for steps in a process: Number one, wash your hands. series
+The Warriors won Game 7 (not Game Seven) of the NBA finals.
+The Eagles won Super Bowl 52 (not Super Bowl LII). time
+Use numerals with a.m. and p.m.: 4 a.m., 6 p.m., with a space.
+Use ET and PT, not EST/EDT/PST/PDT, but time zones are not needed if the setting is clear; only useful in listings of broadcasts or event times. When including both, lead with the time zone most relevant in context; for example: 9 p.m. ET / 6 p.m. PT. Spell out numbers less than 10 when combined with “morning,” “evening,” and “o’clock,” like six in the evening, but lean toward 6 p.m. instead. parentheses
+(A period goes inside parentheses if they contain a complete sentence.)
+A period goes outside parens if they’re contained by a sentence (like this). possessive
+Add only an apostrophe, not an extra “s,” for names and singular proper nouns ending in “s”: Mother Jones’, not Mother Jones’s; Chris’, not Chris’s; Congress’, not Congress’s. Exceptions: acronyms ending in “s” like CBS’s and PBS’s (add apostrophes). prefixes anti-
+Hyphenate: anti-abortion, anti-aircraft, anti-discrimination, anti-labor, anti-racism, anti-tank, anti-vax, anti-vaxxer, and whenever a hyphen helps clarify.
+Close: antibiotic, antibody, anticlimax, anticoagulant, antidemocratic, antidepressant, antidote, antifa, antifreeze, antigen, antihistamine, antiknock, antimatter, antimony, antioxidant, antiparticle, antipasta, antiperspirant, antiphony, antipollution, antiproton, antipsychotic, antiseptic, antiserum, antisocial, antithesis, antitoxin, antitrust, antitussive, antiwar co-
+Hyphenate: co-author, co-chair, co-found, co-defendant, co-host, co-owner, co-partner, co-pilot, co-respondent (in a divorce suit), co-signer, co-sponsor, co-star, co-worker, co-writer
+Close: coequal, coexist, cooperate, coordinate, copay, comorbidity half-
+Hyphenate: half-baked, half-cocked, half-dozen, half-hour, half-life, half-mile, half-moon, half-truth
+Close: halfback, halfhearted, halftime, halftone, halftrack
+Two words: half dollar, half sibling, half size
+(Hyphenate if not listed here.) mega-
+Close. mid-
+Hyphenate if it’s followed by a number, like mid-1960s, or a proper noun, like mid-Atlantic.
+Otherwise close, like midair, midcentury, midday, midsemester, midterm multi-
+Hyphenate if it’s followed by an “i” word, like multi-instrumentalist.
+Otherwise close, like multicolored, multilateral, multimillion neo-
+Hyphenate if it’s followed by an “o” word like neo-orthodoxy, or a proper noun like neo-Nazi.
+Otherwise close, like neoliberal, neoclassical, neoconservative non-
+Hyphenate if it’s followed by a proper noun like non-Hodgkin lymphoma.
+Otherwise close, like nonbinary, nondisclosure, nonprofit post-
+Hyphenate: post-bellum, post-convention, post-mortem
+Close: postdate, postdoctoral, postelection, postgame, postgraduate, postnuptial, postscript, postwar
+(Follow Webster for “post-” if not listed here.) pre-
+Generally close, like preelection, preeminent, preempt, preexisting, and anything closed in Webster.
+Hyphenate pre-convention, pre-noon, and pre-[ProperNoun]. pro-
+Hyphenate to mean support for something, like pro-business, pro-labor, pro-peace, pro-war.
+Close otherwise: proactive, produce, profile, pronoun re-
+Hyphenate homographs like re-create and re-cover, or possibly misleading words.
+Close otherwise: reelect, reenter, reoffend scholarships and grants
+Capitalize the name but lowercase “grant,” “loan,” or “scholarship”: Pell grant, Stafford loan, Plus loan. super-
+Close except for super-PAC. techno-
+Close unless confusion would result (then hyphenate). then-
+Hyphenate if modifying a noun, like then-Mayor Gavin Newsom. pronunciation
+Guides to pronunciation should be spelled phonetically, and the syllable to be stressed should be capped: Latinx (pronounced la-TEEN-ex or latin-EX), italicized like so. pull quotes
+In pull quotes, use ellipses for omitted words from a direct quote, but it’s okay to paraphrase the writer’s own text. Check the PQ’s wording against the original, allowing for minor changes because of space limits. Q&As, dialogue
+Bold the questions, and don’t include the interviewer’s name or source’s name in each line (they’re already established in your introduction): Why did you throw your shoes at George W. Bush? George Bush lied to the people. He said the Iraqis would welcome him with flowers… Did you have a plan? I had been planning to do that for years… Exception: When two or more sources are interviewed, use names first (and then initials) to clarify: Interviewer Name: Hello, presidents.
+Vladimir Putin: Hi.
+Donald Trump: Hi. IN: Did you do that grave thing?
+VP: Do what?
+DT: Yeah do what? Before or at the end of Q&As, use a note like this if applicable: This interview has been edited and condensed. quotes
+• Quotes said directly to our reporters can be lightly edited for clarity without adding ellipses for omitted words unless the meaning would be changed. But in legally sensitive quotes, no words can be removed without the inclusion of ellipses. • Lean away from using [sic] for misspellings—just fix—unless you’re facetiously using [sic] to ridicule a public figure’s typos, or need it for clarity. Paraphrase instead if possible. • No brackets are needed when you’re capitalizing an excerpt’s first word. With that exception, when quoting printed material, the quote should otherwise match the original exactly (wording, style, punctuation, etc.). • For spoken quotes, apply our house style for spelling, and minor editing is allowed for grammatical fixes. If inserting an editor’s or author’s note: [Editor’s note: like this.] • For a person’s reaction in a quote, capitalize the first letter and use italics in brackets: [Laughs.] When the bracketed phrase is outside a sentence, add a period after the phrase within brackets:
+“My father is not a schemer. [Laughs.]” “Well, [laughs], he schemes, but…” series
+Lowercase “season” and “episode”: season 1, episode 3 (numerals, no hyphens), for TV/television, podcast, and other series.  slashes
+Use slashes to separate lyrics or lines of poetry, with one space on each side of the slash. The only punctuation at the end of a line (and before a slash) should be a question mark. Capitalize the first word in each line: “We’ve got to find some time to get together / How’s never?” suffixes -esque
+Closed unless the letter “e” would be doubled or tripled (Abramoffesque, office-esque, melee-esque) -like
+Closed unless the letter “l” would be doubled or tripled (catlike, sail-like) -plus
+Hyphenated as compound: 100-plus people; 20 percent-plus increase. websites
+• Capitalize websites like MotherJones.com (cap initials) but lowercase URLs that run longer: motherjones.com/this-story-is-great. • Always omit www. unless the result opens the wrong site. • Follow the site’s style for caps (but never all caps): MoveOn.org, MoveOn. Online publications are italicized: Jezebel, Salon. • Add hyphens between end words of all Mother Jones URLs for online features teased in the magazine. Use periods normally at the end of sentences. No end slashes at the end of web addresses. Ask sources how to identify their gender and sexual identities if it’s relevant to the story and appropriate to ask. Below are some recommended words and definitions. LGBTQ, queer
+LGBTQ is Mother Jones’ preferred style—the most encompassing and still concise initialism—but LGBT or queer is accepted if a source or community prefers it. Avoid LGBTQ+ (unless a source uses it) because the + symbol’s meaning is already embodied in the initialism’s letters. Avoid GLBT except in formal titles like San Francisco’s GLBT History Museum; otherwise it can look like our typo. gender-inclusive, gender-neutral
+In general, lean toward gender-inclusive or gender-neutral language unless you have reason not to. For example, instead of “policeman,” “fireman,” and “mailman,” use “police officer,” “firefighter,” and “mail carrier.” Instead of “manmade,” use “manufactured,” “artificial,” or “synthetic.” Instead of “mankind,” use “humanity” or “humankind.” The legacy of male-centered language continues to shape style guides, but Mother Jones takes a more inclusive stance. Try to avoid “oilman” because it doesn’t have a corresponding title for women who can (and have) held top positions in the field. “Journeyman” similarly. “Fisherman” similarly. “National Guardsman” similarly; the Guard’s first all-women command formed in March 2019. Many titles like TKman don’t have parallel nouns for women because barriers to entry in professions and public life have been exclusionary and engineered in men’s favor, reflected in the job titles. Jobs can (or should) be open to people of any gender. Unless a source or subject prefers gendered titles, or gender is relevant (and it often is), lean toward: “bandleader” instead of “frontman/frontwoman”
+“chair” or “chairperson” instead of “chairman/chairwoman”
+“crewed” instead of “manned,” unless a crew is all men and you’re pointing that out
+“firefighter” instead of “fireman/firewoman”
+“fisher” instead of “fisherman/fisherwoman”
+“heir” instead of “heiress”
+“host” instead of “hostess”
+“humanity” or “humankind” instead of “mankind”
+“mail carrier” instead of “mailman”
+“manufactured,” “artificial,” or “synthetic” instead of “manmade”
+“police officer” instead of “policeman/policewoman”
+“spokesperson” or “representative” instead of “spokesman/spokeswoman”
+“sales rep” or “salesperson” instead of “salesman/saleswoman”
+“server” instead of “waitress/waiter”
+“Congress member,” “member of Congress,” “the representative,” “the
+lawmaker,” “Rep. [Name],” instead of “congressman” or “congresswoman” (at your discretion) “Actor” is Mother Jones’ house style except when someone identifies as “actress” or it’s important to signal gender (e.g., award ceremonies), or in social headlines when relevant. gender pronouns and singular “they/them/their”
+Singular “they/them/their” is accepted for someone who doesn’t use only “he” or “she”; when it’s necessary to shield an anonymous source’s gender; or to move beyond the “he or she” binary. Avoid “both genders” for the same reason; use “all genders.” If you’re using singular “they,” make sure it agrees in number with the antecedent or, if it doesn’t, it’s clear in context. gender transition, gender-affirming surgery
+Distinguish between these terms. A “gender transition” involves changing someone’s gender presentation, which could mean new names, clothes, and hormones. “Gender-affirming surgery” implies surgery or other medical means (e.g., facial feminization). Latinx
+Latinx is widely debated and contested as a description for people of Latin American descent who live in the United States. Use it only when a source prefers it but default instead to “Latinos” in broad references—and don’t stop​ using “Latina” or “Latino” for someone who identifies as Latina or Latino, or when you want to specify gender. “Latinx” is not largely accepted; just 2 percent of respondents to a nationwide poll said they prefer the term “Latinx,” and a 2020 Pew poll showed only 3 percent using it to describe themselves. It also scans differently by region of the country, age, and culture. The word’s earliest advocates embraced it for including all genders but it’s increasingly criticized as an Anglicized imposition on the Spanish language, which, like all romance languages, assigns a gender to each noun. Keep using “Latinos” as an all-gender plural; a vast majority of people do not want “Latinx” assigned to them. Historically, “Latinx” originated to avoid defaulting to the masculine plural “Latinos.” More recently, “Latinx” has been used as an LGBTQ identifier, especially in the aftermath of Orlando’s Pulse nightclub shooting, most of whose victims were gay or bisexual and widely reported as “Latinx.” Keep in mind the Pew figure of just 3 percent national identification. In reference to polls and surveys, use and attribute the same words in the studies. Also see Code Switch’s “Who You Calling ‘Hispanic’?” and let us know your thoughts: nonbinary, queer
+Genders that don’t conform to male and female can be called nonbinary. Also accepted are queer, genderfluid (one word), and gender nonconforming (no hyphen). Pride
+Capitalize as Pride Day, Pride Month, pride events, pride flag. reproductive rights, abortion, abortion access
+Mother Jones’ preferred terms are pro-choice and anti-choice or anti–abortion rights—not pro-life unless attributed or important in context. There may be times you want to use pro-life to allow each side to define itself, or as shorthand, even though pro-life is a fundamentally misleading term because it implies some advocates are not ​for life. In all cases, avoid scare quotes, which can read as facetious (unless facetious is what you’re going for). “Woman/women” is the default that most accurately describes the vast majority of people who get abortions; for example, “pregnant women” is more aptly specific than “pregnant people” or “people with uteruses” or “birthing people” in general reference. “Women” fits in this context because women are the ones disproportionately and chiefly targeted and affected by anti-abortion legislation. Gender-targeted outcomes support gender-specific language as defaults. It is not unjustly exclusionary to specify the community most affected by assaults on a specific community’s rights. The degendering of language in this area risks inadvertently obscuring that impact of abortion restrictions on women’s lives. Lean away from, or add quotes to, “heartbeat” bill to describe legislation referring not to an actual heartbeat, but to electronic impulses signifying fetal cardiac activity. (For more, consider the American College of Obstetricians and Gynecologists’ guide.) Avoid “females” as a noun. Even though “females” accurately refers to people biologically capable of getting abortions, “females” is commonly used as a pejorative against women, reducing women to anatomy in contexts when anatomy is not the core focus. Instead of “females who get abortions,” use “women who get abortions.” sex work, sex worker, prostitute, prostitution
+Use “sex work” and “sex worker” rather than “prostitution” and “prostitute” when meanings overlap. But note that “prostitution” still fits in police and court references when attributed. If minors (who by definition cannot consent) are coerced into sex work, avoid “child prostitution” and instead use “child sexual exploitation,” “sex trafficking victims,” or “child sexual abuse.” sexually transmitted infections (STIs)
+“STIs” is preferred over “STDs.” “STIs” emphasizes that anyone can be infected even without symptoms of disease. transgender, trans
+Use “transgender” instead of “transgender​ed​.” Shorthand “trans” is accepted. Try to use “transgender” on first reference, except when essayists want to start with “trans” on first mention. Examples: trans woman (not transwoman); trans rights. See “Legal Reporting” for distinctions between assault, harassment, misconduct, and wrongdoing. Ask sources how to identify their racial and ethnic identities if it’s relevant to the story and appropriate to ask. Below are some recommended words and definitions. African American, Black
+Always follow a person’s preference. If a person’s preference is not known, lean toward Black but keep in mind that the terms African American and Black are not interchangeable: African American refers to an American Black person of African descent, while Americans of Caribbean heritage generally identify as Caribbean American. Asian, Asian American
+Asian fits the diaspora or a community of people who identify as Asians, but be specific if you mean Asian Americans, and even more specific if you mean Japanese Americans, Chinese Americans, Cambodian Americans, Filipino Americans, Indonesian Americans, and so on. Blacks, whites
+Instead of “Blacks” and “whites” as nouns, which define people by race, use “Black” and “white” as adjectives, which ​describe​ (instead of define) people by race: “Black people,” “white people,” “Black voters,” “white voters,” “Black communities,” “white communities.” community vs. communities
+Consider plural “communities” instead of singular “the [TK] community” to avoid implying a monolith in cases where there’s vast diversity within communities. Similarly, “experiences” instead of “the [TK] experience” (except when you do mean to signal a shared experience or elements of common experience). dual heritage, compound nationalities/ethnicities
+Do not use a hyphen unless a source prefers it. Mother Jones style (consistent with AP): African American, Caribbean American, Irish American, Latvian American Hispanic
+Hispanic is not interchangeable with Latino and Latina, but overlaps to some extent. Defer to individual preference. It often depends on geographical region; people in the Southwest tend to use Hispanic and only recently have started replacing it with Latino. When preference isn’t known, use Latino/a instead of Hispanic, unless Hispanic is attributed to polls, census reports, or studies. Each term refers to people from Spanish-speaking countries or cultures, but people from Spain are generally not Latino/a. Portuguese-speaking Brazilians rarely identify as Hispanic but sometimes do. Be as specific as possible: Honduran, Guatemalan, Nicaraguan, Colombian, and so on. multiracial
+Instead of “mixed,” lean toward “multiracial,” “biracial,” or “interracial,” unless a person prefers “mixed,” in which case attribute it, like “TK, who refers to herself as mixed.” people of color
+Default to “people of color” instead of racial “minorities” in the United States, and see the NAHJ’s August 4, 2020, statement for more context and recommendations for alternatives, including “communities of color” and “emerging majority” when referencing statistics and data. By 2055 the United States will have no racial or ethnic majority group, according to Pew, and the Census Bureau projects that the country will have more people of color than white people by 2044. voters
+Be cautious about monolithic terms like “the Latino vote,” “the Asian American vote,” “the youth vote,” ​and similar phrasing that implies a group’s individuals or communities vote as a uniform bloc, unless voting practices or coalition-building references support the singular construction. Instead consider “[TK] voters” (without “the”), which can still convey the power of coalitions short of glossing over meaningfully diverse ballot results within groups whose percentages do show a signifiant split. For more, see Edwin Rios’ “How ‘the Latino Vote’ Was Invented” and Isabela Dias’ “Why Are Some Latinos Drifting to the Right?” white supremacy, white nationalism
+These terms overlap, and whether there’s a distinction at all is a point of dispute between the Anti-Defamation League and the Southern Poverty Law Center, which disagree on whether white nationalism is just a euphemism for white supremacy. ADL says it’s a marketing trick by white supremacists to rebrand themselves. SPLC says there’s an ideological difference—white supremacy is the belief that white people are superior, whereas white nationalism posits that white people should have separate territory and legal rights. Decide which term to use based on the beliefs or actions of the person or group in your story. Lean toward “white supremacy” if the focus is on ideology. White nationalism requires white supremacy to exist, but don’t gloss over important differences: Use specific modifiers to differentiate, for example, between overt white supremacists and people who enable them in thinly coded ways. Names of people
+• Always include accents like ñ, ó, í, é, and ç in people’s names (e.g., Rigoberta Menchú, Roque Sáenz Peña, Beyoncé). • For names deriving from Arabic, see ​AP; Chinese ​here​; Korean ​here​; Portuguese here; Russian here; Spanish here. But first check our “Preferred Spelling” list below. • All names constructed as Firstname al-Lastname should follow that style for full names, but drop “al-” when using only Lastname. For example, Muqtada al-Sadr, but Sadr on subsequence references. • For people’s initials, default to periods and no space, unless they prefer otherwise: J.K. Rowling, R.L. Burnside. But: MLK Jr., JFK (no periods). JD Vance (no periods). • Use parentheses to set off state and political party affiliation: Sen. Hubert Humphrey (D-Minn.). Use old-style state abbreviations, not two-letter zip code style: Alabama: Ala.
+Alaska: Alaska
+Arizona: Ariz.
+Arkansas: Ark.
+California: Calif.
+Colorado: Colo.
+Connecticut: Conn.
+Delaware: Del.
+Florida: Fla.
+Georgia: Ga.
+Hawaii: Hawaii
+Illinois: Ill.
+Indiana: Ind.
+Iowa: Iowa
+Kansas: Kan.
+Kentucky: Ky.
+Louisiana: La.
+Maine: Maine
+Maryland: Md.
+Massachusetts: Mass.
+Michigan: Mich.
+Minnesota: Minn.
+Mississippi: Miss.
+Missouri: Mo.
+Montana: Mont.
+Nebraska: Neb.
+Nevada: Nev.
+New Hampshire: N.H.
+New Jersey: N.J.
+New Mexico: N.M.
+New York: N.Y.
+North Carolina: N.C.
+North Dakota: N.D.
+Ohio: Ohio
+Oklahoma: Okla.
+Oregon: Ore.
+Pennsylvania: Pa.
+Rhode Island: R.I.
+South Carolina: S.C.
+South Dakota: S.D.
+Tennessee: Tenn.
+Texas: Texas
+Utah: Utah
+Vermont: Vt.
+Virginia: Va.
+Washington: Wash.
+West Virginia: W.Va.
+Wisconsin: Wis.
+Wyoming: Wyo. Party and state affiliation can be omitted on a case-by-case basis for some well-known politicians. Occupational titles
+Capitalize formal titles only when they precede a person’s name: President Joe Biden, Prime Minister Boris Johnson. Lowercase informal titles (e.g., special counsel Robert Mueller). Use first and last names on first reference except when your tone calls for more familiarity (then just President LastName). Academic titles: Do not capitalize “professor” before a person’s name. Cap named professorships and fellowships: Distinguished Adjunct Professor of Philosophy at Syracuse University.
+Military titles: Spell out “General,” “Colonel,” “Major,” “Lieutenant” preceding a name. For compound titles, abbreviate first word, spell out second word: Brig. General and Lt. Colonel.
+Plural titles: presidents Clinton and Obama, Sens. Warren and Sanders, Govs. Newsom and DeSantis
+Police titles: Spell out “Sergeant,” “Captain,” preceding a name; spell out and cap “Detective” if it’s a formal title preceding name.
+Political titles: Cap and abbreviate “Sen.” (for Senator), “Gov.” (for Governor), and “Rep.” (for Representative) preceding the name. For state officials: “state Rep. TK,” “state Sen. TK”
+Religious titles: Spell out “the Reverend” preceding a name. Names of places
+• Spell out states in most cases, including in captions: Wildfires in Paradise, California, destroyed thousands of homes. Exceptions: Abbreviate places with party affiliations like (R-Minn.). State abbreviations are okay in charts and graphs. (Do not use two-letter postal code abbreviations except for mailing addresses.) • Consider referring to the United States instead of America, and US as the default adjective (and as a noun when initials avoid repetition or save space in sidebars, stat boxes, and wherever space is tight). If a specific reference or tone you’re going for calls for America, refer to it, but lean toward United States first. • Do not use accents in a place name. • The following US cities stand alone in copy, without needing state locators: Austin, Atlanta, Baltimore, Boston, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Honolulu, Houston, Indianapolis, Las Vegas, Los Angeles, Memphis, Miami, Milwaukee, Minneapolis, Nashville, New Orleans, New York, Oklahoma City, Philadelphia, Phoenix, Pittsburgh, St. Louis, Salt Lake City, San Antonio, San Diego, San Francisco, Seattle • The following international cities also stand alone: Amsterdam, Baghdad, Bangkok, Barcelona, Beijing, Berlin, Cairo, Dublin, Guatemala City, Hong Kong, Jerusalem, Johannesburg, Kuwait City, London, Madrid, Mexico City, Montreal, Moscow, Mumbai (formerly Bombay), Nairobi, Paris, Quebec City, Rio de Janeiro, Rome, Shanghai, Seoul, Tokyo, Toronto, Vancouver, Vatican City Avoid datelines in articles. Afghan
+Refers to the people and culture of Afghanistan. Afghani is the Afghan unit of currency. Argentine
+The preferred term, rather than Argentinian, for the people and culture of Argentina. China
+The country’s official language is Mandarin, and Mandarin refers to a spoken language: One ​speaks ​Mandarin but ​writes​ Chinese. Use Pinyin (not Zhuyin) transliteration if given a choice. Congo
+Not “the” Congo. “The” refers to the Congo River, which gave the country its name, but “the” has fallen out of use in the country’s name, which AP shortens to Congo (not Democratic Republic of Congo​ and not DRC). Distinct from ​Republic of Congo​ (neighboring country). Gaza Strip
+Capitalize Strip. Iranian, Persian
+Follow an individual’s preference. Iranian tends to emphasize nationality; Persian tends to emphasize history and the cultural diaspora. There’s plenty of overlap. Farsi (also called Persian) is Iran’s official language. Japanese American, “internment”
+The United States incarcerated more than 120,000 people of Japanese ancestry, two-thirds of them US citizens, during World War II. For many years, this era was referred to as Japanese internment, but that description is misplaced because it suggests the imprisonment of foreign nationals; most of those detained were US citizens. Default to calling these events incarceration, not internment—consistent with the recommendation of the Japanese American National Museum, Japanese American Citizens League, advisers with the Asian American Journalists Association, Densho, and many other historians and organizations. The US government misleadingly used the word internment to distinguish many detainees from the few convicted as spies and sent to prison. Incarceration avoids the euphemism—and read Ruth Chizuko Murai’s “My Family Lost Our Farm During Japanese Incarceration. I Went Searching for What Remains.” Kazakhstan (with the “h”) Korea
+Use the new spelling adopted by Korea’s Ministry of Culture: The letters k, t, p, and ch have been changed to g, d, b, and j
+k’, t’, p’, and ch’ have been changed to k, t, p, and ch
+sh has been changed to s Examples: Choson is now spelled Joseon; Inchon is now spelled Incheon; Pusan is now spelled Busan. Myanmar
+Use Myanmar for this country’s current name (formerly Burma) except when a source prefers Burma. Historically, many news outlets and exile organizations continued to use Burma even after the 1989 official name change because the name Myanmar was preferred by the junta, whereas Burma was preferred by pro-democracy activists. But in recent years, more people and organizations are calling it Myanmar. The language spoken in this country is called Myanmar. Refer to people as the people of Myanmar or the Myanmar people. Native American
+Follow a source’s preference for description, and specify nation if known (e.g., Navajo, Hopi, Cherokee). Indigenous is accepted. Native people and shorthand Native are also accepted. Some younger Natives still prefer Indian, and a lot of groups and reservations have Indian in their names (i.e., American Indian Movement, Pine Ridge Indian Reservation), so Indian is okay if it’s attributed. In Canadian contexts, use Indigenous or Native or First Peoples, although First Peoples is more formal (encompassing Inuit, Métis, and First Nations); specify nation if known (e.g. Sagamok Anishnawbek). Do not use “​the​ Natives,” but “Native” alone is fine as an adjective: Native communities, Native activists, Native populations. Capitalize Indigenous and Native in proper names or identifiers like “Indigenous/Native rights,” but lowercase in descriptive terms like “people indigenous to” and “people native to.” “Indigenous” (capped) refers to identities of original inhabitants of a place, with historical ties to pre-colonial or pre-settler times. Nepal
+People from Nepal are known as Nepali or Nepalese. Mother Jones’ default is Nepali, the way many people from Nepal tend to refer to themselves—departing from AP—unless a source prefers otherwise. Eswatini
+The southern African country changed its name from Swaziland in 2018. In stories, mention that it was formerly known as Swaziland, like “Eswatini, the country formerly known as Swaziland,” or “Swaziland, now known as/whose king renamed the country Eswatini,” with initial-cap Es rather than sE. Taiwan
+Taiwan has been governed separately from China since 1949. When precision is needed, call it an island, and its government the Republic of China. In all other cases, call it Taiwan. China claims Taiwan as part of its territory, but some countries ​recognize Taiwan’s sovereignty. (The United States officially does not.) “Mainland China” is okay to distinguish China from the island of Taiwan. Third World
+Avoid, unless it’s in a direct quote. Instead try “developing nations” or “emerging economies.” Also avoid First World; use “industrialized” instead of “developed” because countries and regions are never fully “developed” but they can be fully “industrialized.” Ukraine
+President Volodymyr Zelenskyy, two “y”s
+Kyiv, not Kiev
+Lviv, not Lvov
+Odesa, not Odessa
+Ukraine, not “the” Ukraine, which refers to the Soviet era. Western
+Capitalize for the film or book genre, but lowercase country western music. Capitalize the West and the South in reference to US regions. For directions: west and western. slavery
+Lean toward the following terms:
+• “enslaved people” rather than “slaves”
+• “enslavers” rather than “masters,” “slaveholders,” or “slave owners”
+• “fugitives from slavery” or “self-emancipated people” rather than “runaway slaves”
+• “born with slave status” or “born into slavery” rather than “born a slave”
+• “forced-labor camp” rather than “plantation” Make exceptions as context or clarity calls for it. tribalism
+Consider using “partisanship” or “provincialism” rather than “tribalism” to describe extreme group loyalty. Use of “tribalism” in politics can be misleading, a pejorative that doesn’t always resemble how tribes actually behave and interact. Dreamers
+Dreamers refers to young immigrants without legal status in the United States, but unless someone prefers the label or it’s relevant historically, avoid it. The label referred to the DREAM Act proposal, which excluded millions of immigrants who didn’t fit the storyline of high-achieving youth, and the act did not pass. DACA recipient (if accurate) is more specific. If using Dreamer, style it this way, avoiding the clunkier DREAMer (even though DREAMer is technically correct, rooted in the acronym). legal status
+Use “legal” and “illegal” only to describe an action, not a person. Instead of “illegal immigrant” or “illegals,” alternatives include “undocumented immigrant,” “unauthorized immigrant,” and “people without legal immigration status.” refugee, asylum seeker, immigrant, migrant, displaced person, internally displaced person
+• “Refugees” are forced to flee home countries by violence, persecution, or natural disaster. • “Internally displaced” people are forced to flee but not across national borders. • “Displaced” refers to anyone who matches either of the above. • “Migrants” are in the process of moving, commonly for economic reasons but not always. • “Immigrants” have moved permanently (changed countries of residence) for any number of reasons. • “Asylum seekers” seek official government protection. • “Asylees” seek or have already secured official government protection. Labels should ​describe​ people, not define them, unless people define themselves by labels. Rule of thumb: Ask your source for preferred terms. Use “people with disabilities” (known as people-first language) and “disabled people” (known as identity-first language) interchangeably. There’s a lot of disagreement about defaults, and it scans differently by generation, region, culture, and community, so using both is fine. Also see the National Center on Disability and Journalism’s style guide and reader feedback to our callout in this essay. autism
+Lean toward “autistic person” instead of “person with autism.” This is an exception to people-first language, known as identity-first language. Opinions vary on this, but many advocacy groups opt for “autistic person” on the view that autism is part of an identity, not just a condition. Defer to personal preference. blind, Blind, deaf, Deaf
+Blind and Deaf are increasingly capitalized by some people who view each as a cultural identity—but many people still widely lowercased blind and deaf, viewing their conditions only as conditions, not identities, and objecting to the implication that they do (or should) identify with a capitalized community. Ask your source. Deaf—lowercase or capitalized—is the word preferred by people with complete or significant hearing loss. Milder hearing loss is “hard of hearing.” Avoid “hearing-impaired,” which overemphasizes impairment, according to the World Federation of the Deaf. But always defer to a source’s preference. disorders
+Distinguish between disorders and conditions. “Disorders” fits when disorders are diagnosed by the American Psychiatric Association; when military benefits depend on the distinction; or when a source or medical expert uses it. drug use, addiction
+See ​AP, which advises against calling someone an “addict” unless the person calls themself an addict. In addition to AP’s advice, avoid “got clean,” which implies the person had been dirty, unless the person sees it that way. has, lives with, suffers from
+Default to “has” or “lives with” instead of “suffers from” in disability contexts unless someone says they do suffer or is known to suffer. Many people with disabilities don’t suffer from their disabilities so much as from the legal or social failures to comply with federal accessibility and accommodation requirements—or don’t suffer from either at all. Also consider specifying symptoms when it’s relevant to the story or when public understanding is limited and would benefit from a description like “suffers from debilitating chronic pain, a symptom of lupus.”
+ special education, special needs
+Avoid “special” to describe the fundamental rights of disabled people to access education, health care, safety, and public accommodations required by state and federal law. (Some exceptions below.) “Special” implies special treatment but is resoundingly rejected by campaigns like #DontCallMeSpecial as well as the National Center on Disability and Journalism, the Americans With Disabilities Act National Network, the Disability Media Alliance Project, and a growing wave of multigenerational advocates, authors, and historians, who point out that “special” is a euphemism that’s become a dysphemism. It has morphed from what’s meant to be a positive phrase into a derogatory one. “Special” inadvertently frames disability rights as special pleading rather than a basic bid to reduce unlawful, discriminatory barriers to more equal inclusion in society. The word has been in decline since disabled people started publicly pointing out there is nothing particularly special about needing to survive, and that people with disabilities constitute a quarter of the US population, the largest statistical minority group in the country. “Functional needs” is an alternative to “special needs,” and alternatives to “special education” include “disability inclusion in education,” “disability support in education,” “disability services in education,” “disability and accessibility in education.” Exceptions: “Special” is of course accepted when it’s part of an entity’s or program’s formal capitalized name; relevant to a story’s source or citation; historically accurate; or culturally important in context. Also see this Mother Jones essay and this NCDJ post.  suicide​ reporting
+Do not use “commit suicide,” per ​AP​ and mental health researchers who report a spread of suicide (a contagion) from the term’s use, and because the verb “commit” can imply a criminal act, but laws against suicide have been widely repealed. Preferred: “killed [oneself],” “took [one’s] own life,” or “died by suicide.” If suicide is a story’s main focus, link to prevention sites and add this note at the bottom or the top (if the headline reference calls for top placement): If you or someone you care about may be at risk of suicide, contact the 988 Suicide and Crisis Lifeline by calling or texting 988, or go to 988lifeline.org. Use the term wheelchair user, and avoid wheelchair-bound; wheelchairs enable more than they limit. For additional guidelines, consider the National Center on Disability and Journalism’s style guide. disinformation vs. misinformation
+Disinformation is deliberately false or designed to mislead. Misinformation is false regardless of intent. Election Day
+With early voting by mail-in ballots that expand the franchise beyond a single day, lean toward “the day polls close” or “the final day of voting” instead of “Election Day” to reflect how early voting—rather than one day—is a lifeline of democratic participation and civic engagement. Each is accepted, but consider these alternatives to convey the changes in how voting happens. suffragette, suffragist
+Both refer to voting rights movements, but the origins and resonance are different. “Suffragist” originated in the 1800s in a first-wave movement for enfranchisement, whereas “suffragette” was coined derisively by a London newspaper in 1906 to mock the movement since “-ette” literally means small or diminutive (e.g., statuette vs. statue, cigarette vs. cigar). Despite the derogatory origin of “suffragette,” many women in the UK and later the US repurposed and affirmed “suffragette” to signal empowerment. It became an identity, though women in the movement also opted for “suffragists,” from the 1848 Women’s Rights Convention through the 19th Amendment’s ratification in 1920, and “suffragist” is gaining use as part of a larger project to degender suffixes. But there’s no consensus. Use either, knowing that “suffragette” shows that history. suppression vs. depression of voter turnout
+Suppression is the prevention or discouraging of voters from casting a ballot. Depression of voter turnout is the reduction of turnout from previously higher levels. artificial intelligence
+Distinguish between AI and robots: AI is a machine’s ability to simulate intelligent human behavior. Robots can be AI-driven, but robots can also move physically, whereas AI can be purely software that does not move physically, like game engines and GPS. bacteria
+Bacteria is plural: Bacteria were clogging his lungs. Bacterium is singular: This bacterium is quite deadly. citation
+Link to the published study on first reference. climate
+• The following are all accepted (a non-exhaustive list): climate change, climate science, climate crisis, climate emergency, climate breakdown, climate catastrophe, global warming; depending on context. (Editor’s discretion.) • Avoid the language of “skeptic/skepticism” about settled scientific facts. Just as it’s unscientific and misleading to say someone is a gravity skeptic, it’s unscientific and misleading to say someone is a climate change skeptic. “Skeptic” implies that someone intelligently doubts something. Instead use terms like denial/denier (facts can be denied) or spell out exactly what you mean. For anyone who is truly skeptical of unsettled claims, spell that out. • On first reference, use Celsius (and Fahrenheit in parentheses) for global
+warming averages and targets. On later references, stick with Fahrenheit. Examples:
+“The Earth has already warmed 1 degree Celsius (1.8 degrees Fahrenheit) since the 19th century.”
+“Governments are not on track to meet a goal of capping temperatures well below 2 degrees Celsius (3.6 degrees Fahrenheit) before the end of the century.” contagion, pandemics
+• The coronavirus, officially SARS-CoV-2, is a virus, not a disease, and the disease it causes is Covid-19 (or Covid shorthand, or the coronavirus disease). Covid is an acronym deriving from CO(rona) VI(rus) D(isease)-(20)19, but a few years into the pandemic, a number of newsrooms, ours included, stopped using all-caps and started downstyling it. • It’s not accurate to say “the virus Covid-19” (that’s the disease). • Capitalize variants: Delta, Omicron, etc.
+ • Long Covid • Viruses and variants should be named in ways that don’t inaccurately fault nationality, race, or geography, consistent with recommendations by the WHO, the CDC, the Asian American Journalists Association, and other groups to reduce scapegoating and improve accuracy. Whenever possible, use the scientific name, but if you need a shorthand, in the absence of standardized alternatives, use “strain first found/identified in [location]” instead of adjectives like “Spanish” flu, “Chinese” virus, and “Brazilian” or “British” variant. There’s a long history of equating nationality and immigration with disease, from the 1832 cholera outbreak blamed on Irish Catholic immigrants to the 1870s quarantining of San Francisco’s Chinatown residents following outbreaks of smallpox presumed to spring from the neighborhood, leading to the 1882 Chinese Exclusion Act. This guideline doesn’t preclude criticizing any country’s, government’s, or institution’s mishandling of contagion when scientific evidence supports criticism, but the nomenclature itself should be nationality-neutral. For more, see Isabela Dias’ “Let’s Stop Naming Covid Variants After Countries.” • Incubation period is the time between infection and the appearance of signs or symptoms. • canceled, canceling, cancellation • health care • handwashing • social distancing, social-distancing tips • The Centers for Disease Control and Prevention takes plural Centers and gets spelled out on first use. Ditto the National Institutes of Health: “the NIH” after that, with “the.” Same for the World Health Organization: “the WHO” on subsequent use, with “the.” Each takes a singular verb. The WHO declared the coronavirus a global pandemic on March 11, 2020. • “Pan” = all or almost all. “Global pandemic” is not redundant, but also isn’t necessary when just “pandemic” is clear. And “pandemic” describes reach, not severity. correlation vs. causation
+Correlation means two variables are related to each other, and when one changes, the other appears to change, but not necessarily as a result. Causation means one variable’s change causes the other’s change. data
+Data takes singular verbs: The data is sound. doctor
+Refer to researchers as “Dr.” only if they have medical degrees. genus and species names
+Per AP, “capitalize the first, or generic, Latin name for the class of plant or animal and lowercase the species that follows: Homo sapiens, Tyrannosaurus rex. In second references, use the abbreviated form: P. borealis, T. rex.” Don’t italicize if Webster has it; otherwise italicize, like Asparagopsis armata. statistical significance
+Statistically significant generally means there’s a less than 5 percent chance that the observed effect would have occurred at random. For more distinctions and definitions, see AP. God
+Capitalize for the deities of monotheistic religions. Lowercase for the deities of polytheistic religions. Lowercase all other references except when the meaning is specifically religious. anti-, bigotry, phobia
+“Bigotry” is hate and prejudice against a group. Words ending in “phobia,” like “Islamophobia,” are gaining wider use to mean hateful fear of faith, but “Islamophobia” should not be used when what you mean is anti-Muslim bigotry. The distinction matters—people too often call nonbigoted critics of religion “phobics,” which broad-brushes all critics as bigoted against believers. It’s crucial to distinguish between bigotry against people and criticism of beliefs. If you mean fear of Muslims as people, for example, go with “anti-Muslim bigotry.” not unlike the parallel construction of a term like “anti-Jewish bigotry” or “antisemitism.” Don’t mistake criticism of beliefs as phobia of people. This holds for criticism of any ideas and institutions—in Islam, Christianity, Judaism, Buddhism, Hinduism, and so on. Distinguish between “phobia” and “anti-.” Islam As-salaam alaikum and Wa alaikum as-salaam are Mother Jones’ preferred spelling and hyphenation, closest to Arabic pronunciation. Allow variation if a source prefers. burqa​: the all-body covering worn by some Muslim women. chador: a large cloak that covers the hair, neck, and shoulders, but
+not the face, worn by some Muslim women, mainly in Iran. hajj​ (not “the” hajj) is the Islamic pilgrimage to Mecca, in Saudi Arabia, the
+birthplace of Prophet Muhammad. hijab​: the headscarf worn by some Muslim women. Muhammad is the preferred spelling for the prophet of Islam. niqab​: the face veil worn by some Muslim women. Qur’an​ (not Koran or Quran) Shariah (not Sharia) means Islamic law, so “Shariah law” is redundant unless you’re referring to a specific provision under a Shariah framework. Sunni, Shiite​: See ​AP​. Christianity Bible, biblical​:​ ​See ​AP​, and use the Revised Standard Version for
+quotes, not the King James Version. Christian Coalition: On second reference, okay to use coalition Christian fundamentalists and evangelicals should not be conflated. Both believe that the Bible is inerrant, but evangelizing is the further effort to spread that belief and convert others. Fundamentalists focus on foundational theology of scripture. Christian right is an umbrella term for a politically conservative Christian movement. Church of Jesus Christ of Latter-Day Saints: Capitalize -Day. “Mormon Church” is also accepted. Church members have moved away from the term “Mormon Church,” but it’s still widely in use. Holy Spirit, Holy Ghost, Holy Trinity​: See ​AP​. Pope​: Capitalized as a title only before a name; lowercase otherwise. Judaism Jew, Jewish person
+When choosing between “Jew” and “Jewish person” as nouns, defer to a person’s preference. Both are accepted. If preference isn’t known, lean toward “Jewish person” if the noun “Jew” could be perceived to have pejorative connotations in context, in light of some historical uses. For example, “Jews are migrating” works fine, and “Jews are diverse” works fine, but “My neighbor is a Jew” could be rewritten as “My neighbor is Jewish.” Grammatically, the noun “Jew” fits in comparative lists like “Jews, Christians, and Muslims,” all parallel nouns. Keep in mind that many Jews do not hear the noun “Jew” as pejorative and object to the idea that it is. Defer to personal preference. Hanukkah ​(not Chanukkah), per ​Webster High Holy Days​, capitalized Rosh Hashanah​ (not Rosh Hashana)​, closest to Hebrew, departing from AP Buddhism
+Buddhism can refer to a philosophy or religion. Specify which you mean, if not both. atheism, humanism
+Atheism is the lack of a belief that there’s sufficient evidence for the existence of a god. (“A” means without, and “theism” is belief in the existence of a god.) Atheism is not a belief system; it’s the rejection of belief systems unsupported by evidence or reasoning that meets a certain mark. Distinguish from humanism; a humanist goes a step further and affirms that people are capable of morality, flourishing, and wellbeing without relying on supernatural claims. accused of, arrested for, suspected of, allegedly, reportedly
+Each withholds a presumption of legal guilt. “Arrested for murder” can imply guilt. Avoid “arrested for murder” if what we mean is “arrested on murder charges” or “arrested in connection with the murder of.” We can’t call or imply someone is a criminal unless the person has been convicted or has confessed, or it’s framed as an allegation. For minors, avoid assuming that juvenile confessions mean guilt, because minors are more likely to give false confessions than adults. We don’t have to overuse the word “​allegedly,” but make clear that guilt has not been formally found. assault, harassment, misconduct, wrongdoing
+Assault is physical. Harassment may not be physical; it may be verbal, written, or insinuated through gesture, action, or deliberate inaction. Misconduct is the wider category of improper behavior, legal or illegal. If you’re looking for a broader word, “wrongdoing” works, but “wrongdoing” can trivialize serious charges, so “misconduct” is sometimes a closer fit. In reports on sexual violence, use the same words used by the victim/survivor as long as the words are accurate. For example, definitions of assault and rape vary by jurisdiction, so if you’re using a source’s words that disagree with legal definitions, make that clear. Don’t confuse categories of crimes like child molestation and acts of pedophilia. Definitions tend to vary by state. attorney vs. lawyer​: See ​AP​. burglary, robbery, larceny, theft​: See ​AP​. civil, criminal
+Don’t mistake civil suits for criminal matters. In civil suits, parties can be found “liable” (instead of “guilty”), whereas in criminal suits, parties can be found “guilty.” Criminal courts in the United States do not find people “innocent”; they find people “not guilty.” convicts, felons
+If you want to avoid “convicts” to avoid the noun’s branding power, consider a workaround like “people convicted of a crime”; for “felons,” consider “people convicted of felonies” or “people with a felony record.” For example, “she’s a felon” can be recast as “She was convicted of a felony.” But if you do want to use “felon,” note that the designation survives a prison sentence: After leaving prison, a person is still a “felon” (not an “ex-felon”) but is now an “ex-inmate” or “ex-prisoner.” A “felon” does not become an “ex-felon” unless the conviction is overturned or the person is pardoned. detainee vs. prisoner
+For prolonged detention, like in cases of extended military or CIA detention, drop “detainee” and use straight-to-the-point words like “prisoner,” “de facto prisoner,” “prison-like conditions,” and “incarcerated.” Detainees in Guantanamo, for example, could just be called prisoners. jail vs. prison​
+Prisons generally confine people serving sentences for felonies whereas jails confine people serving sentences for misdemeanors or who are awaiting trial or sentencing on charges (or confined for violations like contempt of court). police shooting, “officer-involved shooting”
+Avoid “officer-involved shooting,” a euphemism, promulgated by police departments, that implies an action without an agent. Default to active phrases like “TK shot TK”; if you don’t know who shot whom, say so.
+
+mass shooting
+Since 2012, Mother Jones has maintained a first-of-its-kind database documenting mass shootings in the United States, which is continually updated. Our current definition of mass shooting: an indiscriminate shooting rampage in a public place resulting in three or more victims killed (not just wounded) by the perpetrator, and not including the perpetrator. By Mother Jones’ current criteria: • The shooter took the lives of at least three people (excluding the perpetrator).
+• The killings were carried out by a lone shooter (except in the case of the Columbine massacre and the Westside Middle School killings, which each involved two shooters).
+• The shootings occurred in a public place.
+• Shootings primarily related to gang activity or armed robbery are not included in our database; neither are mass killings that take place in private homes. militia, armed group
+“Militia” describes both state-sanctioned and unsanctioned armed groups, though historically it refers only to the former, a sanctioned force deployable for military duty or to “keep the peace” (heavy quotes). Use it for either but if the distinction helps, go with “armed group” while making clear the group’s demands: “unidentified armed group dressed in tactical gear…” or “armed self-styled vigilantes who set up a checkpoint…” police report, incident report, arrest report, crime report
+“Police report” can mean incident report, arrest report, crime report, or another report. Specify which if it’s relevant. reporting on sex and minors
+“Had sex ​with”​ implies consent, but an adult does not have sex “with” a minor; an adult rapes a minor. Call it that when it fits context and writer’s or source’s wishes. “Child prostitution” is also misleading because it implies consent, but minors can’t consent. Instead, use terms like “child sex trafficking,” “child sexual exploitation,” “child sexual abuse,” or “child rape.” If some jurisdictions use the term “child prostitution,” attribute it. terrorism, stochastic terrorism
+Definitions of “terrorism” vary, but a practical one is political violence, or its actionable threat, aimed at sending a symbolic and material message of dread to civilians. This definition skips the requirement that terrorists be non-state actors, allowing for state terrorism against civilians. But track with legal definitions in legal contexts. Stochastic terrorism is a method of inciting extremist political violence by using rhetoric ambiguous enough to give the speaker and the speaker’s allies plausible deniability for any resulting bloodshed. For more, see Mark Follman’s reporting here and here. survivors, victims
+Defer to a source’s words, but if preference is not known, go with “survivors” unless you’re emphasizing victimization purposefully. pleaded​
+​Past tense is “pleaded,” not “pled.” v., ​vs.
+Roe v. Wade i​s court case style: italicize, lowercase ​v. In all other uses, “vs.” (Never spell out “versus.”) attribution
+• Whether you use “told me” or “told Mother Jones” is up to you and depends on the needs of your story. “Told me” is a good default for more casual pieces, but “told Mother Jones” can fit a more traditional tone or on social media and other places where bylines aren’t possible, or for stories with joint bylines. • Whether an interview takes place by email, phone, or in person, only say so in the attribution if it’s relevant. • Whether you use “says” or “said” is up to you, but be consistent within a story. Use present tense for a book’s author: Barack Obama writes in his book TK. But use past tense for reporting that has already appeared: She reported in the New York Times. He told the Washington Post. book excerpts
+Book excerpts are not italicized. Include an editor’s note: This article/story is adapted/excerpted from TKAuthor’s new/forthcoming book, Title, reprinted with permission [“reprinted with permission” only if publisher requires saying so; otherwise implied], scheduled to be published/which will be published TKDate [if forthcoming]. Copyright TKPublishingCompany [<only if publisher requires saying so]. captions and credits
+Use final punctuation only if a caption is a complete sentence or preceded by another sentence. directionals: Use parentheses for (left), (right), (top), and (bottom) unless the caption begins with a direction; then omit parentheses. Top: Visitors to Alcatraz listen to inmates’ recordings. photos from services: Photographer/Agency Name
+(Drop “Press,” “Images,” etc., from names like Getty Images; just say Getty. If a service credits a username, drop the username; just credit the service.) Wikimedia Commons image: Original source/Wikimedia Commons
+(Add a link to the photographer’s page in the “Credit URL” field. Make sure to use the photographer/source, not the Wikipedia uploader.) Noun Project icon: Designer Name/Noun Project
+(Add a link to the designer’s page in the “Credit URL” field.) YouTube screenshot: Uploader/YouTube
+(Add a link to the video in the “Credit URL” field.) screenshot of another publication’s video: Screenshot/Publication name
+(Add a link to the video in the “Credit URL” field.) screenshot of a TV show or movie: Screenshot: Network (or movie distribution company, ie: Universal Pictures) screenshot somebody else took: Screenshot: Publication that took screenshot/Original Source
+(Add a link to the page where the screenshot appears in the “Credit URL” field.) promotional image: Courtesy Company Name image provided by a source or source’s family: Courtesy Source Name
+(You can hyperlink the source’s name to their website/social media profile when applicable.) multiple images: Use examples above; separate with semicolon. illustrations and art from Mother Jones staff for the website:
+Chart by Mother Jones
+Illustration by Mother Jones
+Photoillustration by Mother Jones pseudonyms
+When a pseudonym is used, explain it as early in the story as it makes sense to do so, in running text, rather than an asterisk/footnote. syndicated articles
+Syndicated articles cross-posted to our site should follow Mother Jones style if allowed by the syndication source. If not allowed, edit only for typos, broken links, and formatting. Include a top note like: This story was originally published by Grist and is shared here as part of the Climate Desk collaboration. Slurs​ should be handled situationally: You can spell them out if it’s crucial to the story (e.g., part of a quote that must be included; used in a first-person narrative; or central to a critique of the slur itself), unless you have reason not to in context. This guideline is deliberately loose, giving discretion to the editor and writer on a case-by-case basis. When in doubt, email styleguide@motherjones.com. If you ​do​ conceal a slur, use one hyphen per each letter omitted (e.g., c‐‐t, n‐‐‐‐r, f‐‐‐‐t). The phrase “n-word” takes lowercase “n” unless starting a sentence.​ It refers to the “er” word and not “nigga,” which has different connotations and intentions (depending on the speaker). Specify the latter if that’s the reference. Slurs in headlines​: Do not use slurs in headlines (with or without hyphens replacing letters). If a slur is important in a headline, use terms like “a racial slur” and name the slur in body copy. (Among other reasons not to, headline slurs can set off filters.) In ​videos​, there’s no need to bleep audio if the slur is newsworthy. For consistency, don’t censor the subtitle either. bad breaks
+A bad break happens when a word that runs over one line and onto another is split incorrectly. Avoid bad breaks, with these pointers: • Two-letter breaks are okay.
+• Do not break proper nouns unless necessary for fit.
+• Bad breaks that cause spacing issues (in short paragraphs or short line lengths) are up to designer discretion.
+• Allow no more than two consecutive hyphenated line endings.
+• Breaks that form two discrete words are unacceptable in most cases, as in read-just.
+• If a URL breaks at the end of a line, don’t hyphenate the break.
+For example, this is okay: Reach her at better
+campaigns.org/money. Whenever possible, break the URL at the punctuation and carry punctuation to the next line: bettercampaigns
+.org/money. Also okay: Reach her at bettercampaigns.org
+/money. bylines
+• Capitalize the “By”: By Mary Harris Jones (font, italicization, etc., are at the discretion of the art department).
+• “Photography by TK” rather than “Photographs by TK” endboxes
+The endbox looks like this ◼. Separate the endbox with an option-space (slightly more than one space; slightly less than two) between the final punctuation and the box. jumps
+Add (continued on page xx) at the end of the page before the jump, and (continued from page xx) at the beginning of the first line of the page following the jump. page numbers
+• For story references: (see page TK), omitting headlines unless there’s strong bonding between the text you’re jumping from and the headline’s wording on a case-by-case basis.  
+• En dash for page ranges: pages 32–34 read-throughs
+When possible, avoid pages ending with a period or hyphen. Decide on a case-by-case basis. signoffs
+• The signoff should have a space between the final punctuation and the em dash. Use bold and italics. —Mary Harris Jones
+• For sidebars by the same author who wrote the feature use initials with periods: —M.J.
+• For additional research or reporting: —Mary Harris Jones, with additional research by the Daniels King, Moattar, Friedman, Spinelli, and Schulman 
+• Fit signoffs into text lines; if one must be on its own line, justify it to the left. small caps
+Use small caps for acronyms and abbreviations and all-capped words that are three letters or more in the print magazine, including radio station call signs. Exceptions:
+• Use regular caps for postal addresses/acronyms such as PMB.
+• Use regular caps for a person’s initials like JFK and MLK unless the initials are part of an airport, organization, site, or street name (then use small caps). timelines
+For January+February issues with in-home delivery date in December:
+• use “this past winter” for the year you’re editing in; avoid “last winter”
+• use “last spring/summer” for the year you’re editing in
+• use “spring/summer/fall/winter of 20TK” to refer to one year before the year you’re editing in
+• avoid “last year”; specify which year widows
+A widow happens when the last line in a paragraph is noticeably shorter than the text column, leaving a large white space after the text. Widows are okay only if they are longer than one-third of the text column. If they’re shorter, point them out to art or editorial. deks
+Website deks always end with punctuation, even if they’re not complete sentences. headlines
+• Site headlines shouldn’t exceed 100 characters or three lines. One or two lines is ideal.
+• Use sentence case for social headlines and social deks. Only add a period when it’s a full sentence. quotation marks, apostrophes
+• WordPress mistakenly reverses quotation marks and apostrophes after italicized words and em dashes. Reporters and editors should email styleguide@motherjones.com or flag in #copy-edit for a manual fix. bold section lead
+• In all site posts, apply “section lead” format to the first three words or however many to complete the initial thought or phrase or name. Apply it under the “Formats” drop-down in WordPress. If any questions or you’d like a second look, swing by #copy-edit. a few more reminders
+• Add a sharp social headline in sentence case.
+• Add tags to your post.
+• Add related articles.
+• Hack your URL for SEO. Terms to know Bumper: Bumper: branded kicker at the end of a video Locator: Bug and lower third: Top right: bug. Bottom left: lower third (name and title). Thumbnail: Thumbnail: a still with text overlay • Delete filler words in subtitles like “um, uh, er, like” unless they add value. Sometimes they do. (Usually they don’t.) • Subs should match what the speaker actually says: “it’s” or “it is”? “gonna” or “going to”? “we’re” or “we are”? • “SOT” means “sound on tape,” referring to anyone speaking (other than our presenter or voiceover host). • “B-roll” means secondary footage. • Resist ellipses as a placeholder to mean “Hold on…more words are coming!” If you are punctuating a speaker’s midsentence stumble, use an em dash—(shift+option+hyphen). • Use serial commas: one, two, and three • Distribute subtitles evenly on top and bottom lines. • Use an en dash (option+hyphen) to indicate an offscreen speaker switch: –Oh really?
+–Yes really. Example: “–Climate justice!” is italicized as a chant by a chorus of speakers. • (laughs), (coughs), (cheering) is our style for videos. • If a video has graphic violence, excessive blood, or death, include a graphic warning card in the beginning. • Use English subtitles even if language switches midvideo. Don’t specify “(in Spanish),” “(in Arabic),” etc., unless it’s relevant. • [Wolf Blitzer]: ← speaker’s name in brackets only when necessary for clarity (e.g., offscreen). Colon goes outside. • Music/movie clips: Credit the studio/production/record company, whichever or whomever owns the rights. • TV shows: Credit the network. • In city/state locators, abbreviate states using postal codes, like Sacramento, CA. • Some well-known cities do not need state locators in videos: Austin, Atlanta, Baltimore, Boston, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Honolulu, Houston, Indianapolis, Las Vegas, Los Angeles, Memphis, Miami, Milwaukee, Minneapolis, Nashville, New Orleans, New York, Oklahoma City, Philadelphia, Phoenix, Pittsburgh, Portland, St. Louis, Salt Lake City, San Antonio, San Diego, San Francisco, Seattle • If adding date in videos, abbreviate as follows: Jan., Feb., March, April, May, June, July, Aug., Sept., Oct., Nov., Dec. Example: Sept. 8, 2023 Italicize our podcast and radio show, Reveal, and enclose episode titles in quote marks. @
+“at @” is one too many. Just @handle. hashtags
+Capitalize each word’s first letter if emphasizing social media origins, situationally: #MeToo, #BlackLivesMatter. Italics
+Wherever italics are not possible for titles, like on Facebook and Twitter, use double quotes instead: Pixar’s “Bao.” Our daily newsletter is the Mother Jones Daily. For email subject lines, use sentence case (not Title Case) and no period at the end unless it’s the second of two sentences. For fundraising emails specifically:
+• Subject line: [Sentence case]
+• Pre-header: [Appears in inbox preview] Needs a period at end so it doesn’t run into opening line of content in preview mode.
+• FirstName/Mother Jones Reader, (with comma)
+• P.S. (no colon) Link the words, not the final punctuation: Like this. Not like this. Exception: Call-to-action fundraisers can link everything for emphasis, including punctuation: Let’s pull together and take action! article corrections
+• All errors of fact must be corrected, and a correction note added to the bottom of the post in italics with the date. Example: Correction, May 15: An earlier version of this story misstated/misattributed TK. Correction notes should avoid restating the error unless restating the error is helpful for clarity or transparency. Only include the year if the correction is in a different year from the original post. • All corrections should be reviewed before publication by our research editor, our standards editor, and the story editor. If a correction is so timely that it needs posting before each is available to review it, the story editor can publish it directly at their discretion, and should then notify our research and standards editors.  • For most typos and inconsequential misspellings, just fix and move on, but if a name is misspelled throughout a story, a correction note is needed: Correction, May 15: TK’s name was misspelled in an earlier version of this article. • Do not use inline asterisks for corrections. The bottom note suffices. • If a correction is substantial enough that it changes the scope or nature of the story, also share the correction on social media. article updates
+• Updates add or clarify information without correcting facts. Examples include statements from spokespeople and breaking news developments like court rulings and death tolls. Some developments make for a new post instead of an update, so consider that option if more than a day has passed since your original story or if your update requires adding more than a few lines of text. • If an update is important enough, place it at the top of the story; otherwise place it at the bottom. Always include the date: Update, May 15: President Joe Biden announced… • If you’re updating the body of the story as opposed to tacking it on separately, summarize the update in your italicized note: Update, May 15: This story has been updated to reflect TK. • Always say what the update is instead of just This story has been updated. • If a breaking news story is still developing (e.g., active shooter), add this note at the bottom instead of issuing multiple updates: This is a developing story. Check back for updates. video corrections
+• All videos with major factual errors should be deleted from all platforms, and a correction note added to the description on YouTube/Facebook: Correction, May 15: An earlier version of this video misstated TK. If you’re keeping up the flawed video because the error is minor, just add a correction in the description: Correction, May 15: At 3:55, TK fact instead. (Our correction policy for deleting videos is stricter than for online articles because factually incorrect videos cannot be fixed after publication without deletion, whereas web articles can be fixed after publication.) email newsletter corrections
+• If email newsletters contain major factual errors that need fast correction, resend the newsletter the same day with a correction note in the subject line or email body. If the error doesn’t rise to that level, mention the correction in the next regularly scheduled newsletter. Style the note however fits the tone and topic; could be a top note (or a P.S.). If you see the error immediately after sending from Sailthru, quickly ping #email-ops to see if it’s possible to pause distribution and discuss options for resending. social media corrections
+• Decide situationally whether the social post has been up long enough and the error significant enough to merit correcting and/or deleting. On platforms with an edit option, correct the post and note that a correction has been made if it warrants it. On platforms that do not have an edit option, consider deleting the post and publishing a new one—unless you think deletion isn’t called for; in that case just reply to the post and note the correction if it needs it. (Scenarios when noting corrections is not needed may include minor factual slips like a typo in a name or an inconsequentially incorrect date.) When in doubt check with the research editor. live blogs
+• For live blogs covering election results and other developments within a single post, add updates at the top with time zone (example): 7:25 p.m. ET: Candidate TK has likely won… 7:05 p.m. ET: Results were barely in Tuesday night, but… 7:02 p.m. ET: As polls closed on the East Coast, the networks immediately predicted… • If updates roll onto the next day, mention the new date once: 10:30 a.m. ET: TK made a speech… March 2, 9:15 a.m. ET: TK made a speech… 7:05 p.m. ET: Results were barely in Tuesday night… 6:50 p.m. ET: As polls closed on the East Coast… Search our list first, then AP, then Webster. If you’re using Webster, go with Webster’s first or more common spelling (e.g., “labeled” is preferred to its variant “labelled”). A
+Abdel Fattah el-Sisi
+Abdullah, King
+A.D. is preferred for clarity, despite its specific religious roots (short for anno domini, “in the year of the Lord”). It’s generally not needed except to clarify when a date isn’t B.C. When using it, put it after the year or time period: 15 A.D. Note that this is the opposite of the AP’s rule for using A.D. Stick to this house guideline.
+adviser not advisor
+advocate As a noun, advocate can be followed by “for,” as in: He’s an advocate for sustainable building. It can also stand as a verb without the “for”: He advocates sustainable building. But it never takes “for” as a verb: He advocates for sustainable building is wrong.
+afterparty
+agrichemical not agrochemical
+AI for artificial intelligence, no periods
+airdrop
+airstrike
+Aita al Shaab
+a.k.a.
+al-Assad, Bashar
+alt-right
+Al Jazeera
+al-Qaeda
+al-Bashir, Omar
+al-Sadr (with full name), Sadr (when only last name is used); al-Shadri, Shadri. Follow this style for all names constructed Name al-Othername, unless there’s a different established spelling.
+al-Shabaab
+a.m., p.m.
+American Dream
+“Amtrak Joe” Biden, President Biden
+antifa
+antisemitic, antisemitism
+Arafat, Yasser
+archaeologist
+archconservative
+Arco okay on first reference for Atlantic Richfield Co.
+Associated Press Spell out on first reference (no italics), and abbreviate as the AP (including “the”) on later references.
+asylum seeker no hyphen
+author okay to stet as verb
+axe B
+Baath Party
+badmouth verb
+babysitter
+back seat noun, backseat adj., as in backseat driver
+Beltway as in inside-the-Beltway critics
+Ben Bagdikian Fellowship Program
+bestseller, bestselling
+Beverly Hills, 90210 with comma
+Big Four
+Big Lie capped, no quotes
+Big Oil
+Big Pharma
+Big Tech
+Big Tobacco
+binge-watch, bingeing
+birthrate
+Black Codes
+Black Hawk helicopter
+Black Twitter
+blood-red adj.
+bodycam
+bogeyman
+border crosser no hyphen
+both-sidesism
+Boy Scouts acceptable on second reference as the Scouts. As an adjective, drop the “s”: Boy Scout camp. When the word “scout” stands alone, lowercase: scout leaders, a scout camp. Also lowercase “scouts” (plural) when referring to a group of boys, as opposed to the organization. Example: The scouts sang campfire songs. The Scouts have continued to discriminate.
+Brady Bill
+brand new never hyphenate
+breakdancing
+BS for bullshit
+burqa C
+cafe, cafes
+carpool
+ceasefire
+cellphone
+changemaker
+chaperone
+chatroom
+cheatsheet
+checkboxes
+child care never hyphenate
+chile (not chili) for the pepper; chili for the stew
+city council lowercase when it stands alone; capitalize when it takes a city name
+clearcut, clearcutting (referring to trees); but hyphenate clear-cut when meaning is “unambiguous”: clear-cut case; the case isn’t clear-cut.
+Co., Corp. abbreviate per AP
+commander in chief
+“Contract With America” shorthand Contract is okay after first reference.
+copy edit (verb), copy editor, copy-edit process, copy-edited version
+couchsurfing
+coverup (noun), cover up (verb)
+crowdsource
+cueing not cuing D
+data (takes singular verbs): data is
+Dakota Access Pipeline, Keystone XL pipeline
+Dawa
+day one, day two lowercase, contra AP
+decision-making, decision maker
+deep state lowercase, but Deep State if used facetiously
+Deir Ezzor
+Democrat, Democratic cap in reference to Democratic Party, but not when
+used generically (a democratic society)
+Democratic National Convention, Democratic convention
+Democratic Republic of Congo: no “The” to start it; “Congo” on second
+reference.
+Department of Defense, Defense Department both accepted. DOD (in
+small caps in print) on second reference, not DoD.
+diehard in all cases
+direct-mail hyphenate as a compound: direct-mail campaign
+disrupter
+doggie
+doughnut not donut (unless you want to; the doughnut patrol is busy) 
+do’s and don’ts
+Don’t Ask, Don’t Tell
+dox, doxxed, doxxing
+Dred Scott v. Sandford
+drop out verb, dropout adj., noun
+Du Bois, W.E.B. instead of DuBois E
+Earned Income Tax Credit
+earth lowercase when referring to soil; capitalize for the planet
+e-bike
+eco-fascism
+editor-in-chief cap Editor-in-Chief on Mother Jones masthead or when preceding a name.
+e.g., with periods and always followed by comma
+Erbil not Irbil; a northern Iraqi/Kurdish city
+etc., followed by a comma when occurring in the middle of a sentence:
+Several chickens, cows, horses, etc., were spotted on the road.
+excessive force (shorthand), use of excessive force (in full) F
+fact-check verb, noun, adj.
+Fallujah
+far right, far left (no hyphen as noun); far-right group, far-left group (hyphenate as modifier)
+farmers market
+farmworker
+fedayeen
+firm Ignore AP’s distinction between a company and a firm. Use of “firm”
+okay in all instances.
+flyer advertising circular; flier: one who flies
+Food & Environment Reporting Network (ampersand)
+Forbes 400, Fortune 500
+fortuneteller, fortunetelling
+fossil fuel never hyphenate
+freakout noun, freak out verb
+freakshow
+fringy, fringiest
+frontline adj., front lines noun
+frontrunner
+fundraiser, fundraising G
+Gamergate
+G7 not G-7
+Generation X, Gen X, Gen Xer, Silent Generation
+Geneva Conventions but Article 3 of the Geneva Convention
+GEO Group no “the” before it
+germline
+GIF, GIFs
+goddamn, goddamnit, goddamned
+goodbye
+grades A+, B-, C+, etc.
+guestworker
+Gulf War, first Gulf War
+gun control never hyphenate H
+half-dozen
+handpick, handpicked
+hamfisted
+hardline, hardliner
+Head Start
+health care never hyphenate; day care, skin care
+hellbent
+hellraiser
+high school open as an adj. (unless confusing; then hyphenate)
+Highway See Interstate.
+hip-hop noun, adj.
+hogtied
+homepage, homescreen
+homeowners association
+homeschooled
+hotdish
+hot button noun; hyphenate when used as a compound modifier: hot-button issues.
+hotspot
+human rights never hyphenate
+Hussein, Uday I
+ice cream noun, adj., never hyphenated
+iced coffee not ice coffee
+ID’d, OD’d, ODing
+i.e., with periods and always followed by comma
+Ihor Kolomoisky rather than Igor
+Infowars
+Inter-Services Intelligence agency (ISI)
+Interstate 95 or I-95 either can be used on first reference
+Intifada to refer to Palestinian uprising; intifada in general
+Iran-Contra
+Iraq War
+ISIS stands for the Islamic State of (not “in”) Iraq and Syria J
+Jell-O trademark, jello generic
+jihadist not jihadi
+JLo for Jennifer Lopez
+Johnson & Johnson on first reference; J&J optional on later reference
+judgment
+Juul, Juul Labs K
+kaffeeklatsch, kaffeeklatsches, kaffeeklatschers
+Keystone XL pipeline, Dakota Access pipeline lowercase pipeline
+kickass
+King Abdullah
+Kislyak, Sergey
+Kyiv
+ L
+Labour Party
+left, left wing noun, left-wing adj., left-winger
+Libs of TikTok with spaces, but @LibsofTikTok (no spaces) with @ 
+lifespan
+lightbulb
+like button no quotes around the first word
+live blog noun, live-blog verb
+livestream in all cases
+Long Covid
+longform adj.
+long-term adj.
+longtime adj.
+long-standing adj.
+long shot noun, long-shot adj. M
+mac ’n’ cheese
+madrassa
+Mafia, mafioso, mafiosi, mafiya (Russian mafia), the Mob use lowercase
+mafia when it doesn’t refer to the Italian or American crime organizations.
+MAGA world
+Marshall Project, the not italicized
+MC or emcee, dealer’s choice
+Medvedev, Dmitri
+means-testing verb, noun
+media when referring to news media; “media” takes a singular verb if
+preceded by “the.” Example: The media is obsessed with Donald Trump. If not preceded by “the” and if referring to multiple news organizations, use a plural verb. Example: We uncover stories that big, corporate-driven media ignore.
+Medicare for All
+megachurch
+#MeToo, MeToo either 
+mic or microphone
+Mideast
+M.O. as in modus operandi
+Mohammed bin Salman
+Mother Jones, MotherJones.com, motherjones.com/this-story-is-great
+Muqtada al-Sadr
+mugshot
+Muhammad for the prophet of Islam
+mujahideen N
+naivete
+Nasdaq
+Navalny, Aleksei
+never-Trumpism
+New York magazine
+New York Times Magazine, the
+newsfeed
+nonfiction
+nonprofit, 501(c)(3)
+nonviolent
+Northern California O
+Obamacare
+OB-GYN
+Obiang, Teodoro
+okay do not abbreviate—unless you really want to.
+on-again, off-again
+onscreen, offscreen, onstage, offstage
+outsize
+over generally refers to spatial relationships. Use “more than” with numerals, but “over” is fine if it sounds better in context or space is tight.
+Overton Window P
+PAC, super-PAC
+pageview
+Paris agreement, Paris climate agreement, Paris climate accord
+Party of Lincoln, capped
+passerby
+Patriot Act
+paywall
+per capita always follows a noun, so never hyphenate
+photo essay
+photoillustration
+Pill lowercase if used with a modifier: birth control pill; cap if alone: the Pill
+porta-potty, porta-potties
+Postal Service, the post office, as in: Postal Service agents arrest Steve Bannon
+Pozner, Vladimir
+pre-pandemic
+primetime
+ProPublica not italicized
+protester not protestor Q
+Q&A
+Qaddafi, Moammar
+QAnon
+Qur’an not Quran or Koran R
+rainforest
+R&B
+Reddit, subreddit, /r/The_Donald
+real estate never hyphenate, even when it modifies a noun
+realpolitik
+recordkeeping
+Red cap when it refers to communism
+Red Scare refers to public fear of communism in the mid-1900s
+red-light district
+reelection
+Republican National Convention, Republican convention
+résumé not resume
+rideshare
+right, right wing noun, right-wing adj., right-winger
+R.I.P.
+rock ’n’ roll
+runup S
+satphone
+Sears Holding Corp. 2005 merger of Kmart and Sears, Roebuck and Co.
+seatbelt
+Sergey Lavrov
+service members
+Shah before or after name
+Shariah not Sharia
+sheikh
+Shiite not Shia
+shit ton no hyphen
+shitposting
+shitshow 
+shitstorm
+shockwaves
+smartphone
+smokescreen
+soft money open as a compound
+Soho (London), SoHo (NYC)
+Soleimani, Gen. Qassem
+soundbite
+soundtrack
+Southern California
+spartan not Spartan, unless referring to something from Sparta
+spear-phishing
+spray-paint, spray-painted
+Squad capitalize for the group consisting of Alexandria Ocasio-Cortez, Ayanna Pressley, Rashida Tlaib, and Ilhan Omar
+startup
+stop and frisk no hyphens as standalone noun; stop-and-frisk policy as a compound modifier preceding the noun
+storytime
+Sunni
+Supreme Court, the court (lowercase)
+Swift Boat/Boating for smear campaign, but lowercase swift boat as common noun to describe the boat as a vessel T
+taekwondo
+tagline
+tax-exempt, tax-deductible
+taxpayer, taxpaying
+tea party
+teachers union
+teenage, teenager use the adjective “teenage” instead of “teenaged”
+telephone numbers take hyphens, no parentheses: 415-665-6637
+throughline
+timeline
+Times of London
+the Today show not The Today Show
+tornadoes
+touchscreen
+Tourette syndrome
+tourniquet
+toward not towards
+Toys“R”Us
+train wreck
+Treasurys not Treasuries
+Trumpworld U
+Uyghur
+ultra-right-wingers
+Uncommitted movement
+underwater
+unfriend not de-friend
+United Kingdom noun, UK adj.
+United Nations noun, UN adj.
+United States noun, US adj., but US is also okay as a noun when it avoids repetition or saves space in sidebars, stat boxes, etc.; the same goes for UK and UN
+US Central Command
+U.S. News & World Report V
+voiceover W
+Walmart
+war on terror
+Washington, DC, with commas and no periods
+wellbeing
+whoa, unless you insist on “woah,” but why would you insist?
+wifi
+winner-takes-all
+wiseguy
+WMD not WMDs
+wokeism
+words use quotes (e.g., the word “color” has two syllables)
+workaround X
+X-ray Y
+yearlong, yearslong adj. with unspecified number of years, but three-years-long adj. with two hyphens when specifying number of years 
+YouTube capital T Z
+zip code not ZIP code Style and copy questions: styleguide@motherjones.com back to top
+ Subscribe to the Mother Jones Daily to have our top stories delivered directly to your inbox. By signing up, you agree to our privacy policy and terms of use, and to receive messages from Mother Jones and our partners. We need to raise $163,000 in online donations before the month ends and the election gets even louder after Labor Day. You know what’s at stake. And you know that Mother Jones is up for the hard, consequential work ahead. Please help with a donation of any amount if you can right now. And know that we’re grateful. We need to raise $163,000 in online donations before the month ends and the election gets even louder after Labor Day. You know what’s at stake. And you know that Mother Jones is up for the hard, consequential work ahead. Please help with a donation of any amount if you can right now. And know that we’re grateful. Daniel King Daniel King Daniel King Daniel King Sophie Hurwitz and Noah Lanard Russ Choma Julia Métraux Sponsored Post Americans United for Separation of Church and State Matt Simon Jonathan Watts Julianne McShane Julianne McShane Subscribe to the Mother Jones Daily to have our top stories delivered directly to your inbox. By signing up, you agree to our privacy policy and terms of use, and to receive messages from Mother Jones and our partners. Save big on a full year of investigations, ideas, and insights. Help Mother Jones' reporters dig deep with a tax-deductible donation. Inexpensive, too! Subscribe today and get a full year of Mother Jones for just $19.95. Award-winning photojournalism.  Stunning video. Fearless conversations. Subscribe to the Mother Jones Daily to have our top stories delivered directly to your inbox. By signing up, you agree to our privacy policy and terms of use, and to receive messages from Mother Jones and our partners. This site is protected by reCAPTCHA and the Google Privacy Policy and
+				Terms of Service apply.
+                Privacy Manager
+ 
+			Copyright © 2024 Mother Jones and the Foundation for National Progress. All Rights Reserved.Terms of Service
+Privacy Policy
+ 

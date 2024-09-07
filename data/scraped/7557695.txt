@@ -1,0 +1,225 @@
+The Home of the Security Bloggers Network Home » Security Boulevard (Original) » News » ‘See No Evil’ — Mozilla SLAMS Google’s App Privacy Labels Google’s Play Store publishes a “nutrition label” for each app—the Data Safety information. It’s supposed to tell you who gets to see your private data. But it appears the system is very broken: It’s totally self-policing, near-impossible for app developers to use, and full of loopholes—should the devs wish to lie. Oh, what a tangled web we weave. In today’s SB Blogwatch, we struggle to be brief. Your humble blogwatcher curated these bloggy bits for your entertainment. Not to mention: summer.jpg action figure. What’s the craic? Ivan Mehta reports—“Popular Android apps’ Play Store privacy labels don’t match up to their claims”: “Apple’s App Store, as well”Google added privacy nutrition labels for apps on the Play Store last April. [They] allow developers to disclose and explain the variety of data their apps collect from users, giving consumers a better understanding of what they are signing up for. But a new study by Mozilla claims that … popular apps including TikTok and Twitter share user data with advertisers, internet service providers and platforms—despite claiming not to do so in their data labels.…Companies are finding loopholes in the self-disclosures, resulting in misinformation regarding data labels, Mozilla’s report said. … Google exempts app makers from declaring any data sharing with “service providers,” which has a narrow definition in the search giant’s conditions.…Multiple reports have found that developers give false information about data sharing on Apple’s App Store, as well. … Google pushed back against Mozilla’s findings. Whatever next? Oh hay, Lily Hay Newman—“You Can’t Trust App Developers’ Privacy Claims”: “Doing more harm than good”It’s basically impossible to keep track of what all your mobile apps are doing … what data they share, with whom and when. … Google mandates that all app developers submitting to Google Play complete the Data Safety form. The rationale is that the developers are the ones who have the information on how their product handles data and interacts with other parties, not the app store.…Google [says] the Mozilla researchers misunderstood the scope of the privacy policies they were looking at or even consulted the wrong policies entirely. But the researchers say the privacy policies they used in their analysis are the exact policies each app developer links to on Google Play. … “Google’s own response to our research highlights the exact problem we highlighted,” … Jen Caltrider, Mozilla’s project lead … says. “What information are consumers to trust and rely on if the self-reported information from app developers in the Data Safety section is different from the privacy policies linked on the same app page?”…The definitions Google uses for the words “collection” and “sharing” are narrow, meaning that developers may not be required to report activity that users would think of as data collection and sharing. … Mozilla’s researchers … argue that the Data Safety information is currently doing more harm than good by giving users an inaccurate privacy picture of what’s going on. Yikes. Horse’s mouth? Anne Stopper, Ali Talip Pınarbaşı and Jen Caltrider—“Loopholes in Google’s Data Safety Labels Keep Companies in the Clear and Consumers in the Dark”: “Lack of enforcement”When it comes to knowing how online apps use our personal data, consumers are still largely unprotected. … 40% had major discrepancies between their privacy policies and their Data Safety Forms. … Consumers who want to protect their privacy and trust the information on Google’s Data Safety Form are being misled. … Google isn’t doing enough to ensure the information provided in their Data Safety Form is accurate and informative for consumers.…We graded the 20 most-installed paid apps. [50%] received the lowest grade [including] Minecraft. … Overall, the top 20 free apps fared better: [30%] received our lowest grade [including] Facebook, Messenger, Snapchat, and Twitter. … TikTok’s Data Safety Form says it doesn’t share data with third parties, but its privacy policy provides a list of third parties it does share data with, including … Facebook and Google.…The reporting rules Google imposes … include complicated terminology and definitions that may allow the apps to exploit loopholes. The information app developers provide on the Data Safety form is self-reported, and not closely monitored by Google for accuracy … and this lack of enforcement renders the quality of the information very poor. Ouch. And DanNeely is incensed: This is proof Google is only engaging in theater. Scraping the privacy policy to find discrepancies is trivially within their ability … and should also catch the most flagrant cases of incorrect You-Have-No-Privacy Policies—i.e., lying that “we share with no one” while connecting to multiple spyvertizing backends. But Google said Mozilla has it all wrong. Particle Decay has no time for that argument: I totally believe Mozilla’s side. While I’m not one to install a bunch of free apps and games on my phone, I still have various apps I use. I installed the DuckDuckGo App Tracking Protection beta and have been shocked how many apps have been blocked trying to send personal … data. But Google’s policies work both ways. As Java Pimp explains: I have some free apps on Google Play that use Google’s Ad Mob API for advertisements. So, when filling out that form, there’s no way to tell the users that “I, myself” don’t collect any information but it is Google that does via the Ad Mob api.…I could care less about any of the user information. I just wanted to create something fun and maybe collect a little extra cash. Looking at my store listings though it just says, “this app may collect these data types” and “this app may share these data types with third parties”. I actually do no such thing but we know Google does but Google lets my Apps take the fall for them. Another app developer, Mxm, agrees: I have an app in the Play Store, so was forced to complete Google’s Data Safety form. But frankly, I had to guess most of my answers. My own code collects zero user data, but the app does use Google’s ad service and getting any clear information out of Google about what they do with the data and how it should be entered in their own form was impossible.There should have been a simple checkbox on the form just to say that the app connects to Admob, but instead they forced every single developer to blindly complete a long list of detailed questions. Most developers probably gave wildly different answers for exactly the same thing. What stunt is Google trying to pull? Here’s andy o with some context: Also remember that this “privacy” self-reporting section came at the same time Google decided to remove the section that tells you which permissions the app requests. Yes … Google wanted to remove the permissions section from the app store, and they did for some time. It was only due to backlash that they put it back. If you don’t understand NoWayNoShapeNoForm’s cultural reference, ask your parents: [You’re fired—Ed.] In Other News: Scientists have determined that water is wet. Film at 11. Meanwhile, thegarbz channels Capt. Renault: I’m shocked! Shocked I tell you! Who would have thought an honour based system with minimal to no consequences would have failed. This was completely unforeseeable by anyone. xcopy copied Previously in And Finally You have been reading SB Blogwatch by Richi Jennings. Richi curates the best bloggy bits, finest forums, and weirdest websites … so you don’t have to. Hate mail may be directed to @RiCHi or [email protected]. Ask your doctor before reading. Your mileage may vary. Past performance is no guarantee of future results. Do not stare into laser with remaining eye. E&OE. 30. Image sauce: Osarugue Igbinoba (via Unsplash; leveled and cropped) Richi Jennings is a foolish independent industry analyst, editor, and content strategist. A former developer and marketer, he’s also written or edited for Computerworld, Microsoft, Cisco, Micro Focus, HashiCorp, Ferris Research, Osterman Research, Orthogonal Thinking, Native Trust, Elgan Media, Petri, Cyren, Agari, Webroot, HP, HPE, NetApp on Forbes and CIO.com. Bizarrely, his ridiculous work has even won awards from the American Society of Business Publication Editors, ABM/Jesse H. Neal, and B2B Magazine. richi has 654 posts and counting.See all posts by richi   Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

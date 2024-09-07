@@ -1,0 +1,106 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Aug 1, 2024, 7:48pm Asset management software helps organizations maximize asset utilization while minimizing the cost of owning and using assets. The best asset management software makes it easy to audit and track your assets as well as important asset details, such as purchasing and licensing fees, maintenance dates, asset location, usage compliance, user permissions, contract renewal dates and usage patterns. The very best asset tracking solutions will help you save more money than you’ll pay for the software.  Featured Partner 1 Reftab 14-day free trial Free (50 asset max.); starts at $31.25 per month for 250 assets Unlimited users, unlimited accessory tracking, track consumables 1 Reftab On Reftab’s Website 2 ShareMyToolbox Yes Starts at $80/month – Full Web and App Access plus $10/month each additional user, sold in blocks of 5 Field Transfers, Maintenance Tracking, Audits 2 ShareMyToolbox On ShareMyToolbox’s Website  The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, strategic methodologies and expert insights to inform all of our content and guide you in making the best decisions for your business journey. We reviewed several software providers using a detailed methodology to help you find the five best asset tracking software providers for small businesses. Our ratings considered factors, such as starting price, general features, customer ratings and an analysis by our panel of experts. All ratings are determined solely by our editorial team. Starting price  $83 per month (with annual billing) Free trial  14 days 
+ Standout feature  Manage both fixed and IT software assets 
+ 
+
+$83 per month
+(with annual billing)
+
+ $83 per month (with annual billing) 
+
+14 days
+
+
+ 14 days 
+ 
+
+Manage both fixed and IT software assets
+
+
+ Manage both fixed and IT software assets 
+ Asset Panda is an easy-to-use, flexible asset management solution that helps you track both fixed and IT software assets. You can view full details about all your assets in one place, including warranty and lease information, user manuals, purchase date, who is authorized for access, service and maintenance dates and asset location. The Asset Panda mobile apps for Android and iOS help you manage assets from anywhere. Customizable fields let you input asset data the way that works best for you and your team. Full asset audit trails ensure strong accountability and help you forecast future asset needs. Built-in barcode scanner technology means you don’t have to invest in pricey scanning equipment. Automatic notifications alert you when a contract or license is set to expire or service dates are approaching. You can also track repair and maintenance records for assets and achieve greater asset accountability with Asset Panda’s signature capture tool. Asset Panda offers unlimited users with every plan; plan prices are customized and scaled according to the number of assets you want to manage. Manage as few as 250 assets or more than 5,000. Who Should Use It Asset Panda tops Forbes Advisors’ list of best asset tracking software because it works well in so many industries, including construction, healthcare, education, government and nonprofits. Those looking for an easy-to-use, customizable asset management solution will want to take a close look at Asset Panda. Read: Asset Panda Review Starting price  Plans start at $955 per year for up to 250 IT assets 
+ Free trial  30 days 
+ Standout feature  Manage hardware and software 
+ 
+
+Plans start at $955 per year for up to 250 IT assets
+
+
+ Plans start at $955 per year for up to 250 IT assets 
+ 
+
+30 days
+
+
+ 30 days 
+ 
+
+Manage hardware and software
+
+
+ Manage hardware and software 
+ ManageEngine AssetExplorer is an IT asset management (ITAM) solution that helps you manage both software and hardware assets. With AssetExplorer, you can manage an asset’s entire life cycle, from the initial planning and acquisition to asset disposal. Use AssetExplorer to track and manage workstation and network devices across your organization. Easily scan installed software on every device and ensure you’re compliant with licensing terms. Audit asset usage and grant or withhold user permissions as appropriate. Identify areas where you’re overspending or underspending on IT assets. ManageEngine AssetExplorer helps you manage all of the Configuration Items (CIs) within your Configuration Management Database (CMDB) and enables you to track CI interdependencies with its relationship maps. Detailed predefined reports and custom query reports are available so you can monitor and track essential asset details. If you only have a few assets to track, you might want to go with AssetExplorer’s free version, which restricts you to managing no more than 25 assets. A 30-day trial of AssetExplorer Premium is available, which lets you test up to 250 assets. Licensing fees for AssetExplorer range from $955 per year for up to 250 assets to around $12,000 per year for 10,000-plus assets. Who Should Use It Because AssetExplorer scales so well, it is an effective tool for any size organization that needs a robust ITAM solution. Read: ManageEngine AssetExplorer Review Starting price  $27 a month for up to 20 devices 
+ Free trial  14 days 
+ Standout feature  Remote asset monitoring with a feature-rich mobile app 
+ 
+
+$27 a month for up to 20 devices
+
+
+ $27 a month for up to 20 devices 
+ 
+
+14 days
+
+
+ 14 days 
+ 
+
+Remote asset monitoring with a feature-rich mobile app
+
+
+ Remote asset monitoring with a feature-rich mobile app 
+ MMSOFT Design’s Pulseway is a remote monitoring and management (RMM) solution that was built for IT teams and managed service providers (MSPs). Pulseway is a mobile-first solution that lets you monitor, manage and troubleshoot technical assets across your entire network. The feature-rich mobile app lets you support users anywhere from any device that connects to the internet. Pulseway’s instant alerts let you know when problems happen in real time so that you can resolve them immediately, thereby minimizing downtime and end-user frustration. Automate repetitive IT tasks with ease and define multilevel auto-remediation workflows. Pulseway deployment is relatively easy, thanks to standard scripts and an intuitive interface that helps you get up and running with this RMM solution quickly. Who Should Use It Pulseway is best for medium to larger companies and MSPs that need a cloud-hosted solution that helps IT staff provide responsive support to end-users while keeping track of critical network assets to boost efficiency and resolve problems quickly. Starting price  Plans range from $500 per year for up to 200 assets 
+ Free trial  15 days 
+ Standout feature  Track tools, equipment and consumables 
+ 
+
+Plans range from $500 per year for up to 200 assets
+
+
+ Plans range from $500 per year for up to 200 assets 
+ 
+
+15 days
+
+
+ 15 days 
+ 
+
+Track tools, equipment and consumables
+
+
+ Track tools, equipment and consumables 
+ GoCodes makes it easy to track tools and equipment. You can use GoCodes on any computer or mobile device that connects to the internet. Assets are tracked via a patented QR code tag; once you add the QR label to an asset, the QR code can be scanned from anywhere. Automatic GPS tracking lets you know where the asset is every time the tag is scanned. You can also track consumables with GoCodes and receive low-quantity alerts when it’s time to restock. Approved users can check out and return assets quickly and easily. Automatic overdue reminders are sent when users keep an asset beyond the approved usage time frame. Pricing is based on the number of assets you need to manage and the number of user logins or asset administrators you require. Five GoCodes plans are available; the starting plan lets you manage up to 200 assets, while the top plans let you track 2,000 or more assets. GoCodes lets you easily audit your entire asset library and track every asset’s full history, from initial purchase to disposal. Custom reports allow you to view your asset data in a way that you find most helpful for your needs. Who Should Use It GoCodes is often used by construction companies that need to track tools and equipment, but GoCodes is also a good solution for other types of small and midsized organizations, such as schools and businesses that need to manage office equipment. Starting price  Custom pricing only 
+ Free trial  45 days 
+ Standout feature  Highly configurable for those with unique needs 
+ 
+
+Custom pricing only
+
+
+ Custom pricing only 
+ 
+
+45 days
+
+
+ 45 days 
+ 
+
+Highly configurable for those with unique needs
+
+
+ Highly configurable for those with unique needs 
+ Ivanti Neurons for IT asset management (ITAM) is a single offering within Ivanti’s larger suite of business technology products. The ITAM solution delivers essentials for managing both software and hardware IT assets from initial purchase to disposal. Ivanti comes with advanced technology asset management features that help you track asset performance, monitor costs and important service and renewal dates, manage assets while on the move and stay on top of vendor interactions. While Ivanti provides out-of-the-box reports and dashboards, the solution is highly configurable, so you can adapt the asset management tool to your needs. Ivanti Neurons for ITAM can be hosted on-premise but is typically hosted on Ivanti’s multi-tenant, cloud-based technology platform. Like many ITAMs, Ivanti comes with barcode scanning so you can track physical IT assets. Ivanti delivers an asset repository with a product catalog that helps you assess asset availability and usage to satisfy user needs while keeping business IT expenses in check. Who Should Use It Ivanti Neurons is a sophisticated ITAM best suited for large companies with complex asset management needs. It’s also a good solution for those already invested in the Ivanti suite of solutions. 
+ Asset management software is a tool that helps organizations track and manage their assets throughout the entire asset life cycle, from acquisition to disposal. There are several types of asset management software that can be used for managing a variety of assets, including physical assets, IT assets, digital assets and real estate assets. Organizations use asset management software to track asset costs and usage, manage maintenance, track repairs, monitor asset location, analyze asset performance and ensure compliance with regulations, such as software license usage. Using asset management software is an efficient and effective way to streamline asset acquisition and usage processes, which improves productivity, reduces costs and can extend the return on investment (ROI) your organization nets from its assets. To make the best asset management software choice for your organization, you need to consider your specific business needs and requirements. Here are a few critical questions that you should ask when exploring asset management software options: We also recommend researching the vendor’s reputation and track record to ensure it consistently delivers the exceptional quality you expect. The five asset management software options listed in this Forbes review—Asset Panda, ManageEngine AssetExplorer, MMSOFT Pulseway, GoCodes and Ivanti— are all top solutions that offer a full suite of essential features that make these providers worthy of a closer look. Several different categories of asset management software are available, each directed to specific needs. It’s vital that you select the solution that best fits your organization’s business requirements. Here are five popular types of asset management software: The exact features you need in your asset management software will depend on the type of assets you intend to manage. Here is a list of top features found in many different types of asset management solutions: You want to be confident that the asset management software you select is compatible with your company’s technology and software, including your current operating system. The software provider should give you a detailed list of system requirements necessary to run the software. Get clear on what’s expected from your team and what you can count on your software provider to do for you. For example, consider whether your IT team will be responsible for software installation and updates or whether that is handled through the provider. Also, make sure you understand where the software will be hosted—on a web server or cloud-based—and who will be hosting the software—your company or the software provider. Finally, asset management software should provide extensive security features to protect your assets and sensitive data from unauthorized access, loss or corruption. Top security features include secure data encryption, two-factor authentication, firewalls and intrusion detection, secure data backups, and regular security updates and patches. Strong analytics and reporting are crucial to making smart asset purchase and allocation decisions. Your asset management software should provide a full range of analytics and reporting capabilities that will help you gain insights into asset usage, performance, costs and other trends that are relevant to your business. You may want to track and analyze: You also want to ensure that your software provides robust reports that will give you greater visibility into the total value of your deployed assets and will help you make more informed asset decisions. Check out what types of reports are available—and whether custom reports are offered—before purchasing asset management software. Asset management system costs typically vary based on the number and type of assets you need to manage. Costs widely range from around $20 to over $1,000 per month. Some asset management providers also factor in the number of users allowed when pricing their solutions. For example, with GoCodes, you pay $500 annually for three user logins and up to 200 assets but will pay $2,500 annually if you need to manage 2,000 assets and require 20 user logins. Many top asset management solution providers, including Asset Panda and Ivanti, will provide a custom quote based on your unique needs; this can be especially beneficial if you need a solution that will easily scale with you as your needs change. Featured Partner 1 Reftab 14-day free trial Free (50 asset max.); starts at $31.25 per month for 250 assets Unlimited users, unlimited accessory tracking, track consumables 1 Reftab On Reftab's Website 2 ShareMyToolbox Yes Starts at $80/month - Full Web and App Access plus $10/month each additional user, sold in blocks of 5 Field Transfers, Maintenance Tracking, Audits 2 ShareMyToolbox On ShareMyToolbox's Website Forbes Advisor analyzed several asset management software solutions and gathered numerous data points into four main categories and multiple subcategories to create our best asset tracking management list for 2024. Many asset tracking solutions come with complicated pricing plans based on the volume of assets tracked and the number of software users. Tiered pricing can make it challenging to determine which solution is best based on the features and services offered. Forbes Advisor vetted each solution thoroughly and considered pricing variances versus value offered as we created this list. This accounted for 20% of our weighted scoring. We looked at key features offered, from the basics that every asset management solution must have to advanced features that can save you time, money and frustration. Asset audit tools, barcode labels, asset check-in/check-out features, mobile apps, customization, secure access and cloud storage, multilocation support and asset lifecycle management are all attributes Forbes Advisor explored as we conducted this intensive review. Forbes Advisor then reviewed reporting and analytics tools because asset tracking software should help you quickly assess who is using assets and how effectively each asset is being used. Other features that we considered essential included hardware management, access to a reporting dashboard and third-party software integrations. We weighted features at 40% of our total score. Factors that included customer support played a key role in this ranking. Even the best software requires intervention or explanation from support specialists, which is why we looked at the various methods of support offered as well as support hours for every solution we reviewed. To gain this information, we looked at what real users of the software providers thought about them based on reviews left on third-party review websites G2 and Trustpilot, especially those reviews where the provider scored at least a 3.5 out of 5 in the review. These accounted for 20% of the total score. Customer reviews also had a role in how our expert panel looked at the list of asset tracking software providers. They looked at specific categories, such as usability. Most organizations that purchase asset management software also want a solution that’s easy to install and implement, with a minimal learning curve to get up and running. So, we looked at how intuitive the software was for both beginners and more tech-savvy users. Other factors our experts analyzed included each software’s popularity, stand-out features and value for the price. This final analysis accounted for 20% of the total score. Asset Panda is Forbes Advisor’s choice for overall best asset management software. Asset Panda is an easy-to-use and flexible solution that’s ideal for managing both fixed and IT software assets. Other top asset management software options included Ivanti, GoCodes, MMSOFT Pulseway and ManageEngine AssetExplorer. It depends on how many physical assets you have to manage and how many people need access to that asset tracking software. quick response (QR) codes, barcode scanning, radio-frequency identification (RFID) tracking and GPS systems are common for a variety of businesses. Keeping track of multiple business assets can be difficult, especially when assets climb into the hundreds or thousands. Asset management software provides a centralized location for keeping track of crucial information about your company’s assets, including who is authorized for access, asset purchase date, asset costs, service and maintenance records, usage patterns and asset location. The more assets your company manages, the more likely you need an asset management software solution. Asset value is another consideration; the higher an asset’s value, the more likely you need a tool for managing its usage, location and other critical asset parameters. Without an effective asset management solution, you risk losing more assets to theft, purchasing duplicate assets that aren’t necessary and incurring more downtime as maintenance and service needs may not be adequately tracked. You also lose out on the opportunity to pinpoint asset under-usage, leaving you at risk for renewing costly, unnecessary asset leases. An asset management tool is your asset tracking software where you can keep track of all of your important physical assets in one place. Asset tracking helps businesses improve their operations and cut down on administrative redundancies. 
+                Janette Novak is a freelance journalist and consultant who specializes in teaching online business and small business marketing. Previously, Janette owned a boutique marketing agency and served as a Chief Marketing Officer for a leading professional training services provider.            

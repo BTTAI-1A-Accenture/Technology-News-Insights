@@ -1,0 +1,49 @@
+
+Study investigated treatment of patients with AML and initial findings suggest that EP0042 had acceptable safety and tolerability, with evidence of disease stabilisation
+ 
+Ellipses Pharma Limited ("Ellipses"), a global drug development company focused on accelerating the development of new oncology treatments, has presented preliminary data from the first in human phase 1/2 trial of EP0042, a dual FLT-3 an Aurora kinase inhibitor, in patients with acute myeloid leukaemia (AML) at the 64th American Society of Hematology (ASH) Annual Meeting in New Orleans, Louisiana.
+ 
+EP0042 is being developed as a new potential treatment to combat acquired resistance to FLT3 inhibitors in patients with AML. Around one third of patients with AML are diagnosed with FLT3-mutations, which are associated with a higher risk of relapse and poor clinical outcome.1 The preliminary data, from the ongoing dose ranging module of the trial, demonstrated that EP0042 had acceptable safety and tolerability with evidence of prolonged disease stabilisation in a number of heavily pre-treated patients.2 No dose-limiting toxicities were observed, and the emerging adverse event profile of EP0042 appears to be characterised by febrile neutropenia, fatigue diarrhoea, peripheral oedema, dizziness, and ataxia . The data were presented by Dr David Taussig, Consultant Haematologist at The Royal Marsden NHS Foundation Trust and Honorary Team Leader in Acute Leukaemia at the Institute for Cancer Research, during the poster session on Sunday, December 11, 2022.
+ 
+The preliminary data is based upon 25 patients across 6 dose cohorts including patients with FLT3 mutated and wild type AML at the point of enrolment. The median number of prior treatments was 2 (range 1-6), with a number of patients having received a prior FLT3 inhibitor.
+ 
+Once a recommended Phase-2 dose is confirmed, Ellipses intends to continue evaluating EP0042 as a monotherapy and explore EP0042 in combination with established standard treatments.
+ 
+Dr David Taussig, Consultant Haematologist at The Royal Marsden NHS Foundation Trust and Chief Investigator, said:
+ 
+"I am excited to lead the first in-human clinical trial of EP0042, a drug which I hope will ultimately improve outcomes of patients with AML, for whom current treatment regimens are often ineffective. I look forward to building on this early clinical data alongside my colleagues, as we take this potentially important candidate further into the clinic."
+ 
+Dr Rajan Jethwa, CEO of Ellipses, said:
+ 
+"Ellipses' unique approach to drug development allows us to accelerate drugs through the clinic and shorten the amount of time it takes for vital treatments to reach cancer patients. The preliminary data from EP0042 is a first step in potentially uncovering the promise that this compound holds and ultimately helping AML patients with limited treatment options."
+ 
+About EP0042
+ 
+EP0042 is a dual FLT3 and Aurora kinase inhibitor under development as a potential treatment for AML patients who have developed FLT3 inhibitor resistance. Dual inhibition of FLT3 and Aurora kinase has been shown to overcome acquired resistance to selective FLT3 inhibition both in vitro and in vivo.3
+ 
+About acute myeloid leukaemia
+ 
+Acute myeloid leukaemia (AML) is a cancer of the bone marrow, which begins to produce excess volumes of monocytes and granulocytes. It is one of the most common types of leukaemia in adults. Approximately 20,000 people are diagnosed with AML in the US each year,4 and a further 3,100 in the UK, with around 40% of cases being diagnosed in people over the age of 75.5 The 5-year survival rate following an initial diagnosis is currently 15%.6
+ 
+About Ellipses Pharma Limited
+ 
+Ellipses Pharma is a global drug development company based in London, focused on accelerating the development of cancer medicines and treatments through an innovative drug development model that combines unbiased vetting to de-risk initial asset selection with an uninterrupted funding flow to minimize the time it takes to advance lead products through clinical trials and reach patients.
+ 
+For more information, please visit ellipses.life.
+ 
+1 Lam, S. and Leung, A. 2020. Overcoming Resistance to FLT3 Inhibitors in the Treatment of FLT3-Mutated AML. International Journal of Molecular Science, 21(4): 1537.
+ 
+Gebru, M. and Wang, H-G. 2020. Therapeutic targeting of FLT3 and associated drug resistance in acute myeloid leukemia. Journal of Hematology & Oncology, 13, 155.
+ 
+2 Abstract 2768 EP0042, a dual FLT3 and aurora kinase inhibitor: preliminary results of an ongoing phase 1/2a First in Human (FIH) study in patients with relapsed/refractory acute myeloid leukemia (AML)
+ 
+3 Moore A et al. Leukemia 2012;26:1462–70; Tariq M et al. Br J Cancer 2021;125:966–74).
+ 
+4 American Cancer Society. Key Statistics for Acute Myeloid Leukemia (AML). Accessed 24th October 2022. https://www.cancer.org/cancer/acute-myeloid-leukemia/about/key-statistics.html
+ 
+5 Cancer Research UK. What is acute myeloid leukaemia (AML)? Accessed 24 October 2022. https://www.cancerresearchuk.org/about-cancer/acute-myeloid-leukaemia-aml/about-acute-myeloid-leukaemia
+ 
+6 Cancer Research UK. Survival for acute myeloid leukaemia (AML). Accessed 24 October 2022. https://www.cancerresearchuk.org/about-cancer/acute-myeloid-leukaemia-aml/survival
+ 
+ 
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20221212005242/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

@@ -1,0 +1,1 @@
+410 Client Error: Gone for url: https://www.investopedia.com/personal-finance/best-budgeting-software/

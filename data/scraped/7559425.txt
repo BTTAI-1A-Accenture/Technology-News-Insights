@@ -1,0 +1,61 @@
+Markets 
+
+
+ Hot Stocks 
+
+
+ Fear & Greed Index 
+
+
+ 
+            Latest Market News 
+
+
+ 
+            Hot Stocks 
+
+
+ 
+            US officials have long insisted the Chinese government may be able to view the personal information of TikTok users — but that claim was purely speculative. Until now.  
+     
+            In what appears to be a first, a former employee of ByteDance, TikTok’s Beijing-based parent company, has outlined specific claims that the Chinese Communist Party accessed the data of TikTok users on a broad scale, and for political purposes. 
+     
+            In a court filing this week, the former employee of ByteDance, Yintao Yu, alleged that the CCP spied on pro-democracy protesters in Hong Kong in 2018 by using “backdoor” access to TikTok to identify and monitor the activists’ locations and communications. 
+     
+            Multiple security experts told CNN that this appears to be the first reported allegation of the CCP accessing actual TikTok user data. The explosive claim, which ByteDance disputes, could inflame a global debate over whether TikTok poses a security threat and whether policymakers are right to ban the short-form video app.  
+     
+
+US venture capital titan Sequoia to split off China business amid tension with Beijing
+ 
+            The evidence, such as it is, remains rather thin. It is a sworn statement by Yu, who is suing ByteDance in a wrongful termination case in California state court. The declaration does not provide documentation, internal messages or other primary source materials to substantiate the claim.  
+     
+            But Yu, who pledged under penalty of perjury that he is telling the truth, alleges he viewed access logs showing that CCP officials — whom Yu described as part of a special “committee” with dedicated physical access to ByteDance’s Beijing offices — used a so-called “god credential” to bypass any privacy protections the company may have otherwise applied to the TikTok data.  
+     
+            “The Committee and external investigators used the god credential to identify and locate the Hong Kong protestors, civil rights activists, and supporters of the protests,” Yu alleged in the filing. “From the logs, I saw that the Committee accessed the protestors’, civil rights activists’, and supporters’ unique user data, locations, and communications.” 
+     
+            The filing was first reported by the Wall Street Journal. 
+     
+            TikTok declined to comment on the allegation. In a statement, a ByteDance spokesperson sought to discredit Yu’s claims as an opportunistic publicity grab. 
+     
+            “We plan to vigorously oppose what we believe are baseless claims and allegations in this complaint,” the statement said, adding that Yu’s employment at a ByteDance app known as Flipagram was terminated in 2018 after working for the company for less than a year. “It’s curious that Mr. Yu has never raised these allegations in the five years since his employment for Flipagram was terminated in July 2018. His actions are clearly intended to garner media attention.” 
+     
+            Types of data that the CCP may have accessed, Yu suggests, include device identifiers, network information such as IP addresses and users’ direct messages, along with search and browsing histories. TikTok announced its withdrawal from Hong Kong in 2020 after China imposed a national security law there.   
+     
+            James Lewis, an information security expert at the Center for Strategic and International Studies, and John Scott-Railton, an information security expert at the University of Toronto’s Citizen Lab, both agreed that Yu’s claim appears to be the first to identify a specific circumstance where the CCP has actually accessed TikTok data.  
+     
+            There have been isolated reports of improper access to TikTok data in the past. Most notably, ByteDance has acknowledged having fired a number of employees who sought to access account information belonging to several journalists. The improper access, company officials have said, was a misguided attempt at identifying the source of leaks to the press.  
+     
+            That situation appeared to have been limited to several individuals, however, and did not appear to involve agents working on behalf of the CCP. By contrast, US officials have characterized their suspicions of TikTok in much broader terms, describing fears of the Chinese government using TikTok data to inform large-scale intelligence gathering operations or to promote disinformation campaigns at a societal level. 
+     
+            When Rob Joyce, the National Security Agency’s director of cybersecurity, was asked by reporters in December to articulate his security concerns about TikTok, he offered a general warning about the potential for harm rather than a specific allegation. 
+     
+            “People are always looking for the smoking gun in these technologies,” Joyce said. “I characterize it much more as a loaded gun.” 
+     
+            TikTok CEO Shou Chew previously told US lawmakers that the company has never been asked by the Chinese government for data on its US users, and would never comply with such a request. TikTok has also said it is implementing a plan to store US user data on third-party US-based servers, with access to that data controlled by US employees. The company is moving to implement a similar solution for European data.  
+     
+            But Chew and other TikTok officials have also balked at answering specific questions about the nature of TikTok’s relationship to ByteDance or ByteDance’s relationship to the Chinese government. 
+     
+            The allegations by Yu concerning Hong Kong dissidents are much closer in nature to the type of concerns raised by the US government. They imply the direct interference of Chinese officials in the business operations of a private company, ultimately leading to broad-based surveillance intended to shut down democratic activity.  
+     
+            Yu’s claims have still yet to be proven. But they provide a rare, if not the first, substantive accusation of what many have hypothesized as merely a possibility.  
+     Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

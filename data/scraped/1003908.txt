@@ -1,0 +1,54 @@
+Markets 
+
+
+ Hot Stocks 
+
+
+ Fear & Greed Index 
+
+
+ 
+            Latest Market News 
+
+
+ 
+            Hot Stocks 
+
+
+ 
+            California authorities have asked General Motors to “immediately” take some of its Cruse robotaxis off the road after autonomous vehicles were involved in two collisions – including one with an active fire truck – last week in San Francisco. 
+     
+            California’s Department of Motor Vehicles confirmed to CNN that it is investigating “recent concerning incidents involving Cruise vehicles in San Francisco.” 
+     
+            “The DMV is in contact with Cruise and law enforcement officials to determine the facts and requested Cruise to immediately reduce its active fleet of operating vehicles by 50% until the investigation is complete and Cruise takes appropriate corrective actions to improve road safety,” the department said in a statement. 
+     
+            That means Cruise, which is the self-driving subsidiary of General Motors, can have no more than 50 driverless cars in operation during the day, and 150 in operation at night, according to the department.  
+     
+            The California DMV said that Cruise has agreed to the request, and a spokesperson from Cruise told CNN that the company is investigating the firetruck crash as well. 
+     
+            The accidents come less than two weeks after California regulators officially gave the green light for Cruise and competitor Waymo to charge money for robotaxi trips around San Francisco at any time of day. Prior to the approval, Cruise was only authorized to offer fared passenger service from driverless cars overnight from 10 pm to 6 am, when there are fewer pedestrians or traffic that could confuse the autonomous vehicle’s software. 
+     
+            The collisions, which both occurred on Thursday, reveal potential risks of driverless technology. 
+     
+            In a blog post, Cruise’s general manager for San Francisco said the firetruck crash occurred when an emergency vehicle that appeared to be en route to an emergency scene moved into an oncoming lane of traffic to bypass a red light. Cruise’s driverless car identified the risk, the blog post said, but it “was ultimately unable to avoid the collision.”
+     
+            That crash resulted in one passenger being taken to the hospital via ambulance for seemingly minor injuries, according to the company. 
+     
+            Cruise told CNN the other crash on Thursday took place when another car ran a red light “at a high rate of speed.” 
+     
+            “The AV detected the vehicle and braked but the other vehicle made contact with our AV. There were no passengers in our AV and the driver of the other vehicle was treated and released at the scene,” Hannah Lindow, a Cruise spokesperson, told CNN. 
+     
+            It is unclear whether the two accidents would have been avoided had there been a human driver rather than an autonomous vehicle (AV) involved – but the crashes were not the only two incidents involving Cruise’s driverless cars in San Francisco last week. 
+     
+            On Tuesday, Cruise confirmed on X, formerly known as Twitter, that one of its driverless taxis drove into a construction area and stopped in wet concrete. 
+     
+            “This vehicle has already been recovered and we’re in communication with the city about this,” the company said. 
+     
+            The recent events underscore the challenges of creating safe, fully driverless passenger vehicles. 
+     
+            General Motors acquired Cruise Automation in 2016 for $1 billion, solidifying its place in the autonomous vehicles race, but many companies have since scaled back, or abandoned their driverless car ambitions. The endeavor has proven costly, and mastering all situations that humans might face behind the wheel is difficult and time-consuming. 
+     
+            Ridesharing giants Uber and Lyft have both sold autonomous vehicle units in recent years. Even Tesla CEO Elon Musk, who has been optimistic about autonomous vehicle technology, has yet to fully deliver on his promise.
+     
+            Tesla vehicles now come with the option to add a “full self-driving” feature in beta-testing for $15,000, but drivers must agree to “stay alert, keep your hands on the steering wheel at all times and maintain control of your car.” 
+     Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

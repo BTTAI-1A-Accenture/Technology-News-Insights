@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://syvnews.com/opinion/columnists/high-tech-california-struggles-to-use-technology-managing-state-government-dan-walters/article_913fdbc9-642e-5cd7-9214-cee0ea1c2315.html

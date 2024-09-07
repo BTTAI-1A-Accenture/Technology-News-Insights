@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ VMware suspected that their sales conversion rate was falling when the time taken to move the opportunity through the sales process increased.  They needed the data to prove it, and they needed a solution to help them identify the root causes and areas for improvement.  They turned to process mining and Celonis. During the San Francisco stop on Celonis World Tour 2023, Pratap Aditya, Director Business Process Management and RPA Operations at VMware, shared how the virtualization pioneer and cloud services provider is using Celonis EMS to improve their sales pipeline hygiene and accelerate sales opportunities. “Every enterprise is a collection of processes,“ said Aditya. “We want to use Celonis for as many processes as possible.” VMware’s Business Process Management (BPM) team is primarily responsible for helping the company shift from on-premises offerings to SaaS offerings and providing a seamless customer experience.  The BPM team began using Celonis EMS for the platform’s ability to provide automated process discovery and data-driven process diagnostics. Using Celonis the team would be able to benchmark processes (both internal and external) and help them business value and baseline KPIs for tech programs (such as migrating ERP systems). VMware had used Celonis for processes such as order management and invoicing, but the BPM team thought process mining could also improve their MSO sales opportunities management.  Aditya said VMware’s lack of detailed analysis on sales opportunity progress was preventing the company from taking a data-driven approach to optimizing the opportunity management process.  Additionally, there was no visibility into the journey of an opportunity through the process or the speed with which it was moving from one stage to the next. This bad opportunity hygiene caused several problems: The BPM team implemented Celonis with the goals of:  Using Celonis, VMware discovered that significant value was hiding in their sales pipeline. By analyzing the variants in their sales process, the BPM team identified several areas for improvement, including the following: Additionally, the BPM team ran benchmarks for KPIs such as sales velocity and close rate on sales opportunities based on factors such as status, geographic region, territory, segment and product. They found that there was a considerable variance in conversion rate between products and that the opportunity conversion rate fell with an increase in the time it took to move through the sales process stages. With the above learnings, the team took several corrective actions: The team also shared several key takeaways with Sales leadership, for example: Aditya said that VMware plans to expand its use of Celonis for optimizing the MSO sales opportunity management process, the following ways: This article was written by Bill Detwiler and originally published on Celonis.com   Business and Digital Transformation Enthusiast | Operational Excellence | Innovation Great success story!  Global Ecosystem Partnerships @ Celonis Brian Klochkoff Guilherme Gornati Brian Dunn Jackson Smith Patrick Moore Matt Miller - everyone is doing it! People Leader | Business Digital Transformation and Improvement | Process Excellence, Re-engineering & Automation | Intelligent Process Automation (IPA) | Technology enthusiast and speaker Great story and success from my friends in the #BPM team. Also a great source of opportunities for our #IntelligentAutomation pipeline. AI/ML Enthusiast | Intelligent Automation Evangelist | Digital Transformation Leader | Author | Speaker | Advisory Board Member | Nonprofit Board Member | Ex-Goldman Sachs, Ex-VMware, Ex-UiPath Incredible success story, very well done Pratap Aditya 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

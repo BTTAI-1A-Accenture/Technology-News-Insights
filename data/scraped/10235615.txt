@@ -1,0 +1,37 @@
+
+Acquisition enhances SafeBase’s market-leading position as the Trust Center platform for enterprises
+ SAN FRANCISCO--(BUSINESS WIRE)--SafeBase, the leading Trust Center platform that helps security teams automate the security review process and accelerates sales deals, today announced that it is acquiring Stacksi, the A.I.-powered security questionnaire automation platform. The acquisition advances the two companies’ shared vision to eliminate the time-consuming, cumbersome task of responding to security questionnaires in the B2B buying process.
+
+  
+With a SafeBase Trust Center, organizations can be more proactive and transparent about their security postures in the selling process, positioning security as a selling point and accelerating sales cycles. Hundreds of organizations around the world, including LinkedIn, Asana, Jamf, and Snyk leverage a SafeBase Trust Center with seamless workflow integrations, automated NDA-signing, and back-end analytics.
+
+ 
+“With a SafeBase Trust Center, security and GRC teams can provide potential customers with all the information they need to make a confident buying decision. But we recognize that there are times when you have to — or want to — respond to a buyer’s security questionnaire as well,” said Al Yang, CEO and co-founder of SafeBase. “The addition of Stacksi will help our growing customer base leverage their existing knowledge and documentation to quickly and, most importantly, accurately, respond to buyers’ questions. That automation will accelerate the time-to-trust between companies and their buyers.”
+
+ 
+Stacksi’s flagship product offering leverages A.I. and a company’s existing security documentation to automate responses to security questionnaires quickly and accurately. The acquisition of Stacksi will augment SafeBase’s existing Trust Center technology to create the world’s most robust, end-to-end platform for demonstrating a company’s security credentials to buyers and customers.
+
+ 
+“Security is at the core of Vercel’s Frontend Cloud. It is critical to our success that we’re able to communicate our practices and posture to customers effectively,” said Ty Sbano, CISO, Vercel. “Both SafeBase and Stacksi have demonstrated a clear commitment to improving the security due diligence through automation. As they join forces, we are excited to bring an improved experience to our prospects and customers, and further increase their confidence in our industry-leading security.”
+
+ 
+Cybersecurity is gaining importance as a factor in the B2B buying decision. Gartner predicts that by 2025, 60% of organizations will use cybersecurity risk as a primary determinant in conducting third-party transactions and business engagements. SafeBase’s network of Trust Centers helps security teams, sales teams, and their buyers conduct security reviews quickly, easily, and transparently.
+
+ 
+Founded in 2020, SafeBase has raised $20M to date. Having graduated from Y Combinator that same year, SafeBase is backed by New Enterprise Associates (NEA) and dozens of angel investors and leading cybersecurity executives including Jim Alkove, former CISO and Chief Trust Officer at Salesforce, Inc., Ofer Ben Noon, CEO and Co-founder at Talon, The Enterprise Browser, and William Lin, former Managing Director at Forgepoint Capital, a multi-stage cybersecurity focused venture fund.
+
+ 
+About SafeBase
+ 
+SafeBase empowers security & governance, risk, and compliance teams to develop a customer-facing, scalable Trust Center that automates the security review process between buyers and sellers. Fast-growing companies like LinkedIn, Asana, Jamf, and Snyk use SafeBase to reduce security questionnaires, create a better buying experience, accelerate sales velocity, and position security as a revenue driver. To learn more, visit www.safebase.com.
+
+ 
+Catie Neuwirth, Head of Corporate Marketing
+catie@safebase.io 
+203-644-1008
+
+ 
+Catie Neuwirth, Head of Corporate Marketing
+catie@safebase.io 
+203-644-1008
+

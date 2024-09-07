@@ -1,0 +1,657 @@
+
+					Covering the business and politics of space				 HELSINKI — A light-lift solid rocket sent an experimental “plate-like” stackable satellite into orbit late Thursday as the country looks to build its answer to Starlink. 
+
+
+
+
+
+A Kuaizhou-1A solid rocket lifted off from a TEL into blue skies above the Jiuquan Satellite Launch Center in the Gobi Desert at 10:35 p.m. June 8. The China Aerospace Science and Industry Corporation (CASIC) confirmed launch success a short time later.
+
+
+
+
+
+Aboard the flight was the Longjiang-3 experimental stackable communications satellite, jointly developed by a commercial satellite company and its parent entity, the Harbin Institute of Technology (HIT), in Northeast China.
+
+
+
+
+
+The Harbin Institute of Technology Satellite Technology Co., Ltd., or HITSat, said in a statement that Longjiang-3 will test communication technologies including signal regeneration and network slicing, and provide technical support for China’s satellite Internet construction.
+
+
+
+
+
+HITSat was established in December 2020 and is developing a number of small satellite platforms. The SATware-CS200 Ka-band satellite platform, on which Longjiang-3 is based, is capable of downlink speeds of 600 Mbps and 500 Mbps uplink. The platform has a mass of 120 kilograms with 40 kilograms of payload available. It has a design life of five years and uses electric propulsion.
+
+
+
+
+
+A render from HITSat indicates Longjiang-3 to be a flat panel design with a single, foldable solar array. The platform is designed for mass production, automatic assembly and stacked launches, according to HITSat. The configuration makes it similar to SpaceX Starlink satellites. 
+
+
+A render of the Longjiang-3 experimental communications satellite. (Credit: HITSat)
+HITSat is also developing other platforms specialized for hosting remote sensing and synthetic aperture radar payloads. A 2021 Chinese language article stated that HITSat has secured dozens of commercial satellite contracts.
+
+
+
+
+
+China is currently developing plans to build its own low Earth orbit satellite megaconstellation that would provide its own answer to Starlink. It would provide satellite internet infrastructure for China and potentially rival Starlink and other systems, while also positioning China as a provider of global infrastructure.
+
+
+
+
+
+Known as “Guowang,” or national network, the constellation is expected to eventually consist of 13,000 satellites, according to filings with the ITU. It is not known if HITSat will be involved in the project. 
+
+
+
+
+
+CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  A Kuaizhou-1A solid rocket lifted off from a TEL into blue skies above the Jiuquan Satellite Launch Center in the Gobi Desert at 10:35 p.m. June 8. The China Aerospace Science and Industry Corporation (CASIC) confirmed launch success a short time later.
+
+
+
+
+
+Aboard the flight was the Longjiang-3 experimental stackable communications satellite, jointly developed by a commercial satellite company and its parent entity, the Harbin Institute of Technology (HIT), in Northeast China.
+
+
+
+
+
+The Harbin Institute of Technology Satellite Technology Co., Ltd., or HITSat, said in a statement that Longjiang-3 will test communication technologies including signal regeneration and network slicing, and provide technical support for China’s satellite Internet construction.
+
+
+
+
+
+HITSat was established in December 2020 and is developing a number of small satellite platforms. The SATware-CS200 Ka-band satellite platform, on which Longjiang-3 is based, is capable of downlink speeds of 600 Mbps and 500 Mbps uplink. The platform has a mass of 120 kilograms with 40 kilograms of payload available. It has a design life of five years and uses electric propulsion.
+
+
+
+
+
+A render from HITSat indicates Longjiang-3 to be a flat panel design with a single, foldable solar array. The platform is designed for mass production, automatic assembly and stacked launches, according to HITSat. The configuration makes it similar to SpaceX Starlink satellites. 
+
+
+A render of the Longjiang-3 experimental communications satellite. (Credit: HITSat)
+HITSat is also developing other platforms specialized for hosting remote sensing and synthetic aperture radar payloads. A 2021 Chinese language article stated that HITSat has secured dozens of commercial satellite contracts.
+
+
+
+
+
+China is currently developing plans to build its own low Earth orbit satellite megaconstellation that would provide its own answer to Starlink. It would provide satellite internet infrastructure for China and potentially rival Starlink and other systems, while also positioning China as a provider of global infrastructure.
+
+
+
+
+
+Known as “Guowang,” or national network, the constellation is expected to eventually consist of 13,000 satellites, according to filings with the ITU. It is not known if HITSat will be involved in the project. 
+
+
+
+
+
+CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  Aboard the flight was the Longjiang-3 experimental stackable communications satellite, jointly developed by a commercial satellite company and its parent entity, the Harbin Institute of Technology (HIT), in Northeast China.
+
+
+
+
+
+The Harbin Institute of Technology Satellite Technology Co., Ltd., or HITSat, said in a statement that Longjiang-3 will test communication technologies including signal regeneration and network slicing, and provide technical support for China’s satellite Internet construction.
+
+
+
+
+
+HITSat was established in December 2020 and is developing a number of small satellite platforms. The SATware-CS200 Ka-band satellite platform, on which Longjiang-3 is based, is capable of downlink speeds of 600 Mbps and 500 Mbps uplink. The platform has a mass of 120 kilograms with 40 kilograms of payload available. It has a design life of five years and uses electric propulsion.
+
+
+
+
+
+A render from HITSat indicates Longjiang-3 to be a flat panel design with a single, foldable solar array. The platform is designed for mass production, automatic assembly and stacked launches, according to HITSat. The configuration makes it similar to SpaceX Starlink satellites. 
+
+
+A render of the Longjiang-3 experimental communications satellite. (Credit: HITSat)
+HITSat is also developing other platforms specialized for hosting remote sensing and synthetic aperture radar payloads. A 2021 Chinese language article stated that HITSat has secured dozens of commercial satellite contracts.
+
+
+
+
+
+China is currently developing plans to build its own low Earth orbit satellite megaconstellation that would provide its own answer to Starlink. It would provide satellite internet infrastructure for China and potentially rival Starlink and other systems, while also positioning China as a provider of global infrastructure.
+
+
+
+
+
+Known as “Guowang,” or national network, the constellation is expected to eventually consist of 13,000 satellites, according to filings with the ITU. It is not known if HITSat will be involved in the project. 
+
+
+
+
+
+CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  The Harbin Institute of Technology Satellite Technology Co., Ltd., or HITSat, said in a statement that Longjiang-3 will test communication technologies including signal regeneration and network slicing, and provide technical support for China’s satellite Internet construction.
+
+
+
+
+
+HITSat was established in December 2020 and is developing a number of small satellite platforms. The SATware-CS200 Ka-band satellite platform, on which Longjiang-3 is based, is capable of downlink speeds of 600 Mbps and 500 Mbps uplink. The platform has a mass of 120 kilograms with 40 kilograms of payload available. It has a design life of five years and uses electric propulsion.
+
+
+
+
+
+A render from HITSat indicates Longjiang-3 to be a flat panel design with a single, foldable solar array. The platform is designed for mass production, automatic assembly and stacked launches, according to HITSat. The configuration makes it similar to SpaceX Starlink satellites. 
+
+
+A render of the Longjiang-3 experimental communications satellite. (Credit: HITSat)
+HITSat is also developing other platforms specialized for hosting remote sensing and synthetic aperture radar payloads. A 2021 Chinese language article stated that HITSat has secured dozens of commercial satellite contracts.
+
+
+
+
+
+China is currently developing plans to build its own low Earth orbit satellite megaconstellation that would provide its own answer to Starlink. It would provide satellite internet infrastructure for China and potentially rival Starlink and other systems, while also positioning China as a provider of global infrastructure.
+
+
+
+
+
+Known as “Guowang,” or national network, the constellation is expected to eventually consist of 13,000 satellites, according to filings with the ITU. It is not known if HITSat will be involved in the project. 
+
+
+
+
+
+CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  HITSat was established in December 2020 and is developing a number of small satellite platforms. The SATware-CS200 Ka-band satellite platform, on which Longjiang-3 is based, is capable of downlink speeds of 600 Mbps and 500 Mbps uplink. The platform has a mass of 120 kilograms with 40 kilograms of payload available. It has a design life of five years and uses electric propulsion.
+
+
+
+
+
+A render from HITSat indicates Longjiang-3 to be a flat panel design with a single, foldable solar array. The platform is designed for mass production, automatic assembly and stacked launches, according to HITSat. The configuration makes it similar to SpaceX Starlink satellites. 
+
+
+A render of the Longjiang-3 experimental communications satellite. (Credit: HITSat)
+HITSat is also developing other platforms specialized for hosting remote sensing and synthetic aperture radar payloads. A 2021 Chinese language article stated that HITSat has secured dozens of commercial satellite contracts.
+
+
+
+
+
+China is currently developing plans to build its own low Earth orbit satellite megaconstellation that would provide its own answer to Starlink. It would provide satellite internet infrastructure for China and potentially rival Starlink and other systems, while also positioning China as a provider of global infrastructure.
+
+
+
+
+
+Known as “Guowang,” or national network, the constellation is expected to eventually consist of 13,000 satellites, according to filings with the ITU. It is not known if HITSat will be involved in the project. 
+
+
+
+
+
+CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  A render from HITSat indicates Longjiang-3 to be a flat panel design with a single, foldable solar array. The platform is designed for mass production, automatic assembly and stacked launches, according to HITSat. The configuration makes it similar to SpaceX Starlink satellites. 
+
+ HITSat is also developing other platforms specialized for hosting remote sensing and synthetic aperture radar payloads. A 2021 Chinese language article stated that HITSat has secured dozens of commercial satellite contracts.
+
+
+
+
+
+China is currently developing plans to build its own low Earth orbit satellite megaconstellation that would provide its own answer to Starlink. It would provide satellite internet infrastructure for China and potentially rival Starlink and other systems, while also positioning China as a provider of global infrastructure.
+
+
+
+
+
+Known as “Guowang,” or national network, the constellation is expected to eventually consist of 13,000 satellites, according to filings with the ITU. It is not known if HITSat will be involved in the project. 
+
+
+
+
+
+CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  China is currently developing plans to build its own low Earth orbit satellite megaconstellation that would provide its own answer to Starlink. It would provide satellite internet infrastructure for China and potentially rival Starlink and other systems, while also positioning China as a provider of global infrastructure.
+
+
+
+
+
+Known as “Guowang,” or national network, the constellation is expected to eventually consist of 13,000 satellites, according to filings with the ITU. It is not known if HITSat will be involved in the project. 
+
+
+
+
+
+CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  Known as “Guowang,” or national network, the constellation is expected to eventually consist of 13,000 satellites, according to filings with the ITU. It is not known if HITSat will be involved in the project. 
+
+
+
+
+
+CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  CASC subsidiary CAST and Microsat under the Chinese Academy of Sciences are understood to be contracted to manufacture satellites for Guowang. Meanwhile, private firm GalaxySpace is expected to launch its first flat panel satellites with flexible solar arrays in the second half of 2023. The country has in recent years greatly increased its small sat production capabilities.
+
+
+
+
+
+China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  China is at the same time looking to boost its launch capacity to get its Guowang satellites into orbit. Measures being taken include adapting the Long March 5B to use an upper stage to insert numerous satellites into orbit, ramping up production of the expendable Long March 8, and possibly leveraging the emerging commercial launch sector.
+
+
+
+
+
+The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  The Kuaizhou-1A used for the Longjiang-3 launch consists of three solid stages and a liquid propellant upper stage. It is capable of carrying 200 kilograms of payload into a 700-kilometer sun-synchronous orbit (SSO).
+
+
+
+
+
+Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  Thursday’s launch was the 20th of the Kuaizhou-1A. The mission suffered a roughly 11-week delay after a late March launch attempt was scrubbed. 
+
+
+
+
+
+Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  Expace, which operates Kuaizhou solid rockets for state-owned defense giant CASIC and its commercial space projects, is planning a total of seven launches of its Kuaizhou-1A and larger Kuaizhou-11 rockets. Both vehicles had successful comebacks last year following failures. 
+
+
+
+
+
+Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  Commercial space firms Galactic Energy and iSpace have also launched solid rockets in the same class this year, with more planned. Overall, China’s commercial players could launch more than 20 times this year.HIT previously developed the Longjiang-1 and 2 small satellites that piggybacked on the launch of the Queqiao lunar relay satellite to support the Chang’e-4 lunar far side landing mission. The Longjiang satellite name comes from Heilongjiang (“Black Dragon river”), also known as the Amur river, which runs through the Chinese province of the same name, and of which Harbin is the capital.
+
+
+
+
+Related
+  
+							Andrew Jones covers China's space industry for SpaceNews. Andrew has previously lived in China and reported from major space conferences there. Based in Helsinki, Finland, he has written for National Geographic, New Scientist, Smithsonian Magazine, Sky...							
+							More by Andrew Jones							
+ all dispatches >> all events >> Get top stories, military space news and more delivered to your inbox.

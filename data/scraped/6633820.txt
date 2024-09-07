@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.smdailyjournal.com/business/intels-3q-sings-but-computer-market-out-of-tune/article_f13d8b49-c36f-56dd-afe0-59145424cedd.html

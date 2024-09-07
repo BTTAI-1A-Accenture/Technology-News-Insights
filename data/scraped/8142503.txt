@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/pharmather-holdings-provides-corporate-update/article_2e3cb61f-e30f-5a0d-ae60-5a01b56ed293.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/mitsubishi-electric-and-coherent-enter-into-a-collaboration-to-scale-manufacturing-of-sic-power-electronics/article_a56221d2-8996-5403-b999-8da33e21d336.html

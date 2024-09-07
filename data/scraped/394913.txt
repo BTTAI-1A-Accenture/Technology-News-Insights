@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.news-journal.com/benchling-delivers-an-integrated-r-d-ecosystem-with-new-product-offerings/article_0931c2ad-da83-5ea1-9188-0b330a6f66d0.html

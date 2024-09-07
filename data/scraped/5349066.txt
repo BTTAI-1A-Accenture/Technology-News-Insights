@@ -1,0 +1,25 @@
+
+                    Sequential/Getty Images
+                    Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Aaron Boyd
+ The Defense Department is planning the third iteration of its Hack the Pentagon program with a focus on identifying vulnerabilities in the operational technologies that keep the iconic building and grounds running.  The DOD launched the Hack the Pentagon program in 2016 with vendor HackerOne coordinating a bug bounty program on the department’s public websites. More than 1,400 hackers joined in the first round, discovering 138 unique vulnerabilities and tallying $75,000 in bounty rewards.  The program was expanded in 2018 to include two more vendors: Synack and Bugcrowd.  In a draft solicitation released Friday, DOD announced plans for a third go and laid out expectations for the vendors that will manage the program.  Under Hack the Pentagon 3.0, the Washington Headquarters Service—which manages back-office resources for the Pentagon and parts of the DOD—wants to unleash white-hat hackers on the Facility Related Controls System, or FRCS, network. The network is used to manage mechanical operations within the Pentagon Reservation, such as heating and air conditioning within the main building, the Pentagon Heating and Refrigeration Plant, the Modular Office Complex and parking lot, among others.  “The overall objective is to obtain support from a pool of innovative information security researchers via crowdsourcing for vulnerability discovery, coordination and disclosure activities and to assess the current cybersecurity posture of the FRCS Network, identify weaknesses and vulnerabilities, and provide recommendations to improve and strengthen the overall security posture,” according to the draft performance work statement.  The draft document notes hackers will only be given access to unclassified IT and OT systems.  As the third phase of the program will focus on operational technologies, the actual hacking will take place in person during a “challenge phase” that will last no more than 72 hours.  While the Hack the Pentagon program is technically about tapping into large, open-source communities, the sensitive nature of DOD operations means the cohort will have to be limited to “a private community of skilled and trusted researchers, which may be limited to U.S. persons only, with eligibility criteria established by the DOD,” the PWS states.  Winning vendors will be able to gather and organize such a community, as well as providing the platform for hackers to investigate and document any found vulnerabilities in a secure manner.  The bug bounty framework—which got its start in government under the late Defense Secretary Ash Carter—has spread to other government agencies, as well, including the service branches, Homeland Security Department and General Services Administration.
+
+ 
+NEXT STORY:
+
+              NSF Awards $29M in New CyberCorps Scholarship for Service Grants
+            
+
+
+
+ Help us tailor content specifically for you:

@@ -1,0 +1,25 @@
+
+Adopting a new SaaS model, Jet Analytics Cloud is delivered via Microsoft Azure to provide a seamless and enhanced user experience
+ 
+insightsoftware, a global provider of reporting, analytics, and performance management solutions, today announced the release of Jet Analytics Cloud. This launch is a managed services offering of insightsoftware's Jet Analytics reporting and analytics solution, which is designed to simplify financial and operational reporting as well as augment the value of the user's data. Jet Analytics Cloud combines these flagship services with turnkey managed hosting, regular upgrades, and reduced IT costs for customers.
+ 
+Jet Analytics is an intuitive, no-code data preparation and analysis tool that enables businesses to consolidate multiple data sources in one place, such as budgeting and planning, tax reporting and equity management. The shift to the cloud makes Jet Analytics available via a SaaS model, hosted on Microsoft's Azure public cloud. The solution is compatible with multiple Enterprise Resource Planning (ERP) platforms, including Microsoft Dynamics.
+ 
+"Our customers turn to Jet Analytics for fast, reliable reporting. Delivering the solution through the new SaaS model is a win for all," said Lee An Schommer, Chief Product Officer at insightsoftware. "They will continue to enjoy the ability to create real-time, self-service reports on finance and operations, along with added security enhancements, a reduced IT footprint, and lower total cost of ownership. Moreover, this shift removes on-prem challenges as well as empowers customers to make informed decisions and respond to changing market scenarios more quickly. Our primary focus is to provide an elevated customer experience that meets their evolving needs, while ensuring a smooth transition to the cloud."
+ 
+Across enterprises, there has been a clear shift to the cloud among application software, infrastructure software, business process services, and system infrastructure markets. Research from Gartner found that 51% of IT spend across these four categories will move away from traditional solutions and toward the public cloud by 2025, up from 41% in 2022. In addition, the SaaS segment is set to see a 16.8% growth in 2023. This shift toward managed cloud software will help alleviate reliance on IT teams, with a recent study with finance professionals from insightsoftware revealing that 80% of finance teams claim they are over-reliant on IT.
+ 
+"As part of the early adopter trial, our consultants are thrilled with what we have seen in Jet Analytics Cloud," said Scott Jorgens, Marketing Director at Endeavour Solutions, Inc, an insightsoftware partner. "We see it as a good fit for a number of prospects and clients using Microsoft Business Central, as well as current clients who are using Jet Reports or Jet Analytics on-prem and are looking for additional cloud-based analytics solutions managed by insightsoftware."
+ 
+Jet Analytics Cloud allows customers to significantly decrease complexities associated with managing the application and infrastructure on-prem, so organizations will no longer need to manage manual upgrades and apply security hotfixes. It is available in North America, UK, and West Europe Azure hosting regions.
+ 
+To learn more about Jet Analytics Cloud and what it can do for your organization, register for Financial Reporting, Budgeting, and Planning Trends for 2023, an insightsoftware webinar on December 13.
+ 
+About insightsoftware
+ 
+insightsoftware is a leading provider of reporting, analytics, and performance management solutions. Over 32,000 organizations worldwide rely on us to support business needs in the areas of accounting, finance, operations, supply chain, tax, budgeting, planning, HR, and disclosure management. We enable the Office of the CFO to connect to and make sense of their data in real time so they can proactively drive greater financial intelligence across their organization. Our best-in-class solutions provide customers with increased productivity, visibility, accuracy, and compliance. Learn more at insightsoftware.com.
+ 
+About Endeavour Solutions Inc.
+ 
+Endeavour Solutions is a Microsoft Gold Partner for ERP, CRM and Cloud Business Applications focusing on implementations, upgrades, development, data analytics, training and support for the cloud-centric Dynamics 365 Platform including, Business Central (ERP). With offices in Canada, their consultants support more than 700 active clients throughout North America including clients using Dynamics GP and Dynamics NAV. Over the years, Endeavour has been named multiple times to the Microsoft President's Club – The top 5% of Microsoft Partners Worldwide.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20221212005105/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

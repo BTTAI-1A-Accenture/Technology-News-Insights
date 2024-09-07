@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.yakimaherald.com/news/nation_and_world/entertainment/seattle-s-signature-summer-events/article_6d8b4219-1195-567a-b324-8c464d39d402.html

@@ -1,0 +1,16 @@
+
+Device Identification
+                                                                ,
+                                                                                Endpoint Security
+                                                                ,
+                                                                                Hardware / Chip-level Security
+ IoT devices, industrial, railway, automobile, and aircraft controls, as well as healthcare devices all have 3 things in common. First, these devices run on software and that software must be secured from cyberthreats as it is being developed. Second, when operating in the field, it is necessary to provide ongoing protection through device focused certificate lifecycle management. And finally, the frequency of cyberattacks on all of these is increasing at an alarming rate. Device security depends on the ability to trust the identity of the device as well as the software that is used with these devices and the software infrastructure that supports them. Register for this webinar to learn the best practices for how to: This webinar is available OnDemand. This webinar is available OnDemand. Senior Manager of IoT/Device Trust, DigiCert Senior Manager of Software Trust, DigiCert OnDemand | Protecting Devices and Software from Next-Generation Cyberthreats OnDemand | Protecting Devices and Software from Next-Generation Cyberthreats 
+                                        Just to prove you are a human, please solve the equation:
+
+ Alexander manages DigiCert's Product Marketing Device portfolio and helps to champion the topic of IoT. Building on DigiCert's existing products, Deo identifies innovative new methods to add value and bolster DigiCert’s position as the world’s leader in digital trust. Deo brings more than 10 years as a thought leader and innovator in the IoT and connected device world from his previous work in both aviation and logistics. Deo is based in Chicago, IL. Eddie Glenn is part of the DigiCert's Software Trust portfolio team and helps to champion the topic of software supply chain security. Glenn has decades of experience in software development, software process, DevOps, DevSecOps and cybersecurity. He started his career writing safety-critical software for aircraft. He has worked for Venafi, Rational Software, IBM and Wind River as well as companies that specialize in software development tools, DevOps, and cybersecurity. Sign in now  Need help registering?
+Contact support 
+ Complete your profile and stay up to date Contact Support  Create an ISMG account now  Create an ISMG account now  Need help registering?
+Contact support 
+ Sign in now  Need help registering?
+Contact support 
+ Sign in now  Our website uses cookies. Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing databreachtoday.com, you agree to our use of cookies.

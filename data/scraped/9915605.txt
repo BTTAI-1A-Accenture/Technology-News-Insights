@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/story/nycbs-sweetheart-deal-with-the-fdic-may-take-a-dividend-cut-off-the-table-93c979f7

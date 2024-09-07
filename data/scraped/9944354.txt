@@ -1,0 +1,9 @@
+ Google is shutting down the Google Question Hub feature on January 15, 2023 - a month from today. Google officially launched Question Hub in the US two years prior, but this feature was live since 2018, limited to India (Hindi, English), Indonesia (Bahasa Indonesia), and Nigeria (English). Glenn Gabe spotted this and posted about it on Twitter, he said "More evidence that Question Hub could be coming to GSC. Just saw a message show up today that the Question Hub beta will end on January 5, 2023. And after March 6, 2023, Question Hub data will be deleted. Stay tuned."  When you load Question Hub, you are presented with that notice at the top: As of January 5, 2023, the Question Hub beta will end. If you'd like to retain a copy of your data, you can do so via Google Takeout up until March 6, 2023. After that date, Question Hub user data will be deleted. Is this going to be replaced by Content ideas in Google Search Console? I hope so - we will see if Google goes that route. I always found it weird that Question Hub was not directly built into Search Console anyway. Forum discussion at Twitter. The content at 
+the Search Engine Roundtable are the sole opinion of the authors and
+            in no way reflect views of RustyBrick ®, Inc
+            Copyright © 1994-2024 
+RustyBrick ®, Inc. 
+Web Development All Rights Reserved.
+            This work by Search Engine Roundtable is licensed under a Creative Commons Attribution 3.0 United States License.
+            Creative Commons License and YouTube videos under YouTube's
+                ToS.

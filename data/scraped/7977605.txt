@@ -1,0 +1,29 @@
+
+                    Gettyimages.com/Yuichiro Chino
+                   Sign up for our newsletter  Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Nick Wakeman
+ An unusual protest is winding its way through the U.S. Court of Federal Claims that, depending on the outcome, could strengthen the provision that agencies use commercial technology when available. In a lawsuit against the National Geospatial-Intelligence Agency, Percipient.AI claims they have a commercial product that fulfills many of NGA's requirements for the data analysis portion of a contract held by CACI International. Founded in 2017, Percipient.AI designed its intelligence analysis product to help analysts handle unstructured multimedia visual and intelligence data in a more efficient manner through a single workflow. In its series of court filings, Percipient.AI says it set up demonstrations for CACI and NGA officials to attend. But participation was weak and CACI seemed uninterested. Percipient.AI claims its demos were underutilized by NGA and that CACI rebuffed a pitch to join the team CACI has instead undertaken a custom development project to create a computer vision system for SAFFIRE, a $376.4 million contract it won with NGA in early 2021. SAFFIRE's requirements include the development of a data repository and analysis tools. Percipient.AI filed its lawsuit in January 2023, after which there have been several filings over the months from everyone involved in the case. NGA and CACI have filed motion to dismiss, claiming Percipient.AI didn’t have standing to protest because it didn’t bid on the SAFFIRE contract. NGA and CACI argue that Percipient.AI didn’t bid because it cannot provide the data repository portion, only the computer vision system. But the judge has ruled that Percipient.AI can continue on with its case. While not ruling on the merits of the protest, Judge Eric G. Bruggink said Percipient.AI has an “economic interest” in the contract. Pericpient.AI’s protest heavily cites the Federal Acquisition Streamlining Act, which generally requires agencies to acquire commercial technologies when available. That is the same law Palantir used to challenge how the Army was procuring parts of the Distributed Common Ground System for managing intelligence information. The Army had spent hundreds of millions of dollars to develop a custom-built solution, but Palantir argued that its commercial product could meet the need. Palantir is not a custom software developer, which meant it wasn’t allowed to bid on the DCGS-Army contract. Palantir then went to the Court of Federal Claims, which ruled that the Army had to buy a commercial product. Palantir has since won several task orders under DCGS-A and has continued to grow its federal business. Percipient.AI is making a similar argument, but isn't pushing to be the prime. The company instead wants to be a subcontractor to CACI, which would then integrate Percipient.AI's product into the overall solution. One result of the lawsuit could be the judge orders CACI to add Percipient.AI to its team, a second of course is to rule against the lawsuit. As attorney Stephen Bacon of Rogers Joseph O’Donnell wrote in a LinkedIn post, this is definitely a case to watch. Bacon highlights the judge's initial ruling that the FASA requirement for commercial products extends beyond the contract award. The aperture over who can file a bid protest looks more open. You don’t have to be a potential prime to protest. I’ve reached out to CACI for comment, but no response so far. Below is Bacon's full post on why contractors should pay close attention to this matter. 
+
+ 
+NEXT STORY:
+
+              Biden's cybersecurity strategy raises questions of liability
+            
+
+
+
+ 
+                  Insider Customer Service 
+                  800-353-9118 or 
+                  email washingtontechnology@omeda.com
+ Help us tailor content specifically for you:

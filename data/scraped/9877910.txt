@@ -1,0 +1,98 @@
+
+            Over the past decade, the gene-editing tool CRISPR has rapidly
+            evolved from the lab to the clinic. It started with experimental
+            treatments for rare genetic disorders and has recently expanded into
+            clinical trials for common conditions, including high cholesterol.
+            New forms of CRISPR could take things further still.
+           
+            This is the year of the AI artists. Software models developed by
+            Google, OpenAI, and others can now generate stunning artworks based
+            on just a few text prompts. Type in a short description of pretty
+            much anything, and you get a picture of what you asked for in
+            seconds. Nothing will be the same again.
+           
+            The chip industry is undergoing a profound shift. Manufacturers have
+            long licensed chip designs from a few big firms. Now, a popular open
+            standard called RISC-V is upending those power dynamics by making it
+            easier for anyone to create a chip. Many startups are exploring the
+            possibilities.
+           
+            Military drones were once out of reach for smaller nations due to
+            their expense and strict export controls. But advances in consumer
+            componentry and communications technology have helped drone
+            manufacturers build complex war machines at much lower prices. The
+            Turkish Bayraktar TB2 and other cheap drones have changed the nature
+            of drone warfare.
+           
+        Learn more about emerging technologies with an MIT Technology Review
+        subscription.
+       
+            Abortion ceased to be a constitutional right in the US in 2022, and
+            state bans now prevent many people from accessing them. So
+            healthcare providers and startups have turned to telehealth to
+            prescribe and deliver pills that allow people to safely induce
+            abortions at home.
+           
+            Every day, an average of 17 people in the US alone die awaiting an
+            organ transplant. These people could be saved—and many others
+            helped—by a potentially limitless supply of healthy organs.
+            Scientists are genetically engineering pigs whose organs could be
+            transplanted into humans and 3D-printing lungs using a patient’s own
+            cells.
+           
+            Electric vehicles are finally becoming a realistic option. Batteries
+            are getting cheaper and governments have passed stricter emissions
+            rules or banned gas-powered vehicles altogether. Major automakers
+            have pledged to go all-electric, and consumers everywhere will soon
+            find there are more good reasons to buy an EV than not.
+           Sign up for our daily newsletter, the Download. 
+By signing up, you agree to our Privacy Policy.
+ 
+            The first breathtaking images of the distant cosmos captured by the
+            world’s most powerful space telescope inspired a collective sense of
+            awe and wonder. And this thing’s just getting started. Discoveries
+            will come almost as rapidly as scientists can analyze the data now
+            flooding in. A new era of astronomy has begun.
+           
+            Genomic sequencing tools now let us read very old strands of human
+            DNA. Studying traces from humans who lived long ago reveals much
+            about who we are and why the modern world looks the way it does. It
+            also helps scientists understand the lives of regular people living
+            back then—not just those who could afford elaborate burials.
+           
+            Recycling is vital to prevent today’s growing mountains of discarded
+            batteries from ending up in landfills, and it could also provide a
+            badly needed source of metals for powering tomorrow’s EVs. Companies
+            are building facilities that will reclaim lithium, nickel, and
+            cobalt and feed these metals back to lithium-ion battery
+            manufacturers, helping reduce the cost.
+           
+        Subscribe and get unlimited access to MIT Technology Review’s coverage
+        and exclusive stories.
+       
+            Presenting the winner of the 11th breakthrough poll:
+           Back to top Using fuel cells to power zero-emission flights. 
+          10 Breakthrough Technologies is an annual list published by MIT
+          Technology Review recognizing important technological advances in
+          artificial intelligence, biotechnology, climate change, computing,
+          cybersecurity, space science, and more. Every year, our reporters and
+          editors nominate dozens of technologies we think will change the
+          world. Some of the advances you see highlighted here are already
+          widely available, while others will emerge soon. It’s the 22nd year
+          we’ve published this list.
+         
+Design & EngineeringLead developer: Andre Vitorio Design:
+          Vichhika Tep Product: Allison Chase
+          CTO: Drake Martinet EditorialSpecial projects editor: Amy Nordrum Editing:
+          Allison Arieff, Rachel Courtland, Niall Firth, Mat Honan, Amy Nordrum,
+          David Rotman, and Amanda Silverman
+Copy editing: Linda Lowenthal, David Richwine
+          Engagement: Juliet Beauchamp, Abby Ivory-Ganja
+          Fact checking: Matt Mahoney ArtArt direction: Stephanie Arnett, Eric MongeonIllustration:
+          David Alabo, Michael Byers, Erik Carter, Nick Little, Amrita Marino
+          Photography: NASA, Redwood MaterialsJWST Model:
+          NASA,
+Paul (Sketchfab), licensed under
+Creative Commons
+
+  © 2024 MIT Technology Review

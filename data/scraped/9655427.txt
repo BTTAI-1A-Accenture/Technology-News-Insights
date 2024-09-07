@@ -1,0 +1,155 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+As a front-end designer, you need to test and optimize your web pages for performance, usability, and functionality. One of the essential tools for this task is the developer tools, also known as devtools, that are built into most modern browsers. In this article, you will learn how to use developer tools to track and analyze network requests and responses, which are the interactions between your browser and the web server that deliver the content and resources of your web page.
+ 
+Network requests and responses are the messages that your browser sends and receives from the web server when you load or interact with a web page. They include information such as the URL, the method, the headers, the body, the status, and the size of the data exchanged. Network requests and responses can affect the speed, security, and functionality of your web page, so it is important to monitor and inspect them to identify and fix any issues or inefficiencies.
+ 
+            Student at JIS College of Engineering || ECE'25 || Frontend Web Developer || Web Designer
+            Open the developer tools in your browser (typically by pressing F12 or right-clicking and choosing "Inspect") to monitor and examine network requests and responses. Go to the tab labeled "Network". All network activity, including requests and responses as well as the headers, status codes, and durations that go along with it, are visible to you here. In addition to analyzing performance measures like load times and file sizes, you can search for specific requests and filter requests based on their kind. 
+            Lead Software Engineer, Front-End at Level Studios
+            Network requests & responses are communication between client & server, for retrieving/sending data. Typically when loading a web page via the request-response cycle:
+
+1. Initiation: Client creates a request by sending an HTTP request to a URL.
+
+2. Processing: Server processes the request, performs necessary operations, & generates response.
+
+3. Delivery: Server sends the response back to the client, which may include HTML content, JSON data, or other resources.
+
+4. Rendering: Client then interprets the response.
+
+Requests & responses include headers & bodies. Headers provide information about the request/response, e.g. content type, encoding, & authentication details. The body of the request/response is actual data being sent or received. 
+            Software Engineer | UX Design Specialization @Google | 17K @LinkedIn | B.Tech CSE'22 (Gold Medalist) | Milestone Achiever @GCR | Dean's List Awardee '21 | 1600+ @Leetcode
+            Understanding network requests and responses is crucial for front-end developers as they directly impact user experience. Efficient network handling can lead to faster page loads and smoother interactions. Tools like Chrome DevTools allow developers to inspect these requests in real-time, providing insights into performance bottlenecks, potential security issues, and resource optimization opportunities. By leveraging these tools, developers can fine-tune their applications, ensuring they are both performant and resilient. 
+            ✦ 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝕯𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 | 𝙄𝙏 𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | 𝘼𝙄 & 𝗖𝗬𝗕 Security  Enthusiast ✦ 🔍 Futur ingénieur d'etat en informatique 💻
+            ◆ Network requests and responses are the core communication processes between a web browser (client) and a server. When a browser loads a web page, it sends requests to the server for resources like :  
+✔️HTML
+✔️CSS
+✔️JavaScript
+✔️images, and data etc ...
+
+ ⭐The server responds with the requested content, which the browser then uses to render the page. Understanding and analyzing these requests and responses using developer tools is crucial for optimizing website performance and troubleshooting issues in frontend development. 
+            Front-end Developer
+            In order for a client to have access to the data it needs, for instance to render, the client should send some requests through URLs to a server which is responsible for keeping and protecting the relevant data, and in response, if the request has been sent properly and meets the server's requirements for a response to be valid, the server sends the relevant data to the client side in order to be used. 
+To access developer tools, you can use a keyboard shortcut, a menu option, or a context menu option, depending on your browser and operating system. For example, on Chrome for Windows, you can press Ctrl+Shift+I, click on the three-dot menu and select More tools > Developer tools, or right-click on any element of the web page and select Inspect. Once you open developer tools, you will see a panel with various tabs, such as Elements, Console, Sources, Network, and so on. Each tab provides different features and functions for debugging and testing your web page.
+ 
+            Software Engineer | UX Design Specialization @Google | 17K @LinkedIn | B.Tech CSE'22 (Gold Medalist) | Milestone Achiever @GCR | Dean's List Awardee '21 | 1600+ @Leetcode
+            The developer tools mentioned are essential for front-end developers to optimize and debug web applications effectively. Each tab within the developer tools serves a specific purpose: the Elements tab allows for real-time HTML/CSS manipulation, the Console is crucial for JavaScript debugging, the Sources tab helps in managing breakpoints and code stepping, the Network tab is indispensable for analyzing HTTP requests and responses to optimize loading times, and additional tabs like Performance and Lighthouse provide insights into overall page performance and best practices. Understanding how to navigate these tools is fundamental for improving user experience and website efficiency. 
+            ✦ 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝕯𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 | 𝙄𝙏 𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | 𝘼𝙄 & 𝗖𝗬𝗕 Security  Enthusiast ✦ 🔍 Futur ingénieur d'etat en informatique 💻
+            ◆ To access developer tools in most modern web Browsers :
+
+⭐ Chrome: Press `F12` or `Ctrl + Shift + I` (Windows/Linux) or `Cmd + Option + I` (Mac) to open Developer Tools.
+
+⭐Mozilla: Press `F12` or `Ctrl + Shift + I` (Windows/Linux) or `Cmd + Option + I` (Mac) to open Developer Tools.
+
+⭐Safari: Go to Safari Preferences > Advanced and check "Show Develop menu in menu bar." Then, click Develop > Show Web Inspector or use `Cmd + Option + I` to open Developer Tools.
+
+✔️ Once Developer Tools are open, you can navigate through different tabs like Network, Console, Elements, to analyze network requests and responses, debug JavaScript, inspect HTML/CSS, and more. 
+            MERN Stack Developer | Creative Writer | Former Electrical Engineer
+            You can access developer tools by either right-clicking and clicking inspect to open the dev tool and start inspecting the HTML element of the web page. You can also access the dev tools by clicking the Menu>More Tools> Developer Tools or using the shortcut Ctrl+Shift+I. Developer Tools are useful to debug UI in the Element section, JavaScript in the Console section, and finally, the Network section to monitor any network request or response. 
+            Pixel Pusher & Code Juggler | UX/UI Wizardry | Making the Web Look Good Since 2014
+            Chrome: Right-click on a page and select "Inspect," or press Ctrl+Shift+I (Windows/Linux) or Cmd+Opt+I (Mac).
+Firefox: Right-click on a page and select "Inspect Element," or press Ctrl+Shift+I (Windows/Linux) or Cmd+Opt+I (Mac).
+Edge: Right-click on a page and select "Inspect," or press F12. 
+The Network tab is where you can track and analyze network requests and responses. When you open the Network tab, you will see a table with a list of all the network requests and responses that occurred during the loading or interaction of the web page. You can click on each request or response to see more details, such as the headers, the preview, the response, the timing, and the cookies. You can also filter, sort, and search the table by various criteria, such as the type, the status, the size, or the name of the request or response.
+ 
+            Front-end Engineer at Agregio
+            To use the Network tab in developer tools:
+
+1. Open Developer Tools in your browser (Ctrl+Shift+I / Cmd+Option+I).
+2. Click on the Network tab.
+3. Reload the page to begin capturing network activity.
+4. View the list of requests that the browser makes to load the page.
+5. Click on a request to see detailed information in panels such as Headers, Preview, Response, and Timing.
+6. Use the filter box to display only certain types of resources (e.g., XHR, JS, CSS).
+7. Sort the network requests by columns like Name, Status, Type, or Size by clicking the column header.
+8. Use the search box to find specific requests by their name or URL.
+9. Right-click a column header to add or remove columns from the view. 
+            Software Engineer | UX Design Specialization @Google | 17K @LinkedIn | B.Tech CSE'22 (Gold Medalist) | Milestone Achiever @GCR | Dean's List Awardee '21 | 1600+ @Leetcode
+            The Network tab is an essential tool for front-end developers as it provides granular insights into each network request and response, which is crucial for optimizing page load times and debugging issues. By examining the timing details, developers can identify bottlenecks in the request lifecycle, while headers and cookies information can help in ensuring proper request formation and session management. Additionally, the ability to filter and sort requests allows for efficient troubleshooting of specific network activities. 
+            ✦ 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝕯𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 | 𝙄𝙏 𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | 𝘼𝙄 & 𝗖𝗬𝗕 Security  Enthusiast ✦ 🔍 Futur ingénieur d'etat en informatique 💻
+            ✔️Open Developer Tools in your browser.
+Go to the "Network" tab.
+✔️Reload the web page to capture network requests.
+✔️View a list of requests with details like method, status, size, and timing.
+✔️Use filters to narrow down requests by type, domain, or status code.
+✔️Click on a request for detailed information like headers and response data.
+✔️Use performance tools to analyze and optimize page speed and resource loading. 
+            Front-end Developer
+            In order to check and analyze the amount and number of http requests and optimize your web applications in that aspect, utilizing Network Tab is a great idea. 
+            Software Engineer | Building Scalable Web Applications & AI-Driven Solutions | Automation, GenAI, LLMs | Podcast Host | UTA Alumni |
+            - Right-click on any webpage and select "Inspect" or press Ctrl+Shift+I (Windows/Linux) or Cmd+Option+I (Mac) to open the Developer Tools.
+- Then, find the "Network" tab and click on it. This tab allows you to monitor all network activity.
+- If you're interested in tracking requests and responses for a specific webpage, reload the page after opening the Developer Tools.
+- As the page loads, you'll see a list of network requests in the Network tab. Each row represents a single network request, and you can click on any request to view detailed information about it.
+- Click on a specific request to view detailed information about it. This includes request headers, parameters, and the response received from the server. 
+The Performance tab is where you can record and analyze the performance of your web page over time. When you open the Performance tab, you can click on the record button to start capturing the activity of your web page, such as the network requests and responses, the rendering, the scripting, and the user input. You can then stop the recording and see a summary and a timeline of the performance metrics, such as the load time, the DOMContentLoaded time, the FPS, the CPU usage, and the memory usage. You can also zoom in and out of the timeline, select specific events, and see more details and screenshots of each event.
+ 
+            Software Engineer | UX Design Specialization @Google | 17K @LinkedIn | B.Tech CSE'22 (Gold Medalist) | Milestone Achiever @GCR | Dean's List Awardee '21 | 1600+ @Leetcode
+            The Performance tab in developer tools is crucial for front-end optimization. It provides a granular view of where bottlenecks may occur, from scripting to rendering. By analyzing the timeline and metrics, developers can pinpoint inefficient code or resources, leading to targeted optimizations. This tab is especially valuable for identifying long-running tasks that can cause jank, allowing for a smoother user experience when these issues are addressed. 
+            Pixel Pusher & Code Juggler | UX/UI Wizardry | Making the Web Look Good Since 2014
+            Recording Performance: Navigate to the "Performance" tab, click "Record," and perform the actions you want to analyze. Click "Stop" to end the recording.
+Analyzing the Timeline: The timeline will show a detailed breakdown of activities, including scripting, rendering, and painting.
+Identifying Bottlenecks: Look for long tasks and visualize how network activity, JavaScript execution, and rendering affect performance.
+Checking Frames Per Second (FPS): Ensure smooth animations and scrolling by monitoring FPS. 
+The Lighthouse tab is where you can run an audit and generate a report on the quality and performance of your web page. Lighthouse is a tool that evaluates your web page against a set of best practices and metrics, such as accessibility, SEO, progressive web app, and performance. When you open the Lighthouse tab, you can choose which categories and devices you want to audit, and then click on the generate report button. You will then see a score and a list of recommendations for each category, along with the explanation and the impact of each recommendation.
+ 
+            VP of Development at RELENTLESS Venture Studio
+            One thing to keep in mind is that Lighthouse testing may not reflect your users' actual conditions, and therefore, their experience with your application. Lighthouse allows you to simulate real world conditions with simulated connection throttling and device emulation, but it's not the end-all, be-all for testing.
+
+Perspective is important too: scoring 100% across all metrics is something to strive for, but may not be attainable, depending on your application's requirements. A quick Lighthouse run against a handful of major brands' sites, reveals many poor scores, despite those brands having entire teams dedicated to optimizing performance.
+
+Also, success is transitory: performance testing must be an ongoing process, not a one-time event. 
+            Pixel Pusher & Code Juggler | UX/UI Wizardry | Making the Web Look Good Since 2014
+            Running an Audit:
+Open the "Lighthouse" tab in Developer Tools.
+Select the categories you want to audit (Performance, Accessibility, Best Practices, SEO, PWA).
+Click "Generate report."
+Interpreting Results: Review scores and detailed recommendations for improving each category.
+Actionable Insights: Use the suggestions to optimize loading speed, enhance accessibility, and follow best practices. 
+Developer tools can also help you test your web page for different browsers, devices, and network conditions. For example, you can use the Device toolbar to simulate how your web page looks and behaves on different screen sizes and orientations. You can also use the Sensors tab to emulate different geolocation and device orientation scenarios. Moreover, you can use the Throttling menu to simulate different network speeds and latency, such as offline, slow 3G, or fast 4G. These features can help you ensure that your web page is responsive, adaptive, and user-friendly for various scenarios and users.
+ 
+            ✦ 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝕯𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 | 𝙄𝙏 𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | 𝘼𝙄 & 𝗖𝗬𝗕 Security  Enthusiast ✦ 🔍 Futur ingénieur d'etat en informatique 💻
+            ⭐ Developer tools:
+
+1. Open Developer Tools in your browser.
+2. Enter Device Mode (`Ctrl + Shift + M` or `Cmd + Option + M`).
+3. Choose a device or set custom dimensions.
+4. Test responsiveness and layout changes.
+5. Inspect and edit HTML/CSS elements.
+6. Emulate network conditions in the Network tab.
+7. Debug JavaScript errors and log messages in the Console tab. 
+            Software Engineer | UX Design Specialization @Google | 17K @LinkedIn | B.Tech CSE'22 (Gold Medalist) | Milestone Achiever @GCR | Dean's List Awardee '21 | 1600+ @Leetcode
+            The use of developer tools for browser testing is crucial in modern web development. By simulating different devices and network conditions, developers can preemptively address compatibility and performance issues. This proactive approach ensures a consistent user experience across various environments, which is essential given the diversity of devices and connection speeds in the user base. Emulating geolocation and device orientation is particularly beneficial for mobile-first designs and applications that rely on sensor data. 
+            Pixel Pusher & Code Juggler | UX/UI Wizardry | Making the Web Look Good Since 2014
+            Emulating Devices: Use the device toolbar (Ctrl+Shift+M or Cmd+Opt+M) to emulate different devices and screen sizes.
+Simulating Network Conditions: In the Network tab, use the "Throttling" dropdown to simulate slow network conditions (e.g., 3G, 2G).
+Checking Accessibility: Use tools like the Accessibility pane in Chrome Developer Tools to identify and fix accessibility issues.
+Testing Storage: Inspect and manipulate local storage, session storage, cookies, and IndexedDB in the "Application" tab. 
+This is a space to share examples, stories, or insights that don’t fit into any of the previous sections. What else would you like to add?
+ 
+            MERN Stack Developer | Creative Writer | Former Electrical Engineer
+            In my personal experience, I prefer using the Firefox browser for dev tools. Their network tab is more intuitive, and their error codes are color-coded which makes it easy to isolate any network request that failed on the frontend. Their box model, flex, and grid reviews are also more intuitive for debugging UI. 
+            Frontend Developer | Frontend Web Developer| Frontend Engineer | Frontend Development | React.js | Next.js | Javascript | Typescript | Tailwind CSS | bootstrap | CSS
+            Chrome DevTools is a very useful tool that you can use by clicking F12 in the Chrome browser. It has several tabs, like Network and Console. On the Network, you can view and review details about APIs, including Headers, Payload, Preview, Response. It is an essential tool for frontend development. 
+            Pixel Pusher & Code Juggler | UX/UI Wizardry | Making the Web Look Good Since 2014
+            Security Checks: Use the "Security" tab to inspect SSL certificates, mixed content issues, and other security aspects.
+Console Logs: Utilize the "Console" tab for logging, debugging, and testing JavaScript code.
+Network Conditions: Test your application under various network conditions to ensure robust performance and graceful degradation.
+Collaboration: Share HAR files, performance recordings, and Lighthouse reports with your team for collaborative debugging and optimization. 
+                How do you approach UI design for different platforms, such as web, mobile, or desktop?
+               
+                11 contributions
+               
+                How do you optimize images and fonts for different screen sizes and resolutions?
+               
+                How do you use code splitting to improve JavaScript performance?
+               
+                7 contributions
+               
+                What are some tools and resources to help you learn and apply web accessibility guidelines?
+               
+                9 contributions
+               

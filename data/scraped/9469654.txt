@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.sfexaminer.com/news/tech-layoffs-are-turning-brutal-more-may-be-coming/article_f4c07c6c-93a2-11ed-8fcc-d77a011d3dfe.html

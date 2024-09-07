@@ -1,0 +1,15 @@
+KDDI demonstrated the capability of its standalone (SA) 5G network to generate multiple network slices, using a RAN intelligent controller (RIC) from Samsung during a field trial in Tokyo. The operator stated the companies developed a mechanism to provide the necessary resources in real time, a response to growing demand for service level agreements (SLAs) covering specific functions. KDDI claimed the demonstration was a global first in terms of SLA-backed network slicing using an RIC.
+
+
+
+ It said it will continue working with various partners towards full provision of network slicing in 2024. Samsung separately noted its RIC is a software-based component of open RAN architecture which optimises radio resources to improve overall network quality. The vendor said the trial also showed the technical feasibility of multiple user equipment-based network slices to provide quality assurance using the RIC, which performs advanced control of RAN to O-RAN Alliance standards. Lee June-hee, head of global sales and marketing for Samsung’s Networks Business, said network slicing will allow KDDI to tailor new and existing services. KDDI lit its first commercial SA 5G site using virtualised RAN equipment from Samsung and Fujitsu in early 2022. 
+You'll gain exclusive access to breaking news, expert analysis,
+and in-depth features delivered right to your inbox.
+ 
+By subscribing to our newsletter, you'll gain exclusive
+access to breaking news, expert analysis, and in-depth
+features delivered right to your inbox.
+ 
+© 2024 GSM Association. The GSMA, Mobile World Live,
+MWC Barcelona, MWC Las Vegas, MWC Kigali & MWC Shanghai terms and logos
+are trademarks of the GSM Association.

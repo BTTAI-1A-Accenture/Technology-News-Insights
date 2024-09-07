@@ -1,0 +1,230 @@
+The Home of the Security Bloggers Network Home » Security Bloggers Network » Checkmate: New VIP Invoice Authorization Fraud Attack Targeting Businesses The world of cybersecurity is constantly evolving, with hackers and bad actors finding new ways to exploit vulnerabilities in systems and target unsuspecting individuals and organizations. One such attack that is on the rise is what Armorblox is calling the *VIP Invoice Authentication Fraud* – a two-way attack where bad actors utilize a spoofed executive email address to further exploit victim’s trust, sense of urgency, and quick execution of the request (which in this case is payment of a phony invoice). In this attack, a malicious actor sends an email to an unsuspecting victim, pretending to be a legitimate company or individual, and asking for an invoice to be paid. The email attack appears genuine and coming from a trustworthy source, resulting in increasing the victim’s likelihood to comply with the request (first move). These email attacks often impersonate trusted vendors or third-party individuals that the victim frequently communicates with to pay such an invoice (a common business workflow). ![](https://a.storyblok.com/f/52352/1090×718/5e71b6196f/fig1-vip-invoice-authorization-fraud.png)*Fig 1: Example of email attack sent to unsuspecting victim impersonating trusted vendor for invoice payment request* What’s more concerning and places a larger risk on end users engaging with this type of targeted attack is the inclusion of the *victim’s boss* on the original email thread. Now, we know that this is an executive impersonation and email domain spoof; however, this tactic can easily pass the eye test of unsuspecting victims (second move). The second part of this two-way attack is where things get tricky. Upon sending the initial email attack, the bad actor will then reply to the email thread, using the spoofed domain account to impersonate the victim’s boss and instruct them to pay the invoice as soon as possible. Without proper hindsight, this email replay looks like a legitimate response coming from his or her trusted executive or manager. This only adds to the sense of urgency to pay the invoice, and increases the risk of financial loss for the organization upon compliance with this request (checkmate). ![](https://a.storyblok.com/f/52352/1089×708/51a4593d66/fig2-vip-invoice-authorization-fraud.png)*Fig 2: Example of bad actor impersonating trusted executive in response to malicious email thread* This new type of attack, the *VIP Invoice Authentication Fraud*, only aids in bad actors executing financial fraud attacks, specifically payment fraud, on target organizations. Through impersonating a trusted vendor or third-party contact, the bad actor gains the victim’s trust and is more likely to convince them to pay the invoice. Furthermore, by impersonating the victim’s boss within the email thread, the attacker adds a sense of urgency to the situation, making the victim less likely to question the legitimacy of the request nor authority. ## Successfully Detecting and Stopping this New Attack This email included sophisticated techniques in order to look like a legitimate email communication to the end user. Despite these efforts from the malicious actor, there were a number of anomalies successfully detected by Armorblox: 1. **Spoofed Domain:** Armorblox checks for spoofed domains based on the original domain present across the FROM (sender) and TO (recipient(s)).
+2. **Language-Based Context Analysis:** Armorblox using large language models to co-relate the language-based context of *urgency* and payment-related request within the email body (content) with the spoofed domain of *unlikely legitimate request* to accurately detect this email as *Fraud*, and automatically remediate prior to end-user engagement.
+3. **AI and ML Models:** Armorbox AI and detected this fraud based on its large set of ML and deep learning models, accurately identifying this combination of sophisticated *VIP Impersonation Fraud* and *External Payment Fraud* attacks, unlike traditional detection methods which do not leverage these sophisticated techniques and would have missed this two-way attack. Individuals and organizations must remain vigilant and take proactive measures to protect against this new type of attack. These include educating employees about the risks of spoofed domain attacks, verifying the authenticity of requests before sending any funds, and implementing advanced API-based email security solutions that use large language models and AI to detect and protect against language-based attacks. To protect against these *VIP Invoice Authentication Fraud* attacks, organizations need email security that goes beyond legacy security layers:  1. **GPT Large Language Models & AI** – Analyzes the content and context of email communications: text in email body and attachments for tone (like urgency) and intent (unusual requests) often seen in social engineering tactics, and provides in-depth email analysis to protect against sender impersonation, ransomware/extortion, account compromise attacks and graymail.
+2. **Contextual Analysis & Attacks Overview** – Creates both user-specific and organization models for custom behavior baselines, so that how and who one communicates with are continuously monitored and anomalous communications and conversations are automatically flagged.
+3. **Computer Vision & File Attachment Inspection** – Analyzes attachments in real-time and detects minute, visual deviations such as image and layouts which often go unnoticed by the human eye. Armorblox analyzes and safely redirects end users away from these malicious pages.
+4. **Malware & File Attachment Inspection** – Provides static and dynamic analysis of attachments, malware, and advanced persistent threat analysis, while ensuring there are no delays in end users gaining access to critical emails nor disruption to email-based business workflows. — ### **See for yourself how Armorblox protects against targeted, socially engineered attacks and financial fraud, and keeps personal and financial information safe from cybercriminals.**   Application Security Check Up
+
+
+
+
+
+Step 1 of 8
+
+
+12%
+
+
+Do you develop your own software in your organization?(Required)
+
+
+Yes
+
+
+
+No
+
+
+
+Not sure
+
+
+
+
+
+
+
+
+What portion of your cyber risk is Application Security (AppSec)? (Select one)(Required)
+
+
+We over-focus on AppSec
+
+
+
+We focus on AppSec to match the risk
+
+
+
+We under-focus on AppSec
+
+
+
+ 
+
+
+
+
+What are the biggest challenges you face implementing a robust AppSec strategy? (Select all that apply)
+
+
+Lack of budget
+
+
+
+Insufficient skilled personnel
+
+
+
+Complexity of integrating security into the development lifecycle
+
+
+
+Resistance from development teams
+
+
+
+Keeping up with evolving security threats
+
+
+
+Lack of executive buy-in
+
+
+
+Other (please specify)
+
+
+
+Other
+
+
+
+ 
+
+
+
+
+Which DevSecOps practices are widely used for actively developed projects (not legacy) (Select all that apply):(Required)
+
+Automated unit and functional tests for quality run in the pipeline with merge blocking
+
+
+Automated application security testing (AST) in development and (SAST/IAST) runs in the pipeline
+
+
+Automated AST tools to find vulnerabilities in the code you import (SCA) run in the pipeline
+
+
+Merge blocking at current policy level for AST checks
+
+
+Secrets management so no secrets stored in source code repositories
+
+
+
+ 
+
+
+
+
+How do you assess and mitigate risk of For NON actively developed products (legacy) (Select all that apply):
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+How do you resolve the security issues found? (Select all that apply):(Required)
+
+In-production scans using DAST products like Qualys, Nessus, etc.
+
+
+Periodic penetration testing
+
+
+Periodic running of AST tools
+
+
+Manual code reviews by security specialists
+
+
+Use of third-party security assessment services
+
+
+No assessment or mitigation effort is happening
+
+
+
+ 
+
+
+
+
+Which best describes security training for your developers? (Select all that apply)(Required)
+
+Monthly
+
+
+Quarterly
+
+
+Annually
+
+
+As part of onboarding
+
+
+Just-in-time via integration with AST tools when a vulnerability is found
+
+
+No formal training provided
+
+
+
+ 
+
+
+
+
+How do you determine your level of investment in AppSec? (Select all that apply)(Required)
+
+Perceived risk and threat landscape
+
+
+Industry benchmarks and standards
+
+
+Historical spending patterns / budget constraints
+
+
+Recommendations from third-parties
+
+
+We do not have a formal process
+
+  
+
+
+
+
+
+
+
+
+
+Δ
+
+
+
+  Step 1 of 8
+ Δ

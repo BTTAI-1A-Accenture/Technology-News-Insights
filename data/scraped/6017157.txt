@@ -1,0 +1,78 @@
+
+The study highlights why policymakers should "listen to the objective science." Gerhard Pettersson / EyeEm / Getty Images 
+Finding positive, scientifically sound solutions to the climate crisis is an urgent matter, so it should be encouraging to know that some of the world’s most prestigious research institutions are working on the problem. But what happens when those institutions accept money from the fossil fuel companies that caused the crisis in the first place? 
+ 
+A recent study published in Nature Climate Change looked at the results when university energy centers accepted significant donations from companies involved with the production of natural gas.
+ 
+“Academic energy centers’ opinions towards fuel types vary by funding sources,” study co-authors Xinming Du and Anna Papp tell Treehugger in an email. “Predominantly fossil-funded centers are positive towards natural gas. Less fossil-funded centers are more neutral towards natural gas and positive towards solar and hydropower.” 
+ 
+The research team based their findings on more than 1,700 publicly available reports and working papers from 26 major university energy centers in the U.S., United Kingdom, and Canada. Twenty-three of them did not have major fossil fuel funders and served as the control group. Three of them, however, listed fossil fuel companies as major funders, and they are big names:
+ 
+To assess how this money might influence these centers’ publications, the research team did a sentiment analysis of 1,168,194 sentences in 1,706 reports.
+ 
+“Sentiment score detects emotions, and higher score means higher positivity,” Du and Papp explain. 
+ 
+They found that the 23 schools with no disclosed fossil fuel funds did speak favorably of natural gas, but spoke more favorably of solar and hydropower. The three fossil-fuel-funded schools, however, had sentiment scores towards gas more than double the other schools, and wrote more positively about gas than solar or hydropower. 
+ 
+“The magnitude of positive sentiment towards gas is indistinguishable from that of the American Gas Foundation and the American Gas Association, whose explicit purpose is to promote the gas industry,” the study authors note in the article. 
+ 
+One example of an article expressing positive sentiment about natural gas was published by the Stanford Natural Gas Initiative in March 2017. In “The costs of fossil-free development,” the author wrote, “The biggest challenge is convincing investors and governments that a new natural gas power plant can be economically competitive with a new coal plant.”
+ 
+The study authors also looked at tweets from the various energy centers and found that they were more favorable towards their funders when they mentioned them by name.
+ 
+For example, on September 2, 2014, Columbia U Energy (@ColumbiaUEnergy) tweeted “Thank you to Ben van Beurden @shell and our other amazing speakers for a great and informative event this afternoon @columbia.” 
+ 
+@StanfordEnergy was the most positive about its funders online, retweeting an @exxonmobil greenwashing tweet from 2018 that read, “We are happy to join Stanford University’s Strategic Energy Alliance to improve global energy access, security and technology while reducing environmental impact. This adds to the $8B spent by us on lower-emission energy solutions since 2000.”
+ 
+The study authors offer a few words of caution about their findings. The results do not indicate that every publication from the fossil fuel-funded centers was more favorable to natural gas and they do not necessarily imply that the centers took a more positive tone on average because of the funding. It’s possible, instead, that the fossil fuel companies sought out these centers because they were already more supportive of natural gas. 
+ 
+Further, the findings shouldn’t be used to cast doubt on actual scientific publications about the climate crisis.
+ 
+“Our study underscores that policymakers should ‘listen to the objective science,’” Du and Papp say. “The research published by energy centers in the form of whitepapers and reports do not undergo the usual peer-review process required by academic journals. Therefore it's important for the public and policymakers to rely on peer-reviewed work with clear information about potential conflicts of interest.”
+ 
+Why does it matter if university centers take a more favorable stance on natural gas in non-peer-reviewed papers? Natural gas is around 75 to 90% methane, which is an extremely potent greenhouse gas that has 86 times the heat-trapping potential of carbon dioxide during its first 20 years in the atmosphere. In the U.S., 80% of the methane increase between the early 2000s and 2017 came from fossil fuel operations. If energy centers at prestigious universities publish content favorable to natural gas, it may play into what a 2020 Global Sustainability paper cited by Du, Papp, and their fellow Columbia University co-author Douglas Almond terms “discourses of climate delay.”
+ 
+The 2020 paper argues that “the early industry tactic of outright denial of anthropogenic climate change has since evolved into more nuanced ‘discourses of climate delay’, where the industry now promotes ‘non-transformative solutions’, redirects responsibility for climate change and asserts that major technological breakthroughs are ‘just around the corner,’” Almond, Du and Papp explain. “This forestalls the transition to current renewable energy sources such as solar and wind.”
+ 
+Such messages could be especially impactful coming from university centers.
+ 
+"These energy centers are associated with prestigious research universities, so the public and policymakers may attach considerable value to their reports,” Du and Papp say. “At the same time, financial ties between academic institutions and corporations are difficult to trace.” 
+ 
+The study itself is “descriptive,” so stops short of calling on these centers to cut ties with their fossil fuel donors. Instead, Du and Papp focus on transparency, arguing that these centers should at the very least disclose their funders in all published papers and at events open to policymakers and the media. Further, scholars or others associated with these centers should disclose any conflicts of interest when giving policy advice. 
+ 
+However, a growing movement is pushing universities to stop taking fossil fuel money, and, for them, the new paper is an object lesson as to why.
+ 
+“[T]hiis is how you end up with narratives of gas as a bridge fuel, gas being actually part of the transition away from fossil fuels, even though it is a fossil fuel,” Stanford University electrochemist Thom Hersbach tells Treehugger in an interview. “I think if your goal is to do credible climate science, the article here very clearly demonstrates that you should not be paid by the people causing climate change and profiting from it.”
+ 
+Hersbach is an organizer with Stanford University group Coalition for a True School of Sustainability. The coalition wants Stanford’s Doerr School of Sustainability–newly launched on September 1, 2022, with the Precourt Institute for Energy now under its umbrella–to accept no new donations from fossil fuel companies. Currently, it takes money from BP, Chevron, Saudi Aramco, Shell, and Total, among others. 
+ 
+Stanford freshman and coalition organizer Alexi Lei Lindeman says she was drawn to the university precisely because of the new school. Lindeman, who also grew up in California, says she still remembers her first ever “smoke-day” in high school when wildfire smoke made it unhealthy to go outside. 
+ 
+“Reflecting back on that, it was every single year after that,” she recalls. “There's always a smoke season.”
+ 
+Witnessing this transformation in the four years between beginning high school and beginning college has made her more motivated to find a solution to the climate crisis. This was partly why she was disappointed when she learned the Doerr School would accept fossil fuel funds. 
+ 
+“[T]hat was just kind of a shocker to me,” she says.
+ 
+Beyond Stanford, a student movement has emerged under the banner of Fossil Free Research. The group has circulated an open letter calling on universities in both the U.S. and the U.K. to stop taking fossil fuel money for research. It has so far been signed by more than 800 people from more than 130 institutions, including Almond.
+ 
+“We believe this funding represents an inherent conflict of interest, is antithetical to universities’ core academic and social values, and supports industry greenwashing,” the letter reads. “Thus, it compromises universities’ basic institutional integrity, academic freedom, and their ability to address the climate emergency.”
+ 
+In response to the concerns raised by Almond, Du, and Papp’s study, MIT Energy Initiative denied that its funders had influenced the content of its publications.
+ 
+“As a research and education program we welcome review of all of our publications, and we appreciate robust conversations about our work. Information about MIT Energy Initiative (MITEI) members is publicly available at https://energy.mit.edu/membership/, as well as through various individual member announcements they have posted over the years on their websites and in the publication Energy Futures, which MITEI produces.  All of the work we do at MITEI is publishable. Our research reports are the work of MIT faculty, staff and students with no influence–no approval or rejection, no oversight, no opportunity to accept or reject any findings—from any funders, whether MITEI members or not,” the initiative says in a statement emailed to Treehugger. “As laid out in MIT’s Climate Action Plan in 2015 and again in Fast Forward: MIT’s Climate Action Plan for the Decade, released in Spring 2021, MIT is pursuing a path of engagement with a wide range of industries, governments, philanthropists and other partners, as part of a much broader institutional strategy to help develop and deploy large-scale solutions for decarbonizing the global economy as rapidly as possible.”
+ 
+Columbia University’s Center on Global Energy Policy also stood by the integrity of its publications and pointed to its transparent disclosure of its funding sources on its website. 
+ 
+Neither Stanford’s Doerr School of Sustainability nor its Precourt Institute for Energy responded to requests for comment. However, on December 12,  Stanford President Marc Tessier-Lavigne announced he would form a committee to consider the question of fossil fuel funding, building on a listening tour undertaken by Doerr School of Sustainability Dean Arun Majumdar throughout the year.
+ 
+“Transitioning to a sustainable global energy system is among the greatest challenges facing the world today,” Tessier-Lavigne said. “We must consider how to balance the value of broad engagement in this work with legitimate concerns about the ethical standards of our partners.”
+ 
+In response, both Hersbach and Lindeman express cautious optimism. 
+ 
+“It is incredibly encouraging to see the Doerr School go from saying they would "work with and accept donations from fossil fuel companies" in May to announcing this committee now,” Hersbach says. ‘This shift indicates to me that our activism is causing the school to critically assess its funding sources. Although we still need to wait and see what the committee concludes, I think its creation is an exciting first step.”
+ 
+Lindeman agrees.
+ 
+“I hope this decision was made with true intentions of understanding the impacts of fossil fuel funded research rather than to temporarily pacify critics,” she adds. “If so, the committee's conclusion should be the same as ours: there's no place for fossil fuel funding in the Doerr School of Sustainability.”
+ Almond, Douglas, et al. “Favourability towards Natural Gas Relates to Funding Source of University Energy Centres.” Nature Climate Change, vol. 12, no. 12, 2022, pp. 1122–1128., doi:10.1038/s41558-022-01521-3

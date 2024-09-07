@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='electricenergyonline.com', port=443): Max retries exceeded with url: /article/energy/category/general/90/1016039/national-grid-accepted-to-u-s-department-of-defense-skillbridge.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da93713310>, 'Connection to electricenergyonline.com timed out. (connect timeout=5)'))

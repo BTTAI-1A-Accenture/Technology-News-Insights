@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/owens-corning-unveils-2024-shingle-color-of-the-year-williamsburg-gray/article_2993b4c0-3c3f-5e2a-9098-0dbf13239b7a.html

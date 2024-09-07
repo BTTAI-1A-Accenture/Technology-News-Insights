@@ -1,0 +1,72 @@
+A whale with a lot of money to spend has taken a noticeably bearish stance on Salesforce. Looking at options history for Salesforce CRM we detected 10 strange trades. If we consider the specifics of each trade, it is accurate to state that 40% of the investors opened trades with bullish expectations and 60% with bearish. From the overall spotted trades, 6 are puts, for a total amount of $212,387 and 4, calls, for a total amount of $176,860. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $145.0 to $200.0 for Salesforce over the last 3 months.  Looking at the volume and open interest is an insightful way to conduct due diligence on a stock. This data can help you track the liquidity and interest for Salesforce's options for a given strike price. Below, we can observe the evolution of the volume and open interest of calls and puts, respectively, for all of Salesforce's whale activity within a strike price range from $145.0 to $200.0 in the last 30 days.   
+
+
+Symbol
+PUT/CALL
+Trade Type
+Sentiment
+Exp. Date
+Strike Price
+Total Trade Price
+Open Interest
+Volume
+
+
+
+
+CRM
+CALL
+SWEEP
+BEARISH
+04/21/23
+$190.00
+$57.9K
+9.5K
+66
+
+
+CRM
+CALL
+TRADE
+BULLISH
+06/16/23
+$145.00
+$55.6K
+346
+10
+
+
+CRM
+PUT
+SWEEP
+BEARISH
+04/06/23
+$195.00
+$50.9K
+1.2K
+642
+
+
+CRM
+PUT
+SWEEP
+BEARISH
+04/06/23
+$195.00
+$46.6K
+1.2K
+1.0K
+
+
+CRM
+CALL
+TRADE
+BULLISH
+06/16/23
+$165.00
+$37.4K
+697
+10
+
+
+ Options are a riskier asset compared to just trading the stock, but they have higher profit potential. Serious options traders manage this risk by educating themselves daily, scaling in and out of trades, following more than one indicator, and following the markets closely. If you want to stay updated on the latest options trades for Salesforce, Benzinga Pro gives you real-time options trades alerts. © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. See what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

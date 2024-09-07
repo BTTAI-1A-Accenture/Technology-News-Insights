@@ -1,0 +1,150 @@
+You might be using an unsupported or outdated browser. To get the best possible experience please use the latest version of Chrome, Firefox, Safari, or Microsoft Edge to view this website. Reviewed Updated: Aug 11, 2024, 9:01am Computer viruses designed to harm or gain access to your computer are more common than ever. Each type has an end goal in mind: to make money, whether through selling your personal data or demanding money through a ransomware attack. Luckily, there are plenty of antivirus software options available to protect your device, and many of them are free. In this roundup, Forbes Advisor has done the research to find the best free antivirus software. Featured Partners 1 TotalAV $19 for the first year Yes Yes 1 TotalAV On TotalAV's Website 2 Norton Antivirus $29.99 your first year Yes Yes 2 Norton Antivirus On Norton's Website 3 Surfshark $2.49 per month No No 3 Surfshark On Surfshark's Website The Forbes Advisor Small Business team is committed to bringing you unbiased rankings and information with full editorial independence. We use product data, first-person testing, strategic methodologies and expert insights to inform all of our content to guide you in making the best decisions for your business journey. Our team analyzed 15 antivirus providers with 27 factors such as transparent pricing, ransomware protection, anti-phishing security, access to customer support and customer ratings to organize this list of the seven best free antivirus services. All ratings are determined solely by our editorial team. Free Download  Yes, for Windows 
+ Firewall  No, for a fee 
+ Malware Protection  Yes 
+ 
+
+Yes, for Windows
+
+
+ Yes, for Windows 
+ 
+
+No, for a fee
+
+
+ No, for a fee 
+ 
+
+Yes
+
+
+ Yes 
+ Bitdefender offers some of the best virus and malware protection, and it’s one of the few companies that is consistently ranked at the top by independent testing organizations. In addition to that, it offers a wide range of features, including a password manager, webcam protection, file encryption and more. The company also offers a free trial of its paid software, which includes all of the features mentioned above plus real-time scanning of websites for malicious content. What’s more, it’ll scan and remove threats from your computer. Learn more: Read our full Bitdefender review. Who should use it: Anyone who’s looking for comprehensive protection from viruses and malware. Free Download  Yes, for Windows, Mac, Android and iOS 
+ Firewall  No, for a fee 
+ Malware Protection  Yes 
+ 
+
+Yes, for Windows, Mac, Android and iOS
+
+
+ Yes, for Windows, Mac, Android and iOS 
+ 
+
+No, for a fee
+
+
+ No, for a fee 
+ 
+
+Yes
+
+
+ Yes 
+ Avira ranks high in independent tests for virus and malware protection, and it offers a wide range of features on top of that. Some of those include browser safety, a free virtual private network (VPN), password manager, tracker remover, scan optimization and junk remover. You can use Avira’s free antivirus software on Windows, Mac, Android and iOS devices. The company doesn’t put any limits on how many devices you can protect with a single subscription, which is pretty generous. Who should use it:  If you’re looking for a comprehensive security solution that can be used on multiple devices, Avira is a great option. Free Download  Yes 
+ Firewall  No 
+ Malware Protection  No 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+No
+
+
+ No 
+ 
+
+No
+
+
+ No 
+ F-Secure Online Scanner stands out for its simplicity and effectiveness, offering an accessible tool for individuals looking to secure their Windows PCs. It particularly impresses with its ability to work alongside other security software, presenting itself as a secondary line of defense against malicious threats. Its cleansing operation does not leave any residual files on your computer, ensuring a neat and clean experience. The tool assures an uncomplicated virus detection and removal process, providing immediate reassurance and a sense of security. F-Secure, with its 30 years of cybersecurity experience, has a wealth of expertise that makes this free tool a stable option for those who want no-cost antivirus protection. Who should use it:  It’s perfect for individuals looking for an uncomplicated, complementary tool to supplement their existing security software. Free Download  Yes 
+ Firewall  No 
+ Malware Protection  Removal only, not prevention 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+No
+
+
+ No 
+ 
+
+Removal only, not prevention
+
+
+ Removal only, not prevention 
+ Trend Micro HouseCall serves as a reliable choice for its unique approach to threat detection and removal. The online security scanner is highly customizable, enabling users to choose between quick or full scans and even craft their own custom scans. With its ability to coexist with other security software, it is an advantageous supplement for systems running other antivirus tools. It also excels in delivering detailed threat reports, which allows users to comprehend the security status of their systems better. HouseCall doesn’t limit itself to personal devices, extending its scanning capabilities to home network devices, ensuring an all-around protective layer. As a product from a well-established company such as Trend Micro, it certainly adds a layer of trust and reliability. Who should use it:  Individuals and households who want both a comprehensive and flexible free online security scanner, especially those with multiple devices on a home network. Free Download  Yes* 
+ Firewall  No 
+ Malware Protection  Yes 
+ 
+
+Yes*
+
+
+ Yes* 
+ 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ McAfee provides robust, award-winning protection with a variety of features that extend beyond the typical antivirus or malware removal. While it offers a 30-day free trial, McAfee justifies its subscription cost with an extensive suite of security features including ransomware protection, a password manager and multi-device compatibility. One of its standout features is the VPN service, which allows users to browse the internet privately, further securing online activities. Moreover, its 100% virus removal guarantee demonstrates a strong commitment to ensuring the user’s safety. The identity monitoring services, as part of its Advanced and Premium plans, offer an additional layer of protection for personal data, making it more than just antivirus software. *It’s important to understand this is free for only the first 30 days, so it’s not a true free antivirus.  Learn more: Read our full McAfee review. Who should use it:  It is ideal for users who want a comprehensive security solution that covers multiple devices, includes privacy features such as a VPN and offers identity theft protections. Free Download  Yes 
+ Firewall  No 
+ Malware Protection  Yes 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+No
+
+
+ No 
+ 
+
+Yes
+
+
+ Yes 
+ Malwarebytes is a comprehensive security solution that focuses on speed and customization. With an average Mac scan time of under 30 seconds, it provides real-time protection without significantly slowing down the system, allowing users to continue their activities with minimal interruption. In our test using a MacBook Pro, it scanned over 500,000 existing files in less than 90 seconds. The user-friendly interface makes it easy to tailor protection to individual needs, and the software is light on system resources, contributing to better Mac performance. The added feature of app block cleverly prevents attempts by developers to bypass security with slightly modified versions of their apps. Learn more: Read our full Malwarebytes review. Who should use it:  Malwarebytes is perfect for users who prioritize speed and want a tool that won’t hamper their system’s performance. Free Download  Yes, with Microsoft 365 subscription 
+ Firewall  Yes 
+ Malware Protection  Yes 
+ 
+
+Yes, with Microsoft 365 subscription
+
+
+ Yes, with Microsoft 365 subscription 
+ 
+
+Yes
+
+
+ Yes 
+ 
+
+Yes
+
+
+ Yes 
+ Microsoft Defender Antivirus, while no longer free on its own, is now bundled with Microsoft 365 subscriptions. Despite its integration, it continues to offer efficient and solid protection against viruses and malware. The notable aspect is its ease of use and configuration—it starts protecting your system from threats as soon as it’s activated. Real-time protection is a key feature, blocking new threats as they emerge. It also has a built-in firewall, making it one of the few free options offering this. Who should use it:  Microsoft Defender Antivirus is a perfect fit for existing Microsoft 365 subscribers who want a seamless, efficient and integrated solution for their Windows devices. It provides robust security without additional cost or complex setup, making it a smart choice for those already invested in the Microsoft ecosystem. 
+ Think of antivirus software as a personal digital bodyguard. It’s there to guard your computer around the clock, keeping an eye out for intruders that could ruin your day. These unwelcome guests are often known as malware—nasty stuff such as viruses, worms, trojans, ransomware and spyware. Each has its own sneaky methods and nasty intentions, but your digital bodyguard is trained to catch them in the act. Modern antivirus software goes beyond just bodyguard duties, acting more like a whole security team. It monitors your emails, filters out suspicious ones, keeps a vigilant eye on your internet browsing and blocks any malicious websites before they can do any harm. Some even have the skills to provide anti-phishing protection, helping you avoid online scams designed to steal your personal information. In the world of antivirus software, more features often mean better protection. It’s free, so it must be a good deal, right? Well, not always. Yes, some free programs can give you basic protection, but they might not give you the full security coverage you need. Consider the fact that cyber threats are always evolving—the bad guys never sleep. Paid antivirus software typically offers regular updates and cutting-edge features, which help you keep pace with these ever-changing threats. Free antivirus software can also come with some unwanted extras. Annoying ads, a sluggish computer and even privacy issues can tag along. Certain no-cost programs have been discovered selling user data to outside parties, which is a serious privacy violation. And, let’s not forget the most important thing—the level of protection offered by your chosen software. Free software can sometimes fall short when faced with complex cyberattacks. As cybercriminals get smarter, the software needs to outsmart them, and free versions might not have the muscle to do that. While free antivirus software can work for simple needs, a paid version may be the better option if you’re a frequent internet user and value your privacy. Always do your research before choosing any antivirus software—your digital safety is worth it. Featured Partners 1 TotalAV $19 for the first year Yes Yes 1 TotalAV On TotalAV's Website 2 Norton Antivirus $29.99 your first year Yes Yes 2 Norton Antivirus On Norton's Website 3 Surfshark $2.49 per month No No 3 Surfshark On Surfshark's Website The most important feature of any antivirus is protection from a wide range of threats. These include viruses, malware, ransomware, spyware and phishing. Of course, the best free antivirus software will be available for all of your device types, so you are protected whether you are using your Windows desktop or your iPhone. Additionally, it’s also worth considering the price for premium antivirus plans in case you decide you want to further increase your security in the future. Those with affordable feature-rich plans will be your best bet to easily grow with. An antivirus software is like a fortress against cyber threats—the more features it has, the better it can defend your system. Different antivirus software may protect against different types of threats, but a comprehensive one should cover viruses, malware, ransomware, spyware and phishing attacks. The most crucial features to look for include: While protection is essential, equally important is the ability to remove threats that somehow bypass your defenses. Threat removal involves the antivirus software identifying, isolating and eliminating the threat from your device. Some advanced features to consider include: Antivirus software is a bit like a marathon runner—it needs to be robust, but also efficient so as not to slow down your system. Some antivirus software can consume significant system resources, leading to slower device performance. Look for software that promises lightweight operations or has a “gaming mode” to minimize disruptions during intensive tasks. The ability to scale up your security with your needs is a handy feature. Many free antivirus solutions offer premium upgrades that provide more comprehensive protection. Here are a few popular add-ons: Antivirus software is a critical layer of security for your digital life. The choice between free and paid options depends heavily on your individual needs and concerns. Here are some points to consider. Free antivirus software can be an excellent choice for users with basic security needs. If you primarily use your device for light activities such as browsing, streaming content or checking emails, free software might provide adequate protection. If you’re not protecting your devices now, a free antivirus tool is a necessary step to take before investing in paid offers. Free antivirus allows you to understand how such software works and determine your specific needs without making an upfront investment. If you’re a heavy internet user, regularly access online banking, store sensitive information on your device or work from home, consider investing in a paid antivirus solution. These offer more comprehensive protection, and typically include additional features such as: Free antivirus software is sufficient for minimal internet use and those on a tight budget. However, for comprehensive protection, especially if you handle sensitive data or own multiple devices, a paid antivirus solution can provide peace of mind with enhanced security features. Amid an escalating cybersecurity climate, consumers are taking a more discerning approach to their software choices. One name often brought into the mix is the Russian cybersecurity firm, Kaspersky Lab, which has long been recognized for its robust antivirus capabilities. Once again, the U.S. government is scrutinizing the firm. The Department of Commerce is reportedly considering enforcement action against Kaspersky, escalating from a previous ban that restricted federal government use of its software. This move comes amid a backdrop of intensifying concerns around Russian cyberattacks, particularly following Russia’s invasion of Ukraine. Allegations against Kaspersky, suggesting possible ties to the Russian government, are not new. Such claims, which date back to 2017, suggest that the company could potentially provide a back door for cyber-espionage activities. As a result, many users, especially within the U.S., have become wary of installing Kaspersky’s software on their devices. Kaspersky Lab continues to deny these allegations, maintaining that it operates independently of any government influence. And it’s worth noting that, despite the geopolitical controversy, Kaspersky’s antivirus products remain highly rated for their efficacy in threat detection and removal. Therefore, when considering Kaspersky as an antivirus solution, it’s essential to weigh its technical merits against the potential geopolitical risks. While its software is often lauded for superior protection, the looming question of trust and data safety remains. Users are urged to stay informed about these developments when choosing an antivirus solution. In the world of cybersecurity, the trust between a user and their antivirus provider is paramount. When this trust is broken, it can be nearly impossible to regain. This is the challenge with AVG and Avast, two popular antivirus solutions owned by the same parent company, Gen Digital. In the past, these two companies were mired in controversy. The trouble began when Avast’s Online Security browser extension was found to be gathering an excessive amount of user data, far beyond what was necessary for the extension to function. This included users’ location, search history, gender, age and even personal shipping information. The allegations escalated when it was discovered that this data was sold to corporate clients through a subsidiary of Avast named Jumpshot. This practice raised serious ethical questions and landed Avast and AVG in hot water with privacy advocates. Following public outcry and investigations by security experts and journalists, Avast shut down Jumpshot in early 2020 but the damage was done. The discovery of these unethical business practices led to the removal of AVG and Avast from many recommendation lists, despite their previously solid reputations in the antivirus market. Since then, Avast and AVG have undergone significant changes to restore user confidence and ensure that privacy isn’t compromised. They have closed down the data-aggregating subsidiary, Jumpshot, and have received certifications from data privacy advisors such as TrustArc. Avast and AVG have also committed to working closely with privacy experts to responsibly manage users’ data. Today, both AVG and Avast claim to no longer pose a privacy threat to users, and they continue to provide robust virus protection. However, their past actions serve as a stark reminder that choosing an antivirus goes beyond considering its technical merits. Users must also consider the company’s ethical stance and practices, and whether they can trust it with their sensitive data. In this case, despite improvements, the shadow of past missteps continues to hang over AVG and Avast, highlighting the importance of a strong ethical framework in cybersecurity companies. To identify the best free antivirus software, we’ve developed a comprehensive methodology involving the evaluation of various antivirus solutions against a weighted set of categories. Each software solution was assigned a score in each category, and these scores were then used to calculate a product’s total score, with a possible maximum score of five stars. Free antiviruses are good at protecting your devices from a wide range of threats. However, they typically don’t include some of the more advanced features that come with paid options. Microsoft Defender is technically no longer free. Microsoft has recently shifted its policy and the software doesn’t come preinstalled with Windows anymore. Now, users need to buy it separately. Although it provides good protection, other antivirus software in the market offers more extensive coverage, which includes features, such as identity theft protection, a VPN and password manager. All devices that connect to the internet are vulnerable to viruses and other threats. That’s why it’s important to have some form of antivirus protection on all of your devices—even Apple products. Yes, you can. It’s important to be careful about which emails you open and never click on any links or attachments unless you’re absolutely sure they’re safe. Many email clients, such as Gmail, will pre-scan attachments before you open them and alert you to potential threats. While Macs are less likely to be affected by viruses than PCs, they’re not immune. It’s still important to have some form of antivirus protection on your Mac in addition to other security measures. Signs that your device may be infected include slow performance, unexpected pop-ups and new programs that you didn’t install. If you suspect your device has a virus, it’s important to scan it with an antivirus program as soon as possible. While today’s leading antivirus services offer helpful features, the truth of the matter is that it’s not enough to keep you fully protected. Human error is responsible for a large number of security breaches for both private individuals and businesses. Using common sense when it comes to password usage, deciphering phishing scams and other tools are essential when it comes to keeping your information secure. No, antivirus software cannot stop hackers. However, it can detect and remove any malicious software that hackers may have installed on your computer without your knowledge. In addition, antivirus software can also help to protect your computer from being hacked in the first place by identifying and blocking any suspicious activity. 
+                Katherine Haan is a small business owner with nearly two decades of experience helping other business owners increase their incomes.            

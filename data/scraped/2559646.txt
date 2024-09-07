@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://journalstar.com/sports/high-school/football/friday-night-rewind-the-highlights-from-week-3-of-the-high-school-football-season/article_df1fd6d0-4e93-11ee-94a4-778f395d0b40.html

@@ -1,0 +1,23 @@
+
+                
+                March 1, 2023
+                     • 
+ Heavy Duty Trucking Staff
+ •  
+Bookmark +
+
+ Algolux software is currently operating on initial Freightliner Cascadia test vehicles and is being included in areas of Torc's software development efforts.  Photo: Torc Torc Robotics, an independent subsidiary of Daimler Truck AG commercializing self-driving vehicle technology, signed an agreement to acquire Algolux for its intellectual property and expertise in the areas of computer vision and machine learning. “Algolux’s technology, at the intersection of deep learning, computer vision, and computational imaging, will help Torc strengthen key capabilities toward our commercialization of Level 4 autonomous trucking," said Torc CEO Peter Vaughan Schmidt in a press release. The acquisition brings together Algolux’s end-to-end AI stack, from photons to behavior, with Torc’s pioneering autonomous technology, according to Algolux's chief technology officer.  "Add in a tightly integrated OEM truck platform and you have a dream scenario,” said CTO Felix Heide. “While many think of autonomous transportation as futuristic, this winning combination will help bring to market a commercially viable, safety-critical long-haul trucking application at scale.”  Exclusive: Behind the Scenes at Torc Robotics Torc has been working closely with Algolux for over a year on multiple perception concepts and methods for robustly improving object detection and distance estimation, while evaluating synergies between the two companies. Robust perception technology is key to helping Torc's autonomous system correctly identify objects in difficult visual conditions such as low light, fog, or inclement weather. Algolux software is currently operating on initial Freightliner Cascadia test vehicles and is being included in areas of Torc's software development efforts.  "Torc shares in our commitment to create robust technology to realize the potential of autonomy and help save lives, which is one of the many reasons why joining forces makes sense for our teams," said Allan Benchetrit, Algolux president and CEO. "Algolux’s established team with deep expertise in artificial intelligence/machine learning (AI/ML) talent and perception complements Torc’s already experienced engineering team.”  Algolux is headquartered in Montreal, Canada, with offices in Palo Alto, California, and Munich, Germany. The transaction will close after the parties complete various pre-closing activities, including any required approvals.  Will Autonomous Trucks Create a Boom in Trucking Jobs? Editorial 
+                    Our team of enterprising editors brings years of experience covering the fleet industry. We offer a deep understanding of trends and the ever-evolving landscapes we cover in fleet, trucking, and transportation.  
+                 
+                Comments are moderated and may not appear for 24 hours or more. Comments that include personal
+                attacks or slurs, hate speech, demonstrably false information, excessive profanity, or that are thinly veiled promotions for a product, will not be approved.
+              See all comments 
+We respect your data and privacy.
+                            By clicking the submit button below, you are agreeing with Bobit Business Media’s Privacy Policy and this outlined level of consent.
+                         Serving Car & Truck Fleet Management Professionals Serving Small Fleet Owners & Managers Serving EV Intenders & Professionals In Commercial & Public Fleets Serving Public Sector Fleet Professionals Serving Medium & Heavy Duty Commercial Truck Professionals Serving Transit Bus, Private Motorcoach, & Passenger Rail Professionals Serving School & Pupil Transportation Fleet Professionals Serving Vocational & Service Fleet Professionals 
+We respect your data and privacy.
+                            By clicking the submit button below, you are agreeing with Bobit Business Media’s Privacy Policy and this outlined level of consent.
+                         
+            The secure and easy all-access connection to your content.
+            Bookmarked content can then be accessed anytime on all of your logged in devices!
+         Already a member? Log In

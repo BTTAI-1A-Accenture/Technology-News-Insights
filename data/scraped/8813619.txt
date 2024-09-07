@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Business Wire IndiaCES – Quectel Wireless Solutions, a global IoT solutions provider, is today demonstrating its smart module capabilities with compute-intensive and edge intelligence applications. Using Quectel’s high performance SG865W-WF smart module, the demonstration showcases how future use cases of industrial applications, digital signage, unattended retail, fleet management and healthcare can be enabled with edge intelligence and machine vision functionality.
+ 
+
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230106005278/en/
+ 
+
+
+Quectel continues to drive digital transformation with advanced smart module, edge intelligence and machine vision technologies at CES 2023 (Graphic: Business Wire)
+
+The SG865W-WF is Quectel’s new generation of Android smart module with built-in octa-core high-performance Kryo 585 CPU, Adreno 650 GPU, Adreno 995 DPU, Adreno 665 VPU, Hexagon DSP, and Spectra 480 ISP. The module supports Wi-Fi 6, Bluetooth 5.1 and 2 × 2 Wi-Fi MIMO technology. A rich set of interfaces such as LCM, camera, touch panel, I2S, PCIe, UART, USB, I2C, SPI, etc. allow the module to serve a wide range of IoT applications including a state-of the-art visual inspection system currently deployed in Quectel’s own automated module production line.
+ 
+
+Utilizing the Qualcomm QCS8250 system-on-chip, the Quectel SG865W-WF smart module and industrial equipment including a camera, lens and light, the machine vision solution uses edge computing to deliver the real-time analysis needed to identify defective samples including scratches, dirt, and abnormal surface printing on each module, screening out any defective modules during production. By deploying this solution, Quectel has realized industry-leading accuracy and high-speed defect detection - greatly improving the production efficiency and quality of our products.
+ 
+
+“We are committed to driving digital transformation across all industry sectors through our broad IoT portfolio, working closely with our technology partner, Qualcomm,” commented Norbert Muhrer, President and CSO, Quectel Wireless Solutions. “The visual inspection solution we have implemented in our own factories, is an excellent example of how we are not only creating the ground-breaking smart modules needed for advanced applications, but also using the technology in our own manufacturing to create a best-in-breed, industry leading defect detection system – helping us to greatly improve quality while saving production costs.”
+ 
+
+The visual inspection solution is just one of a range of solutions that have used Quectel smart modules to enable high performance, edge computing and machine vision functionality. Customers looking to develop advanced machine vision and edge intelligence based solutions can work closely with Quectel’s experts to create customized solutions.
+ 
+
+To learn more, visit the Quectel booth at CES 2023, North Hall, Booth #10862 where we will be demonstrating the Quectel machine vision solution with edge capabilities.
+ 
+
+About Quectel
+
+ 
+
+Quectel’s passion for a smarter world drives us to accelerate IoT innovation. A highly customer-centric organization, we are a global IoT solutions provider backed by outstanding support and services. Our growing global team of over 4,000 professionals sets the pace for innovation in cellular, GNSS, Wi-Fi and Bluetooth modules, antennas and IoT connectivity. With regional offices and support across the globe, our international leadership is devoted to advancing IoT and helping build a smarter world.
+ 
+
+For more information: www.quectel.com, LinkedIn, Facebook, and Twitter.
+ 
+
+
+ 
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230106005278/en/
+ CES – Quectel Wireless Solutions, a global IoT solutions provider, is today demonstrating its smart module capabilities with compute-intensive and edge intelligence applications. Using Quectel’s high performance SG865W-WF smart module, the demonstration showcases how future use cases of industrial applications, digital signage, unattended retail, fleet management and healthcare can be enabled with edge intelligence and machine vision functionality. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230106005278/en/ Quectel continues to drive digital transformation with advanced smart module, edge intelligence and machine vision technologies at CES 2023 (Graphic: Business Wire) The SG865W-WF is Quectel’s new generation of Android smart module with built-in octa-core high-performance Kryo 585 CPU, Adreno 650 GPU, Adreno 995 DPU, Adreno 665 VPU, Hexagon DSP, and Spectra 480 ISP. The module supports Wi-Fi 6, Bluetooth 5.1 and 2 × 2 Wi-Fi MIMO technology. A rich set of interfaces such as LCM, camera, touch panel, I2S, PCIe, UART, USB, I2C, SPI, etc. allow the module to serve a wide range of IoT applications including a state-of the-art visual inspection system currently deployed in Quectel’s own automated module production line. Utilizing the Qualcomm QCS8250 system-on-chip, the Quectel SG865W-WF smart module and industrial equipment including a camera, lens and light, the machine vision solution uses edge computing to deliver the real-time analysis needed to identify defective samples including scratches, dirt, and abnormal surface printing on each module, screening out any defective modules during production. By deploying this solution, Quectel has realized industry-leading accuracy and high-speed defect detection - greatly improving the production efficiency and quality of our products. “We are committed to driving digital transformation across all industry sectors through our broad IoT portfolio, working closely with our technology partner, Qualcomm,” commented Norbert Muhrer, President and CSO, Quectel Wireless Solutions. “The visual inspection solution we have implemented in our own factories, is an excellent example of how we are not only creating the ground-breaking smart modules needed for advanced applications, but also using the technology in our own manufacturing to create a best-in-breed, industry leading defect detection system – helping us to greatly improve quality while saving production costs.” The visual inspection solution is just one of a range of solutions that have used Quectel smart modules to enable high performance, edge computing and machine vision functionality. Customers looking to develop advanced machine vision and edge intelligence based solutions can work closely with Quectel’s experts to create customized solutions. To learn more, visit the Quectel booth at CES 2023, North Hall, Booth #10862 where we will be demonstrating the Quectel machine vision solution with edge capabilities. About Quectel Quectel’s passion for a smarter world drives us to accelerate IoT innovation. A highly customer-centric organization, we are a global IoT solutions provider backed by outstanding support and services. Our growing global team of over 4,000 professionals sets the pace for innovation in cellular, GNSS, Wi-Fi and Bluetooth modules, antennas and IoT connectivity. With regional offices and support across the globe, our international leadership is devoted to advancing IoT and helping build a smarter world. For more information: www.quectel.com, LinkedIn, Facebook, and Twitter.  View source version on businesswire.com: https://www.businesswire.com/news/home/20230106005278/en/

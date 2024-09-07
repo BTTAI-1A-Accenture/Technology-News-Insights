@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.sana.sy', port=443): Max retries exceeded with url: /en/?p=314253 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da96c51090>, 'Connection to www.sana.sy timed out. (connect timeout=5)'))

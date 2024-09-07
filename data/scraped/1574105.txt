@@ -1,0 +1,25 @@
+
+                    NicoElNino/Getty Images
+                    Stay Connected 
+            
+              
+                
+  
+
+
+
+  By
+
+
+Chris Riotta
+ Data sharing between the public and private sectors in the U.S. is plagued by major legal, social and economic barriers that hinder innovation across key industries, including health care, financial services and education, according to a new report.  The Center for Data Innovation think tank published a report Monday that warns the U.S. is trending towards a landscape of data silos, with overly restrictive data privacy laws and a lack of technical standards severely limiting the potential benefits from enhanced data sharing efforts.   The report says privacy laws that tend to restrict certain sectors from sharing information are causing leading organizations to avoid any data sharing initiatives "to avoid the risk of penalties for noncompliance."  It also warns that data sharing is becoming an increasingly costly process that often requires complex technical components, which can be particularly challenging for smaller and underfunded organizations, further exacerbating the digital divide those organizations experience.  Laws like the Privacy Act of 1974 restrict inter-agency data sharing, according to the report, which recommends reforming existing data protection laws to reduce legal barriers to information sharing.  Beyond legislative changes, the report also recommends directing certain federal agencies with developing model data-sharing contracts to simplify legal agreements and establishing data literacy initiatives to foster data sharing skills and techniques across communities.  The Center for Data Innovation also warned that proposals for a comprehensive federal privacy law still pose barriers to data sharing, noting that most legislative proposals "would add additional data privacy rules for consumer data" and expand some existing restrictions on data sharing to other types of data.  "These types of requirements protect individual interests in data but do nothing to advance societal ones," the report says.  Recent reports have underscored the need for enhanced data sharing efforts across the public and private sectors, including a Government Accountability Office report published in June that said further action is needed to develop the information sharing environment for counterterrorism operations.   Another GAO report published last year found that data management challenges — including issues with data interoperability and information sharing across key sectors — are undermining the federal government's ability to respond to public health emergencies like the COVID-19 pandemic.  The Center for Data Innovation is also calling on the federal government to develop data standards in high-impact areas and address instances in which fragmented data ownership is preventing the compilation of valuable datasets.
+
+ 
+NEXT STORY:
+
+              What does post-pandemic telework look like during a shutdown?
+            
+
+
+
+ Help us tailor content specifically for you:

@@ -1,0 +1,103 @@
+
+ 
+								By 
+
+	Todd Spangler
+ NY Digital Editor 
+	The U.S. Supreme Court on Thursday issued unanimous rulings on two cases that could have upended the existing legal-liability shield internet companies have regarding user posts on social media. 
+	The decisions left untouched Section 230 of the 1996 Communications Decency Act. As currently interpreted, Section 230 grants internet companies broad legal protections for user-posted content on their services. 
+	The two related cases, which had been appealed to the Supreme Court, threatened to erode the protections of Section 230. In the first case, Twitter v. Taamneh, plaintiffs claimed that Twitter was liable for allegedly “aiding and abetting” an attack in Istanbul by ISIS because Twitter failed to adequately block or remove content promoting terrorism (even though Twitter had no specific knowledge that any particular post furthered a terrorist act). In its ruling, the Supreme Court held that hosting, displaying and recommending videos, without more, is not aiding and abetting terrorism. The court noted that all content is sorted by algorithms and that using content-agnostic recommendation algorithms is insufficient to create liability.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+					Related Stories		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	VIP+
+	
+
+
+
+	
+		
+					‘Existential Threat’ of AI Central to Animation Guild Negotiations		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+					Will 'Alien: Romulus' Continue Disney's Summer Box Office Streak?		
+			
+
+
+
+
+
+
+ 
+	“It might be that bad actors like ISIS are able to use platforms like [Twitter] for illegal — and sometimes terrible — ends,” Justice Clarence Thomas wrote in the court’s Twitter v. Taamneh ruling. “But the same could be said of cell phones, email or the internet generally.”
+
+
+
+
+			Popular on Variety		
+
+
+
+
+ 
+	In the other case, Gonzalez v. Google, the family of a woman who was killed in Paris during a terrorist attack in November 2015 argued that YouTube used algorithms to push Islamic State videos and was therefore liable in her death. The court, in an unsigned opinion, noted that in light of its decision in Twitter v. Taamneh, “little if any” of the plaintiffs’ claims in Gonzalez v. Google remained viable and thus it was unnecessary to address the question of whether Section 230 immunized the platform’s recommendation algorithms. The court remanded the case to the 9th U.S. Circuit Court of Appeals to determine whether any part of the plaintiffs’ argument could move forward. 
+	The American Civil Liberties Union praised the court’s rulings. “With this decision, free speech online lives to fight another day,” Patrick Toomey, deputy director of ACLU’s National Security Project, said in a statement. “Twitter and other apps are home to an immense amount of protected speech, and it would be devastating if those platforms resorted to censorship to avoid a deluge of lawsuits over their users’ posts. Today’s decisions should be commended for recognizing that the rules we apply to the internet should foster free expression, not suppress it.”
+
+	
+
+
+
+
+
+
+
+
+ 
+	TechFreedom, which describes itself as a nonpartisan think tank, also applauded the decisions. “The Supreme Court did what the 9th Circuit should have done in the first place,” said Ari Cohn, free speech counsel at TechFreedom. “These claims were never viable, and turning them into a battle over Section 230 was never necessary.” 
+	While Justice Thomas has repeatedly criticized Section 230 in past opinions and argued that the court should review the statute, he authored the court’s unanimous opinion in Taamneh, Cohn noted. In addition, Thomas’ “questions at oral argument in Gonzalez made clear just how differently he thought about the law once he’d the benefit of seeing both sides fully brief their positions,” Cohn said. 
+			A Variety and iHeartRadio Podcast		 The Business of Entertainment

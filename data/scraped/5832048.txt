@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.yakimaherald.com/news/nation_and_world/entertainment/the-cure-cancel-7000-tickets-found-on-resale-sites/article_145ae2a4-1584-58d4-8043-f526714f80dd.html

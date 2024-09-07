@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://thesouthern.com/opinion/burdick-where-giraffes-come-from/article_c80258c6-3168-11ee-899c-1387bdb9b169.html

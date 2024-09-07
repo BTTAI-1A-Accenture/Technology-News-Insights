@@ -1,0 +1,964 @@
+LOWELL, Ark.--(BUSINESS WIRE)--J.B. Hunt Transport Services, Inc., (NASDAQ: JBHT) announced third quarter 2023 U.S. GAAP (United States Generally Accepted Accounting Principles) net earnings of $187.4 million, or diluted earnings per share of $1.80 versus third quarter 2022 net earnings of $269.4 million, or $2.57 per diluted share.
+
+ Total operating revenue for the current quarter was $3.16 billion, a decrease of 18% compared with $3.84 billion for the third quarter 2022. Current quarter total operating revenue, excluding fuel surcharge revenue, decreased 15% versus the comparable quarter 2022. This decrease was primarily driven by a 14% and 22% decrease in Intermodal (JBI) and Truckload (JBT) revenue per load (excluding fuel surcharge revenue) respectively, a 38% decrease in volume in Integrated Capacity Solutions (ICS), a 20% decrease in stops in Final Miles Services® (FMS), and a 1% decline in average revenue producing trucks in Dedicated Contract Services® (DCS®), partially offset by a 1% increase in JBI volumes and a 6% increase in JBT loads versus the prior-year period.
+
+ Operating income for the current quarter decreased 33% to $241.7 million versus $362.2 million for the third quarter 2022. Operating income decreased primarily due to lower revenue across all business segments, higher equipment-related costs, and higher insurance and claims expense compared to third quarter 2022. In addition, third quarter 2023 included an $8 million net loss from the sale of equipment compared to a negligible net gain in the prior-year quarter. On a consolidated basis, operating income as a percentage of consolidated gross revenue decreased year-over-year as a result of higher professional driver and non-driver wages and benefits and equipment-related and maintenance expenses as a percentage of gross revenue. These items were partially offset by lower rail and truck purchased transportation costs as a percentage of gross revenue.
+
+ Net interest expense for the current quarter decreased modestly compared to third quarter 2022 due primarily to the interest component of a discrete income tax benefit recognized in the current quarter, partially offset by a higher average debt balance and higher interest rates.
+
+ The effective income tax rate in the current quarter was 18.2% versus 22.7% in the third quarter 2022. The decrease was due to the recording of a discrete benefit recognized in the current quarter. We expect our 2023 annual tax rate to be between 22.0% and 23.0%.
+
+ Acquisition Update: On September 14, 2023, the Company announced it entered into a definitive agreement to purchase the brokerage operations of BNSF Logistics, LLC, which subsequently closed on September 30, 2023. For segment reporting purposes, the results of the operations acquired will be reflected in ICS beginning in the fourth quarter.
+
+ Segment Recast: On January 1, 2023, the Company transferred the majority of JBT's company-owned trucking operations to DCS and transferred its less-than-truckload brokerage operations from ICS to FMS. The segment information discussed below adjusts the prior-year periods for these operational transfers between segments.
+
+ Segment Information: Intermodal (JBI) Intermodal volume increased 1% over the same period in 2022. Eastern network loads decreased 3%, while transcontinental loads increased 4%. Demand for our intermodal service improved throughout the quarter across both the Eastern and Transcontinental networks, supported by moderating destocking trends, seasonal activity, and strong performance from our rail providers. Segment gross revenue decreased 15% for the quarter versus the prior-year period, reflecting the 1% increase in volume which was more than offset by a 16% decrease in gross revenue per load, resulting from changes in the mix of freight, customer rates, and fuel surcharge revenue. Revenue per load excluding fuel surcharge revenue decreased 14% year-over-year.
+
+ Operating income decreased 41% in the third quarter primarily from lower revenue, which was only partially offset by the resulting impact of absorbing network and equipment costs with higher volume. JBl segment operating income as a percentage of segment gross revenue declined versus the prior-year period as a result of increases in professional driver and non-driver wages and benefits and higher equipment-related and maintenance expenses as a percentage of gross revenue. During the period, we successfully onboarded 906 net new pieces of trailing equipment. We ended the quarter with approximately 117,400 containers and 6,400 power units in the dray fleet.
+
+ Dedicated Contract Services (DCS) DCS revenue decreased 4% during the current quarter over the same period 2022. Productivity (revenue per truck per week) decreased approximately 2% versus the prior period. Productivity excluding fuel surcharge revenue increased 2% from a year ago driven primarily by increases in contracted indexedbased price escalators. On a net basis, there were 370 fewer revenue producing trucks in the fleet by the end of the quarter compared to the prior-year period, and 31 more versus the end of the second quarter 2023. Customer retention rates are approximately 94%.
+
+ Operating income decreased 4% from the prior-year quarter primarily from higher equipment-related costs, insurance and claims expense, and a net $6.7 million year-over-year increase in loss on sale of equipment. These items were partially offset by the maturing of new business onboarded over the trailing twelve months.
+
+ Integrated Capacity Solutions (ICS) ICS revenue declined 48% during the current quarter versus the third quarter 2022. Overall segment volume decreased 38% versus the prior-year period. Revenue per load decreased 17% compared to the third quarter 2022 due to lower contractual and transactional rates and changes in customer freight mix. Contractual volume represented approximately 68% of the total load volume and 67% of the total revenue in the current quarter compared to 49% and 52%, respectively, in third quarter 2022. Of the total reported ICS revenue, approximately $169 million was executed through the Marketplace for J.B. Hunt 360°® compared to $391 million in third quarter 2022.
+
+ Operating loss was $9.4 million compared to operating income of $13.4 million in the third quarter 2022. This change was due largely to lower gross profit, partially offset by lower personnel and technology costs. Gross profit declined 53% as a result of lower volume, revenue and gross profit margins compared to the prior-year period. Gross profit margins decreased to 12.8% in the current period versus 14.2% in the prior period. ICS' carrier base decreased 17% year-over-year, largely driven by changes to carrier qualification requirements.
+
+ Final Mile Services (FMS) FMS revenue decreased 15% compared to the same period 2022 primarily driven by efforts over the last twelve months to improve revenue quality on the overall business portfolio and general weakness in demand across many of the end markets served. The decline in revenue was partially offset by multiple new customer contracts implemented over the trailing twelve months, as well as improved revenue quality at underperforming accounts.
+
+ Operating income increased 33% compared to the prior-year period primarily from internal efforts to improve revenue quality and manage costs. Higher revenue quality was partially offset by higher equipment-related expenses, technology investments, and inflationary increases in facility rental expenses.
+
+ Truckload (JBT) JBT segment gross revenue decreased 17% compared to the same period in the previous year. Segment gross revenue excluding fuel surcharge revenue decreased 18% primarily due to a 22% decline in segment gross revenue per load excluding fuel surcharge revenue, partially offset by a 6% increase in load volume. Total average effective trailer count increased by approximately 1,900 units, or 18% versus the prior-year period. Trailer turns in the quarter were down 9% from the prior-year period primarily due to freight mix and weaker overall freight demand as compared to the third quarter 2022.
+
+ JBT segment operating income decreased 48% to $7.7 million versus the third quarter 2022. The decline in segment operating income was primarily driven by a decline in segment revenue. JBT segment operating income as a percentage of segment gross revenue declined year-over-year due to higher purchased transportation expense, equipment-related and maintenance expense, insurance costs, and higher technology expense as a percentage of segment gross revenue. JBT continues to leverage the J.B. Hunt 360 platform to grow third-party power capacity and capability for the 360box® service offering.
+
+ Cash Flow and Capitalization: At September 30, 2023, we had a total of $1.4 billion outstanding on various debt instruments compared to total debt of $1.2 billion at September 30, 2022, and $1.3 billion at December 31, 2022.
+
+ Our net capital expenditures for the nine months ended September 30, 2023, approximated $1.3 billion compared to $1.0 billion for the same period 2022. At September 30, 2023, we had cash and cash equivalents of approximately $75 million.
+
+ In the third quarter 2023, we purchased approximately 267,000 shares of our common stock for approximately $51 million. At September 30, 2023, we had approximately $416 million remaining under our share repurchase authorization. Actual shares outstanding on September 30, 2023, approximated 103.1 million.
+
+ Conference Call Information: The company will hold a conference call today from 4:00-5:00 p.m. CDT to discuss the quarterly earnings. Investors will have the opportunity to listen to the conference call live over the internet by going to investor.jbhunt.com. Please log on 15 minutes early to register, download and install any necessary audio software. For those who cannot listen to the live broadcast, an online replay of the earnings call webcast will be available a few hours after the completion of the call.
+
+ Forward-Looking Statements: This press release may contain forward-looking statements, which are based on information currently available. Actual results may differ materially from those currently anticipated due to a number of factors, including, but not limited to, those discussed in Item 1A of our Annual Report filed on Form 10-K for the year ended December 31, 2022. We assume no obligation to update any forward-looking statement to the extent we become aware that it will not be achieved for any reason. This press release and additional information will be available to interested parties on our website, www.jbhunt.com.
+
+ About J.B. Hunt J.B. Hunt Transport Services Inc. is on a mission to create the most efficient transportation network in North America. The company's industry-leading solutions and mode-neutral approach generate value for customers by eliminating waste, reducing costs and enhancing supply chain visibility. Powered by one of the largest company-owned fleets in the country with more than 162,000 pieces of trailing equipment and nearly one million accessible trucks through its J.B. Hunt 360°® digital freight marketplace, J.B. Hunt can meet the unique shipping needs of any business, from first mile to final delivery, and every shipment in-between. Through disciplined investments in its people, technology and capacity, J.B. Hunt is delivering exceptional value and service that enable long-term growth for the company and its stakeholders.
+
+ J.B. Hunt Transport Services Inc. is a Fortune 500 company, an S&P 500 company and a component of the Dow Jones Transportation Average. Its stock trades on NASDAQ under the ticker symbol JBHT. J.B. Hunt Transport Inc. is a wholly owned subsidiary of JBHT. The company's services include intermodal, dedicated, refrigerated, truckload, less-than-truckload, flatbed, single source, last mile, transload and more. For more information, visit www.jbhunt.com.
+
+ J.B. HUNT TRANSPORT SERVICES, INC. Condensed Consolidated Statements of Earnings (in thousands, except per share data)
+
+ (unaudited)
+
+   Three Months Ended September 30 2023 2022 % Of % Of Revenue Revenue   $
+
+ 2,690,890
+
+  $
+
+ 3,162,106
+
+  472,863
+
+  676,151
+
+  3,163,753
+
+ 100.0%
+
+ 3,838,257
+
+ 100.0%
+
+     1,443,197
+
+ 45.6%
+
+ 1,891,848
+
+ 49.3%
+
+ 803,187
+
+ 25.4%
+
+ 887,723
+
+ 23.1%
+
+ 195,962
+
+ 6.2%
+
+ 242,379
+
+ 6.3%
+
+ 187,714
+
+ 5.9%
+
+ 166,580
+
+ 4.3%
+
+ 130,905
+
+ 4.1%
+
+ 138,346
+
+ 3.6%
+
+ 62,675
+
+ 2.0%
+
+ 60,189
+
+ 1.6%
+
+ 69,413
+
+ 2.3%
+
+ 62,815
+
+ 1.8%
+
+ 18,739
+
+ 0.6%
+
+ 17,082
+
+ 0.4%
+
+ 10,245
+
+ 0.3%
+
+ 9,067
+
+ 0.2%
+
+ 2,922,037
+
+ 92.4%
+
+ 3,476,029
+
+ 90.6%
+
+ 241,716
+
+ 7.6%
+
+ 362,228
+
+ 9.4%
+
+ 12,586
+
+ 0.4%
+
+ 13,562
+
+ 0.3%
+
+ 229,130
+
+ 7.2%
+
+ 348,666
+
+ 9.1%
+
+ 41,699
+
+ 1.3%
+
+ 79,284
+
+ 2.1%
+
+ $
+
+ 187,431
+
+ 5.9%
+
+ $
+
+ 269,382
+
+ 7.0%
+
+ 104,394
+
+  104,924
+
+  $
+
+ 1.80
+
+  $
+
+ 2.57
+
+     J.B. HUNT TRANSPORT SERVICES, INC. Condensed Consolidated Statements of Earnings (in thousands, except per share data)
+
+ (unaudited)
+
+   Nine Months Ended September 30 2023 2022 % Of % Of Revenue Revenue   8,140,959
+
+  9,364,082
+
+  1,385,006
+
+  1,800,295
+
+  9,525,965
+
+ 100.0%
+
+ 11,164,377
+
+ 100.0%
+
+     4,315,581
+
+ 45.3%
+
+ 5,650,011
+
+ 50.6%
+
+ 2,450,062
+
+ 25.7%
+
+ 2,493,139
+
+ 22.3%
+
+ 563,642
+
+ 5.9%
+
+ 697,481
+
+ 6.2%
+
+ 543,498
+
+ 5.7%
+
+ 472,914
+
+ 4.2%
+
+ 388,213
+
+ 4.1%
+
+ 371,668
+
+ 3.3%
+
+ 196,896
+
+ 2.1%
+
+ 193,577
+
+ 1.7%
+
+ 191,291
+
+ 2.0%
+
+ 160,026
+
+ 1.7%
+
+ 55,797
+
+ 0.6%
+
+ 49,154
+
+ 0.4%
+
+ 31,067
+
+ 0.3%
+
+ 26,802
+
+ 0.2%
+
+ 8,736,047
+
+ 91.7%
+
+ 10,114,772
+
+ 90.6%
+
+ 789,918
+
+ 8.3%
+
+ 1,049,605
+
+ 9.4%
+
+ 41,980
+
+ 0.4%
+
+ 38,991
+
+ 0.3%
+
+ 747,938
+
+ 7.9%
+
+ 1,010,614
+
+ 9.1%
+
+ 173,186
+
+ 1.9%
+
+ 242,566
+
+ 2.2%
+
+ 574,752
+
+ 6.0%
+
+ 768,048
+
+ 6.9%
+
+ 104,562
+
+  105,458
+
+  5.50
+
+  7.28
+
+      Financial Information By Segment (in thousands)
+
+ (unaudited)
+
+   Three Months Ended September 30 2023 2022 % Of % Of Total Total       1,555,382
+
+  49%
+
+ 1,836,603
+
+  48%
+
+ 892,257
+
+  28%
+
+ 930,947
+
+  24%
+
+ 298,015
+
+  9%
+
+ 575,287
+
+  15%
+
+ 225,929
+
+  8%
+
+ 265,054
+
+  7%
+
+ 196,338
+
+  6%
+
+ 236,620
+
+  6%
+
+ 3,167,921
+
+  100%
+
+ 3,844,511
+
+  100%
+
+ (4,168
+
+ )
+
+ (0%)
+
+ (6,254
+
+ )
+
+ (0%)
+
+ 3,163,753
+
+  100%
+
+ 3,838,257
+
+  100%
+
+         127,972
+
+  53%
+
+ 216,992
+
+  60%
+
+ 102,435
+
+  42%
+
+ 107,186
+
+  30%
+
+ (9,375
+
+ )
+
+ (4%)
+
+ 13,351
+
+  4%
+
+ 12,975
+
+  6%
+
+ 9,773
+
+  2%
+
+ 7,715
+
+  3%
+
+ 14,925
+
+  4%
+
+ (6
+
+ )
+
+ (0%)
+
+ 1
+
+  0%
+
+ 241,716
+
+  100%
+
+ 362,228
+
+  100%
+
+     Nine Months Ended September 30 2023 2022 % Of % Of Total Total     4,584,089
+
+  48%
+
+ 5,272,767
+
+  47%
+
+ 2,658,993
+
+  28%
+
+ 2,610,993
+
+  23%
+
+ 1,026,480
+
+  11%
+
+ 1,839,765
+
+  17%
+
+ 674,945
+
+  7%
+
+ 775,016
+
+  7%
+
+ 594,003
+
+  6%
+
+ 694,058
+
+  6%
+
+ 9,538,510
+
+  100%
+
+ 11,192,599
+
+  100%
+
+ (12,545
+
+ )
+
+ (0%)
+
+ (28,222
+
+ )
+
+ (0%)
+
+ 9,525,965
+
+  100%
+
+ 11,164,377
+
+  100%
+
+         439,490
+
+  56%
+
+ 620,493
+
+  59%
+
+ 318,610
+
+  40%
+
+ 281,018
+
+  27%
+
+ (19,166
+
+ )
+
+ (2%)
+
+ 60,767
+
+  6%
+
+ 34,419
+
+  4%
+
+ 23,611
+
+  2%
+
+ 16,503
+
+  2%
+
+ 63,852
+
+  6%
+
+ 62
+
+  0%
+
+ (136
+
+ )
+
+ (0%)
+
+ 789,918
+
+  100%
+
+ 1,049,605
+
+  100%
+
+   (1) Includes corporate support activity 2023 2022 521,221
+
+  515,178
+
+  1,683
+
+  1,668
+
+  2,984
+
+  3,565
+
+  6,447
+
+  6,831
+
+  6,398
+
+  6,872
+
+  117,387
+
+  113,066
+
+  96,248
+
+  109,215
+
+  1,070,626
+
+  1,164,792
+
+  176
+
+  169
+
+  5,215
+
+  5,329
+
+  13,242
+
+  13,429
+
+  13,259
+
+  13,629
+
+  31,253
+
+  27,937
+
+  33,185
+
+  30,309
+
+  163,745
+
+  262,803
+
+  1,820
+
+  2,189
+
+  12.8
+
+ %
+
+ 14.2
+
+ %
+
+ 680
+
+  1,002
+
+  131,600
+
+  158,600
+
+  168.5
+
+  391.1
+
+  1,123,435
+
+  1,405,290
+
+  1,487
+
+  1,870
+
+  107,149
+
+  101,178
+
+  1,832
+
+  2,339
+
+  644
+
+  594
+
+  29
+
+  180
+
+  1,960
+
+  1,960
+
+  1,989
+
+  2,140
+
+  15,031
+
+  13,751
+
+  12,869
+
+  10,938
+
+  2023 2022 1,508,993
+
+  1,564,938
+
+  1,663
+
+  1,666
+
+  3,038
+
+  3,369
+
+  6,521
+
+  6,552
+
+  6,398
+
+  6,872
+
+  117,387
+
+  113,066
+
+  94,458
+
+  107,987
+
+  3,252,894
+
+  3,385,423
+
+  173
+
+  168
+
+  5,152
+
+  5,185
+
+  13,316
+
+  12,998
+
+  13,259
+
+  13,629
+
+  31,253
+
+  27,937
+
+  32,181
+
+  31,619
+
+  560,912
+
+  796,844
+
+  1,830
+
+  2,309
+
+  13.1
+
+ %
+
+ 14.3
+
+ %
+
+ 680
+
+  1,002
+
+  131,600
+
+  158,600
+
+  644.1
+
+  1,213.5
+
+  3,426,988
+
+  4,308,272
+
+  1,563
+
+  1,797
+
+  307,336
+
+  287,562
+
+  1,933
+
+  2,414
+
+  648
+
+  564
+
+  29
+
+  180
+
+  1,960
+
+  1,960
+
+  1,989
+
+  2,140
+
+  15,031
+
+  13,751
+
+  13,035
+
+  10,007
+
+  75,198
+
+ 51,927
+
+ 1,369,974
+
+ 1,528,075
+
+ 525,002
+
+ 631,776
+
+ 1,970,174
+
+ 2,211,778
+
+ 8,660,207
+
+ 7,999,480
+
+ 2,942,438
+
+ 3,019,663
+
+ 5,717,769
+
+ 4,979,817
+
+ 685,027
+
+ 594,987
+
+ 8,372,970
+
+ 7,786,582
+
+ 249,902
+
+ -
+
+ 808,803
+
+ 798,776
+
+ 480,963
+
+ 452,149
+
+ 98,438
+
+ 188,252
+
+ 140,970
+
+ 129,054
+
+ 1,779,076
+
+ 1,568,231
+
+ 1,195,708
+
+ 1,261,738
+
+ 393,564
+
+ 369,314
+
+ 986,520
+
+ 920,531
+
+ 4,018,102
+
+ 3,666,768
+
+ 8,372,970
+
+ 7,786,582
+
+ September 30, 2023 December 31, 2022 103,143
+
+ 103,743
+
+ 38.96
+
+ 35.34
+
+ 2023 2022 1,529,612
+
+ 1,355,406
+
+ 1,319,905
+
+ 1,018,028
+
+  Contacts Brad Delco
+Senior Vice President - Finance
+(479) 820-2723
+

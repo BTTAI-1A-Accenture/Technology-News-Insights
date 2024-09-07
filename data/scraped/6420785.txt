@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.fox23.com/news/fresh-faces-find-their-new-home-at-the-university-of-tulsa/article_2cabc304-3d60-11ee-a117-7fbeb714379c.html

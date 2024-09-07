@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://buffalonews.com/news/local/ask-don-paul-is-the-warming-climate-worsening-an-insurance-crisis/article_e3e38d5e-4cd3-11ee-8ea6-633f814469b2.html

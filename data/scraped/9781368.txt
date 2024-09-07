@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.dailycal.org/2023/05/24/uc-regents-approve-data-science-college-at-uc-berkeley

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.joplinglobe.com/region/national_business/csi-opens-outsourced-call-center-for-end-users-expanding-customer-service-capabilities-for-banks/article_a713a740-5bf3-5c3f-b297-6f14ff0a479a.html

@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.nytimes.com/2023/02/06/technology/chatgpt-schools-teachers-ai-ethics.html

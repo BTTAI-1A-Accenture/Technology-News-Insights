@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Data analytics is a multidisciplinary field that employs a wide range of analysis techniques, including math, statistics, and computer science, to draw insights from data sets. Data analytics is a broad term that includes everything from simply analyzing data to theorizing ways of collecting data and creating the frameworks needed to store it. Data is everywhere, and people use data every day, whether they realize it or not. Daily tasks such as measuring coffee beans to make your morning cup, checking the weather report before deciding what to wear, or tracking your steps throughout the day with a fitness tracker can all be forms of analyzing and using data. Data analytics is important across many industries, as many business leaders use data to make informed decisions. A sneaker manufacturer might look at sales data to determine which designs to continue and which to retire, or a health care administrator may look at inventory data to determine the medical supplies they should order. At Coursera, we may look at enrollment data to determine what kind of courses to add to our offerings. There are four key types of data analytics: descriptive, diagnostic, predictive, and prescriptive. Together, these four types of data analytics can help an organization make data-driven decisions. At a glance, each of them tells us the following: People who work with data analytics will typically explore each of these four areas using the data analysis process, which includes identifying the question, collecting raw data, cleaning data, analyzing data, and interpreting the results. Data is collected from a variety of sources. A list of data sources are available for study & research. The requirements may be communicated by analysts to custodians of the data; such as, Information Technology personnel within an organization.The data may also be collected from sensors in the environment, including traffic cameras, satellites, recording devices, etc. It may also be obtained through interviews, downloads from online sources, or reading documentation   The phases of the intelligence cycle used to convert raw information into actionable intelligence or knowledge are conceptually similar to the phases in data analysis. Data, when initially obtained, must be processed or organized for analysis. For instance, these may involve placing data into rows and columns in a table format (known as structured data) for further analysis, often through the use of spreadsheet or statistical software. A data product is a computer application that takes data inputs and generates outputs, feeding them back into the environment.It may be based on a model or algorithm. For instance, an application that analyzes data about customer purchase history, and uses the results to recommend other purchases the customer might enjoy. Data visualization is used to help understand the results after data is analyzed. Main article: Data and information visualization Once data is analyzed, it may be reported in many formats to the users of the analysis to support their requirements. The users may have feedback, which results in additional analysis. As such, much of the analytical cycle is iterative. When determining how to communicate the results, the analyst may consider implementing a variety of data visualization techniques to help communicate the message more clearly and efficiently to the audience. Data visualization uses information displays (graphics such as, tables and charts) to help communicate key messages contained in the data. are a valuable tool by enabling the ability of a user to query and focus on specific numbers; while charts (e.g., bar charts or line charts), may help explain the quantitative messages contained in the data. 
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

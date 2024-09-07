@@ -1,0 +1,23 @@
+
+New Demand Side Grid Support solution in California will expand energy market access for battery storage businesses
+ 
+Leap, the leading platform for energy market access, today announced the launch of its new California Demand Side Grid Support (DSGS) offering to unlock additional value for battery storage technology providers. DSGS is a new statewide grid services program introduced by the California Energy Commission (CEC) in order to incentivize distributed energy resources (DERs) to provide flexible support to the grid during periods of high demand for electricity.
+
+ This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230727285043/en/ California has a rapidly-growing network of commercial and residential battery storage systems. (Photo: Business Wire) 
+Leap will be one of the first platform providers to offer DSGS. Leap's software will facilitate fast, automated integration with DSGS starting August 1st for the program's first season of operations, enabling Leap's partners with commercial and residential battery storage systems in California to generate additional grid revenue alongside existing demand charge management and bill savings value streams.
+
+ 
+Leveraging its expertise in monetizing DERs in energy markets, Leap served as a lead contributor to the proposal that was used to develop DSGS program guidelines. The resulting capacity-based program is the first in California to widely compensate behind-the-meter (BTM) battery storage systems for exporting energy back to the grid, meaning that batteries will be credited for the full value they can provide to the grid during periods of strain. The program structure also simplifies market participation for battery storage systems by streamlining site enrollment and performance measurement processes.
+
+ 
+"Thanks to Leap's leadership role in shaping DSGS program design, Leap is uniquely positioned to help battery storage technology providers in California realize the full value of their assets by optimizing DSGS revenue alongside other battery revenue streams," said Andrew Hoffman, Leap's Chief Development Officer. "We are excited to enable California's rapidly-growing network of commercial and residential battery storage systems to participate in Leap's virtual power plants across the state. Batteries participating on our platform will play a key role in maintaining grid reliability as temperatures and load increase statewide."
+
+ 
+Extreme weather events like extended heat waves are becoming more frequent and intense in California, causing strain on the grid that increases the risk of blackouts and leads to higher energy bills for consumers. The CEC developed DSGS in order to address these challenges without relying on additional fossil fuel generation. Unlike conventional grid services programs, DSGS is specifically designed to incentivize demand-side resources - rather than traditional power plants - to meet the needs of the grid during peak hours.
+
+ 
+About Leap
+ 
+Leap is the leading platform for generating new value from distributed energy resources (DERs) through integration with energy markets. Through its software-only solution, Leap facilitates fast, easy and automated access to high-value grid services revenue streams for the providers of batteries, electric vehicle charging, smart thermostats, HVAC systems and other flexible assets. By aggregating the DERs enrolled on its platform, Leap supplies virtual power plants (VPPs) to balance the grid. Leap enables its partners and their customers to unlock new value streams and help create a more flexible, resilient grid powered by renewable resources.
+
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230727285043/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/moneylion-teams-up-with-a-i-ben-franklin-to-declare-the-summer-of-financial-freedom/article_b928fa9e-ea15-582a-975d-ca7d575643a2.html

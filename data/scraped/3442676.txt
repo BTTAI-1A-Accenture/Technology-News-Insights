@@ -1,0 +1,12 @@
+
+					Stephen Law 					   May 2, 2023
+ 
+ TDK CORP. TDK-Lambda RGC series of 300W rated, ruggedized, non-isolated dc-dc converters operate from an input voltage of 9 to 53V. The step-up/step down converters deliver output voltages that can be adjustable from 9.6 to 48V or 5 to 28V with output currents of up to 12.5A. Product series is designed to be used in harsh environment applications including robotics, AGVs (Automated Guided Vehicles), communications, COTS, industrial and portable battery-powered equipment. With a 1/16th brick pinout and measuring 38.1 x 39.4 x 13.0mm, the converters are encapsulated to provide shock and vibration performance to MIL-STD-810G. The five-sided aluminum case reduces radiated EMI and enables conduction cooling to a cold-plate for fan-less operation. Product series comprises of two voltage and current combinations to support operation from 12V, 18V, 24V, 36V and 48V power sources. The wide input and output voltage ranges can assist with inventory reduction programs with one part number covering multiple voltages. With efficiencies of up to 97%, power losses are minimized allowing the products to operate in harsh environments with a case temperature of -40oC to +115oC. click here for more info  
+Global generative AI phones trending towards 70% of market
+When charging an electronic device becomes a risky venture
+Siemens gift helps USask develop local talent in electronic chip design
+Gov’t invests big in Canada’s semiconductor initiatives
+Car Connectivity Consortium drives digital key progress
+
+
+ 

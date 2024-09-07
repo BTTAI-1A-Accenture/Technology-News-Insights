@@ -1,0 +1,10 @@
+Watch CBS News 
+    By
+                        
+              Simrin Singh
+ 
+February 14, 2023 / 11:03 PM EST
+          / CBS News
+         Microsoft announced some heartbreaking news for Internet Explorer users on Valentine's Day: Internet Explorer is no more.  The company has permanently disabled the desktop version of Internet Explorer on certain versions of Windows 10, and updated its newer browser, Microsoft Edge, Microsoft announced Tuesday. All other consumer and commercial devices that weren't already redirected from Explorer to Microsoft Edge will also be affected, the company said. Now, when users attempt to access Explorer, they will be redirected to Edge. The browser was originally launched by Microsoft in 1995 as one of the first and most popular browsers on the internet at the time. The company created 11 versions of Explorer throughout its existence, with the final version being released in 2013. Microsoft Edge, the tech giant's newer browser, was released as Explorer's replacement in 2015, but co-existed on devices with its predecessor until this week. In June of last year, Microsoft announced it was retiring Explorer, but it was not until Tuesday that the app stopped working for users. Internet Explorer 11's visual elements and icons in the start menu and task bar will also be phased out in June. "With a growing number of websites no longer supporting Internet Explorer, Microsoft Edge offers a faster, more secure, and more modern browsing experience that can still open legacy, Internet Explorer-dependent sites when needed," the company said in its announcement. Simrin Singh is a social media producer and trending content writer for CBS News. 
+© 2023 CBS Interactive Inc. All Rights Reserved.
+ Copyright ©2024 CBS Interactive Inc. All rights reserved.

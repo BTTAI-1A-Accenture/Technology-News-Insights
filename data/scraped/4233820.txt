@@ -1,0 +1,1 @@
+HTTPSConnectionPool(host='www.medgadget.com', port=443): Max retries exceeded with url: /2023/01/soft-tissue-repair-market-set-for-explosive-growth-rate-cagr-of-4-6-by-2030-states-the-report-by-emergen-research.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x79da93ec4d60>, 'Connection to www.medgadget.com timed out. (connect timeout=5)'))

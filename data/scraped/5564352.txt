@@ -1,0 +1,15 @@
+Verizon signed up to trial an integrated access and backhaul (IAB) platform from Verana Networks in the operator’s latest move to bolster a 5G service running on mmWave spectrum. Verana Networks stated the field trial covers a platform which provides backhaul between mmWave and other 5G small cells while also delivering access to smartphones and fixed wireless access devices. It claimed its multi-hop IAB offering cuts the number of fibre backhaul links required to build a mmWave 5G network, citing potential in dense urban areas where it is expensive to deploy cable.
+
+
+
+ Bill Stone, VP of technology and planning at Verizon, argued Verana Networks’ IAB platform will enhance the performance of its mmWave 5G network. Verizon completed a proof-of-concept trial in 2020 using Ericsson IAB technology. AvidThink analyst Roy Chua told Mobile World Live IAB could be used with sub-6GHz spectrum, but mmWave offered greater availability for backhaul. “It does allow for faster 5G deployments and with intelligent resource management across spectrum and scheduling, it could be a huge benefit to operators.” Chua noted the approach could remove the need for operators to deploy fibre to all network nodes. 
+You'll gain exclusive access to breaking news, expert analysis,
+and in-depth features delivered right to your inbox.
+ 
+By subscribing to our newsletter, you'll gain exclusive
+access to breaking news, expert analysis, and in-depth
+features delivered right to your inbox.
+ 
+© 2024 GSM Association. The GSMA, Mobile World Live,
+MWC Barcelona, MWC Las Vegas, MWC Kigali & MWC Shanghai terms and logos
+are trademarks of the GSM Association.

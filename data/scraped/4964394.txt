@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.galvnews.com/news_ap/business/refi-crypto-currency-xrp-classic-develops-eco-friendly-blockchain-technology/article_909d68fb-5a40-5f46-8eec-9364206566c6.html

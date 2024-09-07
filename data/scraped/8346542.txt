@@ -1,0 +1,25 @@
+
+                Agree & Join LinkedIn
+               
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                Create your free account or sign in to continue your search
+                 
+              or
+             
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+                New to LinkedIn? Join now
+ 
+                  or
+                 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+              New to LinkedIn? Join now
+ Terraform and Pulumi are 2 Infrastructure-as-code products that are very popular with teams provisioning infrastructure in the cloud. 2 weeks ago, we launched a Battle of the Cloud tools to see which Infrastructure as Code tool had the overall preferences. The result? Terraform came out as the most popular.  Infrastructure-as-Code or IaC is a method where you define the configuration of your Cloud (and IT) infrastructure in code instead of doing it manually. By using IaC, you can start implementing and managing your infrastructure in a repeatable and automated way. This leads to several key benefits such as: Speed, consistency and security.  All Cloud Providers have a product or service that can deploy IaC on their own cloud. AWS has Cloudformation and more recently CDK. Azure uses ARM and bicep, and Google has the Cloud Deployment Manager. But those are mostly limited to the providers resources themselves.   Terraform and Pulumi have multiple providers that, in addition to the cloud providers, can also provide a lot of SaaS products. Such a type of IaC product has the advantage that it can also provision resources in Kubernetes and metrics and alerts in a 3rd party system such as Datadog. This provides a streamlined way of dealing with infrastructure.  There are 2 types of IaC tools:  In general, declarative IaC is preferable to Imperative IaC, but this is especially true if the environment contains little complexity.  Terraform and Pulumi are both products with a large library of providers. Since we have a multi-cloud approach, these products are crucial to keeping our deployments the same for each cloud.  Multiple reasons why we use Pulumi:  Terraform is not a bad product, far from it. It certainly has advantages over products like CloudFormation. HCL makes it more readable, and multiple providers are only an advantage for a DevOps team. If you start with Terraform, you should keep a declarative way of working in mind. If you include too many options in your code, for example input variables from modules, you will quickly find that the code becomes more difficult to read. In addition, the limited options for debugging Terraform can quickly lead to frustrations.   DevOp Engineers are software developers, we work daily on internal tools, serverless functions, internal web apps and more. Using your favorite programming language, makes life more enjoyable. Additionally, being able to use the same development tools and processes is only a plus, which is why Pulumi is so attractive to our team.  
+        To view or add a comment, sign in
+ Stay updated on your professional world 
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+     
+        New to LinkedIn? Join now
+ 

@@ -1,0 +1,4 @@
+We’ve put some small files called cookies on your device to make our site work. We’d also like to use analytics cookies. These send information about how our site is used to a service called Google Analytics. We use this information to improve our site. Let us know if this is OK. We’ll use a cookie to save your choice. You can read more about our cookies before you choose.   
+Change my preferences
+I'm OK with analytics cookies
+ This guide sets the vision for clinical decision support (CDS) uptake across the NHS in England, highlighting its potential to improve the quality of care, outcomes and safety. It assimilates salient points from the literature and shares best practices to guide digital and clinical leaders at local and regional level on the implementation of CDS. NHS England is not responsible for content on external websites. Accessible web content.

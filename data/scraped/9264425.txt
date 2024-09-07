@@ -1,0 +1,47 @@
+Markets 
+
+
+ Hot Stocks 
+
+
+ Fear & Greed Index 
+
+
+ 
+            Latest Market News 
+
+
+ 
+            Hot Stocks 
+
+
+ 
+            The Federal Trade Commission is investigating OpenAI for possible violations of consumer protection law, seeking extensive records from the maker of ChatGPT about its handling of personal data, its potential to give users inaccurate information and its “risks of harm to consumers, including reputational harm.” 
+     
+            The probe threatens to complicate OpenAI’s relationship with policymakers, many of whom have been wowed by the company’s technology and its CEO, Sam Altman. It also could focus further attention on OpenAI’s role in a sprawling debate about the threat that generative artificial intelligence may pose to jobs, national security and democracy.
+     
+            In a 20-page investigative demand this week, the FTC asked OpenAI to respond to dozens of requests ranging from how it obtains the data it uses to train its large language models to descriptions of ChatGPT’s “capacity to generate statements about real individuals that are false, misleading, or disparaging.” 
+     
+
+OpenAI, maker of ChatGPT, hit with proposed class action lawsuit alleging it stole people's data
+ 
+            The document was first reported by The Washington Post on Thursday, and a person familiar with the matter confirmed its authenticity to CNN. OpenAI didn’t immediately respond to a request for comment. The FTC declined to comment.  
+     
+            The request for information, which is considered a type of administrative subpoena, also seeks testimony from OpenAI about any complaints it has received from the public, lists of lawsuits it is involved in, and details of data leak the company disclosed in March 2023 and said had temporarily exposed users’ chat histories and payment data.  
+     
+            It calls for descriptions of how OpenAI tests, tweaks and manipulates its algorithms, particularly to produce different responses or to respond to risks, and in different languages. The request also asks the company to explain any steps it has taken to address cases of “hallucination,” an industry term describing outcomes where an AI generates false information.  
+     
+            The FTC probe is the clearest example yet of direct US government regulation of AI, as lawmakers in Congress struggle to get up to speed on a rapidly evolving industry ahead of an expected push this fall to draft new legislation affecting the sector. US efforts have largely lagged behind other global policymakers. European Union lawmakers, for example, are barreling toward finalizing landmark legislation that bans the use of AI for predictive policing and applies restrictions to high-risk usage scenarios.  
+     
+            The FTC investigation comes after the agency’s repeated warnings to businesses not to make overheated claims about AI or to misuse the technology in discriminatory ways.  
+     
+            It has said in blog posts and public remarks that companies using AI will be held accountable for any unfair and deceptive practices linked to the technology. As the nation’s top consumer protection watchdog, the FTC is empowered to prosecute privacy abuses, untruthful marketing, and other harms.  
+     
+            FTC Chair Lina Khan has argued that the agency’s existing congressional mandate provides ample authority for the FTC to prosecute abusive uses of AI. For example, while AI could help “turbocharge” fraud and scams, the FTC already has a long history of enforcing against scammers, Khan told lawmakers in April. 
+     
+            “Although these tools are novel, they are not exempt from existing rules, and the F.T.C. will vigorously enforce the laws we are charged with administering, even in this new market,” Khan wrote in a New York Times op-ed the following month.  
+     
+            Some critics of OpenAI previously filed a complaint to the FTC claiming that algorithmic bias, privacy concerns and ChatGPT’s tendency to hallucinate may violate US consumer protection law.  
+     
+            OpenAI has been upfront about some of the limitations of its products. For example, the white paper linked to GPT’s latest release, GPT-4, explains that the model may “produce content that is nonsensical or untruthful in relation to certain sources.” OpenAI also makes similar disclosures about the possibility that tools like GPT can lead to broad-based discrimination against minorities or other vulnerable groups. 
+     Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

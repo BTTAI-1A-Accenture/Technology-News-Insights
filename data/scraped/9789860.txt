@@ -1,0 +1,629 @@
+Staff Reporter [Stay on top of transportation news: Get TTNews in your inbox.]
+The trucking industry could be driving close to double the number of empty miles than initially estimated.
+                
+
+Uber Freight released the findings June 28 in a report that explored the accuracy of empty-mile estimates and what can be done to reduce them.
+                
+
+The report noted that between 20% to 35% of the estimated 175 billion miles trucks drive in the United States each year likely are empty, or miles driven when the truck isn’t hauling a load.
+      	    
+
+
+
+
+
+
+“Empty miles is one of the biggest problems in the freight industry that is mostly overlooked,” said Mazen Danaf, applied scientist and economist at Uber Freight. “We find a lot of survey-based statistics, which report that empty miles are in the range of 15% to 20%. We think these are significantly underreported.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Danaf noted that he struggled to find a good statistic on how many empty miles there are despite existing research. He pointed to two issues that he believes cause these estimates to be lower than they should be. The first being underreporting from fleets and the other being that most surveys focus more on larger carriers that tend to be more efficient.
+                
+
+“If you’re surveying just the large fleets and the medium-sized, they probably have the capabilities to construct optimal networks and to route trucks more efficiently by using optimization algorithms,” Danaf said. “A lot of these smaller fleets and owner-operators lack these capabilities. They do not have the ability to reduce empty miles so when you survey large fleets, you’re already getting a biased estimate, which underestimates the number of empty miles.”
+                
+
+
+
+
+Image
+ 
+
+
+Danaf 
+                
+
+Uber Freight took a different approach by utilizing existing data from the government and other sources instead of relying on survey results. The report got its estimate by comparing the total miles driven by for-hire and private fleets against the number of loads and the average length of haul. The result was an estimate of 20% to 35% of all miles driven being empty.
+                
+
+“We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             The trucking industry could be driving close to double the number of empty miles than initially estimated.
+                
+
+Uber Freight released the findings June 28 in a report that explored the accuracy of empty-mile estimates and what can be done to reduce them.
+                
+
+The report noted that between 20% to 35% of the estimated 175 billion miles trucks drive in the United States each year likely are empty, or miles driven when the truck isn’t hauling a load.
+      	    
+
+
+
+
+
+
+“Empty miles is one of the biggest problems in the freight industry that is mostly overlooked,” said Mazen Danaf, applied scientist and economist at Uber Freight. “We find a lot of survey-based statistics, which report that empty miles are in the range of 15% to 20%. We think these are significantly underreported.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Danaf noted that he struggled to find a good statistic on how many empty miles there are despite existing research. He pointed to two issues that he believes cause these estimates to be lower than they should be. The first being underreporting from fleets and the other being that most surveys focus more on larger carriers that tend to be more efficient.
+                
+
+“If you’re surveying just the large fleets and the medium-sized, they probably have the capabilities to construct optimal networks and to route trucks more efficiently by using optimization algorithms,” Danaf said. “A lot of these smaller fleets and owner-operators lack these capabilities. They do not have the ability to reduce empty miles so when you survey large fleets, you’re already getting a biased estimate, which underestimates the number of empty miles.”
+                
+
+
+
+
+Image
+ 
+
+
+Danaf 
+                
+
+Uber Freight took a different approach by utilizing existing data from the government and other sources instead of relying on survey results. The report got its estimate by comparing the total miles driven by for-hire and private fleets against the number of loads and the average length of haul. The result was an estimate of 20% to 35% of all miles driven being empty.
+                
+
+“We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             Uber Freight released the findings June 28 in a report that explored the accuracy of empty-mile estimates and what can be done to reduce them.
+                
+
+The report noted that between 20% to 35% of the estimated 175 billion miles trucks drive in the United States each year likely are empty, or miles driven when the truck isn’t hauling a load.
+      	    
+
+
+
+
+
+
+“Empty miles is one of the biggest problems in the freight industry that is mostly overlooked,” said Mazen Danaf, applied scientist and economist at Uber Freight. “We find a lot of survey-based statistics, which report that empty miles are in the range of 15% to 20%. We think these are significantly underreported.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Danaf noted that he struggled to find a good statistic on how many empty miles there are despite existing research. He pointed to two issues that he believes cause these estimates to be lower than they should be. The first being underreporting from fleets and the other being that most surveys focus more on larger carriers that tend to be more efficient.
+                
+
+“If you’re surveying just the large fleets and the medium-sized, they probably have the capabilities to construct optimal networks and to route trucks more efficiently by using optimization algorithms,” Danaf said. “A lot of these smaller fleets and owner-operators lack these capabilities. They do not have the ability to reduce empty miles so when you survey large fleets, you’re already getting a biased estimate, which underestimates the number of empty miles.”
+                
+
+
+
+
+Image
+ 
+
+
+Danaf 
+                
+
+Uber Freight took a different approach by utilizing existing data from the government and other sources instead of relying on survey results. The report got its estimate by comparing the total miles driven by for-hire and private fleets against the number of loads and the average length of haul. The result was an estimate of 20% to 35% of all miles driven being empty.
+                
+
+“We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             The report noted that between 20% to 35% of the estimated 175 billion miles trucks drive in the United States each year likely are empty, or miles driven when the truck isn’t hauling a load.
+      	    
+
+
+
+
+
+
+“Empty miles is one of the biggest problems in the freight industry that is mostly overlooked,” said Mazen Danaf, applied scientist and economist at Uber Freight. “We find a lot of survey-based statistics, which report that empty miles are in the range of 15% to 20%. We think these are significantly underreported.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Danaf noted that he struggled to find a good statistic on how many empty miles there are despite existing research. He pointed to two issues that he believes cause these estimates to be lower than they should be. The first being underreporting from fleets and the other being that most surveys focus more on larger carriers that tend to be more efficient.
+                
+
+“If you’re surveying just the large fleets and the medium-sized, they probably have the capabilities to construct optimal networks and to route trucks more efficiently by using optimization algorithms,” Danaf said. “A lot of these smaller fleets and owner-operators lack these capabilities. They do not have the ability to reduce empty miles so when you survey large fleets, you’re already getting a biased estimate, which underestimates the number of empty miles.”
+                
+
+
+
+
+Image
+ 
+
+
+Danaf 
+                
+
+Uber Freight took a different approach by utilizing existing data from the government and other sources instead of relying on survey results. The report got its estimate by comparing the total miles driven by for-hire and private fleets against the number of loads and the average length of haul. The result was an estimate of 20% to 35% of all miles driven being empty.
+                
+
+“We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             “Empty miles is one of the biggest problems in the freight industry that is mostly overlooked,” said Mazen Danaf, applied scientist and economist at Uber Freight. “We find a lot of survey-based statistics, which report that empty miles are in the range of 15% to 20%. We think these are significantly underreported.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Danaf noted that he struggled to find a good statistic on how many empty miles there are despite existing research. He pointed to two issues that he believes cause these estimates to be lower than they should be. The first being underreporting from fleets and the other being that most surveys focus more on larger carriers that tend to be more efficient.
+                
+
+“If you’re surveying just the large fleets and the medium-sized, they probably have the capabilities to construct optimal networks and to route trucks more efficiently by using optimization algorithms,” Danaf said. “A lot of these smaller fleets and owner-operators lack these capabilities. They do not have the ability to reduce empty miles so when you survey large fleets, you’re already getting a biased estimate, which underestimates the number of empty miles.”
+                
+
+
+
+
+Image
+ 
+
+
+Danaf 
+                
+
+Uber Freight took a different approach by utilizing existing data from the government and other sources instead of relying on survey results. The report got its estimate by comparing the total miles driven by for-hire and private fleets against the number of loads and the average length of haul. The result was an estimate of 20% to 35% of all miles driven being empty.
+                
+
+“We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             Danaf noted that he struggled to find a good statistic on how many empty miles there are despite existing research. He pointed to two issues that he believes cause these estimates to be lower than they should be. The first being underreporting from fleets and the other being that most surveys focus more on larger carriers that tend to be more efficient.
+                
+
+“If you’re surveying just the large fleets and the medium-sized, they probably have the capabilities to construct optimal networks and to route trucks more efficiently by using optimization algorithms,” Danaf said. “A lot of these smaller fleets and owner-operators lack these capabilities. They do not have the ability to reduce empty miles so when you survey large fleets, you’re already getting a biased estimate, which underestimates the number of empty miles.”
+                
+
+
+
+
+Image
+ 
+
+
+Danaf 
+                
+
+Uber Freight took a different approach by utilizing existing data from the government and other sources instead of relying on survey results. The report got its estimate by comparing the total miles driven by for-hire and private fleets against the number of loads and the average length of haul. The result was an estimate of 20% to 35% of all miles driven being empty.
+                
+
+“We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             “If you’re surveying just the large fleets and the medium-sized, they probably have the capabilities to construct optimal networks and to route trucks more efficiently by using optimization algorithms,” Danaf said. “A lot of these smaller fleets and owner-operators lack these capabilities. They do not have the ability to reduce empty miles so when you survey large fleets, you’re already getting a biased estimate, which underestimates the number of empty miles.”
+                
+
+
+
+
+Image
+ 
+
+
+Danaf 
+                
+
+Uber Freight took a different approach by utilizing existing data from the government and other sources instead of relying on survey results. The report got its estimate by comparing the total miles driven by for-hire and private fleets against the number of loads and the average length of haul. The result was an estimate of 20% to 35% of all miles driven being empty.
+                
+
+“We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             Danaf 
+                
+ Uber Freight took a different approach by utilizing existing data from the government and other sources instead of relying on survey results. The report got its estimate by comparing the total miles driven by for-hire and private fleets against the number of loads and the average length of haul. The result was an estimate of 20% to 35% of all miles driven being empty.
+                
+
+“We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             “We did some back-of-the-envelope calculations in the paper based on some statistics from the Bureau of Transportation Statistics,” Danaf said, “a bit from the BTS and from other sources. We found that empty miles can be as high as 35% of the total miles traveled. So about one-third of the miles can be running empty.”
+                
+
+
+
+
+Image
+ 
+
+
+
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+
+Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             
+Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+ Guy Broderick of Kriska shares how he successfully combined data reports and a simple understanding of human nature to become one of the best driver coaches in North America. Tune in above or by going to RoadSigns.ttnews.com.  
+                
+ Uber Freight estimated that truck drivers could be wasting about 3.5 billion hours in total each year driving empty. The report noted that these inefficiencies translate to higher prices for consumers and more greenhouse gas emissions. It noted eliminating empty miles could save between 1.5% and 2.5% of greenhouse gas emissions in the U.S.
+                
+
+“Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             “Now the purpose of this paper was to identify how much can we reduce empty miles, if they can be reduced at all, and how do we get there,” Danaf said. “We looked at this broad dataset and we thought that if we had broad visibility over all the loads and broad visibility over all the trucks in real time, and we wanted to assign the right truck to the right load across the whole freight landscape, how much can we minimize empty miles? So, that is the research question we wanted to ask.”
+                
+
+The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             The report concluded that outright elimination of empty miles is unlikely, a major issue being there isn’t enough computational power and central control to track every load accurately enough. But the report found it could be possible to reduce empty miles by up to 64%. That would account for a 23% reduction in overall miles driven by freight trucks.
+                
+
+
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+“We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             Want more news? Listen to today's daily briefing above or go here for more info
+ “We found that if the freight market was perfectly optimized we can eliminate about two-thirds of these empty miles,” Danaf said. “The first thing we need is broad visibility over the loads and the trucks. So, the higher the density in the network, the fewer the empty miles trucks will drive.
+                
+
+“And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             “And the second thing we need is the ability to control trucks, to route trucks in an optimal way. Like if we can manage a fleet in an optimal way, we can assign which truck picks the right load. And this is not the case in the industry today because it is a very fragmented industry. And the third thing we need is flexibility in terms of which truck picks which load.”
+                
+
+Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+             Danaf believes autonomous vehicles could introduce a lot of flexibility into the industry because trucks running on that technology wouldn’t face hours-of-service limits and do not need to come back home after completing a load. They could instead go to a different market and pick another load.
+                
+               Subscribe  Gift a Subscription    80 M Street SE, Suite 800, Washington, D.C., 20003 703-838-1770

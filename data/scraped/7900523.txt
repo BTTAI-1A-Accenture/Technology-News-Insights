@@ -1,0 +1,37 @@
+
+OncoOne, a biotechnology company focused on discovering precision medicines for cancer and autoimmune diseases, announced today two poster presentations highlighting new preclinical data from its oxMIF-targeting drug candidate pipeline at the upcoming American Association for Cancer Research (AACR) Annual Meeting 2023, held from April 14-19, in Orlando, Florida. The presentations will feature updated analyses for lead antibody candidate ON203 and first preclinical data from the company's pre-targeted radioimmunotherapy program, ON-05, both of which demonstrated promising anti-tumor effects. ON203 and ON-05 target the oxidized macrophage migration inhibitory factor (oxMIF), a central regulator of innate immune cells in the tumor microenvironment (TME).
+
+ 
+"MIF's disease-specific isoform oxMIF is an exciting target for cancer therapy across a range of drug modalities. The positive impact on the tumor microenvironment and the anti-tumor effects we are seeing with ON203, particularly in ex-vivo patient tumoroids, and the first presented data from our PreTarg-it® program ON-05 clearly show the potential of this approach. We look forward to further investigating the individual benefits of each of our programs in a range of solid tumor indications," said Randolf Kerschbaumer, Ph.D., CEO of OncoOne.
+
+ 
+Alexander Schinagl, Ph.D., CTO of OncoOne added: "We are pleased to see that our PreTarg-it® program, ON-05, demonstrated such promising initial preclinical results including significant tumor regression. Our goal at OncoOne is to develop the right drug modality for each indication to broadly explore the value of oxMIF as a target for patients living with solid tumors."
+
+ 
+Dr. Jennifer Guerriero, Assistant Professor at Harvard Medical School and Member of OncoOne's Scientific Advisory Board added: "The preclinical ON203 data is especially encouraging given that it was collected from actual patient tumor material treated with the antibody. These ex-vivo data are extremely value-building for OncoOne as the company approaches the clinic because they provide more accurate analyses beyond what can be generated using standard animal models alone."
+
+ 
+Data Summary and Presentation Details ON203
+The poster entitled "Targeting the oxidized form of macrophage migration inhibitory factor (oxMIF) with antibody ON203 activates the tumor microenvironment" summarizes new preclinical results evaluating the anti-tumor and TME-modulating effects of the next-generation anti-oxMIF antibody ON203 in human tumoroids which retain an intact TME and are isolated from colorectal adenocarcinoma patients. The data build on and strengthen the excellent tumor penetration, tumor retention and reduced tumor proliferation preclinical data shown in previously analyzed mouse models. As outlined in the poster, ON203 demonstrated tumor cell killing effects in four out of five ON203-treated CRC tumoroids with substantial stimulation effects on immune cells. In responding tumoroids, ON203 activated Natural Killer (NK) and NK T cells (upregulation of Granzyme B and CD107a) and supported an anti-tumor M1 like polarization along with macrophage activation (upregulation of CD16 and HLA-DR). These preclinical data highlight the potential of ON203 to significantly modulate the TME towards immune-stimulating functions in tumor material collected from patients.
+
+ 
+The poster #2974 will be presented on Monday April 17th in the poster session "Immunology / Therapeutic Antibodies 3 / Section 24 – Poster Board 21," from 1:30 PM to 5:00 PM ET.
+
+ 
+Data Summary and Presentation Details PreTarg-it® ON-05
+The second poster, titled "Pretargeted radioimmunotherapy with a novel anti-oxMIF/HSG bispecific antibody and a 177Lu-loaded HSG radioligand results in significant tumorregression in murine models of cancer" presents the first preclinical data of OncoOne's pre-targeted radioimmunotherapy program, ON-05. The PreTarg-it® program ON-05 combines an anti-oxMIF/HSG bispecific antibody with a sequentially administered radioligand with high affinity for the bispecific antibody. By pre-targeting the tumor with the bispecific antibody, it can accumulate within the tumor prior to administering the radioactive payload reducing the radiation burden on normal tissues. The study results demonstrated the ability of the anti-oxMIF/HSG bispecific antibody to penetrate and accumulate in the tumor tissue with fast clearance in the circulation. In conjunction with the 177Lu-loaded HSG radioligand significant tumor growth inhibition and survival benefits were demonstrated in colorectal cancer and pancreatic cancer mouse models indicating PreTarg-it® ON-05 as a novel therapeutic option for patients living with hard-to-treat tumors.
+
+ 
+The poster #585 will be presented on Sunday, April 16th in the poster session "Experimental and Molecular Therapeutics / Targeting the Tumor Microenvironment / Section 20 – Poster Board 19," from 1:30 PM to 5:00 PM ET.
+
+ 
+Both posters will be available on OncoOne's website upon conclusion of the AACR 2023 Annual Meeting.
+
+ 
+About oxMIF
+The founders of OncoOne discovered a disease-related isoform of the macrophage migration inhibitory factor (MIF), which they named "oxMIF" (oxidized MIF). OxMIF is generated by a post-translational modification of MIF in inflammatory processes and tumorigenesis. Unlike MIF, oxMIF can only be detected in inflamed tissue and solid tumors but not in healthy tissues. The post-translational modification leads to a structural transformation that exposes epitopes in the MIF homotrimer that are otherwise inaccessible to antibodies in the center of the trimer. Targeting oxMIF as the disease related isoform of MIF overcomes previous significant challenges associated with targeting MIF, making it an ideal candidate for therapeutic intervention in an array of high-need indications.
+
+ 
+About OncoOne
+OncoOne seeks to overcome the limitations of targeting macrophage migration inhibitory factor by harnessing the high tumor-specificity of the disease-related isoform, oxidized macrophage migration inhibitory factor (oxMIF). The Company is focused on developing multiple proprietary drug modalities to leverage oxMIF's potential as a target for systemic treatment of colorectal, ovarian and lung cancers, as well as for chronic inflammatory diseases. Equipped with a successful track-record in early-stage drug development, as well as a deep understanding of the target itself, OncoOne's leadership will advance a pipeline based on oxMIF's promise in oncology and other disease areas. www.oncoone.com
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20230414005037/en/ © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.

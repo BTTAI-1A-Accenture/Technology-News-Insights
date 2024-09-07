@@ -1,0 +1,1 @@
+401 Client Error: HTTP Forbidden for url: https://www.marketwatch.com/press-release/offshore-hydropower-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2023-02-01

@@ -1,0 +1,35 @@
+
+
+
+ 19-08-2024
+                                                                                                         16-08-2024
+                                                                                                         15-08-2024
+                                                                                                         14-08-2024
+                                                                                                         
+
+
+ 16-08-2024
+                                                                                                         14-08-2024
+                                                                                                         12-08-2024
+                                                                                                         01-08-2024
+                                                                                                         
+
+
+ 09-08-2024
+                                                                                                         06-08-2024
+                                                                                                         30-07-2024
+                                                                                                         18-07-2024
+                                                                                                         02-08-2024
+                                                                                                         11-07-2024
+                                                                                                         28-06-2024
+                                                                                                         17-06-2024
+                                                                                                         15-03-2023 |
+                Mouser Electronics
+                 |
+        Semiconductors
+ 13 March 2023 – Mouser has announced a new distribution agreement with Astrocast, a leading nanosatellite IoT network operator. The agreement provides engineers Astrocast's Satellite IoT (SatIoT) technology to customers in Australia, Finland, France, Germany, Italy, New Zealand, Spain, Sweden, Switzerland and the United Kingdom. The company operates a global nanosatellite IoT network, providing smart agriculture, infrastructure, maritime, environment and utility services. The Astrocast network allows companies to monitor, track and communicate with remote assets through satellite, using their Astronode S module. The satellite communication module has a serial interface and a compact surface mount form factor. The device is optimised for low-energy operation, making it excellent for highly integrated, battery-powered IoT systems. The module allows the monitoring and control of devices with bidirectional satellite communication for up to ten years off a single battery. Also available is the Astronode Patch antenna, a miniaturised antenna designed for communication with its IoT satellites in LEO. The antenna is manufactured on a high-permittivity ceramic substrate, resulting in a smaller antenna footprint while preserving good RF performance at the operating frequencies of the network in L band. The antenna's extremely low profile provides for seamless placement and device integration. 
+
+ The company will also provide the Astronode S+, a certified, ready-to-install industrial satellite communication device based on the Astronode S and an Astronode Patch antenna. The Astronode S+ is created to quickly and readily connect to applications through the full Astronode S digital interface or RS232, available on the industrial-grade board-to-cable connector. No resources are needed for electronic and RF design, allowing a short time to market. This device provides a small form factor enabling discrete installations. Seb Springall is a seasoned editor at Electropages, specialising in the product news sections. With a keen eye for the latest advancements in the tech industry, Seb curates and oversees content that highlights cutting-edge technologies and market trends. 
+
+
+ Information Manage newsletter Our apps Social profiles All news & general enquiries:

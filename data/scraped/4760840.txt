@@ -1,0 +1,1 @@
+403 Client Error: Forbidden for url: https://www.datanami.com/this-just-in/sumo-logic-marks-milestone-in-opentelemetry-posture-removing-complexity-in-collection-for-faster-time-to-insights/

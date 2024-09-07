@@ -1,0 +1,88 @@
+Facebook Twitter Instagram Search Menu Webcasts Microphone Icon Events Events Videos Video Icon Lacework releases new CSPM capabilities                             Also Noted By SSN Staff Updated 1:00 PM CST, Wed December 14, 2022 YARMOUTH, Maine – Today cloud security company Lacework has released new cloud security posture management (CSPM) capabilities to help organizations manage their platform more effectively. Managing security posture and compliance at scale can be a daunting task Lacework says, but thanks to their new CSPM capabilities users will be able to achieve operational excellence much easier from one flexible platform. The enhanced feature set is available for Amazon Web Services (AWS), Google Cloud, and Microsoft Azure. It allows organizations to build custom cross-account reports to measure hygiene, create fine-grained custom policies to ensure configurations align with your specific needs, and achieve operational excellence with the latest CIS benchmarks, industry standards, and hundreds of other additional controls written by the Lacework Labs team. So how does it work? “We support custom policy creation for AWS, Google Cloud, and Azure resources using Lacework query language (LQL), allowing you to validate the compliance of cloud resources against your own internal checks,” writes Product Marketing Manager for Lacework, Ginnie Goodman. “Say, for example, you want to create a policy for when a storage bucket or database is publicly accessible. First, define the conditions and allowed behavior. Using LQL, you can query, set status alerts for specific cloud configurations, and receive an alert — on a per resource basis — each time a resource fails against a particular policy. The alert will indicate which discrete cloud resource is non-compliant with a specific custom policy. You could choose to be notified when a configuration scan detects a user-defined resource configuration policy violation that could undermine or diminish your risk posture. You could also choose to receive an aggregate alert when there is more than one resource affected by this violation. Finally, you can choose your alert channels. Any changes in compliance status of custom policies can be quickly escalated with alert integration into Slack, Jira, ServiceNow, etc.” You can read more about Laceworks CSPM features on their blog, or learn more about their platform by using their interactive demo. Amazon Web Services (AWS), Cloud security, cloud security posture management (CSPM), Ginnie Goodman, Google Cloud, Lacework, Microsoft Azure Comments To comment on this post, please log in to your account or set up an account now. Need the Latest Security News in the Industry? Want to always have the latest security news in the industry right in your inbox? Click the button below to subscribe. Subscribe Now From Fire Panel to Fire Service: Honeywell's CLSS Paves the Way for Faster, More Reliable Alarm Communication Inovonics to feature Inovonics Cloud Services software at ISC West, booth #3103 Investing Now Makes the Rest of the Year Less Taxing. Literally. WeSuite’s Tracy Larson Shares How Speed and Accuracy Grow Sales Organizations Categories Recent Archives Commercial Monitoring Residential Suppliers Cybersecurity General News Also Noted On The Editor's Desk Monitoring Matters 20 Under 40 Emerging Leaders Under 40 Fire Systems Installation News and Notes Women in Security This Blog's on Fire (And Other Stuff) 
+SecurityCEU.com launches Professional Alarm Contractor Education (PACE) program
+ 
+SIA announces winners of 2024 Denis R. Hébert Identity Management Scholarship
+ 
+Genetec updates FICAM, expands list of access control options for U.S. fed
+ 
+Brinks announces partnership success with Cresta
+ 
+AFS provides financing for multiple alarm company acquisitions
+ 
+HiveWatch, SAGE Integration announce partnership
+ 
+Pye-Barker Fire & Safety acquires Safety Plus
+ 
+ZeroEyes launches ZeroEyes One (ZEO)
+ 
+Cohesity issues 2024 Global Cyber Resilience Report
+ 
+LVT Integrates with Axon’s RTCC
+ 
+August 2024
+ 
+July 2024
+ 
+June 2024
+ 
+May 2024
+ 
+April 2024
+ 
+March 2024
+ 
+February 2024
+ 
+January 2024
+ 
+December 2023
+ 
+November 2023
+ 
+October 2023
+ 
+September 2023
+ 
+August 2023
+ 
+July 2023
+ 
+June 2023
+ 
+May 2023
+ 
+April 2023
+ 
+March 2023
+ 
+February 2023
+ 
+January 2023
+ 
+December 2022
+ 
+November 2022
+ 
+October 2022
+ 
+September 2022
+ 
+View all Archives
+ LenelS2 launches OnGuard Cloud Mission Critical Partners, Amazon collaborating to support 911 ‘The lingua franca of security teams is risk’- Welsh talks Lacework Edge 
+Privacy Policy
+                             |
+                            Sitemap |
+                            Terms
+                                of Use |
+                            Web
+                                Accessibility Guidelines
+ © 2024                            Security Systems News. All rights reserved. Web solutions provided by VGM Forbin Media Kit Advertise Advertiser Directory 
+Privacy
+                        Policy
+                     |
+                    Sitemap |
+                    Terms of
+                        Use |
+                    Web Accessibility
+                        Guidelines
+ © 2024                    Security Systems News. All rights reserved. Web solutions provided by VGM Forbin  Webcasts Microphone Icon Events Events Videos Video Icon Subscribe Now *  - Indicates required fields Password Requirements

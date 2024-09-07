@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.sfexaminer.com/lifestyles/health/idsa-intranasal-live-attenuated-covid-19-vaccine-induces-response/article_cec2312a-691e-5057-a64c-ff3e5c650cde.html

@@ -1,0 +1,1 @@
+429 Client Error: Too Many Requests for url: https://www.bakersfield.com/ap/news/redbird-capital-partners-and-blade-air-mobility-strengthen-partnership-to-leverage-redbird-s/article_4e2c684f-9e70-5e2b-9968-a548aedf7a7f.html
